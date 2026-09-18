@@ -1,43 +1,151 @@
 <!DOCTYPE html>
-<html lang="tr">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Oyun Veri Merkezi</title>
+    <title>Game Data Hub - Global Gaming News & Tech</title>
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #121212; color: #e0e0e0; margin: 0; padding: 20px; }
-        header { text-align: center; padding: 40px 0; background-color: #1f1f1f; border-bottom: 3px solid #00d2d3; margin-bottom: 30px; }
-        h1 { margin: 0; color: #00d2d3; letter-spacing: 2px; }
-        .container { max-width: 900px; margin: 0 auto; }
-        .news-card { background-color: #1e1e1e; padding: 20px; margin-bottom: 20px; border-radius: 8px; border-left: 4px solid #ff4757; transition: transform 0.2s; }
-        .news-card:hover { transform: translateY(-5px); box-shadow: 0 4px 15px rgba(0,0,0,0.3); }
-        .news-category { font-size: 0.8em; color: #ffa502; text-transform: uppercase; font-weight: bold; }
-        .news-title { font-size: 1.4em; margin: 10px 0; color: #ffffff; }
-        .news-date { font-size: 0.8em; color: #747d8c; margin-bottom: 15px; display: block; }
-        .read-more { color: #00d2d3; text-decoration: none; font-weight: bold; }
+        :root {
+            --bg-color: #121212;
+            --card-bg: #1e1e1e;
+            --accent-color: #00d2d3;
+            --text-color: #e0e0e0;
+            --text-muted: #747d8c;
+            --tag-color: #ffa502;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Header & Navigation */
+        header {
+            background-color: #1a1a1a;
+            border-bottom: 2px solid var(--accent-color);
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        .header-title {
+            margin: 0;
+            color: var(--accent-color);
+            letter-spacing: 2px;
+            font-size: 2em;
+        }
+
+        .header-subtitle {
+            color: var(--text-muted);
+            font-size: 0.9em;
+            margin-top: 5px;
+        }
+
+        nav {
+            background-color: #151515;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            padding: 12px 0;
+            border-bottom: 1px solid #2d2d2d;
+        }
+
+        nav a {
+            color: var(--text-color);
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.95em;
+            transition: color 0.2s;
+        }
+
+        nav a:hover {
+            color: var(--accent-color);
+        }
+
+        /* Main Feed Container */
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 0 20px;
+        }
+
+        .news-card {
+            background-color: var(--card-bg);
+            padding: 22px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            border-left: 4px solid var(--accent-color);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .news-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+        }
+
+        .news-category {
+            font-size: 0.75em;
+            color: var(--tag-color);
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 1px;
+        }
+
+        .news-title {
+            font-size: 1.35em;
+            margin: 8px 0;
+            color: #ffffff;
+        }
+
+        .news-date {
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-bottom: 12px;
+            display: block;
+        }
+
+        .read-more {
+            color: var(--accent-color);
+            text-decoration: none;
+            font-weight: bold;
+            display: inline-block;
+            margin-top: 10px;
+        }
+
+        .read-more:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
 
     <header>
-        <h1>🎮 OYUN VERİ MERKEZİ</h1>
-        <p>Otomatik Haber Agregatörü (Web Scraping Engine)</p>
+        <h1 class="header-title">🎮 GAME DATA HUB</h1>
+        <div class="header-subtitle">Automated Global News Aggregator & Tech Insights</div>
     </header>
 
+    <nav>
+        <a href="#">Latest News</a>
+        <a href="#">Reviews</a>
+        <a href="#">Hardware & Tech</a>
+        <a href="#">Esports</a>
+        <a href="#">API / Data Feed</a>
+    </nav>
+
     <div class="container" id="news-container">
-        <!-- Haberler buraya JavaScript ile JSON'dan otomatik yüklenecek -->
-        <p style="text-align: center; color: #747d8c;">Haberler yükleniyor...</p>
+        <p style="text-align: center; color: var(--text-muted);">Loading live feeds...</p>
     </div>
 
     <script>
-        // news.json dosyasını çekip siteye ekleyen asenkron fonksiyon
         async function fetchNews() {
             try {
                 const response = await fetch('news.json');
                 const newsData = await response.json();
                 
                 const container = document.getElementById('news-container');
-                container.innerHTML = ''; // Yükleniyor yazısını temizle
+                container.innerHTML = '';
 
                 newsData.forEach(item => {
                     const article = document.createElement('div');
@@ -47,17 +155,17 @@
                         <h2 class="news-title">${item.title}</h2>
                         <span class="news-date">${item.date}</span>
                         <p>${item.summary}</p>
-                        <a href="${item.link}" class="read-more">Devamını Oku &rarr;</a>
+                        <a href="${item.link}" class="read-more" target="_blank">Read Full Article &rarr;</a>
                     `;
                     container.appendChild(article);
                 });
             } catch (error) {
-                console.error("Haberler yüklenemedi:", error);
-                document.getElementById('news-container').innerHTML = '<p>Veri çekme hatası! Lütfen daha sonra tekrar deneyin.</p>';
+                console.error("Error fetching news:", error);
+                document.getElementById('news-container').innerHTML = 
+                    '<p style="text-align:center; color:#ff4757;">Failed to load news feed. Please try again later.</p>';
             }
         }
 
-        // Sayfa yüklendiğinde fonksiyonu çalıştır
         fetchNews();
     </script>
 </body>
