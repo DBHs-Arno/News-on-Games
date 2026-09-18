@@ -72,6 +72,24 @@
   },
   {
     "id": 5,
+    "title": "Despite controversial reviews and online mockery, Marvel's Wolverine looks to have sold 1.9m on PS5 - and over 1 in 5 sales are physical",
+    "source": "Eurogamer",
+    "summary": "Marvel's Wolverine has been in the hot seat over the last week or so, but mixed reviews and internet memes seemingly haven't put a dent in the superhero game's adamantium frame. A new report states the latest from Insomniac Games has already sold almost 2m copies, with more than a fifth coming from ...",
+    "date": "Fri, 18 Sep 2026 16:52:24 +0000",
+    "link": "https://www.eurogamer.net/marvel-wolverine-sales-ps5-physical-controversial-reviews",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
     "title": "Final Fantasy 7 Revelation will be \"around 200GB\" says game director, as he details Sephiroth and Vincent Valentine DLC plans",
     "source": "Eurogamer",
     "summary": "We're still about six months out from the release of Final Fantasy 7 Revelation, the final part of the FF7 Remake trilogy. But, already, there is a lot of discussion about the size of the game; whether it's all the divisive side activities on offer in the title, or the fact it won't be shipping tota...",
@@ -88,7 +106,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Bolstered by Switch 2 sales and Zelda: Ocarina of Time remake's reveal, Nintendo of America COO promises: \"This is just the beginning\"",
     "source": "Eurogamer",
     "summary": "Nintendo is having a pretty good time of it at the moment. Last year, we learned that the Switch 2 became the fastest selling video game hardware device in US history, usurping the PS4's golden record. Then, earlier this year, we learned that Switch 2 sales reached nearly 20m almost one year after r...",
@@ -100,13 +118,13 @@
       "badge": "success"
     },
     "tags": [
-      "Remake",
-      "Nintendo"
+      "Nintendo",
+      "Remake"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Rockstar hasn't said anything about a GTA 6 Online multiplayer mode just yet, but Twitch's CEO reckons it'll land next year",
     "source": "Eurogamer",
     "summary": "Rockstar has remained very tight-lipped about GTA 6's multiplayer component, the potential successor to GTA 5's incredibly popular Grand Theft Auto Online, not yet commenting on whether it will even launch one. All we know currently is that when Grand Theft Auto 6 arrives on 19th November, it'll onl...",
@@ -124,32 +142,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "Why do Japanese studios suffer fewer layoffs? Because they have smaller teams and don't pay their execs $30m, says one expert",
-    "source": "Eurogamer",
-    "summary": "It's been a pretty grim year for video games. Aside from the \"return of Xbox\" new CEO Asha Sharma promised awhen taking over, which enacted the announcement of 3,200 layoffs and four studio departures, we've also seen mass layoffs in other studios, too: Bungie, EA, PUBG Productions, Take-Two, Warner...",
-    "date": "Fri, 18 Sep 2026 09:08:43 +0000",
-    "link": "https://www.eurogamer.net/japan-game-development-layoffs-exec-money",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.12,
-      "badge": "danger"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 9,
-    "title": "35 Pokémon TCG Cards Everyone Wants From 30th Celebration",
+    "title": "Final Fantasy 14 Is Bringing Back a Fan-Favorite Crossover for the First Time in Over Two Years",
     "source": "Polygon",
-    "summary": "You get a Pikachu! And you get a Pikachu!",
-    "date": "Fri, 18 Sep 2026 16:30:15 GMT",
-    "link": "https://www.polygon.com/pokemon-tcg-30th-celebration-most-wanted-cards/",
+    "summary": "Final Fantasy 14 is bringing back its beloved Final Fantasy 15 event for a limited time",
+    "date": "Fri, 18 Sep 2026 18:01:23 GMT",
+    "link": "https://www.polygon.com/final-fantasy-14-15-crossover-event-nocturne-for-heroes/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.31,
+      "score": 0.11,
       "badge": "success"
     },
     "tags": [
@@ -160,31 +161,31 @@
   },
   {
     "id": 10,
-    "title": "The Best Multiplayer Pirate Game Is Free on Steam",
+    "title": "41 Wardogs tips the FPS game doesn't teach you",
     "source": "Polygon",
-    "summary": "Steam has made six games free to play for the weekend, including Diablo 4 and Sea of Thieves.",
-    "date": "Fri, 18 Sep 2026 16:24:09 GMT",
-    "link": "https://www.polygon.com/steam-games-free-to-play-weekend-sea-of-thieves-diablo-4/",
+    "summary": "A complete beginners guide with 41 Wardogs tips every soldier needs to know.",
+    "date": "Fri, 18 Sep 2026 17:58:04 GMT",
+    "link": "https://www.polygon.com/wardogs-tips-tricks-beginners-guide/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.35,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
     },
     "tags": [
-      "Steam"
+      "FPS"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Magic: The Gathering Artist Officially Responds to Artist Allegations of",
+    "title": "Matthew Mercer Officially Reveals His 8 Greatest Critical Role Moments of All Time",
     "source": "Polygon",
-    "summary": "Wizards says Volkan Baga was instructed to reference Liiga Smilshkalne’s Breach the Multiverse in his artwork for a new Jace card.",
-    "date": "Fri, 18 Sep 2026 15:58:07 GMT",
-    "link": "https://www.polygon.com/mtg-jace-multiverse-architect-breach-the-multiverse-art-controversy/",
+    "summary": "Everyone has their favorite moments in Critical Role, but what about the Dungeon Master who makes the magic happen? Matthew Mercer reveals all.",
+    "date": "Fri, 18 Sep 2026 17:29:45 GMT",
+    "link": "https://www.polygon.com/matthew-mercer-best-critical-role-moments/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.32,
+      "score": 0.4,
       "badge": "success"
     },
     "tags": [
@@ -195,14 +196,14 @@
   },
   {
     "id": 12,
-    "title": "Lanterns Forced Another HBO Show to Change Its Plot, and It Was for the Best",
+    "title": "'Wolverine' Is Sony’s Bestselling Game of 2026, Despite Massive Criticism",
     "source": "Polygon",
-    "summary": "HBO's Lanterns told Big Bang Theory spinoff Stuart Fails to Save the Universe it couldn't use the character, so it got the Flash instead",
-    "date": "Fri, 18 Sep 2026 15:34:59 GMT",
-    "link": "https://www.polygon.com/lanterns-stuart-fails-to-save-the-universe-flash-episode/",
+    "summary": "'Wolverine' has reportedly sold nearly 2 million copies so far, making it Sony's bestselling new game on PS5 this year.",
+    "date": "Fri, 18 Sep 2026 17:13:21 GMT",
+    "link": "https://www.polygon.com/wolverine-sales-2-million-criticism-controversy/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.05,
+      "score": -0.08,
       "badge": "info"
     },
     "tags": [
@@ -213,6 +214,24 @@
   },
   {
     "id": 13,
+    "title": "I have modded the most exciting thing possible into GTA 5: Hard and soft credit checks and realistic personal finance",
+    "source": "PC Gamer",
+    "summary": "Money talk, wealth shoots.",
+    "date": "Fri, 18 Sep 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
     "title": "I just learned there's a camera that proves its photos are taken by a human, and Noctua makes the fan inside it",
     "source": "PC Gamer",
     "summary": "And now you know, too. You're welcome.",
@@ -230,7 +249,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "Control Resonant is one of the best-looking games at low graphics settings I've ever seen",
     "source": "PC Gamer",
     "summary": "Not bad, Remedy. Not bad.",
@@ -247,7 +266,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "Unbiased Monster Hunter producer predicts one weapon will climb the popularity rankings in Ascendance, has no agenda: 'Hammer should definitely go up a place or two'",
     "source": "PC Gamer",
     "summary": "My man.",
@@ -265,52 +284,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "After 894 hours in Slay the Spire 2, these are our 12 strongest opinions",
-    "source": "PC Gamer",
-    "summary": "Our three editors have hundreds of runs in Slay the Spire 2. These are their verdicts after 6 months with the game.",
-    "date": "Fri, 18 Sep 2026 14:17:30 +0000",
-    "link": "https://www.pcgamer.com/games/card-games/slay-the-spire-2-opinions/",
+    "id": 17,
+    "title": "Final Fantasy 7 Revelation Could Take 100 Hours To Beat, And Its Director Has Done It 46 Times",
+    "source": "GameSpot",
+    "summary": "Final Fantasy 7 Revelation is shaping up to be the biggest entry in the remake trilogy by a considerable margin, as game director Naoki Hamaguchi estimates that a complete playthrough of everything that the game has to offer could take up to 100 hours. That includes the campaign, side activities, an...",
+    "date": "Fri, 18 Sep 2026 17:33:41 +0000",
+    "link": "https://www.gamespot.com/articles/final-fantasy-7-revelation-could-take-100-hours-to-beat-and-its-director-has-done-it-46-times/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.4,
+      "score": -0.1,
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "A Lot Of People Are Seemingly Taking Time Off Work To Play GTA 6. Are You?",
-    "source": "GameSpot",
-    "summary": "BambooHR, a human resources company that provides software-as-a-service  for more than 30,000 companies, has released data that suggests people are taking time off to play GTA 6 this November. \nYou might have seen anecdotes online, or even stories from people you know in real life, about skipping wo...",
-    "date": "Fri, 18 Sep 2026 16:01:31 +0000",
-    "link": "https://www.gamespot.com/articles/a-lot-of-people-are-seemingly-taking-time-off-work-to-play-gta-6-are-you/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.23,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "Remake"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 18,
-    "title": "Nintendo Says We’re Still At The Beginning Of The Switch 2 Story",
+    "title": "People Can’t Stop Talking About Mario’s New Tiny Pockets",
     "source": "GameSpot",
-    "summary": "The Switch 2 is a little over a year old, and unsurprisingly, Nintendo says that its console is just getting started. In a new interview, Nintendo of America president and COO Devon Pritchard teased a multiyear plan for the company, revolving not only around producing video games but also expanding ...",
-    "date": "Fri, 18 Sep 2026 15:10:59 +0000",
-    "link": "https://www.gamespot.com/articles/nintendo-says-were-still-at-the-beginning-of-the-switch-2-story/",
+    "summary": "Nintendo recently held two Direct presentations back to back, with fans hoping that the company would reveal a new Mario game of some kind. While that didn't happen, what we did get was the reveal that Mario Kart World is getting some new tracks. Now, though, it seems the company has some more Mario...",
+    "date": "Fri, 18 Sep 2026 17:05:12 +0000",
+    "link": "https://www.gamespot.com/articles/people-cant-stop-talking-about-marios-new-tiny-pockets/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
     },
     "tags": [
       "Nintendo"
@@ -319,31 +319,31 @@
   },
   {
     "id": 19,
-    "title": "Sony Says Free TV On PS5 Is “One Plus One Equaling A Lot More Than Two”",
+    "title": "Sony’s Iconic PS4 Game-Sharing Meme Has Been Recreated To Capture Our Depressing Future",
     "source": "GameSpot",
-    "summary": "Sony recently launched \"Live TV on PS5,\" an offering that gives all PlayStation 5 owners access to 100+ channels of free ad-supported TV and movies. Keith Le Goy, the chairman of Sony Pictures TV, recently discussed the reasoning behind launching the service and why he believes it represents \"one pl...",
-    "date": "Fri, 18 Sep 2026 14:43:44 +0000",
-    "link": "https://www.gamespot.com/articles/sony-says-free-tv-on-ps5-is-one-plus-one-equaling-a-lot-more-than-two/",
+    "summary": "Thirteen years ago, Sony \"won\" E3 with a simple public service announcement that dunked on Microsoft's controversial Xbox One DRM plans. All it took was 22 seconds for Sony's Shuhei Yoshida and Adam Boyes to show how game sharing would work on the PS4, resulting in a huge PR win for the company. Fas...",
+    "date": "Fri, 18 Sep 2026 16:34:11 +0000",
+    "link": "https://www.gamespot.com/articles/sony-iconic-ps4-game-sharing-meme-has-been-recreated-to-capture-our-depressing-future/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.15,
+      "score": 0.14,
       "badge": "success"
     },
     "tags": [
-      "PlayStation"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "Blacksmiths Discover Control Resonant’s Massive Hammer Is Simply Too Much Hammer",
+    "title": "A Lot Of People Are Seemingly Taking Time Off Work To Play GTA 6. Are You?",
     "source": "GameSpot",
-    "summary": "The best tool you can own in life is a hammer, and in Control Resonant, fixing Manhattan requires a VERY big one to perform some percussive maintenance. The Aberrant is the melee weapon that you'll wield in battle, and while it can take a variety of forms, it looks especially satisfying to morph it ...",
-    "date": "Fri, 18 Sep 2026 13:58:45 +0000",
-    "link": "https://www.gamespot.com/articles/blacksmiths-discover-control-resonant-massive-hammer-is-simply-too-much-hammer/",
+    "summary": "BambooHR, a human resources company that provides software-as-a-service  for more than 30,000 companies, has released data that suggests people are taking time off to play GTA 6 this November. \nYou might have seen anecdotes online, or even stories from people you know in real life, about skipping wo...",
+    "date": "Fri, 18 Sep 2026 16:01:31 +0000",
+    "link": "https://www.gamespot.com/articles/a-lot-of-people-are-seemingly-taking-time-off-work-to-play-gta-6-are-you/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.4,
+      "score": 0.23,
       "badge": "success"
     },
     "tags": [
