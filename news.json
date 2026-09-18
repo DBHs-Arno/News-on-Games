@@ -100,8 +100,8 @@
       "badge": "success"
     },
     "tags": [
-      "Nintendo",
-      "Remake"
+      "Remake",
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
@@ -142,6 +142,59 @@
   },
   {
     "id": 9,
+    "title": "35 Pokémon TCG Cards Everyone Wants From 30th Celebration",
+    "source": "Polygon",
+    "summary": "You get a Pikachu! And you get a Pikachu!",
+    "date": "Fri, 18 Sep 2026 16:30:15 GMT",
+    "link": "https://www.polygon.com/pokemon-tcg-30th-celebration-most-wanted-cards/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.31,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "The Best Multiplayer Pirate Game Is Free on Steam",
+    "source": "Polygon",
+    "summary": "Steam has made six games free to play for the weekend, including Diablo 4 and Sea of Thieves.",
+    "date": "Fri, 18 Sep 2026 16:24:09 GMT",
+    "link": "https://www.polygon.com/steam-games-free-to-play-weekend-sea-of-thieves-diablo-4/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.35,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "Magic: The Gathering Artist Officially Responds to Artist Allegations of",
+    "source": "Polygon",
+    "summary": "Wizards says Volkan Baga was instructed to reference Liiga Smilshkalne’s Breach the Multiverse in his artwork for a new Jace card.",
+    "date": "Fri, 18 Sep 2026 15:58:07 GMT",
+    "link": "https://www.polygon.com/mtg-jace-multiverse-architect-breach-the-multiverse-art-controversy/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.32,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
     "title": "Lanterns Forced Another HBO Show to Change Its Plot, and It Was for the Best",
     "source": "Polygon",
     "summary": "HBO's Lanterns told Big Bang Theory spinoff Stuart Fails to Save the Universe it couldn't use the character, so it got the Flash instead",
@@ -159,50 +212,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "Final Fantasy 7 Revelation Director Reveals Why the Game Won't Have a Full Physical Release",
-    "source": "Polygon",
-    "summary": "Hamaguchi has revealed Final Fantasy 7 Revelation's estimated file size, and it turns out that it would've been too big for a two-disc release.",
-    "date": "Fri, 18 Sep 2026 15:22:31 GMT",
-    "link": "https://www.polygon.com/final-fantasy-7-revelation-hamaguchi-file-size/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "6 Upcoming Steam Games That You Should Wishlist Today",
-    "source": "Polygon",
-    "summary": "Between a busy few weeks for new game announcements, these upcoming PC games deserve a spot on your wishlist.",
-    "date": "Fri, 18 Sep 2026 15:00:15 GMT",
-    "link": "https://www.polygon.com/wishlister-gamescom-september-18/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Zack Snyder Confirms a Major Detail About His 'Escape From New York' Reboot",
-    "source": "Polygon",
-    "summary": "Zack Snyder gave the first plot details on his next film, an 'Escape from New York' reboot.",
-    "date": "Fri, 18 Sep 2026 14:51:32 GMT",
-    "link": "https://www.polygon.com/zack-snyder-next-film-escape-from-new-york-details/",
+    "id": 13,
+    "title": "I just learned there's a camera that proves its photos are taken by a human, and Noctua makes the fan inside it",
+    "source": "PC Gamer",
+    "summary": "And now you know, too. You're welcome.",
+    "date": "Fri, 18 Sep 2026 16:05:46 +0000",
+    "link": "https://www.pcgamer.com/hardware/i-just-learned-theres-a-camera-that-proves-its-photos-are-taken-by-a-human-and-noctua-makes-the-fan-inside-it/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.12,
+      "score": 0.37,
       "badge": "success"
     },
     "tags": [
@@ -212,7 +230,24 @@
     "read_time": "1 min read"
   },
   {
-    "id": 13,
+    "id": 14,
+    "title": "Control Resonant is one of the best-looking games at low graphics settings I've ever seen",
+    "source": "PC Gamer",
+    "summary": "Not bad, Remedy. Not bad.",
+    "date": "Fri, 18 Sep 2026 16:01:50 +0000",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/control-resonant-is-one-of-the-best-looking-games-at-low-graphics-settings-ive-ever-seen/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.23,
+      "badge": "success"
+    },
+    "tags": [
+      "Graphics"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
     "title": "Unbiased Monster Hunter producer predicts one weapon will climb the popularity rankings in Ascendance, has no agenda: 'Hammer should definitely go up a place or two'",
     "source": "PC Gamer",
     "summary": "My man.",
@@ -230,7 +265,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "After 894 hours in Slay the Spire 2, these are our 12 strongest opinions",
     "source": "PC Gamer",
     "summary": "Our three editors have hundreds of runs in Slay the Spire 2. These are their verdicts after 6 months with the game.",
@@ -248,51 +283,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "Gears of War: E-Day system requirements require ray tracing-capable graphics card to play, alongside 115 GB of free space on an SSD",
-    "source": "PC Gamer",
-    "summary": "The game's minimum requirements are pretty forgiving.",
-    "date": "Fri, 18 Sep 2026 13:46:09 +0000",
-    "link": "https://www.pcgamer.com/games/action/gears-of-war-e-day-system-requirements-require-ray-tracing-capable-graphics-card-to-play-alongside-115-gb-of-free-space-on-an-ssd/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "Graphics",
-      "Ray Tracing"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Don't bother turning Control Resonant up to the maximum for mind-bending graphics, there's both performance and beauty in the lower graphics presets too",
-    "source": "PC Gamer",
-    "summary": "There are sweet spots to be found, though—particularly if you adjust the ray tracing.",
-    "date": "Fri, 18 Sep 2026 13:01:00 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/dont-bother-turning-control-resonant-up-to-the-maximum-for-mind-bending-graphics-theres-both-performance-and-beauty-in-the-lower-graphics-presets-too/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.35,
-      "badge": "success"
-    },
-    "tags": [
-      "Graphics",
-      "Ray Tracing"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 17,
-    "title": "Wo Long 2’s Demo Revives My Greatest Nightmare",
+    "title": "A Lot Of People Are Seemingly Taking Time Off Work To Play GTA 6. Are You?",
     "source": "GameSpot",
-    "summary": "Everyone has that one boss fight they hate. Malenia in Elden Ring. Sephiroth in Kingdom Hearts. Shao Khan in Mortal Kombat. Ultimecia in Final Fantasy VIII. Plenty of big-bads strike fear in the hearts of even the most hardened gamers, and while many send shivers down my spine, there's one I was gla...",
-    "date": "Fri, 18 Sep 2026 15:40:35 +0000",
-    "link": "https://www.gamespot.com/articles/wo-long-2s-demo-revives-my-greatest-nightmare/",
+    "summary": "BambooHR, a human resources company that provides software-as-a-service  for more than 30,000 companies, has released data that suggests people are taking time off to play GTA 6 this November. \nYou might have seen anecdotes online, or even stories from people you know in real life, about skipping wo...",
+    "date": "Fri, 18 Sep 2026 16:01:31 +0000",
+    "link": "https://www.gamespot.com/articles/a-lot-of-people-are-seemingly-taking-time-off-work-to-play-gta-6-are-you/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.14,
+      "score": 0.23,
       "badge": "success"
     },
     "tags": [
