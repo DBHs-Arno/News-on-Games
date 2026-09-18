@@ -1,0 +1,16 @@
+{
+  "last_updated": "2026-09-18 15:54 UTC",
+  "total_articles": 20,
+  "sources_breakdown": {
+    "IGN": 4,
+    "Eurogamer": 4,
+    "Polygon": 4,
+    "PC Gamer": 4,
+    "GameSpot": 4
+  },
+  "sentiment_distribution": {
+    "Positive / Hype": 9,
+    "Neutral / Informative": 7,
+    "Critical / Mixed": 4
+  }
+}
