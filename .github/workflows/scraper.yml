@@ -30,9 +30,9 @@ jobs:
       - name: Execute Scraper Bot
         run: python scraper.py
 
-      - name: Commit and Push Updated news.json and feed.xml
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add news.json feed.xml
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update gaming news feed & RSS [skip ci]" && git push)
+      - name: Commit and Push Updated Data
+    run: |
+      git config --global user.name "github-actions[bot]"
+      git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      git add news.json analytics.json feed.xml
+      git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update data feed & NLP analytics [skip ci]" && git push)
