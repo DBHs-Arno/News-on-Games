@@ -2,12 +2,11 @@ name: Gaming News Scraper Pipeline
 
 on:
   schedule:
-    # Her 6 saatte bir otomatik çalışır (00:00, 06:00, 12:00, 18:00 UTC)
     - cron: '0 */6 * * *'
-  workflow_dispatch: # Actions sekmesinden manuel tetikleme butonunu aktif eder
+  workflow_dispatch:
 
 permissions:
-  contents: write # Botun news.json ve feed.xml dosyalarını depoya yazabilmesi için gerekli izin
+  contents: write
 
 jobs:
   scrape-and-update:
@@ -31,8 +30,8 @@ jobs:
         run: python scraper.py
 
       - name: Commit and Push Updated Data
-    run: |
-      git config --global user.name "github-actions[bot]"
-      git config --global user.email "github-actions[bot]@users.noreply.github.com"
-      git add news.json analytics.json feed.xml
-      git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update data feed & NLP analytics [skip ci]" && git push)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add news.json analytics.json feed.xml
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update data feed & NLP analytics [skip ci]" && git push)
