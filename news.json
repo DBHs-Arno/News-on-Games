@@ -1,6 +1,42 @@
 [
   {
     "id": 1,
+    "title": "IGN's Top-Reviewed Horror Movies of 2026",
+    "source": "IGN",
+    "summary": "2026 has been a particularly strong year for horror, but some scares stand out from the pack. These are IGN's picks for the 10 best horror movies of the year so far.",
+    "date": "Sat, 19 Sep 2026 15:35:00 +0000",
+    "link": "https://www.ign.com/articles/best-reviewed-horror-movies-2026",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.51,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "The Blood of Dawnwalker Modders Aren’t Missing the Point – They Just Love the Game",
+    "source": "IGN",
+    "summary": "Modders are extending The Blood of Dawnwalker's 30-day time limit to allow more time to complete every questline. But while this goes against the developer's vision, it shouldn't be seen as vandalism.",
+    "date": "Sat, 19 Sep 2026 14:00:00 +0000",
+    "link": "https://www.ign.com/articles/the-blood-of-dawnwalker-modders-arent-missing-the-point-they-just-love-the-game",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
     "title": "As Fans Flood the World of Warcraft: Forever Beta, Dev Says It's Putting Up 'The Craziest Numbers I've Seen in 17 Years Working at Blizzard'",
     "source": "IGN",
     "summary": "World of Warcraft: Forever looks like it could be a smash hit after the launch of the beta was overrun with eager fans, surprising even Blizzard itself.",
@@ -12,13 +48,13 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "Marvel's Wolverine Developer Nerfs Scent Trails and Audio Sense Indicators After 'Fart Gas' Backlash",
     "source": "IGN",
     "summary": "Insomniac has released an update for Marvel’s Wolverine that nerfs the “fart gas” that had become such a talking point even before the game’s release.",
@@ -30,44 +66,8 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Lollipop Chainsaw Live-Action Movie Revealed by Dragami Games",
-    "source": "IGN",
-    "summary": "A live-action Lollipop Chainsaw movie is officially in the works, developer Dragami Games has announced.",
-    "date": "Sat, 19 Sep 2026 06:04:53 +0000",
-    "link": "https://www.ign.com/articles/lollipop-chainsaw-live-action-movie-revealed-by-dragami-games",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Resident Evil Fans 'Will Feel Seen' After the Movie, Says Director Zach Cregger",
-    "source": "IGN",
-    "summary": "Resident Evil director Zach Cregger and star Austin Abrams sit down to delve into how they revived the beloved horror franchise on the big screen.",
-    "date": "Sat, 19 Sep 2026 01:33:42 +0000",
-    "link": "https://www.ign.com/articles/resident-evil-fans-will-feel-seen-after-the-movie-says-director-zach-cregger",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.29,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -101,8 +101,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -119,8 +119,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -143,121 +143,85 @@
   },
   {
     "id": 9,
-    "title": "Batman Producers Reveal Warner Bros. Told Them to Burn a Criminal's Face Off",
+    "title": "Maitreyi Ramakrishnan Will Destroy You at Super Smash Bros.",
     "source": "Polygon",
-    "summary": "\"Everything was pushed to the extreme\"",
-    "date": "Sat, 19 Sep 2026 12:00:16 GMT",
-    "link": "https://www.polygon.com/batman-knightfall-producers-interview/",
+    "summary": "The star of Netflix's Never Have I Ever and Best of the Best opens up about her love of all things Nintendo on the latest episode of Shelf Quest",
+    "date": "Sat, 19 Sep 2026 18:00:15 GMT",
+    "link": "https://www.polygon.com/maitreyi-ramakrishnan-shelf-quest/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.26,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.52,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Crunchyroll’s Detective Series With a 93% RT Score Is About to Have Its ‘Biggest Year Yet’",
+    "title": "How Zach Cregger Pulled Off Resident Evil’s Most Disgusting Scenes",
     "source": "Polygon",
-    "summary": "The Apothecary Diaries producer Takao Iwata discusses Season 3, Maomao and Jinshi’s evolving relationship, and the series’ new canonical movie.",
-    "date": "Sat, 19 Sep 2026 11:38:14 GMT",
-    "link": "https://www.polygon.com/apothecary-diaries-season-3-movie-producer-interview/",
+    "summary": "Making the horror movie involved 50 gallons of fake blood and a lot of cleanup",
+    "date": "Sat, 19 Sep 2026 17:00:17 GMT",
+    "link": "https://www.polygon.com/resident-evil-behind-the-scenes/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.5,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Every Star Wars Zero Company Hero, Ranked From Worst to Best",
+    "title": "The Sims 4's Next Update Will Make Your Sims Act a Lot More Naturally",
     "source": "Polygon",
-    "summary": "Star Wars Zero Company, the new tactical game set in the Clone Wars era, features a unique cast of heroes. Let's rank them.",
-    "date": "Sat, 19 Sep 2026 09:00:14 GMT",
-    "link": "https://www.polygon.com/star-wars-zero-company-characters-ranked/",
+    "summary": "The Sims Team continues to work towards its goal of improving autonomy and making Sims act more realistically in The Sims 4.",
+    "date": "Sat, 19 Sep 2026 16:50:36 GMT",
+    "link": "https://www.polygon.com/the-sims-4-autonomy-gallery-fix-update-september-2026/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.11,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.28,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "The 9 Best Anime You Can Stream on HBO Max",
+    "title": "Star Wars Zero Company Unofficially Gets A Real Endgame",
     "source": "Polygon",
-    "summary": "You can watch these after going through HBO Max's Studio Ghibli catalogue.",
-    "date": "Sat, 19 Sep 2026 08:00:14 GMT",
-    "link": "https://www.polygon.com/best-anime-to-stream-on-hbo-max/",
+    "summary": "The Aftermath mod for Star Wars Zero Company gives the strategy game the endgame it's sorely missing",
+    "date": "Sat, 19 Sep 2026 16:16:58 GMT",
+    "link": "https://www.polygon.com/star-wars-zero-company-aftermath-dlc-mod-endgame/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 1.0,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.05,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "CD Projekt says abandoning its in-house engine for The Witcher 4 had nothing to do with Cyberpunk 2077's technical woes: 'The dream of the company was actually never to make technology'",
+    "title": "'The largest theft of labor in human history:' Court docs reveal Microsoft exec predicted AI 'doom loops' could hollow out the internet",
     "source": "PC Gamer",
-    "summary": "\"The issue with Cyberpunk was not really REDengine itself.\"",
-    "date": "Sat, 19 Sep 2026 11:21:27 +0000",
-    "link": "https://www.pcgamer.com/games/the-witcher/cd-projekt-says-abandoning-its-in-house-engine-for-the-witcher-4-had-nothing-to-do-with-cyberpunk-2077s-technical-woes-the-dream-of-the-company-was-actually-never-to-make-technology/",
+    "summary": "Copilot's answer engine allegedly caused the New York Times' click-through rate to plummet by figures up to 93%.",
+    "date": "Sat, 19 Sep 2026 15:59:49 +0000",
+    "link": "https://www.pcgamer.com/software/ai/the-largest-theft-of-labor-in-human-history-court-docs-reveal-microsoft-exec-predicted-ai-doom-loops-could-hollow-out-the-internet/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Cyberpunk"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Dune Awakening now has a solo mode for players put off by its MMO leanings, while Funcom has adjusted progression so 'you don't have to lose things anymore'",
-    "source": "PC Gamer",
-    "summary": "Friction? Who needs it?",
-    "date": "Sat, 19 Sep 2026 10:09:00 +0000",
-    "link": "https://www.pcgamer.com/games/survival-crafting/dune-awakening-now-has-a-solo-mode-for-players-put-off-by-its-mmo-leanings-while-funcom-has-adjusted-progression-so-you-dont-have-to-lose-things-anymore/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical",
-    "source": "PC Gamer",
-    "summary": "Welcome to the Smile Economy 🙂.",
-    "date": "Fri, 18 Sep 2026 22:51:54 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
+      "score": -0.02,
       "badge": "info"
     },
     "tags": [
@@ -266,20 +230,55 @@
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "The Last of Us game director apologizes for God of War Laufey criticism, points finger at industry leaders for triple-A stagnation",
+    "id": 14,
+    "title": "I played the adventure game so scandalous that it was physically destroyed by UK customs",
     "source": "PC Gamer",
-    "summary": "\"I want to apologize to the Laufey team for dragging you all into this uninvited & unnecessary negative attention,\" he said.",
-    "date": "Fri, 18 Sep 2026 22:18:52 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/the-last-of-us-game-director-apologizes-for-god-of-war-laufey-criticism-points-finger-at-industry-leaders-for-triple-a-stagnation/",
+    "summary": "What vile debauchery could lie within Sex Vixens from Space?",
+    "date": "Sat, 19 Sep 2026 14:56:26 +0000",
+    "link": "https://www.pcgamer.com/games/adventure/i-played-the-adventure-game-so-scandalous-that-it-was-physically-destroyed-by-uk-customs/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.28,
+      "score": -0.2,
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "World of Warcraft: Forever's convinced me that we lost too much to modern MMO quest design",
+    "source": "PC Gamer",
+    "summary": "Reject three-quest conformity, embrace friction.",
+    "date": "Sat, 19 Sep 2026 14:50:00 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-convinced-me-that-we-lost-too-much-to-modern-mmo-quest-design/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "It rules that a 27-year-old RPG, one of the greatest of all time, is still getting patches",
+    "source": "PC Gamer",
+    "summary": "I wish all games worked like this.",
+    "date": "Sat, 19 Sep 2026 14:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/it-rules-that-a-27-year-old-rpg-one-of-the-greatest-of-all-time-is-still-getting-patches/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 1.0,
+      "badge": "success"
+    },
+    "tags": [
+      "RPG"
     ],
     "read_time": "1 min read"
   },
@@ -296,8 +295,8 @@
       "badge": "danger"
     },
     "tags": [
-      "RPG",
-      "AI"
+      "AI",
+      "RPG"
     ],
     "read_time": "1 min read"
   },
@@ -314,8 +313,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -332,9 +331,9 @@
       "badge": "info"
     },
     "tags": [
+      "PlayStation",
       "Nintendo",
-      "Xbox",
-      "PlayStation"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
@@ -351,8 +350,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
