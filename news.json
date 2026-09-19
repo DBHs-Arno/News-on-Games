@@ -1,6 +1,60 @@
 [
   {
     "id": 1,
+    "title": "As Fans Flood the World of Warcraft: Forever Beta, Dev Says It's Putting Up 'The Craziest Numbers I've Seen in 17 Years Working at Blizzard'",
+    "source": "IGN",
+    "summary": "World of Warcraft: Forever looks like it could be a smash hit after the launch of the beta was overrun with eager fans, surprising even Blizzard itself.",
+    "date": "Sat, 19 Sep 2026 08:19:37 +0000",
+    "link": "https://www.ign.com/articles/as-fans-flood-the-world-of-warcraft-forever-beta-dev-says-its-putting-up-the-craziest-numbers-ive-seen-in-17-years-working-at-blizzard",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.7,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Marvel's Wolverine Developer Nerfs Scent Trails and Audio Sense Indicators After 'Fart Gas' Backlash",
+    "source": "IGN",
+    "summary": "Insomniac has released an update for Marvel’s Wolverine that nerfs the “fart gas” that had become such a talking point even before the game’s release.",
+    "date": "Sat, 19 Sep 2026 07:23:42 +0000",
+    "link": "https://www.ign.com/articles/marvels-wolverine-developer-nerfs-scent-trails-and-audio-sense-indicators-after-fart-gas-backlash",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "Lollipop Chainsaw Live-Action Movie Revealed by Dragami Games",
+    "source": "IGN",
+    "summary": "A live-action Lollipop Chainsaw movie is officially in the works, developer Dragami Games has announced.",
+    "date": "Sat, 19 Sep 2026 06:04:53 +0000",
+    "link": "https://www.ign.com/articles/lollipop-chainsaw-live-action-movie-revealed-by-dragami-games",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
     "title": "Resident Evil Fans 'Will Feel Seen' After the Movie, Says Director Zach Cregger",
     "source": "IGN",
     "summary": "Resident Evil director Zach Cregger and star Austin Abrams sit down to delve into how they revived the beloved horror franchise on the big screen.",
@@ -12,62 +66,8 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "We Ranked the 10 Best First Partner Pokémon TCG Cards of All Time",
-    "source": "IGN",
-    "summary": "We ranked the 10 best First Partner Pokémon TCG cards of all time, featuring $4,500 vintage grails, iconic Charizard classics, and budget-friendly picks.",
-    "date": "Sat, 19 Sep 2026 01:00:00 +0000",
-    "link": "https://www.ign.com/articles/best-first-partner-pokemon-tcg-cards",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.6,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "EA Sports FC 27 Review So Far",
-    "source": "IGN",
-    "summary": "EA Sports stands on shaky ground with a new open-world hub, but the realistic, intuitive Tactics system shows promise.",
-    "date": "Sat, 19 Sep 2026 00:45:24 +0000",
-    "link": "https://www.ign.com/articles/ea-sports-fc-27-review-so-far",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "The SteelSeries Arctis Nova Pro Omni Gaming Headset Drops to the Lowest Price Ever at Amazon Resale",
-    "source": "IGN",
-    "summary": "A wireless gaming headset with infinite battery life.",
-    "date": "Fri, 18 Sep 2026 23:50:00 +0000",
-    "link": "https://www.ign.com/articles/steelseries-arctis-nova-pro-omni-gaming-headset-deal-september-2026-2",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -101,8 +101,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -119,8 +119,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -143,78 +143,113 @@
   },
   {
     "id": 9,
-    "title": "39 Years Later, the Most Important Sci-Fi Series of the '80s Is Officially Free on Stream",
+    "title": "Batman Producers Reveal Warner Bros. Told Them to Burn a Criminal's Face Off",
     "source": "Polygon",
-    "summary": "The Next Generation proved Star Trek could thrive without Kirk and Spock, creating a blueprint the franchise still follows today.",
-    "date": "Sat, 19 Sep 2026 06:00:14 GMT",
-    "link": "https://www.polygon.com/star-trek-next-generation-streaming-free/",
+    "summary": "\"Everything was pushed to the extreme\"",
+    "date": "Sat, 19 Sep 2026 12:00:16 GMT",
+    "link": "https://www.polygon.com/batman-knightfall-producers-interview/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.26,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.26,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "5 Near-Perfect Psychological Thriller Movies Streaming for Free",
+    "title": "Crunchyroll’s Detective Series With a 93% RT Score Is About to Have Its ‘Biggest Year Yet’",
     "source": "Polygon",
-    "summary": "These tense genre picks are well worth your time.",
-    "date": "Sat, 19 Sep 2026 05:01:14 GMT",
-    "link": "https://www.polygon.com/best-psychological-thriller-movies-free-streaming/",
+    "summary": "The Apothecary Diaries producer Takao Iwata discusses Season 3, Maomao and Jinshi’s evolving relationship, and the series’ new canonical movie.",
+    "date": "Sat, 19 Sep 2026 11:38:14 GMT",
+    "link": "https://www.polygon.com/apothecary-diaries-season-3-movie-producer-interview/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "31 Years Later, the Final 'Calvin and Hobbes' Comic Strip is Still a Perfect Sendoff",
+    "title": "Every Star Wars Zero Company Hero, Ranked From Worst to Best",
     "source": "Polygon",
-    "summary": "Back in 1995, catoonist Bill Watterson brought Calvin and Hobbes to a perfect conclusion",
-    "date": "Sat, 19 Sep 2026 04:00:20 GMT",
-    "link": "https://www.polygon.com/calvin-and-hobbes-last-comic-strip-lets-go-exploring/",
+    "summary": "Star Wars Zero Company, the new tactical game set in the Clone Wars era, features a unique cast of heroes. Let's rank them.",
+    "date": "Sat, 19 Sep 2026 09:00:14 GMT",
+    "link": "https://www.polygon.com/star-wars-zero-company-characters-ranked/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.38,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.11,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "3 Netflix Shows You Need to Binge This Weekend (Sept. 18-20)",
+    "title": "The 9 Best Anime You Can Stream on HBO Max",
     "source": "Polygon",
-    "summary": "Go deep on classic sci-fi, epic anime, and a hidden Netflix gem.",
-    "date": "Sat, 19 Sep 2026 03:53:15 GMT",
-    "link": "https://www.polygon.com/netflix-weekend-binge-september-2026-shows/",
+    "summary": "You can watch these after going through HBO Max's Studio Ghibli catalogue.",
+    "date": "Sat, 19 Sep 2026 08:00:14 GMT",
+    "link": "https://www.polygon.com/best-anime-to-stream-on-hbo-max/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 1.0,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
+    "title": "CD Projekt says abandoning its in-house engine for The Witcher 4 had nothing to do with Cyberpunk 2077's technical woes: 'The dream of the company was actually never to make technology'",
+    "source": "PC Gamer",
+    "summary": "\"The issue with Cyberpunk was not really REDengine itself.\"",
+    "date": "Sat, 19 Sep 2026 11:21:27 +0000",
+    "link": "https://www.pcgamer.com/games/the-witcher/cd-projekt-says-abandoning-its-in-house-engine-for-the-witcher-4-had-nothing-to-do-with-cyberpunk-2077s-technical-woes-the-dream-of-the-company-was-actually-never-to-make-technology/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "Cyberpunk"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Dune Awakening now has a solo mode for players put off by its MMO leanings, while Funcom has adjusted progression so 'you don't have to lose things anymore'",
+    "source": "PC Gamer",
+    "summary": "Friction? Who needs it?",
+    "date": "Sat, 19 Sep 2026 10:09:00 +0000",
+    "link": "https://www.pcgamer.com/games/survival-crafting/dune-awakening-now-has-a-solo-mode-for-players-put-off-by-its-mmo-leanings-while-funcom-has-adjusted-progression-so-you-dont-have-to-lose-things-anymore/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
     "title": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical",
     "source": "PC Gamer",
     "summary": "Welcome to the Smile Economy 🙂.",
@@ -231,7 +266,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "The Last of Us game director apologizes for God of War Laufey criticism, points finger at industry leaders for triple-A stagnation",
     "source": "PC Gamer",
     "summary": "\"I want to apologize to the Laufey team for dragging you all into this uninvited & unnecessary negative attention,\" he said.",
@@ -243,44 +278,8 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "The Resident Evil film should be more concerned with understanding the roots of its survival horror than adhering to strict lore accuracy",
-    "source": "PC Gamer",
-    "summary": "Why can't we just enjoy things?",
-    "date": "Fri, 18 Sep 2026 22:04:14 +0000",
-    "link": "https://www.pcgamer.com/movies-tv/the-resident-evil-film-should-be-more-concerned-with-understanding-the-roots-of-its-survival-horror-than-adhering-to-strict-lore-accuracy/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Final Fantasy 7 Revelation is apparently a super heavyweight 200GB installation: 'We need to overcome the hardware to a certain extent'",
-    "source": "PC Gamer",
-    "summary": "Better start cleaning up your hard drive.",
-    "date": "Fri, 18 Sep 2026 21:55:19 +0000",
-    "link": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-is-apparently-a-super-heavyweight-200gb-installation-we-need-to-overcome-the-hardware-to-a-certain-extent/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -315,8 +314,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -334,8 +333,8 @@
     },
     "tags": [
       "Nintendo",
-      "PlayStation",
-      "Xbox"
+      "Xbox",
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
@@ -352,8 +351,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
