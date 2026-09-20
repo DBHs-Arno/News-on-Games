@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "IGN's Top-Reviewed Horror Movies of 2026",
+    "title": "The Last of Us Director Apologizes to God of War Laufey Devs After Calling Recent AAA Games 'Boring'",
     "source": "IGN",
-    "summary": "2026 has been a particularly strong year for horror, but some scares stand out from the pack. These are IGN's picks for the 10 best horror movies of the year so far.",
-    "date": "Sat, 19 Sep 2026 15:35:00 +0000",
-    "link": "https://www.ign.com/articles/best-reviewed-horror-movies-2026",
+    "summary": "The Last of Us game director Bruce Straley has apologized to the God of War Laufey team after his comments about modern AAA games brought \"uninvited and unnecessary negative attention.\"",
+    "date": "Sat, 19 Sep 2026 19:08:59 +0000",
+    "link": "https://www.ign.com/articles/the-last-of-us-director-apologizes-to-god-of-war-laufey-devs-after-calling-recent-aaa-games-boring",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.51,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.24,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -19,32 +19,31 @@
   },
   {
     "id": 2,
-    "title": "The Blood of Dawnwalker Modders Aren’t Missing the Point – They Just Love the Game",
+    "title": "Insomniac Says Marvel's Wolverine Uses No Generative AI After Fans Spot Strange Signs in-Game",
     "source": "IGN",
-    "summary": "Modders are extending The Blood of Dawnwalker's 30-day time limit to allow more time to complete every questline. But while this goes against the developer's vision, it shouldn't be seen as vandalism.",
-    "date": "Sat, 19 Sep 2026 14:00:00 +0000",
-    "link": "https://www.ign.com/articles/the-blood-of-dawnwalker-modders-arent-missing-the-point-they-just-love-the-game",
+    "summary": "Insomniac Games has stepped in to confirm Marvel's Wolverine contains no generative AI after a few bizarre in-game signs raised eyebrows on social media.",
+    "date": "Sat, 19 Sep 2026 17:02:08 +0000",
+    "link": "https://www.ign.com/articles/insomniac-says-marvels-wolverine-uses-no-generative-ai-after-fans-spot-strange-signs-in-game",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.1,
+      "score": 0.05,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "As Fans Flood the World of Warcraft: Forever Beta, Dev Says It's Putting Up 'The Craziest Numbers I've Seen in 17 Years Working at Blizzard'",
+    "title": "We Ranked The 10 Best Eevee Pokémon Cards of All Time",
     "source": "IGN",
-    "summary": "World of Warcraft: Forever looks like it could be a smash hit after the launch of the beta was overrun with eager fans, surprising even Blizzard itself.",
-    "date": "Sat, 19 Sep 2026 08:19:37 +0000",
-    "link": "https://www.ign.com/articles/as-fans-flood-the-world-of-warcraft-forever-beta-dev-says-its-putting-up-the-craziest-numbers-ive-seen-in-17-years-working-at-blizzard",
+    "summary": "We've ranked the 10 best Eevee Pokémon cards of all time, from priceless Japanese trophy promos to iconic vintage classics and modern chase cards.",
+    "date": "Sat, 19 Sep 2026 17:00:00 +0000",
+    "link": "https://www.ign.com/articles/best-eevee-pokemon-tcg-cards",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.7,
+      "score": 0.62,
       "badge": "success"
     },
     "tags": [
@@ -55,15 +54,15 @@
   },
   {
     "id": 4,
-    "title": "Marvel's Wolverine Developer Nerfs Scent Trails and Audio Sense Indicators After 'Fart Gas' Backlash",
+    "title": "The Batman Part 2 Director Reveals New Image Seemingly Set in a Snowy Gotham Junkyard",
     "source": "IGN",
-    "summary": "Insomniac has released an update for Marvel’s Wolverine that nerfs the “fart gas” that had become such a talking point even before the game’s release.",
-    "date": "Sat, 19 Sep 2026 07:23:42 +0000",
-    "link": "https://www.ign.com/articles/marvels-wolverine-developer-nerfs-scent-trails-and-audio-sense-indicators-after-fart-gas-backlash",
+    "summary": "The Batman Part 2 director Matt Reeves has done his part to celebrate Batman Day by sharing a new image from the movie.",
+    "date": "Sat, 19 Sep 2026 15:42:32 +0000",
+    "link": "https://www.ign.com/articles/the-batman-part-2-director-reveals-new-image-seemingly-set-in-a-snowy-gotham-junkyard",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.2,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -143,32 +142,33 @@
   },
   {
     "id": 9,
-    "title": "Maitreyi Ramakrishnan Will Destroy You at Super Smash Bros.",
+    "title": "PAX West 2026's Most Surprising Hit Was a 150-Year-Old Board Game that Combines Darts and Woodworking",
     "source": "Polygon",
-    "summary": "The star of Netflix's Never Have I Ever and Best of the Best opens up about her love of all things Nintendo on the latest episode of Shelf Quest",
-    "date": "Sat, 19 Sep 2026 18:00:15 GMT",
-    "link": "https://www.polygon.com/maitreyi-ramakrishnan-shelf-quest/",
+    "summary": "I didn't know this game existed a month ago, so here is my story experiencing crokinole for the first time.",
+    "date": "Sun, 20 Sep 2026 00:00:14 GMT",
+    "link": "https://www.polygon.com/crokinole-canada-pax-west/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.52,
+      "score": 0.13,
       "badge": "success"
     },
     "tags": [
-      "Nintendo"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "How Zach Cregger Pulled Off Resident Evil’s Most Disgusting Scenes",
+    "title": "31 Years Later, One 'Calvin and Hobbes' Line Remains The Greatest Quote In Comic Strip History",
     "source": "Polygon",
-    "summary": "Making the horror movie involved 50 gallons of fake blood and a lot of cleanup",
-    "date": "Sat, 19 Sep 2026 17:00:17 GMT",
-    "link": "https://www.polygon.com/resident-evil-behind-the-scenes/",
+    "summary": "What's your pick for your favorite Calvin and Hobbes strip? Here's ours",
+    "date": "Sat, 19 Sep 2026 23:40:14 GMT",
+    "link": "https://www.polygon.com/calvin-and-hobbes-best-quote/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.5,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.44,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -178,14 +178,14 @@
   },
   {
     "id": 11,
-    "title": "The Sims 4's Next Update Will Make Your Sims Act a Lot More Naturally",
+    "title": "BG3 Is Great But Still Not the Best Baldur's Gate Game Ever Made",
     "source": "Polygon",
-    "summary": "The Sims Team continues to work towards its goal of improving autonomy and making Sims act more realistically in The Sims 4.",
-    "date": "Sat, 19 Sep 2026 16:50:36 GMT",
-    "link": "https://www.polygon.com/the-sims-4-autonomy-gallery-fix-update-september-2026/",
+    "summary": "Baldur's Gate 3 is great. Baldur's Gate 2, 26 years old and still BioWare's best blueprint, might be better",
+    "date": "Sat, 19 Sep 2026 22:00:15 GMT",
+    "link": "https://www.polygon.com/best-baldurs-gate-game-bg2/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.28,
+      "score": 0.54,
       "badge": "success"
     },
     "tags": [
@@ -196,15 +196,15 @@
   },
   {
     "id": 12,
-    "title": "Star Wars Zero Company Unofficially Gets A Real Endgame",
+    "title": "The 10 Best Books of the Decade So Far, Ranked",
     "source": "Polygon",
-    "summary": "The Aftermath mod for Star Wars Zero Company gives the strategy game the endgame it's sorely missing",
-    "date": "Sat, 19 Sep 2026 16:16:58 GMT",
-    "link": "https://www.polygon.com/star-wars-zero-company-aftermath-dlc-mod-endgame/",
+    "summary": "The sprawling epics of the 2010s are dead. Here are the 10 most ambitious books released since 2020 that will completely rewire your brain.",
+    "date": "Sat, 19 Sep 2026 20:30:15 GMT",
+    "link": "https://www.polygon.com/10-best-books-of-the-2020s-ranked/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.29,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -214,6 +214,60 @@
   },
   {
     "id": 13,
+    "title": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online",
+    "source": "PC Gamer",
+    "summary": "Their exact provenance is unclear, but they seem to have come from the big 2023 hack.",
+    "date": "Sat, 19 Sep 2026 19:47:25 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.21,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "An ambitious fanmade expansion for Baldur's Gate 3 is out after almost two years in development",
+    "source": "PC Gamer",
+    "summary": "Enter The Chionthar Wilds with over 70 new items and 30 new fights.",
+    "date": "Sat, 19 Sep 2026 18:14:04 +0000",
+    "link": "https://www.pcgamer.com/games/baldurs-gate/an-ambitious-fanmade-expansion-for-baldurs-gate-3-is-out-after-almost-two-years-in-development/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Japanese devs aren't facing the same layoff crisis because their executives are paid an order of magnitude less, 'they didn’t get swept up in the live-service trend,' and their teams are smaller, says industry expert",
+    "source": "PC Gamer",
+    "summary": "It's hard to argue against those takeaways.",
+    "date": "Sat, 19 Sep 2026 18:13:42 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/japanese-devs-arent-facing-the-same-layoff-crisis-because-their-executives-are-paid-an-order-of-magnitude-less-they-didnt-get-swept-up-in-the-live-service-trend-and-their-teams-are-smaller-says-industry-expert/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.09,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
     "title": "'The largest theft of labor in human history:' Court docs reveal Microsoft exec predicted AI 'doom loops' could hollow out the internet",
     "source": "PC Gamer",
     "summary": "Copilot's answer engine allegedly caused the New York Times' click-through rate to plummet by figures up to 93%.",
@@ -226,59 +280,6 @@
     },
     "tags": [
       "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "I played the adventure game so scandalous that it was physically destroyed by UK customs",
-    "source": "PC Gamer",
-    "summary": "What vile debauchery could lie within Sex Vixens from Space?",
-    "date": "Sat, 19 Sep 2026 14:56:26 +0000",
-    "link": "https://www.pcgamer.com/games/adventure/i-played-the-adventure-game-so-scandalous-that-it-was-physically-destroyed-by-uk-customs/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.2,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "World of Warcraft: Forever's convinced me that we lost too much to modern MMO quest design",
-    "source": "PC Gamer",
-    "summary": "Reject three-quest conformity, embrace friction.",
-    "date": "Sat, 19 Sep 2026 14:50:00 +0000",
-    "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-convinced-me-that-we-lost-too-much-to-modern-mmo-quest-design/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "It rules that a 27-year-old RPG, one of the greatest of all time, is still getting patches",
-    "source": "PC Gamer",
-    "summary": "I wish all games worked like this.",
-    "date": "Sat, 19 Sep 2026 14:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/it-rules-that-a-27-year-old-rpg-one-of-the-greatest-of-all-time-is-still-getting-patches/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 1.0,
-      "badge": "success"
-    },
-    "tags": [
-      "RPG"
     ],
     "read_time": "1 min read"
   },
@@ -332,8 +333,8 @@
     },
     "tags": [
       "PlayStation",
-      "Nintendo",
-      "Xbox"
+      "Xbox",
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
