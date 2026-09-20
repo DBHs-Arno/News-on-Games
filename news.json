@@ -12,8 +12,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -30,8 +30,8 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -65,13 +65,65 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "Clive Barker's Hellraiser: Revival gets a playable demo and a new trailer ahead of its October launch",
+    "source": "Eurogamer",
+    "summary": "Clive Barker's Hellraiser: Revival has a new playable demo out now on Steam ahead of its full launch on 8th October. Read more...",
+    "date": "Sun, 20 Sep 2026 11:03:08 +0000",
+    "link": "https://www.eurogamer.net/clive-barkers-hellraiser-revival-demo-scarlet-church-trailer",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.28,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "The Last of Us director apologises for calling out Sony Santa Monica's God of War Laufey after saying he was \"not excited\"",
+    "source": "Eurogamer",
+    "summary": "The Last of Us director Bruce Straley has apologised to the God of War Laufey team at Sony Santa Monica for saying he was \"not excited\" about the upcoming game's gameplay. Read more...",
+    "date": "Sun, 20 Sep 2026 10:41:45 +0000",
+    "link": "https://www.eurogamer.net/last-of-us-director-apologises-god-of-war-laufey-not-excited",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Wolverine developer Insomniac denies using generative AI after fans spot strange restroom sign",
+    "source": "Eurogamer",
+    "summary": "Wolverine developer Insomniac has denied using generative AI after fans jumped on social media to share screenshots of a bizarre restroom sign. Read more...",
+    "date": "Sun, 20 Sep 2026 09:20:36 +0000",
+    "link": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.22,
+      "badge": "success"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
     "title": "Sony execs behind iconic game-sharing meme recreate it, but fittingly, without a physical game",
     "source": "Eurogamer",
     "summary": "Former PlayStation executives Shuhei Yoshida and Adam Boyes have recreated their iconic \"this is how you share your games on PS4\" moment - now with a very timely game-less picture. Read more...",
@@ -88,131 +140,115 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work",
-    "source": "Eurogamer",
-    "summary": "Rockstar Games' latest leak seemingly includes a nearly 200GB version of GTA 5's source code, suggesting the developer started and then scrapped plans for a Liberty City DLC, alongside very early files related to GTA 6. Read more...",
-    "date": "Fri, 18 Sep 2026 18:19:10 +0000",
-    "link": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.19,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Despite controversial reviews and online mockery, Marvel's Wolverine looks to have sold 1.9m on PS5 - and over 1 in 5 sales are physical",
-    "source": "Eurogamer",
-    "summary": "Marvel's Wolverine has been in the hot seat over the last week or so, but mixed reviews and internet memes seemingly haven't put a dent in the superhero game's adamantium frame. A new report states the latest from Insomniac Games has already sold almost 2m copies, with more than a fifth coming from ...",
-    "date": "Fri, 18 Sep 2026 16:52:24 +0000",
-    "link": "https://www.eurogamer.net/marvel-wolverine-sales-ps5-physical-controversial-reviews",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Final Fantasy 7 Revelation will be \"around 200GB\" says game director, as he details Sephiroth and Vincent Valentine DLC plans",
-    "source": "Eurogamer",
-    "summary": "We're still about six months out from the release of Final Fantasy 7 Revelation, the final part of the FF7 Remake trilogy. But, already, there is a lot of discussion about the size of the game; whether it's all the divisive side activities on offer in the title, or the fact it won't be shipping tota...",
-    "date": "Fri, 18 Sep 2026 13:04:26 +0000",
-    "link": "https://www.eurogamer.net/final-fantasy-7-revelation-200gb-file-size-dlc",
+    "id": 9,
+    "title": "Resident Evil and Silent Hill Are Just as Cozy as Animal Crossing, According to Science",
+    "source": "Polygon",
+    "summary": "Dr. Eric Leonardis explains why some players treat nightmare fuel like Silent Hill and Resident Evil as comfort entertainment.",
+    "date": "Sun, 20 Sep 2026 12:00:17 GMT",
+    "link": "https://www.polygon.com/cozy-horror-games-explained/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.16,
+      "score": -0.44,
       "badge": "danger"
     },
     "tags": [
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "5 Near-Perfect Psychological Thriller Shows That are Streaming For Free",
-    "source": "Polygon",
-    "summary": "These five brilliant shows scratch the psychological thriller itch.",
-    "date": "Sun, 20 Sep 2026 06:00:14 GMT",
-    "link": "https://www.polygon.com/best-psychological-thriller-shows-free-streaming/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.33,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "David Hasselhoff's Iconic 90-Episode Sci-Fi Action Series Is Officially Free on Streaming",
+    "title": "13 Years Later, 'President Curtis' is Repeating 'Rick and Morty’s Biggest Mistake",
     "source": "Polygon",
-    "summary": "Knight Rider looked ridiculous in 1982, but KITT's relationship with Michael Knight feels surprisingly familiar in the age of AI.",
-    "date": "Sun, 20 Sep 2026 05:00:14 GMT",
-    "link": "https://www.polygon.com/knight-rider-streaming-free/",
+    "summary": "So far, the spin-off President Curtis has been dedicating too much time to building mythology, repeating Rick and Morty's worst mistake.",
+    "date": "Sun, 20 Sep 2026 11:00:15 GMT",
+    "link": "https://www.polygon.com/president-curtis-repeating-rick-and-morty-biggest-mistake/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.21,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.17,
+      "badge": "danger"
     },
     "tags": [
-      "AI"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "43 Years Ago, Peanuts' Best Schroeder Joke Broke the Comic Strip's Biggest Rule",
+    "title": "8 Years Ago, Critical Role Changed Forever with Its Most Shocking Character Death",
     "source": "Polygon",
-    "summary": "Bach to basics with Beethoven's #1 fan",
-    "date": "Sun, 20 Sep 2026 04:34:17 GMT",
-    "link": "https://www.polygon.com/best-schroeder-bits-peanuts/",
+    "summary": "Campaign 2 of Critical Role broke Critters' hearts in a way that has (thankfully) yet to be replicated even 8 years later.",
+    "date": "Sun, 20 Sep 2026 09:00:15 GMT",
+    "link": "https://www.polygon.com/8-years-ago-critical-role-mollymauk-death/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.62,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "The 5 Best 'Twilight Zone' Episodes of All Time, Ranked",
+    "title": "The GTA Timeline Is Completely Irrelevant",
     "source": "Polygon",
-    "summary": "While The Twilight Zone is free on Tubi, its time to stream the best epsidoes, including “Nightmare at 20,000 Feet,” \"To Serve Man\" and more",
-    "date": "Sun, 20 Sep 2026 04:00:19 GMT",
-    "link": "https://www.polygon.com/5-best-twilight-zone-episodes/",
+    "summary": "Rockstar's Grand Theft Auto games are loosely connected, but they all stand alone for a reason",
+    "date": "Sun, 20 Sep 2026 08:30:14 GMT",
+    "link": "https://www.polygon.com/gta-timeline-doesnt-matter/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.72,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
+    "title": "I urge you to check out this hidden object game where you play as the world's most helpful sniper",
+    "source": "PC Gamer",
+    "summary": "Sniper Dan does whatever a sniper can.",
+    "date": "Sun, 20 Sep 2026 12:00:08 +0000",
+    "link": "https://www.pcgamer.com/games/fps/i-urge-you-to-check-out-this-hidden-object-game-where-you-play-as-the-worlds-most-helpful-sniper/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Tokyo Walled City looks set to fill the Deus Ex-shaped hole in my life",
+    "source": "PC Gamer",
+    "summary": "I am definitely asking for this.",
+    "date": "Sun, 20 Sep 2026 10:01:30 +0000",
+    "link": "https://www.pcgamer.com/games/action/tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole-in-my-life/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
     "title": "Over 10 years later, Gabe Newell's advice to devs still holds up",
     "source": "PC Gamer",
     "summary": "There can be a fine line between a malicious hack and a legend.",
@@ -224,13 +260,13 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online",
     "source": "PC Gamer",
     "summary": "Their exact provenance is unclear, but they seem to have come from the big 2023 hack.",
@@ -242,44 +278,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "An ambitious fanmade expansion for Baldur's Gate 3 is out after almost two years in development",
-    "source": "PC Gamer",
-    "summary": "Enter The Chionthar Wilds with over 70 new items and 30 new fights.",
-    "date": "Sat, 19 Sep 2026 18:14:04 +0000",
-    "link": "https://www.pcgamer.com/games/baldurs-gate/an-ambitious-fanmade-expansion-for-baldurs-gate-3-is-out-after-almost-two-years-in-development/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Japanese devs aren't facing the same layoff crisis because their executives are paid an order of magnitude less, 'they didn’t get swept up in the live-service trend,' and their teams are smaller, says industry expert",
-    "source": "PC Gamer",
-    "summary": "It's hard to argue against those takeaways.",
-    "date": "Sat, 19 Sep 2026 18:13:42 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/japanese-devs-arent-facing-the-same-layoff-crisis-because-their-executives-are-paid-an-order-of-magnitude-less-they-didnt-get-swept-up-in-the-live-service-trend-and-their-teams-are-smaller-says-industry-expert/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -296,8 +296,8 @@
       "badge": "danger"
     },
     "tags": [
-      "AI",
-      "RPG"
+      "RPG",
+      "AI"
     ],
     "read_time": "1 min read"
   },
@@ -314,8 +314,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -351,8 +351,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
