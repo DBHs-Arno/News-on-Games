@@ -1,6 +1,59 @@
 [
   {
     "id": 1,
+    "title": "Final Fantasy 7 Revelation Will 'Easily Take Over 100 Hours' for Completionists to Beat, Director Teases",
+    "source": "IGN",
+    "summary": "Final Fantasy 7 Revelation director Naoki Hamaguchi teased that completionist playthroughs for the remake trilogy's conclusion could \"easily take over a hundred hours\" to beat.",
+    "date": "Sun, 20 Sep 2026 20:52:01 +0000",
+    "link": "https://www.ign.com/articles/final-fantasy-7-revelation-will-easily-take-over-100-hours-for-completionists-to-beat-director-teases",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.22,
+      "badge": "success"
+    },
+    "tags": [
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Zach Cregger's Resident Evil Defies Expectations With $108 Million Box Office Opening Weekend",
+    "source": "IGN",
+    "summary": "Zach Cregger's Resident Evil has pushed through the backlash to collect an estimated $108.3 million globally in its opening weekend at the box office.",
+    "date": "Sun, 20 Sep 2026 18:50:03 +0000",
+    "link": "https://www.ign.com/articles/zach-creggers-resident-evil-defies-expectations-with-108-million-box-office-opening-weekend",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.67,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "Disney+ to Allow Ads on All Plans Following Changes Detailed in Updated Subscriber Agreement",
+    "source": "IGN",
+    "summary": "Disney+ has altered its user agreement to clarify that ads will be allowed on all subscription tiers.",
+    "date": "Sun, 20 Sep 2026 18:18:47 +0000",
+    "link": "https://www.ign.com/articles/disney-to-allow-ads-on-all-plans-following-changes-detailed-in-updated-subscriber-agreement",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
     "title": "Poppy Playtime Spinoff Escape from Playtime Gets Early Access Release Date",
     "source": "IGN",
     "summary": "Escape from Playtime, the co-op survival horror extraction spinoff of the popular Poppy's Playtime episodic horror games that was announced at Gamescom last month, will be launching into Steam Early Access on October 21.",
@@ -17,59 +70,6 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
-    "title": "Zach Cregger Suggests There's No 'Cregger Cut' of Resident Evil as Fans Hope to See Trimmed Jokes",
-    "source": "IGN",
-    "summary": "Director Zach Cregger suggested we won't get a \"Cregger cut\" of Resident Evil, as fans call to see the jokes that got trimmed.",
-    "date": "Sun, 20 Sep 2026 15:10:45 +0000",
-    "link": "https://www.ign.com/articles/zach-cregger-suggests-theres-no-cregger-cut-of-resident-evil-as-fans-hope-to-see-trimmed-jokes",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -1.0,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Hideo Kojima Reveals What Happened With Sony in Exclusive First Interview Since PlayStation Ditched Physint",
-    "source": "IGN",
-    "summary": "Hideo Kojima reveals what happened with Sony in his first interview since PlayStation ditched Physint.",
-    "date": "Sun, 20 Sep 2026 11:00:00 +0000",
-    "link": "https://www.ign.com/articles/hideo-kojima-reveals-what-happened-with-sony-in-exclusive-first-interview-since-playstation-ditched-physint",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Big Bang Theory Spinoff Features Surprise Live-Action Cameos from The Flash and Mr. Freeze",
-    "source": "IGN",
-    "summary": "Big Bang Theory spinoff Stuart Fails to Save the Universe featured a surprise fight between a live-action Flash and Mr. Freeze, but the show's creators originally wanted a different DC hero cameo.",
-    "date": "Sat, 19 Sep 2026 21:29:25 +0000",
-    "link": "https://www.ign.com/articles/big-bang-theory-spinoff-features-surprise-live-action-cameos-from-the-flash-and-mr-freeze",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 5,
     "title": "Call of Duty maker Activision claims video game cheating is now a £6.3 billion ($8.5 billion) a year industry",
     "source": "Eurogamer",
@@ -82,8 +82,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -100,8 +100,8 @@
       "badge": "info"
     },
     "tags": [
-      "PlayStation",
-      "Xbox"
+      "Xbox",
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
@@ -118,8 +118,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -142,6 +142,59 @@
   },
   {
     "id": 9,
+    "title": "3 Games You Have to Play if You Loved the New Resident Evil Movie",
+    "source": "Polygon",
+    "summary": "We've gathered three survival horror games perfect for fans of Zach Cregger's new movie.",
+    "date": "Sun, 20 Sep 2026 23:30:15 GMT",
+    "link": "https://www.polygon.com/best-games-for-resident-evil-movie-fans/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.19,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "10 Years Ago, One Thought-Provoking RPG Transformed the Genre Forever",
+    "source": "Polygon",
+    "summary": "It's Persona 5 10th anniversary and in this blog we explore how Atlus changed how human identity is seen from previous games",
+    "date": "Sun, 20 Sep 2026 22:30:15 GMT",
+    "link": "https://www.polygon.com/persona-5-10th-anniversary/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "This 40-Year-Old Video Game Is Somehow More Fun Than Ever",
+    "source": "Polygon",
+    "summary": "Classic games don't always hold up well, but this one got better with age.",
+    "date": "Sun, 20 Sep 2026 19:00:16 GMT",
+    "link": "https://www.polygon.com/mario-bros-nes-arcade-retrospective/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.21,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
     "title": "37 Years Later, the Best 'Calvin and Hobbes' Dad Quote Is Still in a League of Its Own",
     "source": "Polygon",
     "summary": "Calvin's the star of the show in Calvin and Hobbes, but don't discount his parents.",
@@ -153,66 +206,49 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Ethan Hawke's Nail-Biting New Thriller Stole a Movie Magic Trick from Indiana Jones",
-    "source": "Polygon",
-    "summary": "Ethan Hawke and director Padraic McKinley discuss their gripping new drama, The Weight.",
-    "date": "Sun, 20 Sep 2026 18:00:15 GMT",
-    "link": "https://www.polygon.com/the-weight-movie-interview-ethan-hawke/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.32,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "58 Years Later, Captain Kirk's Best Star Trek Quote Hits Harder Than Ever",
-    "source": "Polygon",
-    "summary": "Captain Kirk's speech in 'Return to Tomorrow' says more about what Star Trek stands for than any other line in the original series.",
-    "date": "Sun, 20 Sep 2026 17:57:14 GMT",
-    "link": "https://www.polygon.com/the-best-star-trek-quote/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.27,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Fire Emblem Is Officially Nintendo’s Strongest GOTY 2026 Contender",
-    "source": "Polygon",
-    "summary": "The Switch 2 exclusive Fire Emblem: Fortune's Weave is one of the strongest contenders for Game of the Year at the 2026 Game Awards.",
-    "date": "Sun, 20 Sep 2026 17:00:15 GMT",
-    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-goty-game-awards-2026/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
-    },
-    "tags": [
-      "Nintendo"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
+    "title": "First 5-day Tokyo Game Show in 30 years cuts back to 4 in face of Typhoon Dujuan",
+    "source": "PC Gamer",
+    "summary": "The gamer's traditional enemy, the typhoon.",
+    "date": "Sun, 20 Sep 2026 19:13:08 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/first-5-day-tokyo-game-show-in-30-years-cuts-back-to-4-in-face-of-typhoon-dujuan/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.04,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Elden Ring Nightreign is dead, but modders are dabbing on its corpse, with one porting an entire Dark Souls 2 DLC zone as a playable map",
+    "source": "PC Gamer",
+    "summary": "A new spin on an old favorite.",
+    "date": "Sun, 20 Sep 2026 18:38:15 +0000",
+    "link": "https://www.pcgamer.com/games/action/elden-ring-nightreign-is-dead-but-modders-are-dabbing-on-its-corpse-with-one-porting-an-entire-dark-souls-2-dlc-zone-as-a-playable-map/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
     "title": "Everything announced at the PC Gaming Show Tokyo Direct 2026",
     "source": "PC Gamer",
     "summary": "Every single game and announcement, in the order they were shown.",
@@ -224,13 +260,13 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "Take to the skies and shoot your mates in the face with a shotgun in Fish & Ships",
     "source": "PC Gamer",
     "summary": "These must be flying fish.",
@@ -242,44 +278,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Feel like a kid again when toy car game Obstacle Overdrive launches October 2",
-    "source": "PC Gamer",
-    "summary": "Be careful or your car will tumble to the floor and wake your parents up.",
-    "date": "Sun, 20 Sep 2026 16:56:15 +0000",
-    "link": "https://www.pcgamer.com/games/racing/feel-like-a-kid-again-when-toy-car-game-obstacle-overdrive-launches-october-2/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.25,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "I lost hours to this roguelike card-based city builder even though I had no idea how all of those words could fit together",
-    "source": "PC Gamer",
-    "summary": "Boldly step into the mist and confront whatever horrors may emerge.",
-    "date": "Sun, 20 Sep 2026 16:55:10 +0000",
-    "link": "https://www.pcgamer.com/games/roguelike/i-lost-hours-to-this-roguelike-card-based-city-builder-even-though-i-had-no-idea-how-all-of-those-words-could-fit-together/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.37,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -296,8 +296,8 @@
       "badge": "danger"
     },
     "tags": [
-      "RPG",
-      "AI"
+      "AI",
+      "RPG"
     ],
     "read_time": "1 min read"
   },
@@ -314,8 +314,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -332,9 +332,9 @@
       "badge": "info"
     },
     "tags": [
+      "Xbox",
       "PlayStation",
-      "Nintendo",
-      "Xbox"
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
@@ -351,8 +351,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
