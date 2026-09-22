@@ -1,32 +1,33 @@
 [
   {
     "id": 1,
-    "title": "Save Up to 20% Off Tournament-Grade PS5, Xbox, and PC Controllers During SCUF's It's Time to Win Sale",
+    "title": "The Love Hypothesis Review",
     "source": "IGN",
-    "summary": "Elite in form AND function.",
-    "date": "Mon, 21 Sep 2026 23:32:00 +0000",
-    "link": "https://www.ign.com/articles/scuf-its-time-to-win-sale-best-deals-on-gaming-controllers-for-ps5-xbox-pc",
+    "summary": "The Love Hypothesis review: Ali Hazelwood’s New York Times bestseller gets adapted into a charming rom-com.",
+    "date": "Tue, 22 Sep 2026 04:00:00 +0000",
+    "link": "https://www.ign.com/articles/the-love-hypothesis-review",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.8,
+      "score": 0.46,
       "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Love Nikki Player Shuts Down Fan Website Over Game's 'Irreverent' and 'Demonic' Clothing Designs",
+    "title": "IGN Australia and Chupa Chups to Host a Retro Gaming ‘Fun House’ Activation at Westfield Parramatta This October",
     "source": "IGN",
-    "summary": "A fan of the Love Nikki – Dress Up Queen mobile dress-up game is going viral for shutting down their informative website after determining that some of the game’s clothing designs were “demonic.”",
-    "date": "Mon, 21 Sep 2026 23:24:47 +0000",
-    "link": "https://www.ign.com/articles/love-nikki-player-shuts-down-fan-website-over-games-irreverent-and-demonic-clothing-designs",
+    "summary": "IGN Australia and Chupa Chups to Host a Retro Gaming ‘Fun House’ Activation at Westfield Parramatta This October",
+    "date": "Tue, 22 Sep 2026 01:11:02 +0000",
+    "link": "https://www.ign.com/articles/chupa-chups-forever-fun-house",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -36,36 +37,37 @@
   },
   {
     "id": 3,
-    "title": "Halloween: The Game Review",
+    "title": "Get a Lenovo Legion Go S Ryzen Z2 Go Handheld Gaming PC in Excellent Condition for Under $500",
     "source": "IGN",
-    "summary": "Halloween: The Game nails the atmosphere but not the execution, undercut by bugs, good ideas not fully realized, and a lack of variety.",
-    "date": "Mon, 21 Sep 2026 23:00:00 +0000",
-    "link": "https://www.ign.com/articles/halloween-the-game-review",
+    "summary": "It's more powerful than the Xbox Ally and uses SteamOS like the Steam Deck.",
+    "date": "Tue, 22 Sep 2026 00:40:00 +0000",
+    "link": "https://www.ign.com/articles/lenovo-legion-go-s-handheld-gaming-pc-deal-september-2026",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.6,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Steam",
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Call of Duty YouTuber Launches Petition to Remove Skill-Based Matchmaking Following Successful Destiny Protests",
+    "title": "StarCraft: Tabletop Miniatures Game Review",
     "source": "IGN",
-    "summary": "Call of Duty YouTuber Tdawgsmitty has started a petition to remove skill-based matchmaking in the FPS franchise following successful Destiny protests.",
-    "date": "Mon, 21 Sep 2026 22:54:40 +0000",
-    "link": "https://www.ign.com/articles/call-of-duty-youtuber-launches-petition-to-remove-skill-based-matchmaking-following-successful-destiny-protests",
+    "summary": "",
+    "date": "Tue, 22 Sep 2026 00:02:00 +0000",
+    "link": "https://www.ign.com/articles/starcraft-tabletop-miniatures-game-review",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.38,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
     },
     "tags": [
-      "FPS"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -140,6 +142,42 @@
   },
   {
     "id": 9,
+    "title": "Anya Taylor-Joy's Near-Perfect Breakout Folk Thriller Is Officially Leaving Netflix",
+    "source": "Polygon",
+    "summary": "Anya Taylor-Joy's breakout role in The Witch gave horror a different kind of heroine. The Robert Eggers film leaves Netflix on Oct. 1.",
+    "date": "Tue, 22 Sep 2026 05:00:15 GMT",
+    "link": "https://www.polygon.com/anya-taylor-joy-the-witch-horror-heroine/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Stephen King's Most Unhinged Sci-Fi Action Masterpiece Is Officially Free to Watch on YouTube",
+    "source": "Polygon",
+    "summary": "Stephen King's 1982 novel was adapted a few years later into one of Arnold Schwarzenegger's campiest movies.",
+    "date": "Tue, 22 Sep 2026 04:00:20 GMT",
+    "link": "https://www.polygon.com/stephen-king-the-running-man-arnold-schwarzenegger-streaming-free-youtube/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
     "title": "Pokémon Winds and Winds Leaks Tease A Pokédex Too Massive To Finish",
     "source": "Polygon",
     "summary": "Pokémon Winds and Waves leaks suggest 300 Pokémon could be added in Gen 10. Even taken with a grain of salt, that's too many new Pokémon.",
@@ -157,7 +195,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
+    "id": 12,
     "title": "9 Bonkers Video Game DLCs That Completely Rewrote Expectations",
     "source": "Polygon",
     "summary": "From Hell weddings to alien hive-minds, these nine DLCs took a hard swerve away from the games they were attached to",
@@ -175,52 +213,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 11,
-    "title": "When is the point of no return in Fire Emblem Fortune's Weave",
-    "source": "Polygon",
-    "summary": "Fire Emblem Fortune's Weave's has two points of no return, one of which is the cutoff for recruiting new characters.",
-    "date": "Mon, 21 Sep 2026 21:37:28 GMT",
-    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-point-of-no-return-recruitment-cutoff/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Daredevil: Born Again Officially Ending with Season 3",
-    "source": "Polygon",
-    "summary": "Daredevil: Born Again's next season will be its final one. The Disney Plus revival will have aired three seasons, just like its Netflix predecessor.",
-    "date": "Mon, 21 Sep 2026 21:14:49 GMT",
-    "link": "https://www.polygon.com/daredevil-born-again-season-3-final-season-disney-plus/",
+    "id": 13,
+    "title": "How about that StarCraft trailer, eh",
+    "source": "PC Gamer",
+    "summary": "How about that StarCraft trailer, eh",
+    "date": "Tue, 22 Sep 2026 06:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/how-about-that-starcraft-trailer-eh/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.03,
+      "score": 0.0,
       "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Bungie unvaulting Destiny 2 content was a studio-saving emergency decision, because Marathon updates were never going to be enough",
-    "source": "PC Gamer",
-    "summary": "At the last possible moment, Bungie takes a surprising and vital first step to winning back player trust.",
-    "date": "Mon, 21 Sep 2026 23:24:23 +0000",
-    "link": "https://www.pcgamer.com/games/fps/bungie-unvaulting-destiny-2-content-was-a-studio-saving-emergency-decision-because-marathon-updates-were-never-going-to-be-enough/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.19,
-      "badge": "success"
     },
     "tags": [
       "News",
@@ -230,32 +232,14 @@
   },
   {
     "id": 14,
-    "title": "Blizzard warns World of Warcraft: Forever players it will 'very aggressively' punish anyone who buys gold with real money",
+    "title": "Battlefield Baby",
     "source": "PC Gamer",
-    "summary": "Preserving the economy of the MMO is a top priority, the studio says.",
-    "date": "Mon, 21 Sep 2026 21:15:56 +0000",
-    "link": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-warns-world-of-warcraft-forever-players-it-will-very-aggressively-punish-anyone-who-buys-gold-with-real-money/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "'All roads lead back to Arma'",
-    "source": "PC Gamer",
-    "summary": "Without Arma, gaming would look a lot different right now.",
-    "date": "Mon, 21 Sep 2026 20:39:21 +0000",
-    "link": "https://www.pcgamer.com/games/fps/all-roads-lead-back-to-arma/",
+    "summary": "Battlefield Baby",
+    "date": "Tue, 22 Sep 2026 06:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/pc-gaming-show-toyko-direct-2026-picks-clone/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.1,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
@@ -265,15 +249,32 @@
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "Rockstar asks modders to please take its games very seriously",
+    "id": 15,
+    "title": "I made a 'to play' shelf for myself on Steam",
     "source": "PC Gamer",
-    "summary": "In mod guidelines published earlier this month, Rockstar tells modders to \"respect our games.\"",
-    "date": "Mon, 21 Sep 2026 20:14:25 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-asks-modders-to-please-take-its-games-very-seriously/",
+    "summary": "I made a 'to play' shelf for myself on Steam",
+    "date": "Tue, 22 Sep 2026 06:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/i-made-a-to-play-shelf-for-myself-on-steam/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.1,
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Nighthawks review",
+    "source": "PC Gamer",
+    "summary": "Postcards from Bat Country.",
+    "date": "Tue, 22 Sep 2026 04:01:00 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/nighthawks-review-a-novel-vampire-rpg-thats-also-a-vampire-novels-worth-of-writing/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
