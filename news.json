@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "Here's Your First Look at 3 Cards From Pokémon TCG: Mega Evolution — Delta Reign, Due to Launch This November",
+    "title": "The Walmart GeForce Week Sale Has Black Friday Worthy Gaming PC Deals, But They're Selling Out",
     "source": "IGN",
-    "summary": "IGN can today reveal three new Pokémon card designs from the upcoming set Pokémon TCG: Mega Evolution — Delta Reign.",
-    "date": "Tue, 22 Sep 2026 09:00:42 +0000",
-    "link": "https://www.ign.com/articles/heres-your-first-look-at-3-cards-from-pokmon-tcg-mega-evolution-delta-reign-due-to-launch-this-november",
+    "summary": "The best prices I've seen all year on prebuilt gaming PCs with RTX 5060 to 5090.",
+    "date": "Tue, 22 Sep 2026 17:30:00 +0000",
+    "link": "https://www.ign.com/articles/walmart-geforce-week-sale-2026-best-deals-on-gaming-pcs",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.39,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -19,101 +19,11 @@
   },
   {
     "id": 2,
-    "title": "How Long Is Silent Hill: Townfall?",
+    "title": "Sea of Thieves Fans Fear for Rare's Future as Studio Gets Put Under Activision Following Xbox Reset",
     "source": "IGN",
-    "summary": "Five different IGN editors played through Silent: Hill Townfall in five different ways to find out how long Konami's new survival horror is, depending on playstyle.",
-    "date": "Tue, 22 Sep 2026 09:00:00 +0000",
-    "link": "https://www.ign.com/articles/how-long-is-silent-hill-townfall",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Injustice 3 Leak Reportedly Reveals 2 Playable Characters",
-    "source": "IGN",
-    "summary": "Injustice 3 will feature one character fans will expect and one who perhaps comes as a surprise, according to a fresh leak.",
-    "date": "Tue, 22 Sep 2026 05:50:03 +0000",
-    "link": "https://www.ign.com/articles/injustice-3-leak-reportedly-reveals-2-playable-characters",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "The Love Hypothesis Review",
-    "source": "IGN",
-    "summary": "The Love Hypothesis review: Ali Hazelwood’s New York Times bestseller gets adapted into a charming rom-com.",
-    "date": "Tue, 22 Sep 2026 04:00:00 +0000",
-    "link": "https://www.ign.com/articles/the-love-hypothesis-review",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.46,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "Another Injustice 3 leak reveals two characters in the rumoured DC fighting game - one that's expected and one that's a big surprise",
-    "source": "Eurogamer",
-    "summary": "We now have even more confirmation a new Injustice game is in development. Following last week's playtest leak, information has emerged that sheds more light on the upcoming DC fighting game. Read more...",
-    "date": "Tue, 22 Sep 2026 11:17:28 +0000",
-    "link": "https://www.eurogamer.net/injustice-3-supergirl-batwoman-leak",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "World of Warcraft fans are torn about whether Forever's Skyborne starting zone fits tonally with Classic WoW",
-    "source": "Eurogamer",
-    "summary": "World of Warcraft: Forever's beta is here, offering us our first look at WoW's reimagined vanilla or classic experience, and already it's proving extremely popular. But there are points of contention, one being whether the new Skyborne race's starting zone fits tonally with original-race zones. Read...",
-    "date": "Tue, 22 Sep 2026 09:34:13 +0000",
-    "link": "https://www.eurogamer.net/world-of-warcraft-fans-torn-about-whether-forevers-skyborne-starting-zone-fits-tonally-with-classic-wow",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Second wave of Xbox cuts reported to be happening this week, with \"several\" studios apparently facing consolidation",
-    "source": "Eurogamer",
-    "summary": "Xbox is reportedly preparing to lay off hundreds more people this week as the company plans to consolidate several of its studios. Read more...",
-    "date": "Tue, 22 Sep 2026 08:36:03 +0000",
-    "link": "https://www.eurogamer.net/xbox-second-wave-cuts-layoffs-report",
+    "summary": "Sea of Thieves fans are concerned for Rare's future, as the studio has been consolidated under Activision as part of Xbox's latest reset.",
+    "date": "Tue, 22 Sep 2026 17:25:07 +0000",
+    "link": "https://www.ign.com/articles/sea-of-thieves-fans-fear-for-rares-future-as-studio-gets-put-under-activision-following-xbox-reset",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.18,
@@ -125,33 +35,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP",
-    "source": "Eurogamer",
-    "summary": "Ahead of the bottomless GTA 6 mods we'll surely get whenever the crime epic finally comes to PC, Rockstar Games has imposed new restrictions on the modding community and, boy, they are tight. Read more...",
-    "date": "Mon, 21 Sep 2026 19:23:49 +0000",
-    "link": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "Former Doom Developer Could Be in Trouble as Bethesda Goes After Doom Memecoin",
-    "source": "Polygon",
-    "summary": "A memecoin creator is in Bethesda's sights after using Doom to promote their cryptocurrency.",
-    "date": "Tue, 22 Sep 2026 12:03:52 GMT",
-    "link": "https://www.polygon.com/doom-memecoin-sandy-petersen-bethesda-legal-action/",
+    "id": 3,
+    "title": "MANHATTAN UNDER SIEGE",
+    "source": "IGN",
+    "summary": "",
+    "date": "Tue, 22 Sep 2026 17:00:00 +0000",
+    "link": "https://www.ign.com/articles/manhattan-under-siege",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.1,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
@@ -161,12 +53,117 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "Star Wars Boss Says Ahsoka Season 2 Will Be 'A Challenge'",
+    "id": 4,
+    "title": "Minecraft Beat Itself After Nearly 2 Billion Simulated Years",
+    "source": "IGN",
+    "summary": "Minecraft is no stranger to simulations, but it turns out that under the right conditions, the game can beat itself if given billions of years.",
+    "date": "Tue, 22 Sep 2026 16:58:13 +0000",
+    "link": "https://www.ign.com/articles/minecraft-beat-itself-after-nearly-two-billion-simulated-years",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Artist who hand-paints some of gaming's best fantasy world maps brings them together in oversized and extremely lavish art book",
+    "source": "Eurogamer",
+    "summary": "If you're an enjoyer of video game maps, you might like this: celebrated artist and cartographer Francesca Baerald - who's created in-game (and out) maps for Dragon Age, Warcraft, Octopath Traveler, Diablo, Dungeons & Dragons and many more - is releasing a glossy new art book. It's an oversized, A3 ...",
+    "date": "Tue, 22 Sep 2026 16:18:06 +0000",
+    "link": "https://www.eurogamer.net/francesca-baerald-game-map-art-book",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.28,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Xbox confirms 268 more layoffs, further studio closures, and Obsidian's shift to Bethesda as major restructuring continues",
+    "source": "Eurogamer",
+    "summary": "Following reports that further job cuts were imminent at Xbox, Microsoft has confirmed more sweeping changes as its major restructuring continues. As a result, some Xbox studios will combine, others are set for closure, and 268 more layoffs have been announced. Read more...",
+    "date": "Tue, 22 Sep 2026 14:44:43 +0000",
+    "link": "https://www.eurogamer.net/xbox-layoffs-activision-rare-halo-ninja-theory",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Hellblade developer Ninja Theory heading towards closure in new wave of Xbox cuts, as two separate agreements collapse",
+    "source": "Eurogamer",
+    "summary": "Ninja Theory - developer of the Hellblade series of games, Enslaved: Odyssey to the West, DmC: Devil May Cry, and Heavenly Sword - is entering consultation in preperation for the studio's closure as part of today's sweeping Xbox cuts and layoffs. Read more...",
+    "date": "Tue, 22 Sep 2026 14:09:57 +0000",
+    "link": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.32,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Next major Halo game being developed by Activision, as Halo Studios all but closes as part of Microsoft's Xbox restructuring",
+    "source": "Eurogamer",
+    "summary": "Halo Studios (formerly 343 Industries) won't develop the next mainline Halo game because it's being what sounds like drastically reduced in size. Microsoft has instead given development duty to Activision, which is making \"a new purpose-built team\" separate to Call of Duty to make it. Read more...",
+    "date": "Tue, 22 Sep 2026 14:07:10 +0000",
+    "link": "https://www.eurogamer.net/next-halo-game-developer-call-of-duty-stuidio-xbox-restructuring",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "'Coyote vs. Acme' Officially Gets Streaming Release Date",
     "source": "Polygon",
-    "summary": "Dave Filoni admits that one of the loftiest concepts from The Clone Wars will be a challenge to bring into Ahsoka season 2.",
-    "date": "Tue, 22 Sep 2026 11:42:42 GMT",
-    "link": "https://www.polygon.com/star-wars-ahsoka-season-2-mortis-gods-dave-filoni/",
+    "summary": "After a successful theatrical run, 'Coyote vs. Acme' just got a digital streaming date.",
+    "date": "Tue, 22 Sep 2026 17:53:28 GMT",
+    "link": "https://www.polygon.com/coyote-vs-acme-streaming-release-date/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "'Lost Temple Cat' quest walkthrough in Fire Emblem Fortune's Weave",
+    "source": "Polygon",
+    "summary": "If you're looking for the cat in Fire Emblem: Fortune's Weave \"Lost Temple Cat\" quest, here's where to find it.",
+    "date": "Tue, 22 Sep 2026 17:40:06 GMT",
+    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-lost-temple-cat-quest-walkthrough/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -180,15 +177,32 @@
   },
   {
     "id": 11,
-    "title": "5 Perfect 'Far Side' Comics from the 1980s That Prove Gary Larson is a Genius",
+    "title": "Steam Quietly Just Got 2026's Best Silksong Replacement",
     "source": "Polygon",
-    "summary": "The Far Side creator Gary Larson is a true genius and these five comic strips from the 1980s prove it",
-    "date": "Tue, 22 Sep 2026 10:00:15 GMT",
-    "link": "https://www.polygon.com/5-far-side-comics-genius-gary-larson/",
+    "summary": "Well Dweller is the latest Metroidvania from Kyle Thompson. You play as a bird armed with a matchstick in search of his missing family.",
+    "date": "Tue, 22 Sep 2026 17:38:04 GMT",
+    "link": "https://www.polygon.com/well-dweller-steam-release/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.36,
+      "score": 0.33,
       "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Unplayable Kingdom Hearts Game Officially Getting an Unexpected Revival",
+    "source": "Polygon",
+    "summary": "Ahead of Kingdom Hearts 4, a fan is making the defunct Union X mobile game playable again",
+    "date": "Tue, 22 Sep 2026 17:29:38 GMT",
+    "link": "https://www.polygon.com/kingdom-hearts-union-x-dark-road-fan-port-disney-rpg/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.28,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -197,32 +211,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "Xbox Layoffs and Studio Mergers Said to be Imminent as Huge Halo Move Rumored",
-    "source": "Polygon",
-    "summary": "Reports say Xbox CEO Asha Sharma will consolidate game studios and cut jobs this week, including moving Halo to Activision Blizzard",
-    "date": "Tue, 22 Sep 2026 09:56:37 GMT",
-    "link": "https://www.polygon.com/xbox-layoffs-studio-consolidation-halo/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 13,
-    "title": "It's time to decide the worst graphical effect in games: depth of field vs vignette",
+    "title": "I modded Crazy Taxi into Grand Theft Auto 5",
     "source": "PC Gamer",
-    "summary": "I know which one I'd vote for.",
-    "date": "Tue, 22 Sep 2026 11:20:24 +0000",
-    "link": "https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-depth-of-field-vs-vignette/",
+    "summary": "It's time to make some crazy money.",
+    "date": "Tue, 22 Sep 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-crazy-taxi-into-grand-theft-auto-5/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -1.0,
+      "score": -0.23,
       "badge": "danger"
     },
     "tags": [
@@ -233,15 +230,15 @@
   },
   {
     "id": 14,
-    "title": "I've been doing roleplay for 15+ years, and I don't think WoW: Forever needs a ruleset for it",
+    "title": "I set out to prove polling rate affects my aim and instead found my favourite DPI setting",
     "source": "PC Gamer",
-    "summary": "Or, at least, not one as strict as this.",
-    "date": "Tue, 22 Sep 2026 11:01:51 +0000",
-    "link": "https://www.pcgamer.com/games/world-of-warcraft/ive-been-doing-roleplay-for-15-years-i-dont-think-wow-forever-needs-a-ruleset-for-it/",
+    "summary": "The polling rate boot camp was worth it, but for a different reason.",
+    "date": "Tue, 22 Sep 2026 16:31:00 +0000",
+    "link": "https://www.pcgamer.com/hardware/gaming-mice/i-set-out-to-prove-polling-rate-affects-my-aim-and-instead-found-my-favourite-dpi-setting/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.1,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -251,32 +248,33 @@
   },
   {
     "id": 15,
-    "title": "Steam profiles are beautiful 2000s-era relics",
+    "title": "What the hell are you guys doing?",
     "source": "PC Gamer",
-    "summary": "Steam profiles are beautiful 2000s-era relics",
-    "date": "Tue, 22 Sep 2026 11:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/steam-profiles-are-beautiful-2000s-era-relics/",
+    "summary": "Smashing together Bethesda and Obsidian is baffling.",
+    "date": "Tue, 22 Sep 2026 16:07:20 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/what-the-hell-are-you-guys-doing/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.85,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Steam"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Beyond Good and Evil was never worth 20 years of angst",
+    "title": "Why Blizzard vet Rob Pardo is going all-in on Arkheron, the PvP dungeon crawler that's like dark-fantasy Backrooms: 'It's very much been an odyssey'",
     "source": "PC Gamer",
-    "summary": "How did a game so sweet and fleeting become a two-decade sticking point for Ubisoft?",
-    "date": "Tue, 22 Sep 2026 10:48:10 +0000",
-    "link": "https://www.pcgamer.com/games/adventure/beyond-good-and-evil-was-never-worth-20-years-of-angst/",
+    "summary": "Arkheron is the first game from Rob Pardo's studio, now 10 years in the making.",
+    "date": "Tue, 22 Sep 2026 16:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/action/why-blizzard-vet-rob-pardo-is-going-all-in-on-arkheron-the-pvp-dungeon-crawler-thats-like-dark-fantasy-backrooms-its-very-much-been-an-odyssey/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.1,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.04,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -286,33 +284,32 @@
   },
   {
     "id": 17,
-    "title": "Minecraft’s Next Update Could Be Its Biggest In 15 Years, And We’ll Find Out This Weekend",
+    "title": "Xbox Layoffs Are Not Done Yet",
     "source": "GameSpot",
-    "summary": "With the new Minecraft update now live, players have been eagerly looking forward to the next Minecraft Live to learn what comes next for the sandbox game. We now know that the next stream will be this weekend. The Minecraft Live broadcast will begin on September 26, 2026 at 10 AM PT / 1 PM ET / 6 P...",
-    "date": "Tue, 22 Sep 2026 09:54:48 +0000",
-    "link": "https://www.gamespot.com/articles/minecrafts-next-update-could-be-its-biggest-in-15-years-and-well-find-out-this-weekend/",
+    "summary": "Microsoft's \"reset\" of the Xbox business entered its next chapter this week with the announcement of 268 more layoffs, along with other drastic organizational and operational changes for the gaming giant. \nAs part of the announcement, Xbox boss Matt Booty said this latest wave of restructuring, comb...",
+    "date": "Tue, 22 Sep 2026 17:47:36 +0000",
+    "link": "https://www.gamespot.com/articles/xbox-layoffs-are-not-done-yet/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 18,
-    "title": "Here’s Why A Nightmare On Elm Street Game Hasn’t Happened In Decades",
+    "title": "WoW: Forever Doesn’t Let Shamans Or Warlocks Tank, But That Could Change",
     "source": "GameSpot",
-    "summary": "With Friday the 13th, Halloween, and other horror franchises getting video game adaptations in recent years, you might wonder when it'll be Freddy Krueger's turn, but according to Illfonic, the team behind those games, the task is harder than you might think. To do it right, one aspect of the films ...",
-    "date": "Mon, 21 Sep 2026 19:32:54 +0000",
-    "link": "https://www.gamespot.com/articles/heres-why-a-nightmare-on-elm-street-game-hasnt-happened-in-decades/",
+    "summary": "World of Warcraft: Forever is bringing big changes to the WoW Classic sandbox, but don't expect to see Shamans or Warlocks tanking, at least at launch.\nNew roles for classes, like the above-mentioned tanks, as well as Rogue tank and Mage healer, were something Blizzard experimented with in WoW: Clas...",
+    "date": "Tue, 22 Sep 2026 17:34:11 +0000",
+    "link": "https://www.gamespot.com/articles/wow-forever-doesnt-let-shamans-or-warlocks-tank-but-that-could-change/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.14,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.04,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -322,15 +319,15 @@
   },
   {
     "id": 19,
-    "title": "Comparing Games Like Halloween To Dead By Daylight Doesn’t Make Sense, Illfonic Says",
+    "title": "Halo’s Next Game Is Coming From An Unexpected Developer: Activision",
     "source": "GameSpot",
-    "summary": "Halloween is the latest in a long line of asymmetrical multiplayer horror games to release over the past decade, and like all the others, it's faced lots of comparisons to Dead by Daylight (DBD), the decade-long leader in the genre. It's an \"easy\" comparison to draw, Illfonic chief creative officer ...",
-    "date": "Mon, 21 Sep 2026 19:30:00 +0000",
-    "link": "https://www.gamespot.com/articles/comparing-games-like-halloween-to-dead-by-daylight-doesnt-make-sense-illfonic-says/",
+    "summary": "Microsoft has officially announced a major change to its Halo franchise, as Activision will develop the next game in the series with a new, purpose-built team. A small team at Halo Studios will continue to support the Halo community and existing games. The new studio will also exist separately from ...",
+    "date": "Tue, 22 Sep 2026 14:04:45 +0000",
+    "link": "https://www.gamespot.com/articles/halo-next-game-is-coming-from-an-unexpected-developer-activision/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.1,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.07,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -340,19 +337,18 @@
   },
   {
     "id": 20,
-    "title": "Resident Evil Director Reacts To People Who Didn’t Like The Controversial Ending, Says It Was Almost Completely Different",
+    "title": "Obsidian’s New Fallout Game Is Still Coming, As The Studio Moves Under Bethesda’s Umbrella",
     "source": "GameSpot",
-    "summary": "The new Resident Evil movie from director Zach Cregger hit theaters on September 18, and it had a scary-good first weekend at the box office. The movie got great reviews but some people didn't like the ending specifically. \nCregger said in new interviews that he respects that, but doesn't agree--and...",
-    "date": "Mon, 21 Sep 2026 18:29:05 +0000",
-    "link": "https://www.gamespot.com/articles/resident-evil-director-reacts-to-people-who-didnt-like-the-controversial-ending-says-it-was-almost-completely-different/",
+    "summary": "As Xbox continues its reset and lays off nearly 300 staff, the company announced that some of its subsidiaries have been shaken up as well. This includes Obsidian Entertainment, which will now operate under Bethesda Softworks.\nOn September 22, Xbox chief content officer and executive vice president ...",
+    "date": "Tue, 22 Sep 2026 15:45:13 +0000",
+    "link": "https://www.gamespot.com/articles/obsidians-new-fallout-game-is-still-coming-as-the-studio-moves-under-bethesdas-umbrella/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.02,
+      "score": -0.05,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox"
     ],
     "read_time": "1 min read"
   }
