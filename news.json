@@ -1,6 +1,60 @@
 [
   {
     "id": 1,
+    "title": "Here's Your First Look at 3 Cards From Pokémon TCG: Mega Evolution — Delta Reign, Due to Launch This November",
+    "source": "IGN",
+    "summary": "IGN can today reveal three new Pokémon card designs from the upcoming set Pokémon TCG: Mega Evolution — Delta Reign.",
+    "date": "Tue, 22 Sep 2026 09:00:42 +0000",
+    "link": "https://www.ign.com/articles/heres-your-first-look-at-3-cards-from-pokmon-tcg-mega-evolution-delta-reign-due-to-launch-this-november",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "How Long Is Silent Hill: Townfall?",
+    "source": "IGN",
+    "summary": "Five different IGN editors played through Silent: Hill Townfall in five different ways to find out how long Konami's new survival horror is, depending on playstyle.",
+    "date": "Tue, 22 Sep 2026 09:00:00 +0000",
+    "link": "https://www.ign.com/articles/how-long-is-silent-hill-townfall",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "Injustice 3 Leak Reportedly Reveals 2 Playable Characters",
+    "source": "IGN",
+    "summary": "Injustice 3 will feature one character fans will expect and one who perhaps comes as a surprise, according to a fresh leak.",
+    "date": "Tue, 22 Sep 2026 05:50:03 +0000",
+    "link": "https://www.ign.com/articles/injustice-3-leak-reportedly-reveals-2-playable-characters",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
     "title": "The Love Hypothesis Review",
     "source": "IGN",
     "summary": "The Love Hypothesis review: Ali Hazelwood’s New York Times bestseller gets adapted into a charming rom-com.",
@@ -12,67 +66,66 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "IGN Australia and Chupa Chups to Host a Retro Gaming ‘Fun House’ Activation at Westfield Parramatta This October",
-    "source": "IGN",
-    "summary": "IGN Australia and Chupa Chups to Host a Retro Gaming ‘Fun House’ Activation at Westfield Parramatta This October",
-    "date": "Tue, 22 Sep 2026 01:11:02 +0000",
-    "link": "https://www.ign.com/articles/chupa-chups-forever-fun-house",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Get a Lenovo Legion Go S Ryzen Z2 Go Handheld Gaming PC in Excellent Condition for Under $500",
-    "source": "IGN",
-    "summary": "It's more powerful than the Xbox Ally and uses SteamOS like the Steam Deck.",
-    "date": "Tue, 22 Sep 2026 00:40:00 +0000",
-    "link": "https://www.ign.com/articles/lenovo-legion-go-s-handheld-gaming-pc-deal-september-2026",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.6,
-      "badge": "success"
-    },
-    "tags": [
-      "Steam",
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "StarCraft: Tabletop Miniatures Game Review",
-    "source": "IGN",
-    "summary": "",
-    "date": "Tue, 22 Sep 2026 00:02:00 +0000",
-    "link": "https://www.ign.com/articles/starcraft-tabletop-miniatures-game-review",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "Another Injustice 3 leak reveals two characters in the rumoured DC fighting game - one that's expected and one that's a big surprise",
+    "source": "Eurogamer",
+    "summary": "We now have even more confirmation a new Injustice game is in development. Following last week's playtest leak, information has emerged that sheds more light on the upcoming DC fighting game. Read more...",
+    "date": "Tue, 22 Sep 2026 11:17:28 +0000",
+    "link": "https://www.eurogamer.net/injustice-3-supergirl-batwoman-leak",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "World of Warcraft fans are torn about whether Forever's Skyborne starting zone fits tonally with Classic WoW",
+    "source": "Eurogamer",
+    "summary": "World of Warcraft: Forever's beta is here, offering us our first look at WoW's reimagined vanilla or classic experience, and already it's proving extremely popular. But there are points of contention, one being whether the new Skyborne race's starting zone fits tonally with original-race zones. Read...",
+    "date": "Tue, 22 Sep 2026 09:34:13 +0000",
+    "link": "https://www.eurogamer.net/world-of-warcraft-fans-torn-about-whether-forevers-skyborne-starting-zone-fits-tonally-with-classic-wow",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Second wave of Xbox cuts reported to be happening this week, with \"several\" studios apparently facing consolidation",
+    "source": "Eurogamer",
+    "summary": "Xbox is reportedly preparing to lay off hundreds more people this week as the company plans to consolidate several of its studios. Read more...",
+    "date": "Tue, 22 Sep 2026 08:36:03 +0000",
+    "link": "https://www.eurogamer.net/xbox-second-wave-cuts-layoffs-report",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.18,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
     "title": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP",
     "source": "Eurogamer",
     "summary": "Ahead of the bottomless GTA 6 mods we'll surely get whenever the crime epic finally comes to PC, Rockstar Games has imposed new restrictions on the modding community and, boy, they are tight. Read more...",
@@ -84,181 +137,129 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Nintendo Switch ports of Pokémon Ruby and Sapphire look even more likely after official account shares suspiciously HD footage of the GBA games",
-    "source": "Eurogamer",
-    "summary": "Pokémon Ruby and Sapphire might join their handheld third-generation siblings on a journey to the Nintendo Switch - at least, that's what fans think after an official channel posted what looks like a HD version of the classic games that are definitely not running on a Game Boy Advance. Read more...",
-    "date": "Mon, 21 Sep 2026 18:36:03 +0000",
-    "link": "https://www.eurogamer.net/nintendo-switch-pokemon-ruby-sapphire-hd-port",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Bungie is freeing vaulted Destiny 2 campaigns after Marathon \"did not reach as many players as we had hoped\"",
-    "source": "Eurogamer",
-    "summary": "Bungie's been having a tough time these past few years, but the studio's new leadership is making big promises. Starting with Destiny 2 - the devs will start to let some of the game's older campaigns and raids out of the vault, while trying to build a future for the popular MMO-FPS hybrid. And, whil...",
-    "date": "Mon, 21 Sep 2026 17:06:26 +0000",
-    "link": "https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "FPS"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "The Blood of Dawnwalker getting a new difficulty option, combat changes and more in game's first \"big\" patch scheduled for early October",
-    "source": "Eurogamer",
-    "summary": "Speaking to Eurogamer, The Blood of Dawnwalker game director Konrad Tomaszkiewicz has discussed several game improvements coming in a \"big patch\" currently scheduled for early October - including a brand new difficulty option, combat targeting changes, and making it easier to escape from battles by ...",
-    "date": "Mon, 21 Sep 2026 16:41:09 +0000",
-    "link": "https://www.eurogamer.net/blood-of-dawnwalker-difficulty-combat-patch-update",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Patch"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "Anya Taylor-Joy's Near-Perfect Breakout Folk Thriller Is Officially Leaving Netflix",
+    "title": "Former Doom Developer Could Be in Trouble as Bethesda Goes After Doom Memecoin",
     "source": "Polygon",
-    "summary": "Anya Taylor-Joy's breakout role in The Witch gave horror a different kind of heroine. The Robert Eggers film leaves Netflix on Oct. 1.",
-    "date": "Tue, 22 Sep 2026 05:00:15 GMT",
-    "link": "https://www.polygon.com/anya-taylor-joy-the-witch-horror-heroine/",
+    "summary": "A memecoin creator is in Bethesda's sights after using Doom to promote their cryptocurrency.",
+    "date": "Tue, 22 Sep 2026 12:03:52 GMT",
+    "link": "https://www.polygon.com/doom-memecoin-sandy-petersen-bethesda-legal-action/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Stephen King's Most Unhinged Sci-Fi Action Masterpiece Is Officially Free to Watch on YouTube",
+    "title": "Star Wars Boss Says Ahsoka Season 2 Will Be 'A Challenge'",
     "source": "Polygon",
-    "summary": "Stephen King's 1982 novel was adapted a few years later into one of Arnold Schwarzenegger's campiest movies.",
-    "date": "Tue, 22 Sep 2026 04:00:20 GMT",
-    "link": "https://www.polygon.com/stephen-king-the-running-man-arnold-schwarzenegger-streaming-free-youtube/",
+    "summary": "Dave Filoni admits that one of the loftiest concepts from The Clone Wars will be a challenge to bring into Ahsoka season 2.",
+    "date": "Tue, 22 Sep 2026 11:42:42 GMT",
+    "link": "https://www.polygon.com/star-wars-ahsoka-season-2-mortis-gods-dave-filoni/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Pokémon Winds and Winds Leaks Tease A Pokédex Too Massive To Finish",
+    "title": "5 Perfect 'Far Side' Comics from the 1980s That Prove Gary Larson is a Genius",
     "source": "Polygon",
-    "summary": "Pokémon Winds and Waves leaks suggest 300 Pokémon could be added in Gen 10. Even taken with a grain of salt, that's too many new Pokémon.",
-    "date": "Tue, 22 Sep 2026 00:05:09 GMT",
-    "link": "https://www.polygon.com/pokemon-winds-waves-big-new-pokedex/",
+    "summary": "The Far Side creator Gary Larson is a true genius and these five comic strips from the 1980s prove it",
+    "date": "Tue, 22 Sep 2026 10:00:15 GMT",
+    "link": "https://www.polygon.com/5-far-side-comics-genius-gary-larson/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.21,
+      "score": 0.36,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "9 Bonkers Video Game DLCs That Completely Rewrote Expectations",
+    "title": "Xbox Layoffs and Studio Mergers Said to be Imminent as Huge Halo Move Rumored",
     "source": "Polygon",
-    "summary": "From Hell weddings to alien hive-minds, these nine DLCs took a hard swerve away from the games they were attached to",
-    "date": "Tue, 22 Sep 2026 00:00:15 GMT",
-    "link": "https://www.polygon.com/best-video-game-dlcs/",
+    "summary": "Reports say Xbox CEO Asha Sharma will consolidate game studios and cut jobs this week, including moving Halo to Activision Blizzard",
+    "date": "Tue, 22 Sep 2026 09:56:37 GMT",
+    "link": "https://www.polygon.com/xbox-layoffs-studio-consolidation-halo/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.21,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "How about that StarCraft trailer, eh",
+    "title": "It's time to decide the worst graphical effect in games: depth of field vs vignette",
     "source": "PC Gamer",
-    "summary": "How about that StarCraft trailer, eh",
-    "date": "Tue, 22 Sep 2026 06:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/how-about-that-starcraft-trailer-eh/",
+    "summary": "I know which one I'd vote for.",
+    "date": "Tue, 22 Sep 2026 11:20:24 +0000",
+    "link": "https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-depth-of-field-vs-vignette/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -1.0,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "Battlefield Baby",
+    "title": "I've been doing roleplay for 15+ years, and I don't think WoW: Forever needs a ruleset for it",
     "source": "PC Gamer",
-    "summary": "Battlefield Baby",
-    "date": "Tue, 22 Sep 2026 06:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/pc-gaming-show-toyko-direct-2026-picks-clone/",
+    "summary": "Or, at least, not one as strict as this.",
+    "date": "Tue, 22 Sep 2026 11:01:51 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/ive-been-doing-roleplay-for-15-years-i-dont-think-wow-forever-needs-a-ruleset-for-it/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": -0.1,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "I made a 'to play' shelf for myself on Steam",
+    "title": "Steam profiles are beautiful 2000s-era relics",
     "source": "PC Gamer",
-    "summary": "I made a 'to play' shelf for myself on Steam",
-    "date": "Tue, 22 Sep 2026 06:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/i-made-a-to-play-shelf-for-myself-on-steam/",
+    "summary": "Steam profiles are beautiful 2000s-era relics",
+    "date": "Tue, 22 Sep 2026 11:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/steam-profiles-are-beautiful-2000s-era-relics/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.85,
+      "badge": "success"
     },
     "tags": [
       "Steam"
@@ -267,24 +268,42 @@
   },
   {
     "id": 16,
-    "title": "Nighthawks review",
+    "title": "Beyond Good and Evil was never worth 20 years of angst",
     "source": "PC Gamer",
-    "summary": "Postcards from Bat Country.",
-    "date": "Tue, 22 Sep 2026 04:01:00 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/nighthawks-review-a-novel-vampire-rpg-thats-also-a-vampire-novels-worth-of-writing/",
+    "summary": "How did a game so sweet and fleeting become a two-decade sticking point for Ubisoft?",
+    "date": "Tue, 22 Sep 2026 10:48:10 +0000",
+    "link": "https://www.pcgamer.com/games/adventure/beyond-good-and-evil-was-never-worth-20-years-of-angst/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.1,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
+    "title": "Minecraft’s Next Update Could Be Its Biggest In 15 Years, And We’ll Find Out This Weekend",
+    "source": "GameSpot",
+    "summary": "With the new Minecraft update now live, players have been eagerly looking forward to the next Minecraft Live to learn what comes next for the sandbox game. We now know that the next stream will be this weekend. The Minecraft Live broadcast will begin on September 26, 2026 at 10 AM PT / 1 PM ET / 6 P...",
+    "date": "Tue, 22 Sep 2026 09:54:48 +0000",
+    "link": "https://www.gamespot.com/articles/minecrafts-next-update-could-be-its-biggest-in-15-years-and-well-find-out-this-weekend/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
     "title": "Here’s Why A Nightmare On Elm Street Game Hasn’t Happened In Decades",
     "source": "GameSpot",
     "summary": "With Friday the 13th, Halloween, and other horror franchises getting video game adaptations in recent years, you might wonder when it'll be Freddy Krueger's turn, but according to Illfonic, the team behind those games, the task is harder than you might think. To do it right, one aspect of the films ...",
@@ -296,13 +315,13 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "Comparing Games Like Halloween To Dead By Daylight Doesn’t Make Sense, Illfonic Says",
     "source": "GameSpot",
     "summary": "Halloween is the latest in a long line of asymmetrical multiplayer horror games to release over the past decade, and like all the others, it's faced lots of comparisons to Dead by Daylight (DBD), the decade-long leader in the genre. It's an \"easy\" comparison to draw, Illfonic chief creative officer ...",
@@ -314,13 +333,13 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 19,
+    "id": 20,
     "title": "Resident Evil Director Reacts To People Who Didn’t Like The Controversial Ending, Says It Was Almost Completely Different",
     "source": "GameSpot",
     "summary": "The new Resident Evil movie from director Zach Cregger hit theaters on September 18, and it had a scary-good first weekend at the box office. The movie got great reviews but some people didn't like the ending specifically. \nCregger said in new interviews that he respects that, but doesn't agree--and...",
@@ -332,26 +351,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "Destiny Isn’t Dead After All, Bungie Admits It Lost Sight Of What Players Loved",
-    "source": "GameSpot",
-    "summary": "Bungie has admitted that it \"lost sight\" of what players loved about its games over the past few years, acknowledging that a series of broken promises and shifting promises caused the studio to lose the trust of its community. Now, the Destiny developer promises to refocus on its players, with plans...",
-    "date": "Mon, 21 Sep 2026 16:36:20 +0000",
-    "link": "https://www.gamespot.com/articles/destiny-isnt-dead-after-all-bungie-admits-it-lost-sight-of-what-players-loved/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
