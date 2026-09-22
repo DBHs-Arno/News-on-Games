@@ -1,11 +1,28 @@
 [
   {
     "id": 1,
-    "title": "Witcher Creator Says He’s Open to Unconventional Suggestions for Future Adaptations",
+    "title": "Save Up to 20% Off Tournament-Grade PS5, Xbox, and PC Controllers During SCUF's It's Time to Win Sale",
     "source": "IGN",
-    "summary": "After being asked about a stage show production, such as what Game of Thrones is experimenting with, The Witcher creator has said he is \"open to suggestions\" for future adaptations, not ruling out unconventional formats for the fantasy series, and pointing to previous Witcher musical productions in ...",
-    "date": "Mon, 21 Sep 2026 17:30:00 +0000",
-    "link": "https://www.ign.com/articles/witcher-creator-says-hes-open-to-unconventional-suggestions-for-future-adaptations",
+    "summary": "Elite in form AND function.",
+    "date": "Mon, 21 Sep 2026 23:32:00 +0000",
+    "link": "https://www.ign.com/articles/scuf-its-time-to-win-sale-best-deals-on-gaming-controllers-for-ps5-xbox-pc",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.8,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Love Nikki Player Shuts Down Fan Website Over Game's 'Irreverent' and 'Demonic' Clothing Designs",
+    "source": "IGN",
+    "summary": "A fan of the Love Nikki – Dress Up Queen mobile dress-up game is going viral for shutting down their informative website after determining that some of the game’s clothing designs were “demonic.”",
+    "date": "Mon, 21 Sep 2026 23:24:47 +0000",
+    "link": "https://www.ign.com/articles/love-nikki-player-shuts-down-fan-website-over-games-irreverent-and-demonic-clothing-designs",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": -0.07,
@@ -18,33 +35,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
-    "title": "The Bose QuietComfort Ultra Wireless Noise Canceling Headphones Drops Below $200",
-    "source": "IGN",
-    "summary": "Including the Diamond 60th Edition colorway.",
-    "date": "Mon, 21 Sep 2026 17:10:00 +0000",
-    "link": "https://www.ign.com/articles/bose-quietcomfort-ultra-wireless-noise-canceling-headphones-deal-september-2026",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 3,
-    "title": "Pokémon Card Scalpers Are Moaning That The 30th Anniversary Set Isn't Profitable Enough For Them, as Rare Cards Have Been Made Easier to Find",
+    "title": "Halloween: The Game Review",
     "source": "IGN",
-    "summary": "Pokémon scalpers are complaining that the franchise's new 30th Anniversary set has been too generous with its rare cards — leaving resellers unable to generate their usual profits.",
-    "date": "Mon, 21 Sep 2026 17:02:03 +0000",
-    "link": "https://www.ign.com/articles/pokemon-card-scalpers-are-moaning-that-the-30th-anniversary-set-isnt-profitable-enough-for-them-as-rare-cards-have-been-made-easier-to-find",
+    "summary": "Halloween: The Game nails the atmosphere but not the execution, undercut by bugs, good ideas not fully realized, and a lack of variety.",
+    "date": "Mon, 21 Sep 2026 23:00:00 +0000",
+    "link": "https://www.ign.com/articles/halloween-the-game-review",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.0,
+      "score": -0.03,
       "badge": "info"
     },
     "tags": [
@@ -55,14 +54,49 @@
   },
   {
     "id": 4,
-    "title": "Kingdom Come: Deliverance 2 Is Coming to Nintendo Switch 2 – Here’s Where You Can Preorder It",
+    "title": "Call of Duty YouTuber Launches Petition to Remove Skill-Based Matchmaking Following Successful Destiny Protests",
     "source": "IGN",
-    "summary": "Kingdom Come: Deliverance 2: Royal Edition is releasing next year on Nintendo Switch 2. Here's where it's available to preorder for $59.99, alongside details on what comes with this edition of the game.",
-    "date": "Mon, 21 Sep 2026 16:26:57 +0000",
-    "link": "https://www.ign.com/articles/kingdom-come-deliverance-2-royal-edition-nintendo-switch-2-where-to-buy",
+    "summary": "Call of Duty YouTuber Tdawgsmitty has started a petition to remove skill-based matchmaking in the FPS franchise following successful Destiny protests.",
+    "date": "Mon, 21 Sep 2026 22:54:40 +0000",
+    "link": "https://www.ign.com/articles/call-of-duty-youtuber-launches-petition-to-remove-skill-based-matchmaking-following-successful-destiny-protests",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.38,
+      "badge": "success"
+    },
+    "tags": [
+      "FPS"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP",
+    "source": "Eurogamer",
+    "summary": "Ahead of the bottomless GTA 6 mods we'll surely get whenever the crime epic finally comes to PC, Rockstar Games has imposed new restrictions on the modding community and, boy, they are tight. Read more...",
+    "date": "Mon, 21 Sep 2026 19:23:49 +0000",
+    "link": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Nintendo Switch ports of Pokémon Ruby and Sapphire look even more likely after official account shares suspiciously HD footage of the GBA games",
+    "source": "Eurogamer",
+    "summary": "Pokémon Ruby and Sapphire might join their handheld third-generation siblings on a journey to the Nintendo Switch - at least, that's what fans think after an official channel posted what looks like a HD version of the classic games that are definitely not running on a Game Boy Advance. Read more...",
+    "date": "Mon, 21 Sep 2026 18:36:03 +0000",
+    "link": "https://www.eurogamer.net/nintendo-switch-pokemon-ruby-sapphire-hd-port",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.07,
       "badge": "info"
     },
     "tags": [
@@ -71,7 +105,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 5,
+    "id": 7,
     "title": "Bungie is freeing vaulted Destiny 2 campaigns after Marathon \"did not reach as many players as we had hoped\"",
     "source": "Eurogamer",
     "summary": "Bungie's been having a tough time these past few years, but the studio's new leadership is making big promises. Starting with Destiny 2 - the devs will start to let some of the game's older campaigns and raids out of the vault, while trying to build a future for the popular MMO-FPS hybrid. And, whil...",
@@ -88,7 +122,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "The Blood of Dawnwalker getting a new difficulty option, combat changes and more in game's first \"big\" patch scheduled for early October",
     "source": "Eurogamer",
     "summary": "Speaking to Eurogamer, The Blood of Dawnwalker game director Konrad Tomaszkiewicz has discussed several game improvements coming in a \"big patch\" currently scheduled for early October - including a brand new difficulty option, combat targeting changes, and making it easier to escape from battles by ...",
@@ -105,15 +139,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 7,
-    "title": "Grand Theft Auto 6 sleuths are torn on whether a famous Florida locale is in the game or not",
-    "source": "Eurogamer",
-    "summary": "Grand Theft Auto fans are known for a love of speculation and information sleuthing at this point, and this certainly hasn't changed since Rockstar released the extended gameplay preview for Grand Theft Auto 6. The community's current fixation? Whether or not Key West will be in the game. Read more...",
-    "date": "Mon, 21 Sep 2026 15:48:09 +0000",
-    "link": "https://www.eurogamer.net/grand-theft-auto-6-key-west-map",
+    "id": 9,
+    "title": "Pokémon Winds and Winds Leaks Tease A Pokédex Too Massive To Finish",
+    "source": "Polygon",
+    "summary": "Pokémon Winds and Waves leaks suggest 300 Pokémon could be added in Gen 10. Even taken with a grain of salt, that's too many new Pokémon.",
+    "date": "Tue, 22 Sep 2026 00:05:09 GMT",
+    "link": "https://www.polygon.com/pokemon-winds-waves-big-new-pokedex/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.15,
+      "score": 0.21,
       "badge": "success"
     },
     "tags": [
@@ -123,51 +157,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "Hideo Kojima doesn't know if Physint will be released on PS5, and he hasn't decided if it's going to use Sony's Decima game engine",
-    "source": "Eurogamer",
-    "summary": "Metal Gear and Death Stranding creator Hideo Kojima has spoken about a number of topics concerning Sony's sudden shocking decision to back away from publishing his tactical espionage project, Physint. It was a decision made in June, and though Kojima was able to convince Xbox to pick up the Metal Ge...",
-    "date": "Mon, 21 Sep 2026 14:37:11 +0000",
-    "link": "https://www.eurogamer.net/hideo-kojima-physint-playstation-release-decima-engine",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.18,
-      "badge": "danger"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "FF7 Revelation Will Fix One of Rebirth’s Worst Features",
-    "source": "Polygon",
-    "summary": "Remake trilogy director Naoki Hamaguchi revealed Final Fantasy 7 Revelation has a solution to RPG bloat",
-    "date": "Mon, 21 Sep 2026 17:53:26 GMT",
-    "link": "https://www.polygon.com/ff7-final-fantasy-7-revelation-auto-level/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.5,
-      "badge": "danger"
-    },
-    "tags": [
-      "RPG",
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 10,
-    "title": "A New Witcher Book Is in the Works, and It Might Be out Sooner than Expected",
+    "title": "9 Bonkers Video Game DLCs That Completely Rewrote Expectations",
     "source": "Polygon",
-    "summary": "Andrzej Sapkowski recently confirmed he's working on a new The Witcher book, and he hopes to have it completed relatively soon.",
-    "date": "Mon, 21 Sep 2026 17:40:04 GMT",
-    "link": "https://www.polygon.com/witcher-next-book-andrzej-sapkowski-2027/",
+    "summary": "From Hell weddings to alien hive-minds, these nine DLCs took a hard swerve away from the games they were attached to",
+    "date": "Tue, 22 Sep 2026 00:00:15 GMT",
+    "link": "https://www.polygon.com/best-video-game-dlcs/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.21,
+      "badge": "danger"
     },
     "tags": [
       "News",
@@ -177,32 +176,33 @@
   },
   {
     "id": 11,
-    "title": "Xbox Patents New Way to Inject Ads Into Gaming",
+    "title": "When is the point of no return in Fire Emblem Fortune's Weave",
     "source": "Polygon",
-    "summary": "Microsoft filed a patent for technology that would show players advertisements while they're gaming.",
-    "date": "Mon, 21 Sep 2026 17:34:17 GMT",
-    "link": "https://www.polygon.com/microsoft-patent-in-game-ads-load-screens-pauses/",
+    "summary": "Fire Emblem Fortune's Weave's has two points of no return, one of which is the cutoff for recruiting new characters.",
+    "date": "Mon, 21 Sep 2026 21:37:28 GMT",
+    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-point-of-no-return-recruitment-cutoff/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.14,
       "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "GameStop's Shocking 'Pokémon' 30th Anniversary TCG Prices Have Been Quietly Redeemed",
+    "title": "Daredevil: Born Again Officially Ending with Season 3",
     "source": "Polygon",
-    "summary": "Pokémon TCG collectors hated GameStop's 30th Anniversary prices, yet the retailer may be the cheapest way to buy an ETB quickly.",
-    "date": "Mon, 21 Sep 2026 17:19:58 GMT",
-    "link": "https://www.polygon.com/pokemon-30th-anniversary-where-to-buy-gamestop-prices-etb/",
+    "summary": "Daredevil: Born Again's next season will be its final one. The Disney Plus revival will have aired three seasons, just like its Netflix predecessor.",
+    "date": "Mon, 21 Sep 2026 21:14:49 GMT",
+    "link": "https://www.polygon.com/daredevil-born-again-season-3-final-season-disney-plus/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.39,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -212,14 +212,14 @@
   },
   {
     "id": 13,
-    "title": "Wait, how did Lego beat Minecraft to making a city builder?",
+    "title": "Bungie unvaulting Destiny 2 content was a studio-saving emergency decision, because Marathon updates were never going to be enough",
     "source": "PC Gamer",
-    "summary": "The only thing more obvious than a Lego city builder is a Minecraft city builder.",
-    "date": "Mon, 21 Sep 2026 17:14:31 +0000",
-    "link": "https://www.pcgamer.com/games/city-builder/wait-how-did-lego-beat-minecraft-to-making-a-city-builder/",
+    "summary": "At the last possible moment, Bungie takes a surprising and vital first step to winning back player trust.",
+    "date": "Mon, 21 Sep 2026 23:24:23 +0000",
+    "link": "https://www.pcgamer.com/games/fps/bungie-unvaulting-destiny-2-content-was-a-studio-saving-emergency-decision-because-marathon-updates-were-never-going-to-be-enough/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.17,
+      "score": 0.19,
       "badge": "success"
     },
     "tags": [
@@ -230,15 +230,15 @@
   },
   {
     "id": 14,
-    "title": "Bungie un-cancels Destiny: Vaulted content is coming back as new leadership promises 'Destiny is foundational to our future'",
+    "title": "Blizzard warns World of Warcraft: Forever players it will 'very aggressively' punish anyone who buys gold with real money",
     "source": "PC Gamer",
-    "summary": "\"We are not done with Destiny.\"",
-    "date": "Mon, 21 Sep 2026 17:13:29 +0000",
-    "link": "https://www.pcgamer.com/games/bungie-un-cancels-destiny-vaulted-content-is-coming-back-as-new-leadership-promises-destiny-is-foundational-to-our-future/",
+    "summary": "Preserving the economy of the MMO is a top priority, the studio says.",
+    "date": "Mon, 21 Sep 2026 21:15:56 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-warns-world-of-warcraft-forever-players-it-will-very-aggressively-punish-anyone-who-buys-gold-with-real-money/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -248,15 +248,15 @@
   },
   {
     "id": 15,
-    "title": "GTA 5 has true air travel now thanks to the mod I just installed, but they won't let me give me my pals piggybacks onto the plane",
+    "title": "'All roads lead back to Arma'",
     "source": "PC Gamer",
-    "summary": "Money talk, wealth shoots.",
-    "date": "Mon, 21 Sep 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-5-has-true-air-travel-now-thanks-to-the-mod-i-just-installed-but-they-wont-let-me-give-me-my-pals-piggybacks-onto-the-plane/",
+    "summary": "Without Arma, gaming would look a lot different right now.",
+    "date": "Mon, 21 Sep 2026 20:39:21 +0000",
+    "link": "https://www.pcgamer.com/games/fps/all-roads-lead-back-to-arma/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -266,15 +266,15 @@
   },
   {
     "id": 16,
-    "title": "Oh good, the pervert's back",
+    "title": "Rockstar asks modders to please take its games very seriously",
     "source": "PC Gamer",
-    "summary": "And it brought its kids.",
-    "date": "Mon, 21 Sep 2026 16:06:21 +0000",
-    "link": "https://www.pcgamer.com/games/action/oh-good-the-perverts-back/",
+    "summary": "In mod guidelines published earlier this month, Rockstar tells modders to \"respect our games.\"",
+    "date": "Mon, 21 Sep 2026 20:14:25 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-asks-modders-to-please-take-its-games-very-seriously/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.35,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -284,6 +284,60 @@
   },
   {
     "id": 17,
+    "title": "Here’s Why A Nightmare On Elm Street Game Hasn’t Happened In Decades",
+    "source": "GameSpot",
+    "summary": "With Friday the 13th, Halloween, and other horror franchises getting video game adaptations in recent years, you might wonder when it'll be Freddy Krueger's turn, but according to Illfonic, the team behind those games, the task is harder than you might think. To do it right, one aspect of the films ...",
+    "date": "Mon, 21 Sep 2026 19:32:54 +0000",
+    "link": "https://www.gamespot.com/articles/heres-why-a-nightmare-on-elm-street-game-hasnt-happened-in-decades/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.14,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Comparing Games Like Halloween To Dead By Daylight Doesn’t Make Sense, Illfonic Says",
+    "source": "GameSpot",
+    "summary": "Halloween is the latest in a long line of asymmetrical multiplayer horror games to release over the past decade, and like all the others, it's faced lots of comparisons to Dead by Daylight (DBD), the decade-long leader in the genre. It's an \"easy\" comparison to draw, Illfonic chief creative officer ...",
+    "date": "Mon, 21 Sep 2026 19:30:00 +0000",
+    "link": "https://www.gamespot.com/articles/comparing-games-like-halloween-to-dead-by-daylight-doesnt-make-sense-illfonic-says/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.1,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "Resident Evil Director Reacts To People Who Didn’t Like The Controversial Ending, Says It Was Almost Completely Different",
+    "source": "GameSpot",
+    "summary": "The new Resident Evil movie from director Zach Cregger hit theaters on September 18, and it had a scary-good first weekend at the box office. The movie got great reviews but some people didn't like the ending specifically. \nCregger said in new interviews that he respects that, but doesn't agree--and...",
+    "date": "Mon, 21 Sep 2026 18:29:05 +0000",
+    "link": "https://www.gamespot.com/articles/resident-evil-director-reacts-to-people-who-didnt-like-the-controversial-ending-says-it-was-almost-completely-different/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 20,
     "title": "Destiny Isn’t Dead After All, Bungie Admits It Lost Sight Of What Players Loved",
     "source": "GameSpot",
     "summary": "Bungie has admitted that it \"lost sight\" of what players loved about its games over the past few years, acknowledging that a series of broken promises and shifting promises caused the studio to lose the trust of its community. Now, the Destiny developer promises to refocus on its players, with plans...",
@@ -297,58 +351,6 @@
     "tags": [
       "News",
       "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "Wolverine Dev Denies Using GenAI After Weird-Looking In-Game Sign Discovered",
-    "source": "GameSpot",
-    "summary": "Fans recently discovered an odd-looking bathroom sign in Marvel's Wolverine, prompting people to wonder if developer Insomniac Games used generative AI.\nAccording to Insomniac's community and marketing director James Stevenson, that's a bunch of baloney. The reason the bathroom image looks weird is ...",
-    "date": "Mon, 21 Sep 2026 15:42:29 +0000",
-    "link": "https://www.gamespot.com/articles/wolverine-dev-denies-using-genai-after-weird-looking-in-game-sign-discovered/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.25,
-      "badge": "danger"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "Pokemon Is Celebrating Space Week With Cool Merch, And You Just Know Scalpers Will Ruin It",
-    "source": "GameSpot",
-    "summary": "World Space Week kicks off on October 4, and if the idea of exploring the infinite horizon of the cosmos doesn't interest you, then maybe a world-famous Pokemon can inspire you to reach for the stars. As part of the event, the European Space Agency is teaming up with The Pokemon Company to shine a l...",
-    "date": "Mon, 21 Sep 2026 15:12:00 +0000",
-    "link": "https://www.gamespot.com/articles/pokemon-is-celebrating-space-week-with-cool-merch-and-you-just-know-scalpers-will-ruin-it/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "Physint Is Biggest-Selling Game Kojima Could Ever Make, He Says",
-    "source": "GameSpot",
-    "summary": "Gaming legend Hideo Kojima was recently in the news when it was announced that Sony had dropped his new spy game Physint, with Xbox swooping in to sign it. In the aftermath of the shocking announcement, more information has come to light, including how Kojima thought Physint had major commercial app...",
-    "date": "Mon, 21 Sep 2026 14:42:40 +0000",
-    "link": "https://www.gamespot.com/articles/physint-is-biggest-selling-game-kojima-could-ever-make-he-says/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "Xbox"
     ],
     "read_time": "1 min read"
   }
