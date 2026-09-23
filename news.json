@@ -1,33 +1,51 @@
 [
   {
     "id": 1,
-    "title": "The Walmart GeForce Week Sale Has Black Friday Worthy Gaming PC Deals, But They're Selling Out",
+    "title": "Mahershala Ali Agrees That Kevin Feige Is a 'Gigantic Loser and Failure' Over Failed Blade Reboot",
     "source": "IGN",
-    "summary": "The best prices I've seen all year on prebuilt gaming PCs with RTX 5060 to 5090.",
-    "date": "Tue, 22 Sep 2026 17:30:00 +0000",
-    "link": "https://www.ign.com/articles/walmart-geforce-week-sale-2026-best-deals-on-gaming-pcs",
+    "summary": "Oscar-winning actor Mahershala Ali wholeheartedly agreed with Kevin Feige’s description of himself as a “gigantic loser and failure” for not getting Marvel Studios’ Blade reboot off the ground.",
+    "date": "Tue, 22 Sep 2026 21:20:30 +0000",
+    "link": "https://www.ign.com/articles/mahershala-ali-agrees-that-kevin-feige-is-a-gigantic-loser-and-failure-over-failed-blade-reboot",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.39,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.38,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Sea of Thieves Fans Fear for Rare's Future as Studio Gets Put Under Activision Following Xbox Reset",
+    "title": "The Acer Nitro RTX 5070 Prebuilt Gaming PC Drops to $1399 During Walmart's GeForce Week Sale",
     "source": "IGN",
-    "summary": "Sea of Thieves fans are concerned for Rare's future, as the studio has been consolidated under Activision as part of Xbox's latest reset.",
-    "date": "Tue, 22 Sep 2026 17:25:07 +0000",
-    "link": "https://www.ign.com/articles/sea-of-thieves-fans-fear-for-rares-future-as-studio-gets-put-under-activision-following-xbox-reset",
+    "summary": "Excellent prebuilt option for 1080p and 1440p gaming, and it's capable enough to run games in 4K as well.",
+    "date": "Tue, 22 Sep 2026 21:00:00 +0000",
+    "link": "https://www.ign.com/articles/acer-nitro-rtx-5070-prebuilt-gaming-pc-deal-september-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.18,
+      "score": 0.4,
       "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "Halo Studios Cinematic Director Promoted and Laid Off Within the Same Week as Xbox's Brutal Restructuring Continues",
+    "source": "IGN",
+    "summary": "Halo Studios cinematic director Josh Daniels has confirmed that he was promoted and laid off within the same week amid news that Activision has now taken over the next Halo game.",
+    "date": "Tue, 22 Sep 2026 20:41:47 +0000",
+    "link": "https://www.ign.com/articles/halo-studios-cinematic-director-promoted-and-laid-off-within-the-same-week-as-xboxs-brutal-restructuring-continues",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.11,
+      "badge": "danger"
     },
     "tags": [
       "Xbox"
@@ -35,38 +53,20 @@
     "read_time": "1 min read"
   },
   {
-    "id": 3,
-    "title": "MANHATTAN UNDER SIEGE",
-    "source": "IGN",
-    "summary": "",
-    "date": "Tue, 22 Sep 2026 17:00:00 +0000",
-    "link": "https://www.ign.com/articles/manhattan-under-siege",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 4,
-    "title": "Minecraft Beat Itself After Nearly 2 Billion Simulated Years",
+    "title": "Grand Theft Auto 6's Miami Takeover Begins as Rockstar Spends Nearly $1 Million on 'Welcome to Vice City' Signage",
     "source": "IGN",
-    "summary": "Minecraft is no stranger to simulations, but it turns out that under the right conditions, the game can beat itself if given billions of years.",
-    "date": "Tue, 22 Sep 2026 16:58:13 +0000",
-    "link": "https://www.ign.com/articles/minecraft-beat-itself-after-nearly-two-billion-simulated-years",
+    "summary": "Rockstar Games has reportedly spent $1 million to install a \"Welcome to Vice City\" sign in Miami as part of Grand Theft Auto 6's marketing push.",
+    "date": "Tue, 22 Sep 2026 20:26:52 +0000",
+    "link": "https://www.ign.com/articles/grand-theft-auto-6s-miami-takeover-begins-as-rockstar-spends-nearly-1-million-on-welcome-to-vice-city-signage",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.43,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -83,8 +83,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -141,157 +141,174 @@
   },
   {
     "id": 9,
-    "title": "'Coyote vs. Acme' Officially Gets Streaming Release Date",
+    "title": "Fire Emblem: Fortune’s Weave Is the Cure For a Terrible RPG Habit",
     "source": "Polygon",
-    "summary": "After a successful theatrical run, 'Coyote vs. Acme' just got a digital streaming date.",
-    "date": "Tue, 22 Sep 2026 17:53:28 GMT",
-    "link": "https://www.polygon.com/coyote-vs-acme-streaming-release-date/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "'Lost Temple Cat' quest walkthrough in Fire Emblem Fortune's Weave",
-    "source": "Polygon",
-    "summary": "If you're looking for the cat in Fire Emblem: Fortune's Weave \"Lost Temple Cat\" quest, here's where to find it.",
-    "date": "Tue, 22 Sep 2026 17:40:06 GMT",
-    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-lost-temple-cat-quest-walkthrough/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Steam Quietly Just Got 2026's Best Silksong Replacement",
-    "source": "Polygon",
-    "summary": "Well Dweller is the latest Metroidvania from Kyle Thompson. You play as a bird armed with a matchstick in search of his missing family.",
-    "date": "Tue, 22 Sep 2026 17:38:04 GMT",
-    "link": "https://www.polygon.com/well-dweller-steam-release/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.33,
-      "badge": "success"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Unplayable Kingdom Hearts Game Officially Getting an Unexpected Revival",
-    "source": "Polygon",
-    "summary": "Ahead of Kingdom Hearts 4, a fan is making the defunct Union X mobile game playable again",
-    "date": "Tue, 22 Sep 2026 17:29:38 GMT",
-    "link": "https://www.polygon.com/kingdom-hearts-union-x-dark-road-fan-port-disney-rpg/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.28,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "I modded Crazy Taxi into Grand Theft Auto 5",
-    "source": "PC Gamer",
-    "summary": "It's time to make some crazy money.",
-    "date": "Tue, 22 Sep 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-crazy-taxi-into-grand-theft-auto-5/",
+    "summary": "Fire Emblem: Fortune's Weave may let you recruit almost everyone on any route, but it's better to invest in a select few teammates",
+    "date": "Tue, 22 Sep 2026 22:00:15 GMT",
+    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-recruit-everyone/",
     "sentiment": {
       "label": "Critical / Mixed",
       "score": -0.23,
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "RPG"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
-    "title": "I set out to prove polling rate affects my aim and instead found my favourite DPI setting",
-    "source": "PC Gamer",
-    "summary": "The polling rate boot camp was worth it, but for a different reason.",
-    "date": "Tue, 22 Sep 2026 16:31:00 +0000",
-    "link": "https://www.pcgamer.com/hardware/gaming-mice/i-set-out-to-prove-polling-rate-affects-my-aim-and-instead-found-my-favourite-dpi-setting/",
+    "id": 10,
+    "title": "Game Awards 2026: All Game of the Year Front-Runners and Predictions",
+    "source": "Polygon",
+    "summary": "We rank the contenders for GOTY 2026 at TGAs, including Resident Evil Requiem and Grand Theft Auto 6",
+    "date": "Tue, 22 Sep 2026 21:42:06 GMT",
+    "link": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.42,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "What the hell are you guys doing?",
-    "source": "PC Gamer",
-    "summary": "Smashing together Bethesda and Obsidian is baffling.",
-    "date": "Tue, 22 Sep 2026 16:07:20 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/what-the-hell-are-you-guys-doing/",
+    "id": 11,
+    "title": "It's Officially the End of an Era For Halo",
+    "source": "Polygon",
+    "summary": "Activision Blizzard will develop the next Halo game, Xbox announced in September, bringing a symbolic end to a decades-long rivalry between two FPS.",
+    "date": "Tue, 22 Sep 2026 20:30:15 GMT",
+    "link": "https://www.polygon.com/halo-studios-activision-blizzard-new-games/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
+    },
+    "tags": [
+      "FPS",
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "'The Hunt for Gisco's Treasure' walkthrough in Fire Emblem Fortune's Weave",
+    "source": "Polygon",
+    "summary": "Here's \"The Hunt for Gisco's Treasure\" solution in Fire Emblem: Fortune's Weave, including how to solve the riddle yourself",
+    "date": "Tue, 22 Sep 2026 20:27:04 GMT",
+    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-hunt-for-giscos-treasure-walkthrough-location/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "'Guardians make their own fate.' Destiny 2 players and creators celebrate following Bungie's shock U-turn, as the studio admits: 'Your voices mattered'",
+    "source": "PC Gamer",
+    "summary": "Are we actually so back, or is the elation premature?",
+    "date": "Tue, 22 Sep 2026 22:25:32 +0000",
+    "link": "https://www.pcgamer.com/games/guardians-make-their-own-fate-destiny-2-players-and-creators-celebrate-following-bungies-shock-u-turn-as-the-studio-admits-your-voices-mattered/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Vindicated: after speaking to some pro Counter-Strike players I'm sure I was right when I said 360 Hz is the sweet spot for competitive FPS",
+    "source": "PC Gamer",
+    "summary": "The two CS2 players I spoke to seem to agree.",
+    "date": "Tue, 22 Sep 2026 22:08:27 +0000",
+    "link": "https://www.pcgamer.com/hardware/gaming-monitors/vindicated-after-speaking-to-some-pro-counter-strike-players-im-sure-i-was-right-when-i-said-360-hz-is-the-sweet-spot-for-competitive-fps/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.38,
+      "badge": "success"
+    },
+    "tags": [
+      "FPS"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Diablo 5 will 'take a somewhat different approach' to Diablo 4's monster level scaling so your character feels noticeably stronger as you progress",
+    "source": "PC Gamer",
+    "summary": "Blizzard wants leveling up and finding new items to have an immediate impact on combat.",
+    "date": "Tue, 22 Sep 2026 21:52:34 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/diablo-5-will-take-a-somewhat-different-approach-to-diablo-4s-monster-level-scaling-so-your-character-feels-noticeably-stronger-as-you-progress/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Why Blizzard vet Rob Pardo is going all-in on Arkheron, the PvP dungeon crawler that's like dark-fantasy Backrooms: 'It's very much been an odyssey'",
+    "title": "World of Warcraft: Forever players find rule-breaking new items that defy 22 years of experience with the classic MMO",
     "source": "PC Gamer",
-    "summary": "Arkheron is the first game from Rob Pardo's studio, now 10 years in the making.",
-    "date": "Tue, 22 Sep 2026 16:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/action/why-blizzard-vet-rob-pardo-is-going-all-in-on-arkheron-the-pvp-dungeon-crawler-thats-like-dark-fantasy-backrooms-its-very-much-been-an-odyssey/",
+    "summary": "Blizzard snuck in an item that finally gives mages a reason to swing a sword.",
+    "date": "Tue, 22 Sep 2026 19:50:47 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-rule-breaking-new-items-that-defy-22-years-of-experience-with-the-classic-mmo/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.04,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.1,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
-    "title": "Xbox Layoffs Are Not Done Yet",
+    "title": "KPop Demon Hunters And Ghostbusters Come To Monopoly Go For Spooky Season",
     "source": "GameSpot",
-    "summary": "Microsoft's \"reset\" of the Xbox business entered its next chapter this week with the announcement of 268 more layoffs, along with other drastic organizational and operational changes for the gaming giant. \nAs part of the announcement, Xbox boss Matt Booty said this latest wave of restructuring, comb...",
-    "date": "Tue, 22 Sep 2026 17:47:36 +0000",
-    "link": "https://www.gamespot.com/articles/xbox-layoffs-are-not-done-yet/",
+    "summary": "It is officially the fall season in the northern hemisphere, and that means that Halloween is approaching. Mobile game giant Scopely has announced how it's celebrating, and that includes crossovers with KPop Demon Hunters and Ghostbusters in the uber-popular mobile game Monopoly Go.\nThe \"Monster Mas...",
+    "date": "Tue, 22 Sep 2026 19:57:22 +0000",
+    "link": "https://www.gamespot.com/articles/kpop-demon-hunters-and-ghostbusters-come-to-monopoly-go-for-spooky-season/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "StarCraft Doesn’t Sound Like An Xbox Exclusive",
+    "source": "GameSpot",
+    "summary": "StarCraft won't be an Xbox exclusive, though Blizzard isn't exactly making it clear what platforms the newly announced shooter will launch on.\nAnnounced during BlizzCon 2026 with a 2030 release date, Blizzard's StarCraft reboot won't \"be exclusive,\" according to Kotaku, who received a comment from a...",
+    "date": "Tue, 22 Sep 2026 19:54:28 +0000",
+    "link": "https://www.gamespot.com/articles/starcraft-doesnt-sound-like-an-xbox-exclusive/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.17,
+      "score": 0.22,
       "badge": "success"
     },
     "tags": [
@@ -300,51 +317,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 18,
-    "title": "WoW: Forever Doesn’t Let Shamans Or Warlocks Tank, But That Could Change",
-    "source": "GameSpot",
-    "summary": "World of Warcraft: Forever is bringing big changes to the WoW Classic sandbox, but don't expect to see Shamans or Warlocks tanking, at least at launch.\nNew roles for classes, like the above-mentioned tanks, as well as Rogue tank and Mage healer, were something Blizzard experimented with in WoW: Clas...",
-    "date": "Tue, 22 Sep 2026 17:34:11 +0000",
-    "link": "https://www.gamespot.com/articles/wow-forever-doesnt-let-shamans-or-warlocks-tank-but-that-could-change/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 19,
-    "title": "Halo’s Next Game Is Coming From An Unexpected Developer: Activision",
+    "title": "WoW: Forever Aspires To Have A “Mandela Effect” On Players",
     "source": "GameSpot",
-    "summary": "Microsoft has officially announced a major change to its Halo franchise, as Activision will develop the next game in the series with a new, purpose-built team. A small team at Halo Studios will continue to support the Halo community and existing games. The new studio will also exist separately from ...",
-    "date": "Tue, 22 Sep 2026 14:04:45 +0000",
-    "link": "https://www.gamespot.com/articles/halo-next-game-is-coming-from-an-unexpected-developer-activision/",
+    "summary": "World of Warcraft: Forever is reinventing the classic version of Azeroth with all kinds of new content, and if Blizzard does its job, players won't be able to tell the difference between what's old and what's new. \nAnnounced during BlizzCon 2026, Forever introduces four new zones to Azeroth: the Riv...",
+    "date": "Tue, 22 Sep 2026 18:53:02 +0000",
+    "link": "https://www.gamespot.com/articles/wow-forever-aspires-to-have-a-mandela-effect-on-players/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.18,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "Obsidian’s New Fallout Game Is Still Coming, As The Studio Moves Under Bethesda’s Umbrella",
+    "title": "What Is Xbox Game Studios At This Point?",
     "source": "GameSpot",
-    "summary": "As Xbox continues its reset and lays off nearly 300 staff, the company announced that some of its subsidiaries have been shaken up as well. This includes Obsidian Entertainment, which will now operate under Bethesda Softworks.\nOn September 22, Xbox chief content officer and executive vice president ...",
-    "date": "Tue, 22 Sep 2026 15:45:13 +0000",
-    "link": "https://www.gamespot.com/articles/obsidians-new-fallout-game-is-still-coming-as-the-studio-moves-under-bethesdas-umbrella/",
+    "summary": "The organizational structure of Xbox has long been complex and unwieldy, and that hasn't changed after the latest wave of changes and layoffs as part of Xbox's \"reset.\" But Microsoft's latest reshuffling of its studios and workforce does prompt the question of what the \"Xbox Game Studios\" brand even...",
+    "date": "Tue, 22 Sep 2026 18:04:36 +0000",
+    "link": "https://www.gamespot.com/articles/what-is-xbox-game-studios-at-this-point/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.05,
+      "score": -0.03,
       "badge": "info"
     },
     "tags": [
