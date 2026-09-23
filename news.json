@@ -1,356 +1,359 @@
 [
   {
     "id": 1,
-    "title": "George Lucas Says His Changes to The Original Star Wars Trilogy Were Justified as Movies Always Get 'Yanked Out of Your Hands' For Release",
+    "title": "After Asking Very Nicely For a Skin, Madison Beer Joins Fortnite Tomorrow",
     "source": "IGN",
-    "summary": "Star Wars creator George Lucas has defended his frequent tweaks to the series' original movies, while acknowledging \"a lot of people got upset\" about the changes.",
-    "date": "Wed, 23 Sep 2026 10:34:53 +0000",
-    "link": "https://www.ign.com/articles/george-lucas-says-his-changes-to-the-original-star-wars-trilogy-were-justified-as-movies-always-get-yanked-out-of-your-hands-for-release",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.31,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "McDonald's Tests Ads — or 'Post-Purchase Content' — for Other Brands on Menu Screens After You Place Your Order",
-    "source": "IGN",
-    "summary": "McDonald’s is testing ads from other brands that appear on the digital menu screen after you place your order.",
-    "date": "Wed, 23 Sep 2026 09:49:06 +0000",
-    "link": "https://www.ign.com/articles/mcdonalds-tests-ads-or-post-purchase-content-for-other-brands-on-menu-screens-after-you-place-your-order",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "All-Star Superman Writer Grant Morrison Delivers His Verdict on Supergirl and Jason Momoa's Lobo",
-    "source": "IGN",
-    "summary": "Comic book legend Grant Morrison has delivered his verdict on the DC Universe’s Supergirl movie — and in doing so had some choice words for Jason Momoa’s Lobo.",
-    "date": "Wed, 23 Sep 2026 08:57:29 +0000",
-    "link": "https://www.ign.com/articles/all-star-superman-writer-grant-morrison-delivers-his-verdict-on-supergirl-and-jason-momoas-lobo",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Brothers Season 1 Review",
-    "source": "IGN",
-    "summary": "Brothers Season 1 review: Well, at least Woody and Matthew are having fun together…",
-    "date": "Wed, 23 Sep 2026 07:00:00 +0000",
-    "link": "https://www.ign.com/articles/brothers-season-1-review",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "Star Wars Zero Company finds success in passing 1m sales, so can the furloughed development team be reinstated and paid now?",
-    "source": "Eurogamer",
-    "summary": "Star Wars Zero Company, the XCOM-like turn-based tactics game from Bit Reactor, appears to have been a success, selling more than 1m copies, according to estimates from industry analyst Alinea Analytics. Read more...",
-    "date": "Wed, 23 Sep 2026 11:37:47 +0000",
-    "link": "https://www.eurogamer.net/star-wars-zero-company-xcom-sales-furloughed-staff",
+    "summary": "Madison Beer is the latest music icon to join the world of Fortnite, after previously issuing a public call to Epic Games for her to become a skin.",
+    "date": "Wed, 23 Sep 2026 16:30:41 +0000",
+    "link": "https://www.ign.com/articles/after-asking-very-nicely-for-a-skin-madison-beer-joins-fortnite-tomorrow",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.24,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Scrapped GTA 5 Story DLC Might Have Taken the Series Overseas for the First Time in 15 Years",
+    "source": "IGN",
+    "summary": "Grand Theft Auto 5's story DLC was seemingly going to take players to Paris, if leaked footage is anything to go by.",
+    "date": "Wed, 23 Sep 2026 16:20:41 +0000",
+    "link": "https://www.ign.com/articles/scrapped-gta-5-story-dlc-might-have-taken-the-series-overseas-for-the-first-time-in-15-years",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.38,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "Iconic Paranormal Detective Cal McDonald Returns in Plague of Evil and Other Stories",
+    "source": "IGN",
+    "summary": "30 Days of Night co-creator Steve Niles is returning to one of his most beloved characters in the new hard-boiled horror short story collection Cal McDonald: Plague of Evil and Other Stories.",
+    "date": "Wed, 23 Sep 2026 16:00:00 +0000",
+    "link": "https://www.ign.com/articles/iconic-paranormal-detective-cal-mcdonald-returns-in-plague-of-evil-and-other-stories",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "LEGO One Piece Exclusive Character Posters Revealed",
+    "source": "IGN",
+    "summary": "IGN can exclusively reveal six new character posters from the upcoming two-part LEGO One Piece special, streaming on Netflix on September 29.",
+    "date": "Wed, 23 Sep 2026 16:00:00 +0000",
+    "link": "https://www.ign.com/articles/lego-one-piece-character-posters-revealed",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "As Halo goes to Activision, fans are worried about this year's Halo Fest and a potential lore reboot from the Call of Duty publisher",
+    "source": "Eurogamer",
+    "summary": "We're now living in a timeline that would have been impossible to comprehend for a grunt-squashing teen in 2007: Activision is making the next Halo game. And, now, fans have questions about the change. Is this year's Halo Fest still happening, despite sweeping layoffs at Halo Studios? Will Activisio...",
+    "date": "Wed, 23 Sep 2026 17:50:39 +0000",
+    "link": "https://www.eurogamer.net/activision-new-halo-game-fans-worried-lore-reboot",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.21,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 6,
-    "title": "Xbox lays off Gears of War: E-Day's story director barely two weeks before the game's launch",
+    "title": "Obsidian's \"creative identity and strengths\" will remain intact, promises Bethesda, as it takes control of Fallout: New Vegas studio",
     "source": "Eurogamer",
-    "summary": "The story director for Gears of War: E-Day has been laid off as part of yesterday's Xbox cuts, barely two weeks before the game he's worked on for more than four years is released. Read more...",
-    "date": "Wed, 23 Sep 2026 09:00:12 +0000",
-    "link": "https://www.eurogamer.net/gears-of-war-e-day-story-director-laid-off-xbox-cuts",
+    "summary": "Xbox's massive and still ongoing reorganisation has pushed Obsidian Entertainment under Bethesda's umbrella. Despite the quite drastic corporate shakeup, Bethesda's president is promising folks the iconic RPG developer will hold onto its \"creative identity.\" Read more...",
+    "date": "Wed, 23 Sep 2026 16:47:38 +0000",
+    "link": "https://www.eurogamer.net/obsidian-creative-identity-bethesda-fallout-xbox-restructuring",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.29,
+      "badge": "success"
     },
     "tags": [
+      "RPG",
       "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 7,
-    "title": "State of Decay studio Undead Labs goes independent after Xbox restructuring, but lays off \"a significant number\" of the team in doing so",
+    "title": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2",
     "source": "Eurogamer",
-    "summary": "State of Decay studio Undead Labs has shared good and bad news following Xbox's second round of job cuts this year. Read more...",
-    "date": "Wed, 23 Sep 2026 08:36:33 +0000",
-    "link": "https://www.eurogamer.net/undead-labs-independent-xbox-restructuring-state-of-decay",
+    "summary": "As if this season wasn't packed enough with games to play,  the acclaimed 'Nemesis system' Lord of the Rings games Shadow of Mordor and Shadow of War finally come to Switch 2 later this month. Read more...",
+    "date": "Wed, 23 Sep 2026 14:23:32 +0000",
+    "link": "https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 8,
-    "title": "Artist who hand-paints some of gaming's best fantasy world maps brings them together in oversized and extremely lavish art book",
+    "title": "Blizzard to take \"a somewhat different approach\" to level-scaling in Diablo 5, suggesting more influence from Diablo 2 than Diablo 4",
     "source": "Eurogamer",
-    "summary": "If you're an enjoyer of video game maps, you might like this: celebrated artist and cartographer Francesca Baerald - who's created in-game (and out) maps for Dragon Age, Warcraft, Octopath Traveler, Diablo, Dungeons & Dragons and many more - is releasing a glossy new art book. It's an oversized, A3 ...",
-    "date": "Tue, 22 Sep 2026 16:18:06 +0000",
-    "link": "https://www.eurogamer.net/francesca-baerald-game-map-art-book",
+    "summary": "Blizzard has hinted at yet another core mechanic in Diablo 5 seemingly inspired by Diablo 2. Notably, the in-development action-RPG will tackle level-scaling differently from the way it's done in Diablo 4. Read more...",
+    "date": "Wed, 23 Sep 2026 13:58:57 +0000",
+    "link": "https://www.eurogamer.net/diablo-5-level-scaling-diablo-2-blizzard",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.28,
+      "score": 0.3,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "RPG"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "Baldur's Gate 3 Just Got a New Region With 30+ Fights And 70+ Items",
+    "title": "Arc Raiders’ Cheating Epidemic Is Being Dealt With 'Quietly and Continuously'",
     "source": "Polygon",
-    "summary": "A new beta mod adds an entire region to BG3's Act 2, complete with new quests, items, and combat encounters",
-    "date": "Wed, 23 Sep 2026 12:00:15 GMT",
-    "link": "https://www.polygon.com/bg3-act-two-expansion-chionthar-wilds/",
+    "summary": "Arc Raiders' executive producer, Aleksander Grøndal, spoke to us about how the team is handling the cheating problems within the game right now.",
+    "date": "Wed, 23 Sep 2026 18:09:24 GMT",
+    "link": "https://www.polygon.com/arc-raiders-cheating-epidemic-interview/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.04,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Acclaimed Pokémon Artist Responds To Heartbreaking TCG Pack Opening",
+    "source": "Polygon",
+    "summary": "Pokémon fans have deemed Avery The Poke Kid's final TCG pull, a Jirachi art card from the 30th anniversary set, to be poetically fitting",
+    "date": "Wed, 23 Sep 2026 18:05:20 GMT",
+    "link": "https://www.polygon.com/pokemon-avery-the-poke-kid-jirachi-30th-tcg-akira-egawa-beard-dad/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "Fire Emblem: Fortune’s Weave Basically Has the Same Plot As Twisted Metal",
+    "source": "Polygon",
+    "summary": "Fire Emblem: Fortune's Weave is centered around a gladiatorial tournament and wish-fulfillment, not unlike Sony's Twisted Metal, of all things.",
+    "date": "Wed, 23 Sep 2026 18:00:16 GMT",
+    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-twisted-metal/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.33,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Some Witcher 3 Fans Aren’t Too Happy With New Remastered Footage",
+    "source": "Polygon",
+    "summary": "A new clip comparing the original The Witcher 3 to its upcoming remaster has fans debating which looks better",
+    "date": "Wed, 23 Sep 2026 17:57:55 GMT",
+    "link": "https://www.polygon.com/witcher-3-remastered-comparison-footage-fan-backlash/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.39,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "You can't have everything in Arc Raiders' reworked skill tree: 'We believe that creates more interesting choices and supports more playstyles'",
+    "source": "PC Gamer",
+    "summary": "Embark is adding new skills and removing old ones in Frozen Trail.",
+    "date": "Wed, 23 Sep 2026 17:03:52 +0000",
+    "link": "https://www.pcgamer.com/games/third-person-shooter/you-cant-have-everything-in-arc-raiders-reworked-skill-tree-we-believe-that-creates-more-interesting-choices-and-supports-more-playstyles/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.35,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "The Arc Raiders Frozen Trail update is bigger than anyone expected: new ARC, gun upgrades, a map, and personal outposts you can decorate",
+    "source": "PC Gamer",
+    "summary": "The 2.0 patch is comprehensive.",
+    "date": "Wed, 23 Sep 2026 17:03:48 +0000",
+    "link": "https://www.pcgamer.com/games/third-person-shooter/the-arc-raiders-frozen-trail-update-is-bigger-than-anyone-expected-new-arc-gun-upgrades-a-map-and-personal-outposts-you-can-decorate/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "Patch"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "I put UFO sightings in Grand Theft Auto 5, though it didn't quite go to plan",
+    "source": "PC Gamer",
+    "summary": "Well, it'll do.",
+    "date": "Wed, 23 Sep 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-put-ufo-sightings-in-grand-theft-auto-5-though-it-didnt-quite-go-to-plan/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "The producer behind Cregger's Resident Evil film is working on an unnamed Silent Hill project and players are asking for just one thing",
+    "source": "PC Gamer",
+    "summary": "It couldn't possibly get worse.",
+    "date": "Wed, 23 Sep 2026 16:51:00 +0000",
+    "link": "https://www.pcgamer.com/games/horror/the-producer-behind-creggers-resident-evil-film-is-working-on-an-unnamed-silent-hill-project-and-players-are-asking-for-just-one-thing/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.36,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "High On Life Is Helping Make The Case For Bigger Games On Quest",
+    "source": "GameSpot",
+    "summary": "High on Life has been a big hit since it first launched in 2022, thanks to its bizarre sense of humor, motor-mouthed guns, and polished gameplay. But can it succeed as a virtual reality port? That's the question Flat2VR is aiming to answer, as the team behind several VR games is now working with Squ...",
+    "date": "Wed, 23 Sep 2026 17:40:18 +0000",
+    "link": "https://www.gamespot.com/articles/high-on-life-is-helping-make-the-case-for-bigger-games-on-quest/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Arc Raiders’ Battle Pass Won’t Be Totally Free Anymore, But It’ll Pay For Itself",
+    "source": "GameSpot",
+    "summary": "When Arc Raiders' next major update, Frozen Trail, goes live on October 8, it'll introduce lots of changes and additions, and while the update itself will be free, the new battle pass system that comes with it won't be--at least not entirely.\nTo date, Arc Raiders has featured three battle pass-like ...",
+    "date": "Wed, 23 Sep 2026 17:00:00 +0000",
+    "link": "https://www.gamespot.com/articles/arc-raiders-battle-pass-wont-be-totally-free-anymore-but-itll-pay-for-itself/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.1,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "Marvel’s Wolverine Claws Are Real Now, And Your Groceries Don’t Stand A Chance",
+    "source": "GameSpot",
+    "summary": "Contrary to comic book science, you don't need to enroll in a shadowy Canadian black-ops program and undergo excruciating pain to get a set of Wolverine's signature claws. Instead, it's much easier--and less traumatic--to simply hire some blacksmiths to craft you a set, which is exactly what PlaySta...",
+    "date": "Wed, 23 Sep 2026 16:20:11 +0000",
+    "link": "https://www.gamespot.com/articles/marvels-wolverine-claws-are-real-now-and-your-groceries-dont-stand-a-chance/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.12,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "3 Years Ago, Matthew Mercer Faced His Ultimate Critical Role Test",
-    "source": "Polygon",
-    "summary": "Campaign 3: Bells Hells delivered far more bangers than Critters will admit, including one of Matthew Mercer's favorite Critical Role moments ever.",
-    "date": "Wed, 23 Sep 2026 11:00:15 GMT",
-    "link": "https://www.polygon.com/critical-role-matthew-mercer-campaign-3/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.18,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Adidas' New Pokémon Drop Is Here — and Already Selling Out",
-    "source": "Polygon",
-    "summary": "Adidas joins forces with Pokémon to create a themed collection, but many sizes are already out of stock and up on eBay instead.",
-    "date": "Wed, 23 Sep 2026 10:15:32 GMT",
-    "link": "https://www.polygon.com/pokemon-adidas-collection-scalpers/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.32,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Wardogs’ Honeymoon Period Is Officially Coming to an End",
-    "source": "Polygon",
-    "summary": "Wardogs players are complaining about the game's balancing, with the FOB meta and level four armor both being scrutinized.",
-    "date": "Wed, 23 Sep 2026 10:11:24 GMT",
-    "link": "https://www.polygon.com/wardogs-honeymoon-period-player-complaints/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "It's me, I am the whale",
-    "source": "PC Gamer",
-    "summary": "It's me, I am the whale",
-    "date": "Wed, 23 Sep 2026 11:23:39 +0000",
-    "link": "https://www.pcgamer.com/games/its-me-i-am-the-whale/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "PC Gaming Show Toyko Direct 2026 picks",
-    "source": "PC Gamer",
-    "summary": "PC Gaming Show Toyko Direct 2026 picks",
-    "date": "Wed, 23 Sep 2026 11:15:50 +0000",
-    "link": "https://www.pcgamer.com/games/pc-gaming-show-toyko-direct-2026-picks/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "AMD starts the ball rolling for GDDR7 in next-gen GPUs with small code adjustment in its Linux drivers",
-    "source": "PC Gamer",
-    "summary": "My money is still on RDNA 5 launching by the end of next year.",
-    "date": "Wed, 23 Sep 2026 10:54:50 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/amd-starts-the-ball-rolling-for-gddr7-in-next-gen-gpus-with-small-code-adjustment-in-its-linux-drivers/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.12,
-      "badge": "danger"
-    },
-    "tags": [
-      "AMD"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Everything I'd do differently in Cregger's Resident Evil film",
-    "source": "PC Gamer",
-    "summary": "I'm simply built different.",
-    "date": "Wed, 23 Sep 2026 10:42:13 +0000",
-    "link": "https://www.pcgamer.com/movies-tv/everything-id-do-differently-in-creggers-resident-evil-film/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.25,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "Halo Co-Creator Reacts To Franchise Moving To Activision: “Shocked But Not Entirely Surprised”",
-    "source": "GameSpot",
-    "summary": "The Halo franchise has a new home at Activision, as Microsoft announced sweeping changes to its Xbox games division this week. As various Xbox studios are being consolidated under new branches of the company, Halo co-creator Marcus Lehto has commented on the series' move to Activision.\n\"Shocked but ...",
-    "date": "Wed, 23 Sep 2026 11:43:25 +0000",
-    "link": "https://www.gamespot.com/articles/halo-co-creator-reacts-to-franchise-moving-to-activision-shocked-but-not-entirely-surprised/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.2,
-      "badge": "danger"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "KPop Demon Hunters And Ghostbusters Come To Monopoly Go For Spooky Season",
-    "source": "GameSpot",
-    "summary": "It is officially the fall season in the northern hemisphere, and that means that Halloween is approaching. Mobile game giant Scopely has announced how it's celebrating, and that includes crossovers with KPop Demon Hunters and Ghostbusters in the uber-popular mobile game Monopoly Go.\nThe \"Monster Mas...",
-    "date": "Tue, 22 Sep 2026 19:57:22 +0000",
-    "link": "https://www.gamespot.com/articles/kpop-demon-hunters-and-ghostbusters-come-to-monopoly-go-for-spooky-season/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.2,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "StarCraft Doesn’t Sound Like An Xbox Exclusive",
-    "source": "GameSpot",
-    "summary": "StarCraft won't be an Xbox exclusive, though Blizzard isn't exactly making it clear what platforms the newly announced shooter will launch on.\nAnnounced during BlizzCon 2026 with a 2030 release date, Blizzard's StarCraft reboot won't \"be exclusive,\" according to Kotaku, who received a comment from a...",
-    "date": "Tue, 22 Sep 2026 19:54:28 +0000",
-    "link": "https://www.gamespot.com/articles/starcraft-doesnt-sound-like-an-xbox-exclusive/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.22,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "WoW: Forever Aspires To Have A “Mandela Effect” On Players",
+    "title": "More Lord Of The Rings Game Re-Releases Revealed, And They’re Great",
     "source": "GameSpot",
-    "summary": "World of Warcraft: Forever is reinventing the classic version of Azeroth with all kinds of new content, and if Blizzard does its job, players won't be able to tell the difference between what's old and what's new. \nAnnounced during BlizzCon 2026, Forever introduces four new zones to Azeroth: the Riv...",
-    "date": "Tue, 22 Sep 2026 18:53:02 +0000",
-    "link": "https://www.gamespot.com/articles/wow-forever-aspires-to-have-a-mandela-effect-on-players/",
+    "summary": "Aspyr Media is on a mission to re-release more The Lord of the Rings games, and now the latest titles have been revealed.\nThe publisher announced on September 22--the shared birthday of Frodo and Bilbo--that Middle-earth: Shadow of Mordor's Game of the Year edition and Middle-earth: Shadow of War's ...",
+    "date": "Wed, 23 Sep 2026 16:13:08 +0000",
+    "link": "https://www.gamespot.com/articles/more-lord-of-the-rings-game-re-releases-revealed-and-theyre-great/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.18,
+      "score": 0.25,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
