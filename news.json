@@ -1,72 +1,72 @@
 [
   {
     "id": 1,
-    "title": "Mahershala Ali Agrees That Kevin Feige Is a 'Gigantic Loser and Failure' Over Failed Blade Reboot",
+    "title": "Gears of War: E-Day Story Director Laid Off Just a Week Before Early Access Launch",
     "source": "IGN",
-    "summary": "Oscar-winning actor Mahershala Ali wholeheartedly agreed with Kevin Feige’s description of himself as a “gigantic loser and failure” for not getting Marvel Studios’ Blade reboot off the ground.",
-    "date": "Tue, 22 Sep 2026 21:20:30 +0000",
-    "link": "https://www.ign.com/articles/mahershala-ali-agrees-that-kevin-feige-is-a-gigantic-loser-and-failure-over-failed-blade-reboot",
+    "summary": "Gears of War: E-Day's story director has been laid off, just one week before the game's early access launch.",
+    "date": "Wed, 23 Sep 2026 00:22:16 +0000",
+    "link": "https://www.ign.com/articles/gears-of-war-e-day-story-director-laid-off-just-a-week-before-early-access-launch",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.38,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.07,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "The Acer Nitro RTX 5070 Prebuilt Gaming PC Drops to $1399 During Walmart's GeForce Week Sale",
+    "title": "Wolverine's Narrative Director Explains Why Logan Needed to be a Short King in the Game",
     "source": "IGN",
-    "summary": "Excellent prebuilt option for 1080p and 1440p gaming, and it's capable enough to run games in 4K as well.",
-    "date": "Tue, 22 Sep 2026 21:00:00 +0000",
-    "link": "https://www.ign.com/articles/acer-nitro-rtx-5070-prebuilt-gaming-pc-deal-september-2026",
+    "summary": "Wolverine's narrative director, Walt Williams, opened up about why it was important to him that Logan was made to be significantly shorter than his hulking counterpart, Sabretooth, and why the emotional aspect of their relationship was essential to portray in the game.",
+    "date": "Wed, 23 Sep 2026 00:18:16 +0000",
+    "link": "https://www.ign.com/articles/marvels-wolverine-director-explains-why-logan-needed-to-be-a-short-king-in-the-game",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.0,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Halo Studios Cinematic Director Promoted and Laid Off Within the Same Week as Xbox's Brutal Restructuring Continues",
+    "title": "Save $1,050 Off the Alienware 16X Aurora RTX 5060 Gaming Laptop During Walmart's GeForce Week Sale",
     "source": "IGN",
-    "summary": "Halo Studios cinematic director Josh Daniels has confirmed that he was promoted and laid off within the same week amid news that Activision has now taken over the next Halo game.",
-    "date": "Tue, 22 Sep 2026 20:41:47 +0000",
-    "link": "https://www.ign.com/articles/halo-studios-cinematic-director-promoted-and-laid-off-within-the-same-week-as-xboxs-brutal-restructuring-continues",
+    "summary": "Features premium all-metal build quality, a gorgeous OLED display, and Intel's most powerful mobile CPU.",
+    "date": "Tue, 22 Sep 2026 23:25:00 +0000",
+    "link": "https://www.ign.com/articles/alienware-16x-aurora-gaming-laptop-deal-september-2026-updated",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.11,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Grand Theft Auto 6's Miami Takeover Begins as Rockstar Spends Nearly $1 Million on 'Welcome to Vice City' Signage",
+    "title": "State of Decay Developer Undead Labs Responds to 'Significant' Layoffs Following Independence from Xbox",
     "source": "IGN",
-    "summary": "Rockstar Games has reportedly spent $1 million to install a \"Welcome to Vice City\" sign in Miami as part of Grand Theft Auto 6's marketing push.",
-    "date": "Tue, 22 Sep 2026 20:26:52 +0000",
-    "link": "https://www.ign.com/articles/grand-theft-auto-6s-miami-takeover-begins-as-rockstar-spends-nearly-1-million-on-welcome-to-vice-city-signage",
+    "summary": "State of Decay 3 developer Undead Labs has confirmed that it has had to undergo \"significant\" layoffs following its independence from Xbox.",
+    "date": "Tue, 22 Sep 2026 23:19:27 +0000",
+    "link": "https://www.ign.com/articles/state-of-decay-developer-undead-labs-confirms-significant-layoffs-following-independence-from-xbox",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.43,
+      "score": 0.23,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
@@ -83,8 +83,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -141,6 +141,24 @@
   },
   {
     "id": 9,
+    "title": "32 Years Ago, a Crucial 'X-Files' Episode Introduced the Show’s Best Monster Ever",
+    "source": "Polygon",
+    "summary": "The X-Files epsiode \"The Host\" premiered 32 years ago. find out why the flukeman is the show's best monster.",
+    "date": "Wed, 23 Sep 2026 04:00:20 GMT",
+    "link": "https://www.polygon.com/x-files-the-host-flukeman-best-monter-of-the-week/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.67,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
     "title": "Fire Emblem: Fortune’s Weave Is the Cure For a Terrible RPG Habit",
     "source": "Polygon",
     "summary": "Fire Emblem: Fortune's Weave may let you recruit almost everyone on any route, but it's better to invest in a select few teammates",
@@ -157,7 +175,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "Game Awards 2026: All Game of the Year Front-Runners and Predictions",
     "source": "Polygon",
     "summary": "We rank the contenders for GOTY 2026 at TGAs, including Resident Evil Requiem and Grand Theft Auto 6",
@@ -169,13 +187,13 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 11,
+    "id": 12,
     "title": "It's Officially the End of an Era For Halo",
     "source": "Polygon",
     "summary": "Activision Blizzard will develop the next Halo game, Xbox announced in September, bringing a symbolic end to a decades-long rivalry between two FPS.",
@@ -193,25 +211,24 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "'The Hunt for Gisco's Treasure' walkthrough in Fire Emblem Fortune's Weave",
-    "source": "Polygon",
-    "summary": "Here's \"The Hunt for Gisco's Treasure\" solution in Fire Emblem: Fortune's Weave, including how to solve the riddle yourself",
-    "date": "Tue, 22 Sep 2026 20:27:04 GMT",
-    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-hunt-for-giscos-treasure-walkthrough-location/",
+    "id": 13,
+    "title": "Where can Australians buy R18+ PC games without a credit card? Pretty much everywhere but Steam",
+    "source": "PC Gamer",
+    "summary": "Valve has dropped the ball on implementing reasonable age verification measures, so it's time to look further afield.",
+    "date": "Wed, 23 Sep 2026 03:38:59 +0000",
+    "link": "https://www.pcgamer.com/software/platforms/how-to-buy-r18-games-without-a-credit-card/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 13,
+    "id": 14,
     "title": "'Guardians make their own fate.' Destiny 2 players and creators celebrate following Bungie's shock U-turn, as the studio admits: 'Your voices mattered'",
     "source": "PC Gamer",
     "summary": "Are we actually so back, or is the elation premature?",
@@ -223,13 +240,13 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "Vindicated: after speaking to some pro Counter-Strike players I'm sure I was right when I said 360 Hz is the sweet spot for competitive FPS",
     "source": "PC Gamer",
     "summary": "The two CS2 players I spoke to seem to agree.",
@@ -246,7 +263,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "Diablo 5 will 'take a somewhat different approach' to Diablo 4's monster level scaling so your character feels noticeably stronger as you progress",
     "source": "PC Gamer",
     "summary": "Blizzard wants leveling up and finding new items to have an immediate impact on combat.",
@@ -258,26 +275,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "World of Warcraft: Forever players find rule-breaking new items that defy 22 years of experience with the classic MMO",
-    "source": "PC Gamer",
-    "summary": "Blizzard snuck in an item that finally gives mages a reason to swing a sword.",
-    "date": "Tue, 22 Sep 2026 19:50:47 +0000",
-    "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-rule-breaking-new-items-that-defy-22-years-of-experience-with-the-classic-mmo/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.1,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -294,8 +293,8 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -329,8 +328,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
