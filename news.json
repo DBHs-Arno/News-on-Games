@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "Gears of War: E-Day Story Director Laid Off Just a Week Before Early Access Launch",
+    "title": "George Lucas Says His Changes to The Original Star Wars Trilogy Were Justified as Movies Always Get 'Yanked Out of Your Hands' For Release",
     "source": "IGN",
-    "summary": "Gears of War: E-Day's story director has been laid off, just one week before the game's early access launch.",
-    "date": "Wed, 23 Sep 2026 00:22:16 +0000",
-    "link": "https://www.ign.com/articles/gears-of-war-e-day-story-director-laid-off-just-a-week-before-early-access-launch",
+    "summary": "Star Wars creator George Lucas has defended his frequent tweaks to the series' original movies, while acknowledging \"a lot of people got upset\" about the changes.",
+    "date": "Wed, 23 Sep 2026 10:34:53 +0000",
+    "link": "https://www.ign.com/articles/george-lucas-says-his-changes-to-the-original-star-wars-trilogy-were-justified-as-movies-always-get-yanked-out-of-your-hands-for-release",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.31,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -19,14 +19,14 @@
   },
   {
     "id": 2,
-    "title": "Wolverine's Narrative Director Explains Why Logan Needed to be a Short King in the Game",
+    "title": "McDonald's Tests Ads — or 'Post-Purchase Content' — for Other Brands on Menu Screens After You Place Your Order",
     "source": "IGN",
-    "summary": "Wolverine's narrative director, Walt Williams, opened up about why it was important to him that Logan was made to be significantly shorter than his hulking counterpart, Sabretooth, and why the emotional aspect of their relationship was essential to portray in the game.",
-    "date": "Wed, 23 Sep 2026 00:18:16 +0000",
-    "link": "https://www.ign.com/articles/marvels-wolverine-director-explains-why-logan-needed-to-be-a-short-king-in-the-game",
+    "summary": "McDonald’s is testing ads from other brands that appear on the digital menu screen after you place your order.",
+    "date": "Wed, 23 Sep 2026 09:49:06 +0000",
+    "link": "https://www.ign.com/articles/mcdonalds-tests-ads-or-post-purchase-content-for-other-brands-on-menu-screens-after-you-place-your-order",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.0,
+      "score": -0.08,
       "badge": "info"
     },
     "tags": [
@@ -37,14 +37,14 @@
   },
   {
     "id": 3,
-    "title": "Save $1,050 Off the Alienware 16X Aurora RTX 5060 Gaming Laptop During Walmart's GeForce Week Sale",
+    "title": "All-Star Superman Writer Grant Morrison Delivers His Verdict on Supergirl and Jason Momoa's Lobo",
     "source": "IGN",
-    "summary": "Features premium all-metal build quality, a gorgeous OLED display, and Intel's most powerful mobile CPU.",
-    "date": "Tue, 22 Sep 2026 23:25:00 +0000",
-    "link": "https://www.ign.com/articles/alienware-16x-aurora-gaming-laptop-deal-september-2026-updated",
+    "summary": "Comic book legend Grant Morrison has delivered his verdict on the DC Universe’s Supergirl movie — and in doing so had some choice words for Jason Momoa’s Lobo.",
+    "date": "Wed, 23 Sep 2026 08:57:29 +0000",
+    "link": "https://www.ign.com/articles/all-star-superman-writer-grant-morrison-delivers-his-verdict-on-supergirl-and-jason-momoas-lobo",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.5,
+      "score": 0.25,
       "badge": "success"
     },
     "tags": [
@@ -55,15 +55,51 @@
   },
   {
     "id": 4,
-    "title": "State of Decay Developer Undead Labs Responds to 'Significant' Layoffs Following Independence from Xbox",
+    "title": "Brothers Season 1 Review",
     "source": "IGN",
-    "summary": "State of Decay 3 developer Undead Labs has confirmed that it has had to undergo \"significant\" layoffs following its independence from Xbox.",
-    "date": "Tue, 22 Sep 2026 23:19:27 +0000",
-    "link": "https://www.ign.com/articles/state-of-decay-developer-undead-labs-confirms-significant-layoffs-following-independence-from-xbox",
+    "summary": "Brothers Season 1 review: Well, at least Woody and Matthew are having fun together…",
+    "date": "Wed, 23 Sep 2026 07:00:00 +0000",
+    "link": "https://www.ign.com/articles/brothers-season-1-review",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Star Wars Zero Company finds success in passing 1m sales, so can the furloughed development team be reinstated and paid now?",
+    "source": "Eurogamer",
+    "summary": "Star Wars Zero Company, the XCOM-like turn-based tactics game from Bit Reactor, appears to have been a success, selling more than 1m copies, according to estimates from industry analyst Alinea Analytics. Read more...",
+    "date": "Wed, 23 Sep 2026 11:37:47 +0000",
+    "link": "https://www.eurogamer.net/star-wars-zero-company-xcom-sales-furloughed-staff",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.23,
+      "score": 0.24,
       "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Xbox lays off Gears of War: E-Day's story director barely two weeks before the game's launch",
+    "source": "Eurogamer",
+    "summary": "The story director for Gears of War: E-Day has been laid off as part of yesterday's Xbox cuts, barely two weeks before the game he's worked on for more than four years is released. Read more...",
+    "date": "Wed, 23 Sep 2026 09:00:12 +0000",
+    "link": "https://www.eurogamer.net/gears-of-war-e-day-story-director-laid-off-xbox-cuts",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
     },
     "tags": [
       "Xbox"
@@ -71,7 +107,24 @@
     "read_time": "1 min read"
   },
   {
-    "id": 5,
+    "id": 7,
+    "title": "State of Decay studio Undead Labs goes independent after Xbox restructuring, but lays off \"a significant number\" of the team in doing so",
+    "source": "Eurogamer",
+    "summary": "State of Decay studio Undead Labs has shared good and bad news following Xbox's second round of job cuts this year. Read more...",
+    "date": "Wed, 23 Sep 2026 08:36:33 +0000",
+    "link": "https://www.eurogamer.net/undead-labs-independent-xbox-restructuring-state-of-decay",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
     "title": "Artist who hand-paints some of gaming's best fantasy world maps brings them together in oversized and extremely lavish art book",
     "source": "Eurogamer",
     "summary": "If you're an enjoyer of video game maps, you might like this: celebrated artist and cartographer Francesca Baerald - who's created in-game (and out) maps for Dragon Age, Warcraft, Octopath Traveler, Diablo, Dungeons & Dragons and many more - is releasing a glossy new art book. It's an oversized, A3 ...",
@@ -89,66 +142,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "Xbox confirms 268 more layoffs, further studio closures, and Obsidian's shift to Bethesda as major restructuring continues",
-    "source": "Eurogamer",
-    "summary": "Following reports that further job cuts were imminent at Xbox, Microsoft has confirmed more sweeping changes as its major restructuring continues. As a result, some Xbox studios will combine, others are set for closure, and 268 more layoffs have been announced. Read more...",
-    "date": "Tue, 22 Sep 2026 14:44:43 +0000",
-    "link": "https://www.eurogamer.net/xbox-layoffs-activision-rare-halo-ninja-theory",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Hellblade developer Ninja Theory heading towards closure in new wave of Xbox cuts, as two separate agreements collapse",
-    "source": "Eurogamer",
-    "summary": "Ninja Theory - developer of the Hellblade series of games, Enslaved: Odyssey to the West, DmC: Devil May Cry, and Heavenly Sword - is entering consultation in preperation for the studio's closure as part of today's sweeping Xbox cuts and layoffs. Read more...",
-    "date": "Tue, 22 Sep 2026 14:09:57 +0000",
-    "link": "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.32,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Next major Halo game being developed by Activision, as Halo Studios all but closes as part of Microsoft's Xbox restructuring",
-    "source": "Eurogamer",
-    "summary": "Halo Studios (formerly 343 Industries) won't develop the next mainline Halo game because it's being what sounds like drastically reduced in size. Microsoft has instead given development duty to Activision, which is making \"a new purpose-built team\" separate to Call of Duty to make it. Read more...",
-    "date": "Tue, 22 Sep 2026 14:07:10 +0000",
-    "link": "https://www.eurogamer.net/next-halo-game-developer-call-of-duty-stuidio-xbox-restructuring",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 9,
-    "title": "32 Years Ago, a Crucial 'X-Files' Episode Introduced the Show’s Best Monster Ever",
+    "title": "Baldur's Gate 3 Just Got a New Region With 30+ Fights And 70+ Items",
     "source": "Polygon",
-    "summary": "The X-Files epsiode \"The Host\" premiered 32 years ago. find out why the flukeman is the show's best monster.",
-    "date": "Wed, 23 Sep 2026 04:00:20 GMT",
-    "link": "https://www.polygon.com/x-files-the-host-flukeman-best-monter-of-the-week/",
+    "summary": "A new beta mod adds an entire region to BG3's Act 2, complete with new quests, items, and combat encounters",
+    "date": "Wed, 23 Sep 2026 12:00:15 GMT",
+    "link": "https://www.polygon.com/bg3-act-two-expansion-chionthar-wilds/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.67,
+      "score": 0.12,
       "badge": "success"
     },
     "tags": [
@@ -159,32 +161,33 @@
   },
   {
     "id": 10,
-    "title": "Fire Emblem: Fortune’s Weave Is the Cure For a Terrible RPG Habit",
+    "title": "3 Years Ago, Matthew Mercer Faced His Ultimate Critical Role Test",
     "source": "Polygon",
-    "summary": "Fire Emblem: Fortune's Weave may let you recruit almost everyone on any route, but it's better to invest in a select few teammates",
-    "date": "Tue, 22 Sep 2026 22:00:15 GMT",
-    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-recruit-everyone/",
+    "summary": "Campaign 3: Bells Hells delivered far more bangers than Critters will admit, including one of Matthew Mercer's favorite Critical Role moments ever.",
+    "date": "Wed, 23 Sep 2026 11:00:15 GMT",
+    "link": "https://www.polygon.com/critical-role-matthew-mercer-campaign-3/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.23,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.18,
+      "badge": "success"
     },
     "tags": [
-      "RPG"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Game Awards 2026: All Game of the Year Front-Runners and Predictions",
+    "title": "Adidas' New Pokémon Drop Is Here — and Already Selling Out",
     "source": "Polygon",
-    "summary": "We rank the contenders for GOTY 2026 at TGAs, including Resident Evil Requiem and Grand Theft Auto 6",
-    "date": "Tue, 22 Sep 2026 21:42:06 GMT",
-    "link": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
+    "summary": "Adidas joins forces with Pokémon to create a themed collection, but many sizes are already out of stock and up on eBay instead.",
+    "date": "Wed, 23 Sep 2026 10:15:32 GMT",
+    "link": "https://www.polygon.com/pokemon-adidas-collection-scalpers/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.42,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.32,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -194,50 +197,51 @@
   },
   {
     "id": 12,
-    "title": "It's Officially the End of an Era For Halo",
+    "title": "Wardogs’ Honeymoon Period Is Officially Coming to an End",
     "source": "Polygon",
-    "summary": "Activision Blizzard will develop the next Halo game, Xbox announced in September, bringing a symbolic end to a decades-long rivalry between two FPS.",
-    "date": "Tue, 22 Sep 2026 20:30:15 GMT",
-    "link": "https://www.polygon.com/halo-studios-activision-blizzard-new-games/",
+    "summary": "Wardogs players are complaining about the game's balancing, with the FOB meta and level four armor both being scrutinized.",
+    "date": "Wed, 23 Sep 2026 10:11:24 GMT",
+    "link": "https://www.polygon.com/wardogs-honeymoon-period-player-complaints/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.2,
+      "score": -0.4,
       "badge": "danger"
     },
     "tags": [
-      "FPS",
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "Where can Australians buy R18+ PC games without a credit card? Pretty much everywhere but Steam",
+    "title": "It's me, I am the whale",
     "source": "PC Gamer",
-    "summary": "Valve has dropped the ball on implementing reasonable age verification measures, so it's time to look further afield.",
-    "date": "Wed, 23 Sep 2026 03:38:59 +0000",
-    "link": "https://www.pcgamer.com/software/platforms/how-to-buy-r18-games-without-a-credit-card/",
+    "summary": "It's me, I am the whale",
+    "date": "Wed, 23 Sep 2026 11:23:39 +0000",
+    "link": "https://www.pcgamer.com/games/its-me-i-am-the-whale/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Steam"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "'Guardians make their own fate.' Destiny 2 players and creators celebrate following Bungie's shock U-turn, as the studio admits: 'Your voices mattered'",
+    "title": "PC Gaming Show Toyko Direct 2026 picks",
     "source": "PC Gamer",
-    "summary": "Are we actually so back, or is the elation premature?",
-    "date": "Tue, 22 Sep 2026 22:25:32 +0000",
-    "link": "https://www.pcgamer.com/games/guardians-make-their-own-fate-destiny-2-players-and-creators-celebrate-following-bungies-shock-u-turn-as-the-studio-admits-your-voices-mattered/",
+    "summary": "PC Gaming Show Toyko Direct 2026 picks",
+    "date": "Wed, 23 Sep 2026 11:15:50 +0000",
+    "link": "https://www.pcgamer.com/games/pc-gaming-show-toyko-direct-2026-picks/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -247,32 +251,32 @@
   },
   {
     "id": 15,
-    "title": "Vindicated: after speaking to some pro Counter-Strike players I'm sure I was right when I said 360 Hz is the sweet spot for competitive FPS",
+    "title": "AMD starts the ball rolling for GDDR7 in next-gen GPUs with small code adjustment in its Linux drivers",
     "source": "PC Gamer",
-    "summary": "The two CS2 players I spoke to seem to agree.",
-    "date": "Tue, 22 Sep 2026 22:08:27 +0000",
-    "link": "https://www.pcgamer.com/hardware/gaming-monitors/vindicated-after-speaking-to-some-pro-counter-strike-players-im-sure-i-was-right-when-i-said-360-hz-is-the-sweet-spot-for-competitive-fps/",
+    "summary": "My money is still on RDNA 5 launching by the end of next year.",
+    "date": "Wed, 23 Sep 2026 10:54:50 +0000",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/amd-starts-the-ball-rolling-for-gddr7-in-next-gen-gpus-with-small-code-adjustment-in-its-linux-drivers/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.38,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.12,
+      "badge": "danger"
     },
     "tags": [
-      "FPS"
+      "AMD"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Diablo 5 will 'take a somewhat different approach' to Diablo 4's monster level scaling so your character feels noticeably stronger as you progress",
+    "title": "Everything I'd do differently in Cregger's Resident Evil film",
     "source": "PC Gamer",
-    "summary": "Blizzard wants leveling up and finding new items to have an immediate impact on combat.",
-    "date": "Tue, 22 Sep 2026 21:52:34 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/diablo-5-will-take-a-somewhat-different-approach-to-diablo-4s-monster-level-scaling-so-your-character-feels-noticeably-stronger-as-you-progress/",
+    "summary": "I'm simply built different.",
+    "date": "Wed, 23 Sep 2026 10:42:13 +0000",
+    "link": "https://www.pcgamer.com/movies-tv/everything-id-do-differently-in-creggers-resident-evil-film/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.25,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -282,6 +286,23 @@
   },
   {
     "id": 17,
+    "title": "Halo Co-Creator Reacts To Franchise Moving To Activision: “Shocked But Not Entirely Surprised”",
+    "source": "GameSpot",
+    "summary": "The Halo franchise has a new home at Activision, as Microsoft announced sweeping changes to its Xbox games division this week. As various Xbox studios are being consolidated under new branches of the company, Halo co-creator Marcus Lehto has commented on the series' move to Activision.\n\"Shocked but ...",
+    "date": "Wed, 23 Sep 2026 11:43:25 +0000",
+    "link": "https://www.gamespot.com/articles/halo-co-creator-reacts-to-franchise-moving-to-activision-shocked-but-not-entirely-surprised/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
     "title": "KPop Demon Hunters And Ghostbusters Come To Monopoly Go For Spooky Season",
     "source": "GameSpot",
     "summary": "It is officially the fall season in the northern hemisphere, and that means that Halloween is approaching. Mobile game giant Scopely has announced how it's celebrating, and that includes crossovers with KPop Demon Hunters and Ghostbusters in the uber-popular mobile game Monopoly Go.\nThe \"Monster Mas...",
@@ -299,7 +320,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "StarCraft Doesn’t Sound Like An Xbox Exclusive",
     "source": "GameSpot",
     "summary": "StarCraft won't be an Xbox exclusive, though Blizzard isn't exactly making it clear what platforms the newly announced shooter will launch on.\nAnnounced during BlizzCon 2026 with a 2030 release date, Blizzard's StarCraft reboot won't \"be exclusive,\" according to Kotaku, who received a comment from a...",
@@ -316,7 +337,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 19,
+    "id": 20,
     "title": "WoW: Forever Aspires To Have A “Mandela Effect” On Players",
     "source": "GameSpot",
     "summary": "World of Warcraft: Forever is reinventing the classic version of Azeroth with all kinds of new content, and if Blizzard does its job, players won't be able to tell the difference between what's old and what's new. \nAnnounced during BlizzCon 2026, Forever introduces four new zones to Azeroth: the Riv...",
@@ -330,23 +351,6 @@
     "tags": [
       "Gaming",
       "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "What Is Xbox Game Studios At This Point?",
-    "source": "GameSpot",
-    "summary": "The organizational structure of Xbox has long been complex and unwieldy, and that hasn't changed after the latest wave of changes and layoffs as part of Xbox's \"reset.\" But Microsoft's latest reshuffling of its studios and workforce does prompt the question of what the \"Xbox Game Studios\" brand even...",
-    "date": "Tue, 22 Sep 2026 18:04:36 +0000",
-    "link": "https://www.gamespot.com/articles/what-is-xbox-game-studios-at-this-point/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Xbox"
     ],
     "read_time": "1 min read"
   }
