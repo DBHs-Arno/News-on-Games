@@ -1,49 +1,51 @@
 [
   {
     "id": 1,
-    "title": "Warhammer 40,000: Dawn of War 4 Hard Mode Is No Joke — Watch AI-Controlled Orks Wipe the Floor With 2 Developers Playing Space Marines",
+    "title": "Meta’s New VR Glasses to Entice Casual Viewers With 3D and Full-Frame IMAX",
     "source": "IGN",
-    "summary": "When developers show off their games, they tend to defeat the enemy AI in spectacular fashion. But that’s exactly the opposite of what happens in the gameplay King Art Games just released for its upcoming real-time strategy game Warhammer 40,000: Dawn of War 4.",
-    "date": "Wed, 23 Sep 2026 21:35:56 +0000",
-    "link": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-hard-mode-is-no-joke-watch-ai-controlled-orks-wipe-the-floor-with-2-developers-playing-space-marines",
+    "summary": "Meta has revealed their new VR Glasses, with an eye (ahem) to enticing casual viewers with full 3D and full-frame IMAX.",
+    "date": "Thu, 24 Sep 2026 00:00:00 +0000",
+    "link": "https://www.ign.com/articles/metas-new-vr-glasses-to-entice-casual-viewers-with-3d-and-full-frame-imax",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.03,
+      "score": -0.08,
       "badge": "info"
     },
     "tags": [
-      "AI"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Meta Connect 2026 Live Blog – What's Next for VR?",
+    "title": "Warner Bros. Pushes Back DC's Dynamic Duo Film, Gremlins 3 Gets One Year Delay",
     "source": "IGN",
-    "summary": "Just a week after the Steam Frame finally debuted and presented Valve's vision for VR gaming, Meta is getting ready to take the stage at Meta Connect 2026.",
-    "date": "Wed, 23 Sep 2026 21:30:00 +0000",
-    "link": "https://www.ign.com/articles/meta-connect-2026-everything-announced",
+    "summary": "Warner Bros. has pushed back DC's Dynamic Duo and delayed Gremlins 3 by a whole year.",
+    "date": "Wed, 23 Sep 2026 23:30:23 +0000",
+    "link": "https://www.ign.com/articles/warner-bros-pushes-back-dcs-dynamic-duo-film-gremlins-3-gets-one-year-delay",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.08,
+      "score": 0.04,
       "badge": "info"
     },
     "tags": [
-      "Steam"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Producer of Zach Cregger's Resident Evil Movie Reportedly Working on New Silent Hill Film",
+    "title": "YouTube's New A/B Video Test Feature Is Already Creating Fears Over Weaponized Negativity",
     "source": "IGN",
-    "summary": "A new report from The Wall Street Journal states that Roy Lee, who produced Zach Cregger’s hugely-successful Resident Evil movie, is now working on a Silent Hill film.",
-    "date": "Wed, 23 Sep 2026 21:23:50 +0000",
-    "link": "https://www.ign.com/articles/producer-of-zach-creggers-resident-evil-movie-reportedly-working-on-new-silent-hill-film",
+    "summary": "YouTube is launching a new feature that allows creators to test different cuts of their own videos, leading fans to worry about weaponized negativity.",
+    "date": "Wed, 23 Sep 2026 23:27:34 +0000",
+    "link": "https://www.ign.com/articles/youtubes-new-ab-video-test-feature-is-already-creating-fears-over-weaponized-negativity",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.29,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.22,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -53,15 +55,15 @@
   },
   {
     "id": 4,
-    "title": "Robert Pattinson Reacts to Fans Asking for Him to Play the Joker After Primetime Performance Goes Viral",
+    "title": "Artist Behind Pokémon 30th Anniversary Jirachi SIR Card Gives Tearful Response to Late Influencer's Heart-Wrenching Final Pack Opening",
     "source": "IGN",
-    "summary": "Robert Pattinson’s captivating performance as Chris Hansen in A24’s Primetime has sparked an unexpected trend; fans are now wondering what Pattinson’s take on the Joker would look like.",
-    "date": "Wed, 23 Sep 2026 20:46:27 +0000",
-    "link": "https://www.ign.com/articles/robert-pattinson-reacts-to-fans-asking-for-him-to-play-the-joker-after-primetime-performance-goes-viral",
+    "summary": "The artist behind a Pokémon 30th Anniversary Jirachi SIR card has responded after beloved influencer Avery the Poké Kid pulled the card in his last pack opening before his death from pancreatic cancer.",
+    "date": "Wed, 23 Sep 2026 23:24:15 +0000",
+    "link": "https://www.ign.com/articles/artist-behind-pokemon-30th-anniversary-jirachi-sir-card-gives-tearful-response-to-late-influencers-heart-wrenching-final-pack-opening",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.07,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -118,8 +120,8 @@
       "badge": "success"
     },
     "tags": [
-      "RPG",
-      "Xbox"
+      "Xbox",
+      "RPG"
     ],
     "read_time": "1 min read"
   },
@@ -143,11 +145,47 @@
   },
   {
     "id": 9,
-    "title": "All paralogue dates and deadlines in Fire Emblem Fortune's Weave",
+    "title": "Magic: The Gathering's 10 Best Counterspells, Ranked",
     "source": "Polygon",
-    "summary": "These are all the paralogues in Fire Emblem Fortune's Weave, including paralogue start dates and end dates",
-    "date": "Wed, 23 Sep 2026 21:42:56 GMT",
-    "link": "https://www.polygon.com/all-fire-emblem-fortunes-weave-paralogues-dates/",
+    "summary": "A look at the 10 greatest counterspells ever printed in Magic: The Gathering.",
+    "date": "Thu, 24 Sep 2026 05:00:15 GMT",
+    "link": "https://www.polygon.com/mtg-best-counterspells-in-magic-the-gathering/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.75,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "How to solve the blood transfusion puzzle in Silent Hill Townfall",
+    "source": "Polygon",
+    "summary": "Here's how to obtain the missing blood bags and open the blood transfusion door in Silent Hill: Townfall",
+    "date": "Thu, 24 Sep 2026 04:01:14 GMT",
+    "link": "https://www.polygon.com/silent-hill-townfall-blood-transfusion-door-puzzle-blood-bags/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "How to save the patient in Silent Hill Townfall",
+    "source": "Polygon",
+    "summary": "Here's how to give the blood pressure, make an X-ray, and find the medicine in Silent Hill: Townfall's patient puzzle",
+    "date": "Thu, 24 Sep 2026 04:01:14 GMT",
+    "link": "https://www.polygon.com/silent-hill-townfall-patient-puzzle-walkthrough-vitals-medicine/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -160,51 +198,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "World of Warcraft Would Never Work on PS5 or Xbox",
-    "source": "Polygon",
-    "summary": "The official gamepad support in WoW: Forever is about as good as it could be, but it's still a square peg in a round hole",
-    "date": "Wed, 23 Sep 2026 21:00:15 GMT",
-    "link": "https://www.polygon.com/world-of-warcraft-wow-forever-gamepad-console/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Hackers Behind Flopped 'GTA 6' Leak Officially Threatening the FBI Now",
-    "source": "Polygon",
-    "summary": "Months after threatening GTA and RDR2 leaks, the ShinyHunters hacking group are now trying to pressure the FBI",
-    "date": "Wed, 23 Sep 2026 20:35:48 GMT",
-    "link": "https://www.polygon.com/fbi-hacked-gta-6-leak-shinyhunters-data-agents-jobs/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 12,
-    "title": "All classes and unlock requirements in Fire Emblem Fortune's Weave",
+    "title": "How to unlock the Community Gardens gate in Silent Hill Townfall",
     "source": "Polygon",
-    "summary": "Our Fire Emblem Fortune's Weave class guide lists secret classes and unlock requirements, along with the mastery skill for each",
-    "date": "Wed, 23 Sep 2026 20:35:15 GMT",
-    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-classes-unlock-secret/",
+    "summary": "Here's how to obtain the Community Garden key in Silent Hill: Townfall and reach Mr. Stewart's house",
+    "date": "Thu, 24 Sep 2026 04:01:14 GMT",
+    "link": "https://www.polygon.com/silent-hill-townfall-unlock-the-community-gardens-gate-door-key-jane/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -214,6 +217,24 @@
   },
   {
     "id": 13,
+    "title": "The Industrial Revolution is the reason RPGs have area-of-effect spells: A PC Gamer Causality Chain™",
+    "source": "PC Gamer",
+    "summary": "Spl-ASH damage.",
+    "date": "Thu, 24 Sep 2026 04:00:25 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/the-industrial-revolution-is-the-reason-rpgs-have-area-of-effect-spells-a-pc-gamer-causality-chaintm/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
     "title": "Quake Champions takes a shower, shedding all its 2017 live-service grime and becoming a $10 game",
     "source": "PC Gamer",
     "summary": "If you ever played it on Steam, it's yours to keep.",
@@ -230,7 +251,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "Microsoft's approach to age verification in Australia is further proof that Valve is taking the everloving piss",
     "source": "PC Gamer",
     "summary": "Valve, are you hearing this?",
@@ -248,7 +269,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "World of Warcraft: Forever's first patch will bring back the number one thing seasoned players missed from the MMO's past: storms",
     "source": "PC Gamer",
     "summary": "Blizzard is bringing intense weather effects back to Azeroth.",
@@ -261,24 +282,6 @@
     },
     "tags": [
       "Patch"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Halo needed to change, but Activision faces a huge challenge to fix it",
-    "source": "PC Gamer",
-    "summary": "Gutting the team that existed to make Halo is a drastic move.",
-    "date": "Wed, 23 Sep 2026 21:50:00 +0000",
-    "link": "https://www.pcgamer.com/games/halo/halo-needed-to-change-but-activision-faces-a-huge-challenge-to-fix-it/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
     ],
     "read_time": "1 min read"
   },
