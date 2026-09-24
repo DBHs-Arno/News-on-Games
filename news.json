@@ -1,249 +1,86 @@
 [
   {
     "id": 1,
-    "title": "Meta’s New VR Glasses to Entice Casual Viewers With 3D and Full-Frame IMAX",
+    "title": "Nintendo Switch 2 Drops to Record-Low £355 in the UK",
     "source": "IGN",
-    "summary": "Meta has revealed their new VR Glasses, with an eye (ahem) to enticing casual viewers with full 3D and full-frame IMAX.",
-    "date": "Thu, 24 Sep 2026 00:00:00 +0000",
-    "link": "https://www.ign.com/articles/metas-new-vr-glasses-to-entice-casual-viewers-with-3d-and-full-frame-imax",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "Warner Bros. Pushes Back DC's Dynamic Duo Film, Gremlins 3 Gets One Year Delay",
-    "source": "IGN",
-    "summary": "Warner Bros. has pushed back DC's Dynamic Duo and delayed Gremlins 3 by a whole year.",
-    "date": "Wed, 23 Sep 2026 23:30:23 +0000",
-    "link": "https://www.ign.com/articles/warner-bros-pushes-back-dcs-dynamic-duo-film-gremlins-3-gets-one-year-delay",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "YouTube's New A/B Video Test Feature Is Already Creating Fears Over Weaponized Negativity",
-    "source": "IGN",
-    "summary": "YouTube is launching a new feature that allows creators to test different cuts of their own videos, leading fans to worry about weaponized negativity.",
-    "date": "Wed, 23 Sep 2026 23:27:34 +0000",
-    "link": "https://www.ign.com/articles/youtubes-new-ab-video-test-feature-is-already-creating-fears-over-weaponized-negativity",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.22,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Artist Behind Pokémon 30th Anniversary Jirachi SIR Card Gives Tearful Response to Late Influencer's Heart-Wrenching Final Pack Opening",
-    "source": "IGN",
-    "summary": "The artist behind a Pokémon 30th Anniversary Jirachi SIR card has responded after beloved influencer Avery the Poké Kid pulled the card in his last pack opening before his death from pancreatic cancer.",
-    "date": "Wed, 23 Sep 2026 23:24:15 +0000",
-    "link": "https://www.ign.com/articles/artist-behind-pokemon-30th-anniversary-jirachi-sir-card-gives-tearful-response-to-late-influencers-heart-wrenching-final-pack-opening",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "Discord launches controversial age-verification system \"using the most privacy-preserving approach we could build\" months after first delay",
-    "source": "Eurogamer",
-    "summary": "Discord delayed the rollout of its controversial age verification system back in February after very loud backlash against the company's plans. Those age checks are now back, but this time, co-founder and chief technology officer Stanislav Vishnevskiy says the updated system will give users options ...",
-    "date": "Wed, 23 Sep 2026 18:55:20 +0000",
-    "link": "https://www.eurogamer.net/discord-controversial-age-verification-privacy-preserving",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.28,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "As Halo goes to Activision, fans are worried about this year's Halo Fest and a potential lore reboot from the Call of Duty publisher",
-    "source": "Eurogamer",
-    "summary": "We're now living in a timeline that would have been impossible to comprehend for a grunt-squashing teen in 2007: Activision is making the next Halo game. And, now, fans have questions about the change. Is this year's Halo Fest still happening, despite sweeping layoffs at Halo Studios? Will Activisio...",
-    "date": "Wed, 23 Sep 2026 17:50:39 +0000",
-    "link": "https://www.eurogamer.net/activision-new-halo-game-fans-worried-lore-reboot",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.21,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Obsidian's \"creative identity and strengths\" will remain intact, promises Bethesda, as it takes control of Fallout: New Vegas studio",
-    "source": "Eurogamer",
-    "summary": "Xbox's massive and still ongoing reorganisation has pushed Obsidian Entertainment under Bethesda's umbrella. Despite the quite drastic corporate shakeup, Bethesda's president is promising folks the iconic RPG developer will hold onto its \"creative identity.\" Read more...",
-    "date": "Wed, 23 Sep 2026 16:47:38 +0000",
-    "link": "https://www.eurogamer.net/obsidian-creative-identity-bethesda-fallout-xbox-restructuring",
+    "summary": "Despite a price rise at the start of September (jumping to £419.99 RRP), Nintendo Switch 2 consoles are now at their lowest price ever in the UK as part of a limited-time sale. Here's where you can pick up the console for just £354.99 right now.",
+    "date": "Thu, 24 Sep 2026 10:33:22 +0000",
+    "link": "https://www.ign.com/articles/nintendo-switch-2-uk-deal-lowest-price-ever",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.29,
       "badge": "success"
     },
     "tags": [
-      "Xbox",
-      "RPG"
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2",
+    "id": 2,
+    "title": "Injustice 3 Rumor Sparks Response From NetherRealm's Ed Boon",
+    "source": "IGN",
+    "summary": "NetherRealm development chief Ed Boon has responded to rumors doing the rounds about the studio’s next game, including reports indicating Injustice 3 is in the works.",
+    "date": "Thu, 24 Sep 2026 10:04:29 +0000",
+    "link": "https://www.ign.com/articles/injustice-3-rumors-sparks-response-from-netherrealms-ed-boon",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "The Lord of the Rings Star Andy Serkis is Working on a Sci-Fi Adaptation of The Odyssey for Audible",
+    "source": "IGN",
+    "summary": "The Lord of the Rings star Andy Serkis is working on a sci-fi version of The Odyssey, written by acclaimed author Adrian Tchaikovsky.",
+    "date": "Thu, 24 Sep 2026 09:32:30 +0000",
+    "link": "https://www.ign.com/articles/the-lord-of-the-rings-star-andy-serkis-is-working-on-a-sci-fi-adaptation-of-the-odyssey-for-audible",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "Pokémon TCG: 30th Anniversary Celebration Booster Bundles Are In Stock at Amazon",
+    "source": "IGN",
+    "summary": "Amazon has recently restocked its allocation of Pokémon TCG's 30th Celebration Booster Bundles, which are currently available for just $45. That's considerably under current market rates, which sit around $122.64 at TCGplayer.",
+    "date": "Thu, 24 Sep 2026 08:53:40 +0000",
+    "link": "https://www.ign.com/articles/pokemon-tcg-30th-anniversary-celebration-booster-bundles-where-to-buy",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Quake Champions ditches free-to-play and kills off its Microsoft Store version eight years after its original release",
     "source": "Eurogamer",
-    "summary": "As if this season wasn't packed enough with games to play,  the acclaimed 'Nemesis system' Lord of the Rings games Shadow of Mordor and Shadow of War finally come to Switch 2 later this month. Read more...",
-    "date": "Wed, 23 Sep 2026 14:23:32 +0000",
-    "link": "https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2",
+    "summary": "In an unusual move, developer id Software's free-to-play shooter Quake Champions is transitioning into a paid product, eight years after its original release. As part of the same move, the Microsoft studio is killing off the Microsoft Store version, meaning it's now only available on  Steam. Read mo...",
+    "date": "Thu, 24 Sep 2026 11:55:59 +0000",
+    "link": "https://www.eurogamer.net/quake-champions-free-to-play-removed-now-paid",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.2,
+      "score": 0.23,
       "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "Magic: The Gathering's 10 Best Counterspells, Ranked",
-    "source": "Polygon",
-    "summary": "A look at the 10 greatest counterspells ever printed in Magic: The Gathering.",
-    "date": "Thu, 24 Sep 2026 05:00:15 GMT",
-    "link": "https://www.polygon.com/mtg-best-counterspells-in-magic-the-gathering/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.75,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "How to solve the blood transfusion puzzle in Silent Hill Townfall",
-    "source": "Polygon",
-    "summary": "Here's how to obtain the missing blood bags and open the blood transfusion door in Silent Hill: Townfall",
-    "date": "Thu, 24 Sep 2026 04:01:14 GMT",
-    "link": "https://www.polygon.com/silent-hill-townfall-blood-transfusion-door-puzzle-blood-bags/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "How to save the patient in Silent Hill Townfall",
-    "source": "Polygon",
-    "summary": "Here's how to give the blood pressure, make an X-ray, and find the medicine in Silent Hill: Townfall's patient puzzle",
-    "date": "Thu, 24 Sep 2026 04:01:14 GMT",
-    "link": "https://www.polygon.com/silent-hill-townfall-patient-puzzle-walkthrough-vitals-medicine/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "How to unlock the Community Gardens gate in Silent Hill Townfall",
-    "source": "Polygon",
-    "summary": "Here's how to obtain the Community Garden key in Silent Hill: Townfall and reach Mr. Stewart's house",
-    "date": "Thu, 24 Sep 2026 04:01:14 GMT",
-    "link": "https://www.polygon.com/silent-hill-townfall-unlock-the-community-gardens-gate-door-key-jane/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "The Industrial Revolution is the reason RPGs have area-of-effect spells: A PC Gamer Causality Chain™",
-    "source": "PC Gamer",
-    "summary": "Spl-ASH damage.",
-    "date": "Thu, 24 Sep 2026 04:00:25 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/the-industrial-revolution-is-the-reason-rpgs-have-area-of-effect-spells-a-pc-gamer-causality-chaintm/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Quake Champions takes a shower, shedding all its 2017 live-service grime and becoming a $10 game",
-    "source": "PC Gamer",
-    "summary": "If you ever played it on Steam, it's yours to keep.",
-    "date": "Wed, 23 Sep 2026 23:48:24 +0000",
-    "link": "https://www.pcgamer.com/games/fps/quake-champions-takes-a-shower-shedding-all-its-2017-live-service-grime-and-becoming-a-usd10-game/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
     },
     "tags": [
       "Steam"
@@ -251,42 +88,221 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "Microsoft's approach to age verification in Australia is further proof that Valve is taking the everloving piss",
-    "source": "PC Gamer",
-    "summary": "Valve, are you hearing this?",
-    "date": "Wed, 23 Sep 2026 23:31:23 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/microsofts-approach-to-age-verification-in-australia-is-further-proof-that-valve-is-taking-the-everloving-piss/",
+    "id": 6,
+    "title": "Xbox's version of PlayStation's Platinum Trophy achievement seems to leak, and it's got a sound-effect that's 15 seconds long",
+    "source": "Eurogamer",
+    "summary": "I'm not sure what's more surprising: that Xbox never had a Platinum Trophy equivalent, that Xbox feels the need to have a Platinum Trophy equivalent, or that it's adding a Platinum Trophy equivalent now while restructuring the company. Read more...",
+    "date": "Thu, 24 Sep 2026 10:45:03 +0000",
+    "link": "https://www.eurogamer.net/xbox-mythic-platinum-achievement",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.28,
+      "badge": "success"
+    },
+    "tags": [
+      "PlayStation",
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Player discovers game-changing pair of pants in World of Warcraft: Forever",
+    "source": "Eurogamer",
+    "summary": "The times when a pair of pants prove newsworthy are tragically rare, and when they are it's usually not a good thing. Thankfully, a community discovery in World of Warcraft: Forever has remedied that. Read more...",
+    "date": "Thu, 24 Sep 2026 09:43:58 +0000",
+    "link": "https://www.eurogamer.net/world-of-warcraft-forever-pants-smelter-professions",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Don't expect regular Destiny 2 updates to return, despite the surprise \"unvaulting\" of game additions",
+    "source": "Eurogamer",
+    "summary": "After announcing the end of Destiny 2 development and laying off almost the game's entire team, Bungie surprised fans earlier this week with news that it's working on \"unvaulting\" Destiny 2 campaigns, raids and destinations - bringing them back to the game after they were removed. The developer offe...",
+    "date": "Thu, 24 Sep 2026 08:52:40 +0000",
+    "link": "https://www.eurogamer.net/destiny-2-unvaulted-content-details-report",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.14,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "'Magic: The Gathering's Coolest Planeswalker Is Finally Getting the Backstory He Deserves",
+    "source": "Polygon",
+    "summary": "A new Magic: The Gathering comic from Dark Horse explore the origin story of Teferi, the Multiverse's most famous time mage.",
+    "date": "Thu, 24 Sep 2026 12:00:16 GMT",
+    "link": "https://www.polygon.com/mtg-mage-of-zhalfir-dark-horse-comics-teferi-preview/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.28,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Smash Bros. owes millions of dollars in OSHA violations | Unraveled",
+    "source": "Polygon",
+    "summary": "Super Smash Bros. Ultimate has a ridiculous amount of stages... but are they all death traps? Brian David Gilbert consults the Occupational Safety and Health Administration (OSHA) to discover how many violations each stage has... and how much money they need to pay.",
+    "date": "Thu, 24 Sep 2026 11:30:52 GMT",
+    "link": "https://www.polygon.com/video/smash-bros-owes-millions-of-dollars-in-osha-violations-unraveled/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "Fire Emblem: Fortune’s Weave Quietly Changed the Series in 4 Essential Ways",
+    "source": "Polygon",
+    "summary": "Fire Emblem: Fortune's Weave adds numerous quality-of-life tweaks to the game that seem small on the surface, but significantly boost the fun factor",
+    "date": "Thu, 24 Sep 2026 11:30:18 GMT",
+    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-changes/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "I wasted 3 weeks of my life finding Castlevania's hottest monster | Unraveled",
+    "source": "Polygon",
+    "summary": "Castlevania's bestiary is terrifyingly large. In this Unraveled, Brian David Gilbert tries, multiple times, to understand the monstrosity of Dracula's domain, and ends up with something strangely hot.",
+    "date": "Thu, 24 Sep 2026 11:27:12 GMT",
+    "link": "https://www.polygon.com/video/i-wasted-3-weeks-of-my-life-finding-castlevania-s-hottest-monster-unraveled/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Razer Reclusa X Mini 65% gaming keyboard review",
+    "source": "PC Gamer",
+    "summary": "A budget mini keeb that somehow manages to feel high-end.",
+    "date": "Thu, 24 Sep 2026 11:05:07 +0000",
+    "link": "https://www.pcgamer.com/hardware/gaming-keyboards/razer-reclusa-x-mini-65-percent-review/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "I applied DLSS 5 to my Miku Hatsune game of choice, and I have some regrets",
+    "source": "PC Gamer",
+    "summary": "Welcome to anime Hell.",
+    "date": "Thu, 24 Sep 2026 11:03:24 +0000",
+    "link": "https://www.pcgamer.com/hardware/i-applied-dlss-5-to-my-miku-hatsune-game-of-choice-and-i-have-some-regrets/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.1,
+      "badge": "success"
+    },
+    "tags": [
+      "DLSS"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Bethesda says that Obsidian's 'creative identity' will be preserved, just months after multiple projects were cancelled and it was told to make a Fallout game",
+    "source": "PC Gamer",
+    "summary": "I don't know about that one, chief.",
+    "date": "Thu, 24 Sep 2026 10:34:27 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/bethesda-says-that-obsidians-creative-identity-will-be-preserved-just-months-after-multiple-projects-were-cancelled-and-it-was-told-to-make-a-fallout-game/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "World of Warcraft: Forever's first patch will bring back the number one thing seasoned players missed from the MMO's past: storms",
+    "title": "Alienware is working on a fix for the one thing that stops its new 39-inch 5K2K OLED gaming monitor from being perfect",
     "source": "PC Gamer",
-    "summary": "Blizzard is bringing intense weather effects back to Azeroth.",
-    "date": "Wed, 23 Sep 2026 22:06:43 +0000",
-    "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-first-patch-will-bring-back-the-number-one-thing-seasoned-players-missed-from-the-mmos-past-storms/",
+    "summary": "This fix could hurt my wallet.",
+    "date": "Thu, 24 Sep 2026 10:23:59 +0000",
+    "link": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-is-working-on-a-fix-for-the-one-thing-that-stops-its-new-39-inch-5k2k-oled-gaming-monitor-from-being-perfect/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.57,
+      "badge": "success"
     },
     "tags": [
-      "Patch"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
+    "title": "Meta’s $1,300 VR Glasses Could Be The Most Expensive Way To Play Xbox Games",
+    "source": "GameSpot",
+    "summary": "For years, Meta has had one of the best entry-level virtual reality headsets with the Quest 3 and its slightly lower-specced successor, the Quest 3S. The VR hardware packs a punch, but if you're looking for an even lighter option, the company's new VR glasses could catch your attention. Essentially ...",
+    "date": "Thu, 24 Sep 2026 10:59:20 +0000",
+    "link": "https://www.gamespot.com/articles/meta-1300-vr-glasses-could-be-the-most-expensive-way-to-play-xbox-games/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
     "title": "Discord Begins Rolling Out Age Verification–And A Sponsorship With FanDuel",
     "source": "GameSpot",
     "summary": "Discord has officially begun rolling out age-verification measures as of today. The company first announced age verification--and, subsequently, limits placed on accounts of those under 18--back in February of this year, but delayed a full implementation until just recently.\nAccording to the officia...",
@@ -298,13 +314,13 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "Rainbow Six Siege Dev On Competing With GTA 6 And Why There Are No Plans For Siege 2",
     "source": "GameSpot",
     "summary": "Rockstar's Grand Theft Auto 6 releases this November, and it's expected to take up a lot of time and attention, leading some to worry how other games may fare in its wake. Ubisoft's Joshua Mills, the creative director for Rainbow Six Siege, said it's unquestionable that \"you're going to take a hit w...",
@@ -316,13 +332,13 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 19,
+    "id": 20,
     "title": "30 Years Later, Collecting Pokemon Cards Hits A Little Different",
     "source": "GameSpot",
     "summary": "Let me sound like an old for a second.\nI remember in the late '90s and early '00s, collecting Pokemon cards was a casual hobby. You'd go to your local brick-and-mortar store with the money you made from mowing the lawn or whatever, drop maybe $10 on a couple of packs, rip them open, then go to your ...",
@@ -334,26 +350,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "High On Life Is Helping Make The Case For Bigger Games On Quest",
-    "source": "GameSpot",
-    "summary": "High on Life has been a big hit since it first launched in 2022, thanks to its bizarre sense of humor, motor-mouthed guns, and polished gameplay. But can it succeed as a virtual reality port? That's the question Flat2VR is aiming to answer, as the team behind several VR games is now working with Squ...",
-    "date": "Wed, 23 Sep 2026 17:40:18 +0000",
-    "link": "https://www.gamespot.com/articles/high-on-life-is-helping-make-the-case-for-bigger-games-on-quest/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
