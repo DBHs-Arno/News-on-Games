@@ -1,32 +1,32 @@
 [
   {
     "id": 1,
-    "title": "Nintendo Switch 2 Drops to Record-Low £355 in the UK",
+    "title": "The 4K-Ready MSI Codex Z2 GeForce RTX 5070 Ti Gaming PC Drops to $1,699 After a $600 Discount",
     "source": "IGN",
-    "summary": "Despite a price rise at the start of September (jumping to £419.99 RRP), Nintendo Switch 2 consoles are now at their lowest price ever in the UK as part of a limited-time sale. Here's where you can pick up the console for just £354.99 right now.",
-    "date": "Thu, 24 Sep 2026 10:33:22 +0000",
-    "link": "https://www.ign.com/articles/nintendo-switch-2-uk-deal-lowest-price-ever",
+    "summary": "The GPU alone currently sells for $1,000 or more in today's market.",
+    "date": "Thu, 24 Sep 2026 16:05:00 +0000",
+    "link": "https://www.ign.com/articles/msi-codex-z2-rtx-5070-ti-gaming-pc-deal-september-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.29,
+      "score": 0.25,
       "badge": "success"
     },
     "tags": [
-      "Nintendo"
+      "GPU"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Injustice 3 Rumor Sparks Response From NetherRealm's Ed Boon",
+    "title": "The New Fall Amazon Audible Deal Is the Best One I've Seen This Year: Get 4 Months for $0.99 Per Month",
     "source": "IGN",
-    "summary": "NetherRealm development chief Ed Boon has responded to rumors doing the rounds about the studio’s next game, including reports indicating Injustice 3 is in the works.",
-    "date": "Thu, 24 Sep 2026 10:04:29 +0000",
-    "link": "https://www.ign.com/articles/injustice-3-rumors-sparks-response-from-netherrealms-ed-boon",
+    "summary": "Catch up on Dungeon Crawler Carl, Fourth Wing, Hunger Games, and more.",
+    "date": "Thu, 24 Sep 2026 16:05:00 +0000",
+    "link": "https://www.ign.com/articles/amazon-audible-deal-september-2026",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.2,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.41,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -36,15 +36,15 @@
   },
   {
     "id": 3,
-    "title": "The Lord of the Rings Star Andy Serkis is Working on a Sci-Fi Adaptation of The Odyssey for Audible",
+    "title": "The Walmart GeForce Week Sale Has Black Friday Worthy Gaming Laptop Deals",
     "source": "IGN",
-    "summary": "The Lord of the Rings star Andy Serkis is working on a sci-fi version of The Odyssey, written by acclaimed author Adrian Tchaikovsky.",
-    "date": "Thu, 24 Sep 2026 09:32:30 +0000",
-    "link": "https://www.ign.com/articles/the-lord-of-the-rings-star-andy-serkis-is-working-on-a-sci-fi-adaptation-of-the-odyssey-for-audible",
+    "summary": "The best prices I've seen all year on gaming laptops with RTX 5060 to 5080.",
+    "date": "Thu, 24 Sep 2026 16:05:00 +0000",
+    "link": "https://www.ign.com/articles/the-walmart-geforce-week-sale-has-black-friday-worthy-gaming-laptop-deals",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.39,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -54,14 +54,14 @@
   },
   {
     "id": 4,
-    "title": "Pokémon TCG: 30th Anniversary Celebration Booster Bundles Are In Stock at Amazon",
+    "title": "The Walmart GeForce Week Sale Has Black Friday Worthy Gaming PC Deals, But They're Selling Out",
     "source": "IGN",
-    "summary": "Amazon has recently restocked its allocation of Pokémon TCG's 30th Celebration Booster Bundles, which are currently available for just $45. That's considerably under current market rates, which sit around $122.64 at TCGplayer.",
-    "date": "Thu, 24 Sep 2026 08:53:40 +0000",
-    "link": "https://www.ign.com/articles/pokemon-tcg-30th-anniversary-celebration-booster-bundles-where-to-buy",
+    "summary": "The best prices I've seen all year on prebuilt gaming PCs with RTX 5060 to 5090.",
+    "date": "Thu, 24 Sep 2026 16:05:00 +0000",
+    "link": "https://www.ign.com/articles/walmart-geforce-week-sale-2026-best-deals-on-gaming-pcs",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.12,
+      "score": 0.39,
       "badge": "success"
     },
     "tags": [
@@ -72,6 +72,59 @@
   },
   {
     "id": 5,
+    "title": "The Blood of Dawnwalker's divisive time mechanic was once much stricter, but it was loosened because of \"fear\" around the game",
+    "source": "Eurogamer",
+    "summary": "I've had a hunch ever since playing The Blood of Dawnwalker that its divisive time limit feature - whereby you have 30 in-game days and nights to save your character's family from a nasty pack of vampires - isn't as strict as Rebel Wolves once intended it. And it turns out I was right. Read more...",
+    "date": "Thu, 24 Sep 2026 16:52:27 +0000",
+    "link": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-originally-stricter",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security",
+    "source": "Eurogamer",
+    "summary": "Rockstar Games has announced a limited Goodtime State Vice City collection of goodies for Grand Theft Auto 6 that's ludicrously expensive - £349 - doesn't include a copy of the game, and is pre-orderable now. Read more...",
+    "date": "Thu, 24 Sep 2026 16:20:44 +0000",
+    "link": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "\"I assume someone is being greedy somewhere\" - Tim Schafer discusses  current game industry woes following Double Fine's split with Xbox",
+    "source": "Eurogamer",
+    "summary": "Tim Schafer - the founder of acclaimed developer Double Fine Productions, and the legendary designer behind the likes of Day of the Tentacle and Psychonauts - has spoken out about his studio's recent shift to independence, as well as Game Pass, and industry woes at large. Read more...",
+    "date": "Thu, 24 Sep 2026 12:26:38 +0000",
+    "link": "https://www.eurogamer.net/double-fine-tim-schafer-xbox-greedy",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.1,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
     "title": "Quake Champions ditches free-to-play and kills off its Microsoft Store version eight years after its original release",
     "source": "Eurogamer",
     "summary": "In an unusual move, developer id Software's free-to-play shooter Quake Champions is transitioning into a paid product, eight years after its original release. As part of the same move, the Microsoft studio is killing off the Microsoft Store version, meaning it's now only available on  Steam. Read mo...",
@@ -88,69 +141,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "Xbox's version of PlayStation's Platinum Trophy achievement seems to leak, and it's got a sound-effect that's 15 seconds long",
-    "source": "Eurogamer",
-    "summary": "I'm not sure what's more surprising: that Xbox never had a Platinum Trophy equivalent, that Xbox feels the need to have a Platinum Trophy equivalent, or that it's adding a Platinum Trophy equivalent now while restructuring the company. Read more...",
-    "date": "Thu, 24 Sep 2026 10:45:03 +0000",
-    "link": "https://www.eurogamer.net/xbox-mythic-platinum-achievement",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.28,
-      "badge": "success"
-    },
-    "tags": [
-      "PlayStation",
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Player discovers game-changing pair of pants in World of Warcraft: Forever",
-    "source": "Eurogamer",
-    "summary": "The times when a pair of pants prove newsworthy are tragically rare, and when they are it's usually not a good thing. Thankfully, a community discovery in World of Warcraft: Forever has remedied that. Read more...",
-    "date": "Thu, 24 Sep 2026 09:43:58 +0000",
-    "link": "https://www.eurogamer.net/world-of-warcraft-forever-pants-smelter-professions",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Don't expect regular Destiny 2 updates to return, despite the surprise \"unvaulting\" of game additions",
-    "source": "Eurogamer",
-    "summary": "After announcing the end of Destiny 2 development and laying off almost the game's entire team, Bungie surprised fans earlier this week with news that it's working on \"unvaulting\" Destiny 2 campaigns, raids and destinations - bringing them back to the game after they were removed. The developer offe...",
-    "date": "Thu, 24 Sep 2026 08:52:40 +0000",
-    "link": "https://www.eurogamer.net/destiny-2-unvaulted-content-details-report",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.14,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 9,
-    "title": "'Magic: The Gathering's Coolest Planeswalker Is Finally Getting the Backstory He Deserves",
+    "title": "Magic's New Reality Fracture Mechanic Is So Much Stronger Than It Looks",
     "source": "Polygon",
-    "summary": "A new Magic: The Gathering comic from Dark Horse explore the origin story of Teferi, the Multiverse's most famous time mage.",
-    "date": "Thu, 24 Sep 2026 12:00:16 GMT",
-    "link": "https://www.polygon.com/mtg-mage-of-zhalfir-dark-horse-comics-teferi-preview/",
+    "summary": "MTG Reality Fracture early access gave us a glimpse of how the set plays in Limited, and it's all about Empower Jace.",
+    "date": "Thu, 24 Sep 2026 18:00:10 GMT",
+    "link": "https://www.polygon.com/magic-mtg-reality-fracture-limited-guide-empower-jace/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.28,
+      "score": 0.17,
       "badge": "success"
     },
     "tags": [
@@ -161,29 +160,28 @@
   },
   {
     "id": 10,
-    "title": "Smash Bros. owes millions of dollars in OSHA violations | Unraveled",
+    "title": "Control Resonant’s Day-One Patch Makes the Game Easier ‘While Still Providing a Challenge’",
     "source": "Polygon",
-    "summary": "Super Smash Bros. Ultimate has a ridiculous amount of stages... but are they all death traps? Brian David Gilbert consults the Occupational Safety and Health Administration (OSHA) to discover how many violations each stage has... and how much money they need to pay.",
-    "date": "Thu, 24 Sep 2026 11:30:52 GMT",
-    "link": "https://www.polygon.com/video/smash-bros-owes-millions-of-dollars-in-osha-violations-unraveled/",
+    "summary": "Remedy has released a day one patch for Control Resonant that brings much needed balance to combat",
+    "date": "Thu, 24 Sep 2026 17:40:04 GMT",
+    "link": "https://www.polygon.com/control-resonant-remedy-day-one-patch-combat-difficulty/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Patch"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Fire Emblem: Fortune’s Weave Quietly Changed the Series in 4 Essential Ways",
+    "title": "Where to find Arashiyama Bamboo Forest in Forza Horizon 6",
     "source": "Polygon",
-    "summary": "Fire Emblem: Fortune's Weave adds numerous quality-of-life tweaks to the game that seem small on the surface, but significantly boost the fun factor",
-    "date": "Thu, 24 Sep 2026 11:30:18 GMT",
-    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-changes/",
+    "summary": "Here's where you can find the Arashiyama Bamboo Forest in Forza Horizon 6, and the easiest way to get there.",
+    "date": "Thu, 24 Sep 2026 17:17:53 GMT",
+    "link": "https://www.polygon.com/forza-horizon-6-fh6-arashiyama-bamboo-forest-location-where-to-find/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -197,135 +195,11 @@
   },
   {
     "id": 12,
-    "title": "I wasted 3 weeks of my life finding Castlevania's hottest monster | Unraveled",
+    "title": "'Madden' Movie’s First Trailer Reveals Barely Recognizable Nic Cage and Christian Bale",
     "source": "Polygon",
-    "summary": "Castlevania's bestiary is terrifyingly large. In this Unraveled, Brian David Gilbert tries, multiple times, to understand the monstrosity of Dracula's domain, and ends up with something strangely hot.",
-    "date": "Thu, 24 Sep 2026 11:27:12 GMT",
-    "link": "https://www.polygon.com/video/i-wasted-3-weeks-of-my-life-finding-castlevania-s-hottest-monster-unraveled/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Razer Reclusa X Mini 65% gaming keyboard review",
-    "source": "PC Gamer",
-    "summary": "A budget mini keeb that somehow manages to feel high-end.",
-    "date": "Thu, 24 Sep 2026 11:05:07 +0000",
-    "link": "https://www.pcgamer.com/hardware/gaming-keyboards/razer-reclusa-x-mini-65-percent-review/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "I applied DLSS 5 to my Miku Hatsune game of choice, and I have some regrets",
-    "source": "PC Gamer",
-    "summary": "Welcome to anime Hell.",
-    "date": "Thu, 24 Sep 2026 11:03:24 +0000",
-    "link": "https://www.pcgamer.com/hardware/i-applied-dlss-5-to-my-miku-hatsune-game-of-choice-and-i-have-some-regrets/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.1,
-      "badge": "success"
-    },
-    "tags": [
-      "DLSS"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Bethesda says that Obsidian's 'creative identity' will be preserved, just months after multiple projects were cancelled and it was told to make a Fallout game",
-    "source": "PC Gamer",
-    "summary": "I don't know about that one, chief.",
-    "date": "Thu, 24 Sep 2026 10:34:27 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/bethesda-says-that-obsidians-creative-identity-will-be-preserved-just-months-after-multiple-projects-were-cancelled-and-it-was-told-to-make-a-fallout-game/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Alienware is working on a fix for the one thing that stops its new 39-inch 5K2K OLED gaming monitor from being perfect",
-    "source": "PC Gamer",
-    "summary": "This fix could hurt my wallet.",
-    "date": "Thu, 24 Sep 2026 10:23:59 +0000",
-    "link": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-is-working-on-a-fix-for-the-one-thing-that-stops-its-new-39-inch-5k2k-oled-gaming-monitor-from-being-perfect/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.57,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "Meta’s $1,300 VR Glasses Could Be The Most Expensive Way To Play Xbox Games",
-    "source": "GameSpot",
-    "summary": "For years, Meta has had one of the best entry-level virtual reality headsets with the Quest 3 and its slightly lower-specced successor, the Quest 3S. The VR hardware packs a punch, but if you're looking for an even lighter option, the company's new VR glasses could catch your attention. Essentially ...",
-    "date": "Thu, 24 Sep 2026 10:59:20 +0000",
-    "link": "https://www.gamespot.com/articles/meta-1300-vr-glasses-could-be-the-most-expensive-way-to-play-xbox-games/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "Discord Begins Rolling Out Age Verification–And A Sponsorship With FanDuel",
-    "source": "GameSpot",
-    "summary": "Discord has officially begun rolling out age-verification measures as of today. The company first announced age verification--and, subsequently, limits placed on accounts of those under 18--back in February of this year, but delayed a full implementation until just recently.\nAccording to the officia...",
-    "date": "Wed, 23 Sep 2026 21:12:45 +0000",
-    "link": "https://www.gamespot.com/articles/discord-begins-rolling-out-age-verification-and-a-sponsorship-with-fanduel/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "Rainbow Six Siege Dev On Competing With GTA 6 And Why There Are No Plans For Siege 2",
-    "source": "GameSpot",
-    "summary": "Rockstar's Grand Theft Auto 6 releases this November, and it's expected to take up a lot of time and attention, leading some to worry how other games may fare in its wake. Ubisoft's Joshua Mills, the creative director for Rainbow Six Siege, said it's unquestionable that \"you're going to take a hit w...",
-    "date": "Wed, 23 Sep 2026 18:57:43 +0000",
-    "link": "https://www.gamespot.com/articles/rainbow-six-siege-dev-on-competing-with-gta-6-and-why-there-are-no-plans-for-siege-2/",
+    "summary": "The 'Madden' movie just got its first trailer for Prime Video, showcasing Nic Cage as the football legend.",
+    "date": "Thu, 24 Sep 2026 17:15:32 GMT",
+    "link": "https://www.polygon.com/madden-film-nicolas-cage/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.19,
@@ -338,16 +212,139 @@
     "read_time": "1 min read"
   },
   {
-    "id": 20,
-    "title": "30 Years Later, Collecting Pokemon Cards Hits A Little Different",
+    "id": 13,
+    "title": "The Video Game History Foundation is scanning Japanese magazines now",
+    "source": "PC Gamer",
+    "summary": "Ganbatte!",
+    "date": "Thu, 24 Sep 2026 17:44:13 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/the-video-game-history-foundation-is-scanning-japanese-magazines-now/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "My greatest GTA 5 challenge yet: Random teleports every 50 seconds",
+    "source": "PC Gamer",
+    "summary": "Excuse m- *poof*.",
+    "date": "Thu, 24 Sep 2026 17:09:26 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/my-greatest-gta-5-challenge-yet-random-teleports-every-50-seconds/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "I cannot believe this obscure MMO from my childhood is still going 23 years later",
+    "source": "PC Gamer",
+    "summary": "Was I always this bad at it, though?",
+    "date": "Thu, 24 Sep 2026 16:41:49 +0000",
+    "link": "https://www.pcgamer.com/games/mmo/i-cannot-believe-this-obscure-mmo-from-my-childhood-is-still-going-23-years-later/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.35,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Oh, the places you'll game: Aerospace engineers use Steam Deck to steer Mars rover prototype",
+    "source": "PC Gamer",
+    "summary": "Destined for the stars.",
+    "date": "Thu, 24 Sep 2026 16:38:26 +0000",
+    "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/oh-the-places-youll-game-aerospace-engineers-use-steam-deck-to-steer-mars-rover-prototype/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "Control Resonant Is Making Dylan Stronger, Even If He Just Woke Up From A Coma",
     "source": "GameSpot",
-    "summary": "Let me sound like an old for a second.\nI remember in the late '90s and early '00s, collecting Pokemon cards was a casual hobby. You'd go to your local brick-and-mortar store with the money you made from mowing the lawn or whatever, drop maybe $10 on a couple of packs, rip them open, then go to your ...",
-    "date": "Wed, 23 Sep 2026 18:36:06 +0000",
-    "link": "https://www.gamespot.com/articles/30-years-later-collecting-pokemon-cards-hits-a-little-different/",
+    "summary": "Control Resonant has officially launched, and Remedy Entertainment has also paired it with a fresh patch to make it a little less brutal. Hotfix 1.3.3 is primarily focused on adjusting enemy health pools and Dylan's overall strength, and once it's installed, you can expect the parautilitarian to hav...",
+    "date": "Thu, 24 Sep 2026 17:20:52 +0000",
+    "link": "https://www.gamespot.com/articles/control-resonant-is-making-dylan-stronger-even-if-he-just-woke-up-from-a-coma/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.04,
+      "score": -0.09,
       "badge": "info"
+    },
+    "tags": [
+      "Patch"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Stranger Than Heaven Studio Made The Tupac Resurrection Less Weird By Not Using AI",
+    "source": "GameSpot",
+    "summary": "RGG Studio's Stranger Than Heaven is certainly living up to its title, as the decision to resurrect the late rapper Tupac Shakur as a character in the game was perceived as odd when it was first announced at Summer Game Fest. In a new update on the game, RGG Studio revealed more details about the ga...",
+    "date": "Thu, 24 Sep 2026 15:44:34 +0000",
+    "link": "https://www.gamespot.com/articles/stranger-than-heaven-studio-made-the-tupac-resurrection-less-weird-by-not-using-ai/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.11,
+      "badge": "danger"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "GTA 6 $400 Collector’s Edition Comes With Everything Except The Game",
+    "source": "GameSpot",
+    "summary": "Rockstar Games has officially confirmed a $400 Grand Theft Auto 6 collector's edition, which doesn't include the game. The developer says The Goodtime State: Vice City Collection is inspired by Leonida’s hit TV show, Macca the Gator, and it's now available to preorder. It'll launch on November 19, t...",
+    "date": "Thu, 24 Sep 2026 15:26:16 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-400-collectors-edition-comes-with-everything-except-the-game/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 20,
+    "title": "Roll For Initiative With This Week’s Epic Games Store Freebies",
+    "source": "GameSpot",
+    "summary": "The Epic Games Store continues to give away a free game each week, and this week's offering is another nice find at a price that can't be beat. Every Thursday at 8 AM PT / 11 AM ET, Epic offers at least one free PC game (and sometimes even as many as two or three). All you need to do to claim the fr...",
+    "date": "Thu, 18 Jun 2026 15:01:00 +0000",
+    "link": "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
