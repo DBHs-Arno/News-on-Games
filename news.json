@@ -1,6 +1,24 @@
 [
   {
     "id": 1,
+    "title": "Ebon Moss-Bachrach in Final Talks for Heat 2 Role",
+    "source": "IGN",
+    "summary": "Michael Mann’s Heat 2 is set to start shooting in November, with The Bear's Ebon Moss-Bachrach in final talks to play Kelso, previously portrayed by Tom Noonan.",
+    "date": "Fri, 25 Sep 2026 08:27:23 +0000",
+    "link": "https://www.ign.com/articles/ebon-moss-bachrach-in-final-talks-for-heat-2-role",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
     "title": "PlayStation Reportedly Polling Game Developers After Decision to Kill Discs Sparks Backlash",
     "source": "IGN",
     "summary": "PlayStation is reportedly sending a lengthy survey to game developers with a question about how they sell physical games after their decision to stop producing physical game discs prompted intense backlash.",
@@ -17,7 +35,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "The Gigabyte A16 Pro 16\" RTX 5070 Ti Gaming Laptop Drops to $1,449 During Walmart's GeForce Week Sale",
     "source": "IGN",
     "summary": "Strong gaming chops in a slim and lightweight chassis.",
@@ -29,13 +47,13 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Arc Raiders Is Testing a PvE Mode Very Soon",
     "source": "IGN",
     "summary": "Embark Studios has announced that it will be testing a PvE mode for Arc Raiders next month.",
@@ -47,30 +65,48 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Ubisoft Almost Made a Zelda Game With Ganondorf as the Protagonist",
-    "source": "IGN",
-    "summary": "Ubisoft Milan reportedly pitched a Zelda game to Nintendo that would have taken place in a new universe with a totally different protagonist, but the plan fell through, leading to one of the biggest what-ifs in gaming history.",
-    "date": "Thu, 24 Sep 2026 22:00:12 +0000",
-    "link": "https://www.ign.com/articles/ubisoft-almost-made-a-zelda-game-with-ganondorf-as-the-protagonist",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.17,
-      "badge": "danger"
-    },
-    "tags": [
-      "Nintendo"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
+    "source": "Eurogamer",
+    "summary": "Is Sony having second thoughts about ending PlayStation disc support? The question has arisen following a report that says Sony sent \"a bigger survey than they've sent almost ever before\" to developers asking for feedback about the decision to stop producing disc-based games. Read more...",
+    "date": "Fri, 25 Sep 2026 11:00:43 +0000",
+    "link": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "As Marathon's player slump continues, Bungie announces plans to grow it \"beyond extraction\"",
+    "source": "Eurogamer",
+    "summary": "Bungie has announced drastic changes coming to its struggling shooter Marathon, including a shift away from its extraction roots in the coming months. The new mission statement? Making more \"approachable\" experiences with \"different levels of intensity and commitment.\" Read more...",
+    "date": "Fri, 25 Sep 2026 10:32:41 +0000",
+    "link": "https://www.eurogamer.net/marathon-bungie-future-roadmap-beyond-extraction",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.28,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
     "title": "The Blood of Dawnwalker's divisive time mechanic was once much stricter, but it was loosened because of \"fear\" around the game",
     "source": "Eurogamer",
     "summary": "I've had a hunch ever since playing The Blood of Dawnwalker that its divisive time limit feature - whereby you have 30 in-game days and nights to save your character's family from a nasty pack of vampires - isn't as strict as Rebel Wolves once intended it. And it turns out I was right. Read more...",
@@ -82,13 +118,13 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security",
     "source": "Eurogamer",
     "summary": "Rockstar Games has announced a limited Goodtime State Vice City collection of goodies for Grand Theft Auto 6 that's ludicrously expensive - £349 - doesn't include a copy of the game, and is pre-orderable now. Read more...",
@@ -100,38 +136,21 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 7,
-    "title": "\"I assume someone is being greedy somewhere\" - Tim Schafer discusses  current game industry woes following Double Fine's split with Xbox",
-    "source": "Eurogamer",
-    "summary": "Tim Schafer - the founder of acclaimed developer Double Fine Productions, and the legendary designer behind the likes of Day of the Tentacle and Psychonauts - has spoken out about his studio's recent shift to independence, as well as Game Pass, and industry woes at large. Read more...",
-    "date": "Thu, 24 Sep 2026 12:26:38 +0000",
-    "link": "https://www.eurogamer.net/double-fine-tim-schafer-xbox-greedy",
+    "id": 9,
+    "title": "6 New October Games That Should Be on Your Steam Wishlist",
+    "source": "Polygon",
+    "summary": "October is full of eclectic new PC games. Here are six standouts that deserve a spot on your wishlist.",
+    "date": "Fri, 25 Sep 2026 12:00:15 GMT",
+    "link": "https://www.polygon.com/wishlister-september-25/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.1,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Quake Champions ditches free-to-play and kills off its Microsoft Store version eight years after its original release",
-    "source": "Eurogamer",
-    "summary": "In an unusual move, developer id Software's free-to-play shooter Quake Champions is transitioning into a paid product, eight years after its original release. As part of the same move, the Microsoft studio is killing off the Microsoft Store version, meaning it's now only available on  Steam. Read mo...",
-    "date": "Thu, 24 Sep 2026 11:55:59 +0000",
-    "link": "https://www.eurogamer.net/quake-champions-free-to-play-removed-now-paid",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.23,
+      "score": 0.21,
       "badge": "success"
     },
     "tags": [
@@ -140,150 +159,151 @@
     "read_time": "1 min read"
   },
   {
-    "id": 9,
-    "title": "2026’s Most Inventive Sci-Fi Thriller Is Officially Making Its Streaming Debut",
-    "source": "Polygon",
-    "summary": "A liminal horror masterpiece finally releases on HBO Max.",
-    "date": "Fri, 25 Sep 2026 04:00:20 GMT",
-    "link": "https://www.polygon.com/backrooms-hbo-max-streaming-september-2026/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.33,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 10,
-    "title": "One of DC’s Best Superhero Shows Is Now Free to Stream",
+    "title": "New Magic Leak Confirms Fully-Foil Spider-Man Commander Deck",
     "source": "Polygon",
-    "summary": "'Teen Titans', Cartoon Network and DC's most engaging release that tackles teen struggles and superhero action, is now streaming on Tubi.",
-    "date": "Fri, 25 Sep 2026 03:00:15 GMT",
-    "link": "https://www.polygon.com/teen-titans-2003-dc-comics-rec/",
+    "summary": "A new leak seems to confirm that Marvel's Spider-Man will finally get an MTG Commander deck this Christmas.",
+    "date": "Fri, 25 Sep 2026 10:32:20 GMT",
+    "link": "https://www.polygon.com/magic-mtg-spider-man-commander-deck-christmas/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.34,
+      "score": 0.19,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "8 Best BioWare Games That Aged Like Fine Wine",
+    "title": "Fire Emblem: Three Houses Fans Must Play Dietrich in Fortune's Weave",
     "source": "Polygon",
-    "summary": "From Baldur's Gate to a surprisingly good Sonic RPG, these 8 BioWare games still hold up decades later",
-    "date": "Thu, 24 Sep 2026 23:00:15 GMT",
-    "link": "https://www.polygon.com/best-bioware-games/",
+    "summary": "Dietrich's route in Fire Emblem Fortune's Weave contains some of the game's best storytelling and essential Three Houses connections",
+    "date": "Fri, 25 Sep 2026 10:00:16 GMT",
+    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-play-dietrichs-path/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.4,
+      "score": 0.2,
       "badge": "success"
     },
     "tags": [
-      "RPG"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "Over the Hill Is the Perfect Replacement For Forza Horizon",
+    "title": "Saw Creators Return to the Franchise for New Movie from Wrong Turn Director",
     "source": "Polygon",
-    "summary": "Over the Hill, an exploration racing game from the developer behind Art of Rally, is the perfect antidote to Forza Horizon's AAA expanse.",
-    "date": "Thu, 24 Sep 2026 22:13:46 GMT",
-    "link": "https://www.polygon.com/over-the-hill-preview-demo-steam/",
+    "summary": "Blumhouse and Lionsgate confirm the eleventh installment in the Saw series and reveal the upcoming movie's director.",
+    "date": "Fri, 25 Sep 2026 09:56:04 GMT",
+    "link": "https://www.polygon.com/saw-new-movie-reveal-announcement/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.18,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "Tim Cain: 'Among other things that Steve Jackson Games didn't like about Fallout was Vault Boy'",
+    "title": "War Thunder's Sky Odyssey update brings overhauled Bombers, a new map, and a whistle-stop tour of new military machines.",
     "source": "PC Gamer",
-    "summary": "It wasn't just the violence that Fallout's original partner took issue with.",
-    "date": "Fri, 25 Sep 2026 05:25:59 +0000",
-    "link": "https://www.pcgamer.com/games/fallout/tim-cain-among-other-things-that-steve-jackson-games-didnt-like-about-fallout-was-vault-boy/",
+    "summary": "Rain hell from above in the latest free update to the hit combined arms war shooter.",
+    "date": "Fri, 25 Sep 2026 12:03:29 +0000",
+    "link": "https://www.pcgamer.com/games/war-thunders-sky-odyssey-update-brings-overhauled-bombers-a-new-map-and-a-whistle-stop-tour-of-new-military-machines/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.12,
+      "score": 0.18,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "This chill procgen driving game has a very clever UI feature",
+    "title": "The PC Gaming Show: Most Wanted returns December 3 with 20 of The Council's most hotly anticipated games",
     "source": "PC Gamer",
-    "summary": "Bigger games should adopt this.",
-    "date": "Fri, 25 Sep 2026 04:11:45 +0000",
-    "link": "https://www.pcgamer.com/games/this-chill-procgen-driving-game-has-a-very-clever-ui-feature/",
+    "summary": "We'll have more trailers, world premieres, interviews, and reveals than you can shake a stick at",
+    "date": "Fri, 25 Sep 2026 12:00:00 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/events-conferences/the-pc-gaming-show-most-wanted-returns-december-3-with-20-of-the-councils-most-hotly-anticipated-games/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.06,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.44,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "It's tough to stand out in today's games industry, but 'sorta like Helldivers 2 except dog people' worked on me",
+    "title": "Arc Raiders is finally giving players the chance to build their home Topside and I'm seriously hyped",
     "source": "PC Gamer",
-    "summary": "The free weekend playtest for Gravhounds is fun. Also, you are a dog with a people body.",
-    "date": "Fri, 25 Sep 2026 00:49:10 +0000",
-    "link": "https://www.pcgamer.com/games/third-person-shooter/its-tough-to-stand-out-in-todays-games-industry-but-sorta-like-helldivers-2-except-dog-people-worked-on-me/",
+    "summary": "Finally, a new space for all my rubber ducks.",
+    "date": "Fri, 25 Sep 2026 11:55:42 +0000",
+    "link": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-finally-giving-players-the-chance-to-build-their-home-topside-and-im-seriously-hyped/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.1,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.07,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "14 days in Dragon Shelter: A play by play of my first season in the Stardew-style farm sim where dragons help bake pies",
+    "title": "I am now certain The Blood of Dawnwalker's time limit should've just been a setting, after hearing about Rebel Wolves' attempts to thread the needle",
     "source": "PC Gamer",
-    "summary": "I'm trying out the new farm sim with dragon-assisted cooking to see if it could be my next obsession.",
-    "date": "Fri, 25 Sep 2026 00:46:20 +0000",
-    "link": "https://www.pcgamer.com/games/life-sim/14-days-in-dragon-shelter-a-play-by-play-of-my-first-season-in-the-stardew-style-farm-sim-where-dragons-help-bake-pies/",
+    "summary": "\"We changed the main game, besides the prologue, because we were afraid that people [would] complain too much that it's too restricted.\"",
+    "date": "Fri, 25 Sep 2026 11:17:16 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/i-am-now-certain-the-blood-of-dawnwalkers-time-limit-shouldve-just-been-a-setting-after-hearing-about-rebel-wolves-attempts-to-thread-the-needle/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.13,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.08,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
+    "title": "Gears of War: E-Day Preload Times, Install Size, And Global Launch Dates",
+    "source": "GameSpot",
+    "summary": "Several years have passed since the last new Gears of War game was released, but at long last, that drought is almost over. Gears of War: E-Day will be one of the early highlights of October, and if you're looking to rev your Lancer up and turn back the Locust tide, you can start playing really soon...",
+    "date": "Fri, 25 Sep 2026 11:45:22 +0000",
+    "link": "https://www.gamespot.com/articles/gears-of-war-e-day-preload-times-install-size-and-global-launch-dates/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
     "title": "The Best News For Saw: Genesis Is We Have To Wait Longer To Play It",
     "source": "GameSpot",
     "summary": "Saw: Genesis was set to be the next asymmetrical multiplayer horror game to debut, but its 2026 early-access launch has been pushed to 2027, developer Bloober Team announced. \nThe horror-focused studio said it needs more time to get Saw: Genesis to a place the team is satisfied with.\nIt's an interes...",
@@ -295,13 +315,13 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "In Saraab: Beyond The Veil, Your Inner Demons Are Coming For You This November",
     "source": "GameSpot",
     "summary": "Anyone looking for a creepy adventure to play in November will want to check out Saraab: Beyond the Veil. Solo developer Lubna Ahmed has announced a November 3 release date for the game on PC via Steam and Itch.io, and a demo will be available for it during the October edition of Steam Next Fest.\nAn...",
@@ -318,7 +338,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 19,
+    "id": 20,
     "title": "First Full Madden Movie Trailer Has Us So Very Confused",
     "source": "GameSpot",
     "summary": "Madden, the David O. Russell-directed John Madden biopic starring Nic Cage, got its first full-length trailer today, and to be completely honest, I have no idea what to make of this movie. Based on the two minutes seen in the trailer, it could either be a subversive comedic delight or The Room 2, bu...",
@@ -330,25 +350,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "Nintendo Reportedly Canceled A Ubisoft-Developed Zelda Game Starring Ganondorf",
-    "source": "GameSpot",
-    "summary": "Zelda fans have had no shortage of new games to play in recent years, but it appears that one game--starring the franchise's iconic villain--was also in the works at one point. Rather than having Nintendo internally develop the game, however, the project was in the works at Ubisoft. \nIn a September ...",
-    "date": "Thu, 24 Sep 2026 20:18:09 +0000",
-    "link": "https://www.gamespot.com/articles/nintendo-reportedly-canceled-a-ubisoft-developed-zelda-game-starring-ganondorf/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Nintendo"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
