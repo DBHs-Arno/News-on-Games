@@ -72,67 +72,66 @@
   },
   {
     "id": 5,
-    "title": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
+    "title": "Resident Evil Requiem's made over $500m since release, but the new film didn't have as big of an impact as Capcom's price drops",
     "source": "Eurogamer",
-    "summary": "Is Sony having second thoughts about ending PlayStation disc support? The question has arisen following a report that says Sony sent \"a bigger survey than they've sent almost ever before\" to developers asking for feedback about the decision to stop producing disc-based games. Read more...",
-    "date": "Fri, 25 Sep 2026 11:00:43 +0000",
-    "link": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
+    "summary": "Resident Evil Requiem is still doing bonkers business while elongating Capcom's generational win streak, but the new big-screen reboot didn't make as big of an impact on game sales as you might expect. Still, according to estimates from Alinea Analytics, the ninth mainline game in the horror series ...",
+    "date": "Fri, 25 Sep 2026 18:01:19 +0000",
+    "link": "https://www.eurogamer.net/resident-evil-requiem-500-film-capcom-price",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.19,
+      "badge": "danger"
     },
     "tags": [
-      "PlayStation"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 6,
-    "title": "As Marathon's player slump continues, Bungie announces plans to grow it \"beyond extraction\"",
+    "title": "Control Resonant's post-launch plan includes a Photo Mode and New Game Plus Plus coming next month: \"Do 665 runs if you want!\"",
     "source": "Eurogamer",
-    "summary": "Bungie has announced drastic changes coming to its struggling shooter Marathon, including a shift away from its extraction roots in the coming months. The new mission statement? Making more \"approachable\" experiences with \"different levels of intensity and commitment.\" Read more...",
-    "date": "Fri, 25 Sep 2026 10:32:41 +0000",
-    "link": "https://www.eurogamer.net/marathon-bungie-future-roadmap-beyond-extraction",
+    "summary": "Control Resonant's upside down world is out now, but Remedy Entertainment's not done with the RPG just yet. The Alan Wake and Max Payne maker has detailed some of its post-launch plans for the game, which currently include new outfits, a Photo Mode and a New Game Plus Plus option for anyone who want...",
+    "date": "Fri, 25 Sep 2026 16:58:01 +0000",
+    "link": "https://www.eurogamer.net/control-resonant-post-launch-plan-new-game-plus",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.28,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.05,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "RPG"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 7,
-    "title": "The Blood of Dawnwalker's divisive time mechanic was once much stricter, but it was loosened because of \"fear\" around the game",
+    "title": "Ubisoft's Mario + Rabbids team reportedly came close to making an \"ambitious\" Zelda game starring Ganondorf, but it wasn't to be",
     "source": "Eurogamer",
-    "summary": "I've had a hunch ever since playing The Blood of Dawnwalker that its divisive time limit feature - whereby you have 30 in-game days and nights to save your character's family from a nasty pack of vampires - isn't as strict as Rebel Wolves once intended it. And it turns out I was right. Read more...",
-    "date": "Thu, 24 Sep 2026 16:52:27 +0000",
-    "link": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-originally-stricter",
+    "summary": "Ubisoft Milan, the studio behind the acclaimed Mario + Rabbids games, reportedly came close to making a Zelda spin-off starring the series' biggest villain, Ganondorf, instead of regular protagonist Link - but an initially receptive Nintendo eventually pulled the plug on the whole thing. Read more...",
+    "date": "Fri, 25 Sep 2026 16:38:48 +0000",
+    "link": "https://www.eurogamer.net/nintendo-ubisoft-mario-rabbids-team-zelda",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.08,
+      "score": 0.02,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 8,
-    "title": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security",
+    "title": "Arc Raiders announces a new PvE \"test\" to accommodate its surprisingly friendly players",
     "source": "Eurogamer",
-    "summary": "Rockstar Games has announced a limited Goodtime State Vice City collection of goodies for Grand Theft Auto 6 that's ludicrously expensive - £349 - doesn't include a copy of the game, and is pre-orderable now. Read more...",
-    "date": "Thu, 24 Sep 2026 16:20:44 +0000",
-    "link": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
+    "summary": "Embark Studios has announced a new matchmaking test for Arc Raiders that'll allow players to opt into a PvE version featuring none of the usual player-versus-player violence. It's the developer's  response to a growing portion of the playerbase apparently uninterested in hurting their raiders-in-arm...",
+    "date": "Fri, 25 Sep 2026 15:21:44 +0000",
+    "link": "https://www.eurogamer.net/arc-raiders-pve-matchmaking-test",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.02,
+      "score": 0.09,
       "badge": "info"
     },
     "tags": [
@@ -143,31 +142,14 @@
   },
   {
     "id": 9,
-    "title": "6 New October Games That Should Be on Your Steam Wishlist",
+    "title": "'I Play Rocky' Review: Your Dad's New Favorite Movie Has Officially Arrived",
     "source": "Polygon",
-    "summary": "October is full of eclectic new PC games. Here are six standouts that deserve a spot on your wishlist.",
-    "date": "Fri, 25 Sep 2026 12:00:15 GMT",
-    "link": "https://www.polygon.com/wishlister-september-25/",
+    "summary": "There is a lot about I Play Rocky that is just \"fine,\" but there's also a lot to love.",
+    "date": "Fri, 25 Sep 2026 18:00:16 GMT",
+    "link": "https://www.polygon.com/i-play-rocky-review/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.21,
-      "badge": "success"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "New Magic Leak Confirms Fully-Foil Spider-Man Commander Deck",
-    "source": "Polygon",
-    "summary": "A new leak seems to confirm that Marvel's Spider-Man will finally get an MTG Commander deck this Christmas.",
-    "date": "Fri, 25 Sep 2026 10:32:20 GMT",
-    "link": "https://www.polygon.com/magic-mtg-spider-man-commander-deck-christmas/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.19,
+      "score": 0.39,
       "badge": "success"
     },
     "tags": [
@@ -177,16 +159,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 11,
-    "title": "Fire Emblem: Three Houses Fans Must Play Dietrich in Fortune's Weave",
+    "id": 10,
+    "title": "This 'Overwhelmingly Positive' Steam Cozy Sim Is Officially Outselling Major Game Releases",
     "source": "Polygon",
-    "summary": "Dietrich's route in Fire Emblem Fortune's Weave contains some of the game's best storytelling and essential Three Houses connections",
-    "date": "Fri, 25 Sep 2026 10:00:16 GMT",
-    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-play-dietrichs-path/",
+    "summary": "Dressmaker is Steam's latest and greatest hit, and it's outshining releases like The Blood of the Dawnwalker and Silent Hill: Townfall",
+    "date": "Fri, 25 Sep 2026 17:35:16 GMT",
+    "link": "https://www.polygon.com/steam-top-sellers-dressmaker-new-releases-cozy-sim-what-is/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.2,
+      "score": 0.17,
       "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "All key of the Diadem locations in Fire Emblem Fortune's Weave",
+    "source": "Polygon",
+    "summary": "Here's where you can find all the keys of the Diadem in Fire Emblem: Fortune's Weave and how to use them to unlock the divine classes.",
+    "date": "Fri, 25 Sep 2026 17:27:20 GMT",
+    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-all-key-of-the-diadem-location-where-to-find/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -196,15 +195,15 @@
   },
   {
     "id": 12,
-    "title": "Saw Creators Return to the Franchise for New Movie from Wrong Turn Director",
+    "title": "Shogun Producer Wants to Turn Mary Poppins Into a ‘Complex’ TV Series?",
     "source": "Polygon",
-    "summary": "Blumhouse and Lionsgate confirm the eleventh installment in the Saw series and reveal the upcoming movie's director.",
-    "date": "Fri, 25 Sep 2026 09:56:04 GMT",
-    "link": "https://www.polygon.com/saw-new-movie-reveal-announcement/",
+    "summary": "A Marry Poppins show based on the original books, rather than the Disney movies, is reportedly in development",
+    "date": "Fri, 25 Sep 2026 17:26:51 GMT",
+    "link": "https://www.polygon.com/mary-poppins-show-in-development-shogun-disney/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.18,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -214,32 +213,31 @@
   },
   {
     "id": 13,
-    "title": "War Thunder's Sky Odyssey update brings overhauled Bombers, a new map, and a whistle-stop tour of new military machines.",
+    "title": "For Warhorse's 15th birthday, we chatted with its co-founder about the demand for 'grown-up' RPGs, AI, why games are too cheap, and his role in the collapse of communism",
     "source": "PC Gamer",
-    "summary": "Rain hell from above in the latest free update to the hit combined arms war shooter.",
-    "date": "Fri, 25 Sep 2026 12:03:29 +0000",
-    "link": "https://www.pcgamer.com/games/war-thunders-sky-odyssey-update-brings-overhauled-bombers-a-new-map-and-a-whistle-stop-tour-of-new-military-machines/",
+    "summary": "Just a regular convo, then.",
+    "date": "Fri, 25 Sep 2026 17:35:09 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/game-development/for-warhorses-15th-birthday-we-chatted-with-its-co-founder-about-the-demand-for-grown-up-rpgs-ai-why-games-are-too-cheap-and-his-role-in-the-collapse-of-communism/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.18,
+      "score": 0.2,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "The PC Gaming Show: Most Wanted returns December 3 with 20 of The Council's most hotly anticipated games",
+    "title": "I made the hot dog vendors in GTA 5 work because Rockstar never did",
     "source": "PC Gamer",
-    "summary": "We'll have more trailers, world premieres, interviews, and reveals than you can shake a stick at",
-    "date": "Fri, 25 Sep 2026 12:00:00 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/events-conferences/the-pc-gaming-show-most-wanted-returns-december-3-with-20-of-the-councils-most-hotly-anticipated-games/",
+    "summary": "Higher body count than I was expecting.",
+    "date": "Fri, 25 Sep 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-never-did/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.44,
+      "score": 0.25,
       "badge": "success"
     },
     "tags": [
@@ -250,32 +248,31 @@
   },
   {
     "id": 15,
-    "title": "Arc Raiders is finally giving players the chance to build their home Topside and I'm seriously hyped",
+    "title": "'Everything is hard. But it turns out that’s not society’s problem, that’s my problem,' says Jensen Huang about AI development",
     "source": "PC Gamer",
-    "summary": "Finally, a new space for all my rubber ducks.",
-    "date": "Fri, 25 Sep 2026 11:55:42 +0000",
-    "link": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-finally-giving-players-the-chance-to-build-their-home-topside-and-im-seriously-hyped/",
+    "summary": "'I have great responsibilities. I take my work extremely seriously.'",
+    "date": "Fri, 25 Sep 2026 16:31:14 +0000",
+    "link": "https://www.pcgamer.com/software/ai/everything-is-hard-but-it-turns-out-thats-not-societys-problem-thats-my-problem-says-jensen-huang-about-ai-development/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.07,
+      "score": 0.06,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "I am now certain The Blood of Dawnwalker's time limit should've just been a setting, after hearing about Rebel Wolves' attempts to thread the needle",
+    "title": "A pro CS2 player told me he ditched his Superstrike gaming mouse for the older Superlight 2 because it was 'inconsistent'",
     "source": "PC Gamer",
-    "summary": "\"We changed the main game, besides the prologue, because we were afraid that people [would] complain too much that it's too restricted.\"",
-    "date": "Fri, 25 Sep 2026 11:17:16 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/i-am-now-certain-the-blood-of-dawnwalkers-time-limit-shouldve-just-been-a-setting-after-hearing-about-rebel-wolves-attempts-to-thread-the-needle/",
+    "summary": "That's the same loveable potato shape, though, in the Superlight.",
+    "date": "Fri, 25 Sep 2026 16:30:22 +0000",
+    "link": "https://www.pcgamer.com/hardware/gaming-mice/a-pro-cs2-player-told-me-he-ditched-his-superstrike-gaming-mouse-for-the-older-superlight-2-because-it-was-inconsistent/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.08,
+      "score": 0.08,
       "badge": "info"
     },
     "tags": [
@@ -286,14 +283,14 @@
   },
   {
     "id": 17,
-    "title": "Gears of War: E-Day Preload Times, Install Size, And Global Launch Dates",
+    "title": "Yes, Beyond Good & Evil 2 Is Somehow Still In Development",
     "source": "GameSpot",
-    "summary": "Several years have passed since the last new Gears of War game was released, but at long last, that drought is almost over. Gears of War: E-Day will be one of the early highlights of October, and if you're looking to rev your Lancer up and turn back the Locust tide, you can start playing really soon...",
-    "date": "Fri, 25 Sep 2026 11:45:22 +0000",
-    "link": "https://www.gamespot.com/articles/gears-of-war-e-day-preload-times-install-size-and-global-launch-dates/",
+    "summary": "No news is good news, they say. They also say that some news, however little, is good news, too, and girl, do we have some news: Ubisoft's struggling action-adventure game Beyond Good & Evil 2 is still alive despite remaining in development hell.\nUbisoft Bordeaux's lead writer and associate narrativ...",
+    "date": "Fri, 25 Sep 2026 17:13:13 +0000",
+    "link": "https://www.gamespot.com/articles/yes-beyond-good-evil-2-is-somehow-still-in-development/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.0,
+      "score": 0.03,
       "badge": "info"
     },
     "tags": [
@@ -304,15 +301,32 @@
   },
   {
     "id": 18,
-    "title": "The Best News For Saw: Genesis Is We Have To Wait Longer To Play It",
+    "title": "Switch Pirate Ignored Nintendo’s Lawsuit, Now He Owes $4.5 Million",
     "source": "GameSpot",
-    "summary": "Saw: Genesis was set to be the next asymmetrical multiplayer horror game to debut, but its 2026 early-access launch has been pushed to 2027, developer Bloober Team announced. \nThe horror-focused studio said it needs more time to get Saw: Genesis to a place the team is satisfied with.\nIt's an interes...",
-    "date": "Thu, 24 Sep 2026 23:43:43 +0000",
-    "link": "https://www.gamespot.com/articles/the-best-news-for-saw-genesis-is-we-have-to-wait-longer-to-play-it/",
+    "summary": "After suing a former Reddit moderator in October 2025 for pirating Switch games, a Washington court has ordered the individual in question to pay Nintendo $4.5 million in damages. \nAccording to a September 25 TorrentFreak report, US District Judge Lauren King ordered former r/SwitchPirates moderator...",
+    "date": "Fri, 25 Sep 2026 16:08:07 +0000",
+    "link": "https://www.gamespot.com/articles/switch-pirate-ignored-nintendos-lawsuit-now-he-owes-4-5-million/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.32,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "Castlevania Turns 40, And Konami May Have Just Teased A 3D Collection",
+    "source": "GameSpot",
+    "summary": "Castlevania celebrated its 40th anniversary this week--an impressive milestone in video games and a terrifying pair of numbers for anyone who was born in 1987. Konami marked the occasion with a new video paying tribute to the original whip-slinging hero of the 1986 Famicom game, as well as all of th...",
+    "date": "Fri, 25 Sep 2026 15:00:37 +0000",
+    "link": "https://www.gamespot.com/articles/castlevania-turns-40-and-konami-may-have-just-teased-a-3d-collection/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -321,33 +335,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 19,
-    "title": "In Saraab: Beyond The Veil, Your Inner Demons Are Coming For You This November",
+    "id": 20,
+    "title": "Gears of War: E-Day Preload Times, Install Size, And Global Launch Dates",
     "source": "GameSpot",
-    "summary": "Anyone looking for a creepy adventure to play in November will want to check out Saraab: Beyond the Veil. Solo developer Lubna Ahmed has announced a November 3 release date for the game on PC via Steam and Itch.io, and a demo will be available for it during the October edition of Steam Next Fest.\nAn...",
-    "date": "Thu, 24 Sep 2026 22:00:00 +0000",
-    "link": "https://www.gamespot.com/articles/in-saraab-beyond-the-veil-your-inner-demons-are-coming-for-you-this-november/",
+    "summary": "Several years have passed since the last new Gears of War game was released, but at long last, that drought is almost over. Gears of War: E-Day will be one of the early highlights of October, and if you're looking to rev your Lancer up and turn back the Locust tide, you can start playing really soon...",
+    "date": "Fri, 25 Sep 2026 11:45:22 +0000",
+    "link": "https://www.gamespot.com/articles/gears-of-war-e-day-preload-times-install-size-and-global-launch-dates/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.1,
+      "score": -0.0,
       "badge": "info"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "First Full Madden Movie Trailer Has Us So Very Confused",
-    "source": "GameSpot",
-    "summary": "Madden, the David O. Russell-directed John Madden biopic starring Nic Cage, got its first full-length trailer today, and to be completely honest, I have no idea what to make of this movie. Based on the two minutes seen in the trailer, it could either be a subversive comedic delight or The Room 2, bu...",
-    "date": "Thu, 24 Sep 2026 20:41:53 +0000",
-    "link": "https://www.gamespot.com/articles/first-full-madden-movie-trailer-has-us-so-very-confused/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
     },
     "tags": [
       "Gaming",
