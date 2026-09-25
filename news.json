@@ -1,72 +1,72 @@
 [
   {
     "id": 1,
-    "title": "The 4K-Ready MSI Codex Z2 GeForce RTX 5070 Ti Gaming PC Drops to $1,699 After a $600 Discount",
+    "title": "The Gigabyte A16 Pro 16\" RTX 5070 Ti Gaming Laptop Drops to $1,449 During Walmart's GeForce Week Sale",
     "source": "IGN",
-    "summary": "The GPU alone currently sells for $1,000 or more in today's market.",
-    "date": "Thu, 24 Sep 2026 16:05:00 +0000",
-    "link": "https://www.ign.com/articles/msi-codex-z2-rtx-5070-ti-gaming-pc-deal-september-2026",
+    "summary": "Strong gaming chops in a slim and lightweight chassis.",
+    "date": "Thu, 24 Sep 2026 22:30:00 +0000",
+    "link": "https://www.ign.com/articles/gigabyte-a16-pro-16-rtx-5070-ti-gaming-laptop-deal-september-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.25,
+      "score": 0.43,
       "badge": "success"
     },
     "tags": [
-      "GPU"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "The New Fall Amazon Audible Deal Is the Best One I've Seen This Year: Get 4 Months for $0.99 Per Month",
+    "title": "Arc Raiders Is Testing a PvE Mode Very Soon",
     "source": "IGN",
-    "summary": "Catch up on Dungeon Crawler Carl, Fourth Wing, Hunger Games, and more.",
-    "date": "Thu, 24 Sep 2026 16:05:00 +0000",
-    "link": "https://www.ign.com/articles/amazon-audible-deal-september-2026",
+    "summary": "Embark Studios has announced that it will be testing a PvE mode for Arc Raiders next month.",
+    "date": "Thu, 24 Sep 2026 22:24:51 +0000",
+    "link": "https://www.ign.com/articles/arc-raiders-is-testing-a-pve-mode-very-soon",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.41,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "The Walmart GeForce Week Sale Has Black Friday Worthy Gaming Laptop Deals",
+    "title": "Ubisoft Almost Made a Zelda Game With Ganondorf as the Protagonist",
     "source": "IGN",
-    "summary": "The best prices I've seen all year on gaming laptops with RTX 5060 to 5080.",
-    "date": "Thu, 24 Sep 2026 16:05:00 +0000",
-    "link": "https://www.ign.com/articles/the-walmart-geforce-week-sale-has-black-friday-worthy-gaming-laptop-deals",
+    "summary": "Ubisoft Milan reportedly pitched a Zelda game to Nintendo that would have taken place in a new universe with a totally different protagonist, but the plan fell through, leading to one of the biggest what-ifs in gaming history.",
+    "date": "Thu, 24 Sep 2026 22:00:12 +0000",
+    "link": "https://www.ign.com/articles/ubisoft-almost-made-a-zelda-game-with-ganondorf-as-the-protagonist",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.39,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.17,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "The Walmart GeForce Week Sale Has Black Friday Worthy Gaming PC Deals, But They're Selling Out",
+    "title": "Target Confirms Jack Skellington's Real-Life Height in a New Halloween Sale Listing",
     "source": "IGN",
-    "summary": "The best prices I've seen all year on prebuilt gaming PCs with RTX 5060 to 5090.",
-    "date": "Thu, 24 Sep 2026 16:05:00 +0000",
-    "link": "https://www.ign.com/articles/walmart-geforce-week-sale-2026-best-deals-on-gaming-pcs",
+    "summary": "",
+    "date": "Thu, 24 Sep 2026 21:41:02 +0000",
+    "link": "https://www.ign.com/articles/target-confirms-jack-skellingtons-real-life-height-in-a-new-halloween-sale-listing",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.39,
+      "score": 0.14,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -83,8 +83,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -101,8 +101,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -142,140 +142,174 @@
   },
   {
     "id": 9,
-    "title": "Magic's New Reality Fracture Mechanic Is So Much Stronger Than It Looks",
+    "title": "8 Best BioWare Games That Aged Like Fine Wine",
     "source": "Polygon",
-    "summary": "MTG Reality Fracture early access gave us a glimpse of how the set plays in Limited, and it's all about Empower Jace.",
-    "date": "Thu, 24 Sep 2026 18:00:10 GMT",
-    "link": "https://www.polygon.com/magic-mtg-reality-fracture-limited-guide-empower-jace/",
+    "summary": "From Baldur's Gate to a surprisingly good Sonic RPG, these 8 BioWare games still hold up decades later",
+    "date": "Thu, 24 Sep 2026 23:00:15 GMT",
+    "link": "https://www.polygon.com/best-bioware-games/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.17,
+      "score": 0.4,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "RPG"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Control Resonant’s Day-One Patch Makes the Game Easier ‘While Still Providing a Challenge’",
+    "title": "Over the Hill Is the Perfect Replacement For Forza Horizon",
     "source": "Polygon",
-    "summary": "Remedy has released a day one patch for Control Resonant that brings much needed balance to combat",
-    "date": "Thu, 24 Sep 2026 17:40:04 GMT",
-    "link": "https://www.polygon.com/control-resonant-remedy-day-one-patch-combat-difficulty/",
+    "summary": "Over the Hill, an exploration racing game from the developer behind Art of Rally, is the perfect antidote to Forza Horizon's AAA expanse.",
+    "date": "Thu, 24 Sep 2026 22:13:46 GMT",
+    "link": "https://www.polygon.com/over-the-hill-preview-demo-steam/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.1,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
     },
     "tags": [
-      "Patch"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Where to find Arashiyama Bamboo Forest in Forza Horizon 6",
+    "title": "Best weapon and combat ability to choose first in Control Resonant",
     "source": "Polygon",
-    "summary": "Here's where you can find the Arashiyama Bamboo Forest in Forza Horizon 6, and the easiest way to get there.",
-    "date": "Thu, 24 Sep 2026 17:17:53 GMT",
-    "link": "https://www.polygon.com/forza-horizon-6-fh6-arashiyama-bamboo-forest-location-where-to-find/",
+    "summary": "The best early weapon and combat ability to choose in the prologue of Control Resonant.",
+    "date": "Thu, 24 Sep 2026 21:54:16 GMT",
+    "link": "https://www.polygon.com/control-resonant-weapon-combat-ability-primary-secondary/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.59,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Sekiro Anime Gets Official Streaming Date and Surprise Format Change",
+    "source": "Polygon",
+    "summary": "Sekiro: No Defeat has a new confirmed streaming date on Crunchyroll, where it will be released as an 8-episode anime — not a movie.",
+    "date": "Thu, 24 Sep 2026 20:40:44 GMT",
+    "link": "https://www.polygon.com/sekiro-anime-no-defeat-release-date-crunchyroll/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.27,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Experimental RPG developer Summer Eternal: 'We're giving away 5% of our studio to you, the Players' in order to 'mend the trust broken in this industry a thousand times over'",
+    "source": "PC Gamer",
+    "summary": "Maybe it's time for something new.",
+    "date": "Thu, 24 Sep 2026 23:10:43 +0000",
+    "link": "https://www.pcgamer.com/games/experimental-rpg-developer-summer-eternal-were-giving-away-5-percent-of-our-studio-to-you-the-players-in-order-to-mend-the-trust-broken-in-this-industry-a-thousand-times-over/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Hooked on the brothers",
+    "source": "PC Gamer",
+    "summary": "Hangin' with the plumbers",
+    "date": "Thu, 24 Sep 2026 22:03:09 +0000",
+    "link": "https://www.pcgamer.com/games/hooked-on-the-brothers/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "'Madden' Movie’s First Trailer Reveals Barely Recognizable Nic Cage and Christian Bale",
-    "source": "Polygon",
-    "summary": "The 'Madden' movie just got its first trailer for Prime Video, showcasing Nic Cage as the football legend.",
-    "date": "Thu, 24 Sep 2026 17:15:32 GMT",
-    "link": "https://www.polygon.com/madden-film-nicolas-cage/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.19,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "The Video Game History Foundation is scanning Japanese magazines now",
-    "source": "PC Gamer",
-    "summary": "Ganbatte!",
-    "date": "Thu, 24 Sep 2026 17:44:13 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/the-video-game-history-foundation-is-scanning-japanese-magazines-now/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.2,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "My greatest GTA 5 challenge yet: Random teleports every 50 seconds",
-    "source": "PC Gamer",
-    "summary": "Excuse m- *poof*.",
-    "date": "Thu, 24 Sep 2026 17:09:26 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/my-greatest-gta-5-challenge-yet-random-teleports-every-50-seconds/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "I cannot believe this obscure MMO from my childhood is still going 23 years later",
+    "title": "Call of Duty 'cosmetic toggle' will cleanse Warzone of its Party City aesthetic",
     "source": "PC Gamer",
-    "summary": "Was I always this bad at it, though?",
-    "date": "Thu, 24 Sep 2026 16:41:49 +0000",
-    "link": "https://www.pcgamer.com/games/mmo/i-cannot-believe-this-obscure-mmo-from-my-childhood-is-still-going-23-years-later/",
+    "summary": "Is the toggle a half measure?",
+    "date": "Thu, 24 Sep 2026 21:54:30 +0000",
+    "link": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-cosmetic-toggle-will-cleanse-warzone-of-its-party-city-aesthetic/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.35,
+      "score": -0.17,
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Oh, the places you'll game: Aerospace engineers use Steam Deck to steer Mars rover prototype",
+    "title": "Cool demo alert: be a cyberpunk shopkeeper in Probably Stolen",
     "source": "PC Gamer",
-    "summary": "Destined for the stars.",
-    "date": "Thu, 24 Sep 2026 16:38:26 +0000",
-    "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/oh-the-places-youll-game-aerospace-engineers-use-steam-deck-to-steer-mars-rover-prototype/",
+    "summary": "Cool demo alert: be a cyberpunk shopkeeper in Probably Stolen",
+    "date": "Thu, 24 Sep 2026 21:46:39 +0000",
+    "link": "https://www.pcgamer.com/games/sim/cool-demo-alert-be-a-cyberpunk-shopkeeper-in-probably-stolen/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.35,
+      "badge": "success"
+    },
+    "tags": [
+      "Cyberpunk"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "The Best News For Saw: Genesis Is We Have To Wait Longer To Play It",
+    "source": "GameSpot",
+    "summary": "Saw: Genesis was set to be the next asymmetrical multiplayer horror game to debut, but its 2026 early-access launch has been pushed to 2027, developer Bloober Team announced. \nThe horror-focused studio said it needs more time to get Saw: Genesis to a place the team is satisfied with.\nIt's an interes...",
+    "date": "Thu, 24 Sep 2026 23:43:43 +0000",
+    "link": "https://www.gamespot.com/articles/the-best-news-for-saw-genesis-is-we-have-to-wait-longer-to-play-it/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.32,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "In Saraab: Beyond The Veil, Your Inner Demons Are Coming For You This November",
+    "source": "GameSpot",
+    "summary": "Anyone looking for a creepy adventure to play in November will want to check out Saraab: Beyond the Veil. Solo developer Lubna Ahmed has announced a November 3 release date for the game on PC via Steam and Itch.io, and a demo will be available for it during the October edition of Steam Next Fest.\nAn...",
+    "date": "Thu, 24 Sep 2026 22:00:00 +0000",
+    "link": "https://www.gamespot.com/articles/in-saraab-beyond-the-veil-your-inner-demons-are-coming-for-you-this-november/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
     },
     "tags": [
       "Steam"
@@ -283,72 +317,37 @@
     "read_time": "1 min read"
   },
   {
-    "id": 17,
-    "title": "Control Resonant Is Making Dylan Stronger, Even If He Just Woke Up From A Coma",
-    "source": "GameSpot",
-    "summary": "Control Resonant has officially launched, and Remedy Entertainment has also paired it with a fresh patch to make it a little less brutal. Hotfix 1.3.3 is primarily focused on adjusting enemy health pools and Dylan's overall strength, and once it's installed, you can expect the parautilitarian to hav...",
-    "date": "Thu, 24 Sep 2026 17:20:52 +0000",
-    "link": "https://www.gamespot.com/articles/control-resonant-is-making-dylan-stronger-even-if-he-just-woke-up-from-a-coma/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "Patch"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "Stranger Than Heaven Studio Made The Tupac Resurrection Less Weird By Not Using AI",
-    "source": "GameSpot",
-    "summary": "RGG Studio's Stranger Than Heaven is certainly living up to its title, as the decision to resurrect the late rapper Tupac Shakur as a character in the game was perceived as odd when it was first announced at Summer Game Fest. In a new update on the game, RGG Studio revealed more details about the ga...",
-    "date": "Thu, 24 Sep 2026 15:44:34 +0000",
-    "link": "https://www.gamespot.com/articles/stranger-than-heaven-studio-made-the-tupac-resurrection-less-weird-by-not-using-ai/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.11,
-      "badge": "danger"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 19,
-    "title": "GTA 6 $400 Collector’s Edition Comes With Everything Except The Game",
+    "title": "First Full Madden Movie Trailer Has Us So Very Confused",
     "source": "GameSpot",
-    "summary": "Rockstar Games has officially confirmed a $400 Grand Theft Auto 6 collector's edition, which doesn't include the game. The developer says The Goodtime State: Vice City Collection is inspired by Leonida’s hit TV show, Macca the Gator, and it's now available to preorder. It'll launch on November 19, t...",
-    "date": "Thu, 24 Sep 2026 15:26:16 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-400-collectors-edition-comes-with-everything-except-the-game/",
+    "summary": "Madden, the David O. Russell-directed John Madden biopic starring Nic Cage, got its first full-length trailer today, and to be completely honest, I have no idea what to make of this movie. Based on the two minutes seen in the trailer, it could either be a subversive comedic delight or The Room 2, bu...",
+    "date": "Thu, 24 Sep 2026 20:41:53 +0000",
+    "link": "https://www.gamespot.com/articles/first-full-madden-movie-trailer-has-us-so-very-confused/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "Roll For Initiative With This Week’s Epic Games Store Freebies",
+    "title": "Nintendo Reportedly Canceled A Ubisoft-Developed Zelda Game Starring Ganondorf",
     "source": "GameSpot",
-    "summary": "The Epic Games Store continues to give away a free game each week, and this week's offering is another nice find at a price that can't be beat. Every Thursday at 8 AM PT / 11 AM ET, Epic offers at least one free PC game (and sometimes even as many as two or three). All you need to do to claim the fr...",
-    "date": "Thu, 18 Jun 2026 15:01:00 +0000",
-    "link": "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/",
+    "summary": "Zelda fans have had no shortage of new games to play in recent years, but it appears that one game--starring the franchise's iconic villain--was also in the works at one point. Rather than having Nintendo internally develop the game, however, the project was in the works at Ubisoft. \nIn a September ...",
+    "date": "Thu, 24 Sep 2026 20:18:09 +0000",
+    "link": "https://www.gamespot.com/articles/nintendo-reportedly-canceled-a-ubisoft-developed-zelda-game-starring-ganondorf/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Nintendo"
     ],
     "read_time": "1 min read"
   }
