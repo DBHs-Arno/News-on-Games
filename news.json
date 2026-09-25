@@ -1,6 +1,23 @@
 [
   {
     "id": 1,
+    "title": "PlayStation Reportedly Polling Game Developers After Decision to Kill Discs Sparks Backlash",
+    "source": "IGN",
+    "summary": "PlayStation is reportedly sending a lengthy survey to game developers with a question about how they sell physical games after their decision to stop producing physical game discs prompted intense backlash.",
+    "date": "Thu, 24 Sep 2026 23:30:15 +0000",
+    "link": "https://www.ign.com/articles/playstation-reportedly-polling-game-developers-after-decision-to-kill-discs-sparks-backlash",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.17,
+      "badge": "danger"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
     "title": "The Gigabyte A16 Pro 16\" RTX 5070 Ti Gaming Laptop Drops to $1,449 During Walmart's GeForce Week Sale",
     "source": "IGN",
     "summary": "Strong gaming chops in a slim and lightweight chassis.",
@@ -18,7 +35,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Arc Raiders Is Testing a PvE Mode Very Soon",
     "source": "IGN",
     "summary": "Embark Studios has announced that it will be testing a PvE mode for Arc Raiders next month.",
@@ -36,7 +53,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Ubisoft Almost Made a Zelda Game With Ganondorf as the Protagonist",
     "source": "IGN",
     "summary": "Ubisoft Milan reportedly pitched a Zelda game to Nintendo that would have taken place in a new universe with a totally different protagonist, but the plan fell through, leading to one of the biggest what-ifs in gaming history.",
@@ -49,24 +66,6 @@
     },
     "tags": [
       "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Target Confirms Jack Skellington's Real-Life Height in a New Halloween Sale Listing",
-    "source": "IGN",
-    "summary": "",
-    "date": "Thu, 24 Sep 2026 21:41:02 +0000",
-    "link": "https://www.ign.com/articles/target-confirms-jack-skellingtons-real-life-height-in-a-new-halloween-sale-listing",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -142,6 +141,42 @@
   },
   {
     "id": 9,
+    "title": "2026’s Most Inventive Sci-Fi Thriller Is Officially Making Its Streaming Debut",
+    "source": "Polygon",
+    "summary": "A liminal horror masterpiece finally releases on HBO Max.",
+    "date": "Fri, 25 Sep 2026 04:00:20 GMT",
+    "link": "https://www.polygon.com/backrooms-hbo-max-streaming-september-2026/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.33,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "One of DC’s Best Superhero Shows Is Now Free to Stream",
+    "source": "Polygon",
+    "summary": "'Teen Titans', Cartoon Network and DC's most engaging release that tackles teen struggles and superhero action, is now streaming on Tubi.",
+    "date": "Fri, 25 Sep 2026 03:00:15 GMT",
+    "link": "https://www.polygon.com/teen-titans-2003-dc-comics-rec/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.34,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
     "title": "8 Best BioWare Games That Aged Like Fine Wine",
     "source": "Polygon",
     "summary": "From Baldur's Gate to a surprisingly good Sonic RPG, these 8 BioWare games still hold up decades later",
@@ -158,7 +193,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
+    "id": 12,
     "title": "Over the Hill Is the Perfect Replacement For Forza Horizon",
     "source": "Polygon",
     "summary": "Over the Hill, an exploration racing game from the developer behind Art of Rally, is the perfect antidote to Forza Horizon's AAA expanse.",
@@ -176,68 +211,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 11,
-    "title": "Best weapon and combat ability to choose first in Control Resonant",
-    "source": "Polygon",
-    "summary": "The best early weapon and combat ability to choose in the prologue of Control Resonant.",
-    "date": "Thu, 24 Sep 2026 21:54:16 GMT",
-    "link": "https://www.polygon.com/control-resonant-weapon-combat-ability-primary-secondary/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.59,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Sekiro Anime Gets Official Streaming Date and Surprise Format Change",
-    "source": "Polygon",
-    "summary": "Sekiro: No Defeat has a new confirmed streaming date on Crunchyroll, where it will be released as an 8-episode anime — not a movie.",
-    "date": "Thu, 24 Sep 2026 20:40:44 GMT",
-    "link": "https://www.polygon.com/sekiro-anime-no-defeat-release-date-crunchyroll/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.27,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 13,
-    "title": "Experimental RPG developer Summer Eternal: 'We're giving away 5% of our studio to you, the Players' in order to 'mend the trust broken in this industry a thousand times over'",
+    "title": "Tim Cain: 'Among other things that Steve Jackson Games didn't like about Fallout was Vault Boy'",
     "source": "PC Gamer",
-    "summary": "Maybe it's time for something new.",
-    "date": "Thu, 24 Sep 2026 23:10:43 +0000",
-    "link": "https://www.pcgamer.com/games/experimental-rpg-developer-summer-eternal-were-giving-away-5-percent-of-our-studio-to-you-the-players-in-order-to-mend-the-trust-broken-in-this-industry-a-thousand-times-over/",
+    "summary": "It wasn't just the violence that Fallout's original partner took issue with.",
+    "date": "Fri, 25 Sep 2026 05:25:59 +0000",
+    "link": "https://www.pcgamer.com/games/fallout/tim-cain-among-other-things-that-steve-jackson-games-didnt-like-about-fallout-was-vault-boy/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
     },
     "tags": [
-      "RPG"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "Hooked on the brothers",
+    "title": "This chill procgen driving game has a very clever UI feature",
     "source": "PC Gamer",
-    "summary": "Hangin' with the plumbers",
-    "date": "Thu, 24 Sep 2026 22:03:09 +0000",
-    "link": "https://www.pcgamer.com/games/hooked-on-the-brothers/",
+    "summary": "Bigger games should adopt this.",
+    "date": "Fri, 25 Sep 2026 04:11:45 +0000",
+    "link": "https://www.pcgamer.com/games/this-chill-procgen-driving-game-has-a-very-clever-ui-feature/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": -0.06,
       "badge": "info"
     },
     "tags": [
@@ -248,15 +248,15 @@
   },
   {
     "id": 15,
-    "title": "Call of Duty 'cosmetic toggle' will cleanse Warzone of its Party City aesthetic",
+    "title": "It's tough to stand out in today's games industry, but 'sorta like Helldivers 2 except dog people' worked on me",
     "source": "PC Gamer",
-    "summary": "Is the toggle a half measure?",
-    "date": "Thu, 24 Sep 2026 21:54:30 +0000",
-    "link": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-cosmetic-toggle-will-cleanse-warzone-of-its-party-city-aesthetic/",
+    "summary": "The free weekend playtest for Gravhounds is fun. Also, you are a dog with a people body.",
+    "date": "Fri, 25 Sep 2026 00:49:10 +0000",
+    "link": "https://www.pcgamer.com/games/third-person-shooter/its-tough-to-stand-out-in-todays-games-industry-but-sorta-like-helldivers-2-except-dog-people-worked-on-me/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.17,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.1,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -266,18 +266,19 @@
   },
   {
     "id": 16,
-    "title": "Cool demo alert: be a cyberpunk shopkeeper in Probably Stolen",
+    "title": "14 days in Dragon Shelter: A play by play of my first season in the Stardew-style farm sim where dragons help bake pies",
     "source": "PC Gamer",
-    "summary": "Cool demo alert: be a cyberpunk shopkeeper in Probably Stolen",
-    "date": "Thu, 24 Sep 2026 21:46:39 +0000",
-    "link": "https://www.pcgamer.com/games/sim/cool-demo-alert-be-a-cyberpunk-shopkeeper-in-probably-stolen/",
+    "summary": "I'm trying out the new farm sim with dragon-assisted cooking to see if it could be my next obsession.",
+    "date": "Fri, 25 Sep 2026 00:46:20 +0000",
+    "link": "https://www.pcgamer.com/games/life-sim/14-days-in-dragon-shelter-a-play-by-play-of-my-first-season-in-the-stardew-style-farm-sim-where-dragons-help-bake-pies/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.35,
+      "score": 0.13,
       "badge": "success"
     },
     "tags": [
-      "Cyberpunk"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },

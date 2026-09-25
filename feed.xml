@@ -6,6 +6,13 @@
     <description>Automated Global Gaming News &amp; Tech Insights Feed</description>
     <language>en-us</language>
     <item>
+      <title>[IGN] PlayStation Reportedly Polling Game Developers After Decision to Kill Discs Sparks Backlash</title>
+      <link>https://www.ign.com/articles/playstation-reportedly-polling-game-developers-after-decision-to-kill-discs-sparks-backlash</link>
+      <description>PlayStation is reportedly sending a lengthy survey to game developers with a question about how they sell physical games after their decision to stop producing physical game discs prompted intense backlash....</description>
+      <pubDate>Thu, 24 Sep 2026 23:30:15 +0000</pubDate>
+      <guid>https://www.ign.com/articles/playstation-reportedly-polling-game-developers-after-decision-to-kill-discs-sparks-backlash</guid>
+    </item>
+    <item>
       <title>[IGN] The Gigabyte A16 Pro 16" RTX 5070 Ti Gaming Laptop Drops to $1,449 During Walmart's GeForce Week Sale</title>
       <link>https://www.ign.com/articles/gigabyte-a16-pro-16-rtx-5070-ti-gaming-laptop-deal-september-2026</link>
       <description>Strong gaming chops in a slim and lightweight chassis....</description>
@@ -32,13 +39,6 @@
       <description>...</description>
       <pubDate>Thu, 24 Sep 2026 21:41:02 +0000</pubDate>
       <guid>https://www.ign.com/articles/target-confirms-jack-skellingtons-real-life-height-in-a-new-halloween-sale-listing</guid>
-    </item>
-    <item>
-      <title>[IGN] The Flexispot Lotus Swivel Rocker and Recliner Is on Clearance for $250 Plus Free Shipping</title>
-      <link>https://www.ign.com/articles/flexispot-xc6-swivel-rocker-recliner-chair-deal</link>
-      <description>Game in lounging comfort....</description>
-      <pubDate>Thu, 24 Sep 2026 21:30:00 +0000</pubDate>
-      <guid>https://www.ign.com/articles/flexispot-xc6-swivel-rocker-recliner-chair-deal</guid>
     </item>
     <item>
       <title>[Eurogamer] The Blood of Dawnwalker's divisive time mechanic was once much stricter, but it was loosened because of "fear" around the game</title>
@@ -76,6 +76,20 @@
       <guid>https://www.eurogamer.net/xbox-mythic-platinum-achievement</guid>
     </item>
     <item>
+      <title>[Polygon] 2026’s Most Inventive Sci-Fi Thriller Is Officially Making Its Streaming Debut</title>
+      <link>https://www.polygon.com/backrooms-hbo-max-streaming-september-2026/</link>
+      <description>A liminal horror masterpiece finally releases on HBO Max....</description>
+      <pubDate>Fri, 25 Sep 2026 04:00:20 GMT</pubDate>
+      <guid>https://www.polygon.com/backrooms-hbo-max-streaming-september-2026/</guid>
+    </item>
+    <item>
+      <title>[Polygon] One of DC’s Best Superhero Shows Is Now Free to Stream</title>
+      <link>https://www.polygon.com/teen-titans-2003-dc-comics-rec/</link>
+      <description>'Teen Titans', Cartoon Network and DC's most engaging release that tackles teen struggles and superhero action, is now streaming on Tubi....</description>
+      <pubDate>Fri, 25 Sep 2026 03:00:15 GMT</pubDate>
+      <guid>https://www.polygon.com/teen-titans-2003-dc-comics-rec/</guid>
+    </item>
+    <item>
       <title>[Polygon] 8 Best BioWare Games That Aged Like Fine Wine</title>
       <link>https://www.polygon.com/best-bioware-games/</link>
       <description>From Baldur's Gate to a surprisingly good Sonic RPG, these 8 BioWare games still hold up decades later...</description>
@@ -95,20 +109,6 @@
       <description>The best early weapon and combat ability to choose in the prologue of Control Resonant....</description>
       <pubDate>Thu, 24 Sep 2026 21:54:16 GMT</pubDate>
       <guid>https://www.polygon.com/control-resonant-weapon-combat-ability-primary-secondary/</guid>
-    </item>
-    <item>
-      <title>[Polygon] Sekiro Anime Gets Official Streaming Date and Surprise Format Change</title>
-      <link>https://www.polygon.com/sekiro-anime-no-defeat-release-date-crunchyroll/</link>
-      <description>Sekiro: No Defeat has a new confirmed streaming date on Crunchyroll, where it will be released as an 8-episode anime — not a movie....</description>
-      <pubDate>Thu, 24 Sep 2026 20:40:44 GMT</pubDate>
-      <guid>https://www.polygon.com/sekiro-anime-no-defeat-release-date-crunchyroll/</guid>
-    </item>
-    <item>
-      <title>[Polygon] The Division's New Release is Going Up Against Zelda</title>
-      <link>https://www.polygon.com/the-division-2-echoes-of-central-park-dlc-release-date/</link>
-      <description>The Division 2: Echoes of Central Park launches in November  with a new story set in Central Park and the Upper West Side....</description>
-      <pubDate>Thu, 24 Sep 2026 19:59:46 GMT</pubDate>
-      <guid>https://www.polygon.com/the-division-2-echoes-of-central-park-dlc-release-date/</guid>
     </item>
   </channel>
 </rss>
