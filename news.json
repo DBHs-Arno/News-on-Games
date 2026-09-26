@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "Ebon Moss-Bachrach in Final Talks for Heat 2 Role",
+    "title": "The HP OMEN GeForce RTX 5070 Ti Gaming PC Drops to $1,899 During the Walmart GeForce Week Sale",
     "source": "IGN",
-    "summary": "Michael Mann’s Heat 2 is set to start shooting in November, with The Bear's Ebon Moss-Bachrach in final talks to play Kelso, previously portrayed by Tom Noonan.",
-    "date": "Fri, 25 Sep 2026 08:27:23 +0000",
-    "link": "https://www.ign.com/articles/ebon-moss-bachrach-in-final-talks-for-heat-2-role",
+    "summary": "Run games at 60fps and beyond on your new 4K monitor.",
+    "date": "Fri, 25 Sep 2026 18:20:00 +0000",
+    "link": "https://www.ign.com/articles/hp-omen-geforce-rtx-507-ti-gaming-pc-deal-september-2026",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.06,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -19,31 +19,32 @@
   },
   {
     "id": 2,
-    "title": "PlayStation Reportedly Polling Game Developers After Decision to Kill Discs Sparks Backlash",
+    "title": "Avery the Poké Kid’s Family Speaks Out After Scalpers Use Child’s Death to Inflate Card Prices",
     "source": "IGN",
-    "summary": "PlayStation is reportedly sending a lengthy survey to game developers with a question about how they sell physical games after their decision to stop producing physical game discs prompted intense backlash.",
-    "date": "Thu, 24 Sep 2026 23:30:15 +0000",
-    "link": "https://www.ign.com/articles/playstation-reportedly-polling-game-developers-after-decision-to-kill-discs-sparks-backlash",
+    "summary": "The family of late Pokémon influencer Avery the Poké Kid is speaking out after scalpers have reportedly started using his death to artificially inflate the prices of a 30th Anniversary Jirachi SIR card.",
+    "date": "Fri, 25 Sep 2026 17:57:02 +0000",
+    "link": "https://www.ign.com/articles/avery-the-pok-kids-family-speaks-out-after-scalpers-use-childs-death-to-inflate-card-prices",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.17,
+      "score": -0.45,
       "badge": "danger"
     },
     "tags": [
-      "PlayStation"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "The Gigabyte A16 Pro 16\" RTX 5070 Ti Gaming Laptop Drops to $1,449 During Walmart's GeForce Week Sale",
+    "title": "Today’s Best Deals: Switch 2 Console, MTG x The Hobbit, and Pokémon Pitch Black",
     "source": "IGN",
-    "summary": "Strong gaming chops in a slim and lightweight chassis.",
-    "date": "Thu, 24 Sep 2026 22:30:00 +0000",
-    "link": "https://www.ign.com/articles/gigabyte-a16-pro-16-rtx-5070-ti-gaming-laptop-deal-september-2026",
+    "summary": "Don’t miss the final days of Walmart’s GeForce week and more discounts.",
+    "date": "Fri, 25 Sep 2026 17:50:00 +0000",
+    "link": "https://www.ign.com/articles/best-deals-for-september-25-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.43,
+      "score": 0.33,
       "badge": "success"
     },
     "tags": [
@@ -54,14 +55,31 @@
   },
   {
     "id": 4,
-    "title": "Arc Raiders Is Testing a PvE Mode Very Soon",
+    "title": "Microsoft Just Seemingly Killed Copilot+ Just 2 Years After Launch",
     "source": "IGN",
-    "summary": "Embark Studios has announced that it will be testing a PvE mode for Arc Raiders next month.",
-    "date": "Thu, 24 Sep 2026 22:24:51 +0000",
-    "link": "https://www.ign.com/articles/arc-raiders-is-testing-a-pve-mode-very-soon",
+    "summary": "Microsoft debuted Copilot+ about two years ago in an effort to bring AI PCs to the mainstream. Now it seems like they're already going away.",
+    "date": "Fri, 25 Sep 2026 17:47:16 +0000",
+    "link": "https://www.ign.com/articles/microsoft-just-seemingly-killed-copilot-just-2-years-after-launch",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Skyrim loremaster says The Elder Scrolls never got a Fallout: New Vegas-style game because Bethesda is \"very protective\" over its golden goose",
+    "source": "Eurogamer",
+    "summary": "Skyrim launched almost 15 years ago while The Elder Scrolls 6 is still marinating over at Bethesda Game Studios. Even so, Bethesda apparently never considered having an outside team develop a spin-off game to fill that painfully long gap - as it did once upon a time with Obsidian's Fallout: New Vega...",
+    "date": "Fri, 25 Sep 2026 19:02:39 +0000",
+    "link": "https://www.eurogamer.net/skyrim-elder-scrolls-never-fallout-new-vegas-bethesda",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.1,
+      "score": -0.05,
       "badge": "info"
     },
     "tags": [
@@ -71,7 +89,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Resident Evil Requiem's made over $500m since release, but the new film didn't have as big of an impact as Capcom's price drops",
     "source": "Eurogamer",
     "summary": "Resident Evil Requiem is still doing bonkers business while elongating Capcom's generational win streak, but the new big-screen reboot didn't make as big of an impact on game sales as you might expect. Still, according to estimates from Alinea Analytics, the ninth mainline game in the horror series ...",
@@ -89,7 +107,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Control Resonant's post-launch plan includes a Photo Mode and New Game Plus Plus coming next month: \"Do 665 runs if you want!\"",
     "source": "Eurogamer",
     "summary": "Control Resonant's upside down world is out now, but Remedy Entertainment's not done with the RPG just yet. The Alan Wake and Max Payne maker has detailed some of its post-launch plans for the game, which currently include new outfits, a Photo Mode and a New Game Plus Plus option for anyone who want...",
@@ -106,7 +124,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Ubisoft's Mario + Rabbids team reportedly came close to making an \"ambitious\" Zelda game starring Ganondorf, but it wasn't to be",
     "source": "Eurogamer",
     "summary": "Ubisoft Milan, the studio behind the acclaimed Mario + Rabbids games, reportedly came close to making a Zelda spin-off starring the series' biggest villain, Ganondorf, instead of regular protagonist Link - but an initially receptive Nintendo eventually pulled the plug on the whole thing. Read more...",
@@ -123,33 +141,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "Arc Raiders announces a new PvE \"test\" to accommodate its surprisingly friendly players",
-    "source": "Eurogamer",
-    "summary": "Embark Studios has announced a new matchmaking test for Arc Raiders that'll allow players to opt into a PvE version featuring none of the usual player-versus-player violence. It's the developer's  response to a growing portion of the playerbase apparently uninterested in hurting their raiders-in-arm...",
-    "date": "Fri, 25 Sep 2026 15:21:44 +0000",
-    "link": "https://www.eurogamer.net/arc-raiders-pve-matchmaking-test",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 9,
-    "title": "'I Play Rocky' Review: Your Dad's New Favorite Movie Has Officially Arrived",
+    "title": "10 Free Browser Games That are Actually Fun to Play",
     "source": "Polygon",
-    "summary": "There is a lot about I Play Rocky that is just \"fine,\" but there's also a lot to love.",
-    "date": "Fri, 25 Sep 2026 18:00:16 GMT",
-    "link": "https://www.polygon.com/i-play-rocky-review/",
+    "summary": "From dice-based deckbuilders to a cat civilization sim, these 10 free browser games rival anything you'd pay for",
+    "date": "Fri, 25 Sep 2026 23:00:15 GMT",
+    "link": "https://www.polygon.com/best-free-browser-games/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.39,
+      "score": 0.37,
       "badge": "success"
     },
     "tags": [
@@ -160,28 +160,29 @@
   },
   {
     "id": 10,
-    "title": "This 'Overwhelmingly Positive' Steam Cozy Sim Is Officially Outselling Major Game Releases",
+    "title": "Alan Ritchson's 2019 Sports Comedy is Free to Watch on YouTube",
     "source": "Polygon",
-    "summary": "Dressmaker is Steam's latest and greatest hit, and it's outshining releases like The Blood of the Dawnwalker and Silent Hill: Townfall",
-    "date": "Fri, 25 Sep 2026 17:35:16 GMT",
-    "link": "https://www.polygon.com/steam-top-sellers-dressmaker-new-releases-cozy-sim-what-is/",
+    "summary": "Alan Ritchson takes on a much lighter role in this Thanksgiving football comedy, now available to watch for free on YouTube.",
+    "date": "Fri, 25 Sep 2026 22:25:20 GMT",
+    "link": "https://www.polygon.com/alan-ritchson-movies-turkey-bowl-free-youtube-watch/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.17,
+      "score": 0.35,
       "badge": "success"
     },
     "tags": [
-      "Steam"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "All key of the Diadem locations in Fire Emblem Fortune's Weave",
+    "title": "Health upgrade point locations in Control Resonant",
     "source": "Polygon",
-    "summary": "Here's where you can find all the keys of the Diadem in Fire Emblem: Fortune's Weave and how to use them to unlock the divine classes.",
-    "date": "Fri, 25 Sep 2026 17:27:20 GMT",
-    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-all-key-of-the-diadem-location-where-to-find/",
+    "summary": "Where to find health upgrade points, so you can increase your maximum HP in Control Resonant.",
+    "date": "Fri, 25 Sep 2026 22:05:45 GMT",
+    "link": "https://www.polygon.com/control-resonant-health-upgrade-point-locations/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -195,15 +196,15 @@
   },
   {
     "id": 12,
-    "title": "Shogun Producer Wants to Turn Mary Poppins Into a ‘Complex’ TV Series?",
+    "title": "What time does Honkai Star Rail version 4.6 release in your time zone?",
     "source": "Polygon",
-    "summary": "A Marry Poppins show based on the original books, rather than the Disney movies, is reportedly in development",
-    "date": "Fri, 25 Sep 2026 17:26:51 GMT",
-    "link": "https://www.polygon.com/mary-poppins-show-in-development-shogun-disney/",
+    "summary": "Honkai: Star Rail version 4.6 launches a bit earlier in the week than usual. We list the maintenance times in your time zone in our guide.",
+    "date": "Fri, 25 Sep 2026 22:01:15 GMT",
+    "link": "https://www.polygon.com/honkai-star-rail-version-4-6-release-times-maintenance-end/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.12,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -213,32 +214,33 @@
   },
   {
     "id": 13,
-    "title": "For Warhorse's 15th birthday, we chatted with its co-founder about the demand for 'grown-up' RPGs, AI, why games are too cheap, and his role in the collapse of communism",
+    "title": "I did the math on my Wardogs XP grind, and now I wish I hadn't",
     "source": "PC Gamer",
-    "summary": "Just a regular convo, then.",
-    "date": "Fri, 25 Sep 2026 17:35:09 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/game-development/for-warhorses-15th-birthday-we-chatted-with-its-co-founder-about-the-demand-for-grown-up-rpgs-ai-why-games-are-too-cheap-and-his-role-in-the-collapse-of-communism/",
+    "summary": "The Wardogs grind is real, and kind of exhausting.",
+    "date": "Fri, 25 Sep 2026 23:47:08 +0000",
+    "link": "https://www.pcgamer.com/games/fps/i-did-the-math-on-my-wardogs-xp-grind-and-now-i-wish-i-hadnt/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.2,
+      "score": 0.13,
       "badge": "success"
     },
     "tags": [
-      "AI"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "I made the hot dog vendors in GTA 5 work because Rockstar never did",
+    "title": "How to open the auxiliary lines in Part 6 of Silent Hill: Townfall",
     "source": "PC Gamer",
-    "summary": "Higher body count than I was expecting.",
-    "date": "Fri, 25 Sep 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-never-did/",
+    "summary": "Complete the last puzzle in Silent Hill: Townfall.",
+    "date": "Fri, 25 Sep 2026 23:15:07 +0000",
+    "link": "https://www.pcgamer.com/games/horror/silent-hill-townfall-open-the-auxiliary-lines/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -248,32 +250,33 @@
   },
   {
     "id": 15,
-    "title": "'Everything is hard. But it turns out that’s not society’s problem, that’s my problem,' says Jensen Huang about AI development",
+    "title": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update",
     "source": "PC Gamer",
-    "summary": "'I have great responsibilities. I take my work extremely seriously.'",
-    "date": "Fri, 25 Sep 2026 16:31:14 +0000",
-    "link": "https://www.pcgamer.com/software/ai/everything-is-hard-but-it-turns-out-thats-not-societys-problem-thats-my-problem-says-jensen-huang-about-ai-development/",
+    "summary": "It's actually on sale for $4 at the moment.",
+    "date": "Fri, 25 Sep 2026 22:26:16 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
     },
     "tags": [
-      "AI"
+      "Steam",
+      "RPG"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "A pro CS2 player told me he ditched his Superstrike gaming mouse for the older Superlight 2 because it was 'inconsistent'",
+    "title": "Guess who patented a new system for in-game ads",
     "source": "PC Gamer",
-    "summary": "That's the same loveable potato shape, though, in the Superlight.",
-    "date": "Fri, 25 Sep 2026 16:30:22 +0000",
-    "link": "https://www.pcgamer.com/hardware/gaming-mice/a-pro-cs2-player-told-me-he-ditched-his-superstrike-gaming-mouse-for-the-older-superlight-2-because-it-was-inconsistent/",
+    "summary": "The future's so bright you gotta wear shades.",
+    "date": "Fri, 25 Sep 2026 22:10:04 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/guess-who-patented-a-new-system-for-in-game-ads/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.28,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -283,6 +286,41 @@
   },
   {
     "id": 17,
+    "title": "Microsoft CEO Attempts To Kill Remaining Xbox Goodwill",
+    "source": "GameSpot",
+    "summary": "After Xbox laid off 1,600 employees over the summer, Microsoft's gaming division followed up with more layoffs and studio closures this week. In the wake of these events, Microsoft CEO Satya Nadella is taking a look at the bright side and praising Xbox CEO Asha Sharma's actions as a necessary step.\n...",
+    "date": "Fri, 25 Sep 2026 23:06:32 +0000",
+    "link": "https://www.gamespot.com/articles/microsoft-ceo-attempts-to-kill-remaining-xbox-goodwill/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "This Diablo 4 Trick Lets You Become Stronger Than Ever, But It Might Not Be Intended",
+    "source": "GameSpot",
+    "summary": "Diablo 4 players are decking themselves out in full sets of Mythic Unique gear as part of Season 15, resulting in characters that are more powerful than ever before. Whether that was Blizzard's goal, or this is simply a mistake of some kind, is currently up for debate.\nIt's about as big of a change ...",
+    "date": "Fri, 25 Sep 2026 19:30:52 +0000",
+    "link": "https://www.gamespot.com/articles/this-diablo-4-trick-lets-you-become-stronger-than-ever-but-it-might-not-be-intended/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.27,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
     "title": "Yes, Beyond Good & Evil 2 Is Somehow Still In Development",
     "source": "GameSpot",
     "summary": "No news is good news, they say. They also say that some news, however little, is good news, too, and girl, do we have some news: Ubisoft's struggling action-adventure game Beyond Good & Evil 2 is still alive despite remaining in development hell.\nUbisoft Bordeaux's lead writer and associate narrativ...",
@@ -300,7 +338,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 18,
+    "id": 20,
     "title": "Switch Pirate Ignored Nintendo’s Lawsuit, Now He Owes $4.5 Million",
     "source": "GameSpot",
     "summary": "After suing a former Reddit moderator in October 2025 for pirating Switch games, a Washington court has ordered the individual in question to pay Nintendo $4.5 million in damages. \nAccording to a September 25 TorrentFreak report, US District Judge Lauren King ordered former r/SwitchPirates moderator...",
@@ -313,42 +351,6 @@
     },
     "tags": [
       "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "Castlevania Turns 40, And Konami May Have Just Teased A 3D Collection",
-    "source": "GameSpot",
-    "summary": "Castlevania celebrated its 40th anniversary this week--an impressive milestone in video games and a terrifying pair of numbers for anyone who was born in 1987. Konami marked the occasion with a new video paying tribute to the original whip-slinging hero of the 1986 Famicom game, as well as all of th...",
-    "date": "Fri, 25 Sep 2026 15:00:37 +0000",
-    "link": "https://www.gamespot.com/articles/castlevania-turns-40-and-konami-may-have-just-teased-a-3d-collection/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "Gears of War: E-Day Preload Times, Install Size, And Global Launch Dates",
-    "source": "GameSpot",
-    "summary": "Several years have passed since the last new Gears of War game was released, but at long last, that drought is almost over. Gears of War: E-Day will be one of the early highlights of October, and if you're looking to rev your Lancer up and turn back the Locust tide, you can start playing really soon...",
-    "date": "Fri, 25 Sep 2026 11:45:22 +0000",
-    "link": "https://www.gamespot.com/articles/gears-of-war-e-day-preload-times-install-size-and-global-launch-dates/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
     ],
     "read_time": "1 min read"
   }
