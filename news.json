@@ -1,6 +1,60 @@
 [
   {
     "id": 1,
+    "title": "Delta Force Celebrates Its Second Anniversary with New Season Reorientation",
+    "source": "IGN",
+    "summary": "",
+    "date": "Sat, 26 Sep 2026 09:30:00 +0000",
+    "link": "https://www.ign.com/articles/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Marvel's Wolverine Dev Adds Option to Turn Off Controversial Scent Trails and More in New Update",
+    "source": "IGN",
+    "summary": "Insomniac Games has published a new Marvel's Wolverine update that adds an option to turn off those controversial scent trails for collectibles.",
+    "date": "Sat, 26 Sep 2026 06:42:12 +0000",
+    "link": "https://www.ign.com/articles/marvels-wolverine-dev-adds-option-to-turn-off-controversial-scent-trails-and-more-in-new-update",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.37,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "Chris Hansen Announces His Own Documentary After Watching 'Fever Dream' Primetime and Grades Movie a D",
+    "source": "IGN",
+    "summary": "Chris Hansen says he was more confused than offended by Lance Oppenheim’s Primetime, and is answering this dramatized version of events with his own documentary.",
+    "date": "Sat, 26 Sep 2026 02:17:48 +0000",
+    "link": "https://www.ign.com/articles/chris-hansen-announces-his-own-documentary-after-watching-fever-dream-primetime-and-grades-movie-a-d",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.22,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
     "title": "How to Play the Silent Hill Games in Order",
     "source": "IGN",
     "summary": "",
@@ -12,66 +66,48 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "EA Sports FC 27 Review",
-    "source": "IGN",
-    "summary": "EA Sports stands on shaky ground with a new open-world hub, but the realistic, intuitive Tactics system shows promise.",
-    "date": "Fri, 25 Sep 2026 23:50:24 +0000",
-    "link": "https://www.ign.com/articles/ea-sports-fc-27-review",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Infinity Festival Returns to Los Angeles in November With a Focus on AI",
-    "source": "IGN",
-    "summary": "Infinity Festival returns to the Audrey Irmas Pavilion in Los Angeles this November for its 9th edition, featuring panels and programming focused on how AI is reshaping the entertainment industry.",
-    "date": "Fri, 25 Sep 2026 21:32:25 +0000",
-    "link": "https://www.ign.com/articles/infinity-festival-los-angeles-2026-ai",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Viral Resident Evil Stunt Footage Shows the Wild Way the 'Katamari Monster' Came to Life in Zach Cregger's Movie",
-    "source": "IGN",
-    "summary": "With Zach Cregger’s Resident Evil movie now in theaters, staff who worked on the film are sharing behind-the-scenes footage of how it all came together, including a jaw-dropping look at the stunt team behind one of its monsters.",
-    "date": "Fri, 25 Sep 2026 21:05:23 +0000",
-    "link": "https://www.ign.com/articles/viral-resident-evil-stunt-footage-shows-the-wild-way-the-katamari-monster-came-to-life-in-zach-creggers-movie",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.57,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "MobyGames video game database now lets developers claim their game credits",
+    "source": "Eurogamer",
+    "summary": "Video game database MobyGames will let developers claim video game credits and customise their personal portfolios, albeit only via a new premium tier. Read more...",
+    "date": "Sat, 26 Sep 2026 11:53:56 +0000",
+    "link": "https://www.eurogamer.net/mobygames-professional-developer-credits-portfolio",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.12,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "US court orders Redditor to pay Nintendo £3.4m over Switch piracy",
+    "source": "Eurogamer",
+    "summary": "A US District Judge has granted Nintendo a £3.4 million ($4.5m) default judgment against James Williams, the former Reddit moderator known online as \"Archbox\", after he failed to respond to a lawsuit over alleged Nintendo Switch piracy. Read more...",
+    "date": "Sat, 26 Sep 2026 10:18:58 +0000",
+    "link": "https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
     "title": "Skyrim loremaster says The Elder Scrolls never got a Fallout: New Vegas-style game because Bethesda is \"very protective\" over its golden goose",
     "source": "Eurogamer",
     "summary": "Skyrim launched almost 15 years ago while The Elder Scrolls 6 is still marinating over at Bethesda Game Studios. Even so, Bethesda apparently never considered having an outside team develop a spin-off game to fill that painfully long gap - as it did once upon a time with Obsidian's Fallout: New Vega...",
@@ -83,13 +119,13 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "Resident Evil Requiem's made over $500m since release, but the new film didn't have as big of an impact as Capcom's price drops",
     "source": "Eurogamer",
     "summary": "Resident Evil Requiem is still doing bonkers business while elongating Capcom's generational win streak, but the new big-screen reboot didn't make as big of an impact on game sales as you might expect. Still, according to estimates from Alinea Analytics, the ninth mainline game in the horror series ...",
@@ -101,21 +137,110 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 7,
-    "title": "Control Resonant's post-launch plan includes a Photo Mode and New Game Plus Plus coming next month: \"Do 665 runs if you want!\"",
-    "source": "Eurogamer",
-    "summary": "Control Resonant's upside down world is out now, but Remedy Entertainment's not done with the RPG just yet. The Alan Wake and Max Payne maker has detailed some of its post-launch plans for the game, which currently include new outfits, a Photo Mode and a New Game Plus Plus option for anyone who want...",
-    "date": "Fri, 25 Sep 2026 16:58:01 +0000",
-    "link": "https://www.eurogamer.net/control-resonant-post-launch-plan-new-game-plus",
+    "id": 9,
+    "title": "Nintendo Should Make More Games About People",
+    "source": "Polygon",
+    "summary": "Switch 2 exclusive Fire Emblem: Fortune's Weave has more messy humanity, sex, and romance than most Nintendo games",
+    "date": "Sat, 26 Sep 2026 12:00:15 GMT",
+    "link": "https://www.polygon.com/switchboard-fire-emblem-fortunes-weave/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.33,
+      "badge": "success"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Overwatch Seasonal Hero Releases 'The Right Thing for the Game,' Blizzard Says",
+    "source": "Polygon",
+    "summary": "Blizzard confirms that Overwatch will get new seasonal hero releases ahead of Overwatch Spotlight 2027 and the release of new hero Doctrine.",
+    "date": "Sat, 26 Sep 2026 11:16:16 GMT",
+    "link": "https://www.polygon.com/overwatch-2027-new-heroes-every-season/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.05,
+      "score": 0.04,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "3 Perfect Calvin and Hobbes Stories From the 1980S That Prove Bill Watterson Is a Genius",
+    "source": "Polygon",
+    "summary": "The best spaceships are red wagons and cardboard boxes",
+    "date": "Sat, 26 Sep 2026 11:00:15 GMT",
+    "link": "https://www.polygon.com/calvin-hobbes-best-80s-stories/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.67,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "'Star Wars' Meets 'Firefly' in this 10/10 Sci-Fi Series That's Free on Streaming Right Now",
+    "source": "Polygon",
+    "summary": "The original guardians of the galaxy",
+    "date": "Sat, 26 Sep 2026 10:13:14 GMT",
+    "link": "https://www.polygon.com/farscape-tubi-free-to-watch-sci-fi-series/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.35,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "It took CD Projekt two years to design Phantom Liberty's Chimera Tank boss fight: 'We were iterating over and over'",
+    "source": "PC Gamer",
+    "summary": "The Polish developer believes the tank to be \"one of the most expensive art assets ever.\"",
+    "date": "Sat, 26 Sep 2026 12:00:01 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/it-took-cd-projekt-two-years-to-design-phantom-libertys-chimera-tank-boss-fight-we-were-iterating-over-and-over/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Former Starfield designer says Bethesda's sci-fi RPG probably won't get a sequel, because the original wasn't 'anywhere near successful enough'",
+    "source": "PC Gamer",
+    "summary": "\"It's, in a way, too bad\".",
+    "date": "Sat, 26 Sep 2026 10:43:02 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/former-starfield-designer-says-bethesdas-sci-fi-rpg-probably-wont-get-a-sequel-because-the-original-wasnt-anywhere-near-successful-enough/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.09,
       "badge": "info"
     },
     "tags": [
@@ -124,96 +249,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "Ubisoft's Mario + Rabbids team reportedly came close to making an \"ambitious\" Zelda game starring Ganondorf, but it wasn't to be",
-    "source": "Eurogamer",
-    "summary": "Ubisoft Milan, the studio behind the acclaimed Mario + Rabbids games, reportedly came close to making a Zelda spin-off starring the series' biggest villain, Ganondorf, instead of regular protagonist Link - but an initially receptive Nintendo eventually pulled the plug on the whole thing. Read more...",
-    "date": "Fri, 25 Sep 2026 16:38:48 +0000",
-    "link": "https://www.eurogamer.net/nintendo-ubisoft-mario-rabbids-team-zelda",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming",
-    "source": "Polygon",
-    "summary": "The CBS anthology series The Twilight Zone is one of the greatest science fiction shows ever made. Catch it while it's free to stream on Tubi.",
-    "date": "Sat, 26 Sep 2026 05:07:15 GMT",
-    "link": "https://www.polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming-september-2026/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.7,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Ridley Scott's Near-Perfect Sci-Fi Masterpiece is Officially Streaming on YouTube for Free",
-    "source": "Polygon",
-    "summary": "One of the best films in Ridley Scott's filmography and a key entry into the sci-fi canon is now free to stream on YouTube.",
-    "date": "Sat, 26 Sep 2026 04:58:15 GMT",
-    "link": "https://www.polygon.com/ridley-scott-blade-runner-final-cut-free-youtube-september-2026/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.45,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Apple's Smartest Sci-Fi Series Is No Match For This Canceled Cult Classic With the Same Name",
-    "source": "Polygon",
-    "summary": "No, you're not confused, there are two of these",
-    "date": "Sat, 26 Sep 2026 04:00:20 GMT",
-    "link": "https://www.polygon.com/dark-matter-2015-canada/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "10 Free Browser Games That are Actually Fun to Play",
-    "source": "Polygon",
-    "summary": "From dice-based deckbuilders to a cat civilization sim, these 10 free browser games rival anything you'd pay for",
-    "date": "Fri, 25 Sep 2026 23:00:15 GMT",
-    "link": "https://www.polygon.com/best-free-browser-games/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.37,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
+    "id": 15,
     "title": "Drop everything and grab the popcorn: Majuular's 4.5-hour documentary on Ultima Online is here to devour your weekend",
     "source": "PC Gamer",
     "summary": "Stop readin' and start watchin'.",
@@ -225,13 +261,13 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "A running tally of the most ridiculous things AI bigwigs have said so far",
     "source": "PC Gamer",
     "summary": "Clear as mud.",
@@ -244,42 +280,6 @@
     },
     "tags": [
       "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "I did the math on my Wardogs XP grind, and now I wish I hadn't",
-    "source": "PC Gamer",
-    "summary": "The Wardogs grind is real, and kind of exhausting.",
-    "date": "Fri, 25 Sep 2026 23:47:08 +0000",
-    "link": "https://www.pcgamer.com/games/fps/i-did-the-math-on-my-wardogs-xp-grind-and-now-i-wish-i-hadnt/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.13,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "How to open the auxiliary lines in Part 6 of Silent Hill: Townfall",
-    "source": "PC Gamer",
-    "summary": "Complete the last puzzle in Silent Hill: Townfall.",
-    "date": "Fri, 25 Sep 2026 23:15:07 +0000",
-    "link": "https://www.pcgamer.com/games/horror/silent-hill-townfall-open-the-auxiliary-lines/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
     ],
     "read_time": "1 min read"
   },
@@ -313,8 +313,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -331,8 +331,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
