@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "The HP OMEN GeForce RTX 5070 Ti Gaming PC Drops to $1,899 During the Walmart GeForce Week Sale",
+    "title": "How to Play the Silent Hill Games in Order",
     "source": "IGN",
-    "summary": "Run games at 60fps and beyond on your new 4K monitor.",
-    "date": "Fri, 25 Sep 2026 18:20:00 +0000",
-    "link": "https://www.ign.com/articles/hp-omen-geforce-rtx-507-ti-gaming-pc-deal-september-2026",
+    "summary": "",
+    "date": "Sat, 26 Sep 2026 00:45:00 +0000",
+    "link": "https://www.ign.com/articles/silent-hill-games-in-order",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -19,15 +19,15 @@
   },
   {
     "id": 2,
-    "title": "Avery the Poké Kid’s Family Speaks Out After Scalpers Use Child’s Death to Inflate Card Prices",
+    "title": "EA Sports FC 27 Review",
     "source": "IGN",
-    "summary": "The family of late Pokémon influencer Avery the Poké Kid is speaking out after scalpers have reportedly started using his death to artificially inflate the prices of a 30th Anniversary Jirachi SIR card.",
-    "date": "Fri, 25 Sep 2026 17:57:02 +0000",
-    "link": "https://www.ign.com/articles/avery-the-pok-kids-family-speaks-out-after-scalpers-use-childs-death-to-inflate-card-prices",
+    "summary": "EA Sports stands on shaky ground with a new open-world hub, but the realistic, intuitive Tactics system shows promise.",
+    "date": "Fri, 25 Sep 2026 23:50:24 +0000",
+    "link": "https://www.ign.com/articles/ea-sports-fc-27-review",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.45,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.01,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -37,36 +37,36 @@
   },
   {
     "id": 3,
-    "title": "Today’s Best Deals: Switch 2 Console, MTG x The Hobbit, and Pokémon Pitch Black",
+    "title": "Infinity Festival Returns to Los Angeles in November With a Focus on AI",
     "source": "IGN",
-    "summary": "Don’t miss the final days of Walmart’s GeForce week and more discounts.",
-    "date": "Fri, 25 Sep 2026 17:50:00 +0000",
-    "link": "https://www.ign.com/articles/best-deals-for-september-25-2026",
+    "summary": "Infinity Festival returns to the Audrey Irmas Pavilion in Los Angeles this November for its 9th edition, featuring panels and programming focused on how AI is reshaping the entertainment industry.",
+    "date": "Fri, 25 Sep 2026 21:32:25 +0000",
+    "link": "https://www.ign.com/articles/infinity-festival-los-angeles-2026-ai",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.33,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Microsoft Just Seemingly Killed Copilot+ Just 2 Years After Launch",
+    "title": "Viral Resident Evil Stunt Footage Shows the Wild Way the 'Katamari Monster' Came to Life in Zach Cregger's Movie",
     "source": "IGN",
-    "summary": "Microsoft debuted Copilot+ about two years ago in an effort to bring AI PCs to the mainstream. Now it seems like they're already going away.",
-    "date": "Fri, 25 Sep 2026 17:47:16 +0000",
-    "link": "https://www.ign.com/articles/microsoft-just-seemingly-killed-copilot-just-2-years-after-launch",
+    "summary": "With Zach Cregger’s Resident Evil movie now in theaters, staff who worked on the film are sharing behind-the-scenes footage of how it all came together, including a jaw-dropping look at the stunt team behind one of its monsters.",
+    "date": "Fri, 25 Sep 2026 21:05:23 +0000",
+    "link": "https://www.ign.com/articles/viral-resident-evil-stunt-footage-shows-the-wild-way-the-katamari-monster-came-to-life-in-zach-creggers-movie",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.2,
+      "score": -0.57,
       "badge": "danger"
     },
     "tags": [
-      "AI"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -142,6 +142,60 @@
   },
   {
     "id": 9,
+    "title": "CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming",
+    "source": "Polygon",
+    "summary": "The CBS anthology series The Twilight Zone is one of the greatest science fiction shows ever made. Catch it while it's free to stream on Tubi.",
+    "date": "Sat, 26 Sep 2026 05:07:15 GMT",
+    "link": "https://www.polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming-september-2026/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.7,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Ridley Scott's Near-Perfect Sci-Fi Masterpiece is Officially Streaming on YouTube for Free",
+    "source": "Polygon",
+    "summary": "One of the best films in Ridley Scott's filmography and a key entry into the sci-fi canon is now free to stream on YouTube.",
+    "date": "Sat, 26 Sep 2026 04:58:15 GMT",
+    "link": "https://www.polygon.com/ridley-scott-blade-runner-final-cut-free-youtube-september-2026/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.45,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "Apple's Smartest Sci-Fi Series Is No Match For This Canceled Cult Classic With the Same Name",
+    "source": "Polygon",
+    "summary": "No, you're not confused, there are two of these",
+    "date": "Sat, 26 Sep 2026 04:00:20 GMT",
+    "link": "https://www.polygon.com/dark-matter-2015-canada/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
     "title": "10 Free Browser Games That are Actually Fun to Play",
     "source": "Polygon",
     "summary": "From dice-based deckbuilders to a cat civilization sim, these 10 free browser games rival anything you'd pay for",
@@ -159,30 +213,12 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "Alan Ritchson's 2019 Sports Comedy is Free to Watch on YouTube",
-    "source": "Polygon",
-    "summary": "Alan Ritchson takes on a much lighter role in this Thanksgiving football comedy, now available to watch for free on YouTube.",
-    "date": "Fri, 25 Sep 2026 22:25:20 GMT",
-    "link": "https://www.polygon.com/alan-ritchson-movies-turkey-bowl-free-youtube-watch/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.35,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Health upgrade point locations in Control Resonant",
-    "source": "Polygon",
-    "summary": "Where to find health upgrade points, so you can increase your maximum HP in Control Resonant.",
-    "date": "Fri, 25 Sep 2026 22:05:45 GMT",
-    "link": "https://www.polygon.com/control-resonant-health-upgrade-point-locations/",
+    "id": 13,
+    "title": "Drop everything and grab the popcorn: Majuular's 4.5-hour documentary on Ultima Online is here to devour your weekend",
+    "source": "PC Gamer",
+    "summary": "Stop readin' and start watchin'.",
+    "date": "Sat, 26 Sep 2026 02:08:31 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/drop-everything-and-grab-the-popcorn-majuulars-4-5-hour-documentary-on-ultima-online-is-here-to-devour-your-weekend/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -195,25 +231,24 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "What time does Honkai Star Rail version 4.6 release in your time zone?",
-    "source": "Polygon",
-    "summary": "Honkai: Star Rail version 4.6 launches a bit earlier in the week than usual. We list the maintenance times in your time zone in our guide.",
-    "date": "Fri, 25 Sep 2026 22:01:15 GMT",
-    "link": "https://www.polygon.com/honkai-star-rail-version-4-6-release-times-maintenance-end/",
+    "id": 14,
+    "title": "A running tally of the most ridiculous things AI bigwigs have said so far",
+    "source": "PC Gamer",
+    "summary": "Clear as mud.",
+    "date": "Sat, 26 Sep 2026 00:12:34 +0000",
+    "link": "https://www.pcgamer.com/games/live/news/what-are-the-ai-guys-saying-now/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.12,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 13,
+    "id": 15,
     "title": "I did the math on my Wardogs XP grind, and now I wish I hadn't",
     "source": "PC Gamer",
     "summary": "The Wardogs grind is real, and kind of exhausting.",
@@ -231,7 +266,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "How to open the auxiliary lines in Part 6 of Silent Hill: Townfall",
     "source": "PC Gamer",
     "summary": "Complete the last puzzle in Silent Hill: Townfall.",
@@ -241,42 +276,6 @@
       "label": "Neutral / Informative",
       "score": 0.02,
       "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update",
-    "source": "PC Gamer",
-    "summary": "It's actually on sale for $4 at the moment.",
-    "date": "Fri, 25 Sep 2026 22:26:16 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
-    },
-    "tags": [
-      "Steam",
-      "RPG"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Guess who patented a new system for in-game ads",
-    "source": "PC Gamer",
-    "summary": "The future's so bright you gotta wear shades.",
-    "date": "Fri, 25 Sep 2026 22:10:04 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/guess-who-patented-a-new-system-for-in-game-ads/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.28,
-      "badge": "success"
     },
     "tags": [
       "Gaming",
