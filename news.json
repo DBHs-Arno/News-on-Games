@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Delta Force Celebrates Its Second Anniversary with New Season Reorientation",
+    "title": "Unabomber Review",
     "source": "IGN",
-    "summary": "",
-    "date": "Sat, 26 Sep 2026 09:30:00 +0000",
-    "link": "https://www.ign.com/articles/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation",
+    "summary": "Unabomber covers the formative years and later arrest of Ted Kaczynski, the titular mail bomber who terrorized the US from the late 1970s until the mid-1990s. Director Janus Metz’s mixed bag of a film aims to understand the origin of a domestic terrorist but it never quite convinces or connects.",
+    "date": "Sat, 26 Sep 2026 16:30:00 +0000",
+    "link": "https://www.ign.com/articles/unabomber-netflix-movie-review",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.07,
+      "score": -0.04,
       "badge": "info"
     },
     "tags": [
@@ -19,14 +19,14 @@
   },
   {
     "id": 2,
-    "title": "Marvel's Wolverine Dev Adds Option to Turn Off Controversial Scent Trails and More in New Update",
+    "title": "The Amazon October Audible Deal Is Now Live: Pay $0.99 Per Month",
     "source": "IGN",
-    "summary": "Insomniac Games has published a new Marvel's Wolverine update that adds an option to turn off those controversial scent trails for collectibles.",
-    "date": "Sat, 26 Sep 2026 06:42:12 +0000",
-    "link": "https://www.ign.com/articles/marvels-wolverine-dev-adds-option-to-turn-off-controversial-scent-trails-and-more-in-new-update",
+    "summary": "Catch up on Dungeon Crawler Carl, Fourth Wing, Hunger Games, and more.",
+    "date": "Sat, 26 Sep 2026 16:28:08 +0000",
+    "link": "https://www.ign.com/articles/amazon-audible-deal-october-prime-day-sale-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.37,
+      "score": 0.21,
       "badge": "success"
     },
     "tags": [
@@ -37,15 +37,15 @@
   },
   {
     "id": 3,
-    "title": "Chris Hansen Announces His Own Documentary After Watching 'Fever Dream' Primetime and Grades Movie a D",
+    "title": "Melissa Barrera Says She Would Reprise Her Scream Role, Reveals Conditions for Her Return",
     "source": "IGN",
-    "summary": "Chris Hansen says he was more confused than offended by Lance Oppenheim’s Primetime, and is answering this dramatized version of events with his own documentary.",
-    "date": "Sat, 26 Sep 2026 02:17:48 +0000",
-    "link": "https://www.ign.com/articles/chris-hansen-announces-his-own-documentary-after-watching-fever-dream-primetime-and-grades-movie-a-d",
+    "summary": "Actress Melissa Barrera said she is open to returning to Scream, but don't expect to see her reprise her role as Sam Carpenter as long as Spyglass Media has the rights.",
+    "date": "Sat, 26 Sep 2026 16:19:23 +0000",
+    "link": "https://www.ign.com/articles/melissa-barrera-says-she-would-reprise-her-scream-role-reveals-conditions-for-her-return",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.22,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -55,11 +55,11 @@
   },
   {
     "id": 4,
-    "title": "How to Play the Silent Hill Games in Order",
+    "title": "Everything Coming to Disney+ and Hulu in October",
     "source": "IGN",
     "summary": "",
-    "date": "Sat, 26 Sep 2026 00:45:00 +0000",
-    "link": "https://www.ign.com/articles/silent-hill-games-in-order",
+    "date": "Sat, 26 Sep 2026 16:02:00 +0000",
+    "link": "https://www.ign.com/articles/whats-new-on-disney-and-hulu-in-october-2026",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -73,6 +73,24 @@
   },
   {
     "id": 5,
+    "title": "Castlevania celebrates turning 40 by giving away the original game for free",
+    "source": "Eurogamer",
+    "summary": "In celebration of the 40th(!!) anniversary of Castlevania, Konami is giving away the original 1986 game for free on the App Store and Google Play. Read more...",
+    "date": "Sat, 26 Sep 2026 15:28:01 +0000",
+    "link": "https://www.eurogamer.net/castlevania-40th-anniversary-free-original-game-belmonts-curse",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.21,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
     "title": "MobyGames video game database now lets developers claim their game credits",
     "source": "Eurogamer",
     "summary": "Video game database MobyGames will let developers claim video game credits and customise their personal portfolios, albeit only via a new premium tier. Read more...",
@@ -90,7 +108,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "US court orders Redditor to pay Nintendo £3.4m over Switch piracy",
     "source": "Eurogamer",
     "summary": "A US District Judge has granted Nintendo a £3.4 million ($4.5m) default judgment against James Williams, the former Reddit moderator known online as \"Archbox\", after he failed to respond to a lawsuit over alleged Nintendo Switch piracy. Read more...",
@@ -107,7 +125,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Skyrim loremaster says The Elder Scrolls never got a Fallout: New Vegas-style game because Bethesda is \"very protective\" over its golden goose",
     "source": "Eurogamer",
     "summary": "Skyrim launched almost 15 years ago while The Elder Scrolls 6 is still marinating over at Bethesda Game Studios. Even so, Bethesda apparently never considered having an outside team develop a spin-off game to fill that painfully long gap - as it did once upon a time with Obsidian's Fallout: New Vega...",
@@ -125,16 +143,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "Resident Evil Requiem's made over $500m since release, but the new film didn't have as big of an impact as Capcom's price drops",
-    "source": "Eurogamer",
-    "summary": "Resident Evil Requiem is still doing bonkers business while elongating Capcom's generational win streak, but the new big-screen reboot didn't make as big of an impact on game sales as you might expect. Still, according to estimates from Alinea Analytics, the ninth mainline game in the horror series ...",
-    "date": "Fri, 25 Sep 2026 18:01:19 +0000",
-    "link": "https://www.eurogamer.net/resident-evil-requiem-500-film-capcom-price",
+    "id": 9,
+    "title": "Minecraft Is Getting Its First New Dimension Since 2011",
+    "source": "Polygon",
+    "summary": "A new dimension from Minecraft Dungeons 2 will be added to Minecraft in 2027",
+    "date": "Sat, 26 Sep 2026 17:30:15 GMT",
+    "link": "https://www.polygon.com/minecraft-live-news-recap-sift-dimension/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.19,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -143,33 +161,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 9,
-    "title": "Nintendo Should Make More Games About People",
+    "id": 10,
+    "title": "13 Most Influential Video Games of the Past 45 Years",
     "source": "Polygon",
-    "summary": "Switch 2 exclusive Fire Emblem: Fortune's Weave has more messy humanity, sex, and romance than most Nintendo games",
-    "date": "Sat, 26 Sep 2026 12:00:15 GMT",
-    "link": "https://www.polygon.com/switchboard-fire-emblem-fortunes-weave/",
+    "summary": "Games come and go, but the lingering influence of the 13 games on this list, drawn from across the decades, will always remain.",
+    "date": "Sat, 26 Sep 2026 17:23:35 GMT",
+    "link": "https://www.polygon.com/most-influential-video-games/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.33,
+      "score": 0.12,
       "badge": "success"
-    },
-    "tags": [
-      "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Overwatch Seasonal Hero Releases 'The Right Thing for the Game,' Blizzard Says",
-    "source": "Polygon",
-    "summary": "Blizzard confirms that Overwatch will get new seasonal hero releases ahead of Overwatch Spotlight 2027 and the release of new hero Doctrine.",
-    "date": "Sat, 26 Sep 2026 11:16:16 GMT",
-    "link": "https://www.polygon.com/overwatch-2027-new-heroes-every-season/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.04,
-      "badge": "info"
     },
     "tags": [
       "News",
@@ -179,14 +180,14 @@
   },
   {
     "id": 11,
-    "title": "3 Perfect Calvin and Hobbes Stories From the 1980S That Prove Bill Watterson Is a Genius",
+    "title": "Sega's '90s'-Era Fire Emblem Replacement Needs To Make A Comeback",
     "source": "Polygon",
-    "summary": "The best spaceships are red wagons and cardboard boxes",
-    "date": "Sat, 26 Sep 2026 11:00:15 GMT",
-    "link": "https://www.polygon.com/calvin-hobbes-best-80s-stories/",
+    "summary": "In light of Fire Emblem: Fortune's Weave's success, Sega should bring back Shining Force, its long-dormant series of tactics RPGs.",
+    "date": "Sat, 26 Sep 2026 17:08:29 GMT",
+    "link": "https://www.polygon.com/shining-force-sega-tactics-rpg-comeback/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.67,
+      "score": 0.23,
       "badge": "success"
     },
     "tags": [
@@ -197,15 +198,15 @@
   },
   {
     "id": 12,
-    "title": "'Star Wars' Meets 'Firefly' in this 10/10 Sci-Fi Series That's Free on Streaming Right Now",
+    "title": "Larian Officially Ended Baldur's Gate 3 DLC. Modders Missed the Memo",
     "source": "Polygon",
-    "summary": "The original guardians of the galaxy",
-    "date": "Sat, 26 Sep 2026 10:13:14 GMT",
-    "link": "https://www.polygon.com/farscape-tubi-free-to-watch-sci-fi-series/",
+    "summary": "Three years after Larian walked away from Baldur's Gate 3 DLC, its modding scene is still building expansion-sized content",
+    "date": "Sat, 26 Sep 2026 17:00:15 GMT",
+    "link": "https://www.polygon.com/bg3-modders-keep-making-dlc-sized-expansions/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.35,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -215,15 +216,15 @@
   },
   {
     "id": 13,
-    "title": "It took CD Projekt two years to design Phantom Liberty's Chimera Tank boss fight: 'We were iterating over and over'",
+    "title": "I saw the future and it literally stinks",
     "source": "PC Gamer",
-    "summary": "The Polish developer believes the tank to be \"one of the most expensive art assets ever.\"",
-    "date": "Sat, 26 Sep 2026 12:00:01 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/it-took-cd-projekt-two-years-to-design-phantom-libertys-chimera-tank-boss-fight-we-were-iterating-over-and-over/",
+    "summary": "You absolutely do not need it. I feel obliged to note this.",
+    "date": "Sat, 26 Sep 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/hardware/i-saw-the-future-and-it-literally-stinks/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.23,
+      "badge": "danger"
     },
     "tags": [
       "News",
@@ -233,15 +234,15 @@
   },
   {
     "id": 14,
-    "title": "Former Starfield designer says Bethesda's sci-fi RPG probably won't get a sequel, because the original wasn't 'anywhere near successful enough'",
+    "title": "What's the weirdest thing that happened to you in a tabletop RPG?",
     "source": "PC Gamer",
-    "summary": "\"It's, in a way, too bad\".",
-    "date": "Sat, 26 Sep 2026 10:43:02 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/former-starfield-designer-says-bethesdas-sci-fi-rpg-probably-wont-get-a-sequel-because-the-original-wasnt-anywhere-near-successful-enough/",
+    "summary": "Miraculous rolls, insane GMs, tables being flipped over—I want it all.",
+    "date": "Sat, 26 Sep 2026 16:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/whats-the-weirdest-thing-that-happened-to-you-in-a-tabletop-rpg/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -1.0,
+      "badge": "danger"
     },
     "tags": [
       "RPG"
@@ -250,14 +251,14 @@
   },
   {
     "id": 15,
-    "title": "Drop everything and grab the popcorn: Majuular's 4.5-hour documentary on Ultima Online is here to devour your weekend",
+    "title": "The Elder Scrolls Online's devs are pushing through hard times after layoffs and delays: 'We didn't want to rush to just hit a date'",
     "source": "PC Gamer",
-    "summary": "Stop readin' and start watchin'.",
-    "date": "Sat, 26 Sep 2026 02:08:31 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/drop-everything-and-grab-the-popcorn-majuulars-4-5-hour-documentary-on-ultima-online-is-here-to-devour-your-weekend/",
+    "summary": "\"We still love this game.\"",
+    "date": "Sat, 26 Sep 2026 15:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/mmo/the-elder-scrolls-onlines-devs-are-pushing-through-hard-times-after-layoffs-and-delays-we-didnt-want-to-rush-to-just-hit-a-date/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": -0.06,
       "badge": "info"
     },
     "tags": [
@@ -268,23 +269,60 @@
   },
   {
     "id": 16,
-    "title": "A running tally of the most ridiculous things AI bigwigs have said so far",
+    "title": "After Warcraft 3's first new campaign in 23 years, let's normalize releasing new DLC for ancient RTS games",
     "source": "PC Gamer",
-    "summary": "Clear as mud.",
-    "date": "Sat, 26 Sep 2026 00:12:34 +0000",
-    "link": "https://www.pcgamer.com/games/live/news/what-are-the-ai-guys-saying-now/",
+    "summary": "Age of Empires and Blizzard's RTS offer a playbook for how to keep the nostalgia fires burning.",
+    "date": "Sat, 26 Sep 2026 14:17:56 +0000",
+    "link": "https://www.pcgamer.com/games/rts/after-warcraft-3s-first-new-campaign-in-23-years-lets-normalize-releasing-new-dlc-for-ancient-rts-games/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
     },
     "tags": [
-      "AI"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
+    "title": "Minecraft Is Getting Its First New Dimension In Over 15 Years",
+    "source": "GameSpot",
+    "summary": "Announced today during Minecraft Live, Mojang is adding the first new dimension to the blocky sandbox game in more than a decade and a half.\nThe Sift is an ethereal-looking fourth dimension that was first marketed for Minecraft Dungeons 2, and it's now been confirmed that it's coming to the base gam...",
+    "date": "Sat, 26 Sep 2026 18:00:00 +0000",
+    "link": "https://www.gamespot.com/articles/minecraft-is-getting-its-first-new-dimension-in-over-15-years/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "The Next Minecraft Update Adds Ice Caves, A New Mob, And More",
+    "source": "GameSpot",
+    "summary": "Minecraft's next game drop will add a new underground environment to the sandbox game, along with a new hostile mob, and items that bring frosty mechanics to exploration and combat.\nAnnounced during Minecraft Live on September 26, the upcoming game drop is expected to follow the usual drop cadence o...",
+    "date": "Sat, 26 Sep 2026 17:30:00 +0000",
+    "link": "https://www.gamespot.com/articles/the-next-minecraft-update-adds-ice-caves-a-new-mob-and-more/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.04,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
     "title": "Microsoft CEO Attempts To Kill Remaining Xbox Goodwill",
     "source": "GameSpot",
     "summary": "After Xbox laid off 1,600 employees over the summer, Microsoft's gaming division followed up with more layoffs and studio closures this week. In the wake of these events, Microsoft CEO Satya Nadella is taking a look at the bright side and praising Xbox CEO Asha Sharma's actions as a necessary step.\n...",
@@ -301,7 +339,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 18,
+    "id": 20,
     "title": "This Diablo 4 Trick Lets You Become Stronger Than Ever, But It Might Not Be Intended",
     "source": "GameSpot",
     "summary": "Diablo 4 players are decking themselves out in full sets of Mythic Unique gear as part of Season 15, resulting in characters that are more powerful than ever before. Whether that was Blizzard's goal, or this is simply a mistake of some kind, is currently up for debate.\nIt's about as big of a change ...",
@@ -315,41 +353,6 @@
     "tags": [
       "News",
       "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "Yes, Beyond Good & Evil 2 Is Somehow Still In Development",
-    "source": "GameSpot",
-    "summary": "No news is good news, they say. They also say that some news, however little, is good news, too, and girl, do we have some news: Ubisoft's struggling action-adventure game Beyond Good & Evil 2 is still alive despite remaining in development hell.\nUbisoft Bordeaux's lead writer and associate narrativ...",
-    "date": "Fri, 25 Sep 2026 17:13:13 +0000",
-    "link": "https://www.gamespot.com/articles/yes-beyond-good-evil-2-is-somehow-still-in-development/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "Switch Pirate Ignored Nintendo’s Lawsuit, Now He Owes $4.5 Million",
-    "source": "GameSpot",
-    "summary": "After suing a former Reddit moderator in October 2025 for pirating Switch games, a Washington court has ordered the individual in question to pay Nintendo $4.5 million in damages. \nAccording to a September 25 TorrentFreak report, US District Judge Lauren King ordered former r/SwitchPirates moderator...",
-    "date": "Fri, 25 Sep 2026 16:08:07 +0000",
-    "link": "https://www.gamespot.com/articles/switch-pirate-ignored-nintendos-lawsuit-now-he-owes-4-5-million/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Nintendo"
     ],
     "read_time": "1 min read"
   }
