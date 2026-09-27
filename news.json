@@ -12,8 +12,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -30,8 +30,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -48,8 +48,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -66,13 +66,30 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs",
+    "source": "Eurogamer",
+    "summary": "Microsoft CEO Satya Nadella has praised Xbox's ongoing \"streamlining\" under Xbox CEO Asha Sharma just days after another round of layoffs hit the division. Read more...",
+    "date": "Sat, 26 Sep 2026 19:16:49 +0000",
+    "link": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.37,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
     "title": "Castlevania celebrates turning 40 by giving away the original game for free",
     "source": "Eurogamer",
     "summary": "In celebration of the 40th(!!) anniversary of Castlevania, Konami is giving away the original 1986 game for free on the App Store and Google Play. Read more...",
@@ -84,13 +101,13 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "MobyGames video game database now lets developers claim their game credits",
     "source": "Eurogamer",
     "summary": "Video game database MobyGames will let developers claim video game credits and customise their personal portfolios, albeit only via a new premium tier. Read more...",
@@ -102,13 +119,13 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "US court orders Redditor to pay Nintendo £3.4m over Switch piracy",
     "source": "Eurogamer",
     "summary": "A US District Judge has granted Nintendo a £3.4 million ($4.5m) default judgment against James Williams, the former Reddit moderator known online as \"Archbox\", after he failed to respond to a lawsuit over alleged Nintendo Switch piracy. Read more...",
@@ -125,97 +142,96 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "Skyrim loremaster says The Elder Scrolls never got a Fallout: New Vegas-style game because Bethesda is \"very protective\" over its golden goose",
-    "source": "Eurogamer",
-    "summary": "Skyrim launched almost 15 years ago while The Elder Scrolls 6 is still marinating over at Bethesda Game Studios. Even so, Bethesda apparently never considered having an outside team develop a spin-off game to fill that painfully long gap - as it did once upon a time with Obsidian's Fallout: New Vega...",
-    "date": "Fri, 25 Sep 2026 19:02:39 +0000",
-    "link": "https://www.eurogamer.net/skyrim-elder-scrolls-never-fallout-new-vegas-bethesda",
+    "id": 9,
+    "title": "5 Classic Star Trek Episodes That Have Aged Like Milk",
+    "source": "Polygon",
+    "summary": "Star Trek was groundbreaking television, but these five classic episodes prove not every trip aboard the Enterprise has aged well.",
+    "date": "Sun, 27 Sep 2026 00:00:15 GMT",
+    "link": "https://www.polygon.com/star-trek-worst-episodes-that-have-aged-badly/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.05,
+      "score": 0.03,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "Minecraft Is Getting Its First New Dimension Since 2011",
-    "source": "Polygon",
-    "summary": "A new dimension from Minecraft Dungeons 2 will be added to Minecraft in 2027",
-    "date": "Sat, 26 Sep 2026 17:30:15 GMT",
-    "link": "https://www.polygon.com/minecraft-live-news-recap-sift-dimension/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "13 Most Influential Video Games of the Past 45 Years",
+    "title": "Every Star Wars Movie and TV Show Officially in Development",
     "source": "Polygon",
-    "summary": "Games come and go, but the lingering influence of the 13 games on this list, drawn from across the decades, will always remain.",
-    "date": "Sat, 26 Sep 2026 17:23:35 GMT",
-    "link": "https://www.polygon.com/most-influential-video-games/",
+    "summary": "What's next for Star Wars? Here's the latest release schedule for every Star Wars TV show, movie, and anniversary rerelease coming in 2027 and beyond.",
+    "date": "Sat, 26 Sep 2026 23:20:15 GMT",
+    "link": "https://www.polygon.com/star-wars-upcoming-movies-tv-shows-release-dates-2027/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.12,
+      "score": 0.25,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Sega's '90s'-Era Fire Emblem Replacement Needs To Make A Comeback",
+    "title": "This 35-Year-Old Video Game Is Somehow More Fun Than Ever",
     "source": "Polygon",
-    "summary": "In light of Fire Emblem: Fortune's Weave's success, Sega should bring back Shining Force, its long-dormant series of tactics RPGs.",
-    "date": "Sat, 26 Sep 2026 17:08:29 GMT",
-    "link": "https://www.polygon.com/shining-force-sega-tactics-rpg-comeback/",
+    "summary": "A lot of 35-year-old games didn't age well, but one Super Nintendo classic remains every bit as much fun to play as it was at launch.",
+    "date": "Sat, 26 Sep 2026 23:00:15 GMT",
+    "link": "https://www.polygon.com/zelda-link-to-the-past-snes-35th-anniversary/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.23,
+      "score": 0.2,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "Larian Officially Ended Baldur's Gate 3 DLC. Modders Missed the Memo",
+    "title": "Former D&D Leads Say Critical Role's Daggerheart Represents a ‘Fundamental Shift’ for TTRPGS",
     "source": "Polygon",
-    "summary": "Three years after Larian walked away from Baldur's Gate 3 DLC, its modding scene is still building expansion-sized content",
-    "date": "Sat, 26 Sep 2026 17:00:15 GMT",
-    "link": "https://www.polygon.com/bg3-modders-keep-making-dlc-sized-expansions/",
+    "summary": "Chris Perkins and Jeremy Crawford discuss their transition from D&D to Daggerheart and their current projects for Critical Role's TTRPG.",
+    "date": "Sat, 26 Sep 2026 21:00:15 GMT",
+    "link": "https://www.polygon.com/critical-role-daggerheart-dnd-designers-interview-perkins-crawford/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
+    "title": "Former Elder Scrolls designer Kurt Kuhlmann on Fallout: New Vegas diehards: 'I don't know that Todd wanted to create that situation again for The Elder Scrolls'",
+    "source": "PC Gamer",
+    "summary": "\"Todd, from my time there, he is very protective of it.\"",
+    "date": "Sat, 26 Sep 2026 21:54:26 +0000",
+    "link": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-designer-kurt-kuhlmann-on-fallout-new-vegas-diehards-i-dont-know-that-todd-wanted-to-create-that-situation-again-for-the-elder-scrolls/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
     "title": "I saw the future and it literally stinks",
     "source": "PC Gamer",
     "summary": "You absolutely do not need it. I feel obliged to note this.",
@@ -227,13 +243,13 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "What's the weirdest thing that happened to you in a tabletop RPG?",
     "source": "PC Gamer",
     "summary": "Miraculous rolls, insane GMs, tables being flipped over—I want it all.",
@@ -250,7 +266,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "The Elder Scrolls Online's devs are pushing through hard times after layoffs and delays: 'We didn't want to rush to just hit a date'",
     "source": "PC Gamer",
     "summary": "\"We still love this game.\"",
@@ -262,26 +278,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "After Warcraft 3's first new campaign in 23 years, let's normalize releasing new DLC for ancient RTS games",
-    "source": "PC Gamer",
-    "summary": "Age of Empires and Blizzard's RTS offer a playbook for how to keep the nostalgia fires burning.",
-    "date": "Sat, 26 Sep 2026 14:17:56 +0000",
-    "link": "https://www.pcgamer.com/games/rts/after-warcraft-3s-first-new-campaign-in-23-years-lets-normalize-releasing-new-dlc-for-ancient-rts-games/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -298,8 +296,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -316,8 +314,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -351,8 +349,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
