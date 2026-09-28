@@ -1,104 +1,50 @@
 [
   {
     "id": 1,
-    "title": "WoW Forever Beta Player Dies to a Near Perfect Griefing Tactic That I'm Sure Blizzard Will Patch Out",
+    "title": "The Simpsons Season 38 Premiere Review: 'The Children's Book Job'",
     "source": "IGN",
-    "summary": "World of Warcraft Forever’s beta marches on, and all evidence points to it being a massive success. But it’s worth remembering this is a beta, and a beta is for reporting issues. Enter one of the best WoW griefing tactics I’ve ever seen.",
-    "date": "Mon, 28 Sep 2026 11:19:42 +0000",
-    "link": "https://www.ign.com/articles/wow-forever-beta-player-dies-to-a-near-perfect-griefing-tactic-that-im-sure-blizzard-will-patch-out",
+    "summary": "The Simpsons kicks off Season 38 with a mostly standard premiere episode that's carried by the delightfully British guest star Emma Thompson.",
+    "date": "Mon, 28 Sep 2026 15:38:09 +0000",
+    "link": "https://www.ign.com/articles/the-simpsons-season-38-premiere-review-the-childrens-book-job",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.38,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Patch"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "McDonald's Happy Meal Pokémon Cards Promotion Launches in November",
+    "title": "Thieves on the Hunt for GPUs Stole Nvidia Trucks, but All They Got Was 20 Tons of Sand",
     "source": "IGN",
-    "summary": "Pokémon cards will return to McDonald's Happy Meals soon, with 15 more cards to collect.",
-    "date": "Mon, 28 Sep 2026 11:09:49 +0000",
-    "link": "https://www.ign.com/articles/mcdonalds-happy-meal-pokmon-cards-promotion-launches-in-november",
+    "summary": "It's no secret that GPUs are worth their weight in gold right now, with the ongoing RAM crisis shooting prices through the stratosphere. That's probably what some thieves were thinking too, as they stole two Nvidia-branded trailers thinking they were getting a load of expensive GPUs. But they just e...",
+    "date": "Mon, 28 Sep 2026 15:35:21 +0000",
+    "link": "https://www.ign.com/articles/thieves-on-the-hunt-for-gpus-stole-nvidia-trucks-but-all-they-got-was-20-tons-of-sand",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.7,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Nvidia"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Fortnite Five Nights at Freddy's Announcement is Now the Game's Most Liked Reveal Ever, Beating the Avengers and Dragon Ball Z",
+    "title": "The Witcher 3: Wild Hunt – Remastered Update Patch Notes Include PC-Specific and Console-Specific Changes",
     "source": "IGN",
-    "summary": "Epic Games' announcement of a Fortnite and Five Nights at Freddy's crossover has now become the battle royale's most-liked post of all time on social media.",
-    "date": "Mon, 28 Sep 2026 10:39:04 +0000",
-    "link": "https://www.ign.com/articles/fortnite-five-nights-at-freddys-announcement-is-now-the-games-most-liked-reveal-ever-beating-the-avengers-and-dragon-ball-z",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "78-Year-Old Fortnite Streaming Grandmother Now Holds a World Record",
-    "source": "IGN",
-    "summary": "Cath Bowie, a 78-year-old grandmother, now holds a world record for Fortnite streaming.",
-    "date": "Mon, 28 Sep 2026 09:33:54 +0000",
-    "link": "https://www.ign.com/articles/78-year-old-fortnite-streaming-grandmother-now-holds-a-world-record",
+    "summary": "CD Projekt has released the patch notes for The Witcher 3: Wild Hunt – Remastered update, confirming PC and console-specific changes to the single-player role-playing game.",
+    "date": "Mon, 28 Sep 2026 15:14:55 +0000",
+    "link": "https://www.ign.com/articles/the-witcher-3-wild-hunt-remastered-update-patch-notes-include-pc-specific-and-console-specific-changes",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": -0.07,
       "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "As World of Warcraft: Forever's beta popularity grows, Blizzard has yet again had to increase the server cap",
-    "source": "Eurogamer",
-    "summary": "World of Warcraft: Forever's beta appears to be growing in popularity, as one of Blizzard's leads has revealed the server capacity had to be increased over the weekend. Read more...",
-    "date": "Mon, 28 Sep 2026 08:56:07 +0000",
-    "link": "https://www.eurogamer.net/world-of-warcraft-forever-beta-server-cap-increase",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Marvel's Wolverine finally lets you turn off \"fart gas\" scent trails completely, but there's a catch",
-    "source": "Eurogamer",
-    "summary": "Marvel's Wolverine has received a new update that should hopefully bring an end to the \"fart gas\" scent trails saga. The latest patch, version 1.001.006, includes an option to turn off scent trails for Whiskey Bottle collectibles, Material Crate audio pings as well as Nightmare Door roots using thre...",
-    "date": "Mon, 28 Sep 2026 08:12:52 +0000",
-    "link": "https://www.eurogamer.net/marvels-wolverine-patch-turn-off-scent-trails",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.18,
-      "badge": "success"
     },
     "tags": [
       "Patch"
@@ -106,177 +52,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 7,
-    "title": "Five Nights at Freddy's is coming to Fortnite for Fortnitemares",
-    "source": "Eurogamer",
-    "summary": "Epic has confirmed that Five Nights at Freddy's is joining Fortnite for this year's Fortnitemares event. Read more...",
-    "date": "Sun, 27 Sep 2026 15:25:18 +0000",
-    "link": "https://www.eurogamer.net/fortnite-five-nights-at-freddys-fortnitemares-collab",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.33,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Xbox is reportedly paying a \"fraction\" of the $400 million Kojima quoted Sony for Physint",
-    "source": "Eurogamer",
-    "summary": "A reported $400 million budget for Hideo Kojima's Physint has already been walked back over the weekend, with multiple outlets now saying Xbox is paying nowhere near that figure for Hideo Kojima's stealth game. Read more...",
-    "date": "Sun, 27 Sep 2026 14:25:52 +0000",
-    "link": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "'Futurama' Creator Officially Confirms the Sci-Fi Series' Surprising 2027 Plans",
-    "source": "Polygon",
-    "summary": "Futurama producers Davis X. Cohen and Claudia Katz talk about the recent season of Futurama, plus what is still to come",
-    "date": "Mon, 28 Sep 2026 12:00:15 GMT",
-    "link": "https://www.polygon.com/futurama-2027-specials-david-x-cohen-claudia-katz-interview/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.35,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Fortnite's Spooky Month Kicks off With Five Nights at Freddy's Crossover",
-    "source": "Polygon",
-    "summary": "Fortnite's Halloween special begins Oct. 1 with one of the most highly anticipated collaborations in the game's history: Five Nights at Freddy's.",
-    "date": "Mon, 28 Sep 2026 11:12:32 GMT",
-    "link": "https://www.polygon.com/fortnite-five-nights-at-freddys-collab-fortnitemares/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Pokémon's 30th Anniversary Happy Meal Toy Will Unleash Scalper Hell",
-    "source": "Polygon",
-    "summary": "McDonald's has a new Pokémon collab on the horizon, featuring a set of 15 trading cards that will have scalpers foaming at the mouth.",
-    "date": "Mon, 28 Sep 2026 09:12:09 GMT",
-    "link": "https://www.polygon.com/pokemon-tcg-anniversary-mcdonalds-happy-meal-toys-trading-cards-scalpers/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.47,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Dragon Ball Super: Beerus Episode Count and Streaming Details Teased by New Leaks",
-    "source": "Polygon",
-    "summary": "A new leak reveals the episode count for Dragon Ball Super: Beerus and teases that the anime could indeed be streaming on Crunchyroll",
-    "date": "Mon, 28 Sep 2026 09:02:11 GMT",
-    "link": "https://www.polygon.com/dragon-ball-super-beerus-anime-remake-episode-count-arcs/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.23,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Arc Raiders is messing with your loot hotspots to make games more exciting",
-    "source": "PC Gamer",
-    "summary": "Variety is the spice of life, afterall.",
-    "date": "Mon, 28 Sep 2026 11:27:58 +0000",
-    "link": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-messing-with-your-loot-hotspots-to-make-games-more-exciting/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Here's The Witcher 3 Remastered release time for your region",
-    "source": "PC Gamer",
-    "summary": "Return to the path 10 years later.",
-    "date": "Mon, 28 Sep 2026 11:12:49 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/witcher-3-remastered-release-date-launch-times/",
+    "id": 4,
+    "title": "Steam's Must-Play Rhythm Games",
+    "source": "IGN",
+    "summary": "",
+    "date": "Mon, 28 Sep 2026 14:30:00 +0000",
+    "link": "https://www.ign.com/articles/top-10-best-steam-rhythm-action-games",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "I'm sure whoever chose to charge for WoW: Forever beta access is feeling very chuffed, given Blizzard's had to expand its server size a second time",
-    "source": "PC Gamer",
-    "summary": "Zug rush.",
-    "date": "Mon, 28 Sep 2026 10:51:25 +0000",
-    "link": "https://www.pcgamer.com/games/world-of-warcraft/im-sure-whoever-chose-to-charge-for-wow-forever-beta-access-is-feeling-very-chuffed-given-blizzards-had-to-expand-its-server-size-a-second-time/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Steam Week in Review: Great, haystack slop is a thing now",
-    "source": "PC Gamer",
-    "summary": "All the interesting Steam facts for the week ending September 27.",
-    "date": "Mon, 28 Sep 2026 01:57:44 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-great-haystack-slop-is-a-thing-now/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.65,
-      "badge": "success"
     },
     "tags": [
       "Steam"
@@ -284,73 +69,290 @@
     "read_time": "1 min read"
   },
   {
-    "id": 17,
-    "title": "Is Gears Of War: E-Day On Steam?",
-    "source": "GameSpot",
-    "summary": "Anyone looking to play Gears of War: E-Day has several options for which platform they choose to get the game on, and yes, Steam is one of them. While The Coalition's new entry in the Gears universe is exclusive to PC and Xbox Series X|S, PC owners can add Gears of War: E-Day to their Steam library....",
-    "date": "Mon, 28 Sep 2026 10:45:07 +0000",
-    "link": "https://www.gamespot.com/articles/is-gears-of-war-e-day-on-steam/",
+    "id": 5,
+    "title": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city",
+    "source": "Eurogamer",
+    "summary": "\"What if London existed in the Grand Theft Auto universe? What if Rockstar created a GTA game set in London?\" Anyone sitting in the venn diagram centre of GTA fan and cartography sicko might be happy to learn that YouTuber CityEd has answered both of those questions with a GTA-style map. Read more...",
+    "date": "Mon, 28 Sep 2026 17:53:19 +0000",
+    "link": "https://www.eurogamer.net/london-gta-rockstar-map-city-rockstar",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.09,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.38,
+      "badge": "success"
     },
     "tags": [
-      "Steam",
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 18,
-    "title": "Minecraft Is Getting Its First New Dimension In Over 15 Years",
-    "source": "GameSpot",
-    "summary": "Announced today during Minecraft Live, Mojang is adding the first new dimension to the blocky sandbox game in more than a decade and a half.\nThe Sift is an ethereal-looking fourth dimension that was first marketed for Minecraft Dungeons 2, and it's now been confirmed that it's coming to the base gam...",
-    "date": "Sat, 26 Sep 2026 18:00:00 +0000",
-    "link": "https://www.gamespot.com/articles/minecraft-is-getting-its-first-new-dimension-in-over-15-years/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "The Next Minecraft Update Adds Ice Caves, A New Mob, And More",
-    "source": "GameSpot",
-    "summary": "Minecraft's next game drop will add a new underground environment to the sandbox game, along with a new hostile mob, and items that bring frosty mechanics to exploration and combat.\nAnnounced during Minecraft Live on September 26, the upcoming game drop is expected to follow the usual drop cadence o...",
-    "date": "Sat, 26 Sep 2026 17:30:00 +0000",
-    "link": "https://www.gamespot.com/articles/the-next-minecraft-update-adds-ice-caves-a-new-mob-and-more/",
+    "id": 6,
+    "title": "Ubisoft's calling its next push into gen-AI game development Motherbrain",
+    "source": "Eurogamer",
+    "summary": "Ubisoft is internally calling its latest generative-AI initiative 'Motherbrain' - you know, like the evil supercomputer turned gross brain-in-a-jar monster from Nintendo's Metroid series - according to trademarks filed by the Assassin's Creed and Far Cry publisher. Read more...",
+    "date": "Mon, 28 Sep 2026 16:58:05 +0000",
+    "link": "https://www.eurogamer.net/ubisoft-gen-ai-game-motherbrain-assassins-creed",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": -0.04,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "AI",
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Dark Souls 2 can now be played in its entirety with drop-in, drop-out co-op, thanks to its own seamless multiplayer mod",
+    "source": "Eurogamer",
+    "summary": "The popular - and always appreciated - seamless co-op mod has finally come to Dark Souls 2: Scholar of the First Sin, the only game of the trilogy to have spent years without it. Mod creator Yui, who's responsible for the seamless co-op mods for Dark Souls Remastered, Dark Souls 3, Elden Ring and Ar...",
+    "date": "Mon, 28 Sep 2026 14:12:15 +0000",
+    "link": "https://www.eurogamer.net/dark-souls-2-seamless-co-op-mod",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "If you want an early taste of The Witcher 3's Songs of the Past expansion, you can listen to five tracks from the OST right now",
+    "source": "Eurogamer",
+    "summary": "Back in August, CD Projekt Red properly revealed new Witcher 3 expansion Songs of the Past during Gamescom's Opening Night Live show. Whilst I got to experience a hands-off demo of the new content (which I loved), no one in the public has yet had chance to get their hands on the title. So, it seems ...",
+    "date": "Mon, 28 Sep 2026 13:30:05 +0000",
+    "link": "https://www.eurogamer.net/the-witcher-3-songs-of-the-past-expansion-five-tracks-ost",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "Control Resonant Proves Everything Is a Live-Service Game Now",
+    "source": "Polygon",
+    "summary": "Control Resonant's day one update completely changed the game's combat, continuing a growing trend as modern games become more malleable.",
+    "date": "Mon, 28 Sep 2026 18:10:07 GMT",
+    "link": "https://www.polygon.com/control-resonant-updates-analysis/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Dave Franco, Manny Jacinto, and Jenny Slate talk Forgotten Island",
+    "source": "Polygon",
+    "summary": "The actors discuss the hardest lines to get right and what surprised them most about seeing their characters in the finished DreamWorks movie.",
+    "date": "Mon, 28 Sep 2026 18:00:16 GMT",
+    "link": "https://www.polygon.com/dave-franco-manny-jacinto-jenny-slate-interview-forgotten-island/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "New 'Pokémon Winds and Waves' Leaks Fill Major Gap Left by Game Freak's Silence",
+    "source": "Polygon",
+    "summary": "Recent Pokémon WiWa leaks contain must-see early gameplay, regional maps, and character models for the Elite Four and gym leaders.",
+    "date": "Mon, 28 Sep 2026 17:38:02 GMT",
+    "link": "https://www.polygon.com/pokemon-winds-waves-september-2026-leak-details/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Where to find sandworm meat in Fire Emblem Fortune's Weave",
+    "source": "Polygon",
+    "summary": "Here's where you can find sandworm meat in Fire Emblem: Fortune's Weave, the material you need to recruit Nezha",
+    "date": "Mon, 28 Sep 2026 17:29:47 GMT",
+    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-sandworm-meat-location-where-to-find/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "I have broken GTA 5 by installing so many mods that the game only launches in windowed mode now",
+    "source": "PC Gamer",
+    "summary": "Which I'm taking as a… win?",
+    "date": "Mon, 28 Sep 2026 17:49:04 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-have-broken-gta-5-by-installing-so-many-mods-that-the-game-only-launches-in-windowed-mode-now/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "The writer of The Witcher 3's best quest has returned to CD Projekt after a decade away",
+    "source": "PC Gamer",
+    "summary": "After stops at Techland and GSC Game World, Karolina Stachyra is back to where it all began.",
+    "date": "Mon, 28 Sep 2026 17:22:38 +0000",
+    "link": "https://www.pcgamer.com/games/the-witcher/the-writer-of-the-witcher-3s-best-quest-has-returned-to-cd-projekt-after-a-decade-away/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Embark should've implemented a PvE mode into Arc Raiders a long time ago",
+    "source": "PC Gamer",
+    "summary": "God forbid a raider wants to have a chill time.",
+    "date": "Mon, 28 Sep 2026 17:02:07 +0000",
+    "link": "https://www.pcgamer.com/games/third-person-shooter/embark-shouldve-implemented-a-pve-mode-into-arc-raiders-a-long-time-ago/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "A love letter to the Guitar Hero X-Plorer Controller",
+    "source": "PC Gamer",
+    "summary": "Simply the best.",
+    "date": "Mon, 28 Sep 2026 16:23:56 +0000",
+    "link": "https://www.pcgamer.com/hardware/controllers/a-love-letter-to-the-guitar-hero-x-plorer-controller/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "Resident Evil Movie Demolishes Franchise Record After Just Two Weekends",
+    "source": "GameSpot",
+    "summary": "Zach Cregger's highly acclaimed Resident Evil movie had another strong showing at the box office for its second weekend, propelling the film to break another franchise record. It already broke the record for biggest opening weekend for the franchise, and now the movie has made more than $100 million...",
+    "date": "Mon, 28 Sep 2026 15:05:11 +0000",
+    "link": "https://www.gamespot.com/articles/resident-evil-movie-demolishes-franchise-record-after-just-two-weekends/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "The Last Of Us Season 3 Adds John Goodman And Even More Actors From The Games",
+    "source": "GameSpot",
+    "summary": "HBO has announced further casting details for the upcoming third and possibly final season of The Last of Us. \nTwo actors from the games are set to appear in Season 3--Laura Bailey and Ian Alexander--along with prolific veteran actor John Goodman, as relayed by Deadline.\nBailey played Abby in Naught...",
+    "date": "Mon, 28 Sep 2026 14:07:05 +0000",
+    "link": "https://www.gamespot.com/articles/the-last-of-us-season-3-adds-john-goodman-and-even-more-actors-from-the-games/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "Minecraft Dungeons 2 Deliberately Moves Closer To Vanilla Minecraft",
+    "source": "GameSpot",
+    "summary": "Minecraft Dungeons 2 is taking a different approach to its relationship with vanilla Minecraft than its predecessor did. According to the game's developers, the sequel deliberately moves closer to the mechanics and feel of the original sandbox game, in part because the Dungeons franchise is now esta...",
+    "date": "Mon, 28 Sep 2026 14:00:00 +0000",
+    "link": "https://www.gamespot.com/articles/minecraft-dungeons-2-deliberately-moves-closer-to-vanilla-minecraft/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.11,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "Microsoft CEO Attempts To Kill Remaining Xbox Goodwill",
+    "title": "The Resident Evil Movie Wasn’t The Main Force Behind RE Games’ Recent Sales Boost",
     "source": "GameSpot",
-    "summary": "After Xbox laid off 1,600 employees over the summer, Microsoft's gaming division followed up with more layoffs and studio closures this week. In the wake of these events, Microsoft CEO Satya Nadella is taking a look at the bright side and praising Xbox CEO Asha Sharma's actions as a necessary step.\n...",
-    "date": "Fri, 25 Sep 2026 23:06:32 +0000",
-    "link": "https://www.gamespot.com/articles/microsoft-ceo-attempts-to-kill-remaining-xbox-goodwill/",
+    "summary": "Zach Cregger's Resident Evil movie has done big numbers at the box office since it hit theaters on September 18, but has that been reflected in increased Resident Evil game sales? According to new data, a set of fresh discounts prior to the movie's release did most of the heavy lifting for a surge i...",
+    "date": "Mon, 28 Sep 2026 13:53:32 +0000",
+    "link": "https://www.gamespot.com/articles/the-resident-evil-movie-wasnt-the-main-force-behind-re-games-recent-sales-boost/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.22,
+      "badge": "danger"
     },
     "tags": [
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
