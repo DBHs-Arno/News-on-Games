@@ -1,72 +1,73 @@
 [
   {
     "id": 1,
-    "title": "Doctor Doom Appears to Be Abducting Heroes in Avengers: Doomsday",
+    "title": "Naughty Dog Will 'Fully Reveal' Intergalactic in 2027, but No Release Window Yet",
     "source": "IGN",
-    "summary": "The directors of Avengers: Doomsday seem to be teasing that Doctor Doom is abducting different heroes from around the Marvel universe.",
-    "date": "Mon, 28 Sep 2026 21:40:15 +0000",
-    "link": "https://www.ign.com/articles/doctor-doom-appears-to-be-abducting-heroes-in-avengers-doomsday",
+    "summary": "Naughty Dog studio head Neil Druckmann concluded this year's \"The Last of Us Day\" by giving updates on the developer's current projects, teasing two new The Last of Us projects that \"will expand the canon of The Last of Us beyond Part I and Part II\" without confirming whether or not either one of th...",
+    "date": "Tue, 29 Sep 2026 00:37:32 +0000",
+    "link": "https://www.ign.com/articles/naughty-dog-will-fully-reveal-intergalactic-in-2027-but-no-release-window-yet",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": -0.02,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Everything Coming to HBO Max in October",
+    "title": "Zach Cregger's Resident Evil Movie Is So Popular, It Increased RE2 Remake Sales by More Than 50% on PS5",
     "source": "IGN",
-    "summary": "",
-    "date": "Mon, 28 Sep 2026 21:31:36 +0000",
-    "link": "https://www.ign.com/articles/whats-new-on-hbo-max-october-2026",
+    "summary": "Data shows that Zach Cregger’s film adaptation of Capcom’s flagship horror franchise was so successful, it boosted sales for copies of both the Resident Evil 2 remake and RE4’s 2023 remake on the PlayStation 5.",
+    "date": "Tue, 29 Sep 2026 00:12:59 +0000",
+    "link": "https://www.ign.com/articles/zach-creggers-resident-evil-movie-is-so-popular-it-increased-re2-remake-sales-by-more-than-50-on-ps5",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": -0.03,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Remake",
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "New Game Ready to Add Meat and Blood to Steam’s Tidying-Up Craze",
+    "title": "Resident Evil Fans Have Already Modded Austin Abrams' Character from the Movie Into RE2",
     "source": "IGN",
-    "summary": "Steam has seen an avalanche of cheap and cheerful tidying-up games lately, from libraries to magic shops to toy stores, but the genre is about to get weird.",
-    "date": "Mon, 28 Sep 2026 21:25:19 +0000",
-    "link": "https://www.ign.com/articles/new-game-ready-to-add-meat-and-blood-to-steams-tidying-up-craze",
+    "summary": "As Zach Cregger's Resident Evil movie spreads to theaters across the globe, one dedicated fan has managed to create a Resident Evil 2 mod featuring Austin Abrams' character, Bryan.",
+    "date": "Mon, 28 Sep 2026 23:44:30 +0000",
+    "link": "https://www.ign.com/articles/resident-evil-fans-have-already-modded-austin-abrams-character-from-the-movie-into-re2",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.7,
+      "badge": "danger"
     },
     "tags": [
-      "Steam"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Call of Duty: Modern Warfare 4 Is Finally Making Double XP Tokens Only Active During Matches",
+    "title": "The Elder Scrolls Doesn't Have a New Vegas-Like Spinoff Because Todd Howard Is 'Very Protective' of the Franchise, Former Dev Claims",
     "source": "IGN",
-    "summary": "Call of Duty: Modern Warfare 4 is making a major quality of life change that fans have been wanting to see for years.",
-    "date": "Mon, 28 Sep 2026 21:03:37 +0000",
-    "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-is-finally-making-double-xp-tokens-only-active-during-matches",
+    "summary": "The Elder Scrolls never got a Fallout: New Vegas-like spinoff because Todd Howard is \"very protective\" of the IP, according to former Bethesda developer Kurt Kuhlmann.",
+    "date": "Mon, 28 Sep 2026 22:54:16 +0000",
+    "link": "https://www.ign.com/articles/the-elder-scrolls-doesnt-have-a-new-vegas-like-spinoff-because-todd-howard-is-very-protective-of-the-franchise-former-dev-claims",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -100,8 +101,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -118,8 +119,8 @@
       "badge": "info"
     },
     "tags": [
-      "Nintendo",
-      "AI"
+      "AI",
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
@@ -136,13 +137,65 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
+    "title": "Fire Emblem Just Completely Shook Up a Tired RPG Villain Twist",
+    "source": "Polygon",
+    "summary": "Fire Emblem: Fortune’s Weave sees a tyrannical villain ascend to power in Act 2, and boy does he commit to the bit",
+    "date": "Tue, 29 Sep 2026 04:30:15 GMT",
+    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-act-2-villain-twist/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "29 Years Ago, 'Buffy' Introduced Its Best Villain. He Was Never Meant to Last.",
+    "source": "Polygon",
+    "summary": "29 years ago, Buffy the Vampire Slayer aired an episode that introduced its best villain. It was also when the show found its voice.",
+    "date": "Tue, 29 Sep 2026 04:00:23 GMT",
+    "link": "https://www.polygon.com/buffy-vampire-slayer-school-hard-retrospective-spike-first-episode/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.53,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "10 Essential NES Games Still Missing From Switch Online",
+    "source": "Polygon",
+    "summary": "Nintendo Switch Online may offer dozens of great titles, but 10 must-have NES games still haven't reached the service.",
+    "date": "Tue, 29 Sep 2026 02:00:26 GMT",
+    "link": "https://www.polygon.com/best-nes-games-missing-nintendo-switch-online/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
     "title": "Switch Finally Gets One of 2025’s Best-Reviewed RPGs",
     "source": "Polygon",
     "summary": "Keep Driving, one of 2025's best reviewed games is now on consoles, and it's especially perfect for Switch owners.",
@@ -154,67 +207,31 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "5 MAD Magazine Parodies from the 1990s That Aged Perfectly",
-    "source": "Polygon",
-    "summary": "MAD Magazine was a great source of pop culture parodies. Here are comic parodies they did of Ninja Turtles, Gremlins 2, the Flintstones and more",
-    "date": "Tue, 29 Sep 2026 00:00:16 GMT",
-    "link": "https://www.polygon.com/mad-magazine-parodies-1990s-aged-perfectly/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "GTA 6’s $400 Collector’s Edition Is the Latest Example of a Horrible Trend",
-    "source": "Polygon",
-    "summary": "A new Grand Theft Auto 6 collectors box is the latest example of the games industry prioritizing high-spending customers above all else",
-    "date": "Mon, 28 Sep 2026 23:00:16 GMT",
-    "link": "https://www.polygon.com/gta-6-good-time-state-collectors-editions/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Spider-Man: Brand New Day Getting Official New Version, Report Says",
-    "source": "Polygon",
-    "summary": "Sony will reportedly rerelease Spider-Man: Brand New Day in movie theaters with new footage, including cut cameos of other MCU characters.",
-    "date": "Mon, 28 Sep 2026 22:23:35 GMT",
-    "link": "https://www.polygon.com/spider-man-brand-new-day-rerelease-new-footage/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
+    "title": "This mod delivers what Valheim was missing all these years: seasons",
+    "source": "PC Gamer",
+    "summary": "Another reason to update our list of recommendations.",
+    "date": "Tue, 29 Sep 2026 00:34:36 +0000",
+    "link": "https://www.pcgamer.com/games/survival-crafting/this-mod-delivers-what-valheim-was-missing-all-these-years-seasons/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
     "title": "I can't stop comparing the dialogue from the original, messy FF7 localization and its vastly improved fan translation",
     "source": "PC Gamer",
     "summary": "The Shinra Archaeology Cut of FF7 gives the game the treatment Square Enix's official PC release deserved.",
@@ -226,13 +243,13 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "Former Elder Scrolls writer Kurt Kuhlmann is '100% convinced' a load-bearing bit of series lore was inspired by a typo",
     "source": "PC Gamer",
     "summary": "The Warp in the Draft.",
@@ -244,13 +261,13 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "World of Warcraft: Forever dev teases new 'mega dungeon' to get lost in for hours like the good ol' days",
     "source": "PC Gamer",
     "summary": "Blackrock Depths fans will have a new dungeon that takes as long as a raid to complete.",
@@ -262,25 +279,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Double Fine's first game since being dumped by Xbox will be out in just 2 weeks",
-    "source": "PC Gamer",
-    "summary": "I don't know what I expected, but Thank You Bus Driver sure isn't it. It does look like fun, though.",
-    "date": "Mon, 28 Sep 2026 22:00:44 +0000",
-    "link": "https://www.pcgamer.com/games/racing/double-fines-first-game-since-being-dumped-by-xbox-will-be-out-in-just-2-weeks/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -297,8 +297,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -315,8 +315,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -350,8 +350,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
