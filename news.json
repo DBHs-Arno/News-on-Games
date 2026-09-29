@@ -1,47 +1,29 @@
 [
   {
     "id": 1,
-    "title": "The Mummy 4 Set Photos Reveal Brendan Fraser as Rick O'Connell",
+    "title": "Sony and Nintendo Should Keep the Current Gen Going for as Long as Possible 'Because People Are Very Happy Using PS5 and Switch 2,' Former PlayStation Exec Says",
     "source": "IGN",
-    "summary": "Just days after The Mummy 4 set photos revealed Rachel Weisz as Evelyn O'Connell, we now have the first confirmed images of Brendan Fraser reprising his iconic role as Rick O'Connell.",
-    "date": "Tue, 29 Sep 2026 11:40:51 +0000",
-    "link": "https://www.ign.com/articles/the-mummy-4-set-photos-reveal-brendan-fraser-as-rick-oconnell",
+    "summary": "Sony and Nintendo need to make their current consoles last as long as possible amid soaring costs, former PlayStation exec Shuhei Yoshida has said.",
+    "date": "Tue, 29 Sep 2026 15:38:56 +0000",
+    "link": "https://www.ign.com/articles/sony-and-nintendo-should-keep-the-current-gen-going-for-as-long-as-possible-because-people-are-very-happy-using-ps5-and-switch-2-former-playstation-exec-says",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.38,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "PlayStation",
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Rebel Moon 3 Sounds Like It's Unlikely to Happen After Zack Snyder Issues Update",
+    "title": "Warhammer YouTuber Pulls the Plug After 10 Years Amid Games Workshop Takedowns, Death Threats, and Doxxing Over 3D Printing Designs",
     "source": "IGN",
-    "summary": "Rebel Moon 3 looks like it’s stuck in a galaxy far far away after creator and director Zack Snyder issued a pessimistic update about the sequel’s chances.",
-    "date": "Tue, 29 Sep 2026 11:19:38 +0000",
-    "link": "https://www.ign.com/articles/rebel-moon-3-sounds-like-its-unlikely-to-happen-after-zack-snyder-issues-update",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.1,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Avengers: Endgame Writer Tried a Version Where Hawkeye Made the Soul Stone Sacrifice, but Female Colleagues Convinced Him Who It Needed Be",
-    "source": "IGN",
-    "summary": "A version of Avengers: Endgame featured another hero making the Soul Stone sacrifice, until writer Stephen McFeely was convinced against this by female Marvel colleagues.",
-    "date": "Tue, 29 Sep 2026 11:08:39 +0000",
-    "link": "https://www.ign.com/articles/avengers-endgame-writer-tried-a-version-where-hawkeye-made-the-soul-stone-sacrifice-but-female-colleagues-convinced-him-who-it-needed-be",
+    "summary": "A long-running Warhammer content creator has announced the end of their YouTube channel amid Games Workshop takedowns of their 3D printing designs, and burnout from dealing with online complaints and threats.",
+    "date": "Tue, 29 Sep 2026 15:36:07 +0000",
+    "link": "https://www.ign.com/articles/warhammer-youtuber-pulls-the-plug-after-10-years-amid-games-workshop-takedowns-death-threats-and-doxxing-over-3d-printing-designs",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -54,12 +36,117 @@
     "read_time": "1 min read"
   },
   {
-    "id": 4,
-    "title": "Dan Trachtenberg Developing Sleeping Beauty-Inspired Movie at Disney — So Where Does That Leave Predator?",
+    "id": 3,
+    "title": "The Witcher 3 Remastered Has Already Broken Steam Concurrent Player Record",
     "source": "IGN",
-    "summary": "Predator fans were left wondering what’s next from the franchise after director Dan Trachtenberg was confirmed to be taking on a new movie inspired by Sleeping Beauty.",
-    "date": "Tue, 29 Sep 2026 10:24:53 +0000",
-    "link": "https://www.ign.com/articles/dan-trachtenberg-developing-sleeping-beauty-inspired-movie-at-disney-so-where-does-that-leave-predator",
+    "summary": "We're just a few hours into the launch of The Witcher 3 Remastered, and it's already beaten its previous record for concurrent players on Steam.",
+    "date": "Tue, 29 Sep 2026 15:23:41 +0000",
+    "link": "https://www.ign.com/articles/the-witcher-3-remastered-has-already-broken-steam-concurrent-player-record",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.26,
+      "badge": "danger"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "Funko Brings Exclusive Green Lantern Pop! Figures to NYCC 2026",
+    "source": "IGN",
+    "summary": "IGN can exclusively reveal Funko's exclusive DC Pop! figures for NYCC, featuring Hal Jordan in a number of different Lantern costumes.",
+    "date": "Tue, 29 Sep 2026 15:00:00 +0000",
+    "link": "https://www.ign.com/articles/funko-brings-exclusive-green-lantern-pop-figures-to-nycc-2026",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.16,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "The Witcher 3 surges to its highest Steam concurrent player-count ever, following Remastered edition's release",
+    "source": "Eurogamer",
+    "summary": "The Witcher 3's newly released Remastered edition has dramatically rekindled interest in the 11-year-old role-playing game, which is currently enjoying its highest concurrent player-count on Steam ever. Read more...",
+    "date": "Tue, 29 Sep 2026 16:24:48 +0000",
+    "link": "https://www.eurogamer.net/witcher-3-steam-most-played-record-remastered",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "You can now watch one of this year's best orchestral game-music performances, celebrating Hades 1 and 2, online for free",
+    "source": "Eurogamer",
+    "summary": "The outrageously enjoyable Hades musical orchestral concert, Ballads of the Underworld, is now available to watch in its entirety, online, for free. Read more...",
+    "date": "Tue, 29 Sep 2026 15:28:16 +0000",
+    "link": "https://www.eurogamer.net/watch-hades-orchestral-performance-recording",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.46,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Don't worry if you're struggling in human form in The Blood of Dawnwalker - \"it should be harder\" playing that way",
+    "source": "Eurogamer",
+    "summary": "If you've been playing Medieval vampire RPG The Blood of Dawnwalker and you're wondering why you're having a hard time during the day, as a human, versus as at night as a vampire, then don't worry: you're experiencing the game as intended. It's not supposed to be balanced, apparently. Read more...",
+    "date": "Tue, 29 Sep 2026 14:02:00 +0000",
+    "link": "https://www.eurogamer.net/blood-of-dawnwalker-harder-as-human-easier-as-vampire",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Controversy erupts around Ace Combat 8 on PC as bundled Belkan War re-release remains problematically attached to the new game, whereas it's standalone on console",
+    "source": "Eurogamer",
+    "summary": "Early access to Ace Combat 8: Wings of Theve is now available to owners of the game's Deluxe Edition, but the launch has been soured due to publisher Bandai Namco's handling of one particular pre-order bonus. Read more...",
+    "date": "Tue, 29 Sep 2026 13:15:16 +0000",
+    "link": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-steam-community-reaction",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "An NFL Legend Is About to Reveal the Minecraft City He Spent 12 Years Building",
+    "source": "Polygon",
+    "summary": "The former head coach of the Pittsburgh Steelers is showing off his 12-year creative mode project this Wednesday.",
+    "date": "Tue, 29 Sep 2026 18:00:15 GMT",
+    "link": "https://www.polygon.com/nfl-legend-revealing-minecraft-city/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.13,
@@ -72,241 +159,30 @@
     "read_time": "1 min read"
   },
   {
-    "id": 5,
-    "title": "The Elder Scrolls Online is partly why Skyrim never got a Fallout: New Vegas-style spin-off, says Bethesda veteran",
-    "source": "Eurogamer",
-    "summary": "Why did The Elder Scrolls 5: Skyrim never receive a spin-off like Bethesda's Fallout 3 did, with Fallout: New Vegas? According to Skyrim co-lead designer Kurt Kuhlmann, it's because of The Elder Scrolls Online. Speaking to FRVR (via VGC), the 20-year studio veteran said the MMORPG essentially kept E...",
-    "date": "Tue, 29 Sep 2026 10:44:39 +0000",
-    "link": "https://www.eurogamer.net/the-elder-scrolls-online-skyrim-spin-off-fallout-new-vegas-bethesda",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "All versions of The Witcher 3 \"that exist in the world\" will be upgraded with the free Remastered edition today",
-    "source": "Eurogamer",
-    "summary": "CD Projekt Red has clarified to Eurogamer that \"all versions of The Witcher 3: Wild Hunt that exist in the world\" are to be updated with the free Remastered edition upgrade today. That update, by the way, rolls out from 11am BST. Read more...",
-    "date": "Tue, 29 Sep 2026 09:48:51 +0000",
-    "link": "https://www.eurogamer.net/all-versions-of-the-witcher-3-that-exist-in-the-world-will-be-upgraded-with-the-free-remastered-edition-today",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.28,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Sony is introducing an anti-scalping lottery system for PS5 Pros in Japan as supply shortages persist",
-    "source": "Eurogamer",
-    "summary": "Sony is introducing a lottery system for PS5 Pros on its Japanese online store for when demand for new consoles outstrips the limited supply. Read more...",
-    "date": "Tue, 29 Sep 2026 09:11:17 +0000",
-    "link": "https://www.eurogamer.net/sony-ps5-pro-lottery-system-japan-supply-shortage",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Naughty Dog confirms two more The Last of Us projects are in the works, won't show off Intergalactic: The Heretic Prophet until 2027",
-    "source": "Eurogamer",
-    "summary": "Naughty Dog fans, pick up your ears - it's been a busy night for fans of the PlayStation studio. First of all, in a letter celebrating The Last of Us Day 2026, studio head Neil Druckmann confirmed that two new projects within The Last of Us universe are in the \"very early stages\" of development at N...",
-    "date": "Tue, 29 Sep 2026 08:36:23 +0000",
-    "link": "https://www.eurogamer.net/naughty-dog-confirms-two-more-the-last-of-us-projects-are-in-the-works-wont-show-off-intergalactic-the-heretic-prophet-until-2027",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
-    },
-    "tags": [
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "'The Simpsons' Producer Officially Reveals new Treehouse of Horror Plans",
-    "source": "Polygon",
-    "summary": "The Simpsons co-producer Mike Price talks about season 38 of the show, including the upcoming Halloween \"Treehouse of Horror\" episode",
-    "date": "Tue, 29 Sep 2026 12:00:15 GMT",
-    "link": "https://www.polygon.com/the-simpsons-producer-mike-price-interview-season-38/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 10,
-    "title": "Beloved 2025 Game About Digging Holes Gets Sequel Announcement",
+    "title": "Xbox’s Platinum Trophy Equivalent Officially Revealed",
     "source": "Polygon",
-    "summary": "A sequel to A Game About Digging a Hole comes later this year, bringing multiplayer fun to everyone's favorite hole-digging game.",
-    "date": "Tue, 29 Sep 2026 11:37:58 GMT",
-    "link": "https://www.polygon.com/a-game-about-digging-a-hole-with-friends-sequel-announcement-trailer/",
+    "summary": "Mythic Achievements, Xbox's long-overdue answer to PlayStation's Platinum Trophy, are real and available starting today",
+    "date": "Tue, 29 Sep 2026 17:34:36 GMT",
+    "link": "https://www.polygon.com/xbox-mythic-achievement-announced-release-date/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.04,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "PlayStation",
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Fire Emblem: Fortune's Weave Is the Rare RPG that Tackles Religion Correctly",
+    "title": "'GTA 6' Fans Are Hammering the Game Informer App Into Oblivion Right Now",
     "source": "Polygon",
-    "summary": "Fire Emblem Fortune's Weave's plot uses real-world religious references for more than just set dressing",
-    "date": "Tue, 29 Sep 2026 11:00:15 GMT",
-    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-plot-dietrichs-path-religion/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.27,
-      "badge": "success"
-    },
-    "tags": [
-      "RPG"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Best-Selling Game About Shooting Fish Unveils First Major Update",
-    "source": "Polygon",
-    "summary": "Players have a reason to call their friends and boot up How to Fish once again, as a major content update has just dropped.",
-    "date": "Tue, 29 Sep 2026 10:41:16 GMT",
-    "link": "https://www.polygon.com/how-to-fish-content-update-manta-boss-bow/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "The Witcher 3 updated system requirements are in, and you will need an RTX 5080 for path tracing with DLSS and frame generation",
-    "source": "PC Gamer",
-    "summary": "And CD Projekt Red doesn't state what that upscaling mode means.",
-    "date": "Tue, 29 Sep 2026 10:38:45 +0000",
-    "link": "https://www.pcgamer.com/hardware/the-witcher-3-updated-system-requirements-are-in-and-you-will-need-an-rtx-5080-for-path-tracing-with-dlss-and-frame-generation/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "DLSS"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "How to get unlocked Multi Frame Gen working on an RTX 40-series graphics card",
-    "source": "PC Gamer",
-    "summary": "Who needs an RTX 5090, right?",
-    "date": "Tue, 29 Sep 2026 10:03:43 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/how-to-get-unlocked-multi-frame-gen-working-on-an-rtx-40-series-graphics-card/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.29,
-      "badge": "success"
-    },
-    "tags": [
-      "Graphics"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "This new super-bright 500 nit 'inkjet' tech promises to fix OLED's full-screen brightness limitation",
-    "source": "PC Gamer",
-    "summary": "That just leaves the minor matter of burn-in...",
-    "date": "Tue, 29 Sep 2026 09:47:05 +0000",
-    "link": "https://www.pcgamer.com/hardware/gaming-monitors/this-new-super-bright-500-nit-inkjet-tech-promises-to-fix-oleds-full-screen-brightness-limitation/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "How to unlock transmog in The Witcher 3 Remastered",
-    "source": "PC Gamer",
-    "summary": "Level up Geralt's fashion game by changing his sword and armor skins.",
-    "date": "Tue, 29 Sep 2026 09:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/the-witcher-3-remastered-transmog-unlock/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "Marvel’s Wolverine Is Holding Its Own Against PlayStation’s Live-Service Giants",
-    "source": "GameSpot",
-    "summary": "Marvel's Wolverine might not be a critical hit, but it's doing surprisingly well commercially. The new superhero adventure from Insomniac Games faced stiff opposition from new releases and established live-service titles at launch, but according to the analytics firm Circana and its engagement track...",
-    "date": "Tue, 29 Sep 2026 11:49:38 +0000",
-    "link": "https://www.gamespot.com/articles/marvels-wolverine-is-holding-its-own-against-playstations-live-service-giants/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "Naughty Dog Is Working On Two New The Last Of Us Projects",
-    "source": "GameSpot",
-    "summary": "Naughty Dog studio head Neil Druckmann has dropped some tantalizing news for fans of The Last of Us, confirming the studio is currently working on not one, but two new The Last of Us projects. Druckmann also gave an update on Intergalactic, saying Naughty Dog will fully reveal the sci-fi game in 202...",
-    "date": "Tue, 29 Sep 2026 08:05:44 +0000",
-    "link": "https://www.gamespot.com/articles/naughty-dog-is-working-on-two-new-the-last-of-us-projects/",
+    "summary": "The gaming magazine's app can't seem to handle all the interest in its exclusive GTA 6 news and screenshots as users report issues and glitches",
+    "date": "Tue, 29 Sep 2026 17:28:01 GMT",
+    "link": "https://www.polygon.com/gta-6-game-informer-app-article-something-went-wrong-screenshots/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": -0.06,
@@ -319,15 +195,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 19,
-    "title": "Activision Keeps Saying All The Right Things About Modern Warfare 4",
-    "source": "GameSpot",
-    "summary": "Activision has made a key announcement about how Double XP tokens work in the upcoming Call of Duty: Modern Warfare 4, and it sounds like good news.\nBeginning with MW4, 2XP tokens will only count down when you're actually in a match. Previously, the timer would tick down when you were in a game's me...",
-    "date": "Mon, 28 Sep 2026 20:22:41 +0000",
-    "link": "https://www.gamespot.com/articles/activision-keeps-saying-all-the-right-things-about-modern-warfare-4/",
+    "id": 12,
+    "title": "All paralogue dates and deadlines in Fire Emblem Fortune's Weave",
+    "source": "Polygon",
+    "summary": "These are all the paralogues in Fire Emblem Fortune's Weave, including paralogue start dates and end dates",
+    "date": "Tue, 29 Sep 2026 17:22:54 GMT",
+    "link": "https://www.polygon.com/all-fire-emblem-fortunes-weave-paralogues-dates/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.04,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
@@ -337,15 +213,137 @@
     "read_time": "1 min read"
   },
   {
-    "id": 20,
-    "title": "WoW: Forever’s Beta Just Keeps Getting Bigger",
-    "source": "GameSpot",
-    "summary": "World of Warcraft: Forever's beta is in full swing, and if its popularity is any indication of how the full launch might go, it's going to be big, as Blizzard has had to increase the beta's population cap multiple times.\nForever was Blizzard's big finale during its BlizzCon 2026 opening ceremony, a ...",
-    "date": "Mon, 28 Sep 2026 20:19:16 +0000",
-    "link": "https://www.gamespot.com/articles/wow-forevers-beta-just-keeps-getting-bigger/",
+    "id": 13,
+    "title": "Live from Nivalis Nights: A nightly photo journal of my cyberpunk noodle bar",
+    "source": "PC Gamer",
+    "summary": "An extremely visual evolution of my neon-drenched noodle joint.",
+    "date": "Tue, 29 Sep 2026 18:06:41 +0000",
+    "link": "https://www.pcgamer.com/games/live/live-from-nivalis-nights-a-nightly-photo-journal-of-my-cyberpunk-noodle-bar/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "Cyberpunk"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "UK government wants people to be rude to AI: 'You don't need to say thank you'",
+    "source": "PC Gamer",
+    "summary": "It's about time.",
+    "date": "Tue, 29 Sep 2026 18:05:12 +0000",
+    "link": "https://www.pcgamer.com/software/ai/uk-government-wants-people-to-be-rude-to-ai-you-dont-need-to-say-thank-you/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Toem 2 review: A sweet sequel that's a tad too easy to be memorable",
+    "source": "PC Gamer",
+    "summary": "This photo-based adventure is super sweet but a little too easy to capture the glee of solving adventure game puzzles.",
+    "date": "Tue, 29 Sep 2026 18:04:43 +0000",
+    "link": "https://www.pcgamer.com/games/adventure/toem-2-review/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.11,
+      "score": 0.23,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "My GTA 5 install has a death wish but I have soothed it with flossing",
+    "source": "PC Gamer",
+    "summary": "It'd work for me.",
+    "date": "Tue, 29 Sep 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/my-gta-5-install-has-a-death-wish-but-i-have-soothed-it-with-flossing/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "Majority Of Gears Of War: E-Day Revenue On Xbox Will Be Cannibalized By Game Pass, Analyst Says",
+    "source": "GameSpot",
+    "summary": "Gears of War: E-Day is launching into Xbox Game Pass, and because of that, the majority of the game's moneymaking potential will be cannibalized by its inclusion on the service. That's according to Rhys Elliott of Alinea Analytics, who released a report today that covers this, the game's initial sal...",
+    "date": "Tue, 29 Sep 2026 17:02:05 +0000",
+    "link": "https://www.gamespot.com/articles/majority-of-gears-of-war-e-day-revenue-on-xbox-will-be-cannibalized-by-game-pass-analyst-says/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.27,
+      "badge": "danger"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Want To Dress Up As Bryan From The Resident Evil Movie For Halloween? Here’s How",
+    "source": "GameSpot",
+    "summary": "Halloween season is almost upon us, and if you're looking to dress up as the Resident Evil movie's in-over-his-head courier, Bryan (played by Austin Abrams), then here's a checklist of everything you need to pull off the Raccoon City look. Fortunately, Bryan's look is surprisingly easy to pull off, ...",
+    "date": "Tue, 29 Sep 2026 14:27:31 +0000",
+    "link": "https://www.gamespot.com/articles/want-to-dress-up-as-bryan-from-the-resident-evil-movie-for-halloween-heres-how/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.29,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "When Is The Next Steam Sale? Dates For 2026 And 2027 Sales Revealed",
+    "source": "GameSpot",
+    "summary": "While it's always a good idea to save some cash toward the end of the month, Valve's quarterly Steam sales make it very tempting to dip into those rainy day funds. Fortunately, knowing when these sales will occur has gotten easier over time, as Valve no longer keeps people guessing about the dates.\n...",
+    "date": "Thu, 22 Jan 2026 17:07:00 +0000",
+    "link": "https://www.gamespot.com/articles/when-is-the-next-steam-sale-date/1100-6532422/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.32,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 20,
+    "title": "GTA 5 For Switch Mod Project Shuts Down, Dev Thanks Take-Two For Its “Mercy”",
+    "source": "GameSpot",
+    "summary": "The creator of a mod project that sought to bring Rockstar's Grand Theft Auto 5 to Switch is closing up shop, apparently at the request of rights owner Take-Two. This action comes in the same month that Rockstar published a new \"Mod Guidelines\" notice informing people they need to \"respect our games...",
+    "date": "Tue, 29 Sep 2026 13:07:36 +0000",
+    "link": "https://www.gamespot.com/articles/gta-5-for-switch-mod-project-shuts-down-dev-thanks-take-two-for-its-mercy/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.14,
       "badge": "success"
     },
     "tags": [
