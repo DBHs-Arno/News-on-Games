@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "The Simpsons Season 38 Premiere Review: 'The Children's Book Job'",
+    "title": "Doctor Doom Appears to Be Abducting Heroes in Avengers: Doomsday",
     "source": "IGN",
-    "summary": "The Simpsons kicks off Season 38 with a mostly standard premiere episode that's carried by the delightfully British guest star Emma Thompson.",
-    "date": "Mon, 28 Sep 2026 15:38:09 +0000",
-    "link": "https://www.ign.com/articles/the-simpsons-season-38-premiere-review-the-childrens-book-job",
+    "summary": "The directors of Avengers: Doomsday seem to be teasing that Doctor Doom is abducting different heroes from around the Marvel universe.",
+    "date": "Mon, 28 Sep 2026 21:40:15 +0000",
+    "link": "https://www.ign.com/articles/doctor-doom-appears-to-be-abducting-heroes-in-avengers-doomsday",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -19,48 +19,32 @@
   },
   {
     "id": 2,
-    "title": "Thieves on the Hunt for GPUs Stole Nvidia Trucks, but All They Got Was 20 Tons of Sand",
+    "title": "Everything Coming to HBO Max in October",
     "source": "IGN",
-    "summary": "It's no secret that GPUs are worth their weight in gold right now, with the ongoing RAM crisis shooting prices through the stratosphere. That's probably what some thieves were thinking too, as they stole two Nvidia-branded trailers thinking they were getting a load of expensive GPUs. But they just e...",
-    "date": "Mon, 28 Sep 2026 15:35:21 +0000",
-    "link": "https://www.ign.com/articles/thieves-on-the-hunt-for-gpus-stole-nvidia-trucks-but-all-they-got-was-20-tons-of-sand",
+    "summary": "",
+    "date": "Mon, 28 Sep 2026 21:31:36 +0000",
+    "link": "https://www.ign.com/articles/whats-new-on-hbo-max-october-2026",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.07,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Nvidia"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "The Witcher 3: Wild Hunt – Remastered Update Patch Notes Include PC-Specific and Console-Specific Changes",
+    "title": "New Game Ready to Add Meat and Blood to Steam’s Tidying-Up Craze",
     "source": "IGN",
-    "summary": "CD Projekt has released the patch notes for The Witcher 3: Wild Hunt – Remastered update, confirming PC and console-specific changes to the single-player role-playing game.",
-    "date": "Mon, 28 Sep 2026 15:14:55 +0000",
-    "link": "https://www.ign.com/articles/the-witcher-3-wild-hunt-remastered-update-patch-notes-include-pc-specific-and-console-specific-changes",
+    "summary": "Steam has seen an avalanche of cheap and cheerful tidying-up games lately, from libraries to magic shops to toy stores, but the genre is about to get weird.",
+    "date": "Mon, 28 Sep 2026 21:25:19 +0000",
+    "link": "https://www.ign.com/articles/new-game-ready-to-add-meat-and-blood-to-steams-tidying-up-craze",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "Patch"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Steam's Must-Play Rhythm Games",
-    "source": "IGN",
-    "summary": "",
-    "date": "Mon, 28 Sep 2026 14:30:00 +0000",
-    "link": "https://www.ign.com/articles/top-10-best-steam-rhythm-action-games",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.05,
       "badge": "info"
     },
     "tags": [
@@ -69,7 +53,42 @@
     "read_time": "1 min read"
   },
   {
+    "id": 4,
+    "title": "Call of Duty: Modern Warfare 4 Is Finally Making Double XP Tokens Only Active During Matches",
+    "source": "IGN",
+    "summary": "Call of Duty: Modern Warfare 4 is making a major quality of life change that fans have been wanting to see for years.",
+    "date": "Mon, 28 Sep 2026 21:03:37 +0000",
+    "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-is-finally-making-double-xp-tokens-only-active-during-matches",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
     "id": 5,
+    "title": "Double Fine's releasing its next game, Thank You Bus Driver, just months after splitting from Xbox",
+    "source": "Eurogamer",
+    "summary": "Double Fine's wasted no time at all as an independent game studio (again) after splitting from former owner Xbox earlier this summer. The storied developer is releasing its whacky driving sim, Thank You Bus Driver, in roughly two weeks time. Read more...",
+    "date": "Mon, 28 Sep 2026 19:05:03 +0000",
+    "link": "https://www.eurogamer.net/double-fine-thank-you-bus-driver-xbox-release-date",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
     "title": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city",
     "source": "Eurogamer",
     "summary": "\"What if London existed in the Grand Theft Auto universe? What if Rockstar created a GTA game set in London?\" Anyone sitting in the venn diagram centre of GTA fan and cartography sicko might be happy to learn that YouTuber CityEd has answered both of those questions with a GTA-style map. Read more...",
@@ -87,7 +106,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Ubisoft's calling its next push into gen-AI game development Motherbrain",
     "source": "Eurogamer",
     "summary": "Ubisoft is internally calling its latest generative-AI initiative 'Motherbrain' - you know, like the evil supercomputer turned gross brain-in-a-jar monster from Nintendo's Metroid series - according to trademarks filed by the Assassin's Creed and Far Cry publisher. Read more...",
@@ -99,13 +118,13 @@
       "badge": "info"
     },
     "tags": [
-      "AI",
-      "Nintendo"
+      "Nintendo",
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Dark Souls 2 can now be played in its entirety with drop-in, drop-out co-op, thanks to its own seamless multiplayer mod",
     "source": "Eurogamer",
     "summary": "The popular - and always appreciated - seamless co-op mod has finally come to Dark Souls 2: Scholar of the First Sin, the only game of the trilogy to have spent years without it. Mod creator Yui, who's responsible for the seamless co-op mods for Dark Souls Remastered, Dark Souls 3, Elden Ring and Ar...",
@@ -123,12 +142,66 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "If you want an early taste of The Witcher 3's Songs of the Past expansion, you can listen to five tracks from the OST right now",
-    "source": "Eurogamer",
-    "summary": "Back in August, CD Projekt Red properly revealed new Witcher 3 expansion Songs of the Past during Gamescom's Opening Night Live show. Whilst I got to experience a hands-off demo of the new content (which I loved), no one in the public has yet had chance to get their hands on the title. So, it seems ...",
-    "date": "Mon, 28 Sep 2026 13:30:05 +0000",
-    "link": "https://www.eurogamer.net/the-witcher-3-songs-of-the-past-expansion-five-tracks-ost",
+    "id": 9,
+    "title": "Switch Finally Gets One of 2025’s Best-Reviewed RPGs",
+    "source": "Polygon",
+    "summary": "Keep Driving, one of 2025's best reviewed games is now on consoles, and it's especially perfect for Switch owners.",
+    "date": "Tue, 29 Sep 2026 00:00:16 GMT",
+    "link": "https://www.polygon.com/keep-driving-switch-recommendation/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.67,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "5 MAD Magazine Parodies from the 1990s That Aged Perfectly",
+    "source": "Polygon",
+    "summary": "MAD Magazine was a great source of pop culture parodies. Here are comic parodies they did of Ninja Turtles, Gremlins 2, the Flintstones and more",
+    "date": "Tue, 29 Sep 2026 00:00:16 GMT",
+    "link": "https://www.polygon.com/mad-magazine-parodies-1990s-aged-perfectly/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "GTA 6’s $400 Collector’s Edition Is the Latest Example of a Horrible Trend",
+    "source": "Polygon",
+    "summary": "A new Grand Theft Auto 6 collectors box is the latest example of the games industry prioritizing high-spending customers above all else",
+    "date": "Mon, 28 Sep 2026 23:00:16 GMT",
+    "link": "https://www.polygon.com/gta-6-good-time-state-collectors-editions/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Spider-Man: Brand New Day Getting Official New Version, Report Says",
+    "source": "Polygon",
+    "summary": "Sony will reportedly rerelease Spider-Man: Brand New Day in movie theaters with new footage, including cut cameos of other MCU characters.",
+    "date": "Mon, 28 Sep 2026 22:23:35 GMT",
+    "link": "https://www.polygon.com/spider-man-brand-new-day-rerelease-new-footage/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.08,
@@ -141,15 +214,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 9,
-    "title": "Control Resonant Proves Everything Is a Live-Service Game Now",
-    "source": "Polygon",
-    "summary": "Control Resonant's day one update completely changed the game's combat, continuing a growing trend as modern games become more malleable.",
-    "date": "Mon, 28 Sep 2026 18:10:07 GMT",
-    "link": "https://www.polygon.com/control-resonant-updates-analysis/",
+    "id": 13,
+    "title": "I can't stop comparing the dialogue from the original, messy FF7 localization and its vastly improved fan translation",
+    "source": "PC Gamer",
+    "summary": "The Shinra Archaeology Cut of FF7 gives the game the treatment Square Enix's official PC release deserved.",
+    "date": "Tue, 29 Sep 2026 00:05:26 +0000",
+    "link": "https://www.pcgamer.com/games/final-fantasy/i-cant-stop-comparing-the-dialogue-from-the-original-messy-ff7-localization-and-its-vastly-improved-fan-translation/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.05,
+      "score": -0.06,
       "badge": "info"
     },
     "tags": [
@@ -159,48 +232,12 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "Dave Franco, Manny Jacinto, and Jenny Slate talk Forgotten Island",
-    "source": "Polygon",
-    "summary": "The actors discuss the hardest lines to get right and what surprised them most about seeing their characters in the finished DreamWorks movie.",
-    "date": "Mon, 28 Sep 2026 18:00:16 GMT",
-    "link": "https://www.polygon.com/dave-franco-manny-jacinto-jenny-slate-interview-forgotten-island/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "New 'Pokémon Winds and Waves' Leaks Fill Major Gap Left by Game Freak's Silence",
-    "source": "Polygon",
-    "summary": "Recent Pokémon WiWa leaks contain must-see early gameplay, regional maps, and character models for the Elite Four and gym leaders.",
-    "date": "Mon, 28 Sep 2026 17:38:02 GMT",
-    "link": "https://www.polygon.com/pokemon-winds-waves-september-2026-leak-details/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Where to find sandworm meat in Fire Emblem Fortune's Weave",
-    "source": "Polygon",
-    "summary": "Here's where you can find sandworm meat in Fire Emblem: Fortune's Weave, the material you need to recruit Nezha",
-    "date": "Mon, 28 Sep 2026 17:29:47 GMT",
-    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-sandworm-meat-location-where-to-find/",
+    "id": 14,
+    "title": "Former Elder Scrolls writer Kurt Kuhlmann is '100% convinced' a load-bearing bit of series lore was inspired by a typo",
+    "source": "PC Gamer",
+    "summary": "The Warp in the Draft.",
+    "date": "Mon, 28 Sep 2026 22:16:37 +0000",
+    "link": "https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-writer-kurt-kuhlmann-is-100-percent-convinced-a-load-bearing-bit-of-series-lore-was-inspired-by-a-typo/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -213,30 +250,12 @@
     "read_time": "1 min read"
   },
   {
-    "id": 13,
-    "title": "I have broken GTA 5 by installing so many mods that the game only launches in windowed mode now",
+    "id": 15,
+    "title": "World of Warcraft: Forever dev teases new 'mega dungeon' to get lost in for hours like the good ol' days",
     "source": "PC Gamer",
-    "summary": "Which I'm taking as a… win?",
-    "date": "Mon, 28 Sep 2026 17:49:04 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-have-broken-gta-5-by-installing-so-many-mods-that-the-game-only-launches-in-windowed-mode-now/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "The writer of The Witcher 3's best quest has returned to CD Projekt after a decade away",
-    "source": "PC Gamer",
-    "summary": "After stops at Techland and GSC Game World, Karolina Stachyra is back to where it all began.",
-    "date": "Mon, 28 Sep 2026 17:22:38 +0000",
-    "link": "https://www.pcgamer.com/games/the-witcher/the-writer-of-the-witcher-3s-best-quest-has-returned-to-cd-projekt-after-a-decade-away/",
+    "summary": "Blackrock Depths fans will have a new dungeon that takes as long as a raid to complete.",
+    "date": "Mon, 28 Sep 2026 22:15:09 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-teases-new-mega-dungeon-to-get-lost-in-for-hours-like-the-good-ol-days/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.2,
@@ -249,52 +268,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "Embark should've implemented a PvE mode into Arc Raiders a long time ago",
-    "source": "PC Gamer",
-    "summary": "God forbid a raider wants to have a chill time.",
-    "date": "Mon, 28 Sep 2026 17:02:07 +0000",
-    "link": "https://www.pcgamer.com/games/third-person-shooter/embark-shouldve-implemented-a-pve-mode-into-arc-raiders-a-long-time-ago/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 16,
-    "title": "A love letter to the Guitar Hero X-Plorer Controller",
+    "title": "Double Fine's first game since being dumped by Xbox will be out in just 2 weeks",
     "source": "PC Gamer",
-    "summary": "Simply the best.",
-    "date": "Mon, 28 Sep 2026 16:23:56 +0000",
-    "link": "https://www.pcgamer.com/hardware/controllers/a-love-letter-to-the-guitar-hero-x-plorer-controller/",
+    "summary": "I don't know what I expected, but Thank You Bus Driver sure isn't it. It does look like fun, though.",
+    "date": "Mon, 28 Sep 2026 22:00:44 +0000",
+    "link": "https://www.pcgamer.com/games/racing/double-fines-first-game-since-being-dumped-by-xbox-will-be-out-in-just-2-weeks/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.5,
+      "score": 0.14,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
-    "title": "Resident Evil Movie Demolishes Franchise Record After Just Two Weekends",
+    "title": "Activision Keeps Saying All The Right Things About Modern Warfare 4",
     "source": "GameSpot",
-    "summary": "Zach Cregger's highly acclaimed Resident Evil movie had another strong showing at the box office for its second weekend, propelling the film to break another franchise record. It already broke the record for biggest opening weekend for the franchise, and now the movie has made more than $100 million...",
-    "date": "Mon, 28 Sep 2026 15:05:11 +0000",
-    "link": "https://www.gamespot.com/articles/resident-evil-movie-demolishes-franchise-record-after-just-two-weekends/",
+    "summary": "Activision has made a key announcement about how Double XP tokens work in the upcoming Call of Duty: Modern Warfare 4, and it sounds like good news.\nBeginning with MW4, 2XP tokens will only count down when you're actually in a match. Previously, the timer would tick down when you were in a game's me...",
+    "date": "Mon, 28 Sep 2026 20:22:41 +0000",
+    "link": "https://www.gamespot.com/articles/activision-keeps-saying-all-the-right-things-about-modern-warfare-4/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.04,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -304,15 +304,15 @@
   },
   {
     "id": 18,
-    "title": "The Last Of Us Season 3 Adds John Goodman And Even More Actors From The Games",
+    "title": "WoW: Forever’s Beta Just Keeps Getting Bigger",
     "source": "GameSpot",
-    "summary": "HBO has announced further casting details for the upcoming third and possibly final season of The Last of Us. \nTwo actors from the games are set to appear in Season 3--Laura Bailey and Ian Alexander--along with prolific veteran actor John Goodman, as relayed by Deadline.\nBailey played Abby in Naught...",
-    "date": "Mon, 28 Sep 2026 14:07:05 +0000",
-    "link": "https://www.gamespot.com/articles/the-last-of-us-season-3-adds-john-goodman-and-even-more-actors-from-the-games/",
+    "summary": "World of Warcraft: Forever's beta is in full swing, and if its popularity is any indication of how the full launch might go, it's going to be big, as Blizzard has had to increase the beta's population cap multiple times.\nForever was Blizzard's big finale during its BlizzCon 2026 opening ceremony, a ...",
+    "date": "Mon, 28 Sep 2026 20:19:16 +0000",
+    "link": "https://www.gamespot.com/articles/wow-forevers-beta-just-keeps-getting-bigger/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -322,33 +322,32 @@
   },
   {
     "id": 19,
-    "title": "Minecraft Dungeons 2 Deliberately Moves Closer To Vanilla Minecraft",
+    "title": "For The First Time Ever, Sony Skips CES, Which Was Home To One Of PlayStation’s Silliest Announcements",
     "source": "GameSpot",
-    "summary": "Minecraft Dungeons 2 is taking a different approach to its relationship with vanilla Minecraft than its predecessor did. According to the game's developers, the sequel deliberately moves closer to the mechanics and feel of the original sandbox game, in part because the Dungeons franchise is now esta...",
-    "date": "Mon, 28 Sep 2026 14:00:00 +0000",
-    "link": "https://www.gamespot.com/articles/minecraft-dungeons-2-deliberately-moves-closer-to-vanilla-minecraft/",
+    "summary": "Sony has attended every edition of the Consumer Electronics Show (CES) since it debuted in 1967, but that's ending for the upcoming show in January 2027. This means there won't be any PlayStation news, at least not directly from Sony.\nThe company confirmed to Bloomberg that it's pulling out of the s...",
+    "date": "Mon, 28 Sep 2026 20:16:16 +0000",
+    "link": "https://www.gamespot.com/articles/for-the-first-time-ever-sony-skips-ces-which-was-home-to-one-of-playstations-silliest-announcements/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.11,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "The Resident Evil Movie Wasn’t The Main Force Behind RE Games’ Recent Sales Boost",
+    "title": "Diablo 4 Season 15 Is Filled To The Brim With Big Secrets, And They Just Keep Coming",
     "source": "GameSpot",
-    "summary": "Zach Cregger's Resident Evil movie has done big numbers at the box office since it hit theaters on September 18, but has that been reflected in increased Resident Evil game sales? According to new data, a set of fresh discounts prior to the movie's release did most of the heavy lifting for a surge i...",
-    "date": "Mon, 28 Sep 2026 13:53:32 +0000",
-    "link": "https://www.gamespot.com/articles/the-resident-evil-movie-wasnt-the-main-force-behind-re-games-recent-sales-boost/",
+    "summary": "Diablo 4 Season 15 is stuffed full of secrets years in the making, and despite the season having launched two weeks ago, players keep discovering new ones. \nSeason 15, Hell's Legacy, is a major nostalgia trip for Diablo fans. It adds new dungeons, boss fights, and items from previous Diablo games to...",
+    "date": "Mon, 28 Sep 2026 18:48:01 +0000",
+    "link": "https://www.gamespot.com/articles/diablo-4-season-15-is-filled-to-the-brim-with-big-secrets-and-they-just-keep-coming/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.22,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.13,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
