@@ -1,29 +1,29 @@
 [
   {
     "id": 1,
-    "title": "Sony and Nintendo Should Keep the Current Gen Going for as Long as Possible 'Because People Are Very Happy Using PS5 and Switch 2,' Former PlayStation Exec Says",
+    "title": "007 First Light Is Getting Free DLC Later This Week",
     "source": "IGN",
-    "summary": "Sony and Nintendo need to make their current consoles last as long as possible amid soaring costs, former PlayStation exec Shuhei Yoshida has said.",
-    "date": "Tue, 29 Sep 2026 15:38:56 +0000",
-    "link": "https://www.ign.com/articles/sony-and-nintendo-should-keep-the-current-gen-going-for-as-long-as-possible-because-people-are-very-happy-using-ps5-and-switch-2-former-playstation-exec-says",
+    "summary": "007 First Light is getting new, free DLC later this week.",
+    "date": "Tue, 29 Sep 2026 22:15:38 +0000",
+    "link": "https://www.ign.com/articles/007-first-light-is-getting-free-dlc-later-this-week",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
     },
     "tags": [
-      "PlayStation",
-      "Nintendo"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Warhammer YouTuber Pulls the Plug After 10 Years Amid Games Workshop Takedowns, Death Threats, and Doxxing Over 3D Printing Designs",
+    "title": "Jennifer Lawrence to Star in Zach Cregger’s Sci-Fi Thriller The Flood",
     "source": "IGN",
-    "summary": "A long-running Warhammer content creator has announced the end of their YouTube channel amid Games Workshop takedowns of their 3D printing designs, and burnout from dealing with online complaints and threats.",
-    "date": "Tue, 29 Sep 2026 15:36:07 +0000",
-    "link": "https://www.ign.com/articles/warhammer-youtuber-pulls-the-plug-after-10-years-amid-games-workshop-takedowns-death-threats-and-doxxing-over-3d-printing-designs",
+    "summary": "Zach Cregger’s next movie, a science fiction thriller called The Flood, is set to release in theaters on August 11, 2028.",
+    "date": "Tue, 29 Sep 2026 22:13:13 +0000",
+    "link": "https://www.ign.com/articles/jennifer-lawrence-to-star-in-zach-creggers-sci-fi-thriller-the-flood",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -37,32 +37,33 @@
   },
   {
     "id": 3,
-    "title": "The Witcher 3 Remastered Has Already Broken Steam Concurrent Player Record",
+    "title": "The Flexispot Lotus Swivel Rocker and Recliner Is on Clearance for $250 Plus Free Shipping",
     "source": "IGN",
-    "summary": "We're just a few hours into the launch of The Witcher 3 Remastered, and it's already beaten its previous record for concurrent players on Steam.",
-    "date": "Tue, 29 Sep 2026 15:23:41 +0000",
-    "link": "https://www.ign.com/articles/the-witcher-3-remastered-has-already-broken-steam-concurrent-player-record",
+    "summary": "Game in lounging comfort.",
+    "date": "Tue, 29 Sep 2026 21:50:00 +0000",
+    "link": "https://www.ign.com/articles/flexispot-xc6-swivel-rocker-recliner-chair-deal",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.26,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Steam"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Funko Brings Exclusive Green Lantern Pop! Figures to NYCC 2026",
+    "title": "Obsession Director Curry Barker's Next Film, Anything But Ghosts, Gets May 2027 Theatrical Release",
     "source": "IGN",
-    "summary": "IGN can exclusively reveal Funko's exclusive DC Pop! figures for NYCC, featuring Hal Jordan in a number of different Lantern costumes.",
-    "date": "Tue, 29 Sep 2026 15:00:00 +0000",
-    "link": "https://www.ign.com/articles/funko-brings-exclusive-green-lantern-pop-figures-to-nycc-2026",
+    "summary": "Obsession director Curry Barker’s next film, Anything But Ghosts, is coming to theaters next year.",
+    "date": "Tue, 29 Sep 2026 21:46:19 +0000",
+    "link": "https://www.ign.com/articles/obsession-director-curry-barkers-next-film-anything-but-ghosts-gets-may-2027-theatrical-release",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.16,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -142,15 +143,15 @@
   },
   {
     "id": 9,
-    "title": "An NFL Legend Is About to Reveal the Minecraft City He Spent 12 Years Building",
+    "title": "Dave Filoni's Disappointing Plan for 'Star Wars 10' Is Exactly What Terrible Fans Deserve",
     "source": "Polygon",
-    "summary": "The former head coach of the Pittsburgh Steelers is showing off his 12-year creative mode project this Wednesday.",
-    "date": "Tue, 29 Sep 2026 18:00:15 GMT",
-    "link": "https://www.polygon.com/nfl-legend-revealing-minecraft-city/",
+    "summary": "Back in 2017, Star Wars tried to subvert expectations but was met with intense backlash. Is it any wonder Episode X is playing it safe?",
+    "date": "Tue, 29 Sep 2026 23:30:16 GMT",
+    "link": "https://www.polygon.com/star-wars-episode-x-jon-watts-simon-kinberg/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.13,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.11,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -160,33 +161,15 @@
   },
   {
     "id": 10,
-    "title": "Xbox’s Platinum Trophy Equivalent Officially Revealed",
+    "title": "10 Game Cancellations That Are Still Devastating Years Later",
     "source": "Polygon",
-    "summary": "Mythic Achievements, Xbox's long-overdue answer to PlayStation's Platinum Trophy, are real and available starting today",
-    "date": "Tue, 29 Sep 2026 17:34:36 GMT",
-    "link": "https://www.polygon.com/xbox-mythic-achievement-announced-release-date/",
+    "summary": "Canceled games are nothing new, but 10 exciting games were taken out of action before they could deliver on their promise.",
+    "date": "Tue, 29 Sep 2026 22:52:38 GMT",
+    "link": "https://www.polygon.com/canceled-games/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "PlayStation",
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "'GTA 6' Fans Are Hammering the Game Informer App Into Oblivion Right Now",
-    "source": "Polygon",
-    "summary": "The gaming magazine's app can't seem to handle all the interest in its exclusive GTA 6 news and screenshots as users report issues and glitches",
-    "date": "Tue, 29 Sep 2026 17:28:01 GMT",
-    "link": "https://www.polygon.com/gta-6-game-informer-app-article-something-went-wrong-screenshots/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.06,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.14,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -195,12 +178,29 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "All paralogue dates and deadlines in Fire Emblem Fortune's Weave",
+    "id": 11,
+    "title": "Valve Rolls Out Huge Update for Hero Shooter Deadlock as Game Hits All-Time Peak",
     "source": "Polygon",
-    "summary": "These are all the paralogues in Fire Emblem Fortune's Weave, including paralogue start dates and end dates",
-    "date": "Tue, 29 Sep 2026 17:22:54 GMT",
-    "link": "https://www.polygon.com/all-fire-emblem-fortunes-weave-paralogues-dates/",
+    "summary": "Deadlock's City Never Sleeps update is huge and pushes the PC multiplayer hero shooter to an all-time peak concurrent player count on Steam.",
+    "date": "Tue, 29 Sep 2026 22:18:41 GMT",
+    "link": "https://www.polygon.com/valve-deadlock-update-september-2026-development/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.13,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Ace Combat 8 Wings of Theve release time in your time zone",
+    "source": "Polygon",
+    "summary": "Here's when Ace Combat 8: Wings of Theve will release in different time zones as well as the bonuses you obtain by pre-ordering it.",
+    "date": "Tue, 29 Sep 2026 22:01:15 GMT",
+    "link": "https://www.polygon.com/ace-combat-8-wings-of-theve-release-time-edt-pdt/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -214,48 +214,31 @@
   },
   {
     "id": 13,
-    "title": "Live from Nivalis Nights: A nightly photo journal of my cyberpunk noodle bar",
+    "title": "Making our favorite FPS modes 1v1 to decide the greatest of them all",
     "source": "PC Gamer",
-    "summary": "An extremely visual evolution of my neon-drenched noodle joint.",
-    "date": "Tue, 29 Sep 2026 18:06:41 +0000",
-    "link": "https://www.pcgamer.com/games/live/live-from-nivalis-nights-a-nightly-photo-journal-of-my-cyberpunk-noodle-bar/",
+    "summary": "Vote on the greatest FPS mode of all time. There can only be one.",
+    "date": "Tue, 29 Sep 2026 23:46:49 +0000",
+    "link": "https://www.pcgamer.com/games/fps/making-our-favorite-fps-modes-1v1-to-decide-the-greatest-of-them-all/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.62,
+      "badge": "success"
     },
     "tags": [
-      "Cyberpunk"
+      "FPS"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "UK government wants people to be rude to AI: 'You don't need to say thank you'",
+    "title": "One of my all-time favorite games just announced an expansion, yet all I feel is fear",
     "source": "PC Gamer",
-    "summary": "It's about time.",
-    "date": "Tue, 29 Sep 2026 18:05:12 +0000",
-    "link": "https://www.pcgamer.com/software/ai/uk-government-wants-people-to-be-rude-to-ai-you-dont-need-to-say-thank-you/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Toem 2 review: A sweet sequel that's a tad too easy to be memorable",
-    "source": "PC Gamer",
-    "summary": "This photo-based adventure is super sweet but a little too easy to capture the glee of solving adventure game puzzles.",
-    "date": "Tue, 29 Sep 2026 18:04:43 +0000",
-    "link": "https://www.pcgamer.com/games/adventure/toem-2-review/",
+    "summary": "More Satisfactory is a good thing. Why, then, do I feel this dread welling up inside me?",
+    "date": "Tue, 29 Sep 2026 23:15:21 +0000",
+    "link": "https://www.pcgamer.com/games/survival-crafting/one-of-my-all-time-favorite-games-just-announced-an-expansion-yet-all-i-feel-is-fear/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.23,
+      "score": 0.57,
       "badge": "success"
     },
     "tags": [
@@ -265,12 +248,30 @@
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "My GTA 5 install has a death wish but I have soothed it with flossing",
+    "id": 15,
+    "title": "Garry Newman adds necks to his neckless characters because the lack of necks 'comes up consistently in our many many many negative reviews'",
     "source": "PC Gamer",
-    "summary": "It'd work for me.",
-    "date": "Tue, 29 Sep 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/my-gta-5-install-has-a-death-wish-but-i-have-soothed-it-with-flossing/",
+    "summary": "\"...the feedback we've consistently got is that people hate them. They hate everything about them.\"",
+    "date": "Tue, 29 Sep 2026 22:44:15 +0000",
+    "link": "https://www.pcgamer.com/software/garry-newman-adds-necks-to-his-neckless-characters-because-the-lack-of-necks-comes-up-consistently-in-our-many-many-many-negative-reviews/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Deadlock's gigantic new update gives its city a spooky new coat of paint and debuts 6 new heroes, including the one and only Rat King",
+    "source": "PC Gamer",
+    "summary": "Valve continues to polish the game into one of the moodiest MOBAs out there.",
+    "date": "Tue, 29 Sep 2026 22:19:27 +0000",
+    "link": "https://www.pcgamer.com/games/moba/deadlocks-gigantic-new-update-gives-its-city-a-spooky-new-coat-of-paint-and-debuts-6-new-heroes-including-the-one-and-only-rat-king/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -284,32 +285,33 @@
   },
   {
     "id": 17,
-    "title": "Majority Of Gears Of War: E-Day Revenue On Xbox Will Be Cannibalized By Game Pass, Analyst Says",
+    "title": "Alleged WoW: Forever Survey Teases 11 New Classes, Including Some Deep Cuts",
     "source": "GameSpot",
-    "summary": "Gears of War: E-Day is launching into Xbox Game Pass, and because of that, the majority of the game's moneymaking potential will be cannibalized by its inclusion on the service. That's according to Rhys Elliott of Alinea Analytics, who released a report today that covers this, the game's initial sal...",
-    "date": "Tue, 29 Sep 2026 17:02:05 +0000",
-    "link": "https://www.gamespot.com/articles/majority-of-gears-of-war-e-day-revenue-on-xbox-will-be-cannibalized-by-game-pass-analyst-says/",
+    "summary": "World of Warcraft: Forever's new take on classic Azeroth is opening the door to all kinds of new ideas in the old-school version of Blizzard's MMORPG, and new classes look to be one of them.\nBlizzard, of course, has added a total of four new classes over the last two decades to the modern version of...",
+    "date": "Tue, 29 Sep 2026 19:43:28 +0000",
+    "link": "https://www.gamespot.com/articles/alleged-wow-forever-survey-teases-11-new-classes-including-some-deep-cuts/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.27,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
     },
     "tags": [
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 18,
-    "title": "Want To Dress Up As Bryan From The Resident Evil Movie For Halloween? Here’s How",
+    "title": "GTA 6 Won’t Spoof Disney World, And That’s Too Bad",
     "source": "GameSpot",
-    "summary": "Halloween season is almost upon us, and if you're looking to dress up as the Resident Evil movie's in-over-his-head courier, Bryan (played by Austin Abrams), then here's a checklist of everything you need to pull off the Raccoon City look. Fortunately, Bryan's look is surprisingly easy to pull off, ...",
-    "date": "Tue, 29 Sep 2026 14:27:31 +0000",
-    "link": "https://www.gamespot.com/articles/want-to-dress-up-as-bryan-from-the-resident-evil-movie-for-halloween-heres-how/",
+    "summary": "GTA 6 will not include its own spoof on one of Florida's most iconic venues: Walt Disney World. I adore all things Disney, including the parks. But I also appreciate and enjoy Rockstar's penchant for sarcasm and making fun of things. And Disney World? There is a lot to poke fun at. So I am a bit bum...",
+    "date": "Tue, 29 Sep 2026 19:24:02 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-wont-spoof-disney-world-and-thats-too-bad/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.29,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.19,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -319,31 +321,32 @@
   },
   {
     "id": 19,
-    "title": "When Is The Next Steam Sale? Dates For 2026 And 2027 Sales Revealed",
+    "title": "CoD: Modern Warfare 4 Brings Back The Franchise’s Most Chaotic And Divisive Multiplayer Map",
     "source": "GameSpot",
-    "summary": "While it's always a good idea to save some cash toward the end of the month, Valve's quarterly Steam sales make it very tempting to dip into those rainy day funds. Fortunately, knowing when these sales will occur has gotten easier over time, as Valve no longer keeps people guessing about the dates.\n...",
-    "date": "Thu, 22 Jan 2026 17:07:00 +0000",
-    "link": "https://www.gamespot.com/articles/when-is-the-next-steam-sale-date/1100-6532422/",
+    "summary": "Activision has confirmed that one of the Call of Duty franchise's most notorious maps, Shipment, is coming back for this year's Modern Warfare 4.\nAfter fans spotted it in the newly released trailer for MW4's PC version, the Call of Duty account directly confirmed its return with a dedicated post. \nS...",
+    "date": "Tue, 29 Sep 2026 19:08:41 +0000",
+    "link": "https://www.gamespot.com/articles/cod-modern-warfare-4-brings-back-the-franchises-most-chaotic-and-divisive-multiplayer-map/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.32,
+      "score": 0.26,
       "badge": "success"
     },
     "tags": [
-      "Steam"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "GTA 5 For Switch Mod Project Shuts Down, Dev Thanks Take-Two For Its “Mercy”",
+    "title": "WoW: Forever Players Are Up In Arms Over Streamer Not Being Banned For Illegal Gold",
     "source": "GameSpot",
-    "summary": "The creator of a mod project that sought to bring Rockstar's Grand Theft Auto 5 to Switch is closing up shop, apparently at the request of rights owner Take-Two. This action comes in the same month that Rockstar published a new \"Mod Guidelines\" notice informing people they need to \"respect our games...",
-    "date": "Tue, 29 Sep 2026 13:07:36 +0000",
-    "link": "https://www.gamespot.com/articles/gta-5-for-switch-mod-project-shuts-down-dev-thanks-take-two-for-its-mercy/",
+    "summary": "World of Warcraft: Forever is opening up old wounds when it comes to Blizzard's actions (or in many players' views, inaction) against bots and real-money gold buying, with a recent incident involving a popular streamer becoming a flashpoint for the MMORPG.\nWoW Classic streamer Ziqo was recently seen...",
+    "date": "Tue, 29 Sep 2026 18:35:45 +0000",
+    "link": "https://www.gamespot.com/articles/wow-forever-players-are-up-in-arms-over-streamer-not-being-banned-for-illegal-gold/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.14,
+      "score": 0.15,
       "badge": "success"
     },
     "tags": [
