@@ -1,73 +1,73 @@
 [
   {
     "id": 1,
-    "title": "007 First Light Is Getting Free DLC Later This Week",
+    "title": "Digger Ad Trolls Bad Reviews for New Tom Cruise Film: ‘F*** Those People!’",
     "source": "IGN",
-    "summary": "007 First Light is getting new, free DLC later this week.",
-    "date": "Tue, 29 Sep 2026 22:15:38 +0000",
-    "link": "https://www.ign.com/articles/007-first-light-is-getting-free-dlc-later-this-week",
+    "summary": "Warner Bros. has posted a social media ad highlighting the deeply divided critical response to Tom Cruise and director Alejandro G. Iñárritu’s new film Digger just hours after the review embargo was lifted.",
+    "date": "Wed, 30 Sep 2026 04:34:23 +0000",
+    "link": "https://www.ign.com/articles/digger-ad-trolls-bad-reviews-for-new-tom-cruise-film-f-those-people",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.06,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Jennifer Lawrence to Star in Zach Cregger’s Sci-Fi Thriller The Flood",
+    "title": "'The Train Isn't Stopping' — Diablo 4 Director Promises the Game Will Still Receive Support Well After Diablo 5 Launches",
     "source": "IGN",
-    "summary": "Zach Cregger’s next movie, a science fiction thriller called The Flood, is set to release in theaters on August 11, 2028.",
-    "date": "Tue, 29 Sep 2026 22:13:13 +0000",
-    "link": "https://www.ign.com/articles/jennifer-lawrence-to-star-in-zach-creggers-sci-fi-thriller-the-flood",
+    "summary": "Diablo 4 director Brent Gibson is telling fans not to worry about the game after Diablo 5’s announcement sparked concerns about the former title’s lifespan.",
+    "date": "Tue, 29 Sep 2026 23:54:28 +0000",
+    "link": "https://www.ign.com/articles/the-train-isnt-stopping-diablo-4-director-promises-the-game-will-still-receive-support-well-after-diablo-5-launches",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.27,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "The Flexispot Lotus Swivel Rocker and Recliner Is on Clearance for $250 Plus Free Shipping",
+    "title": "Original God of War Creator Defends Laufey's Creative Director From Harassment After His Critical Remarks Go Viral",
     "source": "IGN",
-    "summary": "Game in lounging comfort.",
-    "date": "Tue, 29 Sep 2026 21:50:00 +0000",
-    "link": "https://www.ign.com/articles/flexispot-xc6-swivel-rocker-recliner-chair-deal",
+    "summary": "David Jaffe, the creator, co-writer, and director for the original God of War game, has cleared up his viral comments about Ariel Lawrence, creative director for Laufey.",
+    "date": "Tue, 29 Sep 2026 23:21:54 +0000",
+    "link": "https://www.ign.com/articles/original-god-of-war-creator-defends-laufeys-creative-director-from-harassment-after-his-critical-remarks-go-viral",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.23,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Obsession Director Curry Barker's Next Film, Anything But Ghosts, Gets May 2027 Theatrical Release",
+    "title": "GTA 6's Game of the Year Chances Have Been Called Into Question",
     "source": "IGN",
-    "summary": "Obsession director Curry Barker’s next film, Anything But Ghosts, is coming to theaters next year.",
-    "date": "Tue, 29 Sep 2026 21:46:19 +0000",
-    "link": "https://www.ign.com/articles/obsession-director-curry-barkers-next-film-anything-but-ghosts-gets-may-2027-theatrical-release",
+    "summary": "GTA 6 may not even be eligible for Game of the Year at The Game Awards this year.",
+    "date": "Tue, 29 Sep 2026 22:55:18 +0000",
+    "link": "https://www.ign.com/articles/gta-6s-game-of-the-year-chances-have-been-called-into-question",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -101,8 +101,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -136,13 +136,49 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
+    "title": "The 5 most brilliant sci-fi movie quotes of the decade",
+    "source": "Polygon",
+    "summary": "It's been a solid decade for science fiction cinema, and there's still a few years left to go",
+    "date": "Wed, 30 Sep 2026 02:05:16 GMT",
+    "link": "https://www.polygon.com/best-sci-fi-movie-quotes-of-the-decade-2020s/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.24,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "10 Essential SNES Games Still Missing From Switch Online",
+    "source": "Polygon",
+    "summary": "Switch Online has a great selection of SNES classics, but it would be a whole lot better with 10 additions.",
+    "date": "Wed, 30 Sep 2026 01:00:15 GMT",
+    "link": "https://www.polygon.com/best-snes-games-missing-nintendo-switch-online/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.26,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
     "title": "Dave Filoni's Disappointing Plan for 'Star Wars 10' Is Exactly What Terrible Fans Deserve",
     "source": "Polygon",
     "summary": "Back in 2017, Star Wars tried to subvert expectations but was met with intense backlash. Is it any wonder Episode X is playing it safe?",
@@ -154,13 +190,13 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 10,
+    "id": 12,
     "title": "10 Game Cancellations That Are Still Devastating Years Later",
     "source": "Polygon",
     "summary": "Canceled games are nothing new, but 10 exciting games were taken out of action before they could deliver on their promise.",
@@ -172,43 +208,8 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Valve Rolls Out Huge Update for Hero Shooter Deadlock as Game Hits All-Time Peak",
-    "source": "Polygon",
-    "summary": "Deadlock's City Never Sleeps update is huge and pushes the PC multiplayer hero shooter to an all-time peak concurrent player count on Steam.",
-    "date": "Tue, 29 Sep 2026 22:18:41 GMT",
-    "link": "https://www.polygon.com/valve-deadlock-update-september-2026-development/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.13,
-      "badge": "success"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Ace Combat 8 Wings of Theve release time in your time zone",
-    "source": "Polygon",
-    "summary": "Here's when Ace Combat 8: Wings of Theve will release in different time zones as well as the bonuses you obtain by pre-ordering it.",
-    "date": "Tue, 29 Sep 2026 22:01:15 GMT",
-    "link": "https://www.polygon.com/ace-combat-8-wings-of-theve-release-time-edt-pdt/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -242,8 +243,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -260,8 +261,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -278,8 +279,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -296,8 +297,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -314,8 +315,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -332,8 +333,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -350,8 +351,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
