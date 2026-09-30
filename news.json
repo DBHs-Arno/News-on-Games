@@ -1,6 +1,59 @@
 [
   {
     "id": 1,
+    "title": "Ghost Rider Star Nicolas Cage Calls the MCU a 'Well-Funded and Glorified WWE'",
+    "source": "IGN",
+    "summary": "Nicolas Cage has issued his verdict on the Marvel Cinematic Universe, calling it a \"well-funded and glorified WWE,\" despite its use of top-tier acting talent.",
+    "date": "Wed, 30 Sep 2026 09:40:10 +0000",
+    "link": "https://www.ign.com/articles/ghost-rider-star-nicolas-cage-calls-the-mcu-a-well-funded-and-glorified-wwe",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Huge Deadlock Update Propels Valve's MOBA Hero Shooter to the Top of the Steam Charts, Smashes Peak Concurrent Player Record",
+    "source": "IGN",
+    "summary": "Valve has issued a huge update to its in-development MOBA hero shooter Deadlock, propelling it to the top of Steam’s most-played games chart.",
+    "date": "Wed, 30 Sep 2026 08:49:15 +0000",
+    "link": "https://www.ign.com/articles/huge-deadlock-update-propels-valves-moba-hero-shooter-to-the-top-of-the-steam-charts-smashes-peak-concurrent-player-record",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.45,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "Slow Horses Season 6, Episode 3 Review — ‘Resurrection’",
+    "source": "IGN",
+    "summary": "It's a triple resurrection as the Slow Horses pod up to try and avoid being killed by the mysterious murder twins.",
+    "date": "Wed, 30 Sep 2026 07:00:00 +0000",
+    "link": "https://www.ign.com/articles/slow-horses-season-6-episode-3-review-resurrection",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
     "title": "Digger Ad Trolls Bad Reviews for New Tom Cruise Film: ‘F*** Those People!’",
     "source": "IGN",
     "summary": "Warner Bros. has posted a social media ad highlighting the deeply divided critical response to Tom Cruise and director Alejandro G. Iñárritu’s new film Digger just hours after the review embargo was lifted.",
@@ -18,121 +71,68 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
-    "title": "'The Train Isn't Stopping' — Diablo 4 Director Promises the Game Will Still Receive Support Well After Diablo 5 Launches",
-    "source": "IGN",
-    "summary": "Diablo 4 director Brent Gibson is telling fans not to worry about the game after Diablo 5’s announcement sparked concerns about the former title’s lifespan.",
-    "date": "Tue, 29 Sep 2026 23:54:28 +0000",
-    "link": "https://www.ign.com/articles/the-train-isnt-stopping-diablo-4-director-promises-the-game-will-still-receive-support-well-after-diablo-5-launches",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.27,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Original God of War Creator Defends Laufey's Creative Director From Harassment After His Critical Remarks Go Viral",
-    "source": "IGN",
-    "summary": "David Jaffe, the creator, co-writer, and director for the original God of War game, has cleared up his viral comments about Ariel Lawrence, creative director for Laufey.",
-    "date": "Tue, 29 Sep 2026 23:21:54 +0000",
-    "link": "https://www.ign.com/articles/original-god-of-war-creator-defends-laufeys-creative-director-from-harassment-after-his-critical-remarks-go-viral",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.23,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "GTA 6's Game of the Year Chances Have Been Called Into Question",
-    "source": "IGN",
-    "summary": "GTA 6 may not even be eligible for Game of the Year at The Game Awards this year.",
-    "date": "Tue, 29 Sep 2026 22:55:18 +0000",
-    "link": "https://www.ign.com/articles/gta-6s-game-of-the-year-chances-have-been-called-into-question",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 5,
-    "title": "The Witcher 3 surges to its highest Steam concurrent player-count ever, following Remastered edition's release",
+    "title": "Crimson Desert's Charting the Unknown DLC delayed by two weeks \"to deliver a more polished and stable gameplay experience\"",
     "source": "Eurogamer",
-    "summary": "The Witcher 3's newly released Remastered edition has dramatically rekindled interest in the 11-year-old role-playing game, which is currently enjoying its highest concurrent player-count on Steam ever. Read more...",
-    "date": "Tue, 29 Sep 2026 16:24:48 +0000",
-    "link": "https://www.eurogamer.net/witcher-3-steam-most-played-record-remastered",
+    "summary": "Crimson Desert developer Pearl Abyss today announced it's delaying Charting the Unknown, the game's first post-launch add-on. Previously set for release 15th October, the DLC's release date has been pushed back to 29th October - a two-week delay. Read more...",
+    "date": "Wed, 30 Sep 2026 11:40:08 +0000",
+    "link": "https://www.eurogamer.net/crimson-desert-charting-the-unknown-dlc-delayed",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
     },
     "tags": [
-      "Steam"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 6,
-    "title": "You can now watch one of this year's best orchestral game-music performances, celebrating Hades 1 and 2, online for free",
+    "title": "Xbox Mythic Achievements roll out to Insiders and are retroactively awarded as far back as Xbox 360 games",
     "source": "Eurogamer",
-    "summary": "The outrageously enjoyable Hades musical orchestral concert, Ballads of the Underworld, is now available to watch in its entirety, online, for free. Read more...",
-    "date": "Tue, 29 Sep 2026 15:28:16 +0000",
-    "link": "https://www.eurogamer.net/watch-hades-orchestral-performance-recording",
+    "summary": "The rumoured Xbox Mythic Achievements - the equivalent of PlayStation's Platinum Trophies - have been officially announced, and they're rolling out for Xbox Insiders now. Read more...",
+    "date": "Wed, 30 Sep 2026 11:00:01 +0000",
+    "link": "https://www.eurogamer.net/xbox-mythic-achievements-playstation-trophies",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.46,
+      "score": 0.2,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Xbox",
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 7,
-    "title": "Don't worry if you're struggling in human form in The Blood of Dawnwalker - \"it should be harder\" playing that way",
+    "title": "Xbox's disc-to-digital feature rolls out for Series consoles and Xbox One, allowing you to digitise your game-disc collection",
     "source": "Eurogamer",
-    "summary": "If you've been playing Medieval vampire RPG The Blood of Dawnwalker and you're wondering why you're having a hard time during the day, as a human, versus as at night as a vampire, then don't worry: you're experiencing the game as intended. It's not supposed to be balanced, apparently. Read more...",
-    "date": "Tue, 29 Sep 2026 14:02:00 +0000",
-    "link": "https://www.eurogamer.net/blood-of-dawnwalker-harder-as-human-easier-as-vampire",
+    "summary": "After about a month in testing, Xbox's disc-to-digital feature has officially launched for all owners of Xbox consoles. The feature allows users to turn Xbox One and Xbox Series X discs into digital copies. Read more...",
+    "date": "Wed, 30 Sep 2026 10:53:43 +0000",
+    "link": "https://www.eurogamer.net/xbox-disc-to-digital-convert-ownership-release",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
     },
     "tags": [
-      "RPG"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 8,
-    "title": "Controversy erupts around Ace Combat 8 on PC as bundled Belkan War re-release remains problematically attached to the new game, whereas it's standalone on console",
+    "title": "Call of Duty: Modern Warfare 4 is getting a Counter-Strike-inspired game mode that I can't believe it never had before",
     "source": "Eurogamer",
-    "summary": "Early access to Ace Combat 8: Wings of Theve is now available to owners of the game's Deluxe Edition, but the launch has been soured due to publisher Bandai Namco's handling of one particular pre-order bonus. Read more...",
-    "date": "Tue, 29 Sep 2026 13:15:16 +0000",
-    "link": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-steam-community-reaction",
+    "summary": "On top of featuring all the game modes you expect from a Call of Duty game, Modern Warfare 4 is courting the competitive scene with something entirely new for the series: a game mode called Collateral. Read more...",
+    "date": "Wed, 30 Sep 2026 08:16:08 +0000",
+    "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-counter-strike-collateral",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.07,
+      "score": -0.01,
       "badge": "info"
     },
     "tags": [
@@ -143,32 +143,31 @@
   },
   {
     "id": 9,
-    "title": "The 5 most brilliant sci-fi movie quotes of the decade",
+    "title": "Xbox's Disc-to-Digital Feature Is Officially Out to the Public",
     "source": "Polygon",
-    "summary": "It's been a solid decade for science fiction cinema, and there's still a few years left to go",
-    "date": "Wed, 30 Sep 2026 02:05:16 GMT",
-    "link": "https://www.polygon.com/best-sci-fi-movie-quotes-of-the-decade-2020s/",
+    "summary": "Xbox's highly anticipated disc-to-digital program is now live, allowing Xbox One and Series X owners to digitize their physical discs.",
+    "date": "Wed, 30 Sep 2026 10:43:47 GMT",
+    "link": "https://www.polygon.com/xbox-disc-to-digital-full-release/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.24,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "10 Essential SNES Games Still Missing From Switch Online",
+    "title": "6 PS5 Games Releasing in October You Officially Cannot Miss",
     "source": "Polygon",
-    "summary": "Switch Online has a great selection of SNES classics, but it would be a whole lot better with 10 additions.",
-    "date": "Wed, 30 Sep 2026 01:00:15 GMT",
-    "link": "https://www.polygon.com/best-snes-games-missing-nintendo-switch-online/",
+    "summary": "PS5 players will have no shortage of new games to play in October, including new Ghost of Yotei DLC and Phantom Blade Zero.",
+    "date": "Wed, 30 Sep 2026 10:00:15 GMT",
+    "link": "https://www.polygon.com/new-ps5-games-october-2026/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.26,
+      "score": 0.14,
       "badge": "success"
     },
     "tags": [
@@ -179,15 +178,15 @@
   },
   {
     "id": 11,
-    "title": "Dave Filoni's Disappointing Plan for 'Star Wars 10' Is Exactly What Terrible Fans Deserve",
+    "title": "Ready Player One's New Adaptation is Truer to the Book than Spielberg's Movie",
     "source": "Polygon",
-    "summary": "Back in 2017, Star Wars tried to subvert expectations but was met with intense backlash. Is it any wonder Episode X is playing it safe?",
-    "date": "Tue, 29 Sep 2026 23:30:16 GMT",
-    "link": "https://www.polygon.com/star-wars-episode-x-jon-watts-simon-kinberg/",
+    "summary": "Discover how the new Ready Player One graphic novel stays true to Cline's original story, unlike Spielberg's film.",
+    "date": "Wed, 30 Sep 2026 09:30:16 GMT",
+    "link": "https://www.polygon.com/ready-player-one-graphic-novel-preview/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.11,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -197,15 +196,15 @@
   },
   {
     "id": 12,
-    "title": "10 Game Cancellations That Are Still Devastating Years Later",
+    "title": "Pokémon Pokopia Celebrates Its First Halloween with Themed Event",
     "source": "Polygon",
-    "summary": "Canceled games are nothing new, but 10 exciting games were taken out of action before they could deliver on their promise.",
-    "date": "Tue, 29 Sep 2026 22:52:38 GMT",
-    "link": "https://www.polygon.com/canceled-games/",
+    "summary": "Halloween will be a blast this year in Pokopia, as Pokémon will host a themed event, featuring Pumpkaboo, candy, and much more!",
+    "date": "Wed, 30 Sep 2026 09:21:37 GMT",
+    "link": "https://www.polygon.com/pokemon-pokopia-halloween-event-announced/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.14,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.44,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -215,6 +214,42 @@
   },
   {
     "id": 13,
+    "title": "You're hyped for Deadlock's new heroes and map updates, I'm hyped because of the 800 extra pre-match conversations, we are not the same",
+    "source": "PC Gamer",
+    "summary": "My hunger for a non-MOBA Deadlock continues.",
+    "date": "Wed, 30 Sep 2026 11:13:07 +0000",
+    "link": "https://www.pcgamer.com/games/moba/youre-hyped-for-deadlocks-new-heroes-and-map-updates-im-hyped-because-of-the-800-extra-pre-match-conversations-we-are-not-the-same/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Amazon's $25 self-propelling speakers gave me the giggles as they tried to walk off the edge of my desk, and that's almost worth the price of entry alone",
+    "source": "PC Gamer",
+    "summary": "Should I make them race?",
+    "date": "Wed, 30 Sep 2026 10:43:00 +0000",
+    "link": "https://www.pcgamer.com/hardware/speakers/amazons-usd25-self-propelling-speakers-gave-me-the-giggles-as-they-tried-to-walk-off-the-edge-of-my-desk-and-thats-almost-worth-the-price-of-entry-alone/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
     "title": "Making our favorite FPS modes 1v1 to decide the greatest of them all",
     "source": "PC Gamer",
     "summary": "Vote on the greatest FPS mode of all time. There can only be one.",
@@ -231,7 +266,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "One of my all-time favorite games just announced an expansion, yet all I feel is fear",
     "source": "PC Gamer",
     "summary": "More Satisfactory is a good thing. Why, then, do I feel this dread welling up inside me?",
@@ -249,43 +284,25 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "Garry Newman adds necks to his neckless characters because the lack of necks 'comes up consistently in our many many many negative reviews'",
-    "source": "PC Gamer",
-    "summary": "\"...the feedback we've consistently got is that people hate them. They hate everything about them.\"",
-    "date": "Tue, 29 Sep 2026 22:44:15 +0000",
-    "link": "https://www.pcgamer.com/software/garry-newman-adds-necks-to-his-neckless-characters-because-the-lack-of-necks-comes-up-consistently-in-our-many-many-many-negative-reviews/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Deadlock's gigantic new update gives its city a spooky new coat of paint and debuts 6 new heroes, including the one and only Rat King",
-    "source": "PC Gamer",
-    "summary": "Valve continues to polish the game into one of the moodiest MOBAs out there.",
-    "date": "Tue, 29 Sep 2026 22:19:27 +0000",
-    "link": "https://www.pcgamer.com/games/moba/deadlocks-gigantic-new-update-gives-its-city-a-spooky-new-coat-of-paint-and-debuts-6-new-heroes-including-the-one-and-only-rat-king/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 17,
+    "title": "The Biggest New Game Releases Of October 2026",
+    "source": "GameSpot",
+    "summary": "If you thought September was a big month for new releases, then you ain't seen nothing yet. As the days tick down to the November launch of Grand Theft Auto 6, numerous games are looking to avoid being caught in the blast radius of the year's biggest release, which has led to an absolutely stacked O...",
+    "date": "Wed, 30 Sep 2026 12:00:00 +0000",
+    "link": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-october-2026/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
     "title": "Alleged WoW: Forever Survey Teases 11 New Classes, Including Some Deep Cuts",
     "source": "GameSpot",
     "summary": "World of Warcraft: Forever's new take on classic Azeroth is opening the door to all kinds of new ideas in the old-school version of Blizzard's MMORPG, and new classes look to be one of them.\nBlizzard, of course, has added a total of four new classes over the last two decades to the modern version of...",
@@ -303,7 +320,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "GTA 6 Won’t Spoof Disney World, And That’s Too Bad",
     "source": "GameSpot",
     "summary": "GTA 6 will not include its own spoof on one of Florida's most iconic venues: Walt Disney World. I adore all things Disney, including the parks. But I also appreciate and enjoy Rockstar's penchant for sarcasm and making fun of things. And Disney World? There is a lot to poke fun at. So I am a bit bum...",
@@ -321,7 +338,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 19,
+    "id": 20,
     "title": "CoD: Modern Warfare 4 Brings Back The Franchise’s Most Chaotic And Divisive Multiplayer Map",
     "source": "GameSpot",
     "summary": "Activision has confirmed that one of the Call of Duty franchise's most notorious maps, Shipment, is coming back for this year's Modern Warfare 4.\nAfter fans spotted it in the newly released trailer for MW4's PC version, the Call of Duty account directly confirmed its return with a dedicated post. \nS...",
@@ -330,24 +347,6 @@
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.26,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "WoW: Forever Players Are Up In Arms Over Streamer Not Being Banned For Illegal Gold",
-    "source": "GameSpot",
-    "summary": "World of Warcraft: Forever is opening up old wounds when it comes to Blizzard's actions (or in many players' views, inaction) against bots and real-money gold buying, with a recent incident involving a popular streamer becoming a flashpoint for the MMORPG.\nWoW Classic streamer Ziqo was recently seen...",
-    "date": "Tue, 29 Sep 2026 18:35:45 +0000",
-    "link": "https://www.gamespot.com/articles/wow-forever-players-are-up-in-arms-over-streamer-not-being-banned-for-illegal-gold/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
       "badge": "success"
     },
     "tags": [
