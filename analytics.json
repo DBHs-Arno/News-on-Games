@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30 12:12 UTC",
+  "last_updated": "2026-09-30 18:10 UTC",
   "total_articles": 20,
   "sources_breakdown": {
     "IGN": 4,
@@ -9,8 +9,8 @@
     "GameSpot": 4
   },
   "sentiment_distribution": {
-    "Positive / Hype": 11,
-    "Neutral / Informative": 8,
-    "Critical / Mixed": 1
+    "Positive / Hype": 7,
+    "Neutral / Informative": 11,
+    "Critical / Mixed": 2
   }
 }

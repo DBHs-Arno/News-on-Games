@@ -1,6 +1,59 @@
 [
   {
     "id": 1,
+    "title": "John Carpenter Calls 2011 The Thing Prequel a ‘Piece of Crap,’ but Some Fans Are Rushing to Its Defence",
+    "source": "IGN",
+    "summary": "Horror movie legend John Carpenter has slammed the 2011 The Thing prequel movie, calling it a “piece of crap.” But not all his fans are onboard with his take.",
+    "date": "Wed, 30 Sep 2026 11:22:13 +0000",
+    "link": "https://www.ign.com/articles/john-carpenter-calls-2011-the-thing-prequel-a-piece-of-crap-but-some-fans-are-rushing-to-its-defence",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.8,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "The Witcher 3 Remastered Nintendo Switch 2 Can Be Unlocked for Free Even if You Borrow a Switch Physical Copy From a Friend",
+    "source": "IGN",
+    "summary": "The Witcher 3 Remastered can be unlocked on Switch 2 for free via any physical version of the game for Switch — whether its your copy of the game or not.",
+    "date": "Wed, 30 Sep 2026 10:35:22 +0000",
+    "link": "https://www.ign.com/articles/the-witcher-3-remastered-nintendo-switch-2-can-be-unlocked-for-free-even-if-you-borrow-a-switch-physical-copy-from-a-friend",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "GTA 6: Rockstar Developers Visited Strip Clubs and Rode Around at Night With Ex-Cops to Get First-Hand Florida Experience",
+    "source": "IGN",
+    "summary": "Rockstar Games has revealed the lengths it went to to gain first-hand experience of real-life Florida as part of research for GTA 6.",
+    "date": "Wed, 30 Sep 2026 10:18:17 +0000",
+    "link": "https://www.ign.com/articles/gta-6-rockstar-developers-visited-strip-clubs-and-rode-around-at-night-with-ex-cops-to-get-first-hand-florida-experience",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
     "title": "Ghost Rider Star Nicolas Cage Calls the MCU a 'Well-Funded and Glorified WWE'",
     "source": "IGN",
     "summary": "Nicolas Cage has issued his verdict on the Marvel Cinematic Universe, calling it a \"well-funded and glorified WWE,\" despite its use of top-tier acting talent.",
@@ -12,21 +65,39 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 2,
-    "title": "Huge Deadlock Update Propels Valve's MOBA Hero Shooter to the Top of the Steam Charts, Smashes Peak Concurrent Player Record",
-    "source": "IGN",
-    "summary": "Valve has issued a huge update to its in-development MOBA hero shooter Deadlock, propelling it to the top of Steam’s most-played games chart.",
-    "date": "Wed, 30 Sep 2026 08:49:15 +0000",
-    "link": "https://www.ign.com/articles/huge-deadlock-update-propels-valves-moba-hero-shooter-to-the-top-of-the-steam-charts-smashes-peak-concurrent-player-record",
+    "id": 5,
+    "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
+    "source": "Eurogamer",
+    "summary": "If you thought Red Dead Redemption 2's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and \"re-engineered our weather system\" for GTA 6. Hurricanes, rainbows and \"vertiginous cumulonimbus clouds\" are all part of the upcoming open worlder...",
+    "date": "Wed, 30 Sep 2026 17:04:55 +0000",
+    "link": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.45,
+      "score": 0.14,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "It's not even out yet, but Valve's Deadlock just became one of the most played games on Steam",
+    "source": "Eurogamer",
+    "summary": "Valve's new MOBA Deadlock - a sort of cross between Dota and Overwatch - might not be fully released yet, or even accessible by vast portions of the public,but that hasn't stopped its latest update propelling it to being one of the most played games on Steam. Read more...",
+    "date": "Wed, 30 Sep 2026 15:24:38 +0000",
+    "link": "https://www.eurogamer.net/deadlock-update-steam-most-played-games",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.31,
       "badge": "success"
     },
     "tags": [
@@ -35,323 +106,252 @@
     "read_time": "1 min read"
   },
   {
-    "id": 3,
-    "title": "Slow Horses Season 6, Episode 3 Review — ‘Resurrection’",
-    "source": "IGN",
-    "summary": "It's a triple resurrection as the Slow Horses pod up to try and avoid being killed by the mysterious murder twins.",
-    "date": "Wed, 30 Sep 2026 07:00:00 +0000",
-    "link": "https://www.ign.com/articles/slow-horses-season-6-episode-3-review-resurrection",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.2,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Digger Ad Trolls Bad Reviews for New Tom Cruise Film: ‘F*** Those People!’",
-    "source": "IGN",
-    "summary": "Warner Bros. has posted a social media ad highlighting the deeply divided critical response to Tom Cruise and director Alejandro G. Iñárritu’s new film Digger just hours after the review embargo was lifted.",
-    "date": "Wed, 30 Sep 2026 04:34:23 +0000",
-    "link": "https://www.ign.com/articles/digger-ad-trolls-bad-reviews-for-new-tom-cruise-film-f-those-people",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "Crimson Desert's Charting the Unknown DLC delayed by two weeks \"to deliver a more polished and stable gameplay experience\"",
-    "source": "Eurogamer",
-    "summary": "Crimson Desert developer Pearl Abyss today announced it's delaying Charting the Unknown, the game's first post-launch add-on. Previously set for release 15th October, the DLC's release date has been pushed back to 29th October - a two-week delay. Read more...",
-    "date": "Wed, 30 Sep 2026 11:40:08 +0000",
-    "link": "https://www.eurogamer.net/crimson-desert-charting-the-unknown-dlc-delayed",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Xbox Mythic Achievements roll out to Insiders and are retroactively awarded as far back as Xbox 360 games",
-    "source": "Eurogamer",
-    "summary": "The rumoured Xbox Mythic Achievements - the equivalent of PlayStation's Platinum Trophies - have been officially announced, and they're rolling out for Xbox Insiders now. Read more...",
-    "date": "Wed, 30 Sep 2026 11:00:01 +0000",
-    "link": "https://www.eurogamer.net/xbox-mythic-achievements-playstation-trophies",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox",
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 7,
-    "title": "Xbox's disc-to-digital feature rolls out for Series consoles and Xbox One, allowing you to digitise your game-disc collection",
+    "title": "Tinker, Bard, Illusionist - Blizzard seemingly surveying World of Warcraft: Forever players about never-before-seen classes to add to the game",
     "source": "Eurogamer",
-    "summary": "After about a month in testing, Xbox's disc-to-digital feature has officially launched for all owners of Xbox consoles. The feature allows users to turn Xbox One and Xbox Series X discs into digital copies. Read more...",
-    "date": "Wed, 30 Sep 2026 10:53:43 +0000",
-    "link": "https://www.eurogamer.net/xbox-disc-to-digital-convert-ownership-release",
+    "summary": "World of Warcraft: Forever players claim to have been sent a survey asking whether they'd be interested in a variety of new classes for the upcoming MMO - and  some of them are very interesting. Read more...",
+    "date": "Wed, 30 Sep 2026 14:18:14 +0000",
+    "link": "https://www.eurogamer.net/world-of-warcraft-forever-class-survey",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.25,
+      "score": 0.23,
       "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 8,
-    "title": "Call of Duty: Modern Warfare 4 is getting a Counter-Strike-inspired game mode that I can't believe it never had before",
+    "title": "\"My god this new lighting is lifeless\" - The Witcher 3 Remastered Edition divides players for a few key reasons",
     "source": "Eurogamer",
-    "summary": "On top of featuring all the game modes you expect from a Call of Duty game, Modern Warfare 4 is courting the competitive scene with something entirely new for the series: a game mode called Collateral. Read more...",
-    "date": "Wed, 30 Sep 2026 08:16:08 +0000",
-    "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-counter-strike-collateral",
+    "summary": "Yesterday's free Witcher 3: Wild Hunt - Remastered upgrade might have propelled the old role-playing game to new heights, in terms of player popularity, but not everyone is happy with what's changed. A particular point of contention concerns the game's new lighting changes, which some people think h...",
+    "date": "Wed, 30 Sep 2026 14:15:01 +0000",
+    "link": "https://www.eurogamer.net/witcher-3-remastered-community-reaction-lighting",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.01,
+      "score": 0.08,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "Xbox's Disc-to-Digital Feature Is Officially Out to the Public",
+    "title": "Enter Polygon's Secretlab ATLAS Giveaway",
     "source": "Polygon",
-    "summary": "Xbox's highly anticipated disc-to-digital program is now live, allowing Xbox One and Series X owners to digitize their physical discs.",
-    "date": "Wed, 30 Sep 2026 10:43:47 GMT",
-    "link": "https://www.polygon.com/xbox-disc-to-digital-full-release/",
+    "summary": "Our friends at Secretlab are partnering with Polygon's new podcast Point It Out!, and you could get a new chair out of it!",
+    "date": "Wed, 30 Sep 2026 18:08:18 GMT",
+    "link": "https://www.polygon.com/polygon-secretlab-atlas-giveaway-point-it-out/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Disclosure Day streaming release date: When will it come to digital, Peacock, Blu-ray, and DVD?",
+    "source": "Polygon",
+    "summary": "When will the new Steven Spielberg film come to streaming (Peacock), Blu-ray, and DVD? Here's what we know about Disclosure Day's release dates.",
+    "date": "Wed, 30 Sep 2026 17:51:18 GMT",
+    "link": "https://www.polygon.com/disclosure-day-streaming-release-date-peacock-netflix/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.07,
       "badge": "info"
     },
     "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "6 PS5 Games Releasing in October You Officially Cannot Miss",
-    "source": "Polygon",
-    "summary": "PS5 players will have no shortage of new games to play in October, including new Ghost of Yotei DLC and Phantom Blade Zero.",
-    "date": "Wed, 30 Sep 2026 10:00:15 GMT",
-    "link": "https://www.polygon.com/new-ps5-games-october-2026/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Ready Player One's New Adaptation is Truer to the Book than Spielberg's Movie",
+    "title": "GTA 6’s Wildlife Gameplay Might Do Something Red Dead 2 Never Could",
     "source": "Polygon",
-    "summary": "Discover how the new Ready Player One graphic novel stays true to Cline's original story, unlike Spielberg's film.",
-    "date": "Wed, 30 Sep 2026 09:30:16 GMT",
-    "link": "https://www.polygon.com/ready-player-one-graphic-novel-preview/",
+    "summary": "Grand Theft Auto 6 will feature more than 170 unique animals. Here’s hoping there are some friendly, gun-free ways to enjoy them all",
+    "date": "Wed, 30 Sep 2026 17:48:41 GMT",
+    "link": "https://www.polygon.com/gta-6-wildlife-hunting-animals/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.2,
+      "score": 0.28,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "Pokémon Pokopia Celebrates Its First Halloween with Themed Event",
+    "title": "WoW: Forever’s New Race Doesn't Fit into World of Warcraft At All",
     "source": "Polygon",
-    "summary": "Halloween will be a blast this year in Pokopia, as Pokémon will host a themed event, featuring Pumpkaboo, candy, and much more!",
-    "date": "Wed, 30 Sep 2026 09:21:37 GMT",
-    "link": "https://www.polygon.com/pokemon-pokopia-halloween-event-announced/",
+    "summary": "World of Warcraft: Forever's Skyborne elves are a forced invention that show the difficulty Blizzard will have adding to the classic game.",
+    "date": "Wed, 30 Sep 2026 17:30:17 GMT",
+    "link": "https://www.polygon.com/wow-world-of-warcraft-forever-beta-skyborne/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.44,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "You're hyped for Deadlock's new heroes and map updates, I'm hyped because of the 800 extra pre-match conversations, we are not the same",
+    "title": "To celebrate September 30, the day the cop inside of Leon Kennedy died, here's my most traumatic encounters in Resident Evil",
     "source": "PC Gamer",
-    "summary": "My hunger for a non-MOBA Deadlock continues.",
-    "date": "Wed, 30 Sep 2026 11:13:07 +0000",
-    "link": "https://www.pcgamer.com/games/moba/youre-hyped-for-deadlocks-new-heroes-and-map-updates-im-hyped-because-of-the-800-extra-pre-match-conversations-we-are-not-the-same/",
+    "summary": "This is in honour of the day Leon legally became a sad boy.",
+    "date": "Wed, 30 Sep 2026 17:02:57 +0000",
+    "link": "https://www.pcgamer.com/games/resident-evil/to-celebrate-september-30-the-day-the-cop-inside-of-leon-kennedy-died-heres-my-most-traumatic-encounters-in-resident-evil/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "Amazon's $25 self-propelling speakers gave me the giggles as they tried to walk off the edge of my desk, and that's almost worth the price of entry alone",
+    "title": "I have saved GTA 5 from death and also added tornadoes",
     "source": "PC Gamer",
-    "summary": "Should I make them race?",
-    "date": "Wed, 30 Sep 2026 10:43:00 +0000",
-    "link": "https://www.pcgamer.com/hardware/speakers/amazons-usd25-self-propelling-speakers-gave-me-the-giggles-as-they-tried-to-walk-off-the-edge-of-my-desk-and-thats-almost-worth-the-price-of-entry-alone/",
+    "summary": "These were two separate tasks.",
+    "date": "Wed, 30 Sep 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-have-saved-gta-5-from-death-and-also-added-tornadoes/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "Making our favorite FPS modes 1v1 to decide the greatest of them all",
+    "title": "Thanks Logitech, your new AI-fueled game clipping software makes me look trash at Counter-Strike, but I'mma keep it installed",
     "source": "PC Gamer",
-    "summary": "Vote on the greatest FPS mode of all time. There can only be one.",
-    "date": "Tue, 29 Sep 2026 23:46:49 +0000",
-    "link": "https://www.pcgamer.com/games/fps/making-our-favorite-fps-modes-1v1-to-decide-the-greatest-of-them-all/",
+    "summary": "It works pretty well as a little manual recorder and editor.",
+    "date": "Wed, 30 Sep 2026 15:58:32 +0000",
+    "link": "https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.62,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.0,
+      "badge": "info"
     },
     "tags": [
-      "FPS"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "One of my all-time favorite games just announced an expansion, yet all I feel is fear",
+    "title": "Asus TUF Gaming A16 gaming laptop review",
     "source": "PC Gamer",
-    "summary": "More Satisfactory is a good thing. Why, then, do I feel this dread welling up inside me?",
-    "date": "Tue, 29 Sep 2026 23:15:21 +0000",
-    "link": "https://www.pcgamer.com/games/survival-crafting/one-of-my-all-time-favorite-games-just-announced-an-expansion-yet-all-i-feel-is-fear/",
+    "summary": "Probably the only mid-range gaming laptop I'd buy today.",
+    "date": "Wed, 30 Sep 2026 15:21:13 +0000",
+    "link": "https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-gaming-a16-review/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.57,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
-    "title": "The Biggest New Game Releases Of October 2026",
+    "title": "You Can Hate The Sonic Movies, But They Help The Games Get Made, Sega Says",
     "source": "GameSpot",
-    "summary": "If you thought September was a big month for new releases, then you ain't seen nothing yet. As the days tick down to the November launch of Grand Theft Auto 6, numerous games are looking to avoid being caught in the blast radius of the year's biggest release, which has led to an absolutely stacked O...",
-    "date": "Wed, 30 Sep 2026 12:00:00 +0000",
-    "link": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-october-2026/",
+    "summary": "Sonic has had a rough go at things lately, what with the myriad games that haven't been hitting like they used to. Sega appears to be aware of that and has acknowledged that, although the games have struggled recently, the franchise as a whole is back in the zeitgeist again--and it's all thanks to t...",
+    "date": "Wed, 30 Sep 2026 17:43:36 +0000",
+    "link": "https://www.gamespot.com/articles/you-can-hate-the-sonic-movies-but-they-help-the-games-get-made-sega-says/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.05,
+      "score": -0.07,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 18,
-    "title": "Alleged WoW: Forever Survey Teases 11 New Classes, Including Some Deep Cuts",
+    "title": "WoW: Forever Is Keeping More Than 12,500 Items Secret",
     "source": "GameSpot",
-    "summary": "World of Warcraft: Forever's new take on classic Azeroth is opening the door to all kinds of new ideas in the old-school version of Blizzard's MMORPG, and new classes look to be one of them.\nBlizzard, of course, has added a total of four new classes over the last two decades to the modern version of...",
-    "date": "Tue, 29 Sep 2026 19:43:28 +0000",
-    "link": "https://www.gamespot.com/articles/alleged-wow-forever-survey-teases-11-new-classes-including-some-deep-cuts/",
+    "summary": "World of Warcraft: Forever is looking to keep its secrets, as over 12,500 items in the game's files have been kept hidden from dataminers.\nThe WoW: Forever beta is currently in full swing, and in addition to new dungeons, abilities, and even a whole new playable race, players are quickly discovering...",
+    "date": "Wed, 30 Sep 2026 17:24:45 +0000",
+    "link": "https://www.gamespot.com/articles/wow-forever-is-keeping-more-than-12500-items-secret/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.09,
+      "score": 0.08,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 19,
-    "title": "GTA 6 Won’t Spoof Disney World, And That’s Too Bad",
+    "title": "Yes, Guile’s Street Fighter Movie Theme Goes With Everything",
     "source": "GameSpot",
-    "summary": "GTA 6 will not include its own spoof on one of Florida's most iconic venues: Walt Disney World. I adore all things Disney, including the parks. But I also appreciate and enjoy Rockstar's penchant for sarcasm and making fun of things. And Disney World? There is a lot to poke fun at. So I am a bit bum...",
-    "date": "Tue, 29 Sep 2026 19:24:02 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-wont-spoof-disney-world-and-thats-too-bad/",
+    "summary": "The Street Fighter movie is shaping up to be a love letter to Capcom's classic fighting game series, with its goofy action and costumes, but if there's one crucial element it's nailing, it's the franchise's sound. Specifically, Guile's iconic theme, which is legendary for its ability to complement a...",
+    "date": "Wed, 30 Sep 2026 16:47:31 +0000",
+    "link": "https://www.gamespot.com/articles/yes-guile-street-fighter-movie-theme-goes-with-everything/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.19,
+      "score": 0.31,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "CoD: Modern Warfare 4 Brings Back The Franchise’s Most Chaotic And Divisive Multiplayer Map",
+    "title": "PlayStation Plus Free Games For October 2026 Revealed",
     "source": "GameSpot",
-    "summary": "Activision has confirmed that one of the Call of Duty franchise's most notorious maps, Shipment, is coming back for this year's Modern Warfare 4.\nAfter fans spotted it in the newly released trailer for MW4's PC version, the Call of Duty account directly confirmed its return with a dedicated post. \nS...",
-    "date": "Tue, 29 Sep 2026 19:08:41 +0000",
-    "link": "https://www.gamespot.com/articles/cod-modern-warfare-4-brings-back-the-franchises-most-chaotic-and-divisive-multiplayer-map/",
+    "summary": "PlayStation has revealed this month's batch of free games for PlayStation Plus subscribers. All PS Plus members will be able to claim a trio of freebies starting October 6--F1 25, Hunt: Showdown 1896, and Earth Defense Force: World Brothers 2. If you haven't claimed September's PlayStation Plus free...",
+    "date": "Wed, 30 Sep 2026 10:46:01 +0000",
+    "link": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-october-2026/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.26,
+      "score": 0.34,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "PlayStation"
     ],
     "read_time": "1 min read"
   }
