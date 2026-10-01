@@ -1,77 +1,131 @@
 [
   {
     "id": 1,
-    "title": "East of Eden Review",
+    "title": "'These Jobs Are Not Easy': Ex-Star Wars Boss Kathleen Kennedy Admits 'Relief' After Leaving Lucasfilm, Following Turbulent 14-Year Tenure",
     "source": "IGN",
-    "summary": "Beautifully shot and dramatically riveting, Netflix's East of Eden, starring Florence Pugh, Christopher Abbott and Mike Faist, is definitely binge-worthy TV.",
-    "date": "Thu, 1 Oct 2026 07:01:00 +0000",
-    "link": "https://www.ign.com/articles/east-of-eden-review-netflix-florence-pugh",
+    "summary": "Lucasfilm veteran Kathleen Kennedy has admitted she feels \"a bit of relief\" after stepping down from her role as the boss of Star Wars, following a long and often tumultuous run.",
+    "date": "Thu, 1 Oct 2026 16:43:47 +0000",
+    "link": "https://www.ign.com/articles/these-jobs-are-not-easy-ex-star-wars-boss-kathleen-kennedy-admits-relief-after-leaving-lucasfilm-following-turbulent-14-year-tenure",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.45,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.07,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "LEGO PlayStation Is Now Available for LEGO Insiders",
+    "title": "The Art of Metaphor: ReFantazio Book Is Now Available To Preorder, Out Next March",
     "source": "IGN",
-    "summary": "LEGO PlayStation is now available for LEGO Insiders, and it comes with a free Astro Bot Set. Here's how to become and Insider for free.",
-    "date": "Thu, 1 Oct 2026 04:01:00 +0000",
-    "link": "https://www.ign.com/articles/lego-playstation-is-now-available-for-lego-insiders",
+    "summary": "The Art of Metaphor: ReFantazio art book is now available to preorder from select retailers for $50. Here's where you can preorder a copy ahead of its March 9 release date next year.",
+    "date": "Thu, 1 Oct 2026 16:23:45 +0000",
+    "link": "https://www.ign.com/articles/art-of-metaphor-refantazio-book-where-to-buy",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.4,
+      "score": 0.2,
       "badge": "success"
     },
     "tags": [
-      "PlayStation"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "\"Extraction is Still a Major Part of Marathon\" – Marathon Game Director Reassures Fans Main Game Mode Isn't Going Anywhere",
+    "title": "007 First Light's First DLC Out Now, Adds New Game Plus",
     "source": "IGN",
-    "summary": "Just last week, Marathon's developers laid out a new roadmap for the game that'd bring PvE and deathmatch modes to the game, but now Game Director Del Chafe has reassured fans that the extraction mode will not be sunsetted.",
-    "date": "Thu, 1 Oct 2026 00:41:28 +0000",
-    "link": "https://www.ign.com/articles/extraction-is-still-a-major-part-of-marathon-marathon-game-director-reassures-fans-main-game-mode-isnt-going-anywhere",
+    "summary": "The 007 First Light Extended Operations DLC launches for free today, and adds five different missions to the TacSim mode, along with New Game Plus, new outfits and a photo mode that was somehow missing from the game at launch.",
+    "date": "Thu, 1 Oct 2026 16:23:12 +0000",
+    "link": "https://www.ign.com/articles/007-first-lights-first-dlc-out-now-adds-new-game-plus",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.18,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "The Flexispot Lotus Swivel Rocker and Recliner Is on Clearance for $250 Plus Free Shipping",
+    "title": "GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect",
     "source": "IGN",
-    "summary": "Game in lounging comfort.",
-    "date": "Wed, 30 Sep 2026 22:15:00 +0000",
-    "link": "https://www.ign.com/articles/flexispot-xc6-swivel-rocker-recliner-chair-deal",
+    "summary": "In the most obvious turn of events, GTA 6 has officially been rated M for Mature by the ESRB, and it will of course include nudity.",
+    "date": "Thu, 1 Oct 2026 16:18:59 +0000",
+    "link": "https://www.ign.com/articles/gta-6-gets-official-esrb-rating-and-its-as-mature-as-youd-expect",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "Aion 2's imminent worldwide release could be huge as early access founders' packs outsell major games, and player numbers soar",
+    "source": "Eurogamer",
+    "summary": "Aion 2's much-awaited worldwide release is days away, following its release in Korea and Taiwan roughly a year ago. Despite this, the MMO has soared - high up Steam's most played game chart. Read more...",
+    "date": "Thu, 01 Oct 2026 15:11:16 +0000",
+    "link": "https://www.eurogamer.net/aion-2-western-release-steam-player-numbers",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "007 First Light gets free new DLC today, adding New Game Plus and Photo modes, new TacSim missions and more",
+    "source": "Eurogamer",
+    "summary": "James Bond game 007 First Light is getting free DLC today in an Extended Operations update. This adds much-asked-for features to the game - such as New Game Plus, a new harder difficulty mode, a photo mode - as well as more TacSim mission challenges and a couple of game adjustments Read more...",
+    "date": "Thu, 01 Oct 2026 14:28:56 +0000",
+    "link": "https://www.eurogamer.net/007-james-bond-first-light-free-dlc",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.1,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Ace Combat 8 developer apologises for Belkan War pre-order backlash, explains why it happened and vows to explore possible solutions",
+    "source": "Eurogamer",
+    "summary": "The early access launch of Ace Combat 8: Wings of Theve kicked off on a down note due to some confusion regarding one of the game's pre-order bonuses. Pre-orders of the flight action game include a copy of 2006's Ace Combat Zero: The Belkan War, but early adopters discovered it was not a standalone ...",
+    "date": "Thu, 01 Oct 2026 13:55:47 +0000",
+    "link": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-backlash-response",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
     "title": "Witcher 3 Remastered patch addressing \"various lighting adjustments\" rolls out",
     "source": "Eurogamer",
     "summary": "Since The Witcher 3: Wild Hunt - Remastered's launch earlier this week, the debate around its lighting changes - whether it's overly brightened and washed out - has waged on. Now, CD Projekt Red has rolled out a patch for PlayStation 5, Xbox Series X/S, and the game's PC Xbox Play Anywhere version, ...",
@@ -83,253 +137,202 @@
       "badge": "info"
     },
     "tags": [
-      "Patch",
       "PlayStation",
+      "Patch",
       "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "Krafton pulls the plug on another PUBG game, Black Budget, less than a year after it was announced",
-    "source": "Eurogamer",
-    "summary": "PUBG publisher Krafton announced today it is ending development of PUBG: Black Budget, the extraction shooter spin-off announced nearly a year ago. Read more...",
-    "date": "Thu, 01 Oct 2026 12:03:41 +0000",
-    "link": "https://www.eurogamer.net/krafton-pulls-the-plug-on-another-pubg-game-black-budget-less-than-a-year-after-it-was-announced",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "New Uncharted game reportedly in the works at Naughty Dog, and it's not a remake",
-    "source": "Eurogamer",
-    "summary": "Uncharted series developer Naughty Dog is reportedly early in development on a new game in the action-adventure series. That's according to a report from MP1st, which said the game is bringing back series protagonist Nathan Drake in some form, suggesting he may not be the game's lead. Read more...",
-    "date": "Thu, 01 Oct 2026 10:39:54 +0000",
-    "link": "https://www.eurogamer.net/new-uncharted-game-naughty-dog-report",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Here are our PS Plus monthly games for October 2026",
-    "source": "Eurogamer",
-    "summary": "Sony has revealed the games coming this month to PlayStation Plus, which are available to everyone from 6th October. Read more...",
-    "date": "Thu, 01 Oct 2026 10:39:11 +0000",
-    "link": "https://www.eurogamer.net/playstation-ps-plus-games-lineup-october-2026",
+    "id": 9,
+    "title": "Reacher Spinoff Neagley Officially Returning for Season 2",
+    "source": "Polygon",
+    "summary": "Neagley season 2 is officially confirmed for Prime Video, with the Reacher spinoff sitting at No.1 on Amazon's streaming charts.",
+    "date": "Thu, 01 Oct 2026 18:06:46 GMT",
+    "link": "https://www.polygon.com/neagley-season-2-reacher-spinoff-amazon-prime-video/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.45,
+      "score": 0.4,
       "badge": "success"
     },
     "tags": [
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "Halloween Has Officially Started in Fortnite as Hollow Knight and More Join the Game",
-    "source": "Polygon",
-    "summary": "Fortnite's annual Halloween event, Fortnitemares, is now live, filling the Item Shop with scary skins and the island with themed weapons and decor.",
-    "date": "Thu, 01 Oct 2026 10:38:41 GMT",
-    "link": "https://www.polygon.com/fortnite-halloween-event-fortnitemares-update/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "A Fan-Favorite League of Legends Champion Is Finally Joining Riftbound",
+    "title": "Star Trek: Strange New Worlds’ Season 4 Finale Was Almost the Show’s Last Episode",
     "source": "Polygon",
-    "summary": "Polygon can exclusively reveal the Champion Unit for Graves from League of Legends.",
-    "date": "Thu, 01 Oct 2026 10:00:15 GMT",
-    "link": "https://www.polygon.com/league-legends-riftbound-radiance-exclusive-reveal-graves-blasting-through/",
+    "summary": "Star Trek: Strange New Worlds team wrote season 4 finale 'Tomorrow's Enterprise' as a series finale before season 5 was confirmed",
+    "date": "Thu, 01 Oct 2026 18:00:19 GMT",
+    "link": "https://www.polygon.com/star-trek-strange-new-worlds-season-4-tomorrows-enterprise-series-finale/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.1,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "KPop Demon Hunters 2 Just Changed Netflix Movie Releases Forever",
+    "title": "Bird Time correct answers in Fire Emblem Fortune's Weave",
     "source": "Polygon",
-    "summary": "KPop Demon Hunters' impact continues to revolutionize Netflix even a year later, with the sequel getting a wide theatrical run.",
-    "date": "Thu, 01 Oct 2026 09:46:28 GMT",
-    "link": "https://www.polygon.com/kpop-demon-hunters-2-netflix-theater-release/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Dragon Ball Super: Beerus Officially Gets Its First Streaming Home",
-    "source": "Polygon",
-    "summary": "Dragon Ball Super: Beerus finally reveals its first international streaming platform: the upcoming anime remake will be available on Netflix.",
-    "date": "Thu, 01 Oct 2026 08:39:46 GMT",
-    "link": "https://www.polygon.com/dragon-ball-super-beerus-where-streaming-netflix/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.22,
-      "badge": "success"
-    },
-    "tags": [
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "The greatest RTS units of all time, determined by democracy",
-    "source": "PC Gamer",
-    "summary": "Make your vote count.",
-    "date": "Thu, 01 Oct 2026 11:30:00 +0000",
-    "link": "https://www.pcgamer.com/games/rts/the-greatest-rts-units-of-all-time-determined-by-democracy/",
+    "summary": "Here are the best Bird Time dialogue options and answers in Fire Emblem: Fortune's Weave so you can raise Eshmel's support level.",
+    "date": "Thu, 01 Oct 2026 17:53:12 GMT",
+    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-bird-time-correct-answers/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 1.0,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "The Witcher 3 Beats Most Fantasy Adaptations in Nearly Every Way",
+    "source": "Polygon",
+    "summary": "The Witcher 3 is a great adaptation of Andrzej Sapkowski's works, showing how to treat a beloved IP with respect while creating something new.",
+    "date": "Thu, 01 Oct 2026 17:46:24 GMT",
+    "link": "https://www.polygon.com/the-witcher-3-accurate-books-source-material/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.45,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "You can now buy more than 2,000 games for $5 or less on Steam",
+    "source": "PC Gamer",
+    "summary": "That's right: The 2026 Steam Autumn Sale is live.",
+    "date": "Thu, 01 Oct 2026 17:21:15 +0000",
+    "link": "https://www.pcgamer.com/games/steam-autumn-sale-2026/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.19,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "Motion blur vs film grain - which is worse?",
+    "title": "Grand Theft Auto 5 is a game about shapeshifting now. I don't make the rules",
     "source": "PC Gamer",
-    "summary": "It's time for round 2 of our worst graphical effects in games tournament.",
-    "date": "Thu, 01 Oct 2026 11:27:09 +0000",
-    "link": "https://www.pcgamer.com/hardware/motion-blur-vs-film-grain-which-is-worse/",
+    "summary": "I mean, I guess I sort of do.",
+    "date": "Thu, 01 Oct 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-5-is-a-game-about-shapeshifting-now-i-dont-make-the-rules/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.53,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.07,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "Have you heard of the critically acclaimed MMORPG… oh, Final Fantasy 11, that's new",
+    "title": "After a series of catastrophes where no-one could seem to roll well, I truly have no idea who's going to make it out of Critical Role's next episode",
     "source": "PC Gamer",
-    "summary": "The FF11 trial follows in the FF14 trial's footsteps.",
-    "date": "Thu, 01 Oct 2026 11:09:54 +0000",
-    "link": "https://www.pcgamer.com/games/mmo/have-you-heard-of-the-critically-acclaimed-mmorpg-oh-final-fantasy-11-thats-new/",
+    "summary": "I am on the edge of my seat.",
+    "date": "Thu, 01 Oct 2026 16:23:01 +0000",
+    "link": "https://www.pcgamer.com/movies-tv/after-a-series-of-catastrophes-where-no-one-could-seem-to-roll-well-i-truly-have-no-idea-whos-going-to-make-it-out-of-critical-roles-next-episode/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.05,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "AMD's new 'Gainsborough' APU rumoured to be the chip that powers the long-awaited Steam Deck 2",
+    "title": "Resident Evil's executive producer explains the deeper meaning behind Requiem, and I just can't get on board",
     "source": "PC Gamer",
-    "summary": "As Final Fantasy 7 fans will know, it's 'Gainsborough' because 'Aerith Gainsborough'.",
-    "date": "Thu, 01 Oct 2026 10:22:35 +0000",
-    "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/amds-new-gainsborough-apu-rumoured-to-be-the-chip-that-powers-the-long-awaited-steam-deck-2/",
+    "summary": "I'm gnawing at the bars of my enclosure.",
+    "date": "Thu, 01 Oct 2026 16:22:45 +0000",
+    "link": "https://www.pcgamer.com/games/resident-evil/resident-evils-executive-producer-explains-the-deeper-meaning-behind-requiem-and-i-just-cant-get-on-board/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.7,
+      "badge": "danger"
     },
     "tags": [
-      "Steam",
-      "AMD"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
-    "title": "Resident Evil Requiem Producer “Explains” Game’s Title, Confusing Us More",
+    "title": "Blizzard Isn’t Fixing Diablo 4 Season 15’s Biggest Bug",
     "source": "GameSpot",
-    "summary": "The meaning of Resident Evil Requiem's title appeared to be self-evident when it was released earlier this year. However, Resident Evil producer Jun Takeuchi's explanation for the title from the recently published Biohazard 30th Anniversary Special may be a head-scratcher for even the series' diehar...",
-    "date": "Wed, 30 Sep 2026 21:00:33 +0000",
-    "link": "https://www.gamespot.com/articles/resident-evil-requiem-producer-explains-games-title-confusing-us-more/",
+    "summary": "Diablo 4 Season 15's biggest bug, one revolving around Hellfire Torch and being able to equip more Unique charms than should be possible, won't be fixed this season, Blizzard has announced.\nHellfire Torch is a new Unique charm that counts as an extra set charm and comes with some great beneficial st...",
+    "date": "Thu, 01 Oct 2026 17:53:29 +0000",
+    "link": "https://www.gamespot.com/articles/blizzard-isnt-fixing-diablo-4-season-15s-biggest-bug/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.32,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.31,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 18,
-    "title": "The Splinter Cell Remake Is Still Lurking In The Shadows",
+    "title": "PS5 Just Got A PS5 Pro-Like AI Upgrade, But Don’t Expect It Everywhere Yet",
     "source": "GameSpot",
-    "summary": "A remake of the original Splinter Cell game was first announced nearly five years ago, and since then, we've seen exactly zero seconds of the game in action, or even a trailer. However, as we know with Sam Fisher, silence can be deceiving, and it looks like Ubisoft is actively recruiting for several...",
-    "date": "Wed, 30 Sep 2026 18:41:08 +0000",
-    "link": "https://www.gamespot.com/articles/the-splinter-cell-remake-is-still-lurking-in-the-shadows/",
+    "summary": "The base PS5 console is no slouch when it comes to games, but compared to the PS5 Pro, it doesn't pack the same visual punch. That could change soon, as Sony has unveiled a new AI-upscaling upgrade for the older machine called Spectral Super Resolution (QSSR). Like PlayStation Spectral Super Resolut...",
+    "date": "Thu, 01 Oct 2026 17:04:53 +0000",
+    "link": "https://www.gamespot.com/articles/ps5-just-got-a-ps5-pro-like-ai-upgrade-but-dont-expect-it-everywhere-yet/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.02,
       "badge": "info"
     },
     "tags": [
-      "Remake"
+      "PlayStation",
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 19,
-    "title": "Xbox CEO Insists It’s Not For Sale Amid Studio Closures, Layoffs",
+    "title": "The Xbox Cloud Gaming Controller Is Dead, Apparently",
     "source": "GameSpot",
-    "summary": "The \"Xbox reset\" has people wondering whether Microsoft is preparing to exit the video game business, but Xbox CEO Asha Sharma has flatly denied that the gaming division will be put up for sale.\n\"Xbox is not for sale,\" Sharma said to The New York Times. \"We will do whatever it takes to set the compa...",
-    "date": "Wed, 30 Sep 2026 18:11:12 +0000",
-    "link": "https://www.gamespot.com/articles/xbox-ceo-insists-its-not-for-sale-amid-studio-closures-layoffs/",
+    "summary": "Microsoft agreed to several big changes to appease regulators in its effort to get the blockbuster $75.4 billion deal to buy Activision Blizzard approved, including tweaks to its cloud-gaming projects. Now, more than a year later, we're still learning more about this, including a new claim from The ...",
+    "date": "Thu, 01 Oct 2026 16:25:57 +0000",
+    "link": "https://www.gamespot.com/articles/the-xbox-cloud-gaming-controller-is-dead-apparently/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.1,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
     },
     "tags": [
       "Xbox"
@@ -338,19 +341,19 @@
   },
   {
     "id": 20,
-    "title": "You Can Hate The Sonic Movies, But They Help The Games Get Made, Sega Says",
+    "title": "Gears Of War: E-Day Has A Clever Solution To One Of PC Gaming’s Biggest Annoyances",
     "source": "GameSpot",
-    "summary": "Sonic has had a rough go at things lately, what with the myriad games that haven't been hitting like they used to. Sega appears to be aware of that and has acknowledged that, although the games have struggled recently, the franchise as a whole is back in the zeitgeist again--and it's all thanks to t...",
-    "date": "Wed, 30 Sep 2026 17:43:36 +0000",
-    "link": "https://www.gamespot.com/articles/you-can-hate-the-sonic-movies-but-they-help-the-games-get-made-sega-says/",
+    "summary": "Early access for Gears of War: E-Day has kicked off for anyone who bought the Premium Edition, and if you're on PC, you're probably dreading the traditional shader compilation wait that comes with it. There's good news, as Gears of War: E-Day supports a neat feature on this platform that cuts down o...",
+    "date": "Thu, 01 Oct 2026 16:13:46 +0000",
+    "link": "https://www.gamespot.com/articles/gears-of-war-e-day-has-a-clever-solution-to-one-of-pc-gamings-biggest-annoyances/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
