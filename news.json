@@ -1,6 +1,24 @@
 [
   {
     "id": 1,
+    "title": "\"Extraction is Still a Major Part of Marathon\" – Marathon Game Director Reassures Fans Main Game Mode Isn't Going Anywhere",
+    "source": "IGN",
+    "summary": "Just last week, Marathon's developers laid out a new roadmap for the game that'd bring PvE and deathmatch modes to the game, but now Game Director Del Chafe has reassured fans that the extraction mode will not be sunsetted.",
+    "date": "Thu, 1 Oct 2026 00:41:28 +0000",
+    "link": "https://www.ign.com/articles/extraction-is-still-a-major-part-of-marathon-marathon-game-director-reassures-fans-main-game-mode-isnt-going-anywhere",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.18,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
     "title": "The Flexispot Lotus Swivel Rocker and Recliner Is on Clearance for $250 Plus Free Shipping",
     "source": "IGN",
     "summary": "Game in lounging comfort.",
@@ -12,13 +30,13 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "The Witcher 3: Wild Hunt Remastered Review Update",
     "source": "IGN",
     "summary": "The best this already amazing RPG has ever been.",
@@ -35,7 +53,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "The Moza R5 Racing Wheel Offers 5.5Nm of Direct Drive Force Feedback for an Affordable Price",
     "source": "IGN",
     "summary": "Now on sale at Best Buy.",
@@ -47,26 +65,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "A Ton of Legend of Zelda T-Shirts Are Getting Price Cuts for Amazon Prime Members",
-    "source": "IGN",
-    "summary": "",
-    "date": "Wed, 30 Sep 2026 21:59:42 +0000",
-    "link": "https://www.ign.com/articles/a-ton-of-legend-of-zelda-t-shirts-are-getting-price-cuts-for-amazon-prime-members",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -83,8 +83,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -118,8 +118,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -142,50 +142,33 @@
   },
   {
     "id": 9,
-    "title": "Can Xbox save Halo? | Point It Out!",
+    "title": "60 Years After Her Peanuts Debut, Peppermint Patty Is Still the Best Friend Charlie Brown Ever Had",
     "source": "Polygon",
-    "summary": "Oli Welsh joins the Point It Out! crew to discuss Xbox CEO Asha Sharma's decision to gut the Halo team and move the Halo franchise to Activision.",
-    "date": "Wed, 30 Sep 2026 23:00:15 GMT",
-    "link": "https://www.polygon.com/video/can-xbox-save-halo-point-it-out/",
+    "summary": "Marcie, Patty, and Chuck could've been a dream team",
+    "date": "Thu, 01 Oct 2026 04:00:20 GMT",
+    "link": "https://www.polygon.com/peppermint-patty-best-friend-charlie-brown-peanuts/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 1.0,
+      "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Ace Combat 8’s Stellar Multiplayer Reveals the Terrors of Live-Service Games",
+    "title": "6 Switch 2 Games Releasing in October 2026 You Officially Cannot Miss",
     "source": "Polygon",
-    "summary": "Ace Combat 8: Wings of Theve features terrific multiplayer, but it's wrapped in a frustrating live-service package.",
-    "date": "Wed, 30 Sep 2026 23:00:15 GMT",
-    "link": "https://www.polygon.com/ace-combat-8-online-impressions/",
+    "summary": "Nintendo Switch 2 has a busy month ahead including Switch Sports Resort, Call of Duty, Resident Evil, Final Fantasy, and more.",
+    "date": "Thu, 01 Oct 2026 02:00:27 GMT",
+    "link": "https://www.polygon.com/new-switch-2-games-releases-october-2026/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.05,
+      "score": -0.1,
       "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Nintendo Isn't Afraid to Get Political with Fire Emblem: Fortune's Weave",
-    "source": "Polygon",
-    "summary": "Fire Emblem Fortune's Weave's story is a subtle but incisive piece of commentary about modern politics and the importance of history",
-    "date": "Wed, 30 Sep 2026 22:00:15 GMT",
-    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-politics-nintendo/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.18,
-      "badge": "danger"
     },
     "tags": [
       "Nintendo"
@@ -193,25 +176,76 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "10 Biggest GTA 6 Questions the Previews Haven't Answered Yet",
+    "id": 11,
+    "title": "Lego's Sony PlayStation Set Officially Launches This Week",
     "source": "Polygon",
-    "summary": "Who's in the cast? What's happening with GTA Online? We have questions after Rockstar's Netflix Grand Theft Auto 6 extended look.",
-    "date": "Wed, 30 Sep 2026 20:17:58 GMT",
-    "link": "https://www.polygon.com/gta-6-major-questions/",
+    "summary": "The Lego PlayStation set officially releases on Oct. 1 and includes Gran Turismo and Ape Escape Easter eggs.",
+    "date": "Thu, 01 Oct 2026 01:14:55 GMT",
+    "link": "https://www.polygon.com/lego-playstation-price-release-date-availability-october-2026/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "5 Xbox Games Releasing In October You Officially Can't Miss",
+    "source": "Polygon",
+    "summary": "Xbox owners are getting some bit games in October, including Gears of War: E-Day and Call of Duty: Modern Warfare 4.",
+    "date": "Thu, 01 Oct 2026 01:00:16 GMT",
+    "link": "https://www.polygon.com/new-xbox-games-october-2026/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.5,
+      "score": 0.2,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
+    "title": "We're probably not getting a new Fallout game until well into the 2030s, but that's no reason to stop talking about them",
+    "source": "PC Gamer",
+    "summary": "The bombs may fall for real before then.",
+    "date": "Thu, 01 Oct 2026 04:53:31 +0000",
+    "link": "https://www.pcgamer.com/games/fallout/were-probably-not-getting-a-new-fallout-game-until-well-into-the-2030s-but-thats-no-reason-to-stop-talking-about-them/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "TIL what may or may not be the oldest board game in recorded history is also, perhaps inevitably, now a roguelike",
+    "source": "PC Gamer",
+    "summary": "Oh!Ware on Steam slaps a little Slay the Spire onto a 5000-year-old game.",
+    "date": "Thu, 01 Oct 2026 00:16:35 +0000",
+    "link": "https://www.pcgamer.com/games/roguelike/til-what-may-or-may-not-be-the-oldest-board-game-in-recorded-history-is-also-perhaps-inevitably-now-a-roguelike/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.25,
+      "badge": "danger"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
     "title": "World of Warcraft: Forever survey pitches new classes to players, including Bard, Witch, and more",
     "source": "PC Gamer",
     "summary": "Blizzard might have plans to bring long-requested classes to the spinoff MMO.",
@@ -223,13 +257,13 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "Valve says Deadlock is still too unfinished to release publicly, but has hero cosmetics and new game modes in the works",
     "source": "PC Gamer",
     "summary": "A new development update leaves us with more questions than answers.",
@@ -241,44 +275,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Agony! Two life sims I really want to play launched back to back",
-    "source": "PC Gamer",
-    "summary": "How do you choose to spend your time when two games you've been waiting for show up at once?",
-    "date": "Wed, 30 Sep 2026 19:34:44 +0000",
-    "link": "https://www.pcgamer.com/games/life-sim/agony-two-life-sims-i-really-want-to-play-launched-back-to-back/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything",
-    "source": "PC Gamer",
-    "summary": "We're one step closer to \"Super Earth\" becoming a real thing.",
-    "date": "Wed, 30 Sep 2026 18:57:58 +0000",
-    "link": "https://www.pcgamer.com/software/ai/the-americans-have-officially-renamed-artificial-intelligence-to-super-intelligence-which-should-fix-everything/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -295,8 +293,8 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -347,8 +345,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
