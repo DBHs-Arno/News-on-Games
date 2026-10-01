@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "John Carpenter Calls 2011 The Thing Prequel a ‘Piece of Crap,’ but Some Fans Are Rushing to Its Defence",
+    "title": "The Flexispot Lotus Swivel Rocker and Recliner Is on Clearance for $250 Plus Free Shipping",
     "source": "IGN",
-    "summary": "Horror movie legend John Carpenter has slammed the 2011 The Thing prequel movie, calling it a “piece of crap.” But not all his fans are onboard with his take.",
-    "date": "Wed, 30 Sep 2026 11:22:13 +0000",
-    "link": "https://www.ign.com/articles/john-carpenter-calls-2011-the-thing-prequel-a-piece-of-crap-but-some-fans-are-rushing-to-its-defence",
+    "summary": "Game in lounging comfort.",
+    "date": "Wed, 30 Sep 2026 22:15:00 +0000",
+    "link": "https://www.ign.com/articles/flexispot-xc6-swivel-rocker-recliner-chair-deal",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.8,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -19,32 +19,32 @@
   },
   {
     "id": 2,
-    "title": "The Witcher 3 Remastered Nintendo Switch 2 Can Be Unlocked for Free Even if You Borrow a Switch Physical Copy From a Friend",
+    "title": "The Witcher 3: Wild Hunt Remastered Review Update",
     "source": "IGN",
-    "summary": "The Witcher 3 Remastered can be unlocked on Switch 2 for free via any physical version of the game for Switch — whether its your copy of the game or not.",
-    "date": "Wed, 30 Sep 2026 10:35:22 +0000",
-    "link": "https://www.ign.com/articles/the-witcher-3-remastered-nintendo-switch-2-can-be-unlocked-for-free-even-if-you-borrow-a-switch-physical-copy-from-a-friend",
+    "summary": "The best this already amazing RPG has ever been.",
+    "date": "Wed, 30 Sep 2026 22:07:44 +0000",
+    "link": "https://www.ign.com/articles/the-witcher-3-wild-hunt-remastered-review",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.57,
+      "badge": "success"
     },
     "tags": [
-      "Nintendo"
+      "RPG"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "GTA 6: Rockstar Developers Visited Strip Clubs and Rode Around at Night With Ex-Cops to Get First-Hand Florida Experience",
+    "title": "The Moza R5 Racing Wheel Offers 5.5Nm of Direct Drive Force Feedback for an Affordable Price",
     "source": "IGN",
-    "summary": "Rockstar Games has revealed the lengths it went to to gain first-hand experience of real-life Florida as part of research for GTA 6.",
-    "date": "Wed, 30 Sep 2026 10:18:17 +0000",
-    "link": "https://www.ign.com/articles/gta-6-rockstar-developers-visited-strip-clubs-and-rode-around-at-night-with-ex-cops-to-get-first-hand-florida-experience",
+    "summary": "Now on sale at Best Buy.",
+    "date": "Wed, 30 Sep 2026 22:00:00 +0000",
+    "link": "https://www.ign.com/articles/moza-r5-racing-wheel-deal-september-2026",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -54,11 +54,11 @@
   },
   {
     "id": 4,
-    "title": "Ghost Rider Star Nicolas Cage Calls the MCU a 'Well-Funded and Glorified WWE'",
+    "title": "A Ton of Legend of Zelda T-Shirts Are Getting Price Cuts for Amazon Prime Members",
     "source": "IGN",
-    "summary": "Nicolas Cage has issued his verdict on the Marvel Cinematic Universe, calling it a \"well-funded and glorified WWE,\" despite its use of top-tier acting talent.",
-    "date": "Wed, 30 Sep 2026 09:40:10 +0000",
-    "link": "https://www.ign.com/articles/ghost-rider-star-nicolas-cage-calls-the-mcu-a-well-funded-and-glorified-wwe",
+    "summary": "",
+    "date": "Wed, 30 Sep 2026 21:59:42 +0000",
+    "link": "https://www.ign.com/articles/a-ton-of-legend-of-zelda-t-shirts-are-getting-price-cuts-for-amazon-prime-members",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -72,6 +72,41 @@
   },
   {
     "id": 5,
+    "title": "Former Halo lead suggests three ways Activision could revive the legendary series, and urges the company to hire laid off Bungie staff",
+    "source": "Eurogamer",
+    "summary": "Halo's ex-franchise director, Frank O'Connor, has given Activision a few pointers now that it's in charge of making the next Halo game with a \"purpose-built team.\" Top of the list, hire some devs who were laid off from Bungie and Halo Studios. Read more...",
+    "date": "Wed, 30 Sep 2026 19:26:32 +0000",
+    "link": "https://www.eurogamer.net/halo-lead-activision-revive-hire-bungie-developers",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "\"Xbox is not for sale\": CEO Asha Sharma says \"we will do whatever it takes\" to turn the console maker's fortunes around",
+    "source": "Eurogamer",
+    "summary": "Despite mass layoffs at multiple first-party studios and major internal shakeups, CEO Asha Sharma has shot down speculation about a potential Xbox buyout. Read more...",
+    "date": "Wed, 30 Sep 2026 18:35:09 +0000",
+    "link": "https://www.eurogamer.net/xbox-not-for-sale-ceo-asha-sharma-console",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
     "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
     "source": "Eurogamer",
     "summary": "If you thought Red Dead Redemption 2's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and \"re-engineered our weather system\" for GTA 6. Hurricanes, rainbows and \"vertiginous cumulonimbus clouds\" are all part of the upcoming open worlder...",
@@ -89,7 +124,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "It's not even out yet, but Valve's Deadlock just became one of the most played games on Steam",
     "source": "Eurogamer",
     "summary": "Valve's new MOBA Deadlock - a sort of cross between Dota and Overwatch - might not be fully released yet, or even accessible by vast portions of the public,but that hasn't stopped its latest update propelling it to being one of the most played games on Steam. Read more...",
@@ -106,33 +141,32 @@
     "read_time": "1 min read"
   },
   {
-    "id": 7,
-    "title": "Tinker, Bard, Illusionist - Blizzard seemingly surveying World of Warcraft: Forever players about never-before-seen classes to add to the game",
-    "source": "Eurogamer",
-    "summary": "World of Warcraft: Forever players claim to have been sent a survey asking whether they'd be interested in a variety of new classes for the upcoming MMO - and  some of them are very interesting. Read more...",
-    "date": "Wed, 30 Sep 2026 14:18:14 +0000",
-    "link": "https://www.eurogamer.net/world-of-warcraft-forever-class-survey",
+    "id": 9,
+    "title": "Can Xbox save Halo? | Point It Out!",
+    "source": "Polygon",
+    "summary": "Oli Welsh joins the Point It Out! crew to discuss Xbox CEO Asha Sharma's decision to gut the Halo team and move the Halo franchise to Activision.",
+    "date": "Wed, 30 Sep 2026 23:00:15 GMT",
+    "link": "https://www.polygon.com/video/can-xbox-save-halo-point-it-out/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.23,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "\"My god this new lighting is lifeless\" - The Witcher 3 Remastered Edition divides players for a few key reasons",
-    "source": "Eurogamer",
-    "summary": "Yesterday's free Witcher 3: Wild Hunt - Remastered upgrade might have propelled the old role-playing game to new heights, in terms of player popularity, but not everyone is happy with what's changed. A particular point of contention concerns the game's new lighting changes, which some people think h...",
-    "date": "Wed, 30 Sep 2026 14:15:01 +0000",
-    "link": "https://www.eurogamer.net/witcher-3-remastered-community-reaction-lighting",
+    "id": 10,
+    "title": "Ace Combat 8’s Stellar Multiplayer Reveals the Terrors of Live-Service Games",
+    "source": "Polygon",
+    "summary": "Ace Combat 8: Wings of Theve features terrific multiplayer, but it's wrapped in a frustrating live-service package.",
+    "date": "Wed, 30 Sep 2026 23:00:15 GMT",
+    "link": "https://www.polygon.com/ace-combat-8-online-impressions/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.08,
+      "score": -0.05,
       "badge": "info"
     },
     "tags": [
@@ -142,15 +176,32 @@
     "read_time": "1 min read"
   },
   {
-    "id": 9,
-    "title": "Enter Polygon's Secretlab ATLAS Giveaway",
+    "id": 11,
+    "title": "Nintendo Isn't Afraid to Get Political with Fire Emblem: Fortune's Weave",
     "source": "Polygon",
-    "summary": "Our friends at Secretlab are partnering with Polygon's new podcast Point It Out!, and you could get a new chair out of it!",
-    "date": "Wed, 30 Sep 2026 18:08:18 GMT",
-    "link": "https://www.polygon.com/polygon-secretlab-atlas-giveaway-point-it-out/",
+    "summary": "Fire Emblem Fortune's Weave's story is a subtle but incisive piece of commentary about modern politics and the importance of history",
+    "date": "Wed, 30 Sep 2026 22:00:15 GMT",
+    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-politics-nintendo/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.18,
+      "badge": "danger"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "10 Biggest GTA 6 Questions the Previews Haven't Answered Yet",
+    "source": "Polygon",
+    "summary": "Who's in the cast? What's happening with GTA Online? We have questions after Rockstar's Netflix Grand Theft Auto 6 extended look.",
+    "date": "Wed, 30 Sep 2026 20:17:58 GMT",
+    "link": "https://www.polygon.com/gta-6-major-questions/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.17,
+      "score": 0.5,
       "badge": "success"
     },
     "tags": [
@@ -160,12 +211,30 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "Disclosure Day streaming release date: When will it come to digital, Peacock, Blu-ray, and DVD?",
-    "source": "Polygon",
-    "summary": "When will the new Steven Spielberg film come to streaming (Peacock), Blu-ray, and DVD? Here's what we know about Disclosure Day's release dates.",
-    "date": "Wed, 30 Sep 2026 17:51:18 GMT",
-    "link": "https://www.polygon.com/disclosure-day-streaming-release-date-peacock-netflix/",
+    "id": 13,
+    "title": "World of Warcraft: Forever survey pitches new classes to players, including Bard, Witch, and more",
+    "source": "PC Gamer",
+    "summary": "Blizzard might have plans to bring long-requested classes to the spinoff MMO.",
+    "date": "Wed, 30 Sep 2026 22:41:00 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-survey-pitches-new-classes-to-players-including-bard-witch-and-more/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.32,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Valve says Deadlock is still too unfinished to release publicly, but has hero cosmetics and new game modes in the works",
+    "source": "PC Gamer",
+    "summary": "A new development update leaves us with more questions than answers.",
+    "date": "Wed, 30 Sep 2026 20:52:39 +0000",
+    "link": "https://www.pcgamer.com/games/moba/valve-says-deadlock-is-still-too-unfinished-to-release-publicly-but-has-hero-cosmetics-and-new-game-modes-in-the-works/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.07,
@@ -178,15 +247,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 11,
-    "title": "GTA 6’s Wildlife Gameplay Might Do Something Red Dead 2 Never Could",
-    "source": "Polygon",
-    "summary": "Grand Theft Auto 6 will feature more than 170 unique animals. Here’s hoping there are some friendly, gun-free ways to enjoy them all",
-    "date": "Wed, 30 Sep 2026 17:48:41 GMT",
-    "link": "https://www.polygon.com/gta-6-wildlife-hunting-animals/",
+    "id": 15,
+    "title": "Agony! Two life sims I really want to play launched back to back",
+    "source": "PC Gamer",
+    "summary": "How do you choose to spend your time when two games you've been waiting for show up at once?",
+    "date": "Wed, 30 Sep 2026 19:34:44 +0000",
+    "link": "https://www.pcgamer.com/games/life-sim/agony-two-life-sims-i-really-want-to-play-launched-back-to-back/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything",
+    "source": "PC Gamer",
+    "summary": "We're one step closer to \"Super Earth\" becoming a real thing.",
+    "date": "Wed, 30 Sep 2026 18:57:58 +0000",
+    "link": "https://www.pcgamer.com/software/ai/the-americans-have-officially-renamed-artificial-intelligence-to-super-intelligence-which-should-fix-everything/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.28,
+      "score": 0.14,
       "badge": "success"
     },
     "tags": [
@@ -196,33 +283,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "WoW: Forever’s New Race Doesn't Fit into World of Warcraft At All",
-    "source": "Polygon",
-    "summary": "World of Warcraft: Forever's Skyborne elves are a forced invention that show the difficulty Blizzard will have adding to the classic game.",
-    "date": "Wed, 30 Sep 2026 17:30:17 GMT",
-    "link": "https://www.polygon.com/wow-world-of-warcraft-forever-beta-skyborne/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "To celebrate September 30, the day the cop inside of Leon Kennedy died, here's my most traumatic encounters in Resident Evil",
-    "source": "PC Gamer",
-    "summary": "This is in honour of the day Leon legally became a sad boy.",
-    "date": "Wed, 30 Sep 2026 17:02:57 +0000",
-    "link": "https://www.pcgamer.com/games/resident-evil/to-celebrate-september-30-the-day-the-cop-inside-of-leon-kennedy-died-heres-my-most-traumatic-encounters-in-resident-evil/",
+    "id": 17,
+    "title": "Resident Evil Requiem Producer “Explains” Game’s Title, Confusing Us More",
+    "source": "GameSpot",
+    "summary": "The meaning of Resident Evil Requiem's title appeared to be self-evident when it was released earlier this year. However, Resident Evil producer Jun Takeuchi's explanation for the title from the recently published Biohazard 30th Anniversary Special may be a head-scratcher for even the series' diehar...",
+    "date": "Wed, 30 Sep 2026 21:00:33 +0000",
+    "link": "https://www.gamespot.com/articles/resident-evil-requiem-producer-explains-games-title-confusing-us-more/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.2,
+      "score": -0.32,
       "badge": "danger"
     },
     "tags": [
@@ -232,60 +301,41 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
-    "title": "I have saved GTA 5 from death and also added tornadoes",
-    "source": "PC Gamer",
-    "summary": "These were two separate tasks.",
-    "date": "Wed, 30 Sep 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-have-saved-gta-5-from-death-and-also-added-tornadoes/",
+    "id": 18,
+    "title": "The Splinter Cell Remake Is Still Lurking In The Shadows",
+    "source": "GameSpot",
+    "summary": "A remake of the original Splinter Cell game was first announced nearly five years ago, and since then, we've seen exactly zero seconds of the game in action, or even a trailer. However, as we know with Sam Fisher, silence can be deceiving, and it looks like Ubisoft is actively recruiting for several...",
+    "date": "Wed, 30 Sep 2026 18:41:08 +0000",
+    "link": "https://www.gamespot.com/articles/the-splinter-cell-remake-is-still-lurking-in-the-shadows/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.02,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Remake"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "Thanks Logitech, your new AI-fueled game clipping software makes me look trash at Counter-Strike, but I'mma keep it installed",
-    "source": "PC Gamer",
-    "summary": "It works pretty well as a little manual recorder and editor.",
-    "date": "Wed, 30 Sep 2026 15:58:32 +0000",
-    "link": "https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/",
+    "id": 19,
+    "title": "Xbox CEO Insists It’s Not For Sale Amid Studio Closures, Layoffs",
+    "source": "GameSpot",
+    "summary": "The \"Xbox reset\" has people wondering whether Microsoft is preparing to exit the video game business, but Xbox CEO Asha Sharma has flatly denied that the gaming division will be put up for sale.\n\"Xbox is not for sale,\" Sharma said to The New York Times. \"We will do whatever it takes to set the compa...",
+    "date": "Wed, 30 Sep 2026 18:11:12 +0000",
+    "link": "https://www.gamespot.com/articles/xbox-ceo-insists-its-not-for-sale-amid-studio-closures-layoffs/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.0,
+      "score": -0.1,
       "badge": "info"
     },
     "tags": [
-      "AI"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "Asus TUF Gaming A16 gaming laptop review",
-    "source": "PC Gamer",
-    "summary": "Probably the only mid-range gaming laptop I'd buy today.",
-    "date": "Wed, 30 Sep 2026 15:21:13 +0000",
-    "link": "https://www.pcgamer.com/hardware/gaming-laptops/asus-tuf-gaming-a16-review/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
+    "id": 20,
     "title": "You Can Hate The Sonic Movies, But They Help The Games Get Made, Sega Says",
     "source": "GameSpot",
     "summary": "Sonic has had a rough go at things lately, what with the myriad games that haven't been hitting like they used to. Sega appears to be aware of that and has acknowledged that, although the games have struggled recently, the franchise as a whole is back in the zeitgeist again--and it's all thanks to t...",
@@ -299,59 +349,6 @@
     "tags": [
       "Gaming",
       "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "WoW: Forever Is Keeping More Than 12,500 Items Secret",
-    "source": "GameSpot",
-    "summary": "World of Warcraft: Forever is looking to keep its secrets, as over 12,500 items in the game's files have been kept hidden from dataminers.\nThe WoW: Forever beta is currently in full swing, and in addition to new dungeons, abilities, and even a whole new playable race, players are quickly discovering...",
-    "date": "Wed, 30 Sep 2026 17:24:45 +0000",
-    "link": "https://www.gamespot.com/articles/wow-forever-is-keeping-more-than-12500-items-secret/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "Yes, Guile’s Street Fighter Movie Theme Goes With Everything",
-    "source": "GameSpot",
-    "summary": "The Street Fighter movie is shaping up to be a love letter to Capcom's classic fighting game series, with its goofy action and costumes, but if there's one crucial element it's nailing, it's the franchise's sound. Specifically, Guile's iconic theme, which is legendary for its ability to complement a...",
-    "date": "Wed, 30 Sep 2026 16:47:31 +0000",
-    "link": "https://www.gamespot.com/articles/yes-guile-street-fighter-movie-theme-goes-with-everything/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.31,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "PlayStation Plus Free Games For October 2026 Revealed",
-    "source": "GameSpot",
-    "summary": "PlayStation has revealed this month's batch of free games for PlayStation Plus subscribers. All PS Plus members will be able to claim a trio of freebies starting October 6--F1 25, Hunt: Showdown 1896, and Earth Defense Force: World Brothers 2. If you haven't claimed September's PlayStation Plus free...",
-    "date": "Wed, 30 Sep 2026 10:46:01 +0000",
-    "link": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-october-2026/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.34,
-      "badge": "success"
-    },
-    "tags": [
-      "PlayStation"
     ],
     "read_time": "1 min read"
   }
