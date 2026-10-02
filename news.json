@@ -1,73 +1,73 @@
 [
   {
     "id": 1,
-    "title": "'These Jobs Are Not Easy': Ex-Star Wars Boss Kathleen Kennedy Admits 'Relief' After Leaving Lucasfilm, Following Turbulent 14-Year Tenure",
+    "title": "Lanterns Rakes In More Than 18 Million Views Per Episode Globally As Season Finale Approaches",
     "source": "IGN",
-    "summary": "Lucasfilm veteran Kathleen Kennedy has admitted she feels \"a bit of relief\" after stepping down from her role as the boss of Star Wars, following a long and often tumultuous run.",
-    "date": "Thu, 1 Oct 2026 16:43:47 +0000",
-    "link": "https://www.ign.com/articles/these-jobs-are-not-easy-ex-star-wars-boss-kathleen-kennedy-admits-relief-after-leaving-lucasfilm-following-turbulent-14-year-tenure",
+    "summary": "It’s safe to say that Lanterns is burning bright. The DCU series is raking in millions of views globally, competing with other HBO juggernauts like Euphoria and The Pitt.",
+    "date": "Thu, 1 Oct 2026 22:33:40 +0000",
+    "link": "https://www.ign.com/articles/lanterns-rakes-in-more-than-18-million-views-per-episode-globally-as-season-finale-approaches",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.26,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "The Art of Metaphor: ReFantazio Book Is Now Available To Preorder, Out Next March",
+    "title": "New GTA 6 Age Rating Confirms Game Will Feature Sex Scenes",
     "source": "IGN",
-    "summary": "The Art of Metaphor: ReFantazio art book is now available to preorder from select retailers for $50. Here's where you can preorder a copy ahead of its March 9 release date next year.",
-    "date": "Thu, 1 Oct 2026 16:23:45 +0000",
-    "link": "https://www.ign.com/articles/art-of-metaphor-refantazio-book-where-to-buy",
+    "summary": "GTA 6 will have sex scenes, according to a new listing from international ratings boards.",
+    "date": "Thu, 1 Oct 2026 22:14:08 +0000",
+    "link": "https://www.ign.com/articles/new-gta-6-age-rating-confirms-game-will-feature-sex-scenes",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "007 First Light's First DLC Out Now, Adds New Game Plus",
+    "title": "Miami Vice '85 Casts Walton Goggins in Villain Role",
     "source": "IGN",
-    "summary": "The 007 First Light Extended Operations DLC launches for free today, and adds five different missions to the TacSim mode, along with New Game Plus, new outfits and a photo mode that was somehow missing from the game at launch.",
-    "date": "Thu, 1 Oct 2026 16:23:12 +0000",
-    "link": "https://www.ign.com/articles/007-first-lights-first-dlc-out-now-adds-new-game-plus",
+    "summary": "Walton Goggins has joined the cast of Miami Vice '85. The actor will play a henchman/assassin acting on behalf of John Leguizamo's character, who is a cartel king and the lead villain in the film.",
+    "date": "Thu, 1 Oct 2026 22:01:43 +0000",
+    "link": "https://www.ign.com/articles/miami-vice-85-casts-walton-goggins-in-villain-role",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.07,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect",
+    "title": "Save $200 Off the Asus ROG Ally X Z1 Extreme Handheld Gaming PC With a Whopping 2TB of Storage",
     "source": "IGN",
-    "summary": "In the most obvious turn of events, GTA 6 has officially been rated M for Mature by the ESRB, and it will of course include nudity.",
-    "date": "Thu, 1 Oct 2026 16:18:59 +0000",
-    "link": "https://www.ign.com/articles/gta-6-gets-official-esrb-rating-and-its-as-mature-as-youd-expect",
+    "summary": "Also features 24GB of DDR5 RAM, dual USB ports, and a massive 80Wh battery.",
+    "date": "Thu, 1 Oct 2026 21:32:40 +0000",
+    "link": "https://www.ign.com/articles/asus-rog-ally-x-z1-extreme-handheld-gaming-pc-deal",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.06,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -101,8 +101,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -119,8 +119,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -145,87 +145,87 @@
   },
   {
     "id": 9,
-    "title": "Reacher Spinoff Neagley Officially Returning for Season 2",
+    "title": "'Verity' Ending Explained: How That Bonkers Final Twist Reshapes the Entire Movie",
     "source": "Polygon",
-    "summary": "Neagley season 2 is officially confirmed for Prime Video, with the Reacher spinoff sitting at No.1 on Amazon's streaming charts.",
-    "date": "Thu, 01 Oct 2026 18:06:46 GMT",
-    "link": "https://www.polygon.com/neagley-season-2-reacher-spinoff-amazon-prime-video/",
+    "summary": "Verity ending explained: what Lowen discovers in the final scene of the Colleen Hoover adaptation, and how it changes everything.",
+    "date": "Fri, 02 Oct 2026 00:00:15 GMT",
+    "link": "https://www.polygon.com/verity-ending-explained-spoilers/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Star Trek: Strange New Worlds’ Season 4 Finale Was Almost the Show’s Last Episode",
+    "title": "Gears of War: E-Day Is 100x More Fun Playing Co-op",
     "source": "Polygon",
-    "summary": "Star Trek: Strange New Worlds team wrote season 4 finale 'Tomorrow's Enterprise' as a series finale before season 5 was confirmed",
-    "date": "Thu, 01 Oct 2026 18:00:19 GMT",
-    "link": "https://www.polygon.com/star-trek-strange-new-worlds-season-4-tomorrows-enterprise-series-finale/",
+    "summary": "Gears of War: E-Day is the rare modern game that features a local co-op campaign. The Coalition devs tell Polygon it was mandatory.",
+    "date": "Thu, 01 Oct 2026 23:00:15 GMT",
+    "link": "https://www.polygon.com/gears-war-e-day-co-op-interview/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Bird Time correct answers in Fire Emblem Fortune's Weave",
+    "title": "5 Classic 'Unfilmable' Books That Should Never Get Adapted Into Movies",
     "source": "Polygon",
-    "summary": "Here are the best Bird Time dialogue options and answers in Fire Emblem: Fortune's Weave so you can raise Eshmel's support level.",
-    "date": "Thu, 01 Oct 2026 17:53:12 GMT",
-    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-bird-time-correct-answers/",
+    "summary": "Five literary classics that defy the traditional adaptation treatment.",
+    "date": "Thu, 01 Oct 2026 23:00:15 GMT",
+    "link": "https://www.polygon.com/classic-books-never-get-movie-adaptations/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 1.0,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "The Witcher 3 Beats Most Fantasy Adaptations in Nearly Every Way",
+    "title": "All active Aniimo codes list",
     "source": "Polygon",
-    "summary": "The Witcher 3 is a great adaptation of Andrzej Sapkowski's works, showing how to treat a beloved IP with respect while creating something new.",
-    "date": "Thu, 01 Oct 2026 17:46:24 GMT",
-    "link": "https://www.polygon.com/the-witcher-3-accurate-books-source-material/",
+    "summary": "Aniimo codes get you free Glimmer to spend in the in-game shop and some helpful level-up mats, too. These are all the active Aniimo codes",
+    "date": "Thu, 01 Oct 2026 21:35:16 GMT",
+    "link": "https://www.polygon.com/aniimo-codes-list-redeem-how-to/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.45,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.04,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "You can now buy more than 2,000 games for $5 or less on Steam",
+    "title": "There's something even scarier than Huggy Wuggy in the Playtime toy factory this weekend",
     "source": "PC Gamer",
-    "summary": "That's right: The 2026 Steam Autumn Sale is live.",
-    "date": "Thu, 01 Oct 2026 17:21:15 +0000",
-    "link": "https://www.pcgamer.com/games/steam-autumn-sale-2026/",
+    "summary": "Poppy Playtime's multiplayer prequel, Escape from Playtime, is in open beta on Steam until Sunday.",
+    "date": "Thu, 01 Oct 2026 22:33:50 +0000",
+    "link": "https://www.pcgamer.com/games/horror/theres-something-even-scarier-than-huggy-wuggy-in-the-playtime-toy-factory-this-weekend/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.19,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
       "Steam"
@@ -234,60 +234,96 @@
   },
   {
     "id": 14,
-    "title": "Grand Theft Auto 5 is a game about shapeshifting now. I don't make the rules",
+    "title": "There are so many games coming out in October you guys",
     "source": "PC Gamer",
-    "summary": "I mean, I guess I sort of do.",
-    "date": "Thu, 01 Oct 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-5-is-a-game-about-shapeshifting-now-i-dont-make-the-rules/",
+    "summary": "We're all spoiled by choice this month.",
+    "date": "Thu, 01 Oct 2026 22:32:52 +0000",
+    "link": "https://www.pcgamer.com/games/pc-game-release-dates-october-2026/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "After a series of catastrophes where no-one could seem to roll well, I truly have no idea who's going to make it out of Critical Role's next episode",
+    "title": "Masters of Albion, Peter Molyneux's final game, just got a huge update and, [vigorous, lips-pursed nodding of approval], suddenly the old god game magic is back",
     "source": "PC Gamer",
-    "summary": "I am on the edge of my seat.",
-    "date": "Thu, 01 Oct 2026 16:23:01 +0000",
-    "link": "https://www.pcgamer.com/movies-tv/after-a-series-of-catastrophes-where-no-one-could-seem-to-roll-well-i-truly-have-no-idea-whos-going-to-make-it-out-of-critical-roles-next-episode/",
+    "summary": "And there's a tantalising, titan-sized teaser included, too",
+    "date": "Thu, 01 Oct 2026 21:35:00 +0000",
+    "link": "https://www.pcgamer.com/games/strategy/masters-of-albion-peter-molyneuxs-final-game-just-got-a-huge-update-and-vigorous-lips-pursed-nodding-of-approval-suddenly-the-old-god-game-magic-is-back/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.03,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Resident Evil's executive producer explains the deeper meaning behind Requiem, and I just can't get on board",
+    "title": "If Ace Combat's too pricey, this excellent indie alternative is on sale for just $12.50",
     "source": "PC Gamer",
-    "summary": "I'm gnawing at the bars of my enclosure.",
-    "date": "Thu, 01 Oct 2026 16:22:45 +0000",
-    "link": "https://www.pcgamer.com/games/resident-evil/resident-evils-executive-producer-explains-the-deeper-meaning-behind-requiem-and-i-just-cant-get-on-board/",
+    "summary": "And it's got better out-of-the-box HOTAS and VR support, too.",
+    "date": "Thu, 01 Oct 2026 21:18:50 +0000",
+    "link": "https://www.pcgamer.com/games/action/if-ace-combats-too-pricey-this-excellent-indie-alternative-is-on-sale-for-just-usd12-50/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.7,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
+    "title": "PS5’s Exciting New Zelda-Like Kena Game Just Got Delayed",
+    "source": "GameSpot",
+    "summary": "Developer Ember Lab has announced that its upcoming PS5 game Kena: Scars of Kosmora, the sequel to 2021's much-loved Kena: Bridge of Spirits, has been delayed. The game--which gives off major Zelda vibes--was previously set to release this year, but now it's been delayed to 2027. \nIn a blog post, th...",
+    "date": "Thu, 01 Oct 2026 19:19:51 +0000",
+    "link": "https://www.gamespot.com/articles/ps5s-exciting-new-zelda-like-kena-game-just-got-delayed/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "GTA 6’s Weather System Sounds Like A Big Step Up",
+    "source": "GameSpot",
+    "summary": "Rockstar's Grand Theft Auto 6 includes a number of updates and improvements over the developer's past games, and that includes new weather systems.\nRockstar's vice president of art for lighting and rendering at Rockstar, Owen Shepherd, told Game Informer that the studio has \"re-engineered\" the studi...",
+    "date": "Thu, 01 Oct 2026 18:30:55 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6s-weather-system-sounds-like-a-big-step-up/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
     "title": "Blizzard Isn’t Fixing Diablo 4 Season 15’s Biggest Bug",
     "source": "GameSpot",
     "summary": "Diablo 4 Season 15's biggest bug, one revolving around Hellfire Torch and being able to equip more Unique charms than should be possible, won't be fixed this season, Blizzard has announced.\nHellfire Torch is a new Unique charm that counts as an extra set charm and comes with some great beneficial st...",
@@ -299,13 +335,13 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 18,
+    "id": 20,
     "title": "PS5 Just Got A PS5 Pro-Like AI Upgrade, But Don’t Expect It Everywhere Yet",
     "source": "GameSpot",
     "summary": "The base PS5 console is no slouch when it comes to games, but compared to the PS5 Pro, it doesn't pack the same visual punch. That could change soon, as Sony has unveiled a new AI-upscaling upgrade for the older machine called Spectral Super Resolution (QSSR). Like PlayStation Spectral Super Resolut...",
@@ -319,41 +355,6 @@
     "tags": [
       "PlayStation",
       "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "The Xbox Cloud Gaming Controller Is Dead, Apparently",
-    "source": "GameSpot",
-    "summary": "Microsoft agreed to several big changes to appease regulators in its effort to get the blockbuster $75.4 billion deal to buy Activision Blizzard approved, including tweaks to its cloud-gaming projects. Now, more than a year later, we're still learning more about this, including a new claim from The ...",
-    "date": "Thu, 01 Oct 2026 16:25:57 +0000",
-    "link": "https://www.gamespot.com/articles/the-xbox-cloud-gaming-controller-is-dead-apparently/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "Gears Of War: E-Day Has A Clever Solution To One Of PC Gaming’s Biggest Annoyances",
-    "source": "GameSpot",
-    "summary": "Early access for Gears of War: E-Day has kicked off for anyone who bought the Premium Edition, and if you're on PC, you're probably dreading the traditional shader compilation wait that comes with it. There's good news, as Gears of War: E-Day supports a neat feature on this platform that cuts down o...",
-    "date": "Thu, 01 Oct 2026 16:13:46 +0000",
-    "link": "https://www.gamespot.com/articles/gears-of-war-e-day-has-a-clever-solution-to-one-of-pc-gamings-biggest-annoyances/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
     ],
     "read_time": "1 min read"
   }
