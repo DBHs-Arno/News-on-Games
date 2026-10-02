@@ -1,155 +1,137 @@
 [
   {
     "id": 1,
-    "title": "'I've Buried It Deep': X-Men Actor Says He Knew Sony's Spider-Man Spinoff Kraven Wasn't 'Going Well' During Filming",
+    "title": "MTG’s Hobbit Cards Are the Closest Thing to Owning Rare Tolkien Memorabilia, and Perfect for Collectors",
     "source": "IGN",
-    "summary": "Marvel's new X-Men movie star Christopher Abbott has admitted that he knew Sony's Spider-Man spinoff Kraven the Hunter wasn't \"going well\" while on set.",
-    "date": "Fri, 2 Oct 2026 11:07:20 +0000",
-    "link": "https://www.ign.com/articles/ive-buried-it-deep-x-men-actor-says-he-knew-sonys-spider-man-spinoff-kraven-wasnt-going-well-during-filming",
+    "summary": "Here's why Magic: The Gathering’s small-ish Hobbit set somehow surpasses the massive Lord of the Rings crossover for die-hard Tolkien collectors, just one month after its release.",
+    "date": "Fri, 2 Oct 2026 16:30:00 +0000",
+    "link": "https://www.ign.com/articles/mtg-hobbit-set-versus-lord-of-the-rings",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.45,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "With a Smirk, Robert Pattinson Calls Michael Bay's Transformers 'The Definitive Movie of the 2000s'",
+    "title": "Today’s Top Deals: Xbox Elite Controller, Belkin Switch 2 Cases, and Bose QuietComfort Headphones",
     "source": "IGN",
-    "summary": "On YouTube show The List, presented by movie publisher A24 and Letterboxd, Robert Pattinson and Lance Oppenheim chatted about their favorite movies. During the chat, Pattinson namedropped Michael Bay’s Transformers as “the definitive movie of the 2000s.”",
-    "date": "Fri, 2 Oct 2026 11:05:49 +0000",
-    "link": "https://www.ign.com/articles/robert-pattinson-transformers-definitive-movie-2000s",
+    "summary": "Plus, pick up Pokémon TCG, MTG x Marvel, and more discounts as we head into the weekend.",
+    "date": "Fri, 2 Oct 2026 16:15:00 +0000",
+    "link": "https://www.ign.com/articles/best-deals-for-october-2-2026",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.5,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Modder Deliberately Corrupts Their Own Hugely Popular Total War: Warhammer III Mod as Row Over AI Escalates",
+    "title": "Disney+ Shows and Movies Are Now Headed to Netflix, Including Ice Age and Percy Jackson",
     "source": "IGN",
-    "summary": "The creator of one of the most popular Total War: Warhammer III mods ever has deliberately corrupted it so that it will no longer work with “unauthorized reuploads,” amid a row over the rights and wrongs of AI-generated modifications.",
-    "date": "Fri, 2 Oct 2026 10:09:30 +0000",
-    "link": "https://www.ign.com/articles/modder-deliberately-corrupts-their-own-hugely-popular-total-war-warhammer-iii-mod-as-row-over-ai-escalates",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.36,
-      "badge": "success"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "The 10 Most Valuable Cards in Magic: The Gathering Reality Fracture",
-    "source": "IGN",
-    "summary": "Here's our breakdown of the most expensive cards in Magic: The Gathering's brand-new expansion, Reality Fracture. That includes massive Facet Foil chase cards, $1,000 Echoverse hits, and a whole lot more to discuss.",
-    "date": "Fri, 2 Oct 2026 10:09:27 +0000",
-    "link": "https://www.ign.com/articles/mtg-reality-fracture-most-valuable-cards",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.28,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch",
-    "source": "Eurogamer",
-    "summary": "A second hotfix has been released for The Witcher 3 Remastered edition that directly addresses lighting concerns on PC, as well as a couple of other notable issues. Read more...",
-    "date": "Fri, 02 Oct 2026 11:09:05 +0000",
-    "link": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
-    },
-    "tags": [
-      "Patch"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Gears of War: E-Day is missing iconic features like chainsaw duels and meat shields, but The Coalition says we shouldn't worry - they're \"not gone from the franchise\"",
-    "source": "Eurogamer",
-    "summary": "Gears of War: E-Day arrived for early adopters yesterday, available for anyone who bought either the Premium Edition, Premium Upgrade Edition, or Collector's Edition version of the game. As it arrived, however, some players noted 'missing' features that have appeared in past Gears games, but not in ...",
-    "date": "Fri, 02 Oct 2026 10:56:20 +0000",
-    "link": "https://www.eurogamer.net/gears-of-war-eday-missing-features-update",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "PS5 gets \"AI-guided upscaling\" a bit like PS5 Pro's, and it's available now in Marvel's Wolverine and Ghost of Yotei",
-    "source": "Eurogamer",
-    "summary": "AI image upscaling is coming to PlayStation 5, Sony has announced, and it's available already in two games: Marvel's Wolverine and Ghost of Yotei. Read more...",
-    "date": "Fri, 02 Oct 2026 09:28:14 +0000",
-    "link": "https://www.eurogamer.net/ps5-ai-upscaling-qssr-marvels-wolverine-ghost-yotei",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.43,
-      "badge": "success"
-    },
-    "tags": [
-      "AI",
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Aion 2's imminent worldwide release could be huge as early access founders' packs outsell major games, and player numbers soar",
-    "source": "Eurogamer",
-    "summary": "Aion 2's much-awaited worldwide release is days away, following its release in Korea and Taiwan roughly a year ago. Despite this, the MMO has soared - high up Steam's most played game chart. Read more...",
-    "date": "Thu, 01 Oct 2026 15:11:16 +0000",
-    "link": "https://www.eurogamer.net/aion-2-western-release-steam-player-numbers",
+    "summary": "Disney plans to license a mix of legacy titles and currently-streaming TV shows to Netflix as part of a new deal between the two firms. In the deal, Netflix will host select Disney content for its 325 million subscribers.",
+    "date": "Fri, 2 Oct 2026 16:10:59 +0000",
+    "link": "https://www.ign.com/articles/disney-licenses-netflix",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.14,
       "badge": "success"
     },
     "tags": [
-      "Steam"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 9,
-    "title": "Star Wars: Galactic Racer is the Best Arcade Racing Game in a Generation",
-    "source": "Polygon",
-    "summary": "The PS5, Xbox, and PC game blends roguelikes with Burnout, Wipeout, and F-Zero to brutal and brilliant effect",
-    "date": "Fri, 02 Oct 2026 12:00:15 GMT",
-    "link": "https://www.polygon.com/star-wars-galactic-racer-review-best-arcade-racing-game-in-a-generation/",
+    "id": 4,
+    "title": "James Gunn's DCU Reportedly Safe Following Paramount-Warner Bros. Merger, for Now at Least",
+    "source": "IGN",
+    "summary": "DC Studios co-CEOs James Gunn and Peter Safran will seemingly keep their vision for the DCU alive following the Paramount-Warner Bros. merger.",
+    "date": "Fri, 2 Oct 2026 15:53:56 +0000",
+    "link": "https://www.ign.com/articles/james-gunns-dcu-reportedly-safe-following-paramount-warner-bros-merger-for-now-at-least",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.04,
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "\"This is your Dreamcast moment\": Former PlayStation boss thinks Xbox needs to \"pick a lane\" with exclusive games to fix itself",
+    "source": "Eurogamer",
+    "summary": "Former PlayStation boss Shawn Layden has some thoughts on where Team Xbox is at right now and where the green machine can go from here, but the console maker needs to \"pick a lane\" with exclusive games, either way. Read more...",
+    "date": "Fri, 02 Oct 2026 17:56:08 +0000",
+    "link": "https://www.eurogamer.net/dreamcast-moment-former-playstation-boss-xbox-exclusive-games",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox",
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
+    "source": "Eurogamer",
+    "summary": "Warhorse Studios co-founder Martin Klima - the developer behind last year's historical RPG Kingdom Come: Deliverance 2 - is crossing his fingers for higher game prices, and he thinks GTA 6 might be the one to usher in a new normal. Read more...",
+    "date": "Fri, 02 Oct 2026 16:52:25 +0000",
+    "link": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included",
+    "source": "Eurogamer",
+    "summary": "Grand Theft Auto 6 may feature actual sex scenes. The suggestion comes from an age-rating description for GTA 6 on the PlayStation Store, which states - if viewing the New Zealand or Australian versions of the Store - there are \"sex scenes\" in the game. Read more...",
+    "date": "Fri, 02 Oct 2026 13:59:39 +0000",
+    "link": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.19,
+      "badge": "success"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge",
+    "source": "Eurogamer",
+    "summary": "We recently learned that Microsoft gave development of its next Halo game to Activision, where \"a new purpose-built team\" - separate from the teams working on Call of Duty - has been created to oversee the franchise going forward. Now, in a report from well-known Halo and Xbox insider Rebs Gaming, a...",
+    "date": "Fri, 02 Oct 2026 13:14:39 +0000",
+    "link": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.03,
       "badge": "info"
     },
     "tags": [
@@ -158,200 +140,217 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "Evil Dead and Get Out Directors Will Bring Another Internet Horror Sensation to the Big Screen",
+    "id": 9,
+    "title": "The Original 'Halo' Is Now Playable in Web Browsers With Multiplayer Support",
     "source": "Polygon",
-    "summary": "Chase Infiniti, Jordan Peele, and Sam Raimi join Portrait of God project as the horror short film moves into the production phase.",
-    "date": "Fri, 02 Oct 2026 11:43:18 GMT",
-    "link": "https://www.polygon.com/portrait-of-god-movie-deal-chase-infiniti-jordan-peeele-sam-raimi/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.3,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "New Pokémon Merch Is Literally out of This World",
-    "source": "Polygon",
-    "summary": "Now is the best time to celebrate World Space Week and your love for all things Pokémon with a new, exciting collaboration.",
-    "date": "Fri, 02 Oct 2026 11:02:50 GMT",
-    "link": "https://www.polygon.com/new-pokemon-merch-esa-collaboration/",
+    "summary": "The Xbox version of Halo is playable in a web browser as AI-driven decompilations and mashups flood social media.",
+    "date": "Fri, 02 Oct 2026 17:54:00 GMT",
+    "link": "https://www.polygon.com/halo-web-browser-ai-game-mods/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.41,
+      "score": 0.2,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox",
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "Watch the Disturbing French Horror Classic that Inspired Halloween",
+    "id": 10,
+    "title": "Disney Is Bringing Percy Jackson to a Streaming Competitor Ahead of Season 3 Premiere",
     "source": "Polygon",
-    "summary": "Georges Franju's Eyes Without a Face from 1960 has inspired John Carpenter and many others with its chilling mask imagery",
-    "date": "Fri, 02 Oct 2026 11:00:15 GMT",
-    "link": "https://www.polygon.com/eyes-without-a-face-best-halloween-horror-movies/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Star Wars: Galactic Racer review – Run-based bash racer with Burnout-style takedowns",
-    "source": "PC Gamer",
-    "summary": "F-Zero Company.",
-    "date": "Fri, 02 Oct 2026 12:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/racing/star-wars-galactic-racer-review/",
+    "summary": "Netflix has struck a deal with Disney to stream Percy Jackson and the Olympians ahead of the Disney+ show's season 3 premiere this November.",
+    "date": "Fri, 02 Oct 2026 17:24:34 GMT",
+    "link": "https://www.polygon.com/percy-jackson-and-the-olympians-disney-netflix-deal-season-3/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
-    "title": "In my quest to find the perfect mouse for me, I've ended up with two completely different ones",
-    "source": "PC Gamer",
-    "summary": "I guess I'm just picky.",
-    "date": "Fri, 02 Oct 2026 11:53:19 +0000",
-    "link": "https://www.pcgamer.com/hardware/gaming-mice/in-my-quest-to-find-the-perfect-mouse-for-me-ive-ended-up-with-two-completely-different-ones/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Metal desks nearly destroyed a Valorant tournament",
-    "source": "PC Gamer",
-    "summary": "And players have been urged to switch to wired mice.",
-    "date": "Fri, 02 Oct 2026 11:51:40 +0000",
-    "link": "https://www.pcgamer.com/hardware/gaming-mice/metal-desks-nearly-destroyed-a-valorant-tournament/",
+    "id": 11,
+    "title": "What is a flusher in Fortnite Chapter 7 Season 4?",
+    "source": "Polygon",
+    "summary": "Flushers are needed to complete Geno's story quest in Fortnite Chapter 7 Season 4. Find out what a flusher is and where you can find one.",
+    "date": "Fri, 02 Oct 2026 17:17:29 GMT",
+    "link": "https://www.polygon.com/fortnite-chapter-7-season-4-flusher-location-reveal-enemies-geno-quest/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.1,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Netflix's Biggest Anime of 2026 Breaks a 14-Year-Old Tradition, and Fans Are Furious",
+    "source": "Polygon",
+    "summary": "Steel Ball Run breaks JoJo's Bizarre Adventure's tradition of featuring iconic Western songs in its ending, sparking a big debate among fans.",
+    "date": "Fri, 02 Oct 2026 17:00:18 GMT",
+    "link": "https://www.polygon.com/steel-ball-run-jojo-music-ending-dead-or-alive-controversy/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.23,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "I added October-appropriate zombies to Grand Theft Auto 5",
+    "source": "PC Gamer",
+    "summary": "Brains, and so on.",
+    "date": "Fri, 02 Oct 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-added-october-appropriate-zombies-to-grand-theft-auto-5/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "The upcoming sim about making games is so deep your in-game game can even get cyberleeked",
+    "source": "PC Gamer",
+    "summary": "Let's Build a Dungeon isn't just about making a game, but all the stuff you have to deal with while making a game.",
+    "date": "Fri, 02 Oct 2026 16:13:24 +0000",
+    "link": "https://www.pcgamer.com/games/sim/the-upcoming-sim-about-making-games-is-so-deep-your-in-game-game-can-even-get-cyberleeked/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.3,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "A surprisingly in-depth dressmaking simulator has the cosy gamers in a chokehold",
+    "source": "PC Gamer",
+    "summary": "From original designs to surprisingly faithful recreations.",
+    "date": "Fri, 02 Oct 2026 16:05:38 +0000",
+    "link": "https://www.pcgamer.com/games/sim/a-surprisingly-in-depth-dressmaking-simulator-has-the-cosy-gamers-in-a-chokehold/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.59,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Riot needed absurd player counts 'in the high hundreds of thousands, if not millions' for 2XKO, dooming it from launch",
+    "title": "I'm going to teach you to love hidden object games",
     "source": "PC Gamer",
-    "summary": "The cost is too dang high.",
-    "date": "Fri, 02 Oct 2026 11:16:39 +0000",
-    "link": "https://www.pcgamer.com/games/fighting/riots-absurd-expectations-of-player-counts-in-the-high-hundreds-of-thousands-if-not-millions-doomed-2xko-from-the-start/",
+    "summary": "Or at least to respect them. I'd settle for that. And if you feel like embarking on a journey of discovery, I can help with that, too.",
+    "date": "Fri, 02 Oct 2026 14:48:25 +0000",
+    "link": "https://www.pcgamer.com/games/im-going-to-teach-you-to-love-hidden-object-games/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "GTA 6 Should “Blaze A Trail” To More Expensive Games, Dev Says",
+    "source": "GameSpot",
+    "summary": "Rockstar's GTA 6 is priced at $80 for its standard edition. Another voice has come forward to say they hope other teams follow suit and charge more for new games to help the industry at a time when developers are closing up shop, cancelling games, and laying off developers on a regular basis.\nMartin...",
+    "date": "Fri, 02 Oct 2026 17:17:15 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-should-blaze-a-trail-to-more-expensive-games-dev-says/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "GTA 6 Takes The Ridiculous World We Live In And Turns It Up To 11",
+    "source": "GameSpot",
+    "summary": "Video games are usually a few steps removed from reality, but with Grand Theft Auto 6, developer Rockstar Games aims to reflect and amplify the current state of the world with an \"over the top\" experience. As seen in the trailers and gameplay previews so far, GTA 6 is a contemporary game about doing...",
+    "date": "Fri, 02 Oct 2026 17:14:39 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-takes-the-ridiculous-world-we-live-in-and-turns-it-up-to-11/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "Xbox Game Pass Loses These 9 Games In October",
+    "source": "GameSpot",
+    "summary": "The start of the month usually brings several new Xbox Game Pass titles for subscribers, along with confirmation of which games will leave the subscription service in the coming days. This month, at least nine games will be leaving, including one of the best games of 2025, Clair Obscur: Expedition 3...",
+    "date": "Fri, 02 Oct 2026 16:34:36 +0000",
+    "link": "https://www.gamespot.com/articles/xbox-game-pass-loses-these-9-games-in-october/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": -0.06,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "PS5’s Exciting New Zelda-Like Kena Game Just Got Delayed",
-    "source": "GameSpot",
-    "summary": "Developer Ember Lab has announced that its upcoming PS5 game Kena: Scars of Kosmora, the sequel to 2021's much-loved Kena: Bridge of Spirits, has been delayed. The game--which gives off major Zelda vibes--was previously set to release this year, but now it's been delayed to 2027. \nIn a blog post, th...",
-    "date": "Thu, 01 Oct 2026 19:19:51 +0000",
-    "link": "https://www.gamespot.com/articles/ps5s-exciting-new-zelda-like-kena-game-just-got-delayed/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "GTA 6’s Weather System Sounds Like A Big Step Up",
-    "source": "GameSpot",
-    "summary": "Rockstar's Grand Theft Auto 6 includes a number of updates and improvements over the developer's past games, and that includes new weather systems.\nRockstar's vice president of art for lighting and rendering at Rockstar, Owen Shepherd, told Game Informer that the studio has \"re-engineered\" the studi...",
-    "date": "Thu, 01 Oct 2026 18:30:55 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6s-weather-system-sounds-like-a-big-step-up/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "Blizzard Isn’t Fixing Diablo 4 Season 15’s Biggest Bug",
-    "source": "GameSpot",
-    "summary": "Diablo 4 Season 15's biggest bug, one revolving around Hellfire Torch and being able to equip more Unique charms than should be possible, won't be fixed this season, Blizzard has announced.\nHellfire Torch is a new Unique charm that counts as an extra set charm and comes with some great beneficial st...",
-    "date": "Thu, 01 Oct 2026 17:53:29 +0000",
-    "link": "https://www.gamespot.com/articles/blizzard-isnt-fixing-diablo-4-season-15s-biggest-bug/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.31,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "PS5 Just Got A PS5 Pro-Like AI Upgrade, But Don’t Expect It Everywhere Yet",
+    "title": "In 5 Years, Will Netflix Still Be In Gaming? Here’s What The CEO Said",
     "source": "GameSpot",
-    "summary": "The base PS5 console is no slouch when it comes to games, but compared to the PS5 Pro, it doesn't pack the same visual punch. That could change soon, as Sony has unveiled a new AI-upscaling upgrade for the older machine called Spectral Super Resolution (QSSR). Like PlayStation Spectral Super Resolut...",
-    "date": "Thu, 01 Oct 2026 17:04:53 +0000",
-    "link": "https://www.gamespot.com/articles/ps5-just-got-a-ps5-pro-like-ai-upgrade-but-dont-expect-it-everywhere-yet/",
+    "summary": "Netflix has been experimenting with video games for a while, but is the streaming giant going to eventually drop out of gaming? That's the question Bloomberg's Lucas Shaw put to Netflix co-CEO Ted Sarandos at the Screentime event this week. \nRegarding whether Netflix will still host games in five ye...",
+    "date": "Fri, 02 Oct 2026 15:55:59 +0000",
+    "link": "https://www.gamespot.com/articles/in-5-years-will-netflix-still-be-in-gaming-heres-what-the-ceo-said/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.02,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "AI",
-      "PlayStation"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
