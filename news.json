@@ -1,78 +1,130 @@
 [
   {
     "id": 1,
-    "title": "HBO's War Season 1 Premiere Review and Recap",
+    "title": "'I've Buried It Deep': X-Men Actor Says He Knew Sony's Spider-Man Spinoff Kraven Wasn't 'Going Well' During Filming",
     "source": "IGN",
-    "summary": "Our recap and review of HBO's War series premiere, starring Dominic West and Sienna Miller as a high-profile divorce erupts into a vicious legal battle.",
-    "date": "Fri, 2 Oct 2026 02:00:00 +0000",
-    "link": "https://www.ign.com/articles/hbo-war-series-premiere-recap-review",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "Doom: The Dark Ages - Revelations Getting New 'Slaughter Mode' as Free Update Next Month",
-    "source": "IGN",
-    "summary": "Doom: The Dark Ages developer id Software has announced a new free update coming to the first-person shooter's Revelations DLC next month: an endless single-player \"Slaughter Mode.\"",
-    "date": "Fri, 2 Oct 2026 00:00:00 +0000",
-    "link": "https://www.ign.com/articles/doom-the-dark-ages-revelations-getting-new-slaughter-mode-as-free-update-next-month",
+    "summary": "Marvel's new X-Men movie star Christopher Abbott has admitted that he knew Sony's Spider-Man spinoff Kraven the Hunter wasn't \"going well\" while on set.",
+    "date": "Fri, 2 Oct 2026 11:07:20 +0000",
+    "link": "https://www.ign.com/articles/ive-buried-it-deep-x-men-actor-says-he-knew-sonys-spider-man-spinoff-kraven-wasnt-going-well-during-filming",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.07,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "With a Smirk, Robert Pattinson Calls Michael Bay's Transformers 'The Definitive Movie of the 2000s'",
+    "source": "IGN",
+    "summary": "On YouTube show The List, presented by movie publisher A24 and Letterboxd, Robert Pattinson and Lance Oppenheim chatted about their favorite movies. During the chat, Pattinson namedropped Michael Bay’s Transformers as “the definitive movie of the 2000s.”",
+    "date": "Fri, 2 Oct 2026 11:05:49 +0000",
+    "link": "https://www.ign.com/articles/robert-pattinson-transformers-definitive-movie-2000s",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Fast & Furious TV Show Greenlit at Peacock, With Vin Diesel as Executive Producer",
+    "title": "Modder Deliberately Corrupts Their Own Hugely Popular Total War: Warhammer III Mod as Row Over AI Escalates",
     "source": "IGN",
-    "summary": "The Fast & Furious films are getting their own television series, with none other than Vin Diesel himself serving as executive producer.",
-    "date": "Thu, 1 Oct 2026 23:37:56 +0000",
-    "link": "https://www.ign.com/articles/fast-furious-tv-show-greenlit-at-peacock-with-vin-diesel-as-executive-producer",
+    "summary": "The creator of one of the most popular Total War: Warhammer III mods ever has deliberately corrupted it so that it will no longer work with “unauthorized reuploads,” amid a row over the rights and wrongs of AI-generated modifications.",
+    "date": "Fri, 2 Oct 2026 10:09:30 +0000",
+    "link": "https://www.ign.com/articles/modder-deliberately-corrupts-their-own-hugely-popular-total-war-warhammer-iii-mod-as-row-over-ai-escalates",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.22,
+      "score": 0.36,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Viral Short Horror Film Portrait of God Gets Feature Length Movie Starring Chase Infiniti",
+    "title": "The 10 Most Valuable Cards in Magic: The Gathering Reality Fracture",
     "source": "IGN",
-    "summary": "Viral internet short film Portrait of God is getting the Hollywood treatment, with Chase Infiniti set to star in a feature length adaptation of the YouTube-famous horror video.",
-    "date": "Thu, 1 Oct 2026 23:09:57 +0000",
-    "link": "https://www.ign.com/articles/viral-short-horror-film-portrait-of-god-gets-feature-length-movie-starring-chase-infiniti",
+    "summary": "Here's our breakdown of the most expensive cards in Magic: The Gathering's brand-new expansion, Reality Fracture. That includes massive Facet Foil chase cards, $1,000 Echoverse hits, and a whole lot more to discuss.",
+    "date": "Fri, 2 Oct 2026 10:09:27 +0000",
+    "link": "https://www.ign.com/articles/mtg-reality-fracture-most-valuable-cards",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.28,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch",
+    "source": "Eurogamer",
+    "summary": "A second hotfix has been released for The Witcher 3 Remastered edition that directly addresses lighting concerns on PC, as well as a couple of other notable issues. Read more...",
+    "date": "Fri, 02 Oct 2026 11:09:05 +0000",
+    "link": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
+    },
+    "tags": [
+      "Patch"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Gears of War: E-Day is missing iconic features like chainsaw duels and meat shields, but The Coalition says we shouldn't worry - they're \"not gone from the franchise\"",
+    "source": "Eurogamer",
+    "summary": "Gears of War: E-Day arrived for early adopters yesterday, available for anyone who bought either the Premium Edition, Premium Upgrade Edition, or Collector's Edition version of the game. As it arrived, however, some players noted 'missing' features that have appeared in past Gears games, but not in ...",
+    "date": "Fri, 02 Oct 2026 10:56:20 +0000",
+    "link": "https://www.eurogamer.net/gears-of-war-eday-missing-features-update",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "PS5 gets \"AI-guided upscaling\" a bit like PS5 Pro's, and it's available now in Marvel's Wolverine and Ghost of Yotei",
+    "source": "Eurogamer",
+    "summary": "AI image upscaling is coming to PlayStation 5, Sony has announced, and it's available already in two games: Marvel's Wolverine and Ghost of Yotei. Read more...",
+    "date": "Fri, 02 Oct 2026 09:28:14 +0000",
+    "link": "https://www.eurogamer.net/ps5-ai-upscaling-qssr-marvels-wolverine-ghost-yotei",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.43,
+      "badge": "success"
+    },
+    "tags": [
+      "AI",
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
     "title": "Aion 2's imminent worldwide release could be huge as early access founders' packs outsell major games, and player numbers soar",
     "source": "Eurogamer",
     "summary": "Aion 2's much-awaited worldwide release is days away, following its release in Korea and Taiwan roughly a year ago. Despite this, the MMO has soared - high up Steam's most played game chart. Read more...",
@@ -89,198 +141,145 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "007 First Light gets free new DLC today, adding New Game Plus and Photo modes, new TacSim missions and more",
-    "source": "Eurogamer",
-    "summary": "James Bond game 007 First Light is getting free DLC today in an Extended Operations update. This adds much-asked-for features to the game - such as New Game Plus, a new harder difficulty mode, a photo mode - as well as more TacSim mission challenges and a couple of game adjustments Read more...",
-    "date": "Thu, 01 Oct 2026 14:28:56 +0000",
-    "link": "https://www.eurogamer.net/007-james-bond-first-light-free-dlc",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.1,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Ace Combat 8 developer apologises for Belkan War pre-order backlash, explains why it happened and vows to explore possible solutions",
-    "source": "Eurogamer",
-    "summary": "The early access launch of Ace Combat 8: Wings of Theve kicked off on a down note due to some confusion regarding one of the game's pre-order bonuses. Pre-orders of the flight action game include a copy of 2006's Ace Combat Zero: The Belkan War, but early adopters discovered it was not a standalone ...",
-    "date": "Thu, 01 Oct 2026 13:55:47 +0000",
-    "link": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-backlash-response",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Witcher 3 Remastered patch addressing \"various lighting adjustments\" rolls out",
-    "source": "Eurogamer",
-    "summary": "Since The Witcher 3: Wild Hunt - Remastered's launch earlier this week, the debate around its lighting changes - whether it's overly brightened and washed out - has waged on. Now, CD Projekt Red has rolled out a patch for PlayStation 5, Xbox Series X/S, and the game's PC Xbox Play Anywhere version, ...",
-    "date": "Thu, 01 Oct 2026 12:07:40 +0000",
-    "link": "https://www.eurogamer.net/witcher-3-lighting-brightness-patch-remastered",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "Xbox",
-      "Patch",
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 9,
-    "title": "Buffy Meets Hannibal In the Cult Classic Detective Series Streaming Free on YouTube",
+    "title": "Star Wars: Galactic Racer is the Best Arcade Racing Game in a Generation",
     "source": "Polygon",
-    "summary": "iZombie is free to stream on YouTube, making now the perfect time to revisit this creative twist on the zombie genre.",
-    "date": "Fri, 02 Oct 2026 05:45:15 GMT",
-    "link": "https://www.polygon.com/izombie-streaming-free-youtube-october-2026/",
+    "summary": "The PS5, Xbox, and PC game blends roguelikes with Burnout, Wipeout, and F-Zero to brutal and brilliant effect",
+    "date": "Fri, 02 Oct 2026 12:00:15 GMT",
+    "link": "https://www.polygon.com/star-wars-galactic-racer-review-best-arcade-racing-game-in-a-generation/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.49,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.04,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "'Digger' Ending Explained: A Spoiler-Filled Breakdown of Tom Cruise's Wild New Movie",
+    "title": "Evil Dead and Get Out Directors Will Bring Another Internet Horror Sensation to the Big Screen",
     "source": "Polygon",
-    "summary": "Digger's first big twist ruins the movie. The second one saves it. Let's talk spoilers.",
-    "date": "Fri, 02 Oct 2026 01:01:25 GMT",
-    "link": "https://www.polygon.com/digger-ending-explained-spoilers/",
+    "summary": "Chase Infiniti, Jordan Peele, and Sam Raimi join Portrait of God project as the horror short film moves into the production phase.",
+    "date": "Fri, 02 Oct 2026 11:43:18 GMT",
+    "link": "https://www.polygon.com/portrait-of-god-movie-deal-chase-infiniti-jordan-peeele-sam-raimi/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.3,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "'Verity' Ending Explained: How That Bonkers Final Twist Reshapes the Entire Movie",
+    "title": "New Pokémon Merch Is Literally out of This World",
     "source": "Polygon",
-    "summary": "Verity ending explained: what Lowen discovers in the final scene of the Colleen Hoover adaptation, and how it changes everything.",
-    "date": "Fri, 02 Oct 2026 00:00:15 GMT",
-    "link": "https://www.polygon.com/verity-ending-explained-spoilers/",
+    "summary": "Now is the best time to celebrate World Space Week and your love for all things Pokémon with a new, exciting collaboration.",
+    "date": "Fri, 02 Oct 2026 11:02:50 GMT",
+    "link": "https://www.polygon.com/new-pokemon-merch-esa-collaboration/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.41,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "Gears of War: E-Day Is 100x More Fun Playing Co-op",
+    "title": "Watch the Disturbing French Horror Classic that Inspired Halloween",
     "source": "Polygon",
-    "summary": "Gears of War: E-Day is the rare modern game that features a local co-op campaign. The Coalition devs tell Polygon it was mandatory.",
-    "date": "Thu, 01 Oct 2026 23:00:15 GMT",
-    "link": "https://www.polygon.com/gears-war-e-day-co-op-interview/",
+    "summary": "Georges Franju's Eyes Without a Face from 1960 has inspired John Carpenter and many others with its chilling mask imagery",
+    "date": "Fri, 02 Oct 2026 11:00:15 GMT",
+    "link": "https://www.polygon.com/eyes-without-a-face-best-halloween-horror-movies/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.07,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "After a record-breaking September, 'it's safe to say Steam's yearly revenue will blow past $20B for the first time'",
+    "title": "Star Wars: Galactic Racer review – Run-based bash racer with Burnout-style takedowns",
     "source": "PC Gamer",
-    "summary": "Alinea Analytics points out that Steam's not slowing down.",
-    "date": "Fri, 02 Oct 2026 02:50:39 +0000",
-    "link": "https://www.pcgamer.com/software/platforms/after-a-record-breaking-september-its-safe-to-say-steams-yearly-revenue-will-blow-past-usd20b-for-the-first-time/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "9 new 2026 games on sale in the Steam Autumn Sale",
-    "source": "PC Gamer",
-    "summary": "Including three $70 games that are now under $50.",
-    "date": "Fri, 02 Oct 2026 00:46:56 +0000",
-    "link": "https://www.pcgamer.com/software/platforms/9-new-2026-games-on-sale-in-the-steam-autumn-sale/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "There's something even scarier than Huggy Wuggy in the Playtime toy factory this weekend",
-    "source": "PC Gamer",
-    "summary": "Poppy Playtime's multiplayer prequel, Escape from Playtime, is in open beta on Steam until Sunday.",
-    "date": "Thu, 01 Oct 2026 22:33:50 +0000",
-    "link": "https://www.pcgamer.com/games/horror/theres-something-even-scarier-than-huggy-wuggy-in-the-playtime-toy-factory-this-weekend/",
+    "summary": "F-Zero Company.",
+    "date": "Fri, 02 Oct 2026 12:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/racing/star-wars-galactic-racer-review/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Steam"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "There are so many games coming out in October you guys",
+    "id": 14,
+    "title": "In my quest to find the perfect mouse for me, I've ended up with two completely different ones",
     "source": "PC Gamer",
-    "summary": "We're all spoiled by choice this month.",
-    "date": "Thu, 01 Oct 2026 22:32:52 +0000",
-    "link": "https://www.pcgamer.com/games/pc-game-release-dates-october-2026/",
+    "summary": "I guess I'm just picky.",
+    "date": "Fri, 02 Oct 2026 11:53:19 +0000",
+    "link": "https://www.pcgamer.com/hardware/gaming-mice/in-my-quest-to-find-the-perfect-mouse-for-me-ive-ended-up-with-two-completely-different-ones/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.5,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Metal desks nearly destroyed a Valorant tournament",
+    "source": "PC Gamer",
+    "summary": "And players have been urged to switch to wired mice.",
+    "date": "Fri, 02 Oct 2026 11:51:40 +0000",
+    "link": "https://www.pcgamer.com/hardware/gaming-mice/metal-desks-nearly-destroyed-a-valorant-tournament/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Riot needed absurd player counts 'in the high hundreds of thousands, if not millions' for 2XKO, dooming it from launch",
+    "source": "PC Gamer",
+    "summary": "The cost is too dang high.",
+    "date": "Fri, 02 Oct 2026 11:16:39 +0000",
+    "link": "https://www.pcgamer.com/games/fighting/riots-absurd-expectations-of-player-counts-in-the-high-hundreds-of-thousands-if-not-millions-doomed-2xko-from-the-start/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -297,8 +296,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -315,8 +314,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -333,8 +332,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
