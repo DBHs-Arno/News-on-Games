@@ -1,73 +1,73 @@
 [
   {
     "id": 1,
-    "title": "Lanterns Rakes In More Than 18 Million Views Per Episode Globally As Season Finale Approaches",
+    "title": "HBO's War Season 1 Premiere Review and Recap",
     "source": "IGN",
-    "summary": "It’s safe to say that Lanterns is burning bright. The DCU series is raking in millions of views globally, competing with other HBO juggernauts like Euphoria and The Pitt.",
-    "date": "Thu, 1 Oct 2026 22:33:40 +0000",
-    "link": "https://www.ign.com/articles/lanterns-rakes-in-more-than-18-million-views-per-episode-globally-as-season-finale-approaches",
+    "summary": "Our recap and review of HBO's War series premiere, starring Dominic West and Sienna Miller as a high-profile divorce erupts into a vicious legal battle.",
+    "date": "Fri, 2 Oct 2026 02:00:00 +0000",
+    "link": "https://www.ign.com/articles/hbo-war-series-premiere-recap-review",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.26,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "New GTA 6 Age Rating Confirms Game Will Feature Sex Scenes",
+    "title": "Doom: The Dark Ages - Revelations Getting New 'Slaughter Mode' as Free Update Next Month",
     "source": "IGN",
-    "summary": "GTA 6 will have sex scenes, according to a new listing from international ratings boards.",
-    "date": "Thu, 1 Oct 2026 22:14:08 +0000",
-    "link": "https://www.ign.com/articles/new-gta-6-age-rating-confirms-game-will-feature-sex-scenes",
+    "summary": "Doom: The Dark Ages developer id Software has announced a new free update coming to the first-person shooter's Revelations DLC next month: an endless single-player \"Slaughter Mode.\"",
+    "date": "Fri, 2 Oct 2026 00:00:00 +0000",
+    "link": "https://www.ign.com/articles/doom-the-dark-ages-revelations-getting-new-slaughter-mode-as-free-update-next-month",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.03,
+      "score": 0.07,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Miami Vice '85 Casts Walton Goggins in Villain Role",
+    "title": "Fast & Furious TV Show Greenlit at Peacock, With Vin Diesel as Executive Producer",
     "source": "IGN",
-    "summary": "Walton Goggins has joined the cast of Miami Vice '85. The actor will play a henchman/assassin acting on behalf of John Leguizamo's character, who is a cartel king and the lead villain in the film.",
-    "date": "Thu, 1 Oct 2026 22:01:43 +0000",
-    "link": "https://www.ign.com/articles/miami-vice-85-casts-walton-goggins-in-villain-role",
+    "summary": "The Fast & Furious films are getting their own television series, with none other than Vin Diesel himself serving as executive producer.",
+    "date": "Thu, 1 Oct 2026 23:37:56 +0000",
+    "link": "https://www.ign.com/articles/fast-furious-tv-show-greenlit-at-peacock-with-vin-diesel-as-executive-producer",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.22,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "Viral Short Horror Film Portrait of God Gets Feature Length Movie Starring Chase Infiniti",
+    "source": "IGN",
+    "summary": "Viral internet short film Portrait of God is getting the Hollywood treatment, with Chase Infiniti set to star in a feature length adaptation of the YouTube-famous horror video.",
+    "date": "Thu, 1 Oct 2026 23:09:57 +0000",
+    "link": "https://www.ign.com/articles/viral-short-horror-film-portrait-of-god-gets-feature-length-movie-starring-chase-infiniti",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Save $200 Off the Asus ROG Ally X Z1 Extreme Handheld Gaming PC With a Whopping 2TB of Storage",
-    "source": "IGN",
-    "summary": "Also features 24GB of DDR5 RAM, dual USB ports, and a massive 80Wh battery.",
-    "date": "Thu, 1 Oct 2026 21:32:40 +0000",
-    "link": "https://www.ign.com/articles/asus-rog-ally-x-z1-extreme-handheld-gaming-pc-deal",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -101,8 +101,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -119,8 +119,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -137,14 +137,50 @@
       "badge": "info"
     },
     "tags": [
-      "PlayStation",
+      "Xbox",
       "Patch",
-      "Xbox"
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
+    "title": "Buffy Meets Hannibal In the Cult Classic Detective Series Streaming Free on YouTube",
+    "source": "Polygon",
+    "summary": "iZombie is free to stream on YouTube, making now the perfect time to revisit this creative twist on the zombie genre.",
+    "date": "Fri, 02 Oct 2026 05:45:15 GMT",
+    "link": "https://www.polygon.com/izombie-streaming-free-youtube-october-2026/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.49,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "'Digger' Ending Explained: A Spoiler-Filled Breakdown of Tom Cruise's Wild New Movie",
+    "source": "Polygon",
+    "summary": "Digger's first big twist ruins the movie. The second one saves it. Let's talk spoilers.",
+    "date": "Fri, 02 Oct 2026 01:01:25 GMT",
+    "link": "https://www.polygon.com/digger-ending-explained-spoilers/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
     "title": "'Verity' Ending Explained: How That Bonkers Final Twist Reshapes the Entire Movie",
     "source": "Polygon",
     "summary": "Verity ending explained: what Lowen discovers in the final scene of the Colleen Hoover adaptation, and how it changes everything.",
@@ -156,13 +192,13 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 10,
+    "id": 12,
     "title": "Gears of War: E-Day Is 100x More Fun Playing Co-op",
     "source": "Polygon",
     "summary": "Gears of War: E-Day is the rare modern game that features a local co-op campaign. The Coalition devs tell Polygon it was mandatory.",
@@ -174,49 +210,47 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 11,
-    "title": "5 Classic 'Unfilmable' Books That Should Never Get Adapted Into Movies",
-    "source": "Polygon",
-    "summary": "Five literary classics that defy the traditional adaptation treatment.",
-    "date": "Thu, 01 Oct 2026 23:00:15 GMT",
-    "link": "https://www.polygon.com/classic-books-never-get-movie-adaptations/",
+    "id": 13,
+    "title": "After a record-breaking September, 'it's safe to say Steam's yearly revenue will blow past $20B for the first time'",
+    "source": "PC Gamer",
+    "summary": "Alinea Analytics points out that Steam's not slowing down.",
+    "date": "Fri, 02 Oct 2026 02:50:39 +0000",
+    "link": "https://www.pcgamer.com/software/platforms/after-a-record-breaking-september-its-safe-to-say-steams-yearly-revenue-will-blow-past-usd20b-for-the-first-time/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.09,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "All active Aniimo codes list",
-    "source": "Polygon",
-    "summary": "Aniimo codes get you free Glimmer to spend in the in-game shop and some helpful level-up mats, too. These are all the active Aniimo codes",
-    "date": "Thu, 01 Oct 2026 21:35:16 GMT",
-    "link": "https://www.polygon.com/aniimo-codes-list-redeem-how-to/",
+    "id": 14,
+    "title": "9 new 2026 games on sale in the Steam Autumn Sale",
+    "source": "PC Gamer",
+    "summary": "Including three $70 games that are now under $50.",
+    "date": "Fri, 02 Oct 2026 00:46:56 +0000",
+    "link": "https://www.pcgamer.com/software/platforms/9-new-2026-games-on-sale-in-the-steam-autumn-sale/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.04,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 13,
+    "id": 15,
     "title": "There's something even scarier than Huggy Wuggy in the Playtime toy factory this weekend",
     "source": "PC Gamer",
     "summary": "Poppy Playtime's multiplayer prequel, Escape from Playtime, is in open beta on Steam until Sunday.",
@@ -233,7 +267,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "There are so many games coming out in October you guys",
     "source": "PC Gamer",
     "summary": "We're all spoiled by choice this month.",
@@ -245,44 +279,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Masters of Albion, Peter Molyneux's final game, just got a huge update and, [vigorous, lips-pursed nodding of approval], suddenly the old god game magic is back",
-    "source": "PC Gamer",
-    "summary": "And there's a tantalising, titan-sized teaser included, too",
-    "date": "Thu, 01 Oct 2026 21:35:00 +0000",
-    "link": "https://www.pcgamer.com/games/strategy/masters-of-albion-peter-molyneuxs-final-game-just-got-a-huge-update-and-vigorous-lips-pursed-nodding-of-approval-suddenly-the-old-god-game-magic-is-back/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "If Ace Combat's too pricey, this excellent indie alternative is on sale for just $12.50",
-    "source": "PC Gamer",
-    "summary": "And it's got better out-of-the-box HOTAS and VR support, too.",
-    "date": "Thu, 01 Oct 2026 21:18:50 +0000",
-    "link": "https://www.pcgamer.com/games/action/if-ace-combats-too-pricey-this-excellent-indie-alternative-is-on-sale-for-just-usd12-50/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -299,8 +297,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -317,8 +315,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -335,8 +333,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -353,8 +351,8 @@
       "badge": "info"
     },
     "tags": [
-      "PlayStation",
-      "AI"
+      "AI",
+      "PlayStation"
     ],
     "read_time": "1 min read"
   }
