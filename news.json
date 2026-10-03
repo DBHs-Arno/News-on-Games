@@ -1,6 +1,24 @@
 [
   {
     "id": 1,
+    "title": "Save Big On Tolkien's Lord of the Rings and Hobbit Books Ahead of Prime Day",
+    "source": "IGN",
+    "summary": "From The Silmarillion to The Lord of the Rings and beyond, J.R.R. Tolkien's works are discounted at Amazon right now",
+    "date": "Sat, 3 Oct 2026 08:40:36 +0000",
+    "link": "https://www.ign.com/articles/save-big-on-tolkiens-lord-of-the-rings-and-hobbit-books-ahead-of-prime-day",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
     "title": "Love and Deepspace Devs Issue Warning to Players After Deadly Drink Recipes Go Viral",
     "source": "IGN",
     "summary": "The official social media account for the popular RPG-dating sim Love and Deepspace issued a warning to players after announcing some fictional cocktails with potentially disastrous real-world consequences if actually consumed.",
@@ -17,7 +35,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine — ‘Our Goal Is a Future Where We Create Games Together With AI’",
     "source": "IGN",
     "summary": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an \"AI-generation game engine.\"",
@@ -34,7 +52,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Former NFL Coach Mike Tomlin Is a Hardcore Minecraft Player, Reveals City He Took 12 Years to Build",
     "source": "IGN",
     "summary": "Former NFL coach Mike Tomlin spent 19 seasons with the Pittsburgh Steelers and won Super Bowl LXIII, and now he's added another major accomplishment to his resume: becoming a Minecraft YouTuber.",
@@ -46,30 +64,66 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Best Buy Has the ASRock Radeon RX 9070 XT 16GB Graphics Card in Stock for $740",
-    "source": "IGN",
-    "summary": "Nearly as powerful as the GeForce RTX 5070 Ti for hundreds less.",
-    "date": "Fri, 2 Oct 2026 21:30:00 +0000",
-    "link": "https://www.ign.com/articles/asrock-radeon-rx-9070-xt-16gb-gpu-deal-september-2026",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.38,
-      "badge": "success"
-    },
-    "tags": [
-      "Graphics"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\"",
+    "source": "Eurogamer",
+    "summary": "Capcom wants to transform its in-house RE Engine into what it's calling an \"AI-generation game engine\". Read more...",
+    "date": "Sat, 03 Oct 2026 14:47:09 +0000",
+    "link": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Metro Redux's Next-Gen Update arrives this month as franchise passes 50 million sales",
+    "source": "Eurogamer",
+    "summary": "A free next-gen update is coming to Metro 2033 Redux and Metro Last Light Redux on 22nd October for PC (29th October for consoles). Read more...",
+    "date": "Sat, 03 Oct 2026 12:04:23 +0000",
+    "link": "https://www.eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.33,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Memory shortages set to persist into 2028, warns Micron CEO",
+    "source": "Eurogamer",
+    "summary": "Micron has warned that global RAM shortages show no sign of easing, telling investors on its earnings call that it has already sold most of next year's production. Read more...",
+    "date": "Sat, 03 Oct 2026 10:34:13 +0000",
+    "link": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
     "title": "GTA 6's 18+ age rating reveals Lucia and Jason can partake in drug use \"directly from their inventory\" and \"at any time\"",
     "source": "Eurogamer",
     "summary": "GTA 6 is seemingly adding another naughty pastime to the series' already mammoth collection of naughty pastimes. Joining the strip clubs and violent car-jackings and carefree murder is \"frequent and prominent\" drug use that you can try \"at any time,\" according to a new age rating. Read more...",
@@ -81,201 +135,151 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "\"This is your Dreamcast moment\": Former PlayStation boss thinks Xbox needs to \"pick a lane\" with exclusive games to fix itself",
-    "source": "Eurogamer",
-    "summary": "Former PlayStation boss Shawn Layden has some thoughts on where Team Xbox is at right now and where the green machine can go from here, but the console maker needs to \"pick a lane\" with exclusive games, either way. Read more...",
-    "date": "Fri, 02 Oct 2026 17:56:08 +0000",
-    "link": "https://www.eurogamer.net/dreamcast-moment-former-playstation-boss-xbox-exclusive-games",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
-    },
-    "tags": [
-      "PlayStation",
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
-    "source": "Eurogamer",
-    "summary": "Warhorse Studios co-founder Martin Klima - the developer behind last year's historical RPG Kingdom Come: Deliverance 2 - is crossing his fingers for higher game prices, and he thinks GTA 6 might be the one to usher in a new normal. Read more...",
-    "date": "Fri, 02 Oct 2026 16:52:25 +0000",
-    "link": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "RPG"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included",
-    "source": "Eurogamer",
-    "summary": "Grand Theft Auto 6 may feature actual sex scenes. The suggestion comes from an age-rating description for GTA 6 on the PlayStation Store, which states - if viewing the New Zealand or Australian versions of the Store - there are \"sex scenes\" in the game. Read more...",
-    "date": "Fri, 02 Oct 2026 13:59:39 +0000",
-    "link": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.19,
-      "badge": "success"
-    },
-    "tags": [
-      "PlayStation"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "12 New Horror Movies to Watch in October on Netflix, HBO, and Hulu",
+    "title": "Resident Evil Dev Capcom Plans To Embrace AI In Game Development",
     "source": "Polygon",
-    "summary": "Check out genre classics and brand new nightmares",
-    "date": "Sat, 03 Oct 2026 04:00:20 GMT",
-    "link": "https://www.polygon.com/horror-movies-streaming-october-2026/",
+    "summary": "The next iteration of RE Engine is being built so Capcom can make games \"together with AI,\" although it's still not using generative AI",
+    "date": "Sat, 03 Oct 2026 14:31:26 GMT",
+    "link": "https://www.polygon.com/capcom-ai-re-engine-statement-2026/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.47,
+      "badge": "danger"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Best Buy's Official 'Pokémon' 30th Anniversary TCG Event Details",
+    "source": "Polygon",
+    "summary": "Pokémon TCG fans will likely receive a Mewtwo promo card and other free 30th Anniversary goodies during Best Buy's Oct. 3 Pokémon event.",
+    "date": "Sat, 03 Oct 2026 14:18:15 GMT",
+    "link": "https://www.polygon.com/pokemon-30th-anniversary-best-buy-tcg-trade-play-event-promo-card/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.45,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "Is Barney Nelson's Dad? 'The Simpsons' Producer Weighs In On a Persistent Fan Theory",
+    "source": "Polygon",
+    "summary": "The Simpsons c-executive producer Mike Price answers some of the internets biggest quarions about the show, including the status of Apu",
+    "date": "Sat, 03 Oct 2026 14:00:15 GMT",
+    "link": "https://www.polygon.com/the-simpsons-mike-price-internet-questions-interview/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Gamers Will Recognize The Studio Making The Battlefield Movie",
+    "source": "Polygon",
+    "summary": "Sony Pictures will be the studio that brings Battlefield to the big screen",
+    "date": "Sat, 03 Oct 2026 13:51:06 GMT",
+    "link": "https://www.polygon.com/battlefield-movie-sony-pictures/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Deadlock's new hero Rat King has over 100 voice lines dedicated to throwing rats at you",
+    "source": "PC Gamer",
+    "summary": "Chat King.",
+    "date": "Sat, 03 Oct 2026 13:49:02 +0000",
+    "link": "https://www.pcgamer.com/games/moba/deadlocks-new-hero-rat-king-has-over-100-voice-lines-dedicated-to-throwing-rats-at-you/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.14,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Quentin Tarantino's First Movie Sequel Officially Arrives Next Month",
-    "source": "Polygon",
-    "summary": "Get read for The Further Misadventures of Cliff Booth as Quentin Tarantino and David Fincher deliver a sequel to Once Upon a Time in Hollywood.",
-    "date": "Sat, 03 Oct 2026 01:09:16 GMT",
-    "link": "https://www.polygon.com/quentin-tarantino-sequel-once-upon-a-time-in-hollywood-part-2/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Fire Emblem Fans Just Cracked Fortune’s Weave’s Biggest Mystery (Maybe)",
-    "source": "Polygon",
-    "summary": "Eshmel's identity in Fire Emblem Fortune's Weave is never revealed, but some folks think they've got the answer",
-    "date": "Sat, 03 Oct 2026 01:00:17 GMT",
-    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-plot-mystery-eshmel-identity/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "There’s Literally Never Been a Better Time to Get Into Tactics Games",
-    "source": "Polygon",
-    "summary": "The tactics genre is undergoing a renaissance right now, and it's the perfect time to give the games a shot.",
-    "date": "Fri, 02 Oct 2026 23:00:18 GMT",
-    "link": "https://www.polygon.com/tactics-games-2026-best-year/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.6,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat",
-    "source": "PC Gamer",
-    "summary": "I don't even know ball but I feel like I'm losing my mind.",
-    "date": "Fri, 02 Oct 2026 22:49:09 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-heard-of-the-miami-heat/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games",
+    "title": "2026 is the year big brands have finally pushed gaming mouse technology forwards",
     "source": "PC Gamer",
-    "summary": "Get up to speed on Steam's most anticipated games.",
-    "date": "Fri, 02 Oct 2026 22:34:28 +0000",
-    "link": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
+    "summary": "I'm not sure niche brands would be able to change the industry like this.",
+    "date": "Sat, 03 Oct 2026 13:00:00 +0000",
+    "link": "https://www.pcgamer.com/hardware/gaming-mice/2026-is-the-year-big-brands-have-finally-pushed-gaming-mouse-technology-forwards/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
     },
     "tags": [
-      "Steam"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "Valve's patch note supremacy",
+    "title": "007 First Light gets free DLC that will finally let you drive James Bond's Aston Martin properly",
     "source": "PC Gamer",
-    "summary": "The king of patch notes reclaims its throne.",
-    "date": "Fri, 02 Oct 2026 22:07:36 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/game-development/valves-patch-note-supremacy/",
+    "summary": "Extended Operations adds two TacSim missions, new game plus, and a photo mode.",
+    "date": "Sat, 03 Oct 2026 12:24:15 +0000",
+    "link": "https://www.pcgamer.com/games/action/007-first-light-gets-free-dlc-that-will-finally-let-you-drive-james-bonds-aston-martin-properly/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
     },
     "tags": [
-      "Patch"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "For once, I'm happy to see expensive corporate lawyers forcing a fan project offline",
+    "title": "Bored with roguelikes? You might still want to play Dicevaders, a game about perfecting dice rolls",
     "source": "PC Gamer",
-    "summary": "Apart from blatantly using the Fallout name, Fallout: New York was also completely AI generated, and it looks awful.",
-    "date": "Fri, 02 Oct 2026 22:03:36 +0000",
-    "link": "https://www.pcgamer.com/games/fallout/for-once-im-happy-to-see-expensive-corporate-lawyers-forcing-a-fan-project-offline/",
+    "summary": "Lead an alien invasion in this fun-but-fair game of colossal damage numbers.",
+    "date": "Sat, 03 Oct 2026 11:17:53 +0000",
+    "link": "https://www.pcgamer.com/games/roguelike/bored-with-roguelikes-you-might-still-want-to-play-dicevaders-a-game-about-perfecting-dice-rolls/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.14,
+      "score": -0.25,
       "badge": "danger"
     },
     "tags": [
-      "AI"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -292,8 +296,8 @@
       "badge": "info"
     },
     "tags": [
-      "PlayStation",
       "Patch",
+      "PlayStation",
       "Xbox"
     ],
     "read_time": "1 min read"
@@ -311,8 +315,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -346,8 +350,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
