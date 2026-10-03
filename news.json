@@ -1,50 +1,48 @@
 [
   {
     "id": 1,
-    "title": "Lanterns: Who Killed Hal Jordan and More of Our Biggest Questions Heading Into the Finale",
+    "title": "Love and Deepspace Devs Issue Warning to Players After Deadly Drink Recipes Go Viral",
     "source": "IGN",
-    "summary": "Who killed Hal Jordan? Is Hal Jordan even dead!? What's up with Sinestro and that planet? We have so many questions heading into the Lanterns season finale...",
-    "date": "Fri, 2 Oct 2026 20:30:53 +0000",
-    "link": "https://www.ign.com/articles/lanterns-who-killed-hal-jordan-and-more-of-our-biggest-questions-heading-into-the-finale",
+    "summary": "The official social media account for the popular RPG-dating sim Love and Deepspace issued a warning to players after announcing some fictional cocktails with potentially disastrous real-world consequences if actually consumed.",
+    "date": "Sat, 3 Oct 2026 02:18:57 +0000",
+    "link": "https://www.ign.com/articles/love-and-deepspace-devs-issue-warning-to-players-after-deadly-drink-recipes-go-viral",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.07,
+      "score": 0.09,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "RPG"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Vibe-Coded Mashup Mods Have Taken Over X This Week",
+    "title": "Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine — ‘Our Goal Is a Future Where We Create Games Together With AI’",
     "source": "IGN",
-    "summary": "I have spent the last three days scrolling through some of the most insane mod videos I've ever seen. Modders are taking games that have been decompiled with Claude, and mashing them up with other games. As the week has gone on, there have only been more clips of these mods pouring out on X/Twitter.",
-    "date": "Fri, 2 Oct 2026 20:17:52 +0000",
-    "link": "https://www.ign.com/articles/vibe-coded-mashup-mods-have-taken-over-x-this-week",
+    "summary": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an \"AI-generation game engine.\"",
+    "date": "Sat, 3 Oct 2026 01:33:39 +0000",
+    "link": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.0,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.36,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Upcoming LEGO Sets: Release Dates for 2026 and Beyond",
+    "title": "Former NFL Coach Mike Tomlin Is a Hardcore Minecraft Player, Reveals City He Took 12 Years to Build",
     "source": "IGN",
-    "summary": "A frequently updated list of all the biggest upcoming LEGO sets, along with their release dates, pricing, and more.",
-    "date": "Fri, 2 Oct 2026 19:30:00 +0000",
-    "link": "https://www.ign.com/articles/upcoming-lego-set-release-dates",
+    "summary": "Former NFL coach Mike Tomlin spent 19 seasons with the Pittsburgh Steelers and won Super Bowl LXIII, and now he's added another major accomplishment to his resume: becoming a Minecraft YouTuber.",
+    "date": "Fri, 2 Oct 2026 22:46:50 +0000",
+    "link": "https://www.ign.com/articles/former-nfl-coach-mike-tomlin-is-a-hardcore-minecraft-player-reveals-city-he-took-12-years-to-build",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.3,
+      "score": 0.12,
       "badge": "success"
     },
     "tags": [
@@ -55,19 +53,18 @@
   },
   {
     "id": 4,
-    "title": "Verity Review",
+    "title": "Best Buy Has the ASRock Radeon RX 9070 XT 16GB Graphics Card in Stock for $740",
     "source": "IGN",
-    "summary": "Verity review: A veritable mess starring Anne Hathaway, Dakota Johnson, and Josh Hartnett.",
-    "date": "Fri, 2 Oct 2026 19:14:47 +0000",
-    "link": "https://www.ign.com/articles/verity-review",
+    "summary": "Nearly as powerful as the GeForce RTX 5070 Ti for hundreds less.",
+    "date": "Fri, 2 Oct 2026 21:30:00 +0000",
+    "link": "https://www.ign.com/articles/asrock-radeon-rx-9070-xt-16gb-gpu-deal-september-2026",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.17,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.38,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Graphics"
     ],
     "read_time": "1 min read"
   },
@@ -143,14 +140,14 @@
   },
   {
     "id": 9,
-    "title": "There’s Literally Never Been a Better Time to Get Into Tactics Games",
+    "title": "12 New Horror Movies to Watch in October on Netflix, HBO, and Hulu",
     "source": "Polygon",
-    "summary": "The tactics genre is undergoing a renaissance right now, and it's the perfect time to give the games a shot.",
-    "date": "Fri, 02 Oct 2026 23:00:18 GMT",
-    "link": "https://www.polygon.com/tactics-games-2026-best-year/",
+    "summary": "Check out genre classics and brand new nightmares",
+    "date": "Sat, 03 Oct 2026 04:00:20 GMT",
+    "link": "https://www.polygon.com/horror-movies-streaming-october-2026/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.6,
+      "score": 0.14,
       "badge": "success"
     },
     "tags": [
@@ -161,14 +158,14 @@
   },
   {
     "id": 10,
-    "title": "10 New Movies to Watch this Weekend on Prime Video, HBO Max, and Hulu (October 2-4)",
+    "title": "Quentin Tarantino's First Movie Sequel Officially Arrives Next Month",
     "source": "Polygon",
-    "summary": "This week's movie column has several exciting movies, including an indie art-horror, a Warner Bros. movie that was infamously shelved, and more.",
-    "date": "Fri, 02 Oct 2026 21:00:16 GMT",
-    "link": "https://www.polygon.com/new-movies-streaming-this-weekend-prime-video-october-2-4/",
+    "summary": "Get read for The Further Misadventures of Cliff Booth as Quentin Tarantino and David Fincher deliver a sequel to Once Upon a Time in Hollywood.",
+    "date": "Sat, 03 Oct 2026 01:09:16 GMT",
+    "link": "https://www.polygon.com/quentin-tarantino-sequel-once-upon-a-time-in-hollywood-part-2/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.07,
+      "score": 0.08,
       "badge": "info"
     },
     "tags": [
@@ -179,15 +176,15 @@
   },
   {
     "id": 11,
-    "title": "New Fast and Furious Release Now Streaming on Peacock",
+    "title": "Fire Emblem Fans Just Cracked Fortune’s Weave’s Biggest Mystery (Maybe)",
     "source": "Polygon",
-    "summary": "Fast & Furious gets its strangest crossover yet as LEGO DREAMZzz and How to Train Your Dragon collide in a new Peacock animated special.",
-    "date": "Fri, 02 Oct 2026 20:58:51 GMT",
-    "link": "https://www.polygon.com/fast-and-furious-lego-how-to-train-your-dragon-peacock/",
+    "summary": "Eshmel's identity in Fire Emblem Fortune's Weave is never revealed, but some folks think they've got the answer",
+    "date": "Sat, 03 Oct 2026 01:00:17 GMT",
+    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-plot-mystery-eshmel-identity/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.21,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -197,14 +194,14 @@
   },
   {
     "id": 12,
-    "title": "How to Get Pokémon's Special Mewtwo 30th Anniversary Card",
+    "title": "There’s Literally Never Been a Better Time to Get Into Tactics Games",
     "source": "Polygon",
-    "summary": "The Mewtwo promo card drops later this year at select retailers like Best Buy and GameStop",
-    "date": "Fri, 02 Oct 2026 20:57:37 GMT",
-    "link": "https://www.polygon.com/pokemon-30th-anniversary-cards-release-date-mewtwo-promo-how-to-get/",
+    "summary": "The tactics genre is undergoing a renaissance right now, and it's the perfect time to give the games a shot.",
+    "date": "Fri, 02 Oct 2026 23:00:18 GMT",
+    "link": "https://www.polygon.com/tactics-games-2026-best-year/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.45,
+      "score": 0.6,
       "badge": "success"
     },
     "tags": [
@@ -295,8 +292,8 @@
       "badge": "info"
     },
     "tags": [
-      "Patch",
       "PlayStation",
+      "Patch",
       "Xbox"
     ],
     "read_time": "1 min read"
