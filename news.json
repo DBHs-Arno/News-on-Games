@@ -1,76 +1,113 @@
 [
   {
     "id": 1,
-    "title": "Save Big On Tolkien's Lord of the Rings and Hobbit Books Ahead of Prime Day",
+    "title": "Gears of War: E-Day Devs 'Proud to Be One of Xbox's Main Titles' Amid Newfound Focus on Exclusivity",
     "source": "IGN",
-    "summary": "From The Silmarillion to The Lord of the Rings and beyond, J.R.R. Tolkien's works are discounted at Amazon right now",
-    "date": "Sat, 3 Oct 2026 08:40:36 +0000",
-    "link": "https://www.ign.com/articles/save-big-on-tolkiens-lord-of-the-rings-and-hobbit-books-ahead-of-prime-day",
+    "summary": "The Gears of War: E-Day developers at The Coalition say they are \"proud to be one of Xbox's main titles\" as Microsoft refocuses on exclusivity.",
+    "date": "Sat, 3 Oct 2026 19:45:42 +0000",
+    "link": "https://www.ign.com/articles/gears-of-war-e-day-devs-proud-to-be-one-of-xboxs-main-titles-amid-newfound-focus-on-exclusivity",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.14,
+      "score": 0.48,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Love and Deepspace Devs Issue Warning to Players After Deadly Drink Recipes Go Viral",
+    "title": "The Best Deals Today: Trails in the Sky 1st Chapter, Shuten Order, MLB The Show 26, and More",
     "source": "IGN",
-    "summary": "The official social media account for the popular RPG-dating sim Love and Deepspace issued a warning to players after announcing some fictional cocktails with potentially disastrous real-world consequences if actually consumed.",
-    "date": "Sat, 3 Oct 2026 02:18:57 +0000",
-    "link": "https://www.ign.com/articles/love-and-deepspace-devs-issue-warning-to-players-after-deadly-drink-recipes-go-viral",
+    "summary": "",
+    "date": "Sat, 3 Oct 2026 18:32:34 +0000",
+    "link": "https://www.ign.com/articles/best-deals-for-october-3-2026",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.75,
+      "badge": "success"
     },
     "tags": [
-      "RPG"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine — ‘Our Goal Is a Future Where We Create Games Together With AI’",
+    "title": "Call of Duty: Modern Warfare 4 Video Reveals Major Change That Could End Wallhacks for Good",
     "source": "IGN",
-    "summary": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an \"AI-generation game engine.\"",
-    "date": "Sat, 3 Oct 2026 01:33:39 +0000",
-    "link": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
+    "summary": "Wallhacks have plagued Call of Duty for years, but in Modern Warfare 4, Activision has a plan to change that.",
+    "date": "Sat, 3 Oct 2026 17:54:26 +0000",
+    "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-video-reveals-major-change-that-could-end-wallhacks-for-good",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.36,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.29,
+      "badge": "success"
     },
     "tags": [
-      "AI"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Former NFL Coach Mike Tomlin Is a Hardcore Minecraft Player, Reveals City He Took 12 Years to Build",
+    "title": "'I Did My Best' — Final Fantasy 7 Revelation Director Responds to Fans Asking for Full Disc Version",
     "source": "IGN",
-    "summary": "Former NFL coach Mike Tomlin spent 19 seasons with the Pittsburgh Steelers and won Super Bowl LXIII, and now he's added another major accomplishment to his resume: becoming a Minecraft YouTuber.",
-    "date": "Fri, 2 Oct 2026 22:46:50 +0000",
-    "link": "https://www.ign.com/articles/former-nfl-coach-mike-tomlin-is-a-hardcore-minecraft-player-reveals-city-he-took-12-years-to-build",
+    "summary": "Final Fantasy 7 Revelation Naoki Hamaguchi said he did his best to fight for a disc release as the industry heads toward a \"future where physical media is essentially disc-less.\"",
+    "date": "Sat, 3 Oct 2026 16:21:11 +0000",
+    "link": "https://www.ign.com/articles/i-did-my-best-final-fantasy-7-revelation-director-responds-to-fans-asking-for-full-disc-version",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.12,
+      "score": 0.29,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "Final Fantasy 7 Revelation director says he \"did his best\" to fight for a full disc release",
+    "source": "Eurogamer",
+    "summary": "Final Fantasy 7 Revelation director Naoki Hamaguchi has responded to fans asking for a full disc version of the game, saying he \"did [his] best\" to push for physical media as the industry edges towards an all-digital future. Read more...",
+    "date": "Sat, 03 Oct 2026 17:25:03 +0000",
+    "link": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.28,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Sony in talks to land Battlefield movie from Christopher McQuarrie and Michael B. Jordan",
+    "source": "Eurogamer",
+    "summary": "Sony is reportedly in talks to acquire a big-screen adaptation of Electronic Arts' Battlefield, with Christopher McQuarrie attached to write, direct and produce, and Michael B. Jordan on board to produce. Read more...",
+    "date": "Sat, 03 Oct 2026 16:24:38 +0000",
+    "link": "https://www.eurogamer.net/sony-battlefield-movie-christopher-mcquarrie-michael-b-jordan",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
     "title": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\"",
     "source": "Eurogamer",
     "summary": "Capcom wants to transform its in-house RE Engine into what it's calling an \"AI-generation game engine\". Read more...",
@@ -87,7 +124,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "Metro Redux's Next-Gen Update arrives this month as franchise passes 50 million sales",
     "source": "Eurogamer",
     "summary": "A free next-gen update is coming to Metro 2033 Redux and Metro Last Light Redux on 22nd October for PC (29th October for consoles). Read more...",
@@ -99,187 +136,152 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Memory shortages set to persist into 2028, warns Micron CEO",
-    "source": "Eurogamer",
-    "summary": "Micron has warned that global RAM shortages show no sign of easing, telling investors on its earnings call that it has already sold most of next year's production. Read more...",
-    "date": "Sat, 03 Oct 2026 10:34:13 +0000",
-    "link": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "GTA 6's 18+ age rating reveals Lucia and Jason can partake in drug use \"directly from their inventory\" and \"at any time\"",
-    "source": "Eurogamer",
-    "summary": "GTA 6 is seemingly adding another naughty pastime to the series' already mammoth collection of naughty pastimes. Joining the strip clubs and violent car-jackings and carefree murder is \"frequent and prominent\" drug use that you can try \"at any time,\" according to a new age rating. Read more...",
-    "date": "Fri, 02 Oct 2026 19:08:59 +0000",
-    "link": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "Resident Evil Dev Capcom Plans To Embrace AI In Game Development",
+    "title": "Netflix Sets The Witcher Season 5's Fate",
     "source": "Polygon",
-    "summary": "The next iteration of RE Engine is being built so Capcom can make games \"together with AI,\" although it's still not using generative AI",
-    "date": "Sat, 03 Oct 2026 14:31:26 GMT",
-    "link": "https://www.polygon.com/capcom-ai-re-engine-statement-2026/",
+    "summary": "Netflix's The Witcher season 5 was expected to have its final showing in 2026, but has been quietly delayed to 2027, according to What's On Netflix.",
+    "date": "Sat, 03 Oct 2026 20:13:16 GMT",
+    "link": "https://www.polygon.com/the-witcher-season-5-when-release-date-netflix/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.47,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
     },
     "tags": [
-      "AI"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Best Buy's Official 'Pokémon' 30th Anniversary TCG Event Details",
+    "title": "Ken Russell's The Devils Gets 4K, NC-17 Release from Warner Bros.",
     "source": "Polygon",
-    "summary": "Pokémon TCG fans will likely receive a Mewtwo promo card and other free 30th Anniversary goodies during Best Buy's Oct. 3 Pokémon event.",
-    "date": "Sat, 03 Oct 2026 14:18:15 GMT",
-    "link": "https://www.polygon.com/pokemon-30th-anniversary-best-buy-tcg-trade-play-event-promo-card/",
+    "summary": "Warner Bros. is releasing Ken Russell's 1971 psychological horror drama The Devils in theaters this October, in restored 4K and uncensored.",
+    "date": "Sat, 03 Oct 2026 20:10:25 GMT",
+    "link": "https://www.polygon.com/ken-russell-the-devils-movie-4k-restoration-nc-17-rating/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.45,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Is Barney Nelson's Dad? 'The Simpsons' Producer Weighs In On a Persistent Fan Theory",
+    "title": "A RuneScape Animated Show Is Coming With a World-Famous Content Creator Attached",
     "source": "Polygon",
-    "summary": "The Simpsons c-executive producer Mike Price answers some of the internets biggest quarions about the show, including the status of Apu",
-    "date": "Sat, 03 Oct 2026 14:00:15 GMT",
-    "link": "https://www.polygon.com/the-simpsons-mike-price-internet-questions-interview/",
+    "summary": "A RuneScape animated adaptation is on the way from Jagex, in partnership with MoistCr1TiKaL and Lyrical Media.",
+    "date": "Sat, 03 Oct 2026 20:00:17 GMT",
+    "link": "https://www.polygon.com/runescape-animated-series-announced/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "Gamers Will Recognize The Studio Making The Battlefield Movie",
+    "title": "Metroid Meets Dead Cells In October's Coolest New Action Game",
     "source": "Polygon",
-    "summary": "Sony Pictures will be the studio that brings Battlefield to the big screen",
-    "date": "Sat, 03 Oct 2026 13:51:06 GMT",
-    "link": "https://www.polygon.com/battlefield-movie-sony-pictures/",
+    "summary": "October's most exciting new action game brings modern sensibilities to a beloved franchise that hasn't seen a proper entry in far too long.",
+    "date": "Sat, 03 Oct 2026 20:00:17 GMT",
+    "link": "https://www.polygon.com/castlevania-belmonts-curse-release-date-metroidvania/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.09,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "Deadlock's new hero Rat King has over 100 voice lines dedicated to throwing rats at you",
+    "title": "RuneScape 4 announced at RuneFest, full MMO sequel started as expansion to survival game Dragonwilds",
     "source": "PC Gamer",
-    "summary": "Chat King.",
-    "date": "Sat, 03 Oct 2026 13:49:02 +0000",
-    "link": "https://www.pcgamer.com/games/moba/deadlocks-new-hero-rat-king-has-over-100-voice-lines-dedicated-to-throwing-rats-at-you/",
+    "summary": "An unstoppable juggernaut.",
+    "date": "Sat, 03 Oct 2026 21:44:49 +0000",
+    "link": "https://www.pcgamer.com/games/mmo/runescape-4-announced-at-runefest-full-mmo-sequel-started-as-expansion-to-survival-game-dragonwilds/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "2026 is the year big brands have finally pushed gaming mouse technology forwards",
+    "title": "The Witcher 3's remaster just brought it to a new all-time concurrent player count peak",
     "source": "PC Gamer",
-    "summary": "I'm not sure niche brands would be able to change the industry like this.",
-    "date": "Sat, 03 Oct 2026 13:00:00 +0000",
-    "link": "https://www.pcgamer.com/hardware/gaming-mice/2026-is-the-year-big-brands-have-finally-pushed-gaming-mouse-technology-forwards/",
+    "summary": "Toss a coin—oh, it's a free upgrade.",
+    "date": "Sat, 03 Oct 2026 16:40:35 +0000",
+    "link": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-remaster-just-brought-it-to-a-new-all-time-concurrent-player-count-peak/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.27,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "007 First Light gets free DLC that will finally let you drive James Bond's Aston Martin properly",
+    "title": "Forget what PC Gamer said: The Witcher 3 will always be my 2015 GOTY",
     "source": "PC Gamer",
-    "summary": "Extended Operations adds two TacSim missions, new game plus, and a photo mode.",
-    "date": "Sat, 03 Oct 2026 12:24:15 +0000",
-    "link": "https://www.pcgamer.com/games/action/007-first-light-gets-free-dlc-that-will-finally-let-you-drive-james-bonds-aston-martin-properly/",
+    "summary": "And now it looks better than ever.",
+    "date": "Sat, 03 Oct 2026 16:39:49 +0000",
+    "link": "https://www.pcgamer.com/games/the-witcher/forget-what-pc-gamer-said-the-witcher-3-will-always-be-my-2015-goty/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.11,
+      "score": 0.5,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Bored with roguelikes? You might still want to play Dicevaders, a game about perfecting dice rolls",
+    "title": "Deadlock is the king of MOBA character designs, and it's all thanks to Valve's embrace of New Yorkyness",
     "source": "PC Gamer",
-    "summary": "Lead an alien invasion in this fun-but-fair game of colossal damage numbers.",
-    "date": "Sat, 03 Oct 2026 11:17:53 +0000",
-    "link": "https://www.pcgamer.com/games/roguelike/bored-with-roguelikes-you-might-still-want-to-play-dicevaders-a-game-about-perfecting-dice-rolls/",
+    "summary": "I want to be a part of it…",
+    "date": "Sat, 03 Oct 2026 16:06:23 +0000",
+    "link": "https://www.pcgamer.com/games/moba/deadlock-is-the-king-of-moba-character-designs-and-its-all-thanks-to-valves-embrace-of-new-yorkyness/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.25,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -296,9 +298,9 @@
       "badge": "info"
     },
     "tags": [
-      "Patch",
+      "Xbox",
       "PlayStation",
-      "Xbox"
+      "Patch"
     ],
     "read_time": "1 min read"
   },
@@ -315,8 +317,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -350,8 +352,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
