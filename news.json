@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "MTG’s Hobbit Cards Are the Closest Thing to Owning Rare Tolkien Memorabilia, and Perfect for Collectors",
+    "title": "Lanterns: Who Killed Hal Jordan and More of Our Biggest Questions Heading Into the Finale",
     "source": "IGN",
-    "summary": "Here's why Magic: The Gathering’s small-ish Hobbit set somehow surpasses the massive Lord of the Rings crossover for die-hard Tolkien collectors, just one month after its release.",
-    "date": "Fri, 2 Oct 2026 16:30:00 +0000",
-    "link": "https://www.ign.com/articles/mtg-hobbit-set-versus-lord-of-the-rings",
+    "summary": "Who killed Hal Jordan? Is Hal Jordan even dead!? What's up with Sinestro and that planet? We have so many questions heading into the Lanterns season finale...",
+    "date": "Fri, 2 Oct 2026 20:30:53 +0000",
+    "link": "https://www.ign.com/articles/lanterns-who-killed-hal-jordan-and-more-of-our-biggest-questions-heading-into-the-finale",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.45,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -19,31 +19,32 @@
   },
   {
     "id": 2,
-    "title": "Today’s Top Deals: Xbox Elite Controller, Belkin Switch 2 Cases, and Bose QuietComfort Headphones",
+    "title": "Vibe-Coded Mashup Mods Have Taken Over X This Week",
     "source": "IGN",
-    "summary": "Plus, pick up Pokémon TCG, MTG x Marvel, and more discounts as we head into the weekend.",
-    "date": "Fri, 2 Oct 2026 16:15:00 +0000",
-    "link": "https://www.ign.com/articles/best-deals-for-october-2-2026",
+    "summary": "I have spent the last three days scrolling through some of the most insane mod videos I've ever seen. Modders are taking games that have been decompiled with Claude, and mashing them up with other games. As the week has gone on, there have only been more clips of these mods pouring out on X/Twitter.",
+    "date": "Fri, 2 Oct 2026 20:17:52 +0000",
+    "link": "https://www.ign.com/articles/vibe-coded-mashup-mods-have-taken-over-x-this-week",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.0,
+      "badge": "info"
     },
     "tags": [
-      "Xbox"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Disney+ Shows and Movies Are Now Headed to Netflix, Including Ice Age and Percy Jackson",
+    "title": "Upcoming LEGO Sets: Release Dates for 2026 and Beyond",
     "source": "IGN",
-    "summary": "Disney plans to license a mix of legacy titles and currently-streaming TV shows to Netflix as part of a new deal between the two firms. In the deal, Netflix will host select Disney content for its 325 million subscribers.",
-    "date": "Fri, 2 Oct 2026 16:10:59 +0000",
-    "link": "https://www.ign.com/articles/disney-licenses-netflix",
+    "summary": "A frequently updated list of all the biggest upcoming LEGO sets, along with their release dates, pricing, and more.",
+    "date": "Fri, 2 Oct 2026 19:30:00 +0000",
+    "link": "https://www.ign.com/articles/upcoming-lego-set-release-dates",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.14,
+      "score": 0.3,
       "badge": "success"
     },
     "tags": [
@@ -54,15 +55,15 @@
   },
   {
     "id": 4,
-    "title": "James Gunn's DCU Reportedly Safe Following Paramount-Warner Bros. Merger, for Now at Least",
+    "title": "Verity Review",
     "source": "IGN",
-    "summary": "DC Studios co-CEOs James Gunn and Peter Safran will seemingly keep their vision for the DCU alive following the Paramount-Warner Bros. merger.",
-    "date": "Fri, 2 Oct 2026 15:53:56 +0000",
-    "link": "https://www.ign.com/articles/james-gunns-dcu-reportedly-safe-following-paramount-warner-bros-merger-for-now-at-least",
+    "summary": "Verity review: A veritable mess starring Anne Hathaway, Dakota Johnson, and Josh Hartnett.",
+    "date": "Fri, 2 Oct 2026 19:14:47 +0000",
+    "link": "https://www.ign.com/articles/verity-review",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.17,
+      "badge": "danger"
     },
     "tags": [
       "News",
@@ -72,6 +73,24 @@
   },
   {
     "id": 5,
+    "title": "GTA 6's 18+ age rating reveals Lucia and Jason can partake in drug use \"directly from their inventory\" and \"at any time\"",
+    "source": "Eurogamer",
+    "summary": "GTA 6 is seemingly adding another naughty pastime to the series' already mammoth collection of naughty pastimes. Joining the strip clubs and violent car-jackings and carefree murder is \"frequent and prominent\" drug use that you can try \"at any time,\" according to a new age rating. Read more...",
+    "date": "Fri, 02 Oct 2026 19:08:59 +0000",
+    "link": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
     "title": "\"This is your Dreamcast moment\": Former PlayStation boss thinks Xbox needs to \"pick a lane\" with exclusive games to fix itself",
     "source": "Eurogamer",
     "summary": "Former PlayStation boss Shawn Layden has some thoughts on where Team Xbox is at right now and where the green machine can go from here, but the console maker needs to \"pick a lane\" with exclusive games, either way. Read more...",
@@ -83,13 +102,13 @@
       "badge": "success"
     },
     "tags": [
-      "Xbox",
-      "PlayStation"
+      "PlayStation",
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
     "source": "Eurogamer",
     "summary": "Warhorse Studios co-founder Martin Klima - the developer behind last year's historical RPG Kingdom Come: Deliverance 2 - is crossing his fingers for higher game prices, and he thinks GTA 6 might be the one to usher in a new normal. Read more...",
@@ -106,7 +125,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included",
     "source": "Eurogamer",
     "summary": "Grand Theft Auto 6 may feature actual sex scenes. The suggestion comes from an age-rating description for GTA 6 on the PlayStation Store, which states - if viewing the New Zealand or Australian versions of the Store - there are \"sex scenes\" in the game. Read more...",
@@ -123,173 +142,30 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge",
-    "source": "Eurogamer",
-    "summary": "We recently learned that Microsoft gave development of its next Halo game to Activision, where \"a new purpose-built team\" - separate from the teams working on Call of Duty - has been created to oversee the franchise going forward. Now, in a report from well-known Halo and Xbox insider Rebs Gaming, a...",
-    "date": "Fri, 02 Oct 2026 13:14:39 +0000",
-    "link": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 9,
-    "title": "The Original 'Halo' Is Now Playable in Web Browsers With Multiplayer Support",
+    "title": "There’s Literally Never Been a Better Time to Get Into Tactics Games",
     "source": "Polygon",
-    "summary": "The Xbox version of Halo is playable in a web browser as AI-driven decompilations and mashups flood social media.",
-    "date": "Fri, 02 Oct 2026 17:54:00 GMT",
-    "link": "https://www.polygon.com/halo-web-browser-ai-game-mods/",
+    "summary": "The tactics genre is undergoing a renaissance right now, and it's the perfect time to give the games a shot.",
+    "date": "Fri, 02 Oct 2026 23:00:18 GMT",
+    "link": "https://www.polygon.com/tactics-games-2026-best-year/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.2,
+      "score": 0.6,
       "badge": "success"
     },
     "tags": [
-      "Xbox",
-      "AI"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Disney Is Bringing Percy Jackson to a Streaming Competitor Ahead of Season 3 Premiere",
+    "title": "10 New Movies to Watch this Weekend on Prime Video, HBO Max, and Hulu (October 2-4)",
     "source": "Polygon",
-    "summary": "Netflix has struck a deal with Disney to stream Percy Jackson and the Olympians ahead of the Disney+ show's season 3 premiere this November.",
-    "date": "Fri, 02 Oct 2026 17:24:34 GMT",
-    "link": "https://www.polygon.com/percy-jackson-and-the-olympians-disney-netflix-deal-season-3/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "What is a flusher in Fortnite Chapter 7 Season 4?",
-    "source": "Polygon",
-    "summary": "Flushers are needed to complete Geno's story quest in Fortnite Chapter 7 Season 4. Find out what a flusher is and where you can find one.",
-    "date": "Fri, 02 Oct 2026 17:17:29 GMT",
-    "link": "https://www.polygon.com/fortnite-chapter-7-season-4-flusher-location-reveal-enemies-geno-quest/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Netflix's Biggest Anime of 2026 Breaks a 14-Year-Old Tradition, and Fans Are Furious",
-    "source": "Polygon",
-    "summary": "Steel Ball Run breaks JoJo's Bizarre Adventure's tradition of featuring iconic Western songs in its ending, sparking a big debate among fans.",
-    "date": "Fri, 02 Oct 2026 17:00:18 GMT",
-    "link": "https://www.polygon.com/steel-ball-run-jojo-music-ending-dead-or-alive-controversy/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.23,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "I added October-appropriate zombies to Grand Theft Auto 5",
-    "source": "PC Gamer",
-    "summary": "Brains, and so on.",
-    "date": "Fri, 02 Oct 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-added-october-appropriate-zombies-to-grand-theft-auto-5/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "The upcoming sim about making games is so deep your in-game game can even get cyberleeked",
-    "source": "PC Gamer",
-    "summary": "Let's Build a Dungeon isn't just about making a game, but all the stuff you have to deal with while making a game.",
-    "date": "Fri, 02 Oct 2026 16:13:24 +0000",
-    "link": "https://www.pcgamer.com/games/sim/the-upcoming-sim-about-making-games-is-so-deep-your-in-game-game-can-even-get-cyberleeked/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.3,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "A surprisingly in-depth dressmaking simulator has the cosy gamers in a chokehold",
-    "source": "PC Gamer",
-    "summary": "From original designs to surprisingly faithful recreations.",
-    "date": "Fri, 02 Oct 2026 16:05:38 +0000",
-    "link": "https://www.pcgamer.com/games/sim/a-surprisingly-in-depth-dressmaking-simulator-has-the-cosy-gamers-in-a-chokehold/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.59,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "I'm going to teach you to love hidden object games",
-    "source": "PC Gamer",
-    "summary": "Or at least to respect them. I'd settle for that. And if you feel like embarking on a journey of discovery, I can help with that, too.",
-    "date": "Fri, 02 Oct 2026 14:48:25 +0000",
-    "link": "https://www.pcgamer.com/games/im-going-to-teach-you-to-love-hidden-object-games/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "GTA 6 Should “Blaze A Trail” To More Expensive Games, Dev Says",
-    "source": "GameSpot",
-    "summary": "Rockstar's GTA 6 is priced at $80 for its standard edition. Another voice has come forward to say they hope other teams follow suit and charge more for new games to help the industry at a time when developers are closing up shop, cancelling games, and laying off developers on a regular basis.\nMartin...",
-    "date": "Fri, 02 Oct 2026 17:17:15 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-should-blaze-a-trail-to-more-expensive-games-dev-says/",
+    "summary": "This week's movie column has several exciting movies, including an indie art-horror, a Warner Bros. movie that was infamously shelved, and more.",
+    "date": "Fri, 02 Oct 2026 21:00:16 GMT",
+    "link": "https://www.polygon.com/new-movies-streaming-this-weekend-prime-video-october-2-4/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.07,
@@ -302,15 +178,51 @@
     "read_time": "1 min read"
   },
   {
-    "id": 18,
-    "title": "GTA 6 Takes The Ridiculous World We Live In And Turns It Up To 11",
-    "source": "GameSpot",
-    "summary": "Video games are usually a few steps removed from reality, but with Grand Theft Auto 6, developer Rockstar Games aims to reflect and amplify the current state of the world with an \"over the top\" experience. As seen in the trailers and gameplay previews so far, GTA 6 is a contemporary game about doing...",
-    "date": "Fri, 02 Oct 2026 17:14:39 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-takes-the-ridiculous-world-we-live-in-and-turns-it-up-to-11/",
+    "id": 11,
+    "title": "New Fast and Furious Release Now Streaming on Peacock",
+    "source": "Polygon",
+    "summary": "Fast & Furious gets its strangest crossover yet as LEGO DREAMZzz and How to Train Your Dragon collide in a new Peacock animated special.",
+    "date": "Fri, 02 Oct 2026 20:58:51 GMT",
+    "link": "https://www.polygon.com/fast-and-furious-lego-how-to-train-your-dragon-peacock/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.21,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "How to Get Pokémon's Special Mewtwo 30th Anniversary Card",
+    "source": "Polygon",
+    "summary": "The Mewtwo promo card drops later this year at select retailers like Best Buy and GameStop",
+    "date": "Fri, 02 Oct 2026 20:57:37 GMT",
+    "link": "https://www.polygon.com/pokemon-30th-anniversary-cards-release-date-mewtwo-promo-how-to-get/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.45,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat",
+    "source": "PC Gamer",
+    "summary": "I don't even know ball but I feel like I'm losing my mind.",
+    "date": "Fri, 02 Oct 2026 22:49:09 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-heard-of-the-miami-heat/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.05,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
@@ -320,16 +232,104 @@
     "read_time": "1 min read"
   },
   {
-    "id": 19,
-    "title": "Xbox Game Pass Loses These 9 Games In October",
-    "source": "GameSpot",
-    "summary": "The start of the month usually brings several new Xbox Game Pass titles for subscribers, along with confirmation of which games will leave the subscription service in the coming days. This month, at least nine games will be leaving, including one of the best games of 2025, Clair Obscur: Expedition 3...",
-    "date": "Fri, 02 Oct 2026 16:34:36 +0000",
-    "link": "https://www.gamespot.com/articles/xbox-game-pass-loses-these-9-games-in-october/",
+    "id": 14,
+    "title": "Let's catch you up on all the latest news from Steam's 20 most-wishlisted games",
+    "source": "PC Gamer",
+    "summary": "Get up to speed on Steam's most anticipated games.",
+    "date": "Fri, 02 Oct 2026 22:34:28 +0000",
+    "link": "https://www.pcgamer.com/games/lets-catch-you-up-on-all-the-latest-news-from-steams-20-most-wishlisted-games/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Valve's patch note supremacy",
+    "source": "PC Gamer",
+    "summary": "The king of patch notes reclaims its throne.",
+    "date": "Fri, 02 Oct 2026 22:07:36 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/game-development/valves-patch-note-supremacy/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.06,
+      "score": 0.0,
       "badge": "info"
+    },
+    "tags": [
+      "Patch"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "For once, I'm happy to see expensive corporate lawyers forcing a fan project offline",
+    "source": "PC Gamer",
+    "summary": "Apart from blatantly using the Fallout name, Fallout: New York was also completely AI generated, and it looks awful.",
+    "date": "Fri, 02 Oct 2026 22:03:36 +0000",
+    "link": "https://www.pcgamer.com/games/fallout/for-once-im-happy-to-see-expensive-corporate-lawyers-forcing-a-fan-project-offline/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.14,
+      "badge": "danger"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "End Of Abyss Patch Fixes Most Of My Complaints Just One Day After Launch",
+    "source": "GameSpot",
+    "summary": "I spent a few days playing Section 9 Interactive's creepy metroidvania and writing my End of Abyss review, and ultimately concluded it was a fun but inconsistent experience hindered by a few particular issues. Now, just a day after it launched on PlayStation 5, Xbox Series X|S, and PC via the Epic G...",
+    "date": "Fri, 02 Oct 2026 23:26:26 +0000",
+    "link": "https://www.gamespot.com/articles/end-of-abyss-patch-fixes-most-of-my-complaints-just-one-day-after-launch/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "Patch",
+      "PlayStation",
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "GTA 6 Screenshot Suggests It Won’t Be Shy About Movie References",
+    "source": "GameSpot",
+    "summary": "A new screenshot from Grand Theft Auto 6 has arrived, and fans immediately noticed that it appears to be referencing the iconic opening scene from Quentin Tarantino's 1994 crime movie Pulp Fiction. \nThe image was shared by Love magazine on Instagram. The GTA 6 Countdown social media account put it n...",
+    "date": "Fri, 02 Oct 2026 19:41:02 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-screenshot-suggests-it-wont-be-shy-about-movie-references/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.19,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "The Xbox Cloud Gaming Controller Is Not Dead, Apparently",
+    "source": "GameSpot",
+    "summary": "Microsoft agreed to several big changes to appease regulators in its effort to get the blockbuster $75.4 billion deal to buy Activision Blizzard approved, including tweaks to its cloud-gaming projects. Now, more than a year later, we're still learning more about this, including a new claim from The ...",
+    "date": "Thu, 01 Oct 2026 16:25:57 +0000",
+    "link": "https://www.gamespot.com/articles/the-xbox-cloud-gaming-controller-is-dead-apparently/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
     },
     "tags": [
       "Xbox"
@@ -338,14 +338,14 @@
   },
   {
     "id": 20,
-    "title": "In 5 Years, Will Netflix Still Be In Gaming? Here’s What The CEO Said",
+    "title": "GTA 6 Should “Blaze A Trail” To More Expensive Games, Dev Says",
     "source": "GameSpot",
-    "summary": "Netflix has been experimenting with video games for a while, but is the streaming giant going to eventually drop out of gaming? That's the question Bloomberg's Lucas Shaw put to Netflix co-CEO Ted Sarandos at the Screentime event this week. \nRegarding whether Netflix will still host games in five ye...",
-    "date": "Fri, 02 Oct 2026 15:55:59 +0000",
-    "link": "https://www.gamespot.com/articles/in-5-years-will-netflix-still-be-in-gaming-heres-what-the-ceo-said/",
+    "summary": "Rockstar's GTA 6 is priced at $80 for its standard edition. Another voice has come forward to say they hope other teams follow suit and charge more for new games to help the industry at a time when developers are closing up shop, cancelling games, and laying off developers on a regular basis.\nMartin...",
+    "date": "Fri, 02 Oct 2026 17:17:15 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-should-blaze-a-trail-to-more-expensive-games-dev-says/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.07,
       "badge": "info"
     },
     "tags": [
