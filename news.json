@@ -12,8 +12,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -30,8 +30,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -48,8 +48,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -72,215 +72,215 @@
   },
   {
     "id": 5,
-    "title": "Fourth RuneScape officially revealed",
+    "title": "Dynasty Warriors producer would rather make new games than more remasters",
     "source": "Eurogamer",
-    "summary": "Jagex has announced a fourth MMO in the RuneScape series. Read more...",
-    "date": "Sun, 04 Oct 2026 11:12:52 +0000",
-    "link": "https://www.eurogamer.net/jagex-runescape-4-mmo-unreal-engine-animated-series-moistcr1tikal",
+    "summary": "Dynasty Warriors producer Tomohiko Sho says he'd rather spend what's left of his career making new games than more remasters of his old ones. Read more...",
+    "date": "Sun, 04 Oct 2026 17:07:59 +0000",
+    "link": "https://www.eurogamer.net/dynasty-warriors-tomohiko-sho-sequels-not-remasters",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.27,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Modders are furious as Claude-powered mashup mods flood social media",
+    "source": "Eurogamer",
+    "summary": "Long-time mod makers are not happy about the latest trend to take over their corner of the internet - the \"bullshit 'trend'\" of AI-generated, or \"vibe-coded\", mods. Read more...",
+    "date": "Sun, 04 Oct 2026 16:38:22 +0000",
+    "link": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.17,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "Final Fantasy 7 Revelation director says he \"did his best\" to fight for a full disc release",
+    "id": 7,
+    "title": "PlatinumGames boss hints he wants to expand Bayonetta as Stellar Blade director calls the series \"indispensable\"",
     "source": "Eurogamer",
-    "summary": "Final Fantasy 7 Revelation director Naoki Hamaguchi has responded to fans asking for a full disc version of the game, saying he \"did [his] best\" to push for physical media as the industry edges towards an all-digital future. Read more...",
-    "date": "Sat, 03 Oct 2026 17:25:03 +0000",
-    "link": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
+    "summary": "PlatinumGames president Atsushi Inaba has hinted he'd like to expand the character of Bayonetta and broaden her world. Read more...",
+    "date": "Sun, 04 Oct 2026 13:37:29 +0000",
+    "link": "https://www.eurogamer.net/platinumgames-bayonetta-expand-atsushi-inaba-stellar-blade",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.34,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "RuneScape Reignited launches 2 December",
+    "source": "Eurogamer",
+    "summary": "Jagex is offering long-time, lapsed, and new RuneScape players a clean slate with RuneScape Reignited. Read more...",
+    "date": "Sun, 04 Oct 2026 12:40:21 +0000",
+    "link": "https://www.eurogamer.net/runescape-reignited-launch-date-2-december-economy-reset",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.33,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "Forget Star Wars Movies, the Franchise’s Future Belongs to Video Games",
+    "source": "Polygon",
+    "summary": "Zero Company, Galactic Racer, KOTOR, and upcoming new games make SW look more like D&D than the MCU",
+    "date": "Sun, 04 Oct 2026 18:00:15 GMT",
+    "link": "https://www.polygon.com/star-wars-video-games-coming-for-movies-lunch/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.21,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "'Buffy the Vampire Slayer' Would Be Much Better if It Were 2 Seasons Shorter",
+    "source": "Polygon",
+    "summary": "Buffy the Vampire Slayer ran for seven seasons, but cutting two of its weakest would have made the beloved series even better.",
+    "date": "Sun, 04 Oct 2026 17:00:16 GMT",
+    "link": "https://www.polygon.com/buffy-season-5-hot-take/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.28,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Sony in talks to land Battlefield movie from Christopher McQuarrie and Michael B. Jordan",
-    "source": "Eurogamer",
-    "summary": "Sony is reportedly in talks to acquire a big-screen adaptation of Electronic Arts' Battlefield, with Christopher McQuarrie attached to write, direct and produce, and Michael B. Jordan on board to produce. Read more...",
-    "date": "Sat, 03 Oct 2026 16:24:38 +0000",
-    "link": "https://www.eurogamer.net/sony-battlefield-movie-christopher-mcquarrie-michael-b-jordan",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\"",
-    "source": "Eurogamer",
-    "summary": "Capcom wants to transform its in-house RE Engine into what it's calling an \"AI-generation game engine\". Read more...",
-    "date": "Sat, 03 Oct 2026 14:47:09 +0000",
-    "link": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "26 Years Later, Charles Schulz’s Final Comic Strip Is Still an All-Time Peanuts Classic",
-    "source": "Polygon",
-    "summary": "On Febraury 13, 2000, the final Peanuts comic strip ran in newspapers, concluding 50 years of the lovable characters.",
-    "date": "Sun, 04 Oct 2026 11:00:16 GMT",
-    "link": "https://www.polygon.com/final-peanuts-comic-strip-charles-schulz/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "GOTY 2026’s Final Nomination Is a Battleground of 8/10 Games",
-    "source": "Polygon",
-    "summary": "This year has seen a ton of blockbuster video games hovering around 85 on Metacritic, like Control Resonant and Gears of War: E-Day.",
-    "date": "Sun, 04 Oct 2026 10:00:15 GMT",
-    "link": "https://www.polygon.com/goty-watch-nominations-metacritic-85-club/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "65 Years Ago, The Twilight Zone Aired Its Creepiest Episode",
+    "title": "Tom Cruise Just Experienced His Worst Opening Weekend In Nearly 20 Years",
     "source": "Polygon",
-    "summary": "It's A Good Life\" throws more than one horror curveball during its taut runtime.",
-    "date": "Sun, 04 Oct 2026 08:00:15 GMT",
-    "link": "https://www.polygon.com/twilight-zone-creepiest-episode-monster/",
+    "summary": "Digger did not do very well in theaters during its opening weekend, hitting a grossing low Tom Cruise hasn't seen in almost 20 years",
+    "date": "Sun, 04 Oct 2026 16:22:10 GMT",
+    "link": "https://www.polygon.com/digger-tom-cruise-box-office/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.43,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "5 Incredible Anime Arcs That Are 10/10, No Notes",
+    "title": "Link And GTA 6's Jason Get Into A Heated Debate In Hilarious SNL Weekend Update Bit",
     "source": "Polygon",
-    "summary": "These anime storylines elevate these five series with thrilling character developments and satisfying resolutions.",
-    "date": "Sun, 04 Oct 2026 08:00:15 GMT",
-    "link": "https://www.polygon.com/best-anime-arcs-that-are-perfect/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.55,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work",
-    "source": "PC Gamer",
-    "summary": "GPT-6 Astra tried to get a leg-up in Blizzard's RTS by pilfering a human-created bot.",
-    "date": "Sun, 04 Oct 2026 10:49:26 +0000",
-    "link": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'",
-    "source": "PC Gamer",
-    "summary": "Lucia and Jason's appearance in a fashion magazine gives us a couple more titbits of GTA info.",
-    "date": "Sun, 04 Oct 2026 03:14:41 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
+    "summary": "There are only two weeks between the launch of the Ocarina of Time remake and GTA 6, which led to a rivalry between the games' protagonists on SNL.",
+    "date": "Sun, 04 Oct 2026 16:03:18 GMT",
+    "link": "https://www.polygon.com/saturday-night-live-zelda-vs-gta-6/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.25,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Remake"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "One of the most popular Total War: Warhammer 3 mods was 'deliberately corrupted' by its creator to sabotage AI-made copies",
+    "id": 13,
+    "title": "What does your dream videogame concert look like?",
     "source": "PC Gamer",
-    "summary": "SFO Grimhammer 3 has since been restored to its original version, but the point's been made.",
-    "date": "Sun, 04 Oct 2026 01:16:02 +0000",
-    "link": "https://www.pcgamer.com/games/strategy/one-of-the-most-popular-total-war-warhammer-3-mods-was-deliberately-corrupted-by-its-creator-to-sabotage-ai-made-copies/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.37,
-      "badge": "success"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'",
-    "source": "PC Gamer",
-    "summary": "Even a man forged from steel falters sometimes.",
-    "date": "Sat, 03 Oct 2026 23:19:41 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/",
+    "summary": "You are the conductor.",
+    "date": "Sun, 04 Oct 2026 16:21:59 +0000",
+    "link": "https://www.pcgamer.com/games/what-does-your-dream-videogame-concert-look-like/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "RuneScape is getting a new character type that promises a fresh start, but existing players are wary of splitting the community up",
+    "source": "PC Gamer",
+    "summary": "RuneScape Reignited is a new way to play RS3… kind of.",
+    "date": "Sun, 04 Oct 2026 16:10:30 +0000",
+    "link": "https://www.pcgamer.com/games/mmo/runescape-is-getting-a-new-character-type-that-promises-a-fresh-start-but-existing-players-are-wary-of-splitting-the-community-up/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.13,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Tonda Ros, creator of Blue Prince, has played UFO 50 for almost 700 hours: 'I think it's easily my favourite game of the last 20 years'",
+    "source": "PC Gamer",
+    "summary": "The designer of 2025's celebrated puzzler guides us through the games on his PC.",
+    "date": "Sun, 04 Oct 2026 16:00:00 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/tonda-ros-creator-of-blue-prince-has-played-ufo-50-for-almost-700-hours-i-think-its-easily-my-favourite-game-of-the-last-20-years/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Silent Hill: Townfall is the first horror game to make me feel bad for using a shotgun",
+    "source": "PC Gamer",
+    "summary": "I was perhaps too trigger-happy.",
+    "date": "Sun, 04 Oct 2026 15:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/horror/silent-hill-townfall-is-the-first-horror-game-to-make-me-feel-bad-for-using-a-shotgun/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.21,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -297,9 +297,9 @@
       "badge": "info"
     },
     "tags": [
-      "Xbox",
       "PlayStation",
-      "Patch"
+      "Patch",
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
@@ -316,8 +316,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -351,8 +351,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
