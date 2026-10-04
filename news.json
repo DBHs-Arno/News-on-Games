@@ -1,72 +1,72 @@
 [
   {
     "id": 1,
-    "title": "Gears of War: E-Day Devs 'Proud to Be One of Xbox's Main Titles' Amid Newfound Focus on Exclusivity",
+    "title": "Avengers: Doomsday Poster Highlights Doctor Doom and 3 Latverian Witches",
     "source": "IGN",
-    "summary": "The Gears of War: E-Day developers at The Coalition say they are \"proud to be one of Xbox's main titles\" as Microsoft refocuses on exclusivity.",
-    "date": "Sat, 3 Oct 2026 19:45:42 +0000",
-    "link": "https://www.ign.com/articles/gears-of-war-e-day-devs-proud-to-be-one-of-xboxs-main-titles-amid-newfound-focus-on-exclusivity",
+    "summary": "Marvel Studios has revealed a new Avengers: Doomsday poster, giving audiences a closer look not only at Doctor Doom but also at the three Latverian witches who will accompany him this December.",
+    "date": "Sat, 3 Oct 2026 22:03:45 +0000",
+    "link": "https://www.ign.com/articles/avengers-doomsday-poster-highlights-doctor-doom-and-3-latverian-witches",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.48,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
     },
     "tags": [
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "The Best Deals Today: Trails in the Sky 1st Chapter, Shuten Order, MLB The Show 26, and More",
+    "title": "Inde Navarrette Teases X-Men Role, Says She's 'Doing Everything Humanly Possible' to Do Rogue Justice",
     "source": "IGN",
-    "summary": "",
-    "date": "Sat, 3 Oct 2026 18:32:34 +0000",
-    "link": "https://www.ign.com/articles/best-deals-for-october-3-2026",
+    "summary": "Inde Navarrette has opened up about playing Rogue in X-Men, saying she's \"doing everything humanly possible\" to make sure she does the character justice.",
+    "date": "Sat, 3 Oct 2026 21:03:46 +0000",
+    "link": "https://www.ign.com/articles/inde-navarrette-teases-x-men-role-says-shes-doing-everything-humanly-possible-to-do-rogue-justice",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.75,
+      "score": 0.17,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Call of Duty: Modern Warfare 4 Video Reveals Major Change That Could End Wallhacks for Good",
+    "title": "Everything We Saw at RuneFest 2026, Including RuneScape 4 and RuneScape Reignited",
     "source": "IGN",
-    "summary": "Wallhacks have plagued Call of Duty for years, but in Modern Warfare 4, Activision has a plan to change that.",
-    "date": "Sat, 3 Oct 2026 17:54:26 +0000",
-    "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-video-reveals-major-change-that-could-end-wallhacks-for-good",
+    "summary": "RuneFest 2026 is over, and we’ve got a roundup of everything announced at Jagex’s big show celebrating its long-running fantasy MMORPG.",
+    "date": "Sat, 3 Oct 2026 20:00:41 +0000",
+    "link": "https://www.ign.com/articles/runefest-2026-runescape-4-runescape-reignited-old-school-runescape-jagex",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.29,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "'I Did My Best' — Final Fantasy 7 Revelation Director Responds to Fans Asking for Full Disc Version",
+    "title": "Fourth RuneScape MMO Built With Unreal Engine in the Works, Jagex Announces RuneScape Animation With MoistCr1TiKaL",
     "source": "IGN",
-    "summary": "Final Fantasy 7 Revelation Naoki Hamaguchi said he did his best to fight for a disc release as the industry heads toward a \"future where physical media is essentially disc-less.\"",
-    "date": "Sat, 3 Oct 2026 16:21:11 +0000",
-    "link": "https://www.ign.com/articles/i-did-my-best-final-fantasy-7-revelation-director-responds-to-fans-asking-for-full-disc-version",
+    "summary": "Developer Jagex has announced a fourth MMO in the long-running RuneScape franchise, as well as an animated adaptation.",
+    "date": "Sat, 3 Oct 2026 20:00:22 +0000",
+    "link": "https://www.ign.com/articles/runescape-4-mmo-jagex-animation-series-moistcr1tikal",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.29,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Unreal Engine"
     ],
     "read_time": "1 min read"
   },
@@ -83,8 +83,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -101,8 +101,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -136,85 +136,138 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "Netflix Sets The Witcher Season 5's Fate",
+    "title": "10 Erotic Thrillers to Watch After Verity",
     "source": "Polygon",
-    "summary": "Netflix's The Witcher season 5 was expected to have its final showing in 2026, but has been quietly delayed to 2027, according to What's On Netflix.",
-    "date": "Sat, 03 Oct 2026 20:13:16 GMT",
-    "link": "https://www.polygon.com/the-witcher-season-5-when-release-date-netflix/",
+    "summary": "Loved Verity? These 10 erotic thrillers, from Rebecca to The Housemaid, trace the genre's history of obsession and desire.",
+    "date": "Sun, 04 Oct 2026 03:00:16 GMT",
+    "link": "https://www.polygon.com/best-erotic-thrillers-movies-like-verity/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.7,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Ken Russell's The Devils Gets 4K, NC-17 Release from Warner Bros.",
+    "title": "31 Years Ago, 'X-Files' Reached Its Zenith with a Near-Perfect 3-Part Thriller",
     "source": "Polygon",
-    "summary": "Warner Bros. is releasing Ken Russell's 1971 psychological horror drama The Devils in theaters this October, in restored 4K and uncensored.",
-    "date": "Sat, 03 Oct 2026 20:10:25 GMT",
-    "link": "https://www.polygon.com/ken-russell-the-devils-movie-4k-restoration-nc-17-rating/",
+    "summary": "The X-Files episodes \"Anasazi,\" \"The Blessing Way,\" and \"Paper Clip\" was a three-part mythology story that was a high point for the series.",
+    "date": "Sun, 04 Oct 2026 01:00:16 GMT",
+    "link": "https://www.polygon.com/the-x-files-anasazi-the-blessing-way-paper-clip/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "A RuneScape Animated Show Is Coming With a World-Famous Content Creator Attached",
+    "title": "Uncharted: The Lost Legacy Is Still the Best Uncharted Game",
     "source": "Polygon",
-    "summary": "A RuneScape animated adaptation is on the way from Jagex, in partnership with MoistCr1TiKaL and Lyrical Media.",
-    "date": "Sat, 03 Oct 2026 20:00:17 GMT",
-    "link": "https://www.polygon.com/runescape-animated-series-announced/",
+    "summary": "Naughty Dog's 2017 standalone spinoff that leaves Nathan Drake behind is an underappreciated masterpiece, and its director is leading Uncharted 5",
+    "date": "Sat, 03 Oct 2026 23:00:16 GMT",
+    "link": "https://www.polygon.com/uncharted-lost-legacy-rec-playstation-naughty-dog/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Stephen King’s Bleakest Movie, With an Ending He Couldn’t Imagine, Is Free on Streaming",
+    "source": "Polygon",
+    "summary": "The 2007 Stephen King adaptation remains one of horror's most devastating movies, and it's free on Roku.",
+    "date": "Sat, 03 Oct 2026 22:00:17 GMT",
+    "link": "https://www.polygon.com/stephen-king-the-mist-movie-free-to-stream/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "One of the most popular Total War: Warhammer 3 mods was 'deliberately corrupted' by its creator to sabotage AI-made copies",
+    "source": "PC Gamer",
+    "summary": "SFO Grimhammer 3 has since been restored to its original version, but the point's been made.",
+    "date": "Sun, 04 Oct 2026 01:16:02 +0000",
+    "link": "https://www.pcgamer.com/games/strategy/one-of-the-most-popular-total-war-warhammer-3-mods-was-deliberately-corrupted-by-its-creator-to-sabotage-ai-made-copies/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.37,
+      "badge": "success"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'",
+    "source": "PC Gamer",
+    "summary": "Even a man forged from steel falters sometimes.",
+    "date": "Sat, 03 Oct 2026 23:19:41 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "Metroid Meets Dead Cells In October's Coolest New Action Game",
-    "source": "Polygon",
-    "summary": "October's most exciting new action game brings modern sensibilities to a beloved franchise that hasn't seen a proper entry in far too long.",
-    "date": "Sat, 03 Oct 2026 20:00:17 GMT",
-    "link": "https://www.polygon.com/castlevania-belmonts-curse-release-date-metroidvania/",
+    "id": 15,
+    "title": "Valorant player claims to have inherited hardware ban through secondhand CPU, Riot anticheat boss disputes parts of story",
+    "source": "PC Gamer",
+    "summary": "Unlikely, but not impossible?",
+    "date": "Sat, 03 Oct 2026 22:41:35 +0000",
+    "link": "https://www.pcgamer.com/games/fps/valorant-player-claims-to-have-inherited-hardware-ban-through-secondhand-cpu-riot-anticheat-boss-disputes-parts-of-story/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.09,
+      "score": -0.09,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 13,
+    "id": 16,
     "title": "RuneScape 4 announced at RuneFest, full MMO sequel started as expansion to survival game Dragonwilds",
     "source": "PC Gamer",
     "summary": "An unstoppable juggernaut.",
@@ -226,62 +279,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "The Witcher 3's remaster just brought it to a new all-time concurrent player count peak",
-    "source": "PC Gamer",
-    "summary": "Toss a coin—oh, it's a free upgrade.",
-    "date": "Sat, 03 Oct 2026 16:40:35 +0000",
-    "link": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-remaster-just-brought-it-to-a-new-all-time-concurrent-player-count-peak/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.27,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Forget what PC Gamer said: The Witcher 3 will always be my 2015 GOTY",
-    "source": "PC Gamer",
-    "summary": "And now it looks better than ever.",
-    "date": "Sat, 03 Oct 2026 16:39:49 +0000",
-    "link": "https://www.pcgamer.com/games/the-witcher/forget-what-pc-gamer-said-the-witcher-3-will-always-be-my-2015-goty/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Deadlock is the king of MOBA character designs, and it's all thanks to Valve's embrace of New Yorkyness",
-    "source": "PC Gamer",
-    "summary": "I want to be a part of it…",
-    "date": "Sat, 03 Oct 2026 16:06:23 +0000",
-    "link": "https://www.pcgamer.com/games/moba/deadlock-is-the-king-of-moba-character-designs-and-its-all-thanks-to-valves-embrace-of-new-yorkyness/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -299,8 +298,8 @@
     },
     "tags": [
       "Xbox",
-      "PlayStation",
-      "Patch"
+      "Patch",
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
@@ -317,8 +316,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -352,8 +351,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
