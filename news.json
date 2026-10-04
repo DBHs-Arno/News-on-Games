@@ -12,8 +12,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -30,8 +30,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -48,8 +48,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -72,6 +72,24 @@
   },
   {
     "id": 5,
+    "title": "Fourth RuneScape officially revealed",
+    "source": "Eurogamer",
+    "summary": "Jagex has announced a fourth MMO in the RuneScape series. Read more...",
+    "date": "Sun, 04 Oct 2026 11:12:52 +0000",
+    "link": "https://www.eurogamer.net/jagex-runescape-4-mmo-unreal-engine-animated-series-moistcr1tikal",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
     "title": "Final Fantasy 7 Revelation director says he \"did his best\" to fight for a full disc release",
     "source": "Eurogamer",
     "summary": "Final Fantasy 7 Revelation director Naoki Hamaguchi has responded to fans asking for a full disc version of the game, saying he \"did [his] best\" to push for physical media as the industry edges towards an all-digital future. Read more...",
@@ -83,13 +101,13 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Sony in talks to land Battlefield movie from Christopher McQuarrie and Michael B. Jordan",
     "source": "Eurogamer",
     "summary": "Sony is reportedly in talks to acquire a big-screen adaptation of Electronic Arts' Battlefield, with Christopher McQuarrie attached to write, direct and produce, and Michael B. Jordan on board to produce. Read more...",
@@ -101,13 +119,13 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\"",
     "source": "Eurogamer",
     "summary": "Capcom wants to transform its in-house RE Engine into what it's calling an \"AI-generation game engine\". Read more...",
@@ -124,97 +142,115 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "Metro Redux's Next-Gen Update arrives this month as franchise passes 50 million sales",
-    "source": "Eurogamer",
-    "summary": "A free next-gen update is coming to Metro 2033 Redux and Metro Last Light Redux on 22nd October for PC (29th October for consoles). Read more...",
-    "date": "Sat, 03 Oct 2026 12:04:23 +0000",
-    "link": "https://www.eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.33,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 9,
-    "title": "10 Erotic Thrillers to Watch After Verity",
+    "title": "26 Years Later, Charles Schulz’s Final Comic Strip Is Still an All-Time Peanuts Classic",
     "source": "Polygon",
-    "summary": "Loved Verity? These 10 erotic thrillers, from Rebecca to The Housemaid, trace the genre's history of obsession and desire.",
-    "date": "Sun, 04 Oct 2026 03:00:16 GMT",
-    "link": "https://www.polygon.com/best-erotic-thrillers-movies-like-verity/",
+    "summary": "On Febraury 13, 2000, the final Peanuts comic strip ran in newspapers, concluding 50 years of the lovable characters.",
+    "date": "Sun, 04 Oct 2026 11:00:16 GMT",
+    "link": "https://www.polygon.com/final-peanuts-comic-strip-charles-schulz/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.7,
+      "score": 0.17,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "31 Years Ago, 'X-Files' Reached Its Zenith with a Near-Perfect 3-Part Thriller",
+    "title": "GOTY 2026’s Final Nomination Is a Battleground of 8/10 Games",
     "source": "Polygon",
-    "summary": "The X-Files episodes \"Anasazi,\" \"The Blessing Way,\" and \"Paper Clip\" was a three-part mythology story that was a high point for the series.",
-    "date": "Sun, 04 Oct 2026 01:00:16 GMT",
-    "link": "https://www.polygon.com/the-x-files-anasazi-the-blessing-way-paper-clip/",
+    "summary": "This year has seen a ton of blockbuster video games hovering around 85 on Metacritic, like Control Resonant and Gears of War: E-Day.",
+    "date": "Sun, 04 Oct 2026 10:00:15 GMT",
+    "link": "https://www.polygon.com/goty-watch-nominations-metacritic-85-club/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Uncharted: The Lost Legacy Is Still the Best Uncharted Game",
+    "title": "65 Years Ago, The Twilight Zone Aired Its Creepiest Episode",
     "source": "Polygon",
-    "summary": "Naughty Dog's 2017 standalone spinoff that leaves Nathan Drake behind is an underappreciated masterpiece, and its director is leading Uncharted 5",
-    "date": "Sat, 03 Oct 2026 23:00:16 GMT",
-    "link": "https://www.polygon.com/uncharted-lost-legacy-rec-playstation-naughty-dog/",
+    "summary": "It's A Good Life\" throws more than one horror curveball during its taut runtime.",
+    "date": "Sun, 04 Oct 2026 08:00:15 GMT",
+    "link": "https://www.polygon.com/twilight-zone-creepiest-episode-monster/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.43,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "Stephen King’s Bleakest Movie, With an Ending He Couldn’t Imagine, Is Free on Streaming",
+    "title": "5 Incredible Anime Arcs That Are 10/10, No Notes",
     "source": "Polygon",
-    "summary": "The 2007 Stephen King adaptation remains one of horror's most devastating movies, and it's free on Roku.",
-    "date": "Sat, 03 Oct 2026 22:00:17 GMT",
-    "link": "https://www.polygon.com/stephen-king-the-mist-movie-free-to-stream/",
+    "summary": "These anime storylines elevate these five series with thrilling character developments and satisfying resolutions.",
+    "date": "Sun, 04 Oct 2026 08:00:15 GMT",
+    "link": "https://www.polygon.com/best-anime-arcs-that-are-perfect/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.55,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
+    "title": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work",
+    "source": "PC Gamer",
+    "summary": "GPT-6 Astra tried to get a leg-up in Blizzard's RTS by pilfering a human-created bot.",
+    "date": "Sun, 04 Oct 2026 10:49:26 +0000",
+    "link": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'",
+    "source": "PC Gamer",
+    "summary": "Lucia and Jason's appearance in a fashion magazine gives us a couple more titbits of GTA info.",
+    "date": "Sun, 04 Oct 2026 03:14:41 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
     "title": "One of the most popular Total War: Warhammer 3 mods was 'deliberately corrupted' by its creator to sabotage AI-made copies",
     "source": "PC Gamer",
     "summary": "SFO Grimhammer 3 has since been restored to its original version, but the point's been made.",
@@ -231,7 +267,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'",
     "source": "PC Gamer",
     "summary": "Even a man forged from steel falters sometimes.",
@@ -243,44 +279,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Valorant player claims to have inherited hardware ban through secondhand CPU, Riot anticheat boss disputes parts of story",
-    "source": "PC Gamer",
-    "summary": "Unlikely, but not impossible?",
-    "date": "Sat, 03 Oct 2026 22:41:35 +0000",
-    "link": "https://www.pcgamer.com/games/fps/valorant-player-claims-to-have-inherited-hardware-ban-through-secondhand-cpu-riot-anticheat-boss-disputes-parts-of-story/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "RuneScape 4 announced at RuneFest, full MMO sequel started as expansion to survival game Dragonwilds",
-    "source": "PC Gamer",
-    "summary": "An unstoppable juggernaut.",
-    "date": "Sat, 03 Oct 2026 21:44:49 +0000",
-    "link": "https://www.pcgamer.com/games/mmo/runescape-4-announced-at-runefest-full-mmo-sequel-started-as-expansion-to-survival-game-dragonwilds/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -298,8 +298,8 @@
     },
     "tags": [
       "Xbox",
-      "Patch",
-      "PlayStation"
+      "PlayStation",
+      "Patch"
     ],
     "read_time": "1 min read"
   },
@@ -316,8 +316,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -351,8 +351,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
