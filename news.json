@@ -1,32 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Avengers: Doomsday Poster Highlights Doctor Doom and 3 Latverian Witches",
+    "title": "The Best Deals Today: Star Wars Zero Company, AirPods Pro 3, Trails in the Sky 1st Chapter, and More",
     "source": "IGN",
-    "summary": "Marvel Studios has revealed a new Avengers: Doomsday poster, giving audiences a closer look not only at Doctor Doom but also at the three Latverian witches who will accompany him this December.",
-    "date": "Sat, 3 Oct 2026 22:03:45 +0000",
-    "link": "https://www.ign.com/articles/avengers-doomsday-poster-highlights-doctor-doom-and-3-latverian-witches",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "Inde Navarrette Teases X-Men Role, Says She's 'Doing Everything Humanly Possible' to Do Rogue Justice",
-    "source": "IGN",
-    "summary": "Inde Navarrette has opened up about playing Rogue in X-Men, saying she's \"doing everything humanly possible\" to make sure she does the character justice.",
-    "date": "Sat, 3 Oct 2026 21:03:46 +0000",
-    "link": "https://www.ign.com/articles/inde-navarrette-teases-x-men-role-says-shes-doing-everything-humanly-possible-to-do-rogue-justice",
+    "summary": "",
+    "date": "Sun, 4 Oct 2026 21:13:34 +0000",
+    "link": "https://www.ign.com/articles/best-deals-for-october-4-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.17,
+      "score": 0.75,
       "badge": "success"
     },
     "tags": [
@@ -36,15 +18,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 3,
-    "title": "Everything We Saw at RuneFest 2026, Including RuneScape 4 and RuneScape Reignited",
+    "id": 2,
+    "title": "Blade Director Defends 'Good Dude' Kevin Feige After Marvel Scrapped Mahershala Ali's 1920s Vampire Movie",
     "source": "IGN",
-    "summary": "RuneFest 2026 is over, and we’ve got a roundup of everything announced at Jagex’s big show celebrating its long-running fantasy MMORPG.",
-    "date": "Sat, 3 Oct 2026 20:00:41 +0000",
-    "link": "https://www.ign.com/articles/runefest-2026-runescape-4-runescape-reignited-old-school-runescape-jagex",
+    "summary": "Blade director Bassam Tariq said he felt like a \"failure\" after exiting the Mahershala Ali-led Marvel movie, but he doesn't blame MCU mastermind Kevin Feige for how things went down.",
+    "date": "Sun, 4 Oct 2026 21:11:39 +0000",
+    "link": "https://www.ign.com/articles/blade-director-defends-good-dude-kevin-feige-after-marvel-scrapped-mahershala-alis-1920s-vampire-movie",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "James Gunn Shuts Down Jensen Ackles Batman Casting Rumors",
+    "source": "IGN",
+    "summary": "DC Studios co-CEO James Gunn has shut down rumors that Supernatural star Jensen Ackles has been cast as the DCU's Batman.",
+    "date": "Sun, 4 Oct 2026 19:50:26 +0000",
+    "link": "https://www.ign.com/articles/james-gunn-shuts-down-jensen-ackles-batman-casting-rumors",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.05,
       "badge": "info"
     },
     "tags": [
@@ -55,18 +55,19 @@
   },
   {
     "id": 4,
-    "title": "Fourth RuneScape MMO Built With Unreal Engine in the Works, Jagex Announces RuneScape Animation With MoistCr1TiKaL",
+    "title": "Tom Cruise's Digger Bombs Hard With $20 Million Global Opening in Theaters",
     "source": "IGN",
-    "summary": "Developer Jagex has announced a fourth MMO in the long-running RuneScape franchise, as well as an animated adaptation.",
-    "date": "Sat, 3 Oct 2026 20:00:22 +0000",
-    "link": "https://www.ign.com/articles/runescape-4-mmo-jagex-animation-series-moistcr1tikal",
+    "summary": "Tom Cruise's Digger bombed hard in theaters, pulling in an estimated $20 million in its opening weekend at the global box office.",
+    "date": "Sun, 4 Oct 2026 18:46:57 +0000",
+    "link": "https://www.ign.com/articles/tom-cruises-digger-bombs-hard-with-20-million-global-opening-in-theaters",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
     },
     "tags": [
-      "Unreal Engine"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -143,32 +144,31 @@
   },
   {
     "id": 9,
-    "title": "Forget Star Wars Movies, the Franchise’s Future Belongs to Video Games",
+    "title": "Fire Emblem Fans Need to Play 2017's Stellar Revenge-Saga RPG",
     "source": "Polygon",
-    "summary": "Zero Company, Galactic Racer, KOTOR, and upcoming new games make SW look more like D&D than the MCU",
-    "date": "Sun, 04 Oct 2026 18:00:15 GMT",
-    "link": "https://www.polygon.com/star-wars-video-games-coming-for-movies-lunch/",
+    "summary": "Fire Emblem has taken Leda players on a path of revenge. Yet another game is perfect for those who enjoy supporting women's wrongs.",
+    "date": "Mon, 05 Oct 2026 00:00:15 GMT",
+    "link": "https://www.polygon.com/fire-emblem-tales-of-berseria/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.21,
+      "score": 0.3,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "RPG"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "'Buffy the Vampire Slayer' Would Be Much Better if It Were 2 Seasons Shorter",
+    "title": "Pokémon's Official Halloween Collection is Live and Full of Incredible Merch",
     "source": "Polygon",
-    "summary": "Buffy the Vampire Slayer ran for seven seasons, but cutting two of its weakest would have made the beloved series even better.",
-    "date": "Sun, 04 Oct 2026 17:00:16 GMT",
-    "link": "https://www.polygon.com/buffy-season-5-hot-take/",
+    "summary": "The Pokémon Center released its Halloween 2026 merchandise collection with Pokémon yard statues, Gengar sleepwear, and more.",
+    "date": "Sun, 04 Oct 2026 23:38:17 GMT",
+    "link": "https://www.polygon.com/pokemon-center-official-halloween-2026-collection-merch/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.28,
+      "score": 0.36,
       "badge": "success"
     },
     "tags": [
@@ -179,15 +179,15 @@
   },
   {
     "id": 11,
-    "title": "Tom Cruise Just Experienced His Worst Opening Weekend In Nearly 20 Years",
+    "title": "8 Video Game Villains With Motives You Can't Argue With",
     "source": "Polygon",
-    "summary": "Digger did not do very well in theaters during its opening weekend, hitting a grossing low Tom Cruise hasn't seen in almost 20 years",
-    "date": "Sun, 04 Oct 2026 16:22:10 GMT",
-    "link": "https://www.polygon.com/digger-tom-cruise-box-office/",
+    "summary": "From Renoir to Andrew Ryan, these 8 video game villains perhaps had a point…buried under the body count",
+    "date": "Sun, 04 Oct 2026 20:00:15 GMT",
+    "link": "https://www.polygon.com/video-game-villains-who-were-right/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -197,32 +197,33 @@
   },
   {
     "id": 12,
-    "title": "Link And GTA 6's Jason Get Into A Heated Debate In Hilarious SNL Weekend Update Bit",
+    "title": "25 Years Later, Ridley Scott’s Most Controversial Thriller Is Officially Free on Youtube",
     "source": "Polygon",
-    "summary": "There are only two weeks between the launch of the Ocarina of Time remake and GTA 6, which led to a rivalry between the games' protagonists on SNL.",
-    "date": "Sun, 04 Oct 2026 16:03:18 GMT",
-    "link": "https://www.polygon.com/saturday-night-live-zelda-vs-gta-6/",
+    "summary": "Ridley Scott is known for his epic sci-fi films, such 'Alien' and 'Blade Runner.' But in 2001, a controversial adaptation almost changed everything.",
+    "date": "Sun, 04 Oct 2026 19:00:16 GMT",
+    "link": "https://www.polygon.com/ridley-scott-hannibal-2001-controversy/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.25,
+      "score": 0.23,
       "badge": "success"
     },
     "tags": [
-      "Remake"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "What does your dream videogame concert look like?",
+    "title": "Garry Newman responds to s&box criticism in lengthy YouTube comment: 'I don't like giving up on things, I am stubborn'",
     "source": "PC Gamer",
-    "summary": "You are the conductor.",
-    "date": "Sun, 04 Oct 2026 16:21:59 +0000",
-    "link": "https://www.pcgamer.com/games/what-does-your-dream-videogame-concert-look-like/",
+    "summary": "He certainly seems to be aware of the problems.",
+    "date": "Sun, 04 Oct 2026 22:36:31 +0000",
+    "link": "https://www.pcgamer.com/games/garry-newman-responds-to-s-and-box-criticism-in-lengthy-youtube-comment-i-dont-like-giving-up-on-things-i-am-stubborn/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.23,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -232,15 +233,15 @@
   },
   {
     "id": 14,
-    "title": "RuneScape is getting a new character type that promises a fresh start, but existing players are wary of splitting the community up",
+    "title": "Kingdom Come: Deliverance studio co-founder says a lot of RPGs are 'still games for teenagers,' and that he's 'tired of all the RPGs where you are this chosen one'",
     "source": "PC Gamer",
-    "summary": "RuneScape Reignited is a new way to play RS3… kind of.",
-    "date": "Sun, 04 Oct 2026 16:10:30 +0000",
-    "link": "https://www.pcgamer.com/games/mmo/runescape-is-getting-a-new-character-type-that-promises-a-fresh-start-but-existing-players-are-wary-of-splitting-the-community-up/",
+    "summary": "\"Everybody's going to think that I am hating on Expedition 33 right now, but that's definitely not the case.\"",
+    "date": "Sun, 04 Oct 2026 18:19:05 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-studio-co-founder-says-a-lot-of-rpgs-are-still-games-for-teenagers-and-that-hes-tired-of-all-the-rpgs-where-you-are-this-chosen-one/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.13,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.04,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -250,14 +251,14 @@
   },
   {
     "id": 15,
-    "title": "Tonda Ros, creator of Blue Prince, has played UFO 50 for almost 700 hours: 'I think it's easily my favourite game of the last 20 years'",
+    "title": "Brigador devs: 'The '90s PC classics often taught really special things, but not because the story said, Wow, violence is bad!'",
     "source": "PC Gamer",
-    "summary": "The designer of 2025's celebrated puzzler guides us through the games on his PC.",
-    "date": "Sun, 04 Oct 2026 16:00:00 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/tonda-ros-creator-of-blue-prince-has-played-ufo-50-for-almost-700-hours-i-think-its-easily-my-favourite-game-of-the-last-20-years/",
+    "summary": "Brigador Killers wants to make you think, not tell you how to feel.",
+    "date": "Sun, 04 Oct 2026 18:17:52 +0000",
+    "link": "https://www.pcgamer.com/games/action/brigador-devs-the-90s-pc-classics-often-taught-really-special-things-but-not-because-the-story-said-wow-violence-is-bad/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.08,
+      "score": -0.05,
       "badge": "info"
     },
     "tags": [
@@ -268,15 +269,15 @@
   },
   {
     "id": 16,
-    "title": "Silent Hill: Townfall is the first horror game to make me feel bad for using a shotgun",
+    "title": "What does your dream videogame concert look like?",
     "source": "PC Gamer",
-    "summary": "I was perhaps too trigger-happy.",
-    "date": "Sun, 04 Oct 2026 15:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/horror/silent-hill-townfall-is-the-first-horror-game-to-make-me-feel-bad-for-using-a-shotgun/",
+    "summary": "You are the conductor.",
+    "date": "Sun, 04 Oct 2026 16:21:59 +0000",
+    "link": "https://www.pcgamer.com/games/what-does-your-dream-videogame-concert-look-like/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.21,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
