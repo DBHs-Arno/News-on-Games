@@ -1,6 +1,42 @@
 [
   {
     "id": 1,
+    "title": "'The Movie Still Hasn't Made Any Money': Dakota Johnson is Happy to Joke About Madame Web Being One of Hollywood's Worst Ever Flops",
+    "source": "IGN",
+    "summary": "Madame Web star Dakota Johnson has joked about her widely-panned superhero movie's status as a box office bomb.",
+    "date": "Mon, 5 Oct 2026 09:27:58 +0000",
+    "link": "https://www.ign.com/articles/the-movie-still-hasnt-made-any-money-dakota-johnson-is-happy-to-joke-about-madame-web-being-one-of-hollywoods-worst-ever-flops",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Rockstar Traveled Across Florida With Gang Members and Cops for GTA 6 Research",
+    "source": "IGN",
+    "summary": "Rockstar has discussed travelling across Florida with gang members and cops for GTA 6 research, and hovering in a helicopter above a Beyonce concert.",
+    "date": "Mon, 5 Oct 2026 08:29:00 +0000",
+    "link": "https://www.ign.com/articles/gta-6-research-gang-members",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
     "title": "Lanterns Star Kyle Chandler's Hal Jordan Is a Superhero Casting That Rivals Robert Downey Jr.'s Iron Man, Fans Say",
     "source": "IGN",
     "summary": "Lanterns Season 1 is over, and the verdict is in: Fans say Kyle Chandler's Hal Jordan rivals Robert Downey Jr.'s Iron Man as one of the best superhero casting choices of all time.",
@@ -12,13 +48,13 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "Lanterns Season 1 Finale Review & Recap",
     "source": "IGN",
     "summary": "Though most of the twists can be seen coming well in advance, Lanterns Episode 8 manages to wrap up the season on an emotionally satisfying note.",
@@ -30,189 +66,189 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Mighty Mike Plays Dad Says He Owns 'Like 12 Companies,' Promises Refunds for AI Shirts",
-    "source": "IGN",
-    "summary": "Mighty Mike Plays dad Dave has promised refunds and issued a lengthy explanation after the internet demanded more information about the YouTube ads allegedly purchased by his son and the drama that followed.",
-    "date": "Sun, 4 Oct 2026 23:48:07 +0000",
-    "link": "https://www.ign.com/articles/mighty-mike-plays-dad-says-he-owns-like-12-companies-promises-refunds-for-ai-shirts",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Blindfolded Tekken 8 Player Achieves One of the Game’s Top Ranks from Beginner",
-    "source": "IGN",
-    "summary": "Professional Tekken 8 player SuperBrine is going viral after reaching God of Destruction using Alisa while completely blindfolded with a sleep mask.",
-    "date": "Sun, 4 Oct 2026 23:04:35 +0000",
-    "link": "https://www.ign.com/articles/blindfolded-tekken-8-player-achieves-one-of-the-games-top-ranks-from-beginner",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
-    "title": "Dynasty Warriors producer would rather make new games than more remasters",
+    "title": "Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket",
     "source": "Eurogamer",
-    "summary": "Dynasty Warriors producer Tomohiko Sho says he'd rather spend what's left of his career making new games than more remasters of his old ones. Read more...",
-    "date": "Sun, 04 Oct 2026 17:07:59 +0000",
-    "link": "https://www.eurogamer.net/dynasty-warriors-tomohiko-sho-sequels-not-remasters",
+    "summary": "Player numbers are still rising for The Witcher 3 following the release of the Remastered edition upgrade last week, as people not only return to the game following its overhaul but also buy it for the first time, or again. Read more...",
+    "date": "Mon, 05 Oct 2026 11:17:51 +0000",
+    "link": "https://www.eurogamer.net/witcher-3-remastered-steam-players-sales",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.27,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 6,
-    "title": "Modders are furious as Claude-powered mashup mods flood social media",
+    "title": "Ace Combat 8 is far and away the series' biggest launch on Steam",
     "source": "Eurogamer",
-    "summary": "Long-time mod makers are not happy about the latest trend to take over their corner of the internet - the \"bullshit 'trend'\" of AI-generated, or \"vibe-coded\", mods. Read more...",
-    "date": "Sun, 04 Oct 2026 16:38:22 +0000",
-    "link": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
+    "summary": "Ace Combat 8: Wings of Theve has joined the ranks of September-October releases that have done very well commercially. The sequel, which officially launched on 2nd October following three days of early access, has been very popular on Steam. Read more...",
+    "date": "Mon, 05 Oct 2026 11:02:40 +0000",
+    "link": "https://www.eurogamer.net/ace-combat-8-steam-launch-record-players",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.17,
+      "score": 0.21,
       "badge": "success"
     },
     "tags": [
-      "AI"
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 7,
-    "title": "PlatinumGames boss hints he wants to expand Bayonetta as Stellar Blade director calls the series \"indispensable\"",
+    "title": "Final Fantasy Resonance feels so good to play because Square Enix 'experimented' with combining the best bits of FF5 and FF6",
     "source": "Eurogamer",
-    "summary": "PlatinumGames president Atsushi Inaba has hinted he'd like to expand the character of Bayonetta and broaden her world. Read more...",
-    "date": "Sun, 04 Oct 2026 13:37:29 +0000",
-    "link": "https://www.eurogamer.net/platinumgames-bayonetta-expand-atsushi-inaba-stellar-blade",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.34,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "RuneScape Reignited launches 2 December",
-    "source": "Eurogamer",
-    "summary": "Jagex is offering long-time, lapsed, and new RuneScape players a clean slate with RuneScape Reignited. Read more...",
-    "date": "Sun, 04 Oct 2026 12:40:21 +0000",
-    "link": "https://www.eurogamer.net/runescape-reignited-launch-date-2-december-economy-reset",
+    "summary": "Final Fantasy Resonance, a game made from the ashes of closed-down mobile game Final Fantasy Brave Exvius, is good. Very good, in fact, as I learned at Gamescom 2026. It's basically a pixel-first FF RPG that takes old-school turn-based combat and modernises it. It feels like Octopath Traveler, but w...",
+    "date": "Mon, 05 Oct 2026 10:41:05 +0000",
+    "link": "https://www.eurogamer.net/final-fantasy-resonance-combat-system-ff5-ff6",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.33,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "RuneScape creator Jagex in hot water over generative AI use in recent trailer",
+    "source": "Eurogamer",
+    "summary": "RuneScape creator Jagex recently hosted its annual convention RuneFest, a hub for community events and new reveals for the British developer's many games. Sadly, one of those reveals has spoilt the fun somewhat due to unexpected generative AI use. Read more...",
+    "date": "Mon, 05 Oct 2026 09:28:10 +0000",
+    "link": "https://www.eurogamer.net/runescape-dragon-slayer-2-trailer-generative-ai",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "65 Years Ago, the Most Terrifying Episode of 'The Twilight Zone' Broke All Its Own Rules",
+    "title": "Doctor Who Showrunner Finally Reveals What Killed the Show",
     "source": "Polygon",
-    "summary": "The 1961 epsidoe of The Twilight Zone, \"The Shelter\" was all about the worst of human nature",
-    "date": "Mon, 05 Oct 2026 04:00:20 GMT",
-    "link": "https://www.polygon.com/the-twilight-zone-the-shelter-anniversary/",
+    "summary": "Doctor Who was on its last legs even before Disney came along, but Russell T. Davies has now revealed what actually caused its downfall.",
+    "date": "Mon, 05 Oct 2026 12:01:28 GMT",
+    "link": "https://www.polygon.com/what-killed-doctor-who-bbc-russell-t-davies/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.18,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.05,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "25 Years Later, One of the Greatest Crime Thrillers Ever Made Is Free on Streaming",
+    "title": "Star Wars: Galactic Racer Is the Hades of Racing Games for One Ultimate Reason",
     "source": "Polygon",
-    "summary": "Denzel Washington's unforgettable performance in Training Day is unforgettable and had a major impact on cinematic portrayals of villains.",
-    "date": "Mon, 05 Oct 2026 03:00:17 GMT",
-    "link": "https://www.polygon.com/training-day-denzel-washington-free-to-stream-on-roku/",
+    "summary": "Fuse Games wasn't just happy with coasting on Star Wars nostalgia - they wanted to change the arcade racer genre for good.",
+    "date": "Mon, 05 Oct 2026 12:00:16 GMT",
+    "link": "https://www.polygon.com/star-wars-galactic-racer-roguelike-interview/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.44,
+      "score": 0.5,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Zelda: Ocarina of Time's Link and Epona Get Official New Lego Set",
+    "title": "Magic Is Planning Another Kpop Demon Hunters Collab After Secret Lair Drop",
     "source": "Polygon",
-    "summary": "Nintendo and Lego have announced a new Legend of Zelda: Ocarina of Time set for the series' 40th anniversary.",
-    "date": "Mon, 05 Oct 2026 02:36:33 GMT",
-    "link": "https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-lego-set/",
+    "summary": "Magic: The Gathering teases that more KPop Demon Hunters products are on the way after recent Secret Lair reveal.",
+    "date": "Mon, 05 Oct 2026 11:46:10 GMT",
+    "link": "https://www.polygon.com/kpop-demon-hunters-magic-secret-lair-expands/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.14,
+      "score": 0.12,
       "badge": "success"
     },
     "tags": [
-      "Nintendo"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "10 Near-Perfect Nintendo Switch Games Nobody Played",
+    "title": "GTA 6 Shows 'What the American Dream Looks Like Now' in a Game Without Background Characters",
     "source": "Polygon",
-    "summary": "The Switch game library is massive, but a lot of people overlook 10 amazing hidden gems.",
-    "date": "Mon, 05 Oct 2026 02:19:01 GMT",
-    "link": "https://www.polygon.com/best-nintendo-switch-hidden-gems/",
+    "summary": "New interview reveals Grand Theft Auto 6 put hundreds of hours into NPC design and dialogue and tried its best to make an accurate-to-the-times GTA.",
+    "date": "Mon, 05 Oct 2026 10:12:25 GMT",
+    "link": "https://www.polygon.com/grand-theft-auto-gta-6-love-magazine-interview-npc-details/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "I got my start writing for a PlayStation 2 magazine: These are my 12 PS2-pilled recommendations from the Steam Autumn Sale",
+    "source": "PC Gamer",
+    "summary": "Both the classics and the games they inspired.",
+    "date": "Mon, 05 Oct 2026 11:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/i-got-my-start-writing-for-a-playstation-2-magazine-these-are-my-12-ps2-pilled-recommendations-from-the-steam-autumn-sale/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Steam",
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Warhammer: Blood Bowl is Blood Bowl 3.5 rather than a whole new game, but based on the beta it's definitely an upgrade",
+    "source": "PC Gamer",
+    "summary": "An exclusive early look at the upcoming playtest for Blood Bowl's next iteration.",
+    "date": "Mon, 05 Oct 2026 08:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/strategy/warhammer-blood-bowl-is-blood-bowl-3-5-rather-than-a-whole-new-game-but-based-on-the-beta-its-definitely-an-upgrade/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.01,
       "badge": "info"
     },
     "tags": [
-      "Nintendo"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 13,
+    "id": 15,
     "title": "It's easy to forget now, but the first Elder Scrolls game had a rough launch back in the day: 'It was a disaster in a lot of ways and somehow built a billion-dollar franchise'",
     "source": "PC Gamer",
     "summary": "Bethesda wasn't always a name associated with open world RPGs.",
@@ -224,13 +260,13 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "Garry Newman responds to s&box criticism in lengthy YouTube comment: 'I don't like giving up on things, I am stubborn'",
     "source": "PC Gamer",
     "summary": "He certainly seems to be aware of the problems.",
@@ -242,44 +278,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Kingdom Come: Deliverance studio co-founder says a lot of RPGs are 'still games for teenagers,' and that he's 'tired of all the RPGs where you are this chosen one'",
-    "source": "PC Gamer",
-    "summary": "\"Everybody's going to think that I am hating on Expedition 33 right now, but that's definitely not the case.\"",
-    "date": "Sun, 04 Oct 2026 18:19:05 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-studio-co-founder-says-a-lot-of-rpgs-are-still-games-for-teenagers-and-that-hes-tired-of-all-the-rpgs-where-you-are-this-chosen-one/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Brigador devs: 'The '90s PC classics often taught really special things, but not because the story said, Wow, violence is bad!'",
-    "source": "PC Gamer",
-    "summary": "Brigador Killers wants to make you think, not tell you how to feel.",
-    "date": "Sun, 04 Oct 2026 18:17:52 +0000",
-    "link": "https://www.pcgamer.com/games/action/brigador-devs-the-90s-pc-classics-often-taught-really-special-things-but-not-because-the-story-said-wow-violence-is-bad/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -315,8 +315,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -350,8 +350,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
