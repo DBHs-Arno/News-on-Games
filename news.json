@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "'The Movie Still Hasn't Made Any Money': Dakota Johnson is Happy to Joke About Madame Web Being One of Hollywood's Worst Ever Flops",
+    "title": "Kingdom Come: Deliverance Dev Calls Out RPGs 'for Teenagers' That Just Focus on 'Power Fantasy'",
     "source": "IGN",
-    "summary": "Madame Web star Dakota Johnson has joked about her widely-panned superhero movie's status as a box office bomb.",
-    "date": "Mon, 5 Oct 2026 09:27:58 +0000",
-    "link": "https://www.ign.com/articles/the-movie-still-hasnt-made-any-money-dakota-johnson-is-happy-to-joke-about-madame-web-being-one-of-hollywoods-worst-ever-flops",
+    "summary": "Kingdom Come: Deliverance studio co-founder Martin Klima is \"bored and tired\" of RPGs that are just \"power fantasy\" trips \"for teenagers.\"",
+    "date": "Mon, 5 Oct 2026 17:32:16 +0000",
+    "link": "https://www.ign.com/articles/kingdom-come-deliverance-dev-calls-out-rpgs-for-teenagers-that-just-focus-on-power-fantasy",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.1,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.45,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -19,241 +19,28 @@
   },
   {
     "id": 2,
-    "title": "Rockstar Traveled Across Florida With Gang Members and Cops for GTA 6 Research",
+    "title": "Gears of War: E-Day Runs Smoothly on Xbox Series S By Using SSD as RAM",
     "source": "IGN",
-    "summary": "Rockstar has discussed travelling across Florida with gang members and cops for GTA 6 research, and hovering in a helicopter above a Beyonce concert.",
-    "date": "Mon, 5 Oct 2026 08:29:00 +0000",
-    "link": "https://www.ign.com/articles/gta-6-research-gang-members",
+    "summary": "The Coalition was able to work some magic on the Xbox Series S by tapping into the SSD to increase performance.",
+    "date": "Mon, 5 Oct 2026 17:29:42 +0000",
+    "link": "https://www.ign.com/articles/gears-of-war-e-day-runs-smoothly-on-xbox-series-s-by-using-ssd-as-ram",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.47,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Lanterns Star Kyle Chandler's Hal Jordan Is a Superhero Casting That Rivals Robert Downey Jr.'s Iron Man, Fans Say",
+    "title": "The Batman Part 2 Halts Production as Matt Reeves Steps Away for Personal Reasons",
     "source": "IGN",
-    "summary": "Lanterns Season 1 is over, and the verdict is in: Fans say Kyle Chandler's Hal Jordan rivals Robert Downey Jr.'s Iron Man as one of the best superhero casting choices of all time.",
-    "date": "Mon, 5 Oct 2026 03:12:07 +0000",
-    "link": "https://www.ign.com/articles/lanterns-star-kyle-chandlers-hal-jordan-is-a-superhero-casting-that-rivals-robert-downey-jrs-iron-man-fans-say",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 1.0,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Lanterns Season 1 Finale Review & Recap",
-    "source": "IGN",
-    "summary": "Though most of the twists can be seen coming well in advance, Lanterns Episode 8 manages to wrap up the season on an emotionally satisfying note.",
-    "date": "Mon, 5 Oct 2026 02:00:00 +0000",
-    "link": "https://www.ign.com/articles/lanterns-season-1-finale-review-recap",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket",
-    "source": "Eurogamer",
-    "summary": "Player numbers are still rising for The Witcher 3 following the release of the Remastered edition upgrade last week, as people not only return to the game following its overhaul but also buy it for the first time, or again. Read more...",
-    "date": "Mon, 05 Oct 2026 11:17:51 +0000",
-    "link": "https://www.eurogamer.net/witcher-3-remastered-steam-players-sales",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Ace Combat 8 is far and away the series' biggest launch on Steam",
-    "source": "Eurogamer",
-    "summary": "Ace Combat 8: Wings of Theve has joined the ranks of September-October releases that have done very well commercially. The sequel, which officially launched on 2nd October following three days of early access, has been very popular on Steam. Read more...",
-    "date": "Mon, 05 Oct 2026 11:02:40 +0000",
-    "link": "https://www.eurogamer.net/ace-combat-8-steam-launch-record-players",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.21,
-      "badge": "success"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Final Fantasy Resonance feels so good to play because Square Enix 'experimented' with combining the best bits of FF5 and FF6",
-    "source": "Eurogamer",
-    "summary": "Final Fantasy Resonance, a game made from the ashes of closed-down mobile game Final Fantasy Brave Exvius, is good. Very good, in fact, as I learned at Gamescom 2026. It's basically a pixel-first FF RPG that takes old-school turn-based combat and modernises it. It feels like Octopath Traveler, but w...",
-    "date": "Mon, 05 Oct 2026 10:41:05 +0000",
-    "link": "https://www.eurogamer.net/final-fantasy-resonance-combat-system-ff5-ff6",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.33,
-      "badge": "success"
-    },
-    "tags": [
-      "RPG"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "RuneScape creator Jagex in hot water over generative AI use in recent trailer",
-    "source": "Eurogamer",
-    "summary": "RuneScape creator Jagex recently hosted its annual convention RuneFest, a hub for community events and new reveals for the British developer's many games. Sadly, one of those reveals has spoilt the fun somewhat due to unexpected generative AI use. Read more...",
-    "date": "Mon, 05 Oct 2026 09:28:10 +0000",
-    "link": "https://www.eurogamer.net/runescape-dragon-slayer-2-trailer-generative-ai",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "Doctor Who Showrunner Finally Reveals What Killed the Show",
-    "source": "Polygon",
-    "summary": "Doctor Who was on its last legs even before Disney came along, but Russell T. Davies has now revealed what actually caused its downfall.",
-    "date": "Mon, 05 Oct 2026 12:01:28 GMT",
-    "link": "https://www.polygon.com/what-killed-doctor-who-bbc-russell-t-davies/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Star Wars: Galactic Racer Is the Hades of Racing Games for One Ultimate Reason",
-    "source": "Polygon",
-    "summary": "Fuse Games wasn't just happy with coasting on Star Wars nostalgia - they wanted to change the arcade racer genre for good.",
-    "date": "Mon, 05 Oct 2026 12:00:16 GMT",
-    "link": "https://www.polygon.com/star-wars-galactic-racer-roguelike-interview/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Magic Is Planning Another Kpop Demon Hunters Collab After Secret Lair Drop",
-    "source": "Polygon",
-    "summary": "Magic: The Gathering teases that more KPop Demon Hunters products are on the way after recent Secret Lair reveal.",
-    "date": "Mon, 05 Oct 2026 11:46:10 GMT",
-    "link": "https://www.polygon.com/kpop-demon-hunters-magic-secret-lair-expands/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "GTA 6 Shows 'What the American Dream Looks Like Now' in a Game Without Background Characters",
-    "source": "Polygon",
-    "summary": "New interview reveals Grand Theft Auto 6 put hundreds of hours into NPC design and dialogue and tried its best to make an accurate-to-the-times GTA.",
-    "date": "Mon, 05 Oct 2026 10:12:25 GMT",
-    "link": "https://www.polygon.com/grand-theft-auto-gta-6-love-magazine-interview-npc-details/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "I got my start writing for a PlayStation 2 magazine: These are my 12 PS2-pilled recommendations from the Steam Autumn Sale",
-    "source": "PC Gamer",
-    "summary": "Both the classics and the games they inspired.",
-    "date": "Mon, 05 Oct 2026 11:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/i-got-my-start-writing-for-a-playstation-2-magazine-these-are-my-12-ps2-pilled-recommendations-from-the-steam-autumn-sale/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Steam",
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Warhammer: Blood Bowl is Blood Bowl 3.5 rather than a whole new game, but based on the beta it's definitely an upgrade",
-    "source": "PC Gamer",
-    "summary": "An exclusive early look at the upcoming playtest for Blood Bowl's next iteration.",
-    "date": "Mon, 05 Oct 2026 08:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/strategy/warhammer-blood-bowl-is-blood-bowl-3-5-rather-than-a-whole-new-game-but-based-on-the-beta-its-definitely-an-upgrade/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "It's easy to forget now, but the first Elder Scrolls game had a rough launch back in the day: 'It was a disaster in a lot of ways and somehow built a billion-dollar franchise'",
-    "source": "PC Gamer",
-    "summary": "Bethesda wasn't always a name associated with open world RPGs.",
-    "date": "Mon, 05 Oct 2026 02:49:24 +0000",
-    "link": "https://www.pcgamer.com/games/the-elder-scrolls/its-easy-to-forget-now-but-the-first-elder-scrolls-game-had-a-rough-launch-back-in-the-day-it-was-a-disaster-in-a-lot-of-ways-and-somehow-built-a-billion-dollar-franchise/",
+    "summary": "Production on The Batman Part 2 has come to an unexpected halt as director Matt Reeves steps away for personal reasons.",
+    "date": "Mon, 5 Oct 2026 17:17:39 +0000",
+    "link": "https://www.ign.com/articles/the-batman-part-2-halts-production-as-matt-reeves-steps-away-for-personal-reasons",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.03,
@@ -266,15 +53,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "Garry Newman responds to s&box criticism in lengthy YouTube comment: 'I don't like giving up on things, I am stubborn'",
-    "source": "PC Gamer",
-    "summary": "He certainly seems to be aware of the problems.",
-    "date": "Sun, 04 Oct 2026 22:36:31 +0000",
-    "link": "https://www.pcgamer.com/games/garry-newman-responds-to-s-and-box-criticism-in-lengthy-youtube-comment-i-dont-like-giving-up-on-things-i-am-stubborn/",
+    "id": 4,
+    "title": "Legendary Japanese Solid Snake Actor Wants 'New Metal Gear Game,' But 'Won't Do One Without Kojima'",
+    "source": "IGN",
+    "summary": "Solid Snake's legendary Japanese actor is keen to return for a new game, though feels conflicted about any fresh entry without the involvement of creator Hideo Kojima.",
+    "date": "Mon, 5 Oct 2026 16:43:32 +0000",
+    "link": "https://www.ign.com/articles/legendary-japanese-solid-snake-actor-wants-new-metal-gear-game-but-wont-do-one-without-kojima",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.23,
+      "score": 0.16,
       "badge": "success"
     },
     "tags": [
@@ -284,34 +71,246 @@
     "read_time": "1 min read"
   },
   {
-    "id": 17,
-    "title": "End Of Abyss Patch Fixes Most Of My Complaints Just One Day After Launch",
-    "source": "GameSpot",
-    "summary": "I spent a few days playing Section 9 Interactive's creepy metroidvania and writing my End of Abyss review, and ultimately concluded it was a fun but inconsistent experience hindered by a few particular issues. Now, just a day after it launched on PlayStation 5, Xbox Series X|S, and PC via the Epic G...",
-    "date": "Fri, 02 Oct 2026 23:26:26 +0000",
-    "link": "https://www.gamespot.com/articles/end-of-abyss-patch-fixes-most-of-my-complaints-just-one-day-after-launch/",
+    "id": 5,
+    "title": "Arc Raiders and The Finals are getting film and TV adaptations in collaboration with the Backrooms production company",
+    "source": "Eurogamer",
+    "summary": "Film and TV show adaptations of Arc Raiders and The Finals are in the works - and developer Embark Studios is collaborating with Chernin Entertainment to get the job done. Read more...",
+    "date": "Mon, 05 Oct 2026 17:00:32 +0000",
+    "link": "https://www.eurogamer.net/arc-raiders-the-finals-film-tv-show-backrooms",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "The upcoming D&D interpretation of World of Warcraft sounds great, but don't expect it to work like the MMO does",
+    "source": "Eurogamer",
+    "summary": "So many of the questions in a press briefing for the upcoming Dungeons & Dragons: World of Warcraft book revolved around whether the 52-year-old tabletop game would bend out of shape to work like a massively multiplayer online game. But while the D&D translation of WoW does include races and dungeon...",
+    "date": "Mon, 05 Oct 2026 16:25:19 +0000",
+    "link": "https://www.eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.01,
+      "score": 0.1,
       "badge": "info"
     },
     "tags": [
-      "PlayStation",
-      "Xbox",
-      "Patch"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events",
+    "source": "Eurogamer",
+    "summary": "In a new interview, Rockstar has discussed its revered approach to crafting the satire the Grand Theft Auto series is famous for - particularly relating to GTA 6 and whether the game should include, and lampoon, real-world politics. Read more...",
+    "date": "Mon, 05 Oct 2026 15:00:30 +0000",
+    "link": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.22,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Ninja Theory developers announce they are facing redundancy, as the studio starts laying off staff following widespread Xbox cuts",
+    "source": "Eurogamer",
+    "summary": "More bad news for Ninja Theory today, as the studio's consultation process with Xbox - following a second wave of cuts last week - seems to have resulted in layoffs. Read more...",
+    "date": "Mon, 05 Oct 2026 14:53:45 +0000",
+    "link": "https://www.eurogamer.net/ninja-theory-hellblade-developers-layoffs-xbox-cuts",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.04,
+      "badge": "info"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "The Batman Part 2 Filming Paused as Director Matt Reeves Steps Away",
+    "source": "Polygon",
+    "summary": "The Batman Part 2 has paused filming as director Matt Reeves steps away to focus on a \"family matter,\" DC Studios says.",
+    "date": "Mon, 05 Oct 2026 18:08:30 GMT",
+    "link": "https://www.polygon.com/the-batman-part-2-filming-paused-director-matt-reeves/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "BG3 Console Update Officially Brings 300-Option Cheat Menu",
+    "source": "Polygon",
+    "summary": "A new mod adds a spell to Baldur's Gate 3 on PS5 and Xbox that opens 300-plus cheats, from God Mode to free respecs",
+    "date": "Mon, 05 Oct 2026 18:00:14 GMT",
+    "link": "https://www.polygon.com/bg3-console-cheaters-menu-mod/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "'Lanterns' Season 2 Confirmed? Potential Release Date, Plot, and Everything You Need to Know",
+    "source": "Polygon",
+    "summary": "Here's what you can expect from the continuation of the DC drama",
+    "date": "Mon, 05 Oct 2026 17:51:14 GMT",
+    "link": "https://www.polygon.com/lanterns-season-2-release-date-plot/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "'Arc Raiders' and 'The Finals' Are Officially Getting Movie and TV Adaptations",
+    "source": "Polygon",
+    "summary": "Arc Raiders and The Finals are getting movie and TV adaptations from Chernin Entertainment.",
+    "date": "Mon, 05 Oct 2026 17:40:56 GMT",
+    "link": "https://www.polygon.com/arc-raiders-the-finals-movie-tv-adaptations/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "I am cavorting with a gazelle's grace in Grand Theft Auto 5",
+    "source": "PC Gamer",
+    "summary": "More than usual, I mean.",
+    "date": "Mon, 05 Oct 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-am-cavorting-with-a-gazelles-grace-in-grand-theft-auto-5/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "The final showdown: Motion blur vs chromatic aberration",
+    "source": "PC Gamer",
+    "summary": "Only one can be crowned the worst graphical effect in games. You decide.",
+    "date": "Mon, 05 Oct 2026 16:51:44 +0000",
+    "link": "https://www.pcgamer.com/hardware/the-final-showdown-motion-blur-vs-chromatic-aberration/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.33,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Developer gets a little too silly, recommends deadly psychoactive ingredient in its bad boy-themed cocktail",
+    "source": "PC Gamer",
+    "summary": "Maybe a little *too* bad, LaDS?",
+    "date": "Mon, 05 Oct 2026 16:38:23 +0000",
+    "link": "https://www.pcgamer.com/games/adventure/developer-gets-a-little-too-silly-recommends-deadly-psychoactive-ingredient-in-its-bad-boy-themed-cocktail/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.41,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "RuneScape dev apologises after RuneFest debut of an AI-generated six-fingered character: 'That's pretty hard to explain away'",
+    "source": "PC Gamer",
+    "summary": "Uh oh, here we go again.",
+    "date": "Mon, 05 Oct 2026 16:14:26 +0000",
+    "link": "https://www.pcgamer.com/games/mmo/runescape-dev-apologises-after-runefest-debut-of-an-ai-generated-six-fingered-character-thats-pretty-hard-to-explain-away/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "Hideo Kojima Is Keeping OD A Mystery To Make Its Horror Hit Harder",
+    "source": "GameSpot",
+    "summary": "Games developed by Hideo Kojima typically have an air of mystery, but for his upcoming horror project OD, the veteran game director wants to both terrify and mystify his fans. On a new episode of his weekly radio show Koji10, Kojima briefly spoke about the game, avoiding the release of teasers, and ...",
+    "date": "Mon, 05 Oct 2026 16:48:12 +0000",
+    "link": "https://www.gamespot.com/articles/hideo-kojima-wants-to-keep-od-a-mystery-even-by-his-standards/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 18,
-    "title": "GTA 6 Screenshot Suggests It Won’t Be Shy About Movie References",
+    "title": "How Is A Game Like GTA 6 Actually Made? Here’s How Rockstar Gets It Done",
     "source": "GameSpot",
-    "summary": "A new screenshot from Grand Theft Auto 6 has arrived, and fans immediately noticed that it appears to be referencing the iconic opening scene from Quentin Tarantino's 1994 crime movie Pulp Fiction. \nThe image was shared by Love magazine on Instagram. The GTA 6 Countdown social media account put it n...",
-    "date": "Fri, 02 Oct 2026 19:41:02 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-screenshot-suggests-it-wont-be-shy-about-movie-references/",
+    "summary": "Rockstar's Grand Theft Auto 6 is one of the most highly anticipated game releases this year, or ever. The franchise is known for its massive scope and impressive attention to detail, but how is a game like GTA 6 actually  made? In a new interview with Love magazine (via Kotaku), Rockstar North boss ...",
+    "date": "Mon, 05 Oct 2026 16:32:43 +0000",
+    "link": "https://www.gamespot.com/articles/how-is-a-game-like-gta-6-actually-made-heres-how-rockstar-gets-it-done/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.19,
+      "score": 0.13,
       "badge": "success"
     },
     "tags": [
@@ -322,14 +321,14 @@
   },
   {
     "id": 19,
-    "title": "The Xbox Cloud Gaming Controller Is Not Dead, Apparently",
+    "title": "How Bill Skarsgard Became The Face Of Hideo Kojima’s Physint",
     "source": "GameSpot",
-    "summary": "Microsoft agreed to several big changes to appease regulators in its effort to get the blockbuster $75.4 billion deal to buy Activision Blizzard approved, including tweaks to its cloud-gaming projects. Now, more than a year later, we're still learning more about this, including a new claim from The ...",
-    "date": "Thu, 01 Oct 2026 16:25:57 +0000",
-    "link": "https://www.gamespot.com/articles/the-xbox-cloud-gaming-controller-is-dead-apparently/",
+    "summary": "Hideo Kojima's spiritual successor to Metal Gear Solid, Physint, doesn't just have a new home at Xbox; it also has a famous face attached to it, with Bill Skarsgard (It, Boy Kills World) playing the lead role. Thanks to Death Stranding 2: On the Beach composer Yoann \"Woodkid\" Lemoine, Kojima was int...",
+    "date": "Mon, 05 Oct 2026 16:26:40 +0000",
+    "link": "https://www.gamespot.com/articles/how-bill-skarsgard-became-the-face-of-hideo-kojimas-physint/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.16,
+      "score": 0.17,
       "badge": "success"
     },
     "tags": [
@@ -339,15 +338,15 @@
   },
   {
     "id": 20,
-    "title": "GTA 6 Should “Blaze A Trail” To More Expensive Games, Dev Says",
+    "title": "NBA 2K25 Is Getting Delisted Soon, Single-Player Modes Also Closing Down",
     "source": "GameSpot",
-    "summary": "Rockstar's GTA 6 is priced at $80 for its standard edition. Another voice has come forward to say they hope other teams follow suit and charge more for new games to help the industry at a time when developers are closing up shop, cancelling games, and laying off developers on a regular basis.\nMartin...",
-    "date": "Fri, 02 Oct 2026 17:17:15 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-should-blaze-a-trail-to-more-expensive-games-dev-says/",
+    "summary": "2K Sports has announced that NBA 2K25 will be discontinued soon, and that includes delisting the product and server shutdowns that will make even the game's single-player MyCareer and MyTeam components unplayable.\nIn a post, 2K Sports said NBA 2K25 will be removed from sale on October 30, 2026 and t...",
+    "date": "Mon, 05 Oct 2026 14:11:07 +0000",
+    "link": "https://www.gamespot.com/articles/nba-2k25-is-getting-delisted-soon-single-player-modes-also-closing-down/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.32,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
