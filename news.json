@@ -1,6 +1,42 @@
 [
   {
     "id": 1,
+    "title": "Hideo Kojima Says You'll See Him Cameo in a 'Big' Live-Action Movie — But Which One Is It?",
+    "source": "IGN",
+    "summary": "Hideo Kojima teased that he's got a cameo in a \"big\" live-action movie, but he's not saying which one we'll see him in quite yet.",
+    "date": "Mon, 5 Oct 2026 22:55:09 +0000",
+    "link": "https://www.ign.com/articles/hideo-kojima-says-youll-see-him-cameo-in-a-big-live-action-movie-but-which-one-is-it",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Save 37% Off Fanttik T1 Max Cordless Soldering Iron Kit During the Amazon October Prime Day Sale",
+    "source": "IGN",
+    "summary": "An essential tool for tinkering hobbyists.",
+    "date": "Mon, 5 Oct 2026 22:50:00 +0000",
+    "link": "https://www.ign.com/articles/fanttik-t1-max-cordless-soldering-iron-deal-amazon-october-prime-day-sale-2026",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
     "title": "Brandon Sanderson's New Sci-Fi Novel Is Included in Amazon's Latest Book Sale",
     "source": "IGN",
     "summary": "",
@@ -18,7 +54,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "Ubisoft Boss Says Watch Dogs Is 'Important' to Company's Future, But Don't Expect Any New Entries Anytime Soon",
     "source": "IGN",
     "summary": "Don't hold your breath for a new Watch Dogs game anytime soon.",
@@ -32,42 +68,6 @@
     "tags": [
       "News",
       "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Miami Vice: The Final Director’s Cut’s Ending Invites a Darker Reading of Michael Mann’s Cult Classic",
-    "source": "IGN",
-    "summary": "Miami Vice: The Director’s Final Cut’s rejiggered ending invites a slightly darker interpretation of the film than was evident in either of the past versions, especially when considered with what writer-director Michael Mann revealed about the fact-based origins of his screenplay at the post-premier...",
-    "date": "Mon, 5 Oct 2026 22:04:29 +0000",
-    "link": "https://www.ign.com/articles/miami-vice-final-directors-cut-ending-explained",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Get 6.6ft 240W USB Type-C Cables for Less Than $3 Apiece During the Amazon Prime Day Sale",
-    "source": "IGN",
-    "summary": "Universal cables perfect for your Nintendo Switch 2, Steam Deck, iPhone 17, or laptop.",
-    "date": "Mon, 5 Oct 2026 21:40:00 +0000",
-    "link": "https://www.ign.com/articles/usb-cable-deals-amazon-october-prime-day-sale-2026",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.28,
-      "badge": "success"
-    },
-    "tags": [
-      "Nintendo",
-      "Steam"
     ],
     "read_time": "1 min read"
   },
@@ -145,6 +145,42 @@
   },
   {
     "id": 9,
+    "title": "Stephen King’s New Near-Perfect 8-Part Series Officially Releases on Prime Video This Week",
+    "source": "Polygon",
+    "summary": "Catch the new 8-part 'Carrie' series adaptation on Prime Video now!",
+    "date": "Tue, 06 Oct 2026 05:00:15 GMT",
+    "link": "https://www.polygon.com/stephen-king-carrie-prime-video/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "61 Years Later, Clint Eastwood's 132-Minute Legendary Western Sequel Is Free on YouTube",
+    "source": "Polygon",
+    "summary": "The second film in Clint Eastwood's \"The Man with No Name Trilogy,\" For a Few Dollars More, is free on youtube, making this perfect time to watch",
+    "date": "Tue, 06 Oct 2026 04:00:21 GMT",
+    "link": "https://www.polygon.com/for-a-few-dollars-more-clint-eastwood-free-on-youtube-october-2026/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.34,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
     "title": "GTA 6 Could Finally Fix Gaming's Huge Drug Problem",
     "source": "Polygon",
     "summary": "Europe’s PEGI ratings board revealed that GTA 6 will let players use cocaine at any time; here’s how that might affect gameplay.",
@@ -162,7 +198,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
+    "id": 12,
     "title": "38 Years Ago, 'Doctor Who' Doubled Down on Its Most Inventive Sci-Fi Concept",
     "source": "Polygon",
     "summary": "Doctor Who made history 38 years ago by beginning the end of the Doctor's most monstrous foe.",
@@ -180,15 +216,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 11,
-    "title": "All 'Freeze Frame' camera locations in Control Resonant",
-    "source": "Polygon",
-    "summary": "You need to hunt down seven cameras in the \"Freeze Frame\" side quest in Control Resonant. Here's where you can find them all.",
-    "date": "Mon, 05 Oct 2026 21:33:18 GMT",
-    "link": "https://www.polygon.com/control-resonant-freeze-frame-camera-instant-photo-locations/",
+    "id": 13,
+    "title": "Despite the tragic death of its lead writer, one of the scariest games I have ever played will finally come out later this month",
+    "source": "PC Gamer",
+    "summary": "Divine Frequency launches in early access on October 27 with \"70%\" of the final game ready to play.",
+    "date": "Tue, 06 Oct 2026 01:29:16 +0000",
+    "link": "https://www.pcgamer.com/games/fps/despite-the-tragic-death-of-its-lead-writer-one-of-the-scariest-games-i-have-ever-played-will-finally-come-out-later-this-month/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.16,
+      "score": -0.12,
       "badge": "danger"
     },
     "tags": [
@@ -198,24 +234,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "The Zelda: Ocarina of Time Controller's Best Replacement Is $30 Cheaper Right Now",
-    "source": "Polygon",
-    "summary": "Ever since Nintendo announced a special-edition Pro Controller and Switch 2 console to celebrate the launch of Ocarina of Time, they've been sold out.",
-    "date": "Mon, 05 Oct 2026 21:26:04 GMT",
-    "link": "https://www.polygon.com/ocarina-of-time-pro-controller-totk/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.64,
-      "badge": "success"
-    },
-    "tags": [
-      "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
+    "id": 14,
     "title": "Steam sale deep cut alert: this ARPG originally developed for Nokia N-Gage is brilliant on Deck",
     "source": "PC Gamer",
     "summary": "Xanadu Next isn't amazing, but it's endlessly charming.",
@@ -232,7 +251,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "Industry layoff watch: Supermassive, Ninja Theory, The Coalition, and a warning from Warhorse",
     "source": "PC Gamer",
     "summary": "No layoffs have been announced for The Coalition, but some Gears of War: E-Day developers are worried they'll be next, even if the game succeeds.",
@@ -250,7 +269,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "Despite calling Grand Theft Auto 'a videogame franchise built around criminal activity,' Miami-Dade sheriff isn't mad about the NBA's 'Vice City' transformation",
     "source": "PC Gamer",
     "summary": "Sheriff Rosie Cordero-Stutz says her strong stance against the GTA 6 promotional collaboration was only about \"publicly owned facilities and infrastructure.\"",
@@ -260,24 +279,6 @@
       "label": "Neutral / Informative",
       "score": -0.02,
       "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "I am cavorting with a gazelle's grace in Grand Theft Auto 5",
-    "source": "PC Gamer",
-    "summary": "More than usual, I mean.",
-    "date": "Mon, 05 Oct 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-am-cavorting-with-a-gazelles-grace-in-grand-theft-auto-5/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
     },
     "tags": [
       "News",
