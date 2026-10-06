@@ -1,137 +1,11 @@
 [
   {
     "id": 1,
-    "title": "Hideo Kojima Says You'll See Him Cameo in a 'Big' Live-Action Movie — But Which One Is It?",
+    "title": "The Meta Quest 3 512GB VR Headset Is 30% Off at eBay, Beats Any Amazon Prime Day Deal",
     "source": "IGN",
-    "summary": "Hideo Kojima teased that he's got a cameo in a \"big\" live-action movie, but he's not saying which one we'll see him in quite yet.",
-    "date": "Mon, 5 Oct 2026 22:55:09 +0000",
-    "link": "https://www.ign.com/articles/hideo-kojima-says-youll-see-him-cameo-in-a-big-live-action-movie-but-which-one-is-it",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "Save 37% Off Fanttik T1 Max Cordless Soldering Iron Kit During the Amazon October Prime Day Sale",
-    "source": "IGN",
-    "summary": "An essential tool for tinkering hobbyists.",
-    "date": "Mon, 5 Oct 2026 22:50:00 +0000",
-    "link": "https://www.ign.com/articles/fanttik-t1-max-cordless-soldering-iron-deal-amazon-october-prime-day-sale-2026",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Brandon Sanderson's New Sci-Fi Novel Is Included in Amazon's Latest Book Sale",
-    "source": "IGN",
-    "summary": "",
-    "date": "Mon, 5 Oct 2026 22:25:04 +0000",
-    "link": "https://www.ign.com/articles/brandon-sandersons-sci-fi-book-sale-prime-big-deal-days-2026",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.32,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Ubisoft Boss Says Watch Dogs Is 'Important' to Company's Future, But Don't Expect Any New Entries Anytime Soon",
-    "source": "IGN",
-    "summary": "Don't hold your breath for a new Watch Dogs game anytime soon.",
-    "date": "Mon, 5 Oct 2026 22:10:50 +0000",
-    "link": "https://www.ign.com/articles/ubisoft-boss-says-watch-dogs-is-important-to-companys-future-but-dont-expect-any-new-entries-anytime-soon",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "GTA 6 devs tried \"not to jump on the bandwagon\" of passing trends and instead created their \"own slanted, overblown versions\"",
-    "source": "Eurogamer",
-    "summary": "Creating a timely satire can be tough when development takes half a decade or more - it's the reason South Park's stuck with its crude art style for literal decades, but the developers of GTA 6 can't just replace their world-class tech with paper cutouts. Instead, the team simply tried to avoid tren...",
-    "date": "Mon, 05 Oct 2026 20:14:26 +0000",
-    "link": "https://www.eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Halo Studios says \"it is absolutely our intent\" to release new Halo book, despite layoffs and a rumored lore reboot from Activision",
-    "source": "Eurogamer",
-    "summary": "Halo Studios can't promise that the previously-announced Halo novel will land on shop shelves, but the company is \"determined\" to see the project cross the finish line regardless. Read more...",
-    "date": "Mon, 05 Oct 2026 18:54:20 +0000",
-    "link": "https://www.eurogamer.net/halo-studios-absolutely-our-intent-new-book-activision-reboot",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.21,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Arc Raiders and The Finals are getting film and TV adaptations in collaboration with the Backrooms production company",
-    "source": "Eurogamer",
-    "summary": "Film and TV show adaptations of Arc Raiders and The Finals are in the works - and developer Embark Studios is collaborating with Chernin Entertainment to get the job done. Read more...",
-    "date": "Mon, 05 Oct 2026 17:00:32 +0000",
-    "link": "https://www.eurogamer.net/arc-raiders-the-finals-film-tv-show-backrooms",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "The upcoming D&D interpretation of World of Warcraft sounds great, but don't expect it to work like the MMO does",
-    "source": "Eurogamer",
-    "summary": "So many of the questions in a press briefing for the upcoming Dungeons & Dragons: World of Warcraft book revolved around whether the 52-year-old tabletop game would bend out of shape to work like a massively multiplayer online game. But while the D&D translation of WoW does include races and dungeon...",
-    "date": "Mon, 05 Oct 2026 16:25:19 +0000",
-    "link": "https://www.eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book",
+    "summary": "With this deal, it's considerably cheaper than the Quest 3's msrp even before the price hike.",
+    "date": "Tue, 6 Oct 2026 09:30:00 +0000",
+    "link": "https://www.ign.com/articles/best-meta-quest-3-deal-amazon-october-prime-day-sale",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.1,
@@ -144,12 +18,119 @@
     "read_time": "1 min read"
   },
   {
-    "id": 9,
-    "title": "Stephen King’s New Near-Perfect 8-Part Series Officially Releases on Prime Video This Week",
-    "source": "Polygon",
-    "summary": "Catch the new 8-part 'Carrie' series adaptation on Prime Video now!",
-    "date": "Tue, 06 Oct 2026 05:00:15 GMT",
-    "link": "https://www.polygon.com/stephen-king-carrie-prime-video/",
+    "id": 2,
+    "title": "The Beats Studio Pro Noise Canceling Headphones Drops to the Lowest Price Ever for Prime Day",
+    "source": "IGN",
+    "summary": "The best Prime Day headphone deal so far.",
+    "date": "Tue, 6 Oct 2026 08:10:00 +0000",
+    "link": "https://www.ign.com/articles/beats-studio-pro-wireless-noise-canceling-headphone-deal-october-2026",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.55,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "The Marvel Legends Daredevil: Born Again Mask Is on Sale Just In Time for Halloween",
+    "source": "IGN",
+    "summary": "",
+    "date": "Tue, 6 Oct 2026 07:40:00 +0000",
+    "link": "https://www.ign.com/articles/marvel-legends-daredevil-born-again-mask-and-clubs-sale-prime-big-deal-days-2026",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "The LEGO Icons Project Hail Mary Set Gets Its First Discount During Big Deal Days",
+    "source": "IGN",
+    "summary": "",
+    "date": "Tue, 6 Oct 2026 07:02:44 +0000",
+    "link": "https://www.ign.com/articles/lego-icons-project-hail-mary-set-deal-prime-big-deal-days-2026",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Gears of War: E-Day studio finds a way to get more performance from Xbox Series S - one that other Xbox games could probably use",
+    "source": "Eurogamer",
+    "summary": "As a first-party Xbox title, Gears of War: E-Day is under pressure to look good and run well on Xbox consoles. This is especially challenging to do on Series S, due to the console's limited computing power compared to Series X. But developer The Coalition has discovered a clever way of circumventing...",
+    "date": "Tue, 06 Oct 2026 11:36:35 +0000",
+    "link": "https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.29,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "CD Projekt Red outlines which Witcher 3 Remastered fixes are coming next, but there's still division about the changes",
+    "source": "Eurogamer",
+    "summary": "CD Projekt Red has let The Witcher 3 community know its work isn't done patching the newly-released Remastered edition of the game. Read more...",
+    "date": "Tue, 06 Oct 2026 11:01:33 +0000",
+    "link": "https://www.eurogamer.net/cd-projekt-red-witcher-3-bugs-issues-remastered-ps5",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Supermassive Games suffers layoffs as more than 70 developers seem to have left the company this week",
+    "source": "Eurogamer",
+    "summary": "Supermassive Games - the developer behind games such as Directive 8020 and the original Until Dawn - seems to have lost over 70 staff today as part of widespread layoffs at the company. Read more...",
+    "date": "Tue, 06 Oct 2026 09:05:20 +0000",
+    "link": "https://www.eurogamer.net/supermassive-games-layoffs-70",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "\"This is Call of Duty's definitive extraction shooter experience\" - Infinity Ward details the new DMZ mode in Modern Warfare 4",
+    "source": "Eurogamer",
+    "summary": "Call of Duty: Modern Warfare 4 studio Infinity Ward is betting big on DMZ - the game's extraction shooter mode - becoming another major pillar of the series. In a wide-ranging blog post and developer diary, we learn more about the studio's goals, and how the upcoming DMZ builds on 2022's Modern Warf...",
+    "date": "Tue, 06 Oct 2026 08:57:36 +0000",
+    "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-reveal",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.15,
@@ -162,15 +143,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "61 Years Later, Clint Eastwood's 132-Minute Legendary Western Sequel Is Free on YouTube",
+    "id": 9,
+    "title": "Christopher Nolan’s Greatest Sci-Fi Twist Is Officially Streaming on Netflix",
     "source": "Polygon",
-    "summary": "The second film in Clint Eastwood's \"The Man with No Name Trilogy,\" For a Few Dollars More, is free on youtube, making this perfect time to watch",
-    "date": "Tue, 06 Oct 2026 04:00:21 GMT",
-    "link": "https://www.polygon.com/for-a-few-dollars-more-clint-eastwood-free-on-youtube-october-2026/",
+    "summary": "The Prestige, now streaming on Netflix, is Christopher Nolan at his most balanced with the most profound final twist.",
+    "date": "Tue, 06 Oct 2026 12:00:18 GMT",
+    "link": "https://www.polygon.com/christopher-nolan-the-prestige-stream-on-netflix-october-2026/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.34,
+      "score": 0.42,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "I Had a D&D Designer Make the Perfect Monster to Torment My Group",
+    "source": "Polygon",
+    "summary": "Polygon gets an exclusive D&D monster to celebrate the revised edition of Keith Ammann's The Monsters Know What They're Doing: Remonstered!",
+    "date": "Tue, 06 Oct 2026 11:00:15 GMT",
+    "link": "https://www.polygon.com/dnd-dungeons-dragons-keith-ammann-remonstered-the-monsters-know-what-theyre-doing/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 1.0,
       "badge": "success"
     },
     "tags": [
@@ -181,32 +180,31 @@
   },
   {
     "id": 11,
-    "title": "GTA 6 Could Finally Fix Gaming's Huge Drug Problem",
+    "title": "Valor Mortis Comes to PS Plus and Game Pass, and You Can Try It for Free",
     "source": "Polygon",
-    "summary": "Europe’s PEGI ratings board revealed that GTA 6 will let players use cocaine at any time; here’s how that might affect gameplay.",
-    "date": "Tue, 06 Oct 2026 00:00:16 GMT",
-    "link": "https://www.polygon.com/gta-6-cocaine-drugs-effects/",
+    "summary": "Players can try the first-person soulslike Valor Mortis on launch day with a free PS Plus trial, and the game will also come to Xbox Game Pass.",
+    "date": "Tue, 06 Oct 2026 10:05:57 GMT",
+    "link": "https://www.polygon.com/valor-mortis-game-pass-playstation-plus-trial/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.08,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "38 Years Ago, 'Doctor Who' Doubled Down on Its Most Inventive Sci-Fi Concept",
+    "title": "Charlie Brown's Halloween Special Still Rules Over Peanuts Christmas in 1 Way",
     "source": "Polygon",
-    "summary": "Doctor Who made history 38 years ago by beginning the end of the Doctor's most monstrous foe.",
-    "date": "Mon, 05 Oct 2026 23:00:16 GMT",
-    "link": "https://www.polygon.com/doctor-who-remembrance-of-the-daleks/",
+    "summary": "Turnong 60 this year, the 1966 TV special It's the Great Pumpkin, Charlie Brown remains a Halloween holiday staple",
+    "date": "Tue, 06 Oct 2026 10:00:15 GMT",
+    "link": "https://www.polygon.com/theres-one-thing-its-the-great-pumpkin-charlie-brown-has-over-the-peanuts-christmas-special/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.34,
+      "score": 0.5,
       "badge": "success"
     },
     "tags": [
@@ -217,6 +215,24 @@
   },
   {
     "id": 13,
+    "title": "These are two of the very best Amazon Prime OLED gaming monitor deals starting at $280",
+    "source": "PC Gamer",
+    "summary": "1440p all round",
+    "date": "Tue, 06 Oct 2026 11:15:20 +0000",
+    "link": "https://www.pcgamer.com/hardware/gaming-monitors/these-are-two-of-the-very-best-amazon-prime-oled-gaming-monitor-deals-starting-at-usd280/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.27,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
     "title": "Despite the tragic death of its lead writer, one of the scariest games I have ever played will finally come out later this month",
     "source": "PC Gamer",
     "summary": "Divine Frequency launches in early access on October 27 with \"70%\" of the final game ready to play.",
@@ -234,7 +250,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "Steam sale deep cut alert: this ARPG originally developed for Nokia N-Gage is brilliant on Deck",
     "source": "PC Gamer",
     "summary": "Xanadu Next isn't amazing, but it's endlessly charming.",
@@ -251,7 +267,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "Industry layoff watch: Supermassive, Ninja Theory, The Coalition, and a warning from Warhorse",
     "source": "PC Gamer",
     "summary": "No layoffs have been announced for The Coalition, but some Gears of War: E-Day developers are worried they'll be next, even if the game succeeds.",
@@ -269,16 +285,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "Despite calling Grand Theft Auto 'a videogame franchise built around criminal activity,' Miami-Dade sheriff isn't mad about the NBA's 'Vice City' transformation",
-    "source": "PC Gamer",
-    "summary": "Sheriff Rosie Cordero-Stutz says her strong stance against the GTA 6 promotional collaboration was only about \"publicly owned facilities and infrastructure.\"",
-    "date": "Mon, 05 Oct 2026 19:42:34 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/despite-calling-grand-theft-auto-a-videogame-franchise-built-around-criminal-activity-miami-dade-sheriff-isnt-mad-about-the-nbas-vice-city-transformation/",
+    "id": 17,
+    "title": "Star Wars: Galactic Racer Is Free To Play Now, If You Know Where To Look",
+    "source": "GameSpot",
+    "summary": "Star Wars: Galactic Racer is finally out, and so far, it might just be one of the best Star Wars games ever made. The new racing game has an attractive MSRP of $60, but if you're looking to grab it for the low price of nothing, you can play it for free through Amazon Luna starting today.\nAmazon has ...",
+    "date": "Tue, 06 Oct 2026 09:30:00 +0000",
+    "link": "https://www.gamespot.com/articles/star-wars-galactic-racer-is-free-to-play-now-if-you-know-where-to-look/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.02,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.24,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -287,7 +303,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 17,
+    "id": 18,
     "title": "Halloween’s First DLC Reveals Even The Bad Sequels Will Get Some Love",
     "source": "GameSpot",
     "summary": "Halloween's first paid DLC is coming on October 27 in the form of a new skin for the game's killer, Michael Myers, and it's pulling from a source you might not expect: Halloween 5: The Revenge of Michael Myers. A free update on the same day will also add a fifth map, The Tower Farm, inspired by a lo...",
@@ -305,7 +321,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "Uncharted 5: Everything We Know About The Unconfirmed Game",
     "source": "GameSpot",
     "summary": "Naughty Dog's Uncharted series sold millions of copies, got solid reviews, and was spun off into a movie starring Spider-Man actor Tom Holland--however, the game franchise has been dormant for years. Fans are wondering if Naughty Dog will return to its Indiana Jones-style action-adventure series, an...",
@@ -323,7 +339,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 19,
+    "id": 20,
     "title": "Amid Uncharted 5 Rumors, Nathan Drake Actor Says He Would Come Back, But With One Catch",
     "source": "GameSpot",
     "summary": "One of actor Nolan North's most famous roles is that of Nathan Drake in Naughty Dog's Uncharted franchise, but he wrapped things up with 2016's Uncharted 4: A Thief's End. There are rumors that Naughty Dog is making a new Uncharted game, and North has said he would \"110%\" be up for coming back in a ...",
@@ -337,23 +353,6 @@
     "tags": [
       "News",
       "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "New Gears Of War: E-Day Patch Addresses Giant Vomiting Frog Error Codes",
-    "source": "GameSpot",
-    "summary": "Gears of War: E-Day rolls out worldwide starting October 6, and thanks to early access players, The Coalition has identified several issues that it's fixing with the game's first patch. Focused mostly on overall stability and performance across the game's campaign, multiplayer, and Horde Siege modes...",
-    "date": "Mon, 05 Oct 2026 18:13:17 +0000",
-    "link": "https://www.gamespot.com/articles/new-gears-of-war-e-day-patch-addresses-giant-vomiting-frog-error-codes/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "Patch"
     ],
     "read_time": "1 min read"
   }
