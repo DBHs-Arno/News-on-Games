@@ -1,71 +1,73 @@
 [
   {
     "id": 1,
-    "title": "Xbox Reportedly Secures Exclusive Cloud Streaming Rights to GTA 6, Could Make Game Playable on PC at Launch",
+    "title": "Amazon Prime Big Deal Days 2026: The Best October Sales We've Found So Far",
     "source": "IGN",
-    "summary": "Xbox has reportedly secured exclusive streaming rights to GTA 6, possibly making the game playable on PC at launch via the cloud.",
-    "date": "Tue, 6 Oct 2026 22:42:41 +0000",
-    "link": "https://www.ign.com/articles/xbox-reportedly-secures-exclusive-cloud-streaming-rights-to-gta-6-could-make-game-playable-on-pc-at-launch",
+    "summary": "Prime Day: Part 2 has arrived.",
+    "date": "Wed, 7 Oct 2026 04:45:00 +0000",
+    "link": "https://www.ign.com/articles/amazon-prime-big-deal-days-sale-2026",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.27,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.37,
+      "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "The Best UK LEGO Deals This Prime Day Include Pokémon, Star Wars, and More",
+    "title": "For Prime Day Only, This 2026 TV Packs in All the Features a Gamer Needs at a Supremely Affordable Price",
     "source": "IGN",
-    "summary": "We're expecting some of these LEGO sets to sell out fast, so be sure to check the Prime Day deals swiftly",
-    "date": "Tue, 6 Oct 2026 22:28:55 +0000",
-    "link": "https://www.ign.com/articles/the-best-uk-lego-deals-this-prime-day-include-pokmon-star-wars-and-more",
+    "summary": "You don't need to wait until Black Friday.",
+    "date": "Wed, 7 Oct 2026 04:35:00 +0000",
+    "link": "https://www.ign.com/articles/hisense-4k-tv-deal-amazon-october-prime-day-sale-2026",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.55,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.08,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "The Daniel Craig 007 4K Blu-ray Collection Is at Its Lowest Price of 2026",
+    "title": "Save 30% Off the LEGO Technic Peugeot Hybrid Hypercar During the October Prime Day Sale",
     "source": "IGN",
-    "summary": "",
-    "date": "Tue, 6 Oct 2026 22:14:00 +0000",
-    "link": "https://www.ign.com/articles/the-daniel-craig-007-4k-blu-ray-collection-is-at-its-lowest-price-of-2026",
+    "summary": "Glow in the dark.",
+    "date": "Wed, 7 Oct 2026 00:45:00 +0000",
+    "link": "https://www.ign.com/articles/lego-technic-peugeot-hybrid-hypercar-deal-amazon-october-prime-day-sale-2026",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "'This Needs to Change' — PlayStation Fan Gets PSN Account Hacked and Restored, Acknowledges Others May Not Be as Lucky",
+    "title": "The Possibly Retired LEGO Super Mario World: Mario & Yoshi Drops to Its Lowest Price Ever for Prime Day",
     "source": "IGN",
-    "summary": "PlayStation fans are questioning the security of their PSN accounts as yet another prominent community member had their account hacked and stolen.",
-    "date": "Tue, 6 Oct 2026 22:10:40 +0000",
-    "link": "https://www.ign.com/articles/this-needs-to-change-playstation-fan-gets-psn-account-hacked-and-restored-acknowledges-others-may-not-be-as-lucky",
+    "summary": "We built this and we loved it.",
+    "date": "Wed, 7 Oct 2026 00:35:00 +0000",
+    "link": "https://www.ign.com/articles/lego-super-mario-world-mario-yoshi-71438-deal-amazon-october-prime-day-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.42,
+      "score": 0.34,
       "badge": "success"
     },
     "tags": [
-      "PlayStation"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -82,8 +84,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -100,8 +102,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -118,8 +120,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -142,78 +144,95 @@
   },
   {
     "id": 9,
-    "title": "5 Sci-Fi Series To Watch If You Love Lanterns",
+    "title": "The 10 Greatest Sci-Fi Cyberpunk Movies of All Time, Ranked",
     "source": "Polygon",
-    "summary": "In brightest day, in blackest night, find your next binge watch tonight",
-    "date": "Tue, 06 Oct 2026 23:30:16 GMT",
-    "link": "https://www.polygon.com/5-sci-fi-series-like-lanterns/",
+    "summary": "The definitive cyberpunk movies that turned our fears about the future into the greatest sci-fi cinema.",
+    "date": "Wed, 07 Oct 2026 05:00:17 GMT",
+    "link": "https://www.polygon.com/best-sci-fi-cyberpunk-movies-ranked/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.25,
+      "score": 0.67,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Cyberpunk"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Critical Role's Best Member Just Officially Raised the Bar for D&D Players Everywhere",
+    "title": "10 Essential GBA Games Still Missing From Switch Online",
     "source": "Polygon",
-    "summary": "Critical Role Campaign 4 pushes Sam Riegel to the limit, forcing him to make bold character choices that leave Critters in tears.",
-    "date": "Tue, 06 Oct 2026 23:30:16 GMT",
-    "link": "https://www.polygon.com/critical-role-wicander-halovar-sam-riegel/",
+    "summary": "Loads of GBA classics are already available on Switch Online, but 10 more terrific games need to join the service.",
+    "date": "Wed, 07 Oct 2026 04:02:18 GMT",
+    "link": "https://www.polygon.com/best-gba-games-missing-nintendo-switch-online/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.33,
+      "score": 0.14,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "The 12 Best Video Game Series of the 1980s and '90s, Ranked",
+    "title": "20 Years Later, Battlestar Galactica’s Most Intense Episode Is Still an All-Time Classic",
     "source": "Polygon",
-    "summary": "The 20th century led to some of the best video game franchises in history. Here are the 12 best gaming series from the 20th century, ranked.",
-    "date": "Tue, 06 Oct 2026 22:27:55 GMT",
-    "link": "https://www.polygon.com/best-video-game-series-1980s-90s/",
+    "summary": "“All of this has happened before, and it will all happen again”",
+    "date": "Wed, 07 Oct 2026 03:30:18 GMT",
+    "link": "https://www.polygon.com/battlestar-galactica-occupation-20-years-anniversary/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.31,
+      "score": 0.22,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "12 Biggest GTA 6 Questions the Previews Haven't Answered Yet",
+    "title": "8 Most Unhinged Dark Urge Lines in BG3",
     "source": "Polygon",
-    "summary": "Who's in the cast? What's happening with GTA Online? We have questions after Rockstar's Netflix Grand Theft Auto 6 extended look.",
-    "date": "Tue, 06 Oct 2026 21:35:51 GMT",
-    "link": "https://www.polygon.com/gta-6-major-questions/",
+    "summary": "From Alfira's last night to a corpse-filled game of Pegasus Polo, these are the Dark Urge's creepiest lines in Baldur's Gate 3",
+    "date": "Wed, 07 Oct 2026 03:01:17 GMT",
+    "link": "https://www.polygon.com/best-dark-urge-lines-baldurs-gate-3/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.04,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
+    "title": "PSA: Star Wars Galactic Racer pilots, put some points in resilience before you hit the acid planet",
+    "source": "PC Gamer",
+    "summary": "Holidays on Sentinel I are a real downer.",
+    "date": "Wed, 07 Oct 2026 03:23:08 +0000",
+    "link": "https://www.pcgamer.com/games/racing/psa-star-wars-galactic-racer-pilots-put-some-points-in-resilience-before-you-hit-the-acid-planet/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
     "title": "My most-played album of 2026? Sorry, Mitski—it's Final Fantasy 10: House Grooves, a real thing that exists",
     "source": "PC Gamer",
     "summary": "When music licensing goes too far.",
@@ -225,13 +244,13 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "'Please give Novus one more chance': An 11-year-old early access survival game just got its first update since 2018",
     "source": "PC Gamer",
     "summary": "\"I'm trying to bring it all back and fix it,\" says Novus Inceptio developer McMagic Productions.",
@@ -243,13 +262,13 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "The PC Gamer Mysteries, Case #1: \"A Slice of Death\": Why is there a dead golfer hidden in Golden Tee '99?",
     "source": "PC Gamer",
     "summary": "This murder's gone decades without being solved... until now.",
@@ -261,26 +280,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Gears of War: E-Day review — terrific shooting buoys a sluggish campaign",
-    "source": "PC Gamer",
-    "summary": "Gears has never felt better to play, or more creatively stagnant.",
-    "date": "Tue, 06 Oct 2026 17:59:46 +0000",
-    "link": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.38,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -297,8 +298,8 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
