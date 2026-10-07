@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "Amazon Prime Big Deal Days 2026: The Best October Sales We've Found So Far",
+    "title": "Resident Evil Requiem Writer Teases DLC Plans, Immediately Says He Probably Shouldn't Have",
     "source": "IGN",
-    "summary": "Prime Day: Part 2 has arrived.",
-    "date": "Wed, 7 Oct 2026 04:45:00 +0000",
-    "link": "https://www.ign.com/articles/amazon-prime-big-deal-days-sale-2026",
+    "summary": "Screenwriter Haris Orkin has teased plans for Resident Evil Requiem’s DLC.",
+    "date": "Wed, 7 Oct 2026 10:25:21 +0000",
+    "link": "https://www.ign.com/articles/resident-evil-requiem-dlc-plans",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.37,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -1.0,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -19,14 +19,14 @@
   },
   {
     "id": 2,
-    "title": "For Prime Day Only, This 2026 TV Packs in All the Features a Gamer Needs at a Supremely Affordable Price",
+    "title": "Warhammer 40,000: Dawn of War 4 Dev Says It's Got More Single-Player Content Than Any Other RTS Ever at Launch",
     "source": "IGN",
-    "summary": "You don't need to wait until Black Friday.",
-    "date": "Wed, 7 Oct 2026 04:35:00 +0000",
-    "link": "https://www.ign.com/articles/hisense-4k-tv-deal-amazon-october-prime-day-sale-2026",
+    "summary": "How big is the Warhammer 40,000: Dawn of War 4 campaign? According to developer King Art Games, it’s so big it dwarfs the campaigns from all the previous games in the series — and might have more single-player content at launch than any other RTS ever.",
+    "date": "Wed, 7 Oct 2026 10:09:35 +0000",
+    "link": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-dev-says-its-got-more-single-player-content-than-any-other-rts-ever-at-launch",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.08,
+      "score": 0.08,
       "badge": "info"
     },
     "tags": [
@@ -37,15 +37,15 @@
   },
   {
     "id": 3,
-    "title": "Save 30% Off the LEGO Technic Peugeot Hybrid Hypercar During the October Prime Day Sale",
+    "title": "The Acer Nitro Radeon RX 9070 XT Gaming PC Drops to Just $1,699 for Prime Day, Excels at 4K Gaming",
     "source": "IGN",
-    "summary": "Glow in the dark.",
-    "date": "Wed, 7 Oct 2026 00:45:00 +0000",
-    "link": "https://www.ign.com/articles/lego-technic-peugeot-hybrid-hypercar-deal-amazon-october-prime-day-sale-2026",
+    "summary": "The Radeon RX 9070 XT nearly matches the peformance of the now-$1,000+ GeForce RTX 5070 Ti.",
+    "date": "Wed, 7 Oct 2026 09:30:00 +0000",
+    "link": "https://www.ign.com/articles/acer-nitro-radeon-rx-9070-xt-gaming-pc-deal-october-2026",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -55,24 +55,74 @@
   },
   {
     "id": 4,
-    "title": "The Possibly Retired LEGO Super Mario World: Mario & Yoshi Drops to Its Lowest Price Ever for Prime Day",
+    "title": "Footage From Canceled Perfect Dark Reboot Surfaces, Showing Off Fruit Physics and Parkour",
     "source": "IGN",
-    "summary": "We built this and we loved it.",
-    "date": "Wed, 7 Oct 2026 00:35:00 +0000",
-    "link": "https://www.ign.com/articles/lego-super-mario-world-mario-yoshi-71438-deal-amazon-october-prime-day-2026",
+    "summary": "New footage of Xbox’s canceled Perfect Dark reboot has appeared online, via a report from gaming website MP1ST.",
+    "date": "Wed, 7 Oct 2026 09:28:08 +0000",
+    "link": "https://www.ign.com/articles/perfect-dark-reboot-footage-leak",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.34,
+      "score": 0.37,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "\"After an all-time low, we've started to return to growth\" - Asha Sharma touts Xbox turnaround after drastic restructuring and many hundreds of layoffs",
+    "source": "Eurogamer",
+    "summary": "Xbox CEO Asha Sharma has reportedly told the company that Xbox has \"started to return to growth\" following wide-ranging restructuring that has reorganised the gaming division and resulted in more than 1,800 job losses. Read more...",
+    "date": "Wed, 07 Oct 2026 10:24:13 +0000",
+    "link": "https://www.eurogamer.net/xbox-asha-sharma-growth-restructuring-layoffs",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Xbox restates plans for next-gen Project Helix to be a \"family of devices\", stressing \"many players will be on the go\"",
+    "source": "Eurogamer",
+    "summary": "Microsoft has reportedly reiterated its plan to have multiple Xboxes - of some description - for the next and 10th generation of consoles. The suggestion being that there's a main console accompanied by some kind of portable, on-the-go games machine. Read more...",
+    "date": "Wed, 07 Oct 2026 09:49:32 +0000",
+    "link": "https://www.eurogamer.net/xbox-project-helix-console-family-of-devices-asha-sharma",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.29,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC",
+    "source": "Eurogamer",
+    "summary": "Xbox has denied reports suggesting it obtained exclusive game-streaming rights for Grand Theft Auto 6. The initial suggestion came from a report on The Verge, which cited an all-hands meeting in which CEO Asha Sharma allegedly told staff that Xbox plans to do something \"no other platform holder is d...",
+    "date": "Wed, 07 Oct 2026 08:31:39 +0000",
+    "link": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
     "title": "Someone's modded Diablo 2 for VR, and seeing the world through your character's eyes brings a whole new dimension to the series",
     "source": "Eurogamer",
     "summary": "Of all the games I thought I'd see converted to virtual reality, the Diablo games weren't among them, for some reason. But one industrious modder has set about changing that, converting probably the most well-liked Diablo game, Diablo 2. Read more...",
@@ -90,85 +140,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "\"Keep it family friendly\" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place",
-    "source": "Eurogamer",
-    "summary": "Sega has invited chaos upon itself by launching an official Sonic the Hedgehog Discord channel. Unsurprisingly, it's proven immediately popular, and strictly locked down. There is no fan art channel as of writing. Read more...",
-    "date": "Tue, 06 Oct 2026 15:43:55 +0000",
-    "link": "https://www.eurogamer.net/sonic-the-hedgehog-official-discord-oh-no",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.33,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "\"Horrible day to be a Shion main\" - Overwatch fans aren't happy about five new China-exclusive skins not coming to the rest of the world",
-    "source": "Eurogamer",
-    "summary": "Earlier this week, Blizzard released a new trailer for an upcoming event in Overwatch. Called 'Defiled Anthem', the event features skins and cosmetics for Shion, D.Mon, Kiriko, Reaper, and Emre, with the highlight of the whole activation culminating in a transforming 'Evolution' skin that changes so...",
-    "date": "Tue, 06 Oct 2026 15:25:26 +0000",
-    "link": "https://www.eurogamer.net/overwatch-defiled-anthem-china-skins",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more",
-    "source": "Eurogamer",
-    "summary": "The unannounced but consistently leaked Xbox Elite Series 3 controller has, well, leaked again. Details ranging from analogue stick technology to rumble motors and more were dug up from the backend of Xbox's own Design Lab website that lets customers create and order custom controller designs. Read ...",
-    "date": "Tue, 06 Oct 2026 13:21:52 +0000",
-    "link": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.46,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 9,
-    "title": "The 10 Greatest Sci-Fi Cyberpunk Movies of All Time, Ranked",
+    "title": "All active Escape From Tarkov codes and rewards",
     "source": "Polygon",
-    "summary": "The definitive cyberpunk movies that turned our fears about the future into the greatest sci-fi cinema.",
-    "date": "Wed, 07 Oct 2026 05:00:17 GMT",
-    "link": "https://www.polygon.com/best-sci-fi-cyberpunk-movies-ranked/",
+    "summary": "A guide listing all currently active promo codes for Escape From Tarkov and how to redeem them.",
+    "date": "Wed, 07 Oct 2026 12:02:56 GMT",
+    "link": "https://www.polygon.com/escape-from-tarkov-promo-codes-list-active-expired/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.67,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.13,
+      "badge": "danger"
     },
     "tags": [
-      "Cyberpunk"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "10 Essential GBA Games Still Missing From Switch Online",
+    "title": "Disney's Legendary 218-Episode Sci-Fi Series Is the Perfect Anti-'Lanterns' Binge",
     "source": "Polygon",
-    "summary": "Loads of GBA classics are already available on Switch Online, but 10 more terrific games need to join the service.",
-    "date": "Wed, 07 Oct 2026 04:02:18 GMT",
-    "link": "https://www.polygon.com/best-gba-games-missing-nintendo-switch-online/",
+    "summary": "After completing Lanterns, the next sci-fi show to dive into is The X-Files, whioch provides a much different experience",
+    "date": "Wed, 07 Oct 2026 12:00:15 GMT",
+    "link": "https://www.polygon.com/x-files-is-perfect-anti-lanterns-binge/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.14,
+      "score": 0.5,
       "badge": "success"
     },
     "tags": [
@@ -179,15 +177,15 @@
   },
   {
     "id": 11,
-    "title": "20 Years Later, Battlestar Galactica’s Most Intense Episode Is Still an All-Time Classic",
+    "title": "Netflix and Until Dawn Creators are Launching an Interactive Horror Game Based on The Conjuring",
     "source": "Polygon",
-    "summary": "“All of this has happened before, and it will all happen again”",
-    "date": "Wed, 07 Oct 2026 03:30:18 GMT",
-    "link": "https://www.polygon.com/battlestar-galactica-occupation-20-years-anniversary/",
+    "summary": "Horror fans are in for a treat this Halloween, as Netflix and Supermassive Games release an interactive game set in the universe of The Conjuring.",
+    "date": "Wed, 07 Oct 2026 11:32:39 GMT",
+    "link": "https://www.polygon.com/the-conjuring-netflix-supermassive-games-interactive-horror/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.22,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -197,15 +195,15 @@
   },
   {
     "id": 12,
-    "title": "8 Most Unhinged Dark Urge Lines in BG3",
+    "title": "Doctor Who Reveals First Candidate to Resurrect the Beloved Sci-Fi Show",
     "source": "Polygon",
-    "summary": "From Alfira's last night to a corpse-filled game of Pegasus Polo, these are the Dark Urge's creepiest lines in Baldur's Gate 3",
-    "date": "Wed, 07 Oct 2026 03:01:17 GMT",
-    "link": "https://www.polygon.com/best-dark-urge-lines-baldurs-gate-3/",
+    "summary": "Can one of the BBC's top creators revive Doctor Who? Only time will tell.",
+    "date": "Wed, 07 Oct 2026 11:14:13 GMT",
+    "link": "https://www.polygon.com/doctor-who-competitive-tender-jed-mercurio/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.04,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.36,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -215,6 +213,24 @@
   },
   {
     "id": 13,
+    "title": "2026 is a low-key revolutionary year for player movement in games",
+    "source": "PC Gamer",
+    "summary": "Big Walk, Cairn, Baby Steps and the new generation of games that make masterpieces from everyday actions.",
+    "date": "Wed, 07 Oct 2026 11:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/2026-is-a-low-key-revolutionary-year-for-player-movement-in-games/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
     "title": "PSA: Star Wars Galactic Racer pilots, put some points in resilience before you hit the acid planet",
     "source": "PC Gamer",
     "summary": "Holidays on Sentinel I are a real downer.",
@@ -232,7 +248,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "My most-played album of 2026? Sorry, Mitski—it's Final Fantasy 10: House Grooves, a real thing that exists",
     "source": "PC Gamer",
     "summary": "When music licensing goes too far.",
@@ -250,7 +266,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "'Please give Novus one more chance': An 11-year-old early access survival game just got its first update since 2018",
     "source": "PC Gamer",
     "summary": "\"I'm trying to bring it all back and fix it,\" says Novus Inceptio developer McMagic Productions.",
@@ -268,16 +284,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "The PC Gamer Mysteries, Case #1: \"A Slice of Death\": Why is there a dead golfer hidden in Golden Tee '99?",
-    "source": "PC Gamer",
-    "summary": "This murder's gone decades without being solved... until now.",
-    "date": "Tue, 06 Oct 2026 19:48:42 +0000",
-    "link": "https://www.pcgamer.com/games/sports/the-pc-gamer-mysteries-case-1-a-slice-of-death-why-is-there-a-dead-golfer-hidden-in-golden-tee-99/",
+    "id": 17,
+    "title": "Skydance Is Merging Paramount And Warner Bros.’ Game Studios Into One Unit",
+    "source": "GameSpot",
+    "summary": "With Paramount's $111 billion acquisition of Warner Bros. Discovery in the bag, details on what this merger means for the Warner Bros. game division have finally been revealed. Warner Bros. Interactive will merge with the newly formed Paramount Games Studio, and it'll oversee projects based on Skyda...",
+    "date": "Wed, 07 Oct 2026 11:47:59 +0000",
+    "link": "https://www.gamespot.com/articles/skydance-is-merging-paramount-and-warner-bros-game-studios-into-one-unit/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.02,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.17,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -286,7 +302,42 @@
     "read_time": "1 min read"
   },
   {
-    "id": 17,
+    "id": 18,
+    "title": "Resident Evil Requiem DLC Could Further Rewrite One Of The Series’ Biggest Villains",
+    "source": "GameSpot",
+    "summary": "Resident Evil Requiem is one of this year's biggest hits, and Capcom plans to build on that success with new story DLC. While it hasn't yet revealed when it'll be out or what it's about, one of the game's writers, Haris Orkin, recently teased that the DLC will shed new light on Oswell E. Spencer, on...",
+    "date": "Wed, 07 Oct 2026 11:21:29 +0000",
+    "link": "https://www.gamespot.com/articles/resident-evil-requiem-dlc-could-further-rewrite-one-of-the-series-biggest-villains/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.16,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "GTA 6 Will Not Stream To PC Through Xbox, Despite Earlier Report",
+    "source": "GameSpot",
+    "summary": "PC players hoping to find a way to play GTA 6 when it launches on consoles next month must be feeling pretty disappointed, as Microsoft has clarified that Grand Theft Auto 6 will not be available to stream to PC via Xbox Cloud Gaming. The news follows an earlier report claiming Xbox had secured excl...",
+    "date": "Wed, 07 Oct 2026 09:03:51 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-will-not-stream-to-pc-through-xbox-despite-earlier-report/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 20,
     "title": "A Scary-Looking New Conjuring Game Just Got Announced, And It’s Out Next Week On Netflix",
     "source": "GameSpot",
     "summary": "Out of nowhere, Netflix and Until Dawn developer Supermassive Games announced a new The Conjuring game, and it's out next week.\nThe Conjuring: Unspoken releases on October 13 through Netflix, so you don't need any dedicated hardware or controller to play it. \nThe game is an \"interactive paranormal i...",
@@ -300,57 +351,6 @@
     "tags": [
       "Gaming",
       "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "Xbox Was At An “All Time Low,” But Is Now Growing Again CEO Says Without Providing Any Real Evidence",
-    "source": "GameSpot",
-    "summary": "During a town hall meeting today, Xbox CEO Asha Sharma spoke to staff to help reassure them following mass layoffs and studio closures related to the \"reset\" of the business.\nWindows Central reports that Sharma told staff that Xbox is \"making the right decisions\" and that \"after an all time low, we'...",
-    "date": "Tue, 06 Oct 2026 19:03:50 +0000",
-    "link": "https://www.gamespot.com/articles/xbox-was-at-an-all-time-low-but-is-now-growing-again-after-huge-cuts-ceo-says/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "PlayStation Plus Free Games For October 2026 Are Live Now",
-    "source": "GameSpot",
-    "summary": "PlayStation has released this month's batch of free games for PlayStation Plus subscribers. All PS Plus members can claim a trio of freebies as of October 6--F1 25, Hunt: Showdown 1896, and Earth Defense Force: World Brothers 2.\nThe Formula One games from Codemasters have been an annual treat for ra...",
-    "date": "Wed, 30 Sep 2026 10:46:01 +0000",
-    "link": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-october-2026/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.31,
-      "badge": "success"
-    },
-    "tags": [
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "Razer’s Wolverine V4 Controller Is Overkill For Most Gamers, And That’s The Point",
-    "source": "GameSpot",
-    "summary": "Razer has officially revealed the next entry in its line of high-end gaming controllers, the Wolverine V4 for Xbox and PC. Geared toward competitive gamers--not that there's anything stopping you from using it to play Vampire Survivors--and it focuses primarily on polling performance and thumbstick ...",
-    "date": "Tue, 06 Oct 2026 17:49:46 +0000",
-    "link": "https://www.gamespot.com/articles/razers-wolverine-v4-controller-is-overkill-for-most-gamers-and-thats-the-point/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
     ],
     "read_time": "1 min read"
   }
