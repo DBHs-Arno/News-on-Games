@@ -1,11 +1,46 @@
 [
   {
     "id": 1,
-    "title": "Modern Warships Dev Causes Actual Art Storm After Plagiarizing Ship Design",
+    "title": "Xbox Reportedly Secures Exclusive Cloud Streaming Rights to GTA 6, Could Make Game Playable on PC at Launch",
     "source": "IGN",
-    "summary": "Artstorm, developer of PvP naval warfare game Modern Warships, has admitted to using an independent artist’s creation as the basis for one of its ship designs.",
-    "date": "Tue, 6 Oct 2026 13:36:59 +0000",
-    "link": "https://www.ign.com/articles/modern-warships-dev-causes-actual-art-storm-after-plagiarizing-ship-design",
+    "summary": "Xbox has reportedly secured exclusive streaming rights to GTA 6, possibly making the game playable on PC at launch via the cloud.",
+    "date": "Tue, 6 Oct 2026 22:42:41 +0000",
+    "link": "https://www.ign.com/articles/xbox-reportedly-secures-exclusive-cloud-streaming-rights-to-gta-6-could-make-game-playable-on-pc-at-launch",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.27,
+      "badge": "danger"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "The Best UK LEGO Deals This Prime Day Include Pokémon, Star Wars, and More",
+    "source": "IGN",
+    "summary": "We're expecting some of these LEGO sets to sell out fast, so be sure to check the Prime Day deals swiftly",
+    "date": "Tue, 6 Oct 2026 22:28:55 +0000",
+    "link": "https://www.ign.com/articles/the-best-uk-lego-deals-this-prime-day-include-pokmon-star-wars-and-more",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.55,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "The Daniel Craig 007 4K Blu-ray Collection Is at Its Lowest Price of 2026",
+    "source": "IGN",
+    "summary": "",
+    "date": "Tue, 6 Oct 2026 22:14:00 +0000",
+    "link": "https://www.ign.com/articles/the-daniel-craig-007-4k-blu-ray-collection-is-at-its-lowest-price-of-2026",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -18,56 +53,19 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
-    "title": "For Prime Day Only, This 2026 TV Packs in All the Features a Gamer Needs at a Supremely Affordable Price",
-    "source": "IGN",
-    "summary": "You don't need to wait until Black Friday.",
-    "date": "Tue, 6 Oct 2026 13:30:00 +0000",
-    "link": "https://www.ign.com/articles/hisense-4k-tv-deal-amazon-october-prime-day-sale-2026",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "WWE Star John Cena Officially Rules Out a Return to the Ring: 'There Is No Chance That I'll Perform Again Physically'",
-    "source": "IGN",
-    "summary": "John Cena has officially ruled out a return to physical performance in the WWE, having retired from professional wrestling in December.",
-    "date": "Tue, 6 Oct 2026 13:14:17 +0000",
-    "link": "https://www.ign.com/articles/wwe-star-john-cena-officially-rules-out-a-return-to-the-ring-there-is-no-chance-that-ill-perform-again-physically",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 4,
-    "title": "Meta Quest 3S Amazon Prime Big Deal Days Sale: Get It for Just $297",
+    "title": "'This Needs to Change' — PlayStation Fan Gets PSN Account Hacked and Restored, Acknowledges Others May Not Be as Lucky",
     "source": "IGN",
-    "summary": "You can grab a Meta Quest 3S VR headset on sale for just $297 in Amazon's Prime Big Deal Days sale. That's the lowest price it's been all year long.",
-    "date": "Tue, 6 Oct 2026 13:04:09 +0000",
-    "link": "https://www.ign.com/articles/meta-quest-3s-amazon-prime-big-deal-days-sale-2026",
+    "summary": "PlayStation fans are questioning the security of their PSN accounts as yet another prominent community member had their account hacked and stolen.",
+    "date": "Tue, 6 Oct 2026 22:10:40 +0000",
+    "link": "https://www.ign.com/articles/this-needs-to-change-playstation-fan-gets-psn-account-hacked-and-restored-acknowledges-others-may-not-be-as-lucky",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.02,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.42,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
@@ -144,15 +142,15 @@
   },
   {
     "id": 9,
-    "title": "Marvel Unlimited is Officially Shutting Down in 2026",
+    "title": "5 Sci-Fi Series To Watch If You Love Lanterns",
     "source": "Polygon",
-    "summary": "Marvel's digital comics app Marvel Unlimited will shut down after 19 years as Webtoon takes over and launches the Marvel Comics app.",
-    "date": "Tue, 06 Oct 2026 18:06:47 GMT",
-    "link": "https://www.polygon.com/marvel-unlimited-shutting-down-webtoon-digital-comics-app/",
+    "summary": "In brightest day, in blackest night, find your next binge watch tonight",
+    "date": "Tue, 06 Oct 2026 23:30:16 GMT",
+    "link": "https://www.polygon.com/5-sci-fi-series-like-lanterns/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.1,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -162,15 +160,15 @@
   },
   {
     "id": 10,
-    "title": "'Nier: Automata's 2B Officially Returns in Release Available Today",
+    "title": "Critical Role's Best Member Just Officially Raised the Bar for D&D Players Everywhere",
     "source": "Polygon",
-    "summary": "Dead by Daylight's next crossover brings Nier: Automata's 2B, A2, and Emil to the asymmetric multiplayer survival horror game",
-    "date": "Tue, 06 Oct 2026 17:25:01 GMT",
-    "link": "https://www.polygon.com/dead-by-daylight-nier-automata-crossover-2b-a2-emil/",
+    "summary": "Critical Role Campaign 4 pushes Sam Riegel to the limit, forcing him to make bold character choices that leave Critters in tears.",
+    "date": "Tue, 06 Oct 2026 23:30:16 GMT",
+    "link": "https://www.polygon.com/critical-role-wicander-halovar-sam-riegel/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.33,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -180,11 +178,29 @@
   },
   {
     "id": 11,
-    "title": "‘Avengers: Endgame’s Most Iconic Battle Is Officially Coming to 'Marvel Rivals'",
+    "title": "The 12 Best Video Game Series of the 1980s and '90s, Ranked",
     "source": "Polygon",
-    "summary": "'Marvel Rivals' is getting the Path to Doomsday - Avengers: Endgame mode on Oct. 22, which pits 50 players against Thanos.",
-    "date": "Tue, 06 Oct 2026 17:21:35 GMT",
-    "link": "https://www.polygon.com/marvel-rivals-avengers-endgame-final-battle-thanos/",
+    "summary": "The 20th century led to some of the best video game franchises in history. Here are the 12 best gaming series from the 20th century, ranked.",
+    "date": "Tue, 06 Oct 2026 22:27:55 GMT",
+    "link": "https://www.polygon.com/best-video-game-series-1980s-90s/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.31,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "12 Biggest GTA 6 Questions the Previews Haven't Answered Yet",
+    "source": "Polygon",
+    "summary": "Who's in the cast? What's happening with GTA Online? We have questions after Rockstar's Netflix Grand Theft Auto 6 extended look.",
+    "date": "Tue, 06 Oct 2026 21:35:51 GMT",
+    "link": "https://www.polygon.com/gta-6-major-questions/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.5,
@@ -197,16 +213,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "Say Goodbye to a Major Streaming Service With Paramount Plus Phaseout",
-    "source": "Polygon",
-    "summary": "HBO Max and Paramount Plus are officially becoming one streaming service under Skydance as the Warner Bros.-Paramount merger completes.",
-    "date": "Tue, 06 Oct 2026 17:12:52 GMT",
-    "link": "https://www.polygon.com/paramount-plus-hbo-max-combined-streaming-service-skydance/",
+    "id": 13,
+    "title": "My most-played album of 2026? Sorry, Mitski—it's Final Fantasy 10: House Grooves, a real thing that exists",
+    "source": "PC Gamer",
+    "summary": "When music licensing goes too far.",
+    "date": "Tue, 06 Oct 2026 21:45:24 +0000",
+    "link": "https://www.pcgamer.com/games/final-fantasy/my-most-played-album-of-2026-sorry-mitski-its-final-fantasy-10-house-grooves-a-real-thing-that-exists/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.26,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.05,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -215,7 +231,43 @@
     "read_time": "1 min read"
   },
   {
-    "id": 13,
+    "id": 14,
+    "title": "'Please give Novus one more chance': An 11-year-old early access survival game just got its first update since 2018",
+    "source": "PC Gamer",
+    "summary": "\"I'm trying to bring it all back and fix it,\" says Novus Inceptio developer McMagic Productions.",
+    "date": "Tue, 06 Oct 2026 21:44:55 +0000",
+    "link": "https://www.pcgamer.com/games/survival-crafting/please-give-novus-one-more-chance-an-11-year-old-early-access-survival-game-just-got-its-first-update-since-2018/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "The PC Gamer Mysteries, Case #1: \"A Slice of Death\": Why is there a dead golfer hidden in Golden Tee '99?",
+    "source": "PC Gamer",
+    "summary": "This murder's gone decades without being solved... until now.",
+    "date": "Tue, 06 Oct 2026 19:48:42 +0000",
+    "link": "https://www.pcgamer.com/games/sports/the-pc-gamer-mysteries-case-1-a-slice-of-death-why-is-there-a-dead-golfer-hidden-in-golden-tee-99/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
     "title": "Gears of War: E-Day review — terrific shooting buoys a sluggish campaign",
     "source": "PC Gamer",
     "summary": "Gears has never felt better to play, or more creatively stagnant.",
@@ -233,16 +285,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
-    "title": "I've added scams to GTA 5, but I might have scammed myself",
-    "source": "PC Gamer",
-    "summary": "At least I have a stylish new bag.",
-    "date": "Tue, 06 Oct 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/ive-added-scams-to-gta-5-but-i-might-have-scammed-myself/",
+    "id": 17,
+    "title": "A Scary-Looking New Conjuring Game Just Got Announced, And It’s Out Next Week On Netflix",
+    "source": "GameSpot",
+    "summary": "Out of nowhere, Netflix and Until Dawn developer Supermassive Games announced a new The Conjuring game, and it's out next week.\nThe Conjuring: Unspoken releases on October 13 through Netflix, so you don't need any dedicated hardware or controller to play it. \nThe game is an \"interactive paranormal i...",
+    "date": "Tue, 06 Oct 2026 19:26:05 +0000",
+    "link": "https://www.gamespot.com/articles/a-scary-looking-new-conjuring-game-just-got-announced-and-its-out-next-week-on-netflix/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.13,
+      "badge": "danger"
     },
     "tags": [
       "News",
@@ -251,42 +303,41 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "Warhorse co-founder believes 'AI is not a get out of jail free card' and that execs have a 'simplified mental model' of what it means for games",
-    "source": "PC Gamer",
-    "summary": "Wish for both quantity and quality.",
-    "date": "Tue, 06 Oct 2026 16:21:29 +0000",
-    "link": "https://www.pcgamer.com/software/ai/warhorse-co-founder-believes-ai-is-not-a-get-out-of-jail-free-card-and-that-execs-have-a-simplified-mental-model-of-what-it-means-for-games/",
+    "id": 18,
+    "title": "Xbox Was At An “All Time Low,” But Is Now Growing Again CEO Says Without Providing Any Real Evidence",
+    "source": "GameSpot",
+    "summary": "During a town hall meeting today, Xbox CEO Asha Sharma spoke to staff to help reassure them following mass layoffs and studio closures related to the \"reset\" of the business.\nWindows Central reports that Sharma told staff that Xbox is \"making the right decisions\" and that \"after an all time low, we'...",
+    "date": "Tue, 06 Oct 2026 19:03:50 +0000",
+    "link": "https://www.gamespot.com/articles/xbox-was-at-an-all-time-low-but-is-now-growing-again-after-huge-cuts-ceo-says/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.07,
       "badge": "info"
     },
     "tags": [
-      "AI"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "Gundam Rogue Orbit gave me a sick whip sword, but held back the one thing I want most in a mech game",
-    "source": "PC Gamer",
-    "summary": "Let me put my own parts on my Gundam, dangit!",
-    "date": "Tue, 06 Oct 2026 14:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/action/gundam-rogue-orbit-gave-me-a-sick-whip-sword-but-held-back-the-one-thing-i-want-most-in-a-mech-game/",
+    "id": 19,
+    "title": "PlayStation Plus Free Games For October 2026 Are Live Now",
+    "source": "GameSpot",
+    "summary": "PlayStation has released this month's batch of free games for PlayStation Plus subscribers. All PS Plus members can claim a trio of freebies as of October 6--F1 25, Hunt: Showdown 1896, and Earth Defense Force: World Brothers 2.\nThe Formula One games from Codemasters have been an annual treat for ra...",
+    "date": "Wed, 30 Sep 2026 10:46:01 +0000",
+    "link": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-october-2026/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.31,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 17,
+    "id": 20,
     "title": "Razer’s Wolverine V4 Controller Is Overkill For Most Gamers, And That’s The Point",
     "source": "GameSpot",
     "summary": "Razer has officially revealed the next entry in its line of high-end gaming controllers, the Wolverine V4 for Xbox and PC. Geared toward competitive gamers--not that there's anything stopping you from using it to play Vampire Survivors--and it focuses primarily on polling performance and thumbstick ...",
@@ -299,60 +350,6 @@
     },
     "tags": [
       "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "Call Of Duty’s Richtofen Actor Wants Him To Come Back, Says 2027’s CoD Could Be From Sledgehammer",
-    "source": "GameSpot",
-    "summary": "Veteran video game actor Nolan North has addressed his future in the Call of Duty series, saying he hopes to reprise his character Dr. Edward Richtofen from Black Ops' popular Zombies mode. \nIf this does happen, it probably won't be soon. That's because, North said he believes 2027's Call of Duty ga...",
-    "date": "Tue, 06 Oct 2026 15:57:26 +0000",
-    "link": "https://www.gamespot.com/articles/call-of-dutys-richtofen-actor-wants-him-to-come-back-says-2027s-cod-could-be-from-sledgehammer/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "Solo Horror Dev Makes A Creepy Connection To A Real Haunted Island In Mexico",
-    "source": "GameSpot",
-    "summary": "Being a haunted doll must be difficult. You're missing an eyeball, and your lipstick makes you look more like a cannibal than a cherub. People make faces of disgust at you in the antique mall, and you want to tell them you're actually the unblemished soul of a 19th century nun named Eunice, but they...",
-    "date": "Tue, 06 Oct 2026 15:52:15 +0000",
-    "link": "https://www.gamespot.com/articles/solo-horror-dev-makes-a-creepy-connection-to-a-real-haunted-island-in-mexico/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "GameStop Is Preparing Us For Next-Gen Pricing With $1,400 Used PS5 Pros",
-    "source": "GameSpot",
-    "summary": "Sticker shock might be underselling it with GameStop's new used pricing for Sony's most powerful system. Starting today, the video game store is listing pre-owned PS5 Pros for $1,400, though GameStop Pro members only need to dish out $1,330. Basically, it's a $500 surcharge over a brand-new PS5 Pro ...",
-    "date": "Tue, 06 Oct 2026 15:19:44 +0000",
-    "link": "https://www.gamespot.com/articles/gamestop-is-preparing-us-for-next-gen-pricing-with-1400-used-ps5-pros/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
     ],
     "read_time": "1 min read"
   }
