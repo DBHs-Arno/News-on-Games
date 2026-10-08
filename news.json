@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "The Newest Harry Potter Illustrated Edition Was Just Released and Is Already on Sale at Target",
+    "title": "C4 Has Its Bombsicle Energy Drinks Discounted Still Today at Amazon for October Prime Day",
     "source": "IGN",
-    "summary": "",
-    "date": "Wed, 7 Oct 2026 16:26:59 +0000",
-    "link": "https://www.ign.com/articles/the-newest-harry-potter-illustrated-edition-was-just-released-and-is-already-discounted",
+    "summary": "\"Red, white and boom\" popsicle but with 200mg caffeine, all packed into a 16 oz can.",
+    "date": "Wed, 7 Oct 2026 22:48:06 +0000",
+    "link": "https://www.ign.com/articles/c4-has-its-bombsicle-energy-drinks-discounted-still-today-at-amazon-for-october-prime-day",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -19,15 +19,15 @@
   },
   {
     "id": 2,
-    "title": "The New Shokz OpenRun Pro 2 Sport Headphone in Striking Rose Gold Drops to $110 for Prime Day",
+    "title": "The Legend of Zelda: Ocarina of Time Manga Is on Sale at Amazon Today",
     "source": "IGN",
-    "summary": "Bone conduction.",
-    "date": "Wed, 7 Oct 2026 16:05:00 +0000",
-    "link": "https://www.ign.com/articles/shokz-openrun-pro-2-sport-headphone-deal-amazon-october-prime-day-sale-2026",
+    "summary": "",
+    "date": "Wed, 7 Oct 2026 22:33:23 +0000",
+    "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-manga-is-on-sale-for-prime-big-deal-days-2026",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.41,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -37,32 +37,33 @@
   },
   {
     "id": 3,
-    "title": "Today Only: Save Over 50% Off a 2TB Internal SSD for Steam Deck or ROG Ally",
+    "title": "The Razer Iskur V2 X Gaming Chair Dips Below $200 For the First Time During the Prime Day Sale",
     "source": "IGN",
-    "summary": "",
-    "date": "Wed, 7 Oct 2026 16:00:41 +0000",
-    "link": "https://www.ign.com/articles/wd-black-2tb-internal-ssd-for-steam-deck-or-rog-ally-deal-october-2026",
+    "summary": "The best budget gaming chair of 2026.",
+    "date": "Wed, 7 Oct 2026 22:20:00 +0000",
+    "link": "https://www.ign.com/articles/razer-iskur-v2-x-gaming-chair-deal-amazon-october-prime-day-sale-2026",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.62,
+      "badge": "success"
     },
     "tags": [
-      "Steam"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Superhero Satire The Wrong Earth Takes on Absolute Batman in Absolutely the Wrong Earth - NYCC 2026",
+    "title": "Samuel L. Jackson Confirms Nick Fury Will Return in Avengers: Secret Wars",
     "source": "IGN",
-    "summary": "AHOY Comics revealed an impressive lineup of new books at NYCC, including the Absolute Batman parody Absolutely the Wrong Earth.",
-    "date": "Wed, 7 Oct 2026 16:00:00 +0000",
-    "link": "https://www.ign.com/articles/superhero-satire-the-wrong-earth-takes-on-absolute-batman-in-absolutely-the-wrong-earth-nycc-2026",
+    "summary": "Samuel L. Jackson has confirmed that we won’t be seeing Nick Fury in Avengers: Doomsday, but said that his character is set to return in Avengers: Secret Wars.",
+    "date": "Wed, 7 Oct 2026 22:02:54 +0000",
+    "link": "https://www.ign.com/articles/samuel-l-jackson-confirms-nick-fury-will-return-in-avengers-secret-wars",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.13,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -72,6 +73,41 @@
   },
   {
     "id": 5,
+    "title": "Star Wars: Zero Company studio is bringing \"as many people back as possible\" after furloughing \"most\" of its developers",
+    "source": "Eurogamer",
+    "summary": "Star Wars: Zero Company maker Bit Reactor is bringing back developers who were furloughed ahead of launch. Read more...",
+    "date": "Wed, 07 Oct 2026 19:24:25 +0000",
+    "link": "https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Sony is reportedly plotting to revive classic PlayStation games, starting with a new Ape Escape from the developers behind Sonic Mania",
+    "source": "Eurogamer",
+    "summary": "Sony reportedly wants to revive a selection of its long-dormant PlayStation classics with the help of smaller third-party developers, and a new Ape Escape game is apparently up first. Read more...",
+    "date": "Wed, 07 Oct 2026 18:28:00 +0000",
+    "link": "https://www.eurogamer.net/sony-classic-playstation-games-ape-escape-sonic-mania",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
     "title": "Here are our Xbox Game Pass games for October 2026",
     "source": "Eurogamer",
     "summary": "Microsoft has revealed the first batch of games coming to Xbox Game Pass this month, though subscribers only have a week left to try the award-winning Clair Obscur: Expedition 33 before it waves goodbye. Read more...",
@@ -88,7 +124,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "Undead Labs speaks about its split from Xbox, revealing it has to \"make some changes\" to State of Decay 3 following layoffs",
     "source": "Eurogamer",
     "summary": "State of Decay studio Undead Labs has spoken out after rebuying its independence and leaving Xbox last month, revealing it has \"got to make some changes\" to State of Decay 3 because of layoffs it suffered as a result. Read more...",
@@ -105,52 +141,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 7,
-    "title": "Call of Duty: Modern Warfare 4's latest DMZ trailers have left players confused about the existence of a PvE-only mode",
-    "source": "Eurogamer",
-    "summary": "Call of Duty recently kicked off a week of Modern Warfare 4 DMZ news, which brought us a first look at the \"action extraction\" mode and some insight into developer Infinity Ward's guiding philosophy. Read more...",
-    "date": "Wed, 07 Oct 2026 13:46:53 +0000",
-    "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-trailers-discussion",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "20 million sales later, Capcom is bringing Monster Hunter Rise to iOS and Android, but for now it's locked behind a Netflix subscription",
-    "source": "Eurogamer",
-    "summary": "Monster Hunter Rise is coming to Android and iOS through Netflix, new store listings have revealed today. The game, which originally launched on Nintendo Switch in 2021 and later came to PC, Xbox and PlayStation - and that I thought was superb, even in its most barebones release state - seemingly go...",
-    "date": "Wed, 07 Oct 2026 13:27:42 +0000",
-    "link": "https://www.eurogamer.net/monster-hunter-rise-ios-android-netflix",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox",
-      "PlayStation",
-      "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 9,
-    "title": "What time does Marvel Rivals Season 10.5 release in your time zone?",
+    "title": "3 Stunning 25-Year-Old Pokémon Promo Cards Fetch Nearly $1.2 Million at Auction",
     "source": "Polygon",
-    "summary": "Marvel Rivals' Season 10.5 release time brings with it new modes and some long-needed hero updates for Iron Man and Phoenix.",
-    "date": "Wed, 07 Oct 2026 18:02:25 GMT",
-    "link": "https://www.polygon.com/marvel-rivals-season-10-5-release-time-edt-pdt-utc/",
+    "summary": "Paradise doesn’t come cheap.",
+    "date": "Wed, 07 Oct 2026 20:40:15 GMT",
+    "link": "https://www.polygon.com/pokemon-southern-islands-mew-togepi-marill-auction/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.14,
+      "score": 0.33,
       "badge": "success"
     },
     "tags": [
@@ -161,11 +160,11 @@
   },
   {
     "id": 10,
-    "title": "Star Wars Officially Brings Back Ezra and Thrawn for New 2027 Release",
+    "title": "KPop Demon Hunters Gets An Official New Format Release Next Month",
     "source": "Polygon",
-    "summary": "Star Wars to tell Ezra's story during Ahsoka season 1 in new comic coming in 2027",
-    "date": "Wed, 07 Oct 2026 17:55:36 GMT",
-    "link": "https://www.polygon.com/star-wars-ahsoka-escape-from-thrawn-announced-ezra-return/",
+    "summary": "Netflix is giving KPop Demon Hunters a new way to experience the movie — as a 700-page comic that recreates the story with a new look.",
+    "date": "Wed, 07 Oct 2026 20:20:34 GMT",
+    "link": "https://www.polygon.com/kpop-demon-hunters-official-screen-comic-boxed-set-netflix/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.13,
@@ -179,136 +178,11 @@
   },
   {
     "id": 11,
-    "title": "Dispatch Is GOTY Eligible at Game Awards for Second Year in a Row",
+    "title": "FF7 Revelation Sets Up a Rude Awakening for Cloud",
     "source": "Polygon",
-    "summary": "AdHoc's episodic superhero game was eligible and nominated for TGA 2025, but has been confirmed eligible for the 2026 awards by Geoff Keighley",
-    "date": "Wed, 07 Oct 2026 17:47:29 GMT",
-    "link": "https://www.polygon.com/dispatch-game-awards-goty-eligible-2025-2026/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "12 Years Later, Canceled Kojima Game 'P.T.' Makes A Comeback",
-    "source": "Polygon",
-    "summary": "Before Hideo Kojima began developing OD for Xbox, he made an iconic PlayStation horror game meant to kick off a new Silent Hill era",
-    "date": "Wed, 07 Oct 2026 16:57:24 GMT",
-    "link": "https://www.polygon.com/ps4-horror-game-pt-hideo-kojima-silent-hills-playable-teaser/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Xbox",
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Help, I have been abducted by a tiny car and cannot escape",
-    "source": "PC Gamer",
-    "summary": "Also, where are the deer?",
-    "date": "Wed, 07 Oct 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/help-i-have-been-abducted-by-a-tiny-car-and-cannot-escape/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party",
-    "source": "PC Gamer",
-    "summary": "A report that GTA 6 would be streamable on PC turned out to be a bit off the mark.",
-    "date": "Wed, 07 Oct 2026 16:05:02 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "I had 3 hours with Arc Raiders Frozen Trails update and spent most of it playing with the new grapple hook",
-    "source": "PC Gamer",
-    "summary": "Frozen Trail is a big moment for Arc Raiders.",
-    "date": "Wed, 07 Oct 2026 15:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/third-person-shooter/i-had-3-hours-with-arc-raiders-frozen-trails-update-and-spent-most-of-it-playing-with-the-new-grapple-hook/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.13,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Critical Role's latest D&D episode was so stressful, I discovered a new noise my mouth can make",
-    "source": "PC Gamer",
-    "summary": "Working names: A lell. A laull? I'll workshop it.",
-    "date": "Wed, 07 Oct 2026 14:42:52 +0000",
-    "link": "https://www.pcgamer.com/movies-tv/critical-roles-latest-d-and-d-episode-was-so-stressful-i-discovered-a-new-noise-my-mouth-can-make/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.21,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "Star Wars Zero Company Developer Sees Portion Of Furloughed Workers Return",
-    "source": "GameSpot",
-    "summary": "Star Wars Zero Company released in late August to great reviews, but its launch was bittersweet, as a large chunk of developer Bit Reactor's staff was furloughed, unsure if they would be returning to work. For at least a portion of them, however, that uncertainty is over, as they're back at the stud...",
-    "date": "Wed, 07 Oct 2026 17:56:10 +0000",
-    "link": "https://www.gamespot.com/articles/star-wars-zero-company-developer-sees-portion-of-furloughed-workers-return/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "WoW: Forever Players Love It When Things Look Old",
-    "source": "GameSpot",
-    "summary": "World of Warcraft: Forever players have made their feelings about the game's visual style crystal clear: They love it when things look old.\nIt's a recurring theme in the Forever beta, where players have continually pushed back against updated high-definition character models and character portraits....",
-    "date": "Wed, 07 Oct 2026 17:42:30 +0000",
-    "link": "https://www.gamespot.com/articles/wow-forever-players-love-it-when-things-look-old/",
+    "summary": "The latest Final Fantasy 7 Revelation preview showed Cloud and his pals venturing into the Northern Crater for the first time, and there’s drama afoot",
+    "date": "Wed, 07 Oct 2026 20:09:08 GMT",
+    "link": "https://www.polygon.com/ff7-revelation-preview-impressions-cloud/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.11,
@@ -321,33 +195,159 @@
     "read_time": "1 min read"
   },
   {
-    "id": 19,
-    "title": "Xbox Game Pass Gets Gears Of War: E-Day And These 11 Games In October",
-    "source": "GameSpot",
-    "summary": "It's the start of a new month, and like clockwork, the next batch of Xbox Game Pass titles has been announced for the subscription service. Gears of War: E-Day leads the new arrivals this month, and it'll be joined by a few more big games: Battlefield 6 and Valor Mortis.\nHere's a closer look at ever...",
-    "date": "Wed, 07 Oct 2026 16:07:43 +0000",
-    "link": "https://www.gamespot.com/articles/xbox-game-pass-gets-gears-of-war-e-day-and-these-11-games-in-october/",
+    "id": 12,
+    "title": "'Obsession' Officially Returning to Theaters As It's Never Been Seen Before",
+    "source": "Polygon",
+    "summary": "Curry Barker's hit horror movie Obsession is returning to theaters in 4DX on Oct. 14 for a deluxe and immersive special rerelease.",
+    "date": "Wed, 07 Oct 2026 19:10:14 GMT",
+    "link": "https://www.polygon.com/obsession-rerelease-october-2026-4dx-theaters-halloween/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.48,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Here's the Dragon's Dogma 2: Dark Arisen release time for your region",
+    "source": "PC Gamer",
+    "summary": "Travel to the wild and wintery realm of Norgan.",
+    "date": "Thu, 08 Oct 2026 00:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/heres-the-dragons-dogma-2-dark-arisen-release-time-for-your-region/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.03,
+      "score": -0.02,
       "badge": "info"
     },
     "tags": [
-      "Xbox"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Blizzard promises to make the blue elves in World of Warcraft: Forever look worse (positive)",
+    "source": "PC Gamer",
+    "summary": "Blizzard gave us the first images of how Skyborne will look in November.",
+    "date": "Wed, 07 Oct 2026 22:42:17 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-promises-to-make-the-blue-elves-in-world-of-warcraft-forever-look-worse-positive/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "With Grand Theft Auto 6 poised to take over the world, I reached out to Jack Thompson and it did not go well",
+    "source": "PC Gamer",
+    "summary": "GTA is mainstream now, but the fiery activist who raged against violent videogames in the early 2000s has not softened.",
+    "date": "Wed, 07 Oct 2026 22:41:23 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/with-grand-theft-auto-6-poised-to-take-over-the-world-i-reached-out-to-jack-thompson-and-it-did-not-go-well/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Blood Bowl 3 is being replaced by Warhammer Blood Bowl: What will happen to everyone's unspent currency?",
+    "source": "PC Gamer",
+    "summary": "Should you spend it now, or can you safely keep it in the bank?",
+    "date": "Wed, 07 Oct 2026 22:34:55 +0000",
+    "link": "https://www.pcgamer.com/games/strategy/blood-bowl-3-is-being-replaced-by-warhammer-blood-bowl-what-will-happen-to-everyones-unspent-currency/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "Controversial Horror Series Ropes Me Back In With Silent Hill’s Original Composer And Lady Dimitrescu",
+    "source": "GameSpot",
+    "summary": "The Remothered games are true cult classics in the way that players find them either insufferable or inspired. As a lover of developer Stormind Games' antique perversions, but also a hater of its convoluted storytelling, I regretfully exist somewhere in between. But I know I won't be able to resist ...",
+    "date": "Wed, 07 Oct 2026 20:45:00 +0000",
+    "link": "https://www.gamespot.com/articles/controversial-horror-series-ropes-me-back-in-with-silent-hills-original-composer-and-lady-dimitrescu/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Three Years Later, The Outlast Trials Just Smashed Its Concurrent-Player Record",
+    "source": "GameSpot",
+    "summary": "The Outlast Trials, Red Barrels' co-op horror game set in its wider Outlast universe, just broke its concurrent-player record, eclipsing 120,000 players. The previous high came when the game launched in Steam Early Access in 2023 and the player count climbed to 36,000. \nToday's new record means the ...",
+    "date": "Wed, 07 Oct 2026 20:00:15 +0000",
+    "link": "https://www.gamespot.com/articles/three-years-later-the-outlast-trials-just-smashed-its-concurrent-player-record/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "The New Guitar Hero-Like Game, Stage Tour, Has A Pretty Excellent Soundtrack",
+    "source": "GameSpot",
+    "summary": "The Guitar Hero series may be dead and gone, but in its place comes a new game called Stage Tour, and it's made by the latest evolution of the same studio, RedOctane, that created Guitar Hero. \nAt Gamescom this summer, the studio announced that the game will have 90+ songs on its setlist and reveale...",
+    "date": "Tue, 09 Jun 2026 19:12:31 +0000",
+    "link": "https://www.gamespot.com/articles/the-new-guitar-hero-err-stage-tour-reveals-its-first-songs/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "New Details Revealed For GTA 6’s Jason And Lucia, Including “Physical Intimacy”",
+    "title": "Resident Evil Movie Will Become Zach Cregger’s Biggest Ever, Surpassing Weapons",
     "source": "GameSpot",
-    "summary": "New information has come to light about GTA 6, and specifically the partnership of its main characters, Jason and Lucia. In GTA 6, they are both partners in crime and lovers, and physical intimacy will be part of the experience, it seems.\nRockstar North's Rob Nelson said in an interview with IGN tha...",
-    "date": "Wed, 07 Oct 2026 16:02:29 +0000",
-    "link": "https://www.gamespot.com/articles/new-details-revealed-for-gta-6s-jason-and-lucia-including-physical-intimacy/",
+    "summary": "Zach Cregger has another hit on his hands with Resident Evil, and it's set to become his biggest movie ever by revenue at the box office.\nAccording to Deadline, Resident Evil is expected to surpass his current biggest movie, Weapons ($270 million worldwide), by the end of this week or sooner. It cur...",
+    "date": "Wed, 07 Oct 2026 19:14:22 +0000",
+    "link": "https://www.gamespot.com/articles/resident-evil-movie-will-become-zach-creggers-biggest-ever-surpassing-weapons/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.62,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
