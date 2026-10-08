@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Star Wars: Galactic Racer Multiplayer Party Limit Will Be Doubled Via Update",
+    "title": "Wardogs Streamer Banned for Exploiting the Game's Building Mechanics to Get Rich",
     "source": "IGN",
-    "summary": "Developer Fuse Games aims to release an update to increase party size from three to six players “within the first few weeks of launch.”",
-    "date": "Thu, 8 Oct 2026 04:17:47 +0000",
-    "link": "https://www.ign.com/articles/star-wars-galactic-racer-multiplayer-party-limit-will-be-doubled-via-update",
+    "summary": "A vtuber is at the center of a controversy in the Wardogs community surrounding exploits.",
+    "date": "Thu, 8 Oct 2026 09:29:19 +0000",
+    "link": "https://www.ign.com/articles/wardogs-streamer-banned-for-exploits",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.02,
+      "score": -0.04,
       "badge": "info"
     },
     "tags": [
@@ -19,15 +19,15 @@
   },
   {
     "id": 2,
-    "title": "Mixtape Wins Game of the Year at the 2026 Australian Game Developer Awards",
+    "title": "Below Review",
     "source": "IGN",
-    "summary": "Mixtape developer Beethoven & Dinosaur has won a trifecta of awards at the 2026 AGDAs, including Excellence in Visual Art, Excellence in Sound Design, and Game of the Year.",
-    "date": "Thu, 8 Oct 2026 02:36:46 +0000",
-    "link": "https://www.ign.com/articles/mixtape-wins-game-of-the-year-at-the-2026-australian-game-developer-awards",
+    "summary": "Below is Netflix’s go at a “What if Jaws but…” type of story set in Newfoundland starring Josh Hartnett that starts off with a promising hook and closes with a hole-y, disappointing end.",
+    "date": "Thu, 8 Oct 2026 07:01:00 +0000",
+    "link": "https://www.ign.com/articles/below-netflix-review",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -37,15 +37,15 @@
   },
   {
     "id": 3,
-    "title": "The 2026 LG Evo B6 4K 120Hz OLED TV Drops to Under $1,000 for Prime Day, Plus Get a Free Soundbar",
+    "title": "Tom Cruise’s Digger Reportedly Positioned to Lose $250 Million",
     "source": "IGN",
-    "summary": "Why settle for just a TV when you can get the entire home theater.",
-    "date": "Thu, 8 Oct 2026 00:30:00 +0000",
-    "link": "https://www.ign.com/articles/lg-evo-b6-4k-oled-tv-deal-amazon-october-prime-day-sale",
+    "summary": "",
+    "date": "Thu, 8 Oct 2026 06:34:25 +0000",
+    "link": "https://www.ign.com/articles/tom-cruises-digger-reportedly-positioned-to-lose-250-million",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -55,14 +55,14 @@
   },
   {
     "id": 4,
-    "title": "Amazon Prime Big Deal Days 2026: Today Is the Last Day to Score the Best October Sales",
+    "title": "Jeremy Clarkson Will Return to His Automotive Roots for One-Off Special ‘Jeremy Grows a Car’",
     "source": "IGN",
-    "summary": "Prime Day: Part 2 is nearly over.",
-    "date": "Thu, 8 Oct 2026 00:15:00 +0000",
-    "link": "https://www.ign.com/articles/amazon-prime-big-deal-days-sale-2026",
+    "summary": "Jeremy Grows a Car: A Clarkson’s Farm Special will air on Prime in 2027.",
+    "date": "Thu, 8 Oct 2026 05:35:34 +0000",
+    "link": "https://www.ign.com/articles/jeremy-clarkson-will-return-to-his-automotive-roots-for-one-off-special-jeremy-grows-a-car",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.28,
+      "score": 0.36,
       "badge": "success"
     },
     "tags": [
@@ -73,15 +73,15 @@
   },
   {
     "id": 5,
-    "title": "Star Wars: Zero Company studio is bringing \"as many people back as possible\" after furloughing \"most\" of its developers",
+    "title": "Full-frontal nudity, dirt-biking, and a dev menu: GTA 6's infamous leaker is back with the most X-rated look at the game yet",
     "source": "Eurogamer",
-    "summary": "Star Wars: Zero Company maker Bit Reactor is bringing back developers who were furloughed ahead of launch. Read more...",
-    "date": "Wed, 07 Oct 2026 19:24:25 +0000",
-    "link": "https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff",
+    "summary": "It looks like the GTA 6 leaker, 'CyberLeek' is back - and this time the infamous leaker has posted a 25-minute video of footage from Rockstar's upcoming game that even features nude scenes, including a fully naked Jason, and a topless Lucia. Eurogamer has seen the video, and it appears to be legitim...",
+    "date": "Thu, 08 Oct 2026 12:09:17 +0000",
+    "link": "https://www.eurogamer.net/gta-6-frontal-nudity-dirt-biking-dev-menu-leak",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.16,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -91,48 +91,49 @@
   },
   {
     "id": 6,
-    "title": "Sony is reportedly plotting to revive classic PlayStation games, starting with a new Ape Escape from the developers behind Sonic Mania",
+    "title": "Blizzard is changing the appearance of WoW: Forever's new Skyborne race in response to community feedback",
     "source": "Eurogamer",
-    "summary": "Sony reportedly wants to revive a selection of its long-dormant PlayStation classics with the help of smaller third-party developers, and a new Ape Escape game is apparently up first. Read more...",
-    "date": "Wed, 07 Oct 2026 18:28:00 +0000",
-    "link": "https://www.eurogamer.net/sony-classic-playstation-games-ape-escape-sonic-mania",
+    "summary": "World of Warcraft: Forever's developers have announced drastic visual changes to the game's new Skyborne race following passionate community feedback. These include new in-game models that better represent the game's early MMO aesthetic, much to the community's delight. Read more...",
+    "date": "Thu, 08 Oct 2026 11:35:03 +0000",
+    "link": "https://www.eurogamer.net/world-of-warcraft-forever-skyborne-character-model",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.06,
+      "score": 0.07,
       "badge": "info"
     },
     "tags": [
-      "PlayStation"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 7,
-    "title": "Here are our Xbox Game Pass games for October 2026",
+    "title": "Google and Unity unveil gen-AI game-making platforms, and demonstrate one of them with depressingly rubbish \"dream game\" Space Corridor",
     "source": "Eurogamer",
-    "summary": "Microsoft has revealed the first batch of games coming to Xbox Game Pass this month, though subscribers only have a week left to try the award-winning Clair Obscur: Expedition 33 before it waves goodbye. Read more...",
-    "date": "Wed, 07 Oct 2026 16:55:21 +0000",
-    "link": "https://www.eurogamer.net/xbox-game-pass-lineup-october-2026",
+    "summary": "Google and Unity yesterday announced new generative-AI game-making platforms designed to make and shape games by inputting text prompts. Google's product is called Playground and is available for testing now, if you live in the US, and Unity's product is Unity Spark and is \"coming soon\". Read more...",
+    "date": "Thu, 08 Oct 2026 11:33:09 +0000",
+    "link": "https://www.eurogamer.net/google-playground-unity-spark-gen-ai-game-creators",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.01,
+      "score": 0.03,
       "badge": "info"
     },
     "tags": [
-      "Xbox"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 8,
-    "title": "Undead Labs speaks about its split from Xbox, revealing it has to \"make some changes\" to State of Decay 3 following layoffs",
+    "title": "Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good",
     "source": "Eurogamer",
-    "summary": "State of Decay studio Undead Labs has spoken out after rebuying its independence and leaving Xbox last month, revealing it has \"got to make some changes\" to State of Decay 3 because of layoffs it suffered as a result. Read more...",
-    "date": "Wed, 07 Oct 2026 13:56:05 +0000",
-    "link": "https://www.eurogamer.net/undead-labs-xbox-layoffs-state-of-decay-3",
+    "summary": "Last year, we learned that Xbox cancelled a reboot of Perfect Dark. The game, in development at The Initiative, was cancelled as part of 2025's wave of wide-ranging cuts at Microsoft and Xbox. In 2026, of course, things have only gotten worse for the company. Read more...",
+    "date": "Thu, 08 Oct 2026 08:57:13 +0000",
+    "link": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.17,
+      "score": 0.16,
       "badge": "success"
     },
     "tags": [
@@ -142,14 +143,14 @@
   },
   {
     "id": 9,
-    "title": "Netflix Is About to Lose The Most Inventive Sci-Fi Thriller of the Decade",
+    "title": "Critical Role Campaign 4's Most Surreal Moment Was Inspired by a 400-Year-Old Story",
     "source": "Polygon",
-    "summary": "Written and directed by John Krasinski and starring Emily Blunt, A Quiet Place Part II is an excellent follow-up to the original",
-    "date": "Thu, 08 Oct 2026 06:00:16 GMT",
-    "link": "https://www.polygon.com/a-quiet-place-part-ii-leaving-netflix-october-2026/",
+    "summary": "When William Shakespeare sat down to write Julius Caesar, we can't imagine he foresaw how it would inspire one of Critical Role's best moments.",
+    "date": "Thu, 08 Oct 2026 12:00:17 GMT",
+    "link": "https://www.polygon.com/critical-role-campaign-4-shakespeare/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.47,
+      "score": 0.27,
       "badge": "success"
     },
     "tags": [
@@ -160,14 +161,14 @@
   },
   {
     "id": 10,
-    "title": "Ahead of Your Halloween Rewatch, Ranking All 7 Seasons of Buffy the Vampire Slayer",
+    "title": "27 Years Later, Stephen King's Most Controversial Movie Sequel Is Officially Free on Youtube",
     "source": "Polygon",
-    "summary": "Once more, with feeling",
-    "date": "Thu, 08 Oct 2026 04:00:23 GMT",
-    "link": "https://www.polygon.com/buffy-seasons-ranked/",
+    "summary": "Mike Flanagan wants to make a Carrie sequel, but an even better one already exists",
+    "date": "Thu, 08 Oct 2026 12:00:17 GMT",
+    "link": "https://www.polygon.com/carrie-2-the-rage-movie/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.5,
+      "score": 0.36,
       "badge": "success"
     },
     "tags": [
@@ -178,32 +179,14 @@
   },
   {
     "id": 11,
-    "title": "Beloved Action-RPG Muramasa: The Demon Blade Returns in 2027 With Stunning Remake",
+    "title": "Star Wars: Galactic Racer Continues a 55-Year-Old Gaming Tradition",
     "source": "Polygon",
-    "summary": "Vanillaware's Muramasa: The Demon Blade gets a huge upgrade with Muramasa: Revenant Blades in 2027 for PS5, Switch, and PC.",
-    "date": "Thu, 08 Oct 2026 04:00:23 GMT",
-    "link": "https://www.polygon.com/muramasa-revenant-blades-2027-remake-remaster-vanillaware-marvelous/",
+    "summary": "Star Wars: Galactic Racer features a brilliant roguelite single-player campaign that feels modern and old-school at once.",
+    "date": "Thu, 08 Oct 2026 11:00:15 GMT",
+    "link": "https://www.polygon.com/star-wars-galactic-racer-roguelike-campaign-arcade/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.53,
-      "badge": "success"
-    },
-    "tags": [
-      "RPG",
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Disney's 10-Part Detective Thriller Series Is So Freaking Good You'll Finish It in One Weekend",
-    "source": "Polygon",
-    "summary": "Season 2 of Fargo is the best-ever season of the FX drama/comedy mostly because of Kirstin Dunst",
-    "date": "Thu, 08 Oct 2026 02:00:26 GMT",
-    "link": "https://www.polygon.com/fargo-season-2-streaming-october-2026/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.6,
+      "score": 0.55,
       "badge": "success"
     },
     "tags": [
@@ -213,7 +196,61 @@
     "read_time": "1 min read"
   },
   {
+    "id": 12,
+    "title": "Minecraft's Switch 2 Upgrade Is Free, but Only for Digital Owners",
+    "source": "Polygon",
+    "summary": "Some Minecraft owners are eligible to receive a free upgrade of the game's Switch 2 edition, but others are being left behind.",
+    "date": "Thu, 08 Oct 2026 10:30:47 GMT",
+    "link": "https://www.polygon.com/minecraft-nintendo-switch-2-upgrade-digital-only/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
     "id": 13,
+    "title": "Where to find the Ruined Homestead in Arc Raiders",
+    "source": "PC Gamer",
+    "summary": "Take a photo of any farmland house around the Ruined Homestead.",
+    "date": "Thu, 08 Oct 2026 11:30:21 +0000",
+    "link": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-ruined-homestead-location/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "PC Gamer magazine's new issue is on sale now: World of Warcraft: Forever",
+    "source": "PC Gamer",
+    "summary": "Plus, Total War: Warhammer 40,000, Stronghold 4, Rainbow Six Tactics, Bodycam, The Blood of Dawnwalker, Max Payne 2: The Fall of Max Payne, and much more, too",
+    "date": "Thu, 08 Oct 2026 09:11:18 +0000",
+    "link": "https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-world-of-warcraft-forever/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.21,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
     "title": "Muramasa: Revenant Blades has 108 swords, and its definitive update for PC wants to make sure you use them all",
     "source": "PC Gamer",
     "summary": "The swords may be cursed, but the action is better than ever.",
@@ -231,7 +268,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "Now we know the prices of the new RTX Spark laptops and they're as expensive as I'm sure you feared",
     "source": "PC Gamer",
     "summary": "The launch is coming on October 16, is your bank account prepared?",
@@ -249,43 +286,25 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "Here's the Dragon's Dogma 2: Dark Arisen release time for your region",
-    "source": "PC Gamer",
-    "summary": "Travel to the wild and wintery realm of Norgan.",
-    "date": "Thu, 08 Oct 2026 00:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/heres-the-dragons-dogma-2-dark-arisen-release-time-for-your-region/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Blizzard promises to make the blue elves in World of Warcraft: Forever look worse (positive)",
-    "source": "PC Gamer",
-    "summary": "Blizzard gave us the first images of how Skyborne will look in November.",
-    "date": "Wed, 07 Oct 2026 22:42:17 +0000",
-    "link": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-promises-to-make-the-blue-elves-in-world-of-warcraft-forever-look-worse-positive/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 17,
+    "title": "GTA 6 Leaks Aren’t Over Yet, As New 25-Minute Gameplay Footage Appears",
+    "source": "GameSpot",
+    "summary": "As the GTA 6 release date creeps ever closer, the now-notorious leaker Cyberleek doesn't seem to be finished showing off unreleased content just yet. \nHaving been relatively quiet since August's wave of shorter GTA 6 leaks, Cyberleek has released a 25-minute video of new gameplay footage and cutscen...",
+    "date": "Thu, 08 Oct 2026 11:54:16 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-leaks-arent-over-yet-as-new-25-minute-gameplay-footage-appears/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
     "title": "Controversial Horror Series Ropes Me Back In With Silent Hill’s Original Composer And Lady Dimitrescu",
     "source": "GameSpot",
     "summary": "The Remothered games are true cult classics in the way that players find them either insufferable or inspired. As a lover of developer Stormind Games' antique perversions, but also a hater of its convoluted storytelling, I regretfully exist somewhere in between. But I know I won't be able to resist ...",
@@ -303,7 +322,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "Three Years Later, The Outlast Trials Just Smashed Its Concurrent-Player Record",
     "source": "GameSpot",
     "summary": "The Outlast Trials, Red Barrels' co-op horror game set in its wider Outlast universe, just broke its concurrent-player record, eclipsing 120,000 players. The previous high came when the game launched in Steam Early Access in 2023 and the player count climbed to 36,000. \nToday's new record means the ...",
@@ -320,7 +339,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 19,
+    "id": 20,
     "title": "The New Guitar Hero-Like Game, Stage Tour, Has A Pretty Excellent Soundtrack",
     "source": "GameSpot",
     "summary": "The Guitar Hero series may be dead and gone, but in its place comes a new game called Stage Tour, and it's made by the latest evolution of the same studio, RedOctane, that created Guitar Hero. \nAt Gamescom this summer, the studio announced that the game will have 90+ songs on its setlist and reveale...",
@@ -330,24 +349,6 @@
       "label": "Neutral / Informative",
       "score": 0.06,
       "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "Resident Evil Movie Will Become Zach Cregger’s Biggest Ever, Surpassing Weapons",
-    "source": "GameSpot",
-    "summary": "Zach Cregger has another hit on his hands with Resident Evil, and it's set to become his biggest movie ever by revenue at the box office.\nAccording to Deadline, Resident Evil is expected to surpass his current biggest movie, Weapons ($270 million worldwide), by the end of this week or sooner. It cur...",
-    "date": "Wed, 07 Oct 2026 19:14:22 +0000",
-    "link": "https://www.gamespot.com/articles/resident-evil-movie-will-become-zach-creggers-biggest-ever-surpassing-weapons/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.62,
-      "badge": "danger"
     },
     "tags": [
       "Gaming",
