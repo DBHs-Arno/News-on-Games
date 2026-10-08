@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "title": "C4 Has Its Bombsicle Energy Drinks Discounted Still Today at Amazon for October Prime Day",
+    "title": "Star Wars: Galactic Racer Multiplayer Party Limit Will Be Doubled Via Update",
     "source": "IGN",
-    "summary": "\"Red, white and boom\" popsicle but with 200mg caffeine, all packed into a 16 oz can.",
-    "date": "Wed, 7 Oct 2026 22:48:06 +0000",
-    "link": "https://www.ign.com/articles/c4-has-its-bombsicle-energy-drinks-discounted-still-today-at-amazon-for-october-prime-day",
+    "summary": "Developer Fuse Games aims to release an update to increase party size from three to six players “within the first few weeks of launch.”",
+    "date": "Thu, 8 Oct 2026 04:17:47 +0000",
+    "link": "https://www.ign.com/articles/star-wars-galactic-racer-multiplayer-party-limit-will-be-doubled-via-update",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.02,
       "badge": "info"
     },
     "tags": [
@@ -19,14 +19,14 @@
   },
   {
     "id": 2,
-    "title": "The Legend of Zelda: Ocarina of Time Manga Is on Sale at Amazon Today",
+    "title": "Mixtape Wins Game of the Year at the 2026 Australian Game Developer Awards",
     "source": "IGN",
-    "summary": "",
-    "date": "Wed, 7 Oct 2026 22:33:23 +0000",
-    "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-manga-is-on-sale-for-prime-big-deal-days-2026",
+    "summary": "Mixtape developer Beethoven & Dinosaur has won a trifecta of awards at the 2026 AGDAs, including Excellence in Visual Art, Excellence in Sound Design, and Game of the Year.",
+    "date": "Thu, 8 Oct 2026 02:36:46 +0000",
+    "link": "https://www.ign.com/articles/mixtape-wins-game-of-the-year-at-the-2026-australian-game-developer-awards",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": -0.07,
       "badge": "info"
     },
     "tags": [
@@ -37,14 +37,14 @@
   },
   {
     "id": 3,
-    "title": "The Razer Iskur V2 X Gaming Chair Dips Below $200 For the First Time During the Prime Day Sale",
+    "title": "The 2026 LG Evo B6 4K 120Hz OLED TV Drops to Under $1,000 for Prime Day, Plus Get a Free Soundbar",
     "source": "IGN",
-    "summary": "The best budget gaming chair of 2026.",
-    "date": "Wed, 7 Oct 2026 22:20:00 +0000",
-    "link": "https://www.ign.com/articles/razer-iskur-v2-x-gaming-chair-deal-amazon-october-prime-day-sale-2026",
+    "summary": "Why settle for just a TV when you can get the entire home theater.",
+    "date": "Thu, 8 Oct 2026 00:30:00 +0000",
+    "link": "https://www.ign.com/articles/lg-evo-b6-4k-oled-tv-deal-amazon-october-prime-day-sale",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.62,
+      "score": 0.2,
       "badge": "success"
     },
     "tags": [
@@ -55,15 +55,15 @@
   },
   {
     "id": 4,
-    "title": "Samuel L. Jackson Confirms Nick Fury Will Return in Avengers: Secret Wars",
+    "title": "Amazon Prime Big Deal Days 2026: Today Is the Last Day to Score the Best October Sales",
     "source": "IGN",
-    "summary": "Samuel L. Jackson has confirmed that we won’t be seeing Nick Fury in Avengers: Doomsday, but said that his character is set to return in Avengers: Secret Wars.",
-    "date": "Wed, 7 Oct 2026 22:02:54 +0000",
-    "link": "https://www.ign.com/articles/samuel-l-jackson-confirms-nick-fury-will-return-in-avengers-secret-wars",
+    "summary": "Prime Day: Part 2 is nearly over.",
+    "date": "Thu, 8 Oct 2026 00:15:00 +0000",
+    "link": "https://www.ign.com/articles/amazon-prime-big-deal-days-sale-2026",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.13,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.28,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -142,14 +142,14 @@
   },
   {
     "id": 9,
-    "title": "3 Stunning 25-Year-Old Pokémon Promo Cards Fetch Nearly $1.2 Million at Auction",
+    "title": "Netflix Is About to Lose The Most Inventive Sci-Fi Thriller of the Decade",
     "source": "Polygon",
-    "summary": "Paradise doesn’t come cheap.",
-    "date": "Wed, 07 Oct 2026 20:40:15 GMT",
-    "link": "https://www.polygon.com/pokemon-southern-islands-mew-togepi-marill-auction/",
+    "summary": "Written and directed by John Krasinski and starring Emily Blunt, A Quiet Place Part II is an excellent follow-up to the original",
+    "date": "Thu, 08 Oct 2026 06:00:16 GMT",
+    "link": "https://www.polygon.com/a-quiet-place-part-ii-leaving-netflix-october-2026/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.33,
+      "score": 0.47,
       "badge": "success"
     },
     "tags": [
@@ -160,14 +160,14 @@
   },
   {
     "id": 10,
-    "title": "KPop Demon Hunters Gets An Official New Format Release Next Month",
+    "title": "Ahead of Your Halloween Rewatch, Ranking All 7 Seasons of Buffy the Vampire Slayer",
     "source": "Polygon",
-    "summary": "Netflix is giving KPop Demon Hunters a new way to experience the movie — as a 700-page comic that recreates the story with a new look.",
-    "date": "Wed, 07 Oct 2026 20:20:34 GMT",
-    "link": "https://www.polygon.com/kpop-demon-hunters-official-screen-comic-boxed-set-netflix/",
+    "summary": "Once more, with feeling",
+    "date": "Thu, 08 Oct 2026 04:00:23 GMT",
+    "link": "https://www.polygon.com/buffy-seasons-ranked/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.13,
+      "score": 0.5,
       "badge": "success"
     },
     "tags": [
@@ -178,32 +178,32 @@
   },
   {
     "id": 11,
-    "title": "FF7 Revelation Sets Up a Rude Awakening for Cloud",
+    "title": "Beloved Action-RPG Muramasa: The Demon Blade Returns in 2027 With Stunning Remake",
     "source": "Polygon",
-    "summary": "The latest Final Fantasy 7 Revelation preview showed Cloud and his pals venturing into the Northern Crater for the first time, and there’s drama afoot",
-    "date": "Wed, 07 Oct 2026 20:09:08 GMT",
-    "link": "https://www.polygon.com/ff7-revelation-preview-impressions-cloud/",
+    "summary": "Vanillaware's Muramasa: The Demon Blade gets a huge upgrade with Muramasa: Revenant Blades in 2027 for PS5, Switch, and PC.",
+    "date": "Thu, 08 Oct 2026 04:00:23 GMT",
+    "link": "https://www.polygon.com/muramasa-revenant-blades-2027-remake-remaster-vanillaware-marvelous/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.11,
+      "score": 0.53,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "RPG",
+      "Remake"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "'Obsession' Officially Returning to Theaters As It's Never Been Seen Before",
+    "title": "Disney's 10-Part Detective Thriller Series Is So Freaking Good You'll Finish It in One Weekend",
     "source": "Polygon",
-    "summary": "Curry Barker's hit horror movie Obsession is returning to theaters in 4DX on Oct. 14 for a deluxe and immersive special rerelease.",
-    "date": "Wed, 07 Oct 2026 19:10:14 GMT",
-    "link": "https://www.polygon.com/obsession-rerelease-october-2026-4dx-theaters-halloween/",
+    "summary": "Season 2 of Fargo is the best-ever season of the FX drama/comedy mostly because of Kirstin Dunst",
+    "date": "Thu, 08 Oct 2026 02:00:26 GMT",
+    "link": "https://www.polygon.com/fargo-season-2-streaming-october-2026/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.48,
+      "score": 0.6,
       "badge": "success"
     },
     "tags": [
@@ -214,6 +214,42 @@
   },
   {
     "id": 13,
+    "title": "Muramasa: Revenant Blades has 108 swords, and its definitive update for PC wants to make sure you use them all",
+    "source": "PC Gamer",
+    "summary": "The swords may be cursed, but the action is better than ever.",
+    "date": "Thu, 08 Oct 2026 04:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/action/muramasa/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.32,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Now we know the prices of the new RTX Spark laptops and they're as expensive as I'm sure you feared",
+    "source": "PC Gamer",
+    "summary": "The launch is coming on October 16, is your bank account prepared?",
+    "date": "Thu, 08 Oct 2026 02:42:32 +0000",
+    "link": "https://www.pcgamer.com/hardware/gaming-laptops/now-we-know-the-prices-of-the-new-rtx-spark-laptops-and-theyre-as-expensive-as-im-sure-you-feared/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
     "title": "Here's the Dragon's Dogma 2: Dark Arisen release time for your region",
     "source": "PC Gamer",
     "summary": "Travel to the wild and wintery realm of Norgan.",
@@ -231,7 +267,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "Blizzard promises to make the blue elves in World of Warcraft: Forever look worse (positive)",
     "source": "PC Gamer",
     "summary": "Blizzard gave us the first images of how Skyborne will look in November.",
@@ -241,42 +277,6 @@
       "label": "Neutral / Informative",
       "score": 0.02,
       "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "With Grand Theft Auto 6 poised to take over the world, I reached out to Jack Thompson and it did not go well",
-    "source": "PC Gamer",
-    "summary": "GTA is mainstream now, but the fiery activist who raged against violent videogames in the early 2000s has not softened.",
-    "date": "Wed, 07 Oct 2026 22:41:23 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/with-grand-theft-auto-6-poised-to-take-over-the-world-i-reached-out-to-jack-thompson-and-it-did-not-go-well/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Blood Bowl 3 is being replaced by Warhammer Blood Bowl: What will happen to everyone's unspent currency?",
-    "source": "PC Gamer",
-    "summary": "Should you spend it now, or can you safely keep it in the bank?",
-    "date": "Wed, 07 Oct 2026 22:34:55 +0000",
-    "link": "https://www.pcgamer.com/games/strategy/blood-bowl-3-is-being-replaced-by-warhammer-blood-bowl-what-will-happen-to-everyones-unspent-currency/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
     },
     "tags": [
       "Gaming",
