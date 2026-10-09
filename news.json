@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Cupertino Season 1 Premiere Review",
+    "title": "After Going Hands-On With the New Marvel Comics App, I Still Don't Know Why Unlimited Had to Die",
     "source": "IGN",
-    "summary": "Cupertino Season 1 premiere review: The Good Wife creators Robert and Michelle King are back with a sly, smart deconstruction of Silicon Valley.",
-    "date": "Fri, 9 Oct 2026 03:00:00 +0000",
-    "link": "https://www.ign.com/articles/cupertino-season-1-premiere-review",
+    "summary": "Earlier this week, Marvel announced that it was discontinuing the Marvel Unlimited app, only to have it replaced by the new Marvel Comics app, powered by Webtoon. At New York Comic Con I had the chance to go hands-on with the app, and I am struggling to see why it needs to exist.",
+    "date": "Fri, 9 Oct 2026 09:36:23 +0000",
+    "link": "https://www.ign.com/articles/after-going-hands-on-with-the-new-marvel-comics-app-i-still-dont-know-why-unlimited-had-to-die",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.3,
+      "score": 0.11,
       "badge": "success"
     },
     "tags": [
@@ -19,47 +19,11 @@
   },
   {
     "id": 2,
-    "title": "HBO's War: Season 1, Episode 2 Review",
+    "title": "Pokémon TCG's Delta Reign Expansion Is Finally Up For Preorder at Amazon and Target",
     "source": "IGN",
-    "summary": "This week’s episode is another well-acted, well-written affair. HBO’s War tightens the screws just enough in its second episode to brace viewers for either side of this divorce to mess things up beyond repair for their respective clients.",
-    "date": "Fri, 9 Oct 2026 02:00:00 +0000",
-    "link": "https://www.ign.com/articles/war-season-1-episode-2-review",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "VisionQuest Showrunner Terry Matalas Didn't Have to Worry Too Much About the MCU's Bigger Picture — 'We Pretty Much Did Exactly What We Wanted' | NYCC 2026",
-    "source": "IGN",
-    "summary": "At New York Comic Con, VisionQuest showrunner Terry Matalas told IGN's Jeffrey Vega that MCU boss Kevin Feige gave Matalas a pass on doing whatever he wanted, as long as he included one particular thing.",
-    "date": "Fri, 9 Oct 2026 00:00:28 +0000",
-    "link": "https://www.ign.com/articles/visionquest-showrunner-terry-matalas-didnt-have-to-worry-too-much-about-the-mcus-bigger-picture-we-pretty-much-did-exactly-what-we-wanted-nycc-2026",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Phantom Blade Zero Might Be This Year’s Most Stylish Action Game | IGN Preview",
-    "source": "IGN",
-    "summary": "After half a day playing Phantom Blade Zero, it’s gone from mostly not on my radar to to the top of my wishlist this fall, and I truly cannot wait to dive back in later this month to see if it can deliver beyond those first handful of hours. At least for now, though, just about everything I’ve seen ...",
-    "date": "Fri, 9 Oct 2026 00:00:00 +0000",
-    "link": "https://www.ign.com/articles/phantom-blade-zero-might-be-this-years-most-stylish-action-game-ign-preview",
+    "summary": "Pokémon TCG Delta Reign preorders are now live at Amazon and Target, including Booster Bundles below market price, Elite Trainer Boxes, and 36-pack Display Boxes.",
+    "date": "Fri, 9 Oct 2026 09:07:18 +0000",
+    "link": "https://www.ign.com/articles/pokemon-tcg-delta-reign-amazon-preorders",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.07,
@@ -72,7 +36,60 @@
     "read_time": "1 min read"
   },
   {
+    "id": 3,
+    "title": "NieR Creator Yoko Taro Says He Would Retire From Making Video Games but Fear of Dementia Keeps Him Working",
+    "source": "IGN",
+    "summary": "As reported by Denfaminicogamer, Nier creator Yoko Taro was asked if he had any current projects or plans to make a new game. He replied, “nothing really,” and confessed that “I’m done with working. I don’t want to do it anymore.”",
+    "date": "Fri, 9 Oct 2026 08:26:47 +0000",
+    "link": "https://www.ign.com/articles/nier-creator-yoko-taro-says-he-would-retire-from-making-video-games-but-fear-of-dementia-keeps-him-working",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "Avatar: Seven Havens Episodes 1-3 Recap and Review",
+    "source": "IGN",
+    "summary": "Avatar: Seven Havens episodes 1-3 recap and review: Twins take on the challenge of a post-apocalyptic world.",
+    "date": "Fri, 9 Oct 2026 07:00:00 +0000",
+    "link": "https://www.ign.com/articles/avatar-seven-havens-episodes-1-3-recap-and-review",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
     "id": 5,
+    "title": "Live-action Cyberpunk 2077 film reportedly in development, with CD Projekt Red collaborating with Paramount to make it",
+    "source": "Eurogamer",
+    "summary": "UPDATE 12PM BST: CD Projekt Red seems to have confirmed the partnership and film, with joint-CEO Micha&lstrok Nowakowski commenting on X that: \"We're excited about Paramount as a future partner who shares our creative ambitions for the Cyberpunk franchise. We look forward to sharing more details at ...",
+    "date": "Fri, 09 Oct 2026 10:40:54 +0000",
+    "link": "https://www.eurogamer.net/cyberpunk-2077-live-action-film-paramount-cd-projekt-red",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "Cyberpunk"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
     "title": "\"It's clear that we both adore one another's games a lot\" - Dave the Diver and Subnautica 2 team up for a crossover made in heaven",
     "source": "Eurogamer",
     "summary": "At today's Triple-i Showcase, Dave the Diver studio Mintrocket announced a surprisingly obvious, and perfectly fitting, collaboration. The game's final DLC, set for release in early 2027, brings the worlds of Subnautica 2 and Dave the Diver together. Read more...",
@@ -90,7 +107,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Bobby Kotick returns: former Activision boss becomes board member of Skydance, the new company formed by Paramount and Warner Bros",
     "source": "Eurogamer",
     "summary": "Former Activision boss Bobby Kotick has returned to a position of high influence as a board member of Skydance, the new entertainment juggernaut formed by the merging of Warner Bros. into Paramount. Read more...",
@@ -108,7 +125,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Riot Games announces a final hurrah for its ill-fated fighting game 2XKO, with a surprise  character joining the roster this month",
     "source": "Eurogamer",
     "summary": "Riot Games has released a final gameplay trailer for 2XKO, its short-lived fighting game set to be sunsetted later this year. The game is going out with a bang, with a shock reveal of a secret character coming alongside the games last major update. Read more...",
@@ -126,52 +143,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts",
-    "source": "Eurogamer",
-    "summary": "GTA 6 will let you listen to radio stations while not in a car, by wearing headphones and earbuds connected to smartphones. GTA 6 also introduces on-demand podcasts, so you can binge true crime while also doing true crime - something like that. Read more...",
-    "date": "Thu, 08 Oct 2026 15:07:42 +0000",
-    "link": "https://www.eurogamer.net/gta-6-headpones-earbuds-radio-podcasts",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.39,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 9,
-    "title": "CBS's Sleeper Hit Sitcom of the Decade Is Officially Free on Streaming",
+    "title": "6 Exciting Upcoming Steam Games to Wishlist Now",
     "source": "Polygon",
-    "summary": "This US adaptation of a British classic is well worth your time. Stream 'Ghosts' now for free on Pluto TV.",
-    "date": "Fri, 09 Oct 2026 04:43:15 GMT",
-    "link": "https://www.polygon.com/ghosts-cbs-free-streaming-pluto-tv-october-2026/",
+    "summary": "This week, check out this eclectic collection of PC games coming to Steam.",
+    "date": "Fri, 09 Oct 2026 12:00:15 GMT",
+    "link": "https://www.polygon.com/wishlister-october-9-2026/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.25,
+      "score": 0.3,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Sydney Sweeney's Extremely R-Rated 131-Minute Thriller Officially Finds a New Streaming Home",
+    "title": "Critical Role Just Gave a Controversial Answer to D&D’s Most Important Question",
     "source": "Polygon",
-    "summary": "An enjoyably tense thriller that can be savored over the weekend.",
-    "date": "Fri, 09 Oct 2026 04:00:22 GMT",
-    "link": "https://www.polygon.com/sydney-sweeney-erotic-thriller-hbo-max/",
+    "summary": "Critical Role's DM had to deal with the death of a character, and his choice sparked an interesting debate about how D&D handles character death.",
+    "date": "Fri, 09 Oct 2026 11:00:16 GMT",
+    "link": "https://www.polygon.com/critical-role-campaign-4-episode-37-wicander-death-dnd-dungeons-dragons/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.11,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.33,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -181,100 +179,29 @@
   },
   {
     "id": 11,
-    "title": "After 4 Hours, Phantom Blade Zero Just Became My Most-Anticipated Action Game",
+    "title": "The Witcher 3 Remastered's New Patch Adds Highly Requested Graphics Fix",
     "source": "Polygon",
-    "summary": "Phantom Blade Zero, with its wuxia-inspired combat and \"kungfupunk\" world, is shaping up to be one of the year's best action games.",
-    "date": "Fri, 09 Oct 2026 00:00:16 GMT",
-    "link": "https://www.polygon.com/phantom-blade-zero-hands-on-gameplay-preview/",
+    "summary": "The Witcher 3: Wild Hunt Remastered gets a big patch a few days into release, making some much-needed changes to visuals.",
+    "date": "Fri, 09 Oct 2026 10:13:34 GMT",
+    "link": "https://www.polygon.com/the-witcher-3-wild-hunt-remastered-update-patch-notes-bloom-remove/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.04,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Graphics",
+      "Patch"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "9 Legend of Zelda Side Quests Scarier than Any Horror Game",
+    "title": "The Boys Creator's Next Project Promises to Be Pure Torture",
     "source": "Polygon",
-    "summary": "Cursed spider families, a ship that sails only at night, and a mummified father in a closet: nine Zelda side quests that belong in a horror story",
-    "date": "Thu, 08 Oct 2026 23:00:16 GMT",
-    "link": "https://www.polygon.com/legend-zelda-scariest-side-quests/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.2,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Why a 21-year-old coder finally ported the real P.T. to PC: 'That something so influential could eventually become unplayable never sat right with me'",
-    "source": "PC Gamer",
-    "summary": "Not emulation or a remake, a native PC port of Kojima's horror classic has arrived.",
-    "date": "Thu, 08 Oct 2026 21:32:33 +0000",
-    "link": "https://www.pcgamer.com/games/horror/why-a-21-year-old-coder-finally-ported-the-real-p-t-to-pc-that-something-so-influential-could-eventually-become-unplayable-never-sat-right-with-me/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Blizzard refuses to let World of Warcraft: Forever's dungeons become the fastest way to grind XP: 'We need to hold firm on these balance adjustments'",
-    "source": "PC Gamer",
-    "summary": "Dungeons will receive a small XP buff soon, but are being kept in balance with quests.",
-    "date": "Thu, 08 Oct 2026 21:09:23 +0000",
-    "link": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-refuses-to-let-world-of-warcraft-forevers-dungeons-become-the-fastest-way-to-grind-xp-we-need-to-hold-firm-on-these-balance-adjustments/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.23,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "How to start the Dragon's Dogma 2: Dark Arisen expansion",
-    "source": "PC Gamer",
-    "summary": "Plus the recommended level for taking a trip to snowy Norgan.",
-    "date": "Thu, 08 Oct 2026 21:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-how-to-start-dark-arisen/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "US government accuses Microsoft of replacing American workers with 'foreign indentured servants,' then gives Satya Nadella a medal",
-    "source": "PC Gamer",
-    "summary": "The suspension of Microsoft's access to green card applications represents just another wildly incoherent day in the Trump administration.",
-    "date": "Thu, 08 Oct 2026 20:55:01 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/us-government-accuses-microsoft-of-replacing-american-workers-with-foreign-indentured-servants-then-gives-satya-nadella-a-medal/",
+    "summary": "Garth Ennis returns with a brand-new movie project, Crossed, based on his comic books series that shows humanity's worst impulses unleashed.",
+    "date": "Fri, 09 Oct 2026 10:00:59 GMT",
+    "link": "https://www.polygon.com/crossed-new-garth-ennis-movie-the-boys/",
     "sentiment": {
       "label": "Critical / Mixed",
       "score": -0.13,
@@ -287,7 +214,97 @@
     "read_time": "1 min read"
   },
   {
+    "id": 13,
+    "title": "New Razer Basilisk V4 executes perfect 180 degree turns at the click of a button, all while looking like a Power Ranger's foot",
+    "source": "PC Gamer",
+    "summary": "It also feels rather fancy, but I can hear the protests about its quick spinning feature from here...",
+    "date": "Fri, 09 Oct 2026 11:34:22 +0000",
+    "link": "https://www.pcgamer.com/hardware/gaming-mice/new-razer-basilisk-v4-executes-perfect-180-degree-turns-at-the-click-of-a-button-all-while-looking-like-a-power-rangers-foot/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.49,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "How to complete To the Skies in Arc Raiders",
+    "source": "PC Gamer",
+    "summary": "Help Apollo repair the Gondola Prototype.",
+    "date": "Fri, 09 Oct 2026 11:02:19 +0000",
+    "link": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-to-the-skies-walkthrough/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "WoW: Forever's list of changes snowballed as Blizzard got more excited, says dev: 'Our original pitch internally was: We'll do 4 new dungeons'",
+    "source": "PC Gamer",
+    "summary": "\"There is a version of WoW Forever that really is that version of Vanilla with just a couple slight class changes.\"",
+    "date": "Fri, 09 Oct 2026 10:45:06 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-list-of-changes-snowballed-as-blizzard-got-more-excited-says-dev-our-original-pitch-internally-was-well-do-4-new-dungeons/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.18,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Intel to release new CPUs on old socket in early 2027 says Gigabyte - memory crisis making DDR4 desirable again",
+    "source": "PC Gamer",
+    "summary": "Likely to offer new options with DDR4 support.",
+    "date": "Fri, 09 Oct 2026 10:19:31 +0000",
+    "link": "https://www.pcgamer.com/hardware/processors/intel-to-release-new-cpus-on-old-socket-in-early-2027-says-gigabyte-memory-crisis-making-ddr4-desirable-again/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
     "id": 17,
+    "title": "Ghost Of Tsushima Anime Taps Star Wars: Visions Talent For Its 2028 Release",
+    "source": "GameSpot",
+    "summary": "The upcoming anime adaptation of Sony's Ghost of Tsushima just took another big step forward, with Crunchyroll revealing more details on the cast and crew attached to the project, as well as a 2028 release window. \nWhile details are still light on what the story will be, Hayate Inc. did confirm that...",
+    "date": "Fri, 09 Oct 2026 10:52:17 +0000",
+    "link": "https://www.gamespot.com/articles/ghost-of-tsushima-anime-taps-star-wars-visions-talent-for-its-2028-release/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
     "title": "Ben Affleck Has Some Strong Opinions About Fortnite Skins And How Hard The Game Is For Him",
     "source": "GameSpot",
     "summary": "Have you ever wondered what two-time Oscar-winner Ben Affleck thinks about Fortnite skins, and the game generally? You can now rest easy, as the man himself has weighed in with some strong takes.\nAppearing on the New Heights podcast with brothers Jason and Travis Kelce, Affleck said he's a big gamer...",
@@ -305,7 +322,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "Ubisoft Shutting Down Rainbow Six Mobile After Less Than A Year",
     "source": "GameSpot",
     "summary": "Ubisoft has announced that Rainbow Six Mobile is shutting down, and it didn't have a very long life. The game soft-launched in 2023, but properly rolled out for everyone back in February 2026. It will shut down on January 16, 2027, so it will have been online for less than a year in its full state f...",
@@ -323,7 +340,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 19,
+    "id": 20,
     "title": "Cyberpunk 2077 Is Getting A Movie Adaptation At Call Of Duty Film Studio, Transformers Producer On Board",
     "source": "GameSpot",
     "summary": "Movie studio Paramount has announced that it's making a Cyberpunk 2077 movie, becoming just the latest upcoming game adaptation. The studio is also behind the Call of Duty movie that's set for release in 2028.\nDeadline reported that Lorenzo di Bonaventura, known for his work on the super-popular Tra...",
@@ -336,24 +353,6 @@
     },
     "tags": [
       "Cyberpunk"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "GTA 6 Merch Revealed, Including T-Shirt With Alligator Wearing Sunglasses And Drinking A Cocktail",
-    "source": "GameSpot",
-    "summary": "Ahead of GTA 6's release in November, Rockstar Games has announced an official merch collection for the game, and it includes some snazzy stuff like a t-shirt featuring an alligator wearing sunglasses and drinking a cocktail.\nThe alligator's name is Macca the Gator, and he's the star of a fictional ...",
-    "date": "Thu, 08 Oct 2026 17:37:17 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-merch-revealed-including-t-shirt-with-alligator-wearing-sunglasses-and-drinking-a-cocktail/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.2,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
     ],
     "read_time": "1 min read"
   }
