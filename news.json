@@ -1,72 +1,73 @@
 [
   {
     "id": 1,
-    "title": "The Skytech Ryzen Edition RTX 5070 Prebuilt Gaming PC Drops to $1,499.99 at Amazon",
+    "title": "Cupertino Season 1 Premiere Review",
     "source": "IGN",
-    "summary": "An excellent affordable rig for 1080p and 1440p gaming.",
-    "date": "Thu, 8 Oct 2026 18:40:00 +0000",
-    "link": "https://www.ign.com/articles/skytech-ryzen-edition-rtx-5070-prebuilt-gaming-pc-deal-october-2026",
+    "summary": "Cupertino Season 1 premiere review: The Good Wife creators Robert and Michelle King are back with a sly, smart deconstruction of Silicon Valley.",
+    "date": "Fri, 9 Oct 2026 03:00:00 +0000",
+    "link": "https://www.ign.com/articles/cupertino-season-1-premiere-review",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 1.0,
+      "score": 0.3,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Final Fantasy VII Revelation Announces an NPC-ified Version of Shiva Voiced by Marisha Ray | NYCC 2026",
+    "title": "HBO's War: Season 1, Episode 2 Review",
     "source": "IGN",
-    "summary": "The Critical Role performer is also the real-life wife of the voice of Vincent Valentine.",
-    "date": "Thu, 8 Oct 2026 18:19:41 +0000",
-    "link": "https://www.ign.com/articles/final-fantasy-vii-revelation-announces-an-npc-ified-version-of-shiva-voiced-by-marisha-ray-nycc-2026",
+    "summary": "This week’s episode is another well-acted, well-written affair. HBO’s War tightens the screws just enough in its second episode to brace viewers for either side of this divorce to mess things up beyond repair for their respective clients.",
+    "date": "Fri, 9 Oct 2026 02:00:00 +0000",
+    "link": "https://www.ign.com/articles/war-season-1-episode-2-review",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": -0.04,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "A Live-Action Cyberpunk 2077 Movie Is in the Works at Paramount",
+    "title": "VisionQuest Showrunner Terry Matalas Didn't Have to Worry Too Much About the MCU's Bigger Picture — 'We Pretty Much Did Exactly What We Wanted' | NYCC 2026",
     "source": "IGN",
-    "summary": "Paramount Pictures is developing a live-action Cyberpunk 2077 film.",
-    "date": "Thu, 8 Oct 2026 18:11:35 +0000",
-    "link": "https://www.ign.com/articles/a-live-action-cyberpunk-2077-movie-is-in-the-works-at-paramount",
+    "summary": "At New York Comic Con, VisionQuest showrunner Terry Matalas told IGN's Jeffrey Vega that MCU boss Kevin Feige gave Matalas a pass on doing whatever he wanted, as long as he included one particular thing.",
+    "date": "Fri, 9 Oct 2026 00:00:28 +0000",
+    "link": "https://www.ign.com/articles/visionquest-showrunner-terry-matalas-didnt-have-to-worry-too-much-about-the-mcus-bigger-picture-we-pretty-much-did-exactly-what-we-wanted-nycc-2026",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
     },
     "tags": [
-      "Cyberpunk"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Arrow Co-Creator Shares Details and Concept Art for Canceled Green Lantern Show That Shares Striking Similarities to HBO's Lanterns",
+    "title": "Phantom Blade Zero Might Be This Year’s Most Stylish Action Game | IGN Preview",
     "source": "IGN",
-    "summary": "Concept art for a canceled Green Lanterns show has been shared online by a co-creator of the CW’s Arrow series, showing what the Emerald Knights’ adventures almost looked like before HBO pivoted to Lanterns, instead.",
-    "date": "Thu, 8 Oct 2026 18:10:10 +0000",
-    "link": "https://www.ign.com/articles/arrow-co-creator-shares-details-and-concept-art-for-canceled-green-lantern-show-that-shares-striking-similarities-to-hbos-lanterns",
+    "summary": "After half a day playing Phantom Blade Zero, it’s gone from mostly not on my radar to to the top of my wishlist this fall, and I truly cannot wait to dive back in later this month to see if it can deliver beyond those first handful of hours. At least for now, though, just about everything I’ve seen ...",
+    "date": "Fri, 9 Oct 2026 00:00:00 +0000",
+    "link": "https://www.ign.com/articles/phantom-blade-zero-might-be-this-years-most-stylish-action-game-ign-preview",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.03,
+      "score": 0.07,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -83,8 +84,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -101,8 +102,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -119,8 +120,8 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -137,13 +138,49 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
+    "title": "CBS's Sleeper Hit Sitcom of the Decade Is Officially Free on Streaming",
+    "source": "Polygon",
+    "summary": "This US adaptation of a British classic is well worth your time. Stream 'Ghosts' now for free on Pluto TV.",
+    "date": "Fri, 09 Oct 2026 04:43:15 GMT",
+    "link": "https://www.polygon.com/ghosts-cbs-free-streaming-pluto-tv-october-2026/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Sydney Sweeney's Extremely R-Rated 131-Minute Thriller Officially Finds a New Streaming Home",
+    "source": "Polygon",
+    "summary": "An enjoyably tense thriller that can be savored over the weekend.",
+    "date": "Fri, 09 Oct 2026 04:00:22 GMT",
+    "link": "https://www.polygon.com/sydney-sweeney-erotic-thriller-hbo-max/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.11,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
     "title": "After 4 Hours, Phantom Blade Zero Just Became My Most-Anticipated Action Game",
     "source": "Polygon",
     "summary": "Phantom Blade Zero, with its wuxia-inspired combat and \"kungfupunk\" world, is shaping up to be one of the year's best action games.",
@@ -155,13 +192,13 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 10,
+    "id": 12,
     "title": "9 Legend of Zelda Side Quests Scarier than Any Horror Game",
     "source": "Polygon",
     "summary": "Cursed spider families, a ship that sails only at night, and a mummified father in a closet: nine Zelda side quests that belong in a horror story",
@@ -173,43 +210,8 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Marvel Officially Announces New Disney Plus Series 'Zodiac'",
-    "source": "Polygon",
-    "summary": "Marvel Television announced Zodiac for Disney Plus at New York Comic Con, a new spy thriller coming in 2028.",
-    "date": "Thu, 08 Oct 2026 20:58:47 GMT",
-    "link": "https://www.polygon.com/marvel-zodiac-tv-series-disney-plus/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Cyberpunk 2077 Live-Action Movie Officially Announced",
-    "source": "Polygon",
-    "summary": "CD Projekt Red and Paramount Pictures are making a Cyberpunk 2077 live-action movie with Transformers producer on board.",
-    "date": "Thu, 08 Oct 2026 18:59:26 GMT",
-    "link": "https://www.polygon.com/cyberpunk-2077-movie-paramount-pictures/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Cyberpunk"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -243,8 +245,8 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -261,8 +263,8 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -279,8 +281,8 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -297,8 +299,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -315,8 +317,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -350,8 +352,8 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
