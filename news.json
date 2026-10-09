@@ -1,65 +1,11 @@
 [
   {
     "id": 1,
-    "title": "After Going Hands-On With the New Marvel Comics App, I Still Don't Know Why Unlimited Had to Die",
+    "title": "Peacemaker Taking a Backseat as James Gunn Builds Out the DCU, John Cena Says",
     "source": "IGN",
-    "summary": "Earlier this week, Marvel announced that it was discontinuing the Marvel Unlimited app, only to have it replaced by the new Marvel Comics app, powered by Webtoon. At New York Comic Con I had the chance to go hands-on with the app, and I am struggling to see why it needs to exist.",
-    "date": "Fri, 9 Oct 2026 09:36:23 +0000",
-    "link": "https://www.ign.com/articles/after-going-hands-on-with-the-new-marvel-comics-app-i-still-dont-know-why-unlimited-had-to-die",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "Pokémon TCG's Delta Reign Expansion Is Finally Up For Preorder at Amazon and Target",
-    "source": "IGN",
-    "summary": "Pokémon TCG Delta Reign preorders are now live at Amazon and Target, including Booster Bundles below market price, Elite Trainer Boxes, and 36-pack Display Boxes.",
-    "date": "Fri, 9 Oct 2026 09:07:18 +0000",
-    "link": "https://www.ign.com/articles/pokemon-tcg-delta-reign-amazon-preorders",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "NieR Creator Yoko Taro Says He Would Retire From Making Video Games but Fear of Dementia Keeps Him Working",
-    "source": "IGN",
-    "summary": "As reported by Denfaminicogamer, Nier creator Yoko Taro was asked if he had any current projects or plans to make a new game. He replied, “nothing really,” and confessed that “I’m done with working. I don’t want to do it anymore.”",
-    "date": "Fri, 9 Oct 2026 08:26:47 +0000",
-    "link": "https://www.ign.com/articles/nier-creator-yoko-taro-says-he-would-retire-from-making-video-games-but-fear-of-dementia-keeps-him-working",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Avatar: Seven Havens Episodes 1-3 Recap and Review",
-    "source": "IGN",
-    "summary": "Avatar: Seven Havens episodes 1-3 recap and review: Twins take on the challenge of a post-apocalyptic world.",
-    "date": "Fri, 9 Oct 2026 07:00:00 +0000",
-    "link": "https://www.ign.com/articles/avatar-seven-havens-episodes-1-3-recap-and-review",
+    "summary": "John Cena said Peacemaker is taking a back seat as James Gunn focuses on building out the DCU with characters like Superman, Batman, and Wonder Woman.",
+    "date": "Fri, 9 Oct 2026 15:47:44 +0000",
+    "link": "https://www.ign.com/articles/peacemaker-taking-a-backseat-as-james-gunn-builds-out-the-dcu-john-cena-says",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -72,33 +18,85 @@
     "read_time": "1 min read"
   },
   {
-    "id": 5,
-    "title": "Live-action Cyberpunk 2077 film reportedly in development, with CD Projekt Red collaborating with Paramount to make it",
-    "source": "Eurogamer",
-    "summary": "UPDATE 12PM BST: CD Projekt Red seems to have confirmed the partnership and film, with joint-CEO Micha&lstrok Nowakowski commenting on X that: \"We're excited about Paramount as a future partner who shares our creative ambitions for the Cyberpunk franchise. We look forward to sharing more details at ...",
-    "date": "Fri, 09 Oct 2026 10:40:54 +0000",
-    "link": "https://www.eurogamer.net/cyberpunk-2077-live-action-film-paramount-cd-projekt-red",
+    "id": 2,
+    "title": "'It's Every Motherf***er for Himself!' — The San Andreas Mission You Need to Play Before GTA 6",
+    "source": "IGN",
+    "summary": "GTA San Andreas' Reuniting the Families mission has car chases, shootouts, and cops recreating Terminator 2. It's the level where Rockstar truly found its cinematic flair.",
+    "date": "Fri, 9 Oct 2026 15:30:00 +0000",
+    "link": "https://www.ign.com/articles/the-san-andreas-mission-you-need-to-play-before-gta-6",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Cyberpunk"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "GTA 6 on Switch 2? 'That's a Conversation for Take-Two and Rockstar,' Nintendo Says",
+    "source": "IGN",
+    "summary": "Will GTA 6 come out on Switch 2? The boss of Nintendo of America has responded.",
+    "date": "Fri, 9 Oct 2026 15:04:06 +0000",
+    "link": "https://www.ign.com/articles/gta-6-switch-2-nintendo-president",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "AI Driving Game Demo Forces Developer to Take Out Bank Loan to Keep It Running",
+    "source": "IGN",
+    "summary": "The developer behind Teach My Little Sister How to Drive, a driving instruction sim where you instruct a generative-AI-powered, dynamic NPC, has been spending $1,000 dollars a day to keep the demo working.",
+    "date": "Fri, 9 Oct 2026 13:52:05 +0000",
+    "link": "https://www.ign.com/articles/ai-driving-game-demo-bank-loan",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.25,
+      "badge": "danger"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch",
+    "source": "Eurogamer",
+    "summary": "Gears of War: E-Day's sales are reportedly lighter than you might expect from one of Xbox's flagship names, but pure sales numbers don't paint a complete picture of the bloody shooter's performance. A sizable chunk of revenue actually came from Game Pass subscribers paying for the game's Premium Edi...",
+    "date": "Fri, 09 Oct 2026 18:03:42 +0000",
+    "link": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.24,
+      "badge": "danger"
+    },
+    "tags": [
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 6,
-    "title": "\"It's clear that we both adore one another's games a lot\" - Dave the Diver and Subnautica 2 team up for a crossover made in heaven",
+    "title": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trial heats up",
     "source": "Eurogamer",
-    "summary": "At today's Triple-i Showcase, Dave the Diver studio Mintrocket announced a surprisingly obvious, and perfectly fitting, collaboration. The game's final DLC, set for release in early 2027, brings the worlds of Subnautica 2 and Dave the Diver together. Read more...",
-    "date": "Thu, 08 Oct 2026 17:00:00 +0000",
-    "link": "https://www.eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover",
+    "summary": "One of the witnesses in the ongoing Rockstar Games vs Garland & Others case has said he had \"little interest\" in evidence of unionisation efforts he was sent by an anonymous employee, prior to the developer laying off a substantial number of union Discord members. Read more...",
+    "date": "Fri, 09 Oct 2026 16:41:02 +0000",
+    "link": "https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -108,11 +106,191 @@
   },
   {
     "id": 7,
-    "title": "Bobby Kotick returns: former Activision boss becomes board member of Skydance, the new company formed by Paramount and Warner Bros",
+    "title": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced",
     "source": "Eurogamer",
-    "summary": "Former Activision boss Bobby Kotick has returned to a position of high influence as a board member of Skydance, the new entertainment juggernaut formed by the merging of Warner Bros. into Paramount. Read more...",
-    "date": "Thu, 08 Oct 2026 15:47:01 +0000",
-    "link": "https://www.eurogamer.net/bobby-kotick-skydance-board-of-directors-1",
+    "summary": "The reports were correct: Forza Horizon 6 has been delayed to 2027 on PS5. The PlayStation version had been expected this year - the PC and Xbox versions launched in May - but it will now launch in January. Read more...",
+    "date": "Fri, 09 Oct 2026 14:42:23 +0000",
+    "link": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "PlayStation",
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title",
+    "source": "Eurogamer",
+    "summary": "British actor Charlie Cox, best known for being Daredevil in Marvel's Netflix series - but known closer to home as the voice of Gustav in Clair Obscur: Expedition 33 - has said he's just finished recording for a Sega game which hasn't been announced yet. Read more...",
+    "date": "Fri, 09 Oct 2026 13:27:34 +0000",
+    "link": "https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.32,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "'GTA 6' Fandom Is Officially Shook After The Nude Jason Leak",
+    "source": "Polygon",
+    "summary": "A massive GTA 6 leak highlighting nudity sparks conspiracy theories about nude gameplay, cheats, and first-person mode",
+    "date": "Fri, 09 Oct 2026 17:58:34 GMT",
+    "link": "https://www.polygon.com/gta-6-cyberleek-nude-jason-duvall-internet-archive-video-tank-cheat/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "DC Officially Unveils a New Justice League",
+    "source": "Polygon",
+    "summary": "At NYCC, DC Comics announced Absolute Justice, a miniseries uniting Absolute Batman, Superman, Wonder Woman, and more Absolute heroes.",
+    "date": "Fri, 09 Oct 2026 17:58:03 GMT",
+    "link": "https://www.polygon.com/dc-comics-absolute-justice-league-batman-superman-wonder-woman/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "High Console Prices Push Playstation and Xbox Sales to New Lows",
+    "source": "Polygon",
+    "summary": "Circana data found that PlayStation and Xbox console sales are hitting new lows in 2026.",
+    "date": "Fri, 09 Oct 2026 17:26:20 GMT",
+    "link": "https://www.polygon.com/game-console-sales-down-ai-component-crisis-ram/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
+    },
+    "tags": [
+      "PlayStation",
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Street Fighter Movie Officially Reveals Its Big Animated Twist",
+    "source": "Polygon",
+    "summary": "In a throwback to '90s anime, the new Street Fighter movie is part live-action, part animated. It's director explains why.",
+    "date": "Fri, 09 Oct 2026 17:02:27 GMT",
+    "link": "https://www.polygon.com/street-fighter-movie-animated-flashbacks-anime-inspiration/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "I might finally have gone too far with a GTA 5 mod that imports most of Doom 2",
+    "source": "PC Gamer",
+    "summary": "Insert sick riff here.",
+    "date": "Fri, 09 Oct 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-might-finally-have-gone-too-far-with-a-gta-5-mod-that-imports-most-of-doom-2/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Wardogs will bribe players with cash and XP to pick Blue team in Season 2",
+    "source": "PC Gamer",
+    "summary": "\"We're looking at how we can help the win rate of a certain team.\"",
+    "date": "Fri, 09 Oct 2026 16:29:00 +0000",
+    "link": "https://www.pcgamer.com/games/fps/wardogs-will-bribe-players-with-cash-and-xp-to-pick-blue-team-in-season-2/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.34,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "'I was nice to you three times in a row, so can I have one sex please?': Why Nivalis Nights intentionally avoided transactional romances",
+    "source": "PC Gamer",
+    "summary": "There's no HUD for love.",
+    "date": "Fri, 09 Oct 2026 15:46:07 +0000",
+    "link": "https://www.pcgamer.com/games/life-sim/i-was-nice-to-you-three-times-in-a-row-so-can-i-have-one-sex-please-why-nivalis-nights-intentionally-avoided-transactional-romances/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.55,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Worldwide PC shipments have plummeted by over 20%, to the surprise of absolutely no one",
+    "source": "PC Gamer",
+    "summary": "Could it be something to do with.... the memory crisis?",
+    "date": "Fri, 09 Oct 2026 15:32:22 +0000",
+    "link": "https://www.pcgamer.com/hardware/worldwide-pc-shipments-have-plummeted-by-over-20-percent-to-the-surprise-of-absolutely-no-one/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "Battlefield 6 Is Adding Something Fans Have Wanted Since Day 1",
+    "source": "GameSpot",
+    "summary": "EA and Battlefield Studios have unveiled more details on Battlefield 6's upcoming Season 5, and it includes a new feature that fans have wanted since day one: a proper server browser.\nBattlefield did indeed launch with a server browser, but--considering how it only supported Portal mode--it wasn't t...",
+    "date": "Fri, 09 Oct 2026 16:21:38 +0000",
+    "link": "https://www.gamespot.com/articles/battlefield-6-is-adding-something-fans-have-wanted-since-day-1/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.16,
@@ -125,83 +303,12 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "Riot Games announces a final hurrah for its ill-fated fighting game 2XKO, with a surprise  character joining the roster this month",
-    "source": "Eurogamer",
-    "summary": "Riot Games has released a final gameplay trailer for 2XKO, its short-lived fighting game set to be sunsetted later this year. The game is going out with a bang, with a shock reveal of a secret character coming alongside the games last major update. Read more...",
-    "date": "Thu, 08 Oct 2026 15:25:05 +0000",
-    "link": "https://www.eurogamer.net/2xko-sett-announcement-final-update",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.1,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "6 Exciting Upcoming Steam Games to Wishlist Now",
-    "source": "Polygon",
-    "summary": "This week, check out this eclectic collection of PC games coming to Steam.",
-    "date": "Fri, 09 Oct 2026 12:00:15 GMT",
-    "link": "https://www.polygon.com/wishlister-october-9-2026/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Critical Role Just Gave a Controversial Answer to D&D’s Most Important Question",
-    "source": "Polygon",
-    "summary": "Critical Role's DM had to deal with the death of a character, and his choice sparked an interesting debate about how D&D handles character death.",
-    "date": "Fri, 09 Oct 2026 11:00:16 GMT",
-    "link": "https://www.polygon.com/critical-role-campaign-4-episode-37-wicander-death-dnd-dungeons-dragons/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.33,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "The Witcher 3 Remastered's New Patch Adds Highly Requested Graphics Fix",
-    "source": "Polygon",
-    "summary": "The Witcher 3: Wild Hunt Remastered gets a big patch a few days into release, making some much-needed changes to visuals.",
-    "date": "Fri, 09 Oct 2026 10:13:34 GMT",
-    "link": "https://www.polygon.com/the-witcher-3-wild-hunt-remastered-update-patch-notes-bloom-remove/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "Graphics",
-      "Patch"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "The Boys Creator's Next Project Promises to Be Pure Torture",
-    "source": "Polygon",
-    "summary": "Garth Ennis returns with a brand-new movie project, Crossed, based on his comic books series that shows humanity's worst impulses unleashed.",
-    "date": "Fri, 09 Oct 2026 10:00:59 GMT",
-    "link": "https://www.polygon.com/crossed-new-garth-ennis-movie-the-boys/",
+    "id": 18,
+    "title": "Street Fighter Was On Death’s Door, And Its Players Weren’t Getting Any Younger",
+    "source": "GameSpot",
+    "summary": "Street Fighter 5 launched in 2016 in rough shape, and if things hadn't changed, the classic fighting game franchise might have been dead and buried by 2026. That's according to Street Fighter 6 producer Shuhei Matsumoto and game director Takayuki Nakayama, who recently spoke about how Capcom's signa...",
+    "date": "Fri, 09 Oct 2026 15:42:21 +0000",
+    "link": "https://www.gamespot.com/articles/street-fighter-was-on-deaths-door-and-its-players-werent-getting-any-younger/",
     "sentiment": {
       "label": "Critical / Mixed",
       "score": -0.13,
@@ -214,145 +321,37 @@
     "read_time": "1 min read"
   },
   {
-    "id": 13,
-    "title": "New Razer Basilisk V4 executes perfect 180 degree turns at the click of a button, all while looking like a Power Ranger's foot",
-    "source": "PC Gamer",
-    "summary": "It also feels rather fancy, but I can hear the protests about its quick spinning feature from here...",
-    "date": "Fri, 09 Oct 2026 11:34:22 +0000",
-    "link": "https://www.pcgamer.com/hardware/gaming-mice/new-razer-basilisk-v4-executes-perfect-180-degree-turns-at-the-click-of-a-button-all-while-looking-like-a-power-rangers-foot/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.49,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "How to complete To the Skies in Arc Raiders",
-    "source": "PC Gamer",
-    "summary": "Help Apollo repair the Gondola Prototype.",
-    "date": "Fri, 09 Oct 2026 11:02:19 +0000",
-    "link": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-to-the-skies-walkthrough/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "WoW: Forever's list of changes snowballed as Blizzard got more excited, says dev: 'Our original pitch internally was: We'll do 4 new dungeons'",
-    "source": "PC Gamer",
-    "summary": "\"There is a version of WoW Forever that really is that version of Vanilla with just a couple slight class changes.\"",
-    "date": "Fri, 09 Oct 2026 10:45:06 +0000",
-    "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-list-of-changes-snowballed-as-blizzard-got-more-excited-says-dev-our-original-pitch-internally-was-well-do-4-new-dungeons/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.18,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Intel to release new CPUs on old socket in early 2027 says Gigabyte - memory crisis making DDR4 desirable again",
-    "source": "PC Gamer",
-    "summary": "Likely to offer new options with DDR4 support.",
-    "date": "Fri, 09 Oct 2026 10:19:31 +0000",
-    "link": "https://www.pcgamer.com/hardware/processors/intel-to-release-new-cpus-on-old-socket-in-early-2027-says-gigabyte-memory-crisis-making-ddr4-desirable-again/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "Ghost Of Tsushima Anime Taps Star Wars: Visions Talent For Its 2028 Release",
-    "source": "GameSpot",
-    "summary": "The upcoming anime adaptation of Sony's Ghost of Tsushima just took another big step forward, with Crunchyroll revealing more details on the cast and crew attached to the project, as well as a 2028 release window. \nWhile details are still light on what the story will be, Hayate Inc. did confirm that...",
-    "date": "Fri, 09 Oct 2026 10:52:17 +0000",
-    "link": "https://www.gamespot.com/articles/ghost-of-tsushima-anime-taps-star-wars-visions-talent-for-its-2028-release/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "Ben Affleck Has Some Strong Opinions About Fortnite Skins And How Hard The Game Is For Him",
-    "source": "GameSpot",
-    "summary": "Have you ever wondered what two-time Oscar-winner Ben Affleck thinks about Fortnite skins, and the game generally? You can now rest easy, as the man himself has weighed in with some strong takes.\nAppearing on the New Heights podcast with brothers Jason and Travis Kelce, Affleck said he's a big gamer...",
-    "date": "Thu, 08 Oct 2026 19:36:37 +0000",
-    "link": "https://www.gamespot.com/articles/ben-affleck-has-some-strong-opinions-about-fortnite-skins-and-how-hard-the-game-is-for-him/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 19,
-    "title": "Ubisoft Shutting Down Rainbow Six Mobile After Less Than A Year",
+    "title": "Is GTA 6 Coming To Switch 2? Ask Rockstar, Nintendo Says",
     "source": "GameSpot",
-    "summary": "Ubisoft has announced that Rainbow Six Mobile is shutting down, and it didn't have a very long life. The game soft-launched in 2023, but properly rolled out for everyone back in February 2026. It will shut down on January 16, 2027, so it will have been online for less than a year in its full state f...",
-    "date": "Thu, 08 Oct 2026 19:11:11 +0000",
-    "link": "https://www.gamespot.com/articles/ubisoft-shutting-down-rainbow-six-mobile-after-less-than-a-year/",
+    "summary": "Rockstar's GTA 6 is the biggest game of 2026 and possibly ever, but it's not coming to Switch 2 ... or is it? Nintendo of America's new president, Devon Pritchard, was recently asked if GTA 6 is coming to Switch 2, and she didn't say yes or no. Instead, she said people should ask Rockstar and its ow...",
+    "date": "Fri, 09 Oct 2026 15:01:41 +0000",
+    "link": "https://www.gamespot.com/articles/is-gta-6-coming-to-switch-2-ask-rockstar-nintendo-says/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.09,
+      "score": -0.07,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "Cyberpunk 2077 Is Getting A Movie Adaptation At Call Of Duty Film Studio, Transformers Producer On Board",
+    "title": "Is The BioShock Movie Ever Going To Happen? Director Weighs In",
     "source": "GameSpot",
-    "summary": "Movie studio Paramount has announced that it's making a Cyberpunk 2077 movie, becoming just the latest upcoming game adaptation. The studio is also behind the Call of Duty movie that's set for release in 2028.\nDeadline reported that Lorenzo di Bonaventura, known for his work on the super-popular Tra...",
-    "date": "Thu, 08 Oct 2026 18:33:08 +0000",
-    "link": "https://www.gamespot.com/articles/cyberpunk-2077-is-getting-a-movie-adaptation-at-call-of-duty-film-studio-transformers-producer-on-board/",
+    "summary": "A movie adaptation of the popular game series BioShock has been in the works for a long time, and like a lot of film projects, it appears to be trapped in Development Hell. It remains to be seen how things will shake out with BioShock, but now its director has provided a positive-sounding update.\nFr...",
+    "date": "Fri, 09 Oct 2026 14:24:42 +0000",
+    "link": "https://www.gamespot.com/articles/is-the-bioshock-movie-ever-going-to-happen-director-weighs-in/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.04,
+      "score": -0.01,
       "badge": "info"
     },
     "tags": [
-      "Cyberpunk"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
