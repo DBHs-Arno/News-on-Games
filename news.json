@@ -1,47 +1,11 @@
 [
   {
     "id": 1,
-    "title": "Tekken 8’s Reina Teased as the Next Guest Character for Fatal Fury: City of the Wolves",
+    "title": "The Skytech Ryzen Edition RTX 5070 Prebuilt Gaming PC Drops to $1,499.99 at Amazon",
     "source": "IGN",
-    "summary": "Reina, who made her debut in Tekken 8, is coming to Fatal Fury: City of the Wolves. The announcement comes from a short teaser trailer from SNK Official.",
-    "date": "Thu, 8 Oct 2026 15:18:31 +0000",
-    "link": "https://www.ign.com/articles/tekken-8-reina-teased-fatal-fury-city-of-the-wolves",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "Mattel Reveals an Epic DC Premium Batman Figure Based on the Iconic Hush Comic | NYCC 2026",
-    "source": "IGN",
-    "summary": "With Mattel regaining the rights to DC's vast lineup of characters, we can reveal the very first DC Premium figure ahead of its debut at NYCC. And yes, it's Batman.",
-    "date": "Thu, 8 Oct 2026 15:00:00 +0000",
-    "link": "https://www.ign.com/articles/mattel-reveals-an-epic-dc-premium-batman-figure-based-on-the-iconic-hush-comic-nycc-2026",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.24,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Best Buy Announces Midnight Opening for Ocarina of Time Launch, Zelda Switch 2 Consoles Also Up for Grabs",
-    "source": "IGN",
-    "summary": "Best Buy is opening select stores at midnight on Nov. 5 for The Legend of Zelda: Ocarina of Time launch day, featuring surprise restocks of the limited-edition Zelda 40th Anniversary Switch 2.",
-    "date": "Thu, 8 Oct 2026 14:52:39 +0000",
-    "link": "https://www.ign.com/articles/best-buy-announces-midnight-opening-for-ocarina-of-time-launch-zelda-switch-2-consoles-also-up-for-grabs",
+    "summary": "An excellent affordable rig for 1080p and 1440p gaming.",
+    "date": "Thu, 8 Oct 2026 18:40:00 +0000",
+    "link": "https://www.ign.com/articles/skytech-ryzen-edition-rtx-5070-prebuilt-gaming-pc-deal-october-2026",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 1.0,
@@ -54,16 +18,51 @@
     "read_time": "1 min read"
   },
   {
-    "id": 4,
-    "title": "GTA 6: Rockstar Releases Brand New Official Screenshots Showing Off Stunning Reflections",
+    "id": 2,
+    "title": "Final Fantasy VII Revelation Announces an NPC-ified Version of Shiva Voiced by Marisha Ray | NYCC 2026",
     "source": "IGN",
-    "summary": "Rockstar has released three brand new GTA 6 screenshots alongside its radio station reveal.",
-    "date": "Thu, 8 Oct 2026 14:49:11 +0000",
-    "link": "https://www.ign.com/articles/gta-6-rockstar-releases-brand-new-official-screenshots-showing-off-stunning-reflections",
+    "summary": "The Critical Role performer is also the real-life wife of the voice of Vincent Valentine.",
+    "date": "Thu, 8 Oct 2026 18:19:41 +0000",
+    "link": "https://www.ign.com/articles/final-fantasy-vii-revelation-announces-an-npc-ified-version-of-shiva-voiced-by-marisha-ray-nycc-2026",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.26,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "A Live-Action Cyberpunk 2077 Movie Is in the Works at Paramount",
+    "source": "IGN",
+    "summary": "Paramount Pictures is developing a live-action Cyberpunk 2077 film.",
+    "date": "Thu, 8 Oct 2026 18:11:35 +0000",
+    "link": "https://www.ign.com/articles/a-live-action-cyberpunk-2077-movie-is-in-the-works-at-paramount",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Cyberpunk"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "Arrow Co-Creator Shares Details and Concept Art for Canceled Green Lantern Show That Shares Striking Similarities to HBO's Lanterns",
+    "source": "IGN",
+    "summary": "Concept art for a canceled Green Lanterns show has been shared online by a co-creator of the CW’s Arrow series, showing what the Emerald Knights’ adventures almost looked like before HBO pivoted to Lanterns, instead.",
+    "date": "Thu, 8 Oct 2026 18:10:10 +0000",
+    "link": "https://www.ign.com/articles/arrow-co-creator-shares-details-and-concept-art-for-canceled-green-lantern-show-that-shares-striking-similarities-to-hbos-lanterns",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -145,15 +144,15 @@
   },
   {
     "id": 9,
-    "title": "'Exploring Pendola Pass' quest walkthrough in Arc Raiders",
+    "title": "After 4 Hours, Phantom Blade Zero Just Became My Most-Anticipated Action Game",
     "source": "Polygon",
-    "summary": "A guide on how to complete the \"Exploring Pendola Pass\" quest in Arc Raiders, including where to find the control room at the Cielo Sereno Observatory",
-    "date": "Thu, 08 Oct 2026 18:00:10 GMT",
-    "link": "https://www.polygon.com/arc-raiders-exploring-pendola-pass-quest-walkthrough/",
+    "summary": "Phantom Blade Zero, with its wuxia-inspired combat and \"kungfupunk\" world, is shaping up to be one of the year's best action games.",
+    "date": "Fri, 09 Oct 2026 00:00:16 GMT",
+    "link": "https://www.polygon.com/phantom-blade-zero-hands-on-gameplay-preview/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -163,136 +162,11 @@
   },
   {
     "id": 10,
-    "title": "Magic’s Most Versatile Mechanic Comes to Disney Lorcana With a Clever Twist",
+    "title": "9 Legend of Zelda Side Quests Scarier than Any Horror Game",
     "source": "Polygon",
-    "summary": "Lorcana's new Ink Drops resemble Treasure tokens, but a various Hyperia City card combos reveal they're a bit more complicated than you might think.",
-    "date": "Thu, 08 Oct 2026 17:30:18 GMT",
-    "link": "https://www.polygon.com/disney-lorcana-ink-drops-guide-strategy-mtg-treasure-tokens/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.19,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "All treasure car locations in Forza Horizon 6",
-    "source": "Polygon",
-    "summary": "Treasure cars are hidden around the Forza Horizon 6 map. Here's where to find every treasure car, along with their vehicle stats.",
-    "date": "Thu, 08 Oct 2026 17:17:34 GMT",
-    "link": "https://www.polygon.com/forza-horizon-6-fh6-treasure-car-locations-all/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.17,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "'Forza Horizon 6' Officially Delayed to 2027 on PS5",
-    "source": "Polygon",
-    "summary": "'Forza Horizon 6' has been officially delayed to January 2027 on PlayStation 5, Sony and Playground Games have confirmed.",
-    "date": "Thu, 08 Oct 2026 17:11:04 GMT",
-    "link": "https://www.polygon.com/forza-horizon-6-officially-delayed-to-2027-on-ps5/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
-    },
-    "tags": [
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "A great indie studio is making a sequel to one of my favorite adventures 17 years later, for one simple reason: 'We're not getting any younger, and the world seems to be ending'",
-    "source": "PC Gamer",
-    "summary": "Machinarium 2 is finally happening.",
-    "date": "Thu, 08 Oct 2026 17:56:59 +0000",
-    "link": "https://www.pcgamer.com/games/adventure/a-great-indie-studio-is-making-a-sequel-to-one-of-my-favorite-adventures-17-years-later-for-one-simple-reason-were-not-getting-any-younger-and-the-world-seems-to-be-ending/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.19,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Subnautica 2 fans can finally hunt and kill those pesky Nibbler Mangos—in Dave the Diver's crossover DLC",
-    "source": "PC Gamer",
-    "summary": "I will kill them. I will cook them. I will serve them. Thanks, Dave.",
-    "date": "Thu, 08 Oct 2026 17:40:53 +0000",
-    "link": "https://www.pcgamer.com/games/adventure/subnautica-2-fans-can-finally-hunt-and-kill-those-pesky-nibbler-mangos-in-dave-the-divers-crossover-dlc/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "I have added roving bands of militant furries to Grand Theft Auto 5",
-    "source": "PC Gamer",
-    "summary": "Thereby bringing it a bit closer to real life.",
-    "date": "Thu, 08 Oct 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-have-added-roving-bands-of-militant-furries-to-grand-theft-auto-5/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.35,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Amazon is roasting users with their own shopping habits, but it don't have nothin' on us",
-    "source": "PC Gamer",
-    "summary": "Getting to know you, getting to know all about you…",
-    "date": "Thu, 08 Oct 2026 16:38:25 +0000",
-    "link": "https://www.pcgamer.com/hardware/amazon-is-roasting-users-with-their-own-shopping-habits-but-it-dont-have-nothin-on-us/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.6,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "GTA 6 Merch Revealed, Including T-Shirt With Alligator Wearing Sunglasses And Drinking A Cocktail",
-    "source": "GameSpot",
-    "summary": "Ahead of GTA 6's release in November, Rockstar Games has announced an official merch collection for the game, and it includes some snazzy stuff like a t-shirt featuring an alligator wearing sunglasses and drinking a cocktail.\nThe alligator's name is Macca the Gator, and he's the star of a fictional ...",
-    "date": "Thu, 08 Oct 2026 17:37:17 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-merch-revealed-including-t-shirt-with-alligator-wearing-sunglasses-and-drinking-a-cocktail/",
+    "summary": "Cursed spider families, a ship that sails only at night, and a mummified father in a closet: nine Zelda side quests that belong in a horror story",
+    "date": "Thu, 08 Oct 2026 23:00:16 GMT",
+    "link": "https://www.polygon.com/legend-zelda-scariest-side-quests/",
     "sentiment": {
       "label": "Critical / Mixed",
       "score": -0.2,
@@ -305,32 +179,67 @@
     "read_time": "1 min read"
   },
   {
-    "id": 18,
-    "title": "Forza Horizon 6 For PS5 Delayed To 2027, And First Paid Expansion Releases Alongside It For All Platforms",
-    "source": "GameSpot",
-    "summary": "Just a month after Microsoft said Forza Horizon 6 for PlayStation 5 remained on track to release in 2026, a new report says the game has in fact been delayed to 2027. This has now been confirmed by Sony: Forza Horizon 6 will now release on January 26, 2027.\nReputable leaker billbil-kun originally sa...",
-    "date": "Wed, 07 Oct 2026 16:01:31 +0000",
-    "link": "https://www.gamespot.com/articles/forza-horizon-6-for-ps5-apparently-delayed-to-2027-and-its-getting-a-disc-release/",
+    "id": 11,
+    "title": "Marvel Officially Announces New Disney Plus Series 'Zodiac'",
+    "source": "Polygon",
+    "summary": "Marvel Television announced Zodiac for Disney Plus at New York Comic Con, a new spy thriller coming in 2028.",
+    "date": "Thu, 08 Oct 2026 20:58:47 GMT",
+    "link": "https://www.polygon.com/marvel-zodiac-tv-series-disney-plus/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.21,
+      "score": 0.16,
       "badge": "success"
     },
     "tags": [
-      "PlayStation"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 19,
-    "title": "Triple-I Initiative October 2026: Everything Announced At The Showcase",
-    "source": "GameSpot",
-    "summary": "We normally get only one Triple-I Initiative showcase per year, but 2026 is proving to be the exception. The second broadcast of the year from organizers Evil Empire, the Triple-I Initiative was a focused blast of curated trailers and game updates, all rolling out across an almost-hour-long livestre...",
-    "date": "Thu, 08 Oct 2026 16:45:17 +0000",
-    "link": "https://www.gamespot.com/articles/triple-i-initiative-october-2026-everything-announced-at-the-showcase/",
+    "id": 12,
+    "title": "Cyberpunk 2077 Live-Action Movie Officially Announced",
+    "source": "Polygon",
+    "summary": "CD Projekt Red and Paramount Pictures are making a Cyberpunk 2077 live-action movie with Transformers producer on board.",
+    "date": "Thu, 08 Oct 2026 18:59:26 GMT",
+    "link": "https://www.polygon.com/cyberpunk-2077-movie-paramount-pictures/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Cyberpunk"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Why a 21-year-old coder finally ported the real P.T. to PC: 'That something so influential could eventually become unplayable never sat right with me'",
+    "source": "PC Gamer",
+    "summary": "Not emulation or a remake, a native PC port of Kojima's horror classic has arrived.",
+    "date": "Thu, 08 Oct 2026 21:32:33 +0000",
+    "link": "https://www.pcgamer.com/games/horror/why-a-21-year-old-coder-finally-ported-the-real-p-t-to-pc-that-something-so-influential-could-eventually-become-unplayable-never-sat-right-with-me/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Blizzard refuses to let World of Warcraft: Forever's dungeons become the fastest way to grind XP: 'We need to hold firm on these balance adjustments'",
+    "source": "PC Gamer",
+    "summary": "Dungeons will receive a small XP buff soon, but are being kept in balance with quests.",
+    "date": "Thu, 08 Oct 2026 21:09:23 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-refuses-to-let-world-of-warcraft-forevers-dungeons-become-the-fastest-way-to-grind-xp-we-need-to-hold-firm-on-these-balance-adjustments/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.25,
+      "score": -0.23,
       "badge": "danger"
     },
     "tags": [
@@ -340,16 +249,105 @@
     "read_time": "1 min read"
   },
   {
-    "id": 20,
-    "title": "Strange Scaffold Saved This New Tactics Game From Cancellation",
-    "source": "GameSpot",
-    "summary": "One of the more interesting game reveals from today's Triple-i Initiative showcase was Gods With Badges, a narrative-driven tactics game about a disgraced police officer returning to the line of duty. What makes Gods With Badges even more fascinating is that it was canceled by its original developer...",
-    "date": "Thu, 08 Oct 2026 17:00:00 +0000",
-    "link": "https://www.gamespot.com/articles/strange-scaffold-saved-this-new-tactics-game-from-cancellation/",
+    "id": 15,
+    "title": "How to start the Dragon's Dogma 2: Dark Arisen expansion",
+    "source": "PC Gamer",
+    "summary": "Plus the recommended level for taking a trip to snowy Norgan.",
+    "date": "Thu, 08 Oct 2026 21:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/dragons-dogma-2-how-to-start-dark-arisen/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "US government accuses Microsoft of replacing American workers with 'foreign indentured servants,' then gives Satya Nadella a medal",
+    "source": "PC Gamer",
+    "summary": "The suspension of Microsoft's access to green card applications represents just another wildly incoherent day in the Trump administration.",
+    "date": "Thu, 08 Oct 2026 20:55:01 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/us-government-accuses-microsoft-of-replacing-american-workers-with-foreign-indentured-servants-then-gives-satya-nadella-a-medal/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.13,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "Ben Affleck Has Some Strong Opinions About Fortnite Skins And How Hard The Game Is For Him",
+    "source": "GameSpot",
+    "summary": "Have you ever wondered what two-time Oscar-winner Ben Affleck thinks about Fortnite skins, and the game generally? You can now rest easy, as the man himself has weighed in with some strong takes.\nAppearing on the New Heights podcast with brothers Jason and Travis Kelce, Affleck said he's a big gamer...",
+    "date": "Thu, 08 Oct 2026 19:36:37 +0000",
+    "link": "https://www.gamespot.com/articles/ben-affleck-has-some-strong-opinions-about-fortnite-skins-and-how-hard-the-game-is-for-him/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.04,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Ubisoft Shutting Down Rainbow Six Mobile After Less Than A Year",
+    "source": "GameSpot",
+    "summary": "Ubisoft has announced that Rainbow Six Mobile is shutting down, and it didn't have a very long life. The game soft-launched in 2023, but properly rolled out for everyone back in February 2026. It will shut down on January 16, 2027, so it will have been online for less than a year in its full state f...",
+    "date": "Thu, 08 Oct 2026 19:11:11 +0000",
+    "link": "https://www.gamespot.com/articles/ubisoft-shutting-down-rainbow-six-mobile-after-less-than-a-year/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.09,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "Cyberpunk 2077 Is Getting A Movie Adaptation At Call Of Duty Film Studio, Transformers Producer On Board",
+    "source": "GameSpot",
+    "summary": "Movie studio Paramount has announced that it's making a Cyberpunk 2077 movie, becoming just the latest upcoming game adaptation. The studio is also behind the Call of Duty movie that's set for release in 2028.\nDeadline reported that Lorenzo di Bonaventura, known for his work on the super-popular Tra...",
+    "date": "Thu, 08 Oct 2026 18:33:08 +0000",
+    "link": "https://www.gamespot.com/articles/cyberpunk-2077-is-getting-a-movie-adaptation-at-call-of-duty-film-studio-transformers-producer-on-board/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.04,
+      "badge": "info"
+    },
+    "tags": [
+      "Cyberpunk"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 20,
+    "title": "GTA 6 Merch Revealed, Including T-Shirt With Alligator Wearing Sunglasses And Drinking A Cocktail",
+    "source": "GameSpot",
+    "summary": "Ahead of GTA 6's release in November, Rockstar Games has announced an official merch collection for the game, and it includes some snazzy stuff like a t-shirt featuring an alligator wearing sunglasses and drinking a cocktail.\nThe alligator's name is Macca the Gator, and he's the star of a fictional ...",
+    "date": "Thu, 08 Oct 2026 17:37:17 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-merch-revealed-including-t-shirt-with-alligator-wearing-sunglasses-and-drinking-a-cocktail/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
     },
     "tags": [
       "News",
