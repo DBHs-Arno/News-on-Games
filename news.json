@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "Konami Planning 'Second and Third Waves' of New Silent Hill Games",
+    "title": "Magic: The Gathering Returns to Marvel with Darkhold Destiny",
     "source": "IGN",
-    "summary": "Konami is planning \"second and third waves\" of new Silent Hill games, according to producer Motoi Okamoto.",
-    "date": "Fri, 9 Oct 2026 22:47:30 +0000",
-    "link": "https://www.ign.com/articles/konami-planning-second-and-third-waves-of-new-silent-hill-games",
+    "summary": "Magic the Gathering and Marvel have already crossed over a couple of times with Spider-Man and the Marvel Super Heroes set last year. But for its third Marvel set, MTG is getting spooky with Darkhold Destiny.",
+    "date": "Sat, 10 Oct 2026 00:36:42 +0000",
+    "link": "https://www.ign.com/articles/magic-the-gathering-returns-to-marvel-with-darkhold-destiny",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.27,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -19,15 +19,15 @@
   },
   {
     "id": 2,
-    "title": "Blumhouse Partners With MatPat to Make Amanda the Adventurer Movie, Confirms More Indie Horror Game Adaptations Are Coming | NYCC 2026",
+    "title": "GTA 6 Fan Says Rockstar Sent Them a Poster Just Because They Asked Nicely",
     "source": "IGN",
-    "summary": "Blumhouse Productions has partnered with YouTube star Matthew ‘MatPat’ Patrick to create a series of movies based on viral indie horror games, and Amanda the Adventurer is first on the docket.",
-    "date": "Fri, 9 Oct 2026 22:45:02 +0000",
-    "link": "https://www.ign.com/articles/blumhouse-partners-with-matpat-to-make-amanda-the-adventurer-movie-confirms-more-indie-horror-game-adaptations-are-coming-nycc-2026",
+    "summary": "A Grand Theft Auto 6 fan in Brazil said they politely asked the Rockstar Games team to send them a poster – and it looks like they actually followed through.",
+    "date": "Fri, 9 Oct 2026 23:56:23 +0000",
+    "link": "https://www.ign.com/articles/gta-6-fan-says-rockstar-sent-them-a-poster-just-because-they-asked-nicely",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -37,14 +37,14 @@
   },
   {
     "id": 3,
-    "title": "Is The Exorcist: Martyrs a Sequel to The Exorcist III? Mike Flanagan Reveals All",
+    "title": "Final Fantasy 7 Revelation: I Played a New Slice from the Early Game With a Boss Fight | IGN Preview",
     "source": "IGN",
-    "summary": "The Exorcist: Martyrs director Mike Flanagan joins IGN to break down the horror sequel's new trailer and explain how it builds on the foundation of The Exorcist III.",
-    "date": "Fri, 9 Oct 2026 22:40:00 +0000",
-    "link": "https://www.ign.com/articles/the-exorcist-martyrs-trailer-breakdown-mike-flanagan",
+    "summary": "While our earlier previews described a giant open-world game absolutely chock-full of activities, it was nice to see that the story-intense linear bits are still there, and just as dramatic as they were in the first two games. Final Fantasy VII Revelation will ultimately be the conclusion to this ma...",
+    "date": "Fri, 9 Oct 2026 22:58:43 +0000",
+    "link": "https://www.ign.com/articles/final-fantasy-7-revelation-i-played-a-new-slice-from-the-early-game-with-a-boss-fight-ign-preview",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.01,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
@@ -55,15 +55,15 @@
   },
   {
     "id": 4,
-    "title": "A Street Fighter Movie Sequel Is Already Being Written, but There’s a Catch",
+    "title": "Konami Planning 'Second and Third Waves' of New Silent Hill Games",
     "source": "IGN",
-    "summary": "Director Kitao Sakurai confirmed that he’s already hard at work writing up a sequel to his upcoming Street Fighter film, but whether or not it gets made all depends on how the first movie performs.",
-    "date": "Fri, 9 Oct 2026 22:26:40 +0000",
-    "link": "https://www.ign.com/articles/a-street-fighter-movie-sequel-is-already-being-written-but-theres-a-catch",
+    "summary": "Konami is planning \"second and third waves\" of new Silent Hill games, according to producer Motoi Okamoto.",
+    "date": "Fri, 9 Oct 2026 22:47:30 +0000",
+    "link": "https://www.ign.com/articles/konami-planning-second-and-third-waves-of-new-silent-hill-games",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -103,8 +103,8 @@
     },
     "tags": [
       "AI",
-      "Xbox",
-      "PlayStation"
+      "PlayStation",
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
@@ -145,32 +145,14 @@
   },
   {
     "id": 9,
-    "title": "'Common Side Effects' Officially Break Their Silence on Season 2 Plans",
+    "title": "Pokémon Go Zorua Community Day event guide",
     "source": "Polygon",
-    "summary": "Polygon sat down with Joe Bennet and Steve Hely ahead of their big New York Comic Con announcement",
-    "date": "Sat, 10 Oct 2026 00:00:15 GMT",
-    "link": "https://www.polygon.com/common-side-effects-season-2-release-date-creators-interview/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "5 Hilarious 'Calvin and Hobbes' Comic Strips About Hating School",
-    "source": "Polygon",
-    "summary": "In Calvin and Hobbes, school was usually the enemy",
-    "date": "Fri, 09 Oct 2026 23:00:16 GMT",
-    "link": "https://www.polygon.com/calvin-hobbes-vs-school-best-comic-stripes/",
+    "summary": "Zorua Community Day takes place on Oct. 10. Here's how to find a shiny and make the most of the Community Day's bonuses.",
+    "date": "Sat, 10 Oct 2026 03:13:52 GMT",
+    "link": "https://www.polygon.com/pokemon-go-zorua-community-day-event-shiny-zoroark-moveset/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.17,
+      "score": 0.5,
       "badge": "success"
     },
     "tags": [
@@ -180,15 +162,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 11,
-    "title": "Square Enix's Forgotten Loot-Shooter Was Years Ahead of Its Time",
+    "id": 10,
+    "title": "Scarlett Johansson's New Exorcist Movie Gets First Terrifying Trailer",
     "source": "Polygon",
-    "summary": "Outriders, the 2021 loot-shooter published by Square Enix, set the standard for multiplayer shooter. Then everyone moved on.",
-    "date": "Fri, 09 Oct 2026 22:58:06 GMT",
-    "link": "https://www.polygon.com/outridrers-retrospective-review-square-enix/",
+    "summary": "First The Exorcist: Martyrs trailer shows director Mike Flanagan's revival of the franchise with Scarlett Johansson and Chiwetel Ejiofor.",
+    "date": "Sat, 10 Oct 2026 01:55:09 GMT",
+    "link": "https://www.polygon.com/the-exorcist-martyrs-trailer-mike-flanagan/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": -0.09,
       "badge": "info"
     },
     "tags": [
@@ -198,16 +180,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "Marathon Is the Scariest Horror Game of 2026",
+    "id": 11,
+    "title": "Pokémon Winds and Waves' Water Starter Breaks a Series Curse",
     "source": "Polygon",
-    "summary": "Player ambushes, powerful NPC enemy robots, and the fear of losing loot makes Marathon terrifying.",
-    "date": "Fri, 09 Oct 2026 22:40:48 GMT",
-    "link": "https://www.polygon.com/marathon-scariest-horror-game/",
+    "summary": "Nintendo and Game Freak's 10th Gen Pokémon starters are led by Browt, Pombon, and Gecqua, the breakout water starter of Winds and Waves",
+    "date": "Sat, 10 Oct 2026 01:20:15 GMT",
+    "link": "https://www.polygon.com/pokemon-winds-waves-water-starter-series-curse/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.37,
+      "score": -0.4,
       "badge": "danger"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "MTG Officially Reveals 4 Epic New Marvel Commander Decks Coming in 2027",
+    "source": "Polygon",
+    "summary": "Head to Asgard or Doctor Strange’s wizarding school",
+    "date": "Sat, 10 Oct 2026 00:30:16 GMT",
+    "link": "https://www.polygon.com/magic-the-gathering-marvel-darkhold-destiny-commander-decks/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -217,6 +216,95 @@
   },
   {
     "id": 13,
+    "title": "2026's OLED monitors can nearly recreate the sublime clarity of a '90s CRT, but Windows will have to change before we can achieve true nirvana",
+    "source": "PC Gamer",
+    "summary": "All you need is a ridiculously fast monitor and endless patience for tinkering to get a glimpse of how good retro games looked in motion back in the '90s.",
+    "date": "Sat, 10 Oct 2026 00:20:52 +0000",
+    "link": "https://www.pcgamer.com/hardware/gaming-monitors/2026s-oled-monitors-can-nearly-recreate-the-sublime-clarity-of-a-90s-crt-but-windows-will-have-to-change-before-we-can-achieve-true-nirvana/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "'Overcooked broke you apart and Stage Fright is there to put you back together'",
+    "source": "PC Gamer",
+    "summary": "Developers of the stressful cooking game series talk to PC Gamer about their more 'positive' co-op adventure.",
+    "date": "Fri, 09 Oct 2026 23:43:13 +0000",
+    "link": "https://www.pcgamer.com/games/adventure/overcooked-broke-you-apart-and-stage-fright-is-there-to-put-you-back-together/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Cyberpunk 2077 is being made into a movie, even though we've already got the perfect cyberpunk movie starring Keanu Reeves as a guy named Johnny",
+    "source": "PC Gamer",
+    "summary": "Remember Johnny Mnemonic? If you haven't seen it, it's time.",
+    "date": "Fri, 09 Oct 2026 21:54:26 +0000",
+    "link": "https://www.pcgamer.com/movies-tv/cyberpunk-2077-is-being-made-into-a-movie-even-though-weve-already-got-the-perfect-cyberpunk-movie-starring-keanu-reeves-as-a-guy-named-johnny/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 1.0,
+      "badge": "success"
+    },
+    "tags": [
+      "Cyberpunk"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Don't worry, Valve: I've got your next Deadlock character concepts sorted",
+    "source": "PC Gamer",
+    "summary": "The Cursed Apple is ready for Humpty Dumpty and the Loch Ness Monster's Precocious Preteen Child.",
+    "date": "Fri, 09 Oct 2026 19:41:12 +0000",
+    "link": "https://www.pcgamer.com/games/moba/dont-worry-valve-ive-got-your-next-deadlock-character-concepts-sorted/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "Marvel Darkhold Destiny Is Magic: The Gathering’s First Universes Beyond Set Of 2027",
+    "source": "GameSpot",
+    "summary": "Today at New York Comic Con, Wizards of the Coast announced the first 2027 Universes Beyond expansion set for Magic: The Gathering. Marvel’s Darkhold Destiny will pit Doctor Strange, Thor, Ghost Rider, and more against cosmic villains like Hela and Dormammu in 2027.\nThe set will include normal and C...",
+    "date": "Sat, 10 Oct 2026 00:30:00 +0000",
+    "link": "https://www.gamespot.com/articles/marvel-darkhold-destiny-is-magic-the-gatherings-first-universes-beyond-set-of-2027/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.28,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
     "title": "Let’s All Be Happy This AAA Minesweeper Game Isn’t Real",
     "source": "GameSpot",
     "summary": "Minesweeper has been around for decades and it's probably overdue for some modern flourishes. Now there's a Triple-A Minesweeper parody that offers a hilarious look at what a Minesweeper update might look like.\nThe Triple-A Minesweeper was created by writer and programmer Mike Lacher, and it's fully...",
@@ -234,7 +322,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 19,
     "title": "Call Of Duty: MW4 Early Access Also Includes DMZ, Here’s How To Get In",
     "source": "GameSpot",
     "summary": "Call of Duty: Modern Warfare 4's campaign is playable a week early for people who preorder, and now we know the DMZ mode will be as well.\nActivision has announced that MW4's extraction-based DMZ mode will be playable starting Tuesday, October 20, which is three days before the game launches. Campaig...",
@@ -252,7 +340,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
+    "id": 20,
     "title": "Gears Of War: E-Day–How’s It Selling? Let’s Unpack Things",
     "source": "GameSpot",
     "summary": "Microsoft's latest console exclusive, Gears of War: E-Day, launched this week, and now we've gotten the first glimpse at how the game is performing commercially. Multiple analysts have weighed in, and there are numerous factors at play beyond pure sales, due to Game Pass and other factors. So let's ...",
@@ -262,24 +350,6 @@
       "label": "Neutral / Informative",
       "score": -0.01,
       "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Battlefield 6 Is Adding Something Fans Have Wanted Since Day 1",
-    "source": "GameSpot",
-    "summary": "EA and Battlefield Studios have unveiled more details on Battlefield 6's upcoming Season 5, and it includes a new feature that fans have wanted since day one: a proper server browser.\nBattlefield did indeed launch with a server browser, but--considering how it only supported Portal mode--it wasn't t...",
-    "date": "Fri, 09 Oct 2026 16:21:38 +0000",
-    "link": "https://www.gamespot.com/articles/battlefield-6-is-adding-something-fans-have-wanted-since-day-1/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
     },
     "tags": [
       "Gaming",
