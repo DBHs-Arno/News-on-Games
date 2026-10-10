@@ -1,6 +1,24 @@
 [
   {
     "id": 1,
+    "title": "Magic: The Gathering Marvel: Darkhold Destiny Preorders Are Now Live",
+    "source": "IGN",
+    "summary": "Grab Play Boosters, Bundles, Commander Precons and more from Marvel's upcoming Darkhold Destiny set, launching in 2027",
+    "date": "Sat, 10 Oct 2026 08:38:45 +0000",
+    "link": "https://www.ign.com/articles/magic-the-gathering-marvel-darkhold-destiny-preorders-are-now-live",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.38,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
     "title": "Magic: The Gathering Returns to Marvel with Darkhold Destiny",
     "source": "IGN",
     "summary": "Magic the Gathering and Marvel have already crossed over a couple of times with Spider-Man and the Marvel Super Heroes set last year. But for its third Marvel set, MTG is getting spooky with Darkhold Destiny.",
@@ -18,7 +36,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "GTA 6 Fan Says Rockstar Sent Them a Poster Just Because They Asked Nicely",
     "source": "IGN",
     "summary": "A Grand Theft Auto 6 fan in Brazil said they politely asked the Rockstar Games team to send them a poster – and it looks like they actually followed through.",
@@ -36,7 +54,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Final Fantasy 7 Revelation: I Played a New Slice from the Early Game With a Boss Fight | IGN Preview",
     "source": "IGN",
     "summary": "While our earlier previews described a giant open-world game absolutely chock-full of activities, it was nice to see that the story-intense linear bits are still there, and just as dramatic as they were in the first two games. Final Fantasy VII Revelation will ultimately be the conclusion to this ma...",
@@ -54,15 +72,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 4,
-    "title": "Konami Planning 'Second and Third Waves' of New Silent Hill Games",
-    "source": "IGN",
-    "summary": "Konami is planning \"second and third waves\" of new Silent Hill games, according to producer Motoi Okamoto.",
-    "date": "Fri, 9 Oct 2026 22:47:30 +0000",
-    "link": "https://www.ign.com/articles/konami-planning-second-and-third-waves-of-new-silent-hill-games",
+    "id": 5,
+    "title": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
+    "source": "Eurogamer",
+    "summary": "It looks like Bokeh Game Studio, founded by Keiichiro Toyama, who directed the original Silent Hill and created Siren and Gravity Rush, is working on another horror game. Read more...",
+    "date": "Sat, 10 Oct 2026 11:44:06 +0000",
+    "link": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.03,
+      "score": -0.07,
       "badge": "info"
     },
     "tags": [
@@ -72,7 +90,43 @@
     "read_time": "1 min read"
   },
   {
-    "id": 5,
+    "id": 6,
+    "title": "Arc Raiders could eventually be split into PvE and PvP, says executive producer",
+    "source": "Eurogamer",
+    "summary": "Arc Raiders could eventually be split into PvE and PvP modes. Read more...",
+    "date": "Sat, 10 Oct 2026 11:21:05 +0000",
+    "link": "https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Konami is already thinking about the next wave of Silent Hill games",
+    "source": "Eurogamer",
+    "summary": "Silent Hill producer Motoi Okamoto says Konami is looking at \"a number of projects\" after the first wave of new Silent Hill games. Read more...",
+    "date": "Sat, 10 Oct 2026 10:38:48 +0000",
+    "link": "https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.13,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
     "title": "After modders removed Skate's live service bits, devs draw the line with tools that \"bypass our systems to unlock paid cosmetics\"",
     "source": "Eurogamer",
     "summary": "EA and Full Circle - the developer behind the new early access Skate game (skate.) - don't have a problem with modders and \"creativity from players,\" but they're drawing the line with mods that aim to unlock paid microtransactions and unreleased content. Read more...",
@@ -90,66 +144,12 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\"",
-    "source": "Eurogamer",
-    "summary": "PS5 and Xbox Series X/S consoles are more expensive than ever in most markets, thanks largely to memory components being gobbled up by AI data centres. Now, analyst Mat Piscatella worries the console market, at least in the US, hasn't looked this dire since the early 1980s, which was maybe not-so-co...",
-    "date": "Fri, 09 Oct 2026 18:51:26 +0000",
-    "link": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "AI",
-      "PlayStation",
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch",
-    "source": "Eurogamer",
-    "summary": "Gears of War: E-Day's sales are reportedly lighter than you might expect from one of Xbox's flagship names, but pure sales numbers don't paint a complete picture of the bloody shooter's performance. A sizable chunk of revenue actually came from Game Pass subscribers paying for the game's Premium Edi...",
-    "date": "Fri, 09 Oct 2026 18:03:42 +0000",
-    "link": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.24,
-      "badge": "danger"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trial heats up",
-    "source": "Eurogamer",
-    "summary": "One of the witnesses in the ongoing Rockstar Games vs Garland & Others case has said he had \"little interest\" in evidence of unionisation efforts he was sent by an anonymous employee, prior to the developer laying off a substantial number of union Discord members. Read more...",
-    "date": "Fri, 09 Oct 2026 16:41:02 +0000",
-    "link": "https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 9,
-    "title": "Pokémon Go Zorua Community Day event guide",
+    "title": "There Has Never Been a Better Time To Get Into Star Wars",
     "source": "Polygon",
-    "summary": "Zorua Community Day takes place on Oct. 10. Here's how to find a shiny and make the most of the Community Day's bonuses.",
-    "date": "Sat, 10 Oct 2026 03:13:52 GMT",
-    "link": "https://www.polygon.com/pokemon-go-zorua-community-day-event-shiny-zoroark-moveset/",
+    "summary": "Games like Star Wars Zero Company and Galactic Racer are making it easier than ever to get into Star Wars.",
+    "date": "Sat, 10 Oct 2026 12:00:15 GMT",
+    "link": "https://www.polygon.com/star-wars-zero-company-galactic-racer-newcomers/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.5,
@@ -163,15 +163,15 @@
   },
   {
     "id": 10,
-    "title": "Scarlett Johansson's New Exorcist Movie Gets First Terrifying Trailer",
+    "title": "Persona’s Horrifying Dong Monster Will Haunt My Nightmares Forever",
     "source": "Polygon",
-    "summary": "First The Exorcist: Martyrs trailer shows director Mike Flanagan's revival of the franchise with Scarlett Johansson and Chiwetel Ejiofor.",
-    "date": "Sat, 10 Oct 2026 01:55:09 GMT",
-    "link": "https://www.polygon.com/the-exorcist-martyrs-trailer-mike-flanagan/",
+    "summary": "For decades, Atlus’s Shin Megami Tensei and Persona series have featured a horrifying demon peen inspired by Buddhist folklore",
+    "date": "Sat, 10 Oct 2026 10:00:15 GMT",
+    "link": "https://www.polygon.com/persona-atlus-scariest-mara/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.09,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.9,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -181,32 +181,33 @@
   },
   {
     "id": 11,
-    "title": "Pokémon Winds and Waves' Water Starter Breaks a Series Curse",
+    "title": "Halo officially returns in 2 weeks with new release",
     "source": "Polygon",
-    "summary": "Nintendo and Game Freak's 10th Gen Pokémon starters are led by Browt, Pombon, and Gecqua, the breakout water starter of Winds and Waves",
-    "date": "Sat, 10 Oct 2026 01:20:15 GMT",
-    "link": "https://www.polygon.com/pokemon-winds-waves-water-starter-series-curse/",
+    "summary": "There's even more Halo on the way",
+    "date": "Sat, 10 Oct 2026 10:00:15 GMT",
+    "link": "https://www.polygon.com/halo-novel-release-date/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.32,
+      "badge": "success"
     },
     "tags": [
-      "Nintendo"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "MTG Officially Reveals 4 Epic New Marvel Commander Decks Coming in 2027",
+    "title": "Avatar: Seven Havens's Biggest Plot Twist May Be Hiding in Plain Sight",
     "source": "Polygon",
-    "summary": "Head to Asgard or Doctor Strange’s wizarding school",
-    "date": "Sat, 10 Oct 2026 00:30:16 GMT",
-    "link": "https://www.polygon.com/magic-the-gathering-marvel-darkhold-destiny-commander-decks/",
+    "summary": "The show seems to be drawing on Buddhist tradition",
+    "date": "Sat, 10 Oct 2026 09:00:15 GMT",
+    "link": "https://www.polygon.com/avatar-seven-havens-seven-chakras/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.21,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -216,6 +217,42 @@
   },
   {
     "id": 13,
+    "title": "'If you're skilful enough, you can chop the head off a monster, kick it midair, and then kill another monster with it': Consider me sold on this indie first-person ARPG",
+    "source": "PC Gamer",
+    "summary": "Heathen puts a new perspective on Diablo, and it looks brilliant.",
+    "date": "Sat, 10 Oct 2026 11:12:58 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/if-youre-skilful-enough-you-can-chop-the-head-off-a-monster-kick-it-midair-and-then-kill-another-monster-with-it-consider-me-sold-on-this-indie-first-person-arpg/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.26,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Mafia 3, which PC Gamer scored 54% but which I say is great, got a nice little 10th-anniversary update",
+    "source": "PC Gamer",
+    "summary": "As ever, I'm a genius tastemaker ahead of my time.",
+    "date": "Sat, 10 Oct 2026 11:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/third-person-shooter/mafia-3-which-pc-gamer-scored-54-percent-but-which-i-say-is-great-got-a-nice-little-10th-anniversary-update/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
     "title": "2026's OLED monitors can nearly recreate the sublime clarity of a '90s CRT, but Windows will have to change before we can achieve true nirvana",
     "source": "PC Gamer",
     "summary": "All you need is a ridiculously fast monitor and endless patience for tinkering to get a glimpse of how good retro games looked in motion back in the '90s.",
@@ -233,7 +270,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "'Overcooked broke you apart and Stage Fright is there to put you back together'",
     "source": "PC Gamer",
     "summary": "Developers of the stressful cooking game series talk to PC Gamer about their more 'positive' co-op adventure.",
@@ -242,41 +279,6 @@
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Cyberpunk 2077 is being made into a movie, even though we've already got the perfect cyberpunk movie starring Keanu Reeves as a guy named Johnny",
-    "source": "PC Gamer",
-    "summary": "Remember Johnny Mnemonic? If you haven't seen it, it's time.",
-    "date": "Fri, 09 Oct 2026 21:54:26 +0000",
-    "link": "https://www.pcgamer.com/movies-tv/cyberpunk-2077-is-being-made-into-a-movie-even-though-weve-already-got-the-perfect-cyberpunk-movie-starring-keanu-reeves-as-a-guy-named-johnny/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 1.0,
-      "badge": "success"
-    },
-    "tags": [
-      "Cyberpunk"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Don't worry, Valve: I've got your next Deadlock character concepts sorted",
-    "source": "PC Gamer",
-    "summary": "The Cursed Apple is ready for Humpty Dumpty and the Loch Ness Monster's Precocious Preteen Child.",
-    "date": "Fri, 09 Oct 2026 19:41:12 +0000",
-    "link": "https://www.pcgamer.com/games/moba/dont-worry-valve-ive-got-your-next-deadlock-character-concepts-sorted/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
       "badge": "info"
     },
     "tags": [
