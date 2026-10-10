@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Peacemaker Taking a Backseat as James Gunn Builds Out the DCU, John Cena Says",
+    "title": "Konami Planning 'Second and Third Waves' of New Silent Hill Games",
     "source": "IGN",
-    "summary": "John Cena said Peacemaker is taking a back seat as James Gunn focuses on building out the DCU with characters like Superman, Batman, and Wonder Woman.",
-    "date": "Fri, 9 Oct 2026 15:47:44 +0000",
-    "link": "https://www.ign.com/articles/peacemaker-taking-a-backseat-as-james-gunn-builds-out-the-dcu-john-cena-says",
+    "summary": "Konami is planning \"second and third waves\" of new Silent Hill games, according to producer Motoi Okamoto.",
+    "date": "Fri, 9 Oct 2026 22:47:30 +0000",
+    "link": "https://www.ign.com/articles/konami-planning-second-and-third-waves-of-new-silent-hill-games",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.03,
       "badge": "info"
     },
     "tags": [
@@ -19,14 +19,14 @@
   },
   {
     "id": 2,
-    "title": "'It's Every Motherf***er for Himself!' — The San Andreas Mission You Need to Play Before GTA 6",
+    "title": "Blumhouse Partners With MatPat to Make Amanda the Adventurer Movie, Confirms More Indie Horror Game Adaptations Are Coming | NYCC 2026",
     "source": "IGN",
-    "summary": "GTA San Andreas' Reuniting the Families mission has car chases, shootouts, and cops recreating Terminator 2. It's the level where Rockstar truly found its cinematic flair.",
-    "date": "Fri, 9 Oct 2026 15:30:00 +0000",
-    "link": "https://www.ign.com/articles/the-san-andreas-mission-you-need-to-play-before-gta-6",
+    "summary": "Blumhouse Productions has partnered with YouTube star Matthew ‘MatPat’ Patrick to create a series of movies based on viral indie horror games, and Amanda the Adventurer is first on the docket.",
+    "date": "Fri, 9 Oct 2026 22:45:02 +0000",
+    "link": "https://www.ign.com/articles/blumhouse-partners-with-matpat-to-make-amanda-the-adventurer-movie-confirms-more-indie-horror-game-adaptations-are-coming-nycc-2026",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.07,
       "badge": "info"
     },
     "tags": [
@@ -37,40 +37,79 @@
   },
   {
     "id": 3,
-    "title": "GTA 6 on Switch 2? 'That's a Conversation for Take-Two and Rockstar,' Nintendo Says",
+    "title": "Is The Exorcist: Martyrs a Sequel to The Exorcist III? Mike Flanagan Reveals All",
     "source": "IGN",
-    "summary": "Will GTA 6 come out on Switch 2? The boss of Nintendo of America has responded.",
-    "date": "Fri, 9 Oct 2026 15:04:06 +0000",
-    "link": "https://www.ign.com/articles/gta-6-switch-2-nintendo-president",
+    "summary": "The Exorcist: Martyrs director Mike Flanagan joins IGN to break down the horror sequel's new trailer and explain how it builds on the foundation of The Exorcist III.",
+    "date": "Fri, 9 Oct 2026 22:40:00 +0000",
+    "link": "https://www.ign.com/articles/the-exorcist-martyrs-trailer-breakdown-mike-flanagan",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": -0.01,
       "badge": "info"
     },
     "tags": [
-      "Nintendo"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "AI Driving Game Demo Forces Developer to Take Out Bank Loan to Keep It Running",
+    "title": "A Street Fighter Movie Sequel Is Already Being Written, but There’s a Catch",
     "source": "IGN",
-    "summary": "The developer behind Teach My Little Sister How to Drive, a driving instruction sim where you instruct a generative-AI-powered, dynamic NPC, has been spending $1,000 dollars a day to keep the demo working.",
-    "date": "Fri, 9 Oct 2026 13:52:05 +0000",
-    "link": "https://www.ign.com/articles/ai-driving-game-demo-bank-loan",
+    "summary": "Director Kitao Sakurai confirmed that he’s already hard at work writing up a sequel to his upcoming Street Fighter film, but whether or not it gets made all depends on how the first movie performs.",
+    "date": "Fri, 9 Oct 2026 22:26:40 +0000",
+    "link": "https://www.ign.com/articles/a-street-fighter-movie-sequel-is-already-being-written-but-theres-a-catch",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.25,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
     },
     "tags": [
-      "AI"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "After modders removed Skate's live service bits, devs draw the line with tools that \"bypass our systems to unlock paid cosmetics\"",
+    "source": "Eurogamer",
+    "summary": "EA and Full Circle - the developer behind the new early access Skate game (skate.) - don't have a problem with modders and \"creativity from players,\" but they're drawing the line with mods that aim to unlock paid microtransactions and unreleased content. Read more...",
+    "date": "Fri, 09 Oct 2026 20:17:03 +0000",
+    "link": "https://www.eurogamer.net/skate-mods-live-service-ea-unlock-paid-cosmetics",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\"",
+    "source": "Eurogamer",
+    "summary": "PS5 and Xbox Series X/S consoles are more expensive than ever in most markets, thanks largely to memory components being gobbled up by AI data centres. Now, analyst Mat Piscatella worries the console market, at least in the US, hasn't looked this dire since the early 1980s, which was maybe not-so-co...",
+    "date": "Fri, 09 Oct 2026 18:51:26 +0000",
+    "link": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
+    },
+    "tags": [
+      "AI",
+      "Xbox",
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
     "title": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch",
     "source": "Eurogamer",
     "summary": "Gears of War: E-Day's sales are reportedly lighter than you might expect from one of Xbox's flagship names, but pure sales numbers don't paint a complete picture of the bloody shooter's performance. A sizable chunk of revenue actually came from Game Pass subscribers paying for the game's Premium Edi...",
@@ -87,7 +126,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trial heats up",
     "source": "Eurogamer",
     "summary": "One of the witnesses in the ongoing Rockstar Games vs Garland & Others case has said he had \"little interest\" in evidence of unionisation efforts he was sent by an anonymous employee, prior to the developer laying off a substantial number of union Discord members. Read more...",
@@ -105,33 +144,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 7,
-    "title": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced",
-    "source": "Eurogamer",
-    "summary": "The reports were correct: Forza Horizon 6 has been delayed to 2027 on PS5. The PlayStation version had been expected this year - the PC and Xbox versions launched in May - but it will now launch in January. Read more...",
-    "date": "Fri, 09 Oct 2026 14:42:23 +0000",
-    "link": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay",
+    "id": 9,
+    "title": "'Common Side Effects' Officially Break Their Silence on Season 2 Plans",
+    "source": "Polygon",
+    "summary": "Polygon sat down with Joe Bennet and Steve Hely ahead of their big New York Comic Con announcement",
+    "date": "Sat, 10 Oct 2026 00:00:15 GMT",
+    "link": "https://www.polygon.com/common-side-effects-season-2-release-date-creators-interview/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.06,
+      "score": -0.01,
       "badge": "info"
     },
     "tags": [
-      "PlayStation",
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title",
-    "source": "Eurogamer",
-    "summary": "British actor Charlie Cox, best known for being Daredevil in Marvel's Netflix series - but known closer to home as the voice of Gustav in Clair Obscur: Expedition 33 - has said he's just finished recording for a Sega game which hasn't been announced yet. Read more...",
-    "date": "Fri, 09 Oct 2026 13:27:34 +0000",
-    "link": "https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil",
+    "id": 10,
+    "title": "5 Hilarious 'Calvin and Hobbes' Comic Strips About Hating School",
+    "source": "Polygon",
+    "summary": "In Calvin and Hobbes, school was usually the enemy",
+    "date": "Fri, 09 Oct 2026 23:00:16 GMT",
+    "link": "https://www.polygon.com/calvin-hobbes-vs-school-best-comic-stripes/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.32,
+      "score": 0.17,
       "badge": "success"
     },
     "tags": [
@@ -141,12 +180,12 @@
     "read_time": "1 min read"
   },
   {
-    "id": 9,
-    "title": "'GTA 6' Fandom Is Officially Shook After The Nude Jason Leak",
+    "id": 11,
+    "title": "Square Enix's Forgotten Loot-Shooter Was Years Ahead of Its Time",
     "source": "Polygon",
-    "summary": "A massive GTA 6 leak highlighting nudity sparks conspiracy theories about nude gameplay, cheats, and first-person mode",
-    "date": "Fri, 09 Oct 2026 17:58:34 GMT",
-    "link": "https://www.polygon.com/gta-6-cyberleek-nude-jason-duvall-internet-archive-video-tank-cheat/",
+    "summary": "Outriders, the 2021 loot-shooter published by Square Enix, set the standard for multiplayer shooter. Then everyone moved on.",
+    "date": "Fri, 09 Oct 2026 22:58:06 GMT",
+    "link": "https://www.polygon.com/outridrers-retrospective-review-square-enix/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -159,159 +198,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "DC Officially Unveils a New Justice League",
-    "source": "Polygon",
-    "summary": "At NYCC, DC Comics announced Absolute Justice, a miniseries uniting Absolute Batman, Superman, Wonder Woman, and more Absolute heroes.",
-    "date": "Fri, 09 Oct 2026 17:58:03 GMT",
-    "link": "https://www.polygon.com/dc-comics-absolute-justice-league-batman-superman-wonder-woman/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "High Console Prices Push Playstation and Xbox Sales to New Lows",
-    "source": "Polygon",
-    "summary": "Circana data found that PlayStation and Xbox console sales are hitting new lows in 2026.",
-    "date": "Fri, 09 Oct 2026 17:26:20 GMT",
-    "link": "https://www.polygon.com/game-console-sales-down-ai-component-crisis-ram/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "PlayStation",
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 12,
-    "title": "Street Fighter Movie Officially Reveals Its Big Animated Twist",
+    "title": "Marathon Is the Scariest Horror Game of 2026",
     "source": "Polygon",
-    "summary": "In a throwback to '90s anime, the new Street Fighter movie is part live-action, part animated. It's director explains why.",
-    "date": "Fri, 09 Oct 2026 17:02:27 GMT",
-    "link": "https://www.polygon.com/street-fighter-movie-animated-flashbacks-anime-inspiration/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "I might finally have gone too far with a GTA 5 mod that imports most of Doom 2",
-    "source": "PC Gamer",
-    "summary": "Insert sick riff here.",
-    "date": "Fri, 09 Oct 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-might-finally-have-gone-too-far-with-a-gta-5-mod-that-imports-most-of-doom-2/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Wardogs will bribe players with cash and XP to pick Blue team in Season 2",
-    "source": "PC Gamer",
-    "summary": "\"We're looking at how we can help the win rate of a certain team.\"",
-    "date": "Fri, 09 Oct 2026 16:29:00 +0000",
-    "link": "https://www.pcgamer.com/games/fps/wardogs-will-bribe-players-with-cash-and-xp-to-pick-blue-team-in-season-2/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.34,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "'I was nice to you three times in a row, so can I have one sex please?': Why Nivalis Nights intentionally avoided transactional romances",
-    "source": "PC Gamer",
-    "summary": "There's no HUD for love.",
-    "date": "Fri, 09 Oct 2026 15:46:07 +0000",
-    "link": "https://www.pcgamer.com/games/life-sim/i-was-nice-to-you-three-times-in-a-row-so-can-i-have-one-sex-please-why-nivalis-nights-intentionally-avoided-transactional-romances/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.55,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Worldwide PC shipments have plummeted by over 20%, to the surprise of absolutely no one",
-    "source": "PC Gamer",
-    "summary": "Could it be something to do with.... the memory crisis?",
-    "date": "Fri, 09 Oct 2026 15:32:22 +0000",
-    "link": "https://www.pcgamer.com/hardware/worldwide-pc-shipments-have-plummeted-by-over-20-percent-to-the-surprise-of-absolutely-no-one/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "Battlefield 6 Is Adding Something Fans Have Wanted Since Day 1",
-    "source": "GameSpot",
-    "summary": "EA and Battlefield Studios have unveiled more details on Battlefield 6's upcoming Season 5, and it includes a new feature that fans have wanted since day one: a proper server browser.\nBattlefield did indeed launch with a server browser, but--considering how it only supported Portal mode--it wasn't t...",
-    "date": "Fri, 09 Oct 2026 16:21:38 +0000",
-    "link": "https://www.gamespot.com/articles/battlefield-6-is-adding-something-fans-have-wanted-since-day-1/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "Street Fighter Was On Death’s Door, And Its Players Weren’t Getting Any Younger",
-    "source": "GameSpot",
-    "summary": "Street Fighter 5 launched in 2016 in rough shape, and if things hadn't changed, the classic fighting game franchise might have been dead and buried by 2026. That's according to Street Fighter 6 producer Shuhei Matsumoto and game director Takayuki Nakayama, who recently spoke about how Capcom's signa...",
-    "date": "Fri, 09 Oct 2026 15:42:21 +0000",
-    "link": "https://www.gamespot.com/articles/street-fighter-was-on-deaths-door-and-its-players-werent-getting-any-younger/",
+    "summary": "Player ambushes, powerful NPC enemy robots, and the fear of losing loot makes Marathon terrifying.",
+    "date": "Fri, 09 Oct 2026 22:40:48 GMT",
+    "link": "https://www.polygon.com/marathon-scariest-horror-game/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.13,
+      "score": -0.37,
       "badge": "danger"
     },
     "tags": [
@@ -321,33 +216,70 @@
     "read_time": "1 min read"
   },
   {
-    "id": 19,
-    "title": "Is GTA 6 Coming To Switch 2? Ask Rockstar, Nintendo Says",
+    "id": 13,
+    "title": "Let’s All Be Happy This AAA Minesweeper Game Isn’t Real",
     "source": "GameSpot",
-    "summary": "Rockstar's GTA 6 is the biggest game of 2026 and possibly ever, but it's not coming to Switch 2 ... or is it? Nintendo of America's new president, Devon Pritchard, was recently asked if GTA 6 is coming to Switch 2, and she didn't say yes or no. Instead, she said people should ask Rockstar and its ow...",
-    "date": "Fri, 09 Oct 2026 15:01:41 +0000",
-    "link": "https://www.gamespot.com/articles/is-gta-6-coming-to-switch-2-ask-rockstar-nintendo-says/",
+    "summary": "Minesweeper has been around for decades and it's probably overdue for some modern flourishes. Now there's a Triple-A Minesweeper parody that offers a hilarious look at what a Minesweeper update might look like.\nThe Triple-A Minesweeper was created by writer and programmer Mike Lacher, and it's fully...",
+    "date": "Fri, 09 Oct 2026 23:23:44 +0000",
+    "link": "https://www.gamespot.com/articles/lets-all-be-happy-this-aaa-minesweeper-game-isnt-real/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.23,
+      "badge": "success"
     },
     "tags": [
-      "Nintendo"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 20,
-    "title": "Is The BioShock Movie Ever Going To Happen? Director Weighs In",
+    "id": 14,
+    "title": "Call Of Duty: MW4 Early Access Also Includes DMZ, Here’s How To Get In",
     "source": "GameSpot",
-    "summary": "A movie adaptation of the popular game series BioShock has been in the works for a long time, and like a lot of film projects, it appears to be trapped in Development Hell. It remains to be seen how things will shake out with BioShock, but now its director has provided a positive-sounding update.\nFr...",
-    "date": "Fri, 09 Oct 2026 14:24:42 +0000",
-    "link": "https://www.gamespot.com/articles/is-the-bioshock-movie-ever-going-to-happen-director-weighs-in/",
+    "summary": "Call of Duty: Modern Warfare 4's campaign is playable a week early for people who preorder, and now we know the DMZ mode will be as well.\nActivision has announced that MW4's extraction-based DMZ mode will be playable starting Tuesday, October 20, which is three days before the game launches. Campaig...",
+    "date": "Fri, 09 Oct 2026 19:17:24 +0000",
+    "link": "https://www.gamespot.com/articles/call-of-duty-mw4-early-access-also-includes-dmz-heres-how-to-get-in/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Gears Of War: E-Day–How’s It Selling? Let’s Unpack Things",
+    "source": "GameSpot",
+    "summary": "Microsoft's latest console exclusive, Gears of War: E-Day, launched this week, and now we've gotten the first glimpse at how the game is performing commercially. Multiple analysts have weighed in, and there are numerous factors at play beyond pure sales, due to Game Pass and other factors. So let's ...",
+    "date": "Fri, 09 Oct 2026 18:41:40 +0000",
+    "link": "https://www.gamespot.com/articles/gears-of-war-e-day-hows-it-selling-lets-unpack-things/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": -0.01,
       "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Battlefield 6 Is Adding Something Fans Have Wanted Since Day 1",
+    "source": "GameSpot",
+    "summary": "EA and Battlefield Studios have unveiled more details on Battlefield 6's upcoming Season 5, and it includes a new feature that fans have wanted since day one: a proper server browser.\nBattlefield did indeed launch with a server browser, but--considering how it only supported Portal mode--it wasn't t...",
+    "date": "Fri, 09 Oct 2026 16:21:38 +0000",
+    "link": "https://www.gamespot.com/articles/battlefield-6-is-adding-something-fans-have-wanted-since-day-1/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
