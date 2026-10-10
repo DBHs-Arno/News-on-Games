@@ -1,73 +1,72 @@
 [
   {
     "id": 1,
-    "title": "Magic: The Gathering Marvel: Darkhold Destiny Preorders Are Now Live",
+    "title": "GTA 6 Leaker Threatens to Release Build With Full Story Mode Played to the End, Ties Lucia's Clothing to Crypto Scheme",
     "source": "IGN",
-    "summary": "Grab Play Boosters, Bundles, Commander Precons and more from Marvel's upcoming Darkhold Destiny set, launching in 2027",
-    "date": "Sat, 10 Oct 2026 08:38:45 +0000",
-    "link": "https://www.ign.com/articles/magic-the-gathering-marvel-darkhold-destiny-preorders-are-now-live",
+    "summary": "The GTA 6 leaker has reportedly threatened to release a build of the game with the full story mode played to the end, as part of their heavily criticized crypto scheme.",
+    "date": "Sat, 10 Oct 2026 16:23:47 +0000",
+    "link": "https://www.ign.com/articles/gta-6-leaker-threatens-to-release-build-with-full-story-mode-played-to-the-end-ties-lucias-clothing-to-crypto-scheme",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.38,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Magic: The Gathering Returns to Marvel with Darkhold Destiny",
+    "title": "Blumhouse Gives Updates on Paranormal Activity 8, Saw 11, River, Something Is Killing the Children, and More | NYCC 2026",
     "source": "IGN",
-    "summary": "Magic the Gathering and Marvel have already crossed over a couple of times with Spider-Man and the Marvel Super Heroes set last year. But for its third Marvel set, MTG is getting spooky with Darkhold Destiny.",
-    "date": "Sat, 10 Oct 2026 00:36:42 +0000",
-    "link": "https://www.ign.com/articles/magic-the-gathering-returns-to-marvel-with-darkhold-destiny",
+    "summary": "Friday night at New York Comic Con was all about Blumhouse, with a 90 minute \"Blumfest\" panel that was devoted to a ton of upcoming films from the combined forces of Jason Blum's Blumhouse and James Wan's Atomic Monster.",
+    "date": "Sat, 10 Oct 2026 16:13:51 +0000",
+    "link": "https://www.ign.com/articles/blumhouse-atomic-monster-nycc-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.27,
+      "score": 0.17,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "GTA 6 Fan Says Rockstar Sent Them a Poster Just Because They Asked Nicely",
+    "title": "Hands-on Impressions of Hoid's Storybook Collection by Brandon Sanderson",
     "source": "IGN",
-    "summary": "A Grand Theft Auto 6 fan in Brazil said they politely asked the Rockstar Games team to send them a poster – and it looks like they actually followed through.",
-    "date": "Fri, 9 Oct 2026 23:56:23 +0000",
-    "link": "https://www.ign.com/articles/gta-6-fan-says-rockstar-sent-them-a-poster-just-because-they-asked-nicely",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Final Fantasy 7 Revelation: I Played a New Slice from the Early Game With a Boss Fight | IGN Preview",
-    "source": "IGN",
-    "summary": "While our earlier previews described a giant open-world game absolutely chock-full of activities, it was nice to see that the story-intense linear bits are still there, and just as dramatic as they were in the first two games. Final Fantasy VII Revelation will ultimately be the conclusion to this ma...",
-    "date": "Fri, 9 Oct 2026 22:58:43 +0000",
-    "link": "https://www.ign.com/articles/final-fantasy-7-revelation-i-played-a-new-slice-from-the-early-game-with-a-boss-fight-ign-preview",
+    "summary": "",
+    "date": "Sat, 10 Oct 2026 15:30:00 +0000",
+    "link": "https://www.ign.com/articles/hands-on-impressions-of-hoids-storybook-cosmere-collection-by-brandon-sanderson",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "Star Citizen Single-Player Spinoff Squadron 42 Reemerges With Flashy New Trailer, Steam Wishlists, and Cast Confirmation",
+    "source": "IGN",
+    "summary": "Star Citizen developer Cloud Imperium Games has pulled back the curtain on single-player spinoff Squadron 42 with a new cinematic trailer, the launch of Steam wishlists, and a full cast reveal.",
+    "date": "Sat, 10 Oct 2026 15:00:00 +0000",
+    "link": "https://www.ign.com/articles/star-citizen-single-player-spinoff-squadron-42-reemerges-with-flashy-new-trailer-steam-wishlists-and-cast-confirmation",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "Steam"
     ],
     "read_time": "1 min read"
   },
@@ -84,8 +83,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -102,8 +101,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -120,8 +119,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -138,152 +137,152 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "There Has Never Been a Better Time To Get Into Star Wars",
+    "title": "10 Essential GameCube Games Still Missing From Switch Online",
     "source": "Polygon",
-    "summary": "Games like Star Wars Zero Company and Galactic Racer are making it easier than ever to get into Star Wars.",
-    "date": "Sat, 10 Oct 2026 12:00:15 GMT",
-    "link": "https://www.polygon.com/star-wars-zero-company-galactic-racer-newcomers/",
+    "summary": "The GameCube library on Switch Online is off to a fine start, but 10 additions would make it much better.",
+    "date": "Sat, 10 Oct 2026 18:00:17 GMT",
+    "link": "https://www.polygon.com/best-gamecube-games-missing-nintendo-switch-online/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.5,
+      "score": 0.18,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Persona’s Horrifying Dong Monster Will Haunt My Nightmares Forever",
+    "title": "Disney World and Disneyland Official Price Surge Concerns Attendees",
     "source": "Polygon",
-    "summary": "For decades, Atlus’s Shin Megami Tensei and Persona series have featured a horrifying demon peen inspired by Buddhist folklore",
-    "date": "Sat, 10 Oct 2026 10:00:15 GMT",
-    "link": "https://www.polygon.com/persona-atlus-scariest-mara/",
+    "summary": "Disney hikes ticket prices at Disney World and Disneyland prices, but there are still ways for fans to find affordable prices.",
+    "date": "Sat, 10 Oct 2026 17:34:51 GMT",
+    "link": "https://www.polygon.com/disney-world-disneyland-price-surge-october-2026/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.9,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Halo officially returns in 2 weeks with new release",
+    "title": "Black Clover is Officially Crunchyroll's Most-Liked Anime Of The Year",
     "source": "Polygon",
-    "summary": "There's even more Halo on the way",
-    "date": "Sat, 10 Oct 2026 10:00:15 GMT",
-    "link": "https://www.polygon.com/halo-novel-release-date/",
+    "summary": "Black Clover Season 2's first episode set a 2026 record on Crunchyroll in the week since its release",
+    "date": "Sat, 10 Oct 2026 17:01:28 GMT",
+    "link": "https://www.polygon.com/black-clover-season-2-premiere-most-liked-crunchyroll/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.32,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "Avatar: Seven Havens's Biggest Plot Twist May Be Hiding in Plain Sight",
+    "title": "59 Years Later, Star Trek's Definitive Time-Travel Episode is Getting a Major Update",
     "source": "Polygon",
-    "summary": "The show seems to be drawing on Buddhist tradition",
-    "date": "Sat, 10 Oct 2026 09:00:15 GMT",
-    "link": "https://www.polygon.com/avatar-seven-havens-seven-chakras/",
+    "summary": "“The City on the Edge of Forever” gave Kirk a tragic romance and created a time-travel formula Star Trek still follows today.",
+    "date": "Sat, 10 Oct 2026 17:00:17 GMT",
+    "link": "https://www.polygon.com/star-trek-city-on-the-edge-of-forever/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.21,
+      "score": -0.23,
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "'If you're skilful enough, you can chop the head off a monster, kick it midair, and then kill another monster with it': Consider me sold on this indie first-person ARPG",
+    "title": "Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard",
     "source": "PC Gamer",
-    "summary": "Heathen puts a new perspective on Diablo, and it looks brilliant.",
-    "date": "Sat, 10 Oct 2026 11:12:58 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/if-youre-skilful-enough-you-can-chop-the-head-off-a-monster-kick-it-midair-and-then-kill-another-monster-with-it-consider-me-sold-on-this-indie-first-person-arpg/",
+    "summary": "Siri, call my pawns.",
+    "date": "Sat, 10 Oct 2026 16:55:26 +0000",
+    "link": "https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.26,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "Mafia 3, which PC Gamer scored 54% but which I say is great, got a nice little 10th-anniversary update",
+    "title": "The studio behind Star Wars Zero Company is bringing back some of its furloughed staff",
     "source": "PC Gamer",
-    "summary": "As ever, I'm a genius tastemaker ahead of my time.",
-    "date": "Sat, 10 Oct 2026 11:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/third-person-shooter/mafia-3-which-pc-gamer-scored-54-percent-but-which-i-say-is-great-got-a-nice-little-10th-anniversary-update/",
+    "summary": "\"[The furlough] was an incredibly difficult decision, but one that was necessary to help us eventually bring back as many people as possible.\"",
+    "date": "Sat, 10 Oct 2026 16:52:57 +0000",
+    "link": "https://www.pcgamer.com/games/strategy/the-studio-behind-star-wars-zero-company-is-hiring-back-some-of-its-furloughed-staff/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.06,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "2026's OLED monitors can nearly recreate the sublime clarity of a '90s CRT, but Windows will have to change before we can achieve true nirvana",
+    "title": "WoW: Forever, by casting off modern convenience, has horseshoed back around to being casual friendly again",
     "source": "PC Gamer",
-    "summary": "All you need is a ridiculously fast monitor and endless patience for tinkering to get a glimpse of how good retro games looked in motion back in the '90s.",
-    "date": "Sat, 10 Oct 2026 00:20:52 +0000",
-    "link": "https://www.pcgamer.com/hardware/gaming-monitors/2026s-oled-monitors-can-nearly-recreate-the-sublime-clarity-of-a-90s-crt-but-windows-will-have-to-change-before-we-can-achieve-true-nirvana/",
+    "summary": "No Season-ing.",
+    "date": "Sat, 10 Oct 2026 15:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-by-casting-off-modern-convenience-has-horseshoed-back-around-to-being-casual-friendly-again/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "'Overcooked broke you apart and Stage Fright is there to put you back together'",
+    "title": "Triple-A Minesweeper is a gleeful send-up of blockbuster gaming's worst habits, from yellow paint to characters who talk too much",
     "source": "PC Gamer",
-    "summary": "Developers of the stressful cooking game series talk to PC Gamer about their more 'positive' co-op adventure.",
-    "date": "Fri, 09 Oct 2026 23:43:13 +0000",
-    "link": "https://www.pcgamer.com/games/adventure/overcooked-broke-you-apart-and-stage-fright-is-there-to-put-you-back-together/",
+    "summary": "\"Oof, a mine!\"",
+    "date": "Sat, 10 Oct 2026 14:07:03 +0000",
+    "link": "https://www.pcgamer.com/games/puzzle/triple-a-minesweeper-is-a-gleeful-send-up-of-blockbuster-gamings-worst-habits-from-yellow-paint-to-characters-who-talk-too-much/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.25,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -300,8 +299,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -318,8 +317,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -336,8 +335,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -354,8 +353,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
