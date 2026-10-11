@@ -1,286 +1,289 @@
 [
   {
     "id": 1,
-    "title": "Naruto Teasers Reveal New Shadow Rising Manga and Anime Crossover Series",
+    "title": "Tekken 8 Yujiro Teaser Reveals Baki Rep's In-Game Render Is Just as Uncanny as Fans Expected",
     "source": "IGN",
-    "summary": "Naruto is alive and well, as author Masashi Kishimoto has announced a new manga called Shadow Rising – and a new anime crossover series is on the way, too.",
-    "date": "Sun, 11 Oct 2026 00:00:43 +0000",
-    "link": "https://www.ign.com/articles/naruto-teasers-reveal-new-shadow-rising-manga-and-anime-crossover-series",
+    "summary": "Bandai Namco has revealed a first look at Tekken 8 DLC character Yujiro Hanma, and the Baki rep is looking just as uncanny as fans expected.",
+    "date": "Sun, 11 Oct 2026 16:03:05 +0000",
+    "link": "https://www.ign.com/articles/tekken-8-yujiro-teaser-reveals-baki-reps-in-game-render-is-just-as-uncanny-as-fans-expected",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.13,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Blade Runner 2099 Trailer Teases Replicant Mystery With Hunter Schafer and Michelle Yeoh",
+    "title": "‘I’m Shocked That People Are Still Playing’ – How GTA 5 Took Over the World",
     "source": "IGN",
-    "summary": "Prime Video has published a new Blade Runner 2099 trailer, revealing more about the mystery surrounding its missing Replicants, as well as the roles Hunter Schafer and Michelle Yeoh play in the story.",
-    "date": "Sat, 10 Oct 2026 23:55:59 +0000",
-    "link": "https://www.ign.com/articles/blade-runner-2099-trailer-teases-replicant-mystery-with-hunter-schafer-and-michelle-yeoh",
+    "summary": "Could GTA 6 be as big as its predecessor? We take a look at how GTA 5 became one of the biggest games in history, selling over 230m copies and being played by millions of people every week for over a decade.",
+    "date": "Sun, 11 Oct 2026 14:30:00 +0000",
+    "link": "https://www.ign.com/articles/im-shocked-that-people-are-still-playing-how-gta-5-took-over-the-world",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.35,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Arc Raiders' 2.0 Update and 'Spider-Man' Grappling Hook Drive Player Count to Reach 7-Month High",
+    "title": "Marvel Tokon DLC Roadmap Reveals First Look at Jane Foster Thor, Venom and Jubilee Coming in 2027",
     "source": "IGN",
-    "summary": "The new Arc Raiders 2.0 update has triggered a seven-month high for its concurrent player count on Steam as fans show up for its \"Spider-Man\" grappling hook, a new map, a free weekend, and more.",
-    "date": "Sat, 10 Oct 2026 21:07:54 +0000",
-    "link": "https://www.ign.com/articles/arc-raiders-20-update-and-spider-man-grappling-hook-drive-player-count-to-reach-7-month-high",
+    "summary": "Marvel Tokon: Fighting Souls will continue its Year 1 DLC roadmap with Thor (Jane Foster) this winter, with two more characters coming in 2027.",
+    "date": "Sun, 11 Oct 2026 14:29:41 +0000",
+    "link": "https://www.ign.com/articles/marvel-tokon-dlc-roadmap-reveals-first-look-at-jane-foster-thor-venom-and-jubilee-coming-in-2027",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.25,
+      "score": 0.38,
       "badge": "success"
     },
     "tags": [
-      "Steam"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Image Comics' Roam Reunites Paper Girls Creators Brian K. Vaughan and Cliff Chiang",
+    "title": "Wildwood Review",
     "source": "IGN",
-    "summary": "In one of the coolest announcements to come out of NYCC, IGN can exclusively reveal that Paper Girls creators Brian K. Vaughan and Cliff Chiang are reuniting for a new series called Roam.",
-    "date": "Sat, 10 Oct 2026 20:15:00 +0000",
-    "link": "https://www.ign.com/articles/image-comics-roam-reunites-paper-girls-creators-brian-k-vaughan-and-cliff-chiang",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release",
-    "source": "Eurogamer",
-    "summary": "Squadron 42, the single-player spin-off of Star Citizen, can now be wishlisted on Steam ahead of its planned Q2 2027 release. Read more...",
-    "date": "Sun, 11 Oct 2026 11:43:04 +0000",
-    "link": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game",
-    "source": "Eurogamer",
-    "summary": "A GTA 6 leaker has reportedly threatened to put out a complete, playable build of the game, start to finish. Read more...",
-    "date": "Sat, 10 Oct 2026 19:42:21 +0000",
-    "link": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam",
-    "source": "Eurogamer",
-    "summary": "Strange Scaffold, the studio behind I Am Your Beast and El Paso, Elsewhere, has announced Gods With Badges, a narrative tactics game about the power police hold over life and death. Read more...",
-    "date": "Sat, 10 Oct 2026 19:09:19 +0000",
-    "link": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.13,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
-    "source": "Eurogamer",
-    "summary": "It looks like Bokeh Game Studio, founded by Keiichiro Toyama, who directed the original Silent Hill and created Siren and Gravity Rush, is working on another horror game. Read more...",
-    "date": "Sat, 10 Oct 2026 11:44:06 +0000",
-    "link": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "4 Years Later, Matt Mercer's Best Critical Role Quote is a Perfect D&D Slogan",
-    "source": "Polygon",
-    "summary": "Critical Role and Critters are like two peas in a pod, but three years ago, the company's DM gently reprimanded more entitled fans.",
-    "date": "Sun, 11 Oct 2026 12:00:16 GMT",
-    "link": "https://www.polygon.com/critical-role-matthew-mercer-best-quote/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.39,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Star Wars Has a Real Shot at GOTY for the First Time in 23 Years",
-    "source": "Polygon",
-    "summary": "Star Wars: Zero Company and Galactic Racer have real heat and are loved by critics, but The Game Awards might ignore them anyway",
-    "date": "Sun, 11 Oct 2026 11:30:16 GMT",
-    "link": "https://www.polygon.com/goty-game-awards-star-wars-zero-company-galactic-racer/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.19,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Stephen King's Favorite Stephen King Movie, That Critics Hated, Is Officially on Netflix",
-    "source": "Polygon",
-    "summary": "Stephen King isn't afraid to call out a bad adaptation of his original work.",
-    "date": "Sun, 11 Oct 2026 11:00:17 GMT",
-    "link": "https://www.polygon.com/stephen-king-the-boogeyman-adaptation/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.26,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "65 Years Later, The Greatest 'Peanuts' Comic Strip Ever is Still an Adorable Masterpiece",
-    "source": "Polygon",
-    "summary": "Out of 17,897 comic strips by Peanuts creator Charles Schulz, this masterpiece starring Snoopy and Charlie Brown is the best",
-    "date": "Sun, 11 Oct 2026 10:00:15 GMT",
-    "link": "https://www.polygon.com/best-peanuts-comic-strip-ever/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years",
-    "source": "PC Gamer",
-    "summary": "I wanna be a part of it, New York, New York.",
-    "date": "Sun, 11 Oct 2026 11:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/moba/deadlocks-city-never-sleeps-update-makes-valves-moba-my-favorite-videogame-setting-in-years/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.26,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives",
-    "source": "PC Gamer",
-    "summary": "Plans for a 30th Anniversary Edition of the classic space sim were revealed at Portland Gaming Expo.",
-    "date": "Sun, 11 Oct 2026 10:31:02 +0000",
-    "link": "https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.27,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "GTA 6 leaker threatens to upload a build with 'full story mode'",
-    "source": "PC Gamer",
-    "summary": "\"Take-Two gets one way out: physical disks and a public apology.\"",
-    "date": "Sat, 10 Oct 2026 23:32:29 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-to-upload-a-build-with-full-story-mode/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Squadron 42 has a Steam page",
-    "source": "PC Gamer",
-    "summary": "Star Citizen's singleplayer mode gets a new trailer and more signs of life.",
-    "date": "Sat, 10 Oct 2026 22:25:54 +0000",
-    "link": "https://www.pcgamer.com/games/fps/squadron-42-has-a-steam-page/",
+    "summary": "Review: Wildwood is an arresting, exciting fantasy epic made all the more impressive by the fact that it’s handmade and hand-animated, even if some story stumbles occasionally hold it back.",
+    "date": "Sun, 11 Oct 2026 13:15:00 +0000",
+    "link": "https://www.ign.com/articles/wildwood-review",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.32,
       "badge": "success"
     },
     "tags": [
-      "Steam"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November",
+    "source": "Eurogamer",
+    "summary": "Marvel T&omacrkon: Fighting Souls has revealed its full Year 1 DLC roster, with Phoenix Cyclops, Thor (Jane Foster), Venom, and Jubilee all on the way. Read more...",
+    "date": "Sun, 11 Oct 2026 17:28:25 +0000",
+    "link": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.21,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Escape the Backrooms is throwing an After Party with three new levels this December",
+    "source": "Eurogamer",
+    "summary": "Escape the Backrooms is adding three new levels this December, as part of a party-themed update called the After Party. Read more...",
+    "date": "Sun, 11 Oct 2026 17:07:55 +0000",
+    "link": "https://www.eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.26,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
+    "source": "Eurogamer",
+    "summary": "GTA 6 leaker CyberLeek is back with another video, this time with a naked Lucia taking a parachute jump off a rooftop. Read more...",
+    "date": "Sun, 11 Oct 2026 12:27:09 +0000",
+    "link": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Phasmophobia confirms 30 million sales as its Crimson Eye Halloween event returns",
+    "source": "Eurogamer",
+    "summary": "Phasmophobia has sold more than 30 million copies across PC and console since it launched in Early Access in 2020. Read more...",
+    "date": "Sun, 11 Oct 2026 12:06:58 +0000",
+    "link": "https://www.eurogamer.net/phasmophobia-30-million-sales-crimson-eye-event",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.37,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "9 Most Haunted Masks in The Legend of Zelda: Majora's Mask, Ranked",
+    "source": "Polygon",
+    "summary": "The Legend of Zelda: Majora's Mask has 24 masks, and plenty come with a previous owner who isn’t coming back. These are the nine most haunted.",
+    "date": "Sun, 11 Oct 2026 17:00:17 GMT",
+    "link": "https://www.polygon.com/zelda-majoras-masks-scariest-ranked/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.21,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "To Reinvent a Stephen King Classic, Mike Flanagan Needed \"One of the Best Actors I’ve Ever Met\"",
+    "source": "Polygon",
+    "summary": "Prime Video’s Carrie reboot hinges on one major change that only Samantha Sloyan could pull off",
+    "date": "Sun, 11 Oct 2026 16:00:16 GMT",
+    "link": "https://www.polygon.com/carrie-interview-mike-flanagan-samantha-sloyan/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.31,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "Godzilla Minus Zero's Latest Trailer Continues Teasing A New Monstrous Threat",
+    "source": "Polygon",
+    "summary": "A new threat emerges in the latest trailer for Godzilla Minus Zero, suggesting that Gidorah will show up in the highly-anticipated sequel",
+    "date": "Sun, 11 Oct 2026 15:15:25 GMT",
+    "link": "https://www.polygon.com/godzilla-minus-zero-second-trailer/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.18,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Halo Already Delivered the Perfect Master Chief Origin Story, 25 Years Ago",
+    "source": "Polygon",
+    "summary": "Halo: The Fall of Reach gave Master Chief a definitive origin story 25 years ago — and any new prequel should follow its example.",
+    "date": "Sun, 11 Oct 2026 15:00:17 GMT",
+    "link": "https://www.polygon.com/halo-activision-master-chief-origin-story-fall-of-reach/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.57,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Nier creator Yoko Taro says he's achieved his career dreams, but he continues working because it's 'good for preventing dementia'",
+    "source": "PC Gamer",
+    "summary": "\"With Drakengard, the first game I was given the opportunity to direct, I was actually able to do almost everything the way I wanted.\"",
+    "date": "Sun, 11 Oct 2026 17:16:19 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/nier-creator-yoko-taro-says-hes-achieved-his-career-dreams-but-he-continues-working-because-its-good-for-preventing-dementia/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.23,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Arc Raiders 2.0 is here, and you can finally turn those lights on your backpack off",
+    "source": "PC Gamer",
+    "summary": "Just because I'm sneaking around doesn't mean I don't want to look my best.",
+    "date": "Sun, 11 Oct 2026 17:09:57 +0000",
+    "link": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-2-0-is-here-and-you-can-finally-turn-those-lights-on-your-backpack-off/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.23,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "RPGs are simply better when you're an idiot",
+    "source": "PC Gamer",
+    "summary": "I just can't relate to these capable heroes.",
+    "date": "Sun, 11 Oct 2026 16:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/rpgs-are-simply-better-when-youre-an-idiot/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Escape from EloHello has me reliving my worst online PvP nightmares in roguelike-form",
+    "source": "PC Gamer",
+    "summary": "My back hurts from carrying so hard.",
+    "date": "Sun, 11 Oct 2026 15:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/roguelike/escape-from-elohello-has-me-reliving-my-worst-online-pvp-nightmares-in-roguelike-form/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.43,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -297,8 +300,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -315,8 +318,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -333,8 +336,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -351,8 +354,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
