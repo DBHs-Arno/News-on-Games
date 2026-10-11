@@ -72,6 +72,23 @@
   },
   {
     "id": 5,
+    "title": "Squadron 42 opens for Steam wishlisting ahead of a planned Q2 2027 release",
+    "source": "Eurogamer",
+    "summary": "Squadron 42, the single-player spin-off of Star Citizen, can now be wishlisted on Steam ahead of its planned Q2 2027 release. Read more...",
+    "date": "Sun, 11 Oct 2026 11:43:04 +0000",
+    "link": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
     "title": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game",
     "source": "Eurogamer",
     "summary": "A GTA 6 leaker has reportedly threatened to put out a complete, playable build of the game, start to finish. Read more...",
@@ -89,7 +106,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam",
     "source": "Eurogamer",
     "summary": "Strange Scaffold, the studio behind I Am Your Beast and El Paso, Elsewhere, has announced Gods With Badges, a narrative tactics game about the power police hold over life and death. Read more...",
@@ -107,7 +124,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
     "source": "Eurogamer",
     "summary": "It looks like Bokeh Game Studio, founded by Keiichiro Toyama, who directed the original Silent Hill and created Siren and Gravity Rush, is working on another horror game. Read more...",
@@ -125,12 +142,66 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "Arc Raiders could eventually be split into PvE and PvP, says executive producer",
-    "source": "Eurogamer",
-    "summary": "Arc Raiders could eventually be split into PvE and PvP modes. Read more...",
-    "date": "Sat, 10 Oct 2026 11:21:05 +0000",
-    "link": "https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer",
+    "id": 9,
+    "title": "4 Years Later, Matt Mercer's Best Critical Role Quote is a Perfect D&D Slogan",
+    "source": "Polygon",
+    "summary": "Critical Role and Critters are like two peas in a pod, but three years ago, the company's DM gently reprimanded more entitled fans.",
+    "date": "Sun, 11 Oct 2026 12:00:16 GMT",
+    "link": "https://www.polygon.com/critical-role-matthew-mercer-best-quote/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.39,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Star Wars Has a Real Shot at GOTY for the First Time in 23 Years",
+    "source": "Polygon",
+    "summary": "Star Wars: Zero Company and Galactic Racer have real heat and are loved by critics, but The Game Awards might ignore them anyway",
+    "date": "Sun, 11 Oct 2026 11:30:16 GMT",
+    "link": "https://www.polygon.com/goty-game-awards-star-wars-zero-company-galactic-racer/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.19,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "Stephen King's Favorite Stephen King Movie, That Critics Hated, Is Officially on Netflix",
+    "source": "Polygon",
+    "summary": "Stephen King isn't afraid to call out a bad adaptation of his original work.",
+    "date": "Sun, 11 Oct 2026 11:00:17 GMT",
+    "link": "https://www.polygon.com/stephen-king-the-boogeyman-adaptation/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.26,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "65 Years Later, The Greatest 'Peanuts' Comic Strip Ever is Still an Adorable Masterpiece",
+    "source": "Polygon",
+    "summary": "Out of 17,897 comic strips by Peanuts creator Charles Schulz, this masterpiece starring Snoopy and Charlie Brown is the best",
+    "date": "Sun, 11 Oct 2026 10:00:15 GMT",
+    "link": "https://www.polygon.com/best-peanuts-comic-strip-ever/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.5,
@@ -143,79 +214,43 @@
     "read_time": "1 min read"
   },
   {
-    "id": 9,
-    "title": "Gary Larson's 10 Greatest 'Far Side' Comics, Ranked",
-    "source": "Polygon",
-    "summary": "Gary Larson's comic strip The Far Side was at its greatest when it was really, really funny. That's why is these are his 10 best comics",
-    "date": "Sun, 11 Oct 2026 05:04:16 GMT",
-    "link": "https://www.polygon.com/gary-larson-best-far-side-comics-ranked/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.53,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Forget a 'Halloween' Rewatch, Dan Stevens' Best Horror Movie Is a Slasher Surprise",
-    "source": "Polygon",
-    "summary": "Dan Stevens’ forgotten horror movie, 'The Guest,' turned Downton Abbey’s golden boy into Michael Myers with a machine gun",
-    "date": "Sun, 11 Oct 2026 04:00:23 GMT",
-    "link": "https://www.polygon.com/the-guest-halloween-countdown-2026/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.65,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "13 Years Later, Little Finger's Best 'Game of Thrones' Quote is Still a All-Time Great HBO Line",
-    "source": "Polygon",
-    "summary": "Game of Thrones has plenty of phenomenal quotes, but none quite as hard-hitting as this epic one-liner from Littlefinger.",
-    "date": "Sun, 11 Oct 2026 03:00:16 GMT",
-    "link": "https://www.polygon.com/game-of-thrones-best-littlefinger-quote/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.18,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "26 Years Ago, 'Buffy's Worst Character Got the Replacement He Desperately Needed",
-    "source": "Polygon",
-    "summary": "Xander is forced to undergo an existential crisis at a crucial point in his life.",
-    "date": "Sun, 11 Oct 2026 01:00:15 GMT",
-    "link": "https://www.polygon.com/buffy-the-vampire-slayer-episode-xander/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.48,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 13,
+    "title": "Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years",
+    "source": "PC Gamer",
+    "summary": "I wanna be a part of it, New York, New York.",
+    "date": "Sun, 11 Oct 2026 11:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/moba/deadlocks-city-never-sleeps-update-makes-valves-moba-my-favorite-videogame-setting-in-years/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.26,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives",
+    "source": "PC Gamer",
+    "summary": "Plans for a 30th Anniversary Edition of the classic space sim were revealed at Portland Gaming Expo.",
+    "date": "Sun, 11 Oct 2026 10:31:02 +0000",
+    "link": "https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.27,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
     "title": "GTA 6 leaker threatens to upload a build with 'full story mode'",
     "source": "PC Gamer",
     "summary": "\"Take-Two gets one way out: physical disks and a public apology.\"",
@@ -233,7 +268,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "Squadron 42 has a Steam page",
     "source": "PC Gamer",
     "summary": "Star Citizen's singleplayer mode gets a new trailer and more signs of life.",
@@ -246,42 +281,6 @@
     },
     "tags": [
       "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard",
-    "source": "PC Gamer",
-    "summary": "Siri, call my pawns.",
-    "date": "Sat, 10 Oct 2026 16:55:26 +0000",
-    "link": "https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "The studio behind Star Wars Zero Company is bringing back some of its furloughed staff",
-    "source": "PC Gamer",
-    "summary": "\"[The furlough] was an incredibly difficult decision, but one that was necessary to help us eventually bring back as many people as possible.\"",
-    "date": "Sat, 10 Oct 2026 16:52:57 +0000",
-    "link": "https://www.pcgamer.com/games/strategy/the-studio-behind-star-wars-zero-company-is-hiring-back-some-of-its-furloughed-staff/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
     ],
     "read_time": "1 min read"
   },
