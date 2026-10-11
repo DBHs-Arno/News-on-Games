@@ -1,32 +1,31 @@
 [
   {
     "id": 1,
-    "title": "GTA 6 Leaker Threatens to Release Build With Full Story Mode Played to the End, Ties Lucia's Clothing to Crypto Scheme",
+    "title": "Arc Raiders' 2.0 Update and 'Spider-Man' Grappling Hook Drive Player Count to Reach 7-Month High",
     "source": "IGN",
-    "summary": "The GTA 6 leaker has reportedly threatened to release a build of the game with the full story mode played to the end, as part of their heavily criticized crypto scheme.",
-    "date": "Sat, 10 Oct 2026 16:23:47 +0000",
-    "link": "https://www.ign.com/articles/gta-6-leaker-threatens-to-release-build-with-full-story-mode-played-to-the-end-ties-lucias-clothing-to-crypto-scheme",
+    "summary": "The new Arc Raiders 2.0 update has triggered a seven-month high for its concurrent player count on Steam as fans show up for its \"Spider-Man\" grappling hook, a new map, a free weekend, and more.",
+    "date": "Sat, 10 Oct 2026 21:07:54 +0000",
+    "link": "https://www.ign.com/articles/arc-raiders-20-update-and-spider-man-grappling-hook-drive-player-count-to-reach-7-month-high",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Blumhouse Gives Updates on Paranormal Activity 8, Saw 11, River, Something Is Killing the Children, and More | NYCC 2026",
+    "title": "Image Comics' Roam Reunites Paper Girls Creators Brian K. Vaughan and Cliff Chiang",
     "source": "IGN",
-    "summary": "Friday night at New York Comic Con was all about Blumhouse, with a 90 minute \"Blumfest\" panel that was devoted to a ton of upcoming films from the combined forces of Jason Blum's Blumhouse and James Wan's Atomic Monster.",
-    "date": "Sat, 10 Oct 2026 16:13:51 +0000",
-    "link": "https://www.ign.com/articles/blumhouse-atomic-monster-nycc-2026",
+    "summary": "In one of the coolest announcements to come out of NYCC, IGN can exclusively reveal that Paper Girls creators Brian K. Vaughan and Cliff Chiang are reuniting for a new series called Roam.",
+    "date": "Sat, 10 Oct 2026 20:15:00 +0000",
+    "link": "https://www.ign.com/articles/image-comics-roam-reunites-paper-girls-creators-brian-k-vaughan-and-cliff-chiang",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.17,
+      "score": 0.14,
       "badge": "success"
     },
     "tags": [
@@ -37,14 +36,14 @@
   },
   {
     "id": 3,
-    "title": "Hands-on Impressions of Hoid's Storybook Collection by Brandon Sanderson",
+    "title": "Crystal Lake Showrunner on Retelling the Friday the 13th Story: ‘It's Always Ripe for Reinterpretation’",
     "source": "IGN",
-    "summary": "",
-    "date": "Sat, 10 Oct 2026 15:30:00 +0000",
-    "link": "https://www.ign.com/articles/hands-on-impressions-of-hoids-storybook-cosmere-collection-by-brandon-sanderson",
+    "summary": "We spoke to Crystal Lake showrunner Brad Caleb Kane, star Linda Cardellini, and other cast members about retelling the Friday the 13th story.",
+    "date": "Sat, 10 Oct 2026 18:27:48 +0000",
+    "link": "https://www.ign.com/articles/crystal-lake-showrunner-on-retelling-the-friday-the-13th-story-its-always-ripe-for-reinterpretation",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": -0.04,
       "badge": "info"
     },
     "tags": [
@@ -55,23 +54,60 @@
   },
   {
     "id": 4,
-    "title": "Star Citizen Single-Player Spinoff Squadron 42 Reemerges With Flashy New Trailer, Steam Wishlists, and Cast Confirmation",
+    "title": "DC Legend Grant Morrison Criticizes 'Morally and Legally Incoherent' Lanterns Finale",
     "source": "IGN",
-    "summary": "Star Citizen developer Cloud Imperium Games has pulled back the curtain on single-player spinoff Squadron 42 with a new cinematic trailer, the launch of Steam wishlists, and a full cast reveal.",
-    "date": "Sat, 10 Oct 2026 15:00:00 +0000",
-    "link": "https://www.ign.com/articles/star-citizen-single-player-spinoff-squadron-42-reemerges-with-flashy-new-trailer-steam-wishlists-and-cast-confirmation",
+    "summary": "DC veteran Grant Morrison reviewed Lanterns, and they had more than a few criticisms of its \"morally and legally incoherent\" finale.",
+    "date": "Sat, 10 Oct 2026 18:16:30 +0000",
+    "link": "https://www.ign.com/articles/dc-legend-grant-morrison-criticizes-morally-and-legally-incoherent-lanterns-finale",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.02,
+      "score": -0.01,
       "badge": "info"
     },
     "tags": [
-      "Steam"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game",
+    "source": "Eurogamer",
+    "summary": "A GTA 6 leaker has reportedly threatened to put out a complete, playable build of the game, start to finish. Read more...",
+    "date": "Sat, 10 Oct 2026 19:42:21 +0000",
+    "link": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam",
+    "source": "Eurogamer",
+    "summary": "Strange Scaffold, the studio behind I Am Your Beast and El Paso, Elsewhere, has announced Gods With Badges, a narrative tactics game about the power police hold over life and death. Read more...",
+    "date": "Sat, 10 Oct 2026 19:09:19 +0000",
+    "link": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.13,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
     "title": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
     "source": "Eurogamer",
     "summary": "It looks like Bokeh Game Studio, founded by Keiichiro Toyama, who directed the original Silent Hill and created Siren and Gravity Rush, is working on another horror game. Read more...",
@@ -89,7 +125,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "Arc Raiders could eventually be split into PvE and PvP, says executive producer",
     "source": "Eurogamer",
     "summary": "Arc Raiders could eventually be split into PvE and PvP modes. Read more...",
@@ -107,51 +143,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 7,
-    "title": "Konami is already thinking about the next wave of Silent Hill games",
-    "source": "Eurogamer",
-    "summary": "Silent Hill producer Motoi Okamoto says Konami is looking at \"a number of projects\" after the first wave of new Silent Hill games. Read more...",
-    "date": "Sat, 10 Oct 2026 10:38:48 +0000",
-    "link": "https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.13,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "After modders removed Skate's live service bits, devs draw the line with tools that \"bypass our systems to unlock paid cosmetics\"",
-    "source": "Eurogamer",
-    "summary": "EA and Full Circle - the developer behind the new early access Skate game (skate.) - don't have a problem with modders and \"creativity from players,\" but they're drawing the line with mods that aim to unlock paid microtransactions and unreleased content. Read more...",
-    "date": "Fri, 09 Oct 2026 20:17:03 +0000",
-    "link": "https://www.eurogamer.net/skate-mods-live-service-ea-unlock-paid-cosmetics",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 9,
-    "title": "10 Essential GameCube Games Still Missing From Switch Online",
+    "title": "Blade Runner 2099's New York Comic Con Trailer Teases A New Replicant Conspiracy",
     "source": "Polygon",
-    "summary": "The GameCube library on Switch Online is off to a fine start, but 10 additions would make it much better.",
-    "date": "Sat, 10 Oct 2026 18:00:17 GMT",
-    "link": "https://www.polygon.com/best-gamecube-games-missing-nintendo-switch-online/",
+    "summary": "Blade Runner 2099 debuted a new trailer featuring Hunter Schafer and Michelle Yeoh at a New York Comic Con panel",
+    "date": "Sat, 10 Oct 2026 23:45:16 GMT",
+    "link": "https://www.polygon.com/blade-runner-2099-new-york-comic-con/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.18,
+      "score": 0.17,
       "badge": "success"
     },
     "tags": [
@@ -162,15 +162,15 @@
   },
   {
     "id": 10,
-    "title": "Disney World and Disneyland Official Price Surge Concerns Attendees",
+    "title": "2024's Most Inventive Slasher Movie Officially Sets Sequel Release Date",
     "source": "Polygon",
-    "summary": "Disney hikes ticket prices at Disney World and Disneyland prices, but there are still ways for fans to find affordable prices.",
-    "date": "Sat, 10 Oct 2026 17:34:51 GMT",
-    "link": "https://www.polygon.com/disney-world-disneyland-price-surge-october-2026/",
+    "summary": "In A Violent Nature 2 was confirmed for a February 2027 theatrical release date by Shudder and IFC at New York Comic Con on Oct. 10.",
+    "date": "Sat, 10 Oct 2026 23:30:16 GMT",
+    "link": "https://www.polygon.com/in-a-violent-nature-2-horror-movie-release-date-shudder/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -180,14 +180,14 @@
   },
   {
     "id": 11,
-    "title": "Black Clover is Officially Crunchyroll's Most-Liked Anime Of The Year",
+    "title": "Forget John Wick, the Ultimate Action Thriller of the Century Is Officially Streaming on Netflix",
     "source": "Polygon",
-    "summary": "Black Clover Season 2's first episode set a 2026 record on Crunchyroll in the week since its release",
-    "date": "Sat, 10 Oct 2026 17:01:28 GMT",
-    "link": "https://www.polygon.com/black-clover-season-2-premiere-most-liked-crunchyroll/",
+    "summary": "Denzel Washington is at his most terrifying in this brutally satisfying action thriller.",
+    "date": "Sat, 10 Oct 2026 23:00:16 GMT",
+    "link": "https://www.polygon.com/the-equalizer-is-streaming-on-netflix/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.03,
+      "score": 0.03,
       "badge": "info"
     },
     "tags": [
@@ -198,15 +198,15 @@
   },
   {
     "id": 12,
-    "title": "59 Years Later, Star Trek's Definitive Time-Travel Episode is Getting a Major Update",
+    "title": "Naruto To Get New Manga, Crossover Anime, And More Before The End Of The Decade",
     "source": "Polygon",
-    "summary": "“The City on the Edge of Forever” gave Kirk a tragic romance and created a time-travel formula Star Trek still follows today.",
-    "date": "Sat, 10 Oct 2026 17:00:17 GMT",
-    "link": "https://www.polygon.com/star-trek-city-on-the-edge-of-forever/",
+    "summary": "At New York Comic Con, several new Naruto projects were announced as part of the Project Rasengan roadmap",
+    "date": "Sat, 10 Oct 2026 22:47:07 GMT",
+    "link": "https://www.polygon.com/naruto-roadmap-project-rasengan/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.23,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.19,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -216,6 +216,41 @@
   },
   {
     "id": 13,
+    "title": "GTA 6 leaker threatens to upload a build with 'full story mode'",
+    "source": "PC Gamer",
+    "summary": "\"Take-Two gets one way out: physical disks and a public apology.\"",
+    "date": "Sat, 10 Oct 2026 23:32:29 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-to-upload-a-build-with-full-story-mode/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Squadron 42 has a Steam page",
+    "source": "PC Gamer",
+    "summary": "Star Citizen's singleplayer mode gets a new trailer and more signs of life.",
+    "date": "Sat, 10 Oct 2026 22:25:54 +0000",
+    "link": "https://www.pcgamer.com/games/fps/squadron-42-has-a-steam-page/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.32,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
     "title": "Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard",
     "source": "PC Gamer",
     "summary": "Siri, call my pawns.",
@@ -233,7 +268,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "The studio behind Star Wars Zero Company is bringing back some of its furloughed staff",
     "source": "PC Gamer",
     "summary": "\"[The furlough] was an incredibly difficult decision, but one that was necessary to help us eventually bring back as many people as possible.\"",
@@ -243,42 +278,6 @@
       "label": "Neutral / Informative",
       "score": -0.06,
       "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "WoW: Forever, by casting off modern convenience, has horseshoed back around to being casual friendly again",
-    "source": "PC Gamer",
-    "summary": "No Season-ing.",
-    "date": "Sat, 10 Oct 2026 15:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-by-casting-off-modern-convenience-has-horseshoed-back-around-to-being-casual-friendly-again/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Triple-A Minesweeper is a gleeful send-up of blockbuster gaming's worst habits, from yellow paint to characters who talk too much",
-    "source": "PC Gamer",
-    "summary": "\"Oof, a mine!\"",
-    "date": "Sat, 10 Oct 2026 14:07:03 +0000",
-    "link": "https://www.pcgamer.com/games/puzzle/triple-a-minesweeper-is-a-gleeful-send-up-of-blockbuster-gamings-worst-habits-from-yellow-paint-to-characters-who-talk-too-much/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.25,
-      "badge": "danger"
     },
     "tags": [
       "News",
