@@ -1,78 +1,131 @@
 [
   {
     "id": 1,
-    "title": "Why Paying \"Market Price\" for Rare Pokémon Card Sets Somehow Became The New Normal",
+    "title": "Miami Vice '85 Pictures Reveal First Look at Michael B. Jordan and Austin Butler in Costume",
     "source": "IGN",
-    "summary": "Pokémon TCG market prices often exceed MSRP, but they can help collectors avoid scalpers' worst prices, so here's why fans still rely on them.",
-    "date": "Mon, 12 Oct 2026 10:36:19 +0000",
-    "link": "https://www.ign.com/articles/why-paying-market-price-pokemon-cards-the-new-normal",
+    "summary": "Universal has revealed first-look pictures of Miami Vice '85 showing Michael B. Jordan as Ricardo Tubbs and Austin Butler as James 'Sonny' Crockett.",
+    "date": "Mon, 12 Oct 2026 15:04:38 +0000",
+    "link": "https://www.ign.com/articles/miami-vice-85-pictures-reveal-first-look-at-michael-b-jordan-and-austin-butler-in-costume",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.1,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "The Best Books You Can Read In October 2026",
+    "title": "The Folio Society's Japanese Ghost Stories Hardcover Is the Perfect Halloween Companion",
     "source": "IGN",
-    "summary": "From sci-fi to romance and thrillers, here are the best books you'll find on store shelves in October 2026",
-    "date": "Mon, 12 Oct 2026 10:31:24 +0000",
-    "link": "https://www.ign.com/articles/the-best-books-you-can-read-in-october-2026",
+    "summary": "The classic horror collection Japanese Ghost Stories is getting a deluxe new hardcover edition from The Folio Society, and we have an exclusive preview of some of the haunting illustrations.",
+    "date": "Mon, 12 Oct 2026 15:00:00 +0000",
+    "link": "https://www.ign.com/articles/the-folio-societys-japanese-ghost-stories-hardcover-is-the-perfect-halloween-companion",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 1.0,
+      "score": 0.32,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Why Games Workshop's Falling Share Price Is All of a Sudden in the News",
+    "title": "Movie Retailer Zavvi Warns Customers to Stop Buying From Its Site as It Enters Administration",
     "source": "IGN",
-    "summary": "Warhammer 40,000 maker Games Workshop has found itself in the news for its falling share price, which has left some wondering what’s going on behind the scenes.",
-    "date": "Mon, 12 Oct 2026 10:30:19 +0000",
-    "link": "https://www.ign.com/articles/why-games-workshops-falling-share-price-is-all-of-a-sudden-in-the-news",
+    "summary": "Movie retailer Zavvi has entered administration, a legal concept similar to bankruptcy, and has warned customers not to place new orders.",
+    "date": "Mon, 12 Oct 2026 14:47:48 +0000",
+    "link": "https://www.ign.com/articles/movie-retailer-zavvi-warns-customers-to-stop-buying-from-its-site-as-it-enters-administration",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.13,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Gears of War: E-Day Dev Confirms DDoS Attack",
+    "title": "I Tested Over a Dozen Gaming Earbuds, These Are the Best Ones",
     "source": "IGN",
-    "summary": "Gears of War: E-Day suffered a DDoS attack over the weekend, developer The Coalition has said.",
-    "date": "Mon, 12 Oct 2026 09:33:07 +0000",
-    "link": "https://www.ign.com/articles/gears-of-war-e-day-dev-confirms-ddos-attack",
+    "summary": "Start gaming without a bulky headset and get yourself a pair of earbuds that sound just as good.",
+    "date": "Mon, 12 Oct 2026 14:22:36 +0000",
+    "link": "https://www.ign.com/articles/best-gaming-earbuds",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.7,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Dragon Quest co-creator Yuji Horii releases new AI-generated game, and he says it took 30 minutes to make",
+    "source": "Eurogamer",
+    "summary": "Dragon Quest co-creator Yuji Horii has just released a new game that he says was made (or, rather, prompted) in about half an hour thanks to gen-AI. Read more...",
+    "date": "Mon, 12 Oct 2026 17:15:59 +0000",
+    "link": "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 5,
+    "id": 6,
+    "title": "Arc Raiders player-numbers rebound with the launch of Frozen Trail and the game's 2.0 release, but they might be deceptively high",
+    "source": "Eurogamer",
+    "summary": "Arc Raiders has clearly managed to entice back lapsed players with its latest update, Frozen Trail, which upgrades the game to version 2.0. Many players see it as a re-launch of the popular extraction shooter, and the numbers back that up. Read more...",
+    "date": "Mon, 12 Oct 2026 14:20:08 +0000",
+    "link": "https://www.eurogamer.net/arc-raiders-frozen-trail-2-0-update-steam-player-numbers",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Starfield seamless planetary landings are finally nearly a thing, thanks to one modder's tireless work",
+    "source": "Eurogamer",
+    "summary": "For many Starfield players, the need to go through a loading screen each time you want to land on a planet - rather than seamlessly travel through the planet's atmosphere like in No Man's Sky - was a big turn-off. Read more...",
+    "date": "Mon, 12 Oct 2026 12:56:58 +0000",
+    "link": "https://www.eurogamer.net/starfield-mod-seamless-planetary-landings",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.21,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
     "title": "Nintendo executive confirms company has \"no plans to ditch physical games\"",
     "source": "Eurogamer",
     "summary": "Bill van Zyll, VP and general manager for Nintendo in Latin America, has reiterated Nintendo's stance on physical media, confirming that the company has no immediate plans to move to an 'all-digital' future. Read more...",
@@ -89,268 +142,216 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "Gears of War: E-Day server crashes and login problems are because of DDoS attacks, studio says",
-    "source": "Eurogamer",
-    "summary": "Gears of War: E-Day's servers have been struggling because they've been suffering distributed denial-of-service (DDoS) attacks, apparently - so someone, or some people, have been deliberately trying to overload them. Read more...",
-    "date": "Mon, 12 Oct 2026 11:38:55 +0000",
-    "link": "https://www.eurogamer.net/gears-of-war-e-day-server-crashes-login-issues-ddos",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.28,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "For the second time this year, Steam has set a major new concurrent user record",
-    "source": "Eurogamer",
-    "summary": "There's clearly no stopping Steam's continued growth. Valve's PC digital store and social platform set a new user concurrent record on Sunday, with a staggering 43,505,724 million users (via SteamDB). Read more...",
-    "date": "Mon, 12 Oct 2026 10:35:07 +0000",
-    "link": "https://www.eurogamer.net/steam-new-user-concurrent-record-october-2026",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.1,
-      "badge": "success"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "The Blood of Dawnwalker's lead actor reminds us why AI will always struggle to replicate a human performance",
-    "source": "Eurogamer",
-    "summary": "Will de Renzy-Martin, the actor who plays lead character Coen in the English language version of The Blood of Dawnwalker, has reminded us of the value humans bring to a performance, versus AIs generating voice lines. Read more...",
-    "date": "Mon, 12 Oct 2026 09:41:30 +0000",
-    "link": "https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 9,
-    "title": "A New KPop Demon Hunters Limited Edition Collection Just Dropped",
+    "title": "'Wires Crossed' quest walkthrough in Arc Raiders",
     "source": "Polygon",
-    "summary": "KPop Demon Hunters finally targets working adults with a new limited-edition collection, exclusively at Target.",
-    "date": "Mon, 12 Oct 2026 11:22:53 GMT",
-    "link": "https://www.polygon.com/kpop-demon-hunters-limited-edition-collection/",
+    "summary": "A guide to the \"Wires Crossed\" quest in Arc Raiders, including where to find the three antennas and Arc parts.",
+    "date": "Mon, 12 Oct 2026 17:56:43 GMT",
+    "link": "https://www.polygon.com/arc-raiders-wires-crossed-quest-walkthrough-antenna-pilgrims-peak-launch-towers-grandioso-apartments/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "He-Man Sets Official Return in 2027 With 'Dragon Pearl of Destruction'",
+    "source": "Polygon",
+    "summary": "'He-Man and the Masters of the Universe: Dragon Pearl of Destruction' just got a Feb. 4, 2027 release date alongside a new trailer.",
+    "date": "Mon, 12 Oct 2026 17:53:18 GMT",
+    "link": "https://www.polygon.com/he-man-masters-of-the-universe-new-game-release-date-trailer/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "'Someone Else's Shoes' quest walkthrough in Arc Raiders",
+    "source": "Polygon",
+    "summary": "A guide explaining how to complete the \"Someone Else's Shoes\" quest in Arc Raiders, including where to find the android in the medical bay.",
+    "date": "Mon, 12 Oct 2026 17:21:42 GMT",
+    "link": "https://www.polygon.com/arc-raiders-someone-elses-shoes-quest-walkthrough-android-location-control-room-western-tunnels/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.05,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "'Dungeon Crawler Carl' Author Officially Settles a Raging Debate About the Audiobooks",
-    "source": "Polygon",
-    "summary": "Fans of the LitRPG series Dungeon Crawler Carl love to listen to their audiobooks at increased speeds. This is what author Matt Dinniman recommends",
-    "date": "Mon, 12 Oct 2026 11:00:16 GMT",
-    "link": "https://www.polygon.com/matt-dinniman-nycc-interview-dungeon-crawler-carl/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Josh Brolin Teases a Thanos vs. Doctor Doom Showdown in 'Avengers: Secret Wars'",
-    "source": "Polygon",
-    "summary": "Josh Brolin, who played Thanos in Avengers: Infinity War and Avengers: Endgame, is asked whether Thanos could defeat Doctor Doom.",
-    "date": "Mon, 12 Oct 2026 09:30:15 GMT",
-    "link": "https://www.polygon.com/nycc-josh-brolin-thanos-vs-doom/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "'Carrie' Showrunner Confirms the Biggest Changes to the Book Were Stephen King's Idea",
+    "title": "Metaphor: Refantazio’s Switch 2 Demo Is Finally Available",
     "source": "Polygon",
-    "summary": "Mike Flanagan breaks down some of the biggest canon changes in Carrie, and how Stephen King helped write them",
-    "date": "Mon, 12 Oct 2026 09:00:16 GMT",
-    "link": "https://www.polygon.com/carrie-2026-changes-mike-flanagan-stephen-king-interview/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.16,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "'Your washing machine is subject to more safety rules than AI' says Microsoft president",
-    "source": "PC Gamer",
-    "summary": "When the call for external regulation is coming from inside AI's house, you know it's serious.",
-    "date": "Mon, 12 Oct 2026 11:42:03 +0000",
-    "link": "https://www.pcgamer.com/software/ai/your-washing-machine-is-subject-to-more-safety-rules-than-ai-says-microsoft-president/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free",
-    "source": "PC Gamer",
-    "summary": "I bet someone is already mocking up cat ears for this thing.",
-    "date": "Mon, 12 Oct 2026 11:17:32 +0000",
-    "link": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.31,
-      "badge": "success"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "'The algorithm continues to properly prioritise Mister Biddy Blas'—Star Wars: Galactic Racer has created the perfect creature",
-    "source": "PC Gamer",
-    "summary": "Glup would be proud",
-    "date": "Mon, 12 Oct 2026 11:03:33 +0000",
-    "link": "https://www.pcgamer.com/games/racing/the-algorithm-continues-to-properly-prioritise-mister-biddy-blas-star-wars-galactic-racer-has-created-the-perfect-creature/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.6,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "How to turn off your backpack light in Arc Raiders",
-    "source": "PC Gamer",
-    "summary": "Use the new feature to get real sneaky.",
-    "date": "Mon, 12 Oct 2026 10:17:58 +0000",
-    "link": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-backpack-light-toggle/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "Haunted Chocolatier Is For “The People In Stardew Valley That Go Into The Mines”",
-    "source": "GameSpot",
-    "summary": "Haunted Chocolatier, the second game from Stardew Valley creator, Eric Barone, has been in development for more than five years, having been announced in October 2021. While there's no official word on the Haunted Chocolatier release date, Barone has been discussing the development of the game, incl...",
-    "date": "Mon, 12 Oct 2026 11:09:52 +0000",
-    "link": "https://www.gamespot.com/articles/haunted-chocolatier-is-for-the-people-in-stardew-valley-that-go-into-the-mines/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "Marvel Darkhold Destiny Is Magic: The Gathering’s First Universes Beyond Set Of 2027",
-    "source": "GameSpot",
-    "summary": "Today at New York Comic Con, Wizards of the Coast announced the first 2027 Universes Beyond expansion set for Magic: The Gathering. Marvel’s Darkhold Destiny will pit Doctor Strange, Thor, Ghost Rider, and more against cosmic villains like Hela and Dormammu in 2027.\nThe set will include normal and C...",
-    "date": "Sat, 10 Oct 2026 00:30:00 +0000",
-    "link": "https://www.gamespot.com/articles/marvel-darkhold-destiny-is-magic-the-gatherings-first-universes-beyond-set-of-2027/",
+    "summary": "Nintendo Switch 2 players in certain regions can dive into Metaphor: ReFantazio right now thanks to the release of a demo for the Atlus RPG",
+    "date": "Mon, 12 Oct 2026 17:17:11 GMT",
+    "link": "https://www.polygon.com/nintendo-switch-2-metaphor-refantazio-rpg-prologue-demo-released/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.28,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Nintendo",
+      "RPG"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 19,
-    "title": "Let’s All Be Happy This AAA Minesweeper Game Isn’t Real",
-    "source": "GameSpot",
-    "summary": "Minesweeper has been around for decades and it's probably overdue for some modern flourishes. Now there's a Triple-A Minesweeper parody that offers a hilarious look at what a Minesweeper update might look like.\nThe Triple-A Minesweeper was created by writer and programmer Mike Lacher, and it's fully...",
-    "date": "Fri, 09 Oct 2026 23:23:44 +0000",
-    "link": "https://www.gamespot.com/articles/lets-all-be-happy-this-aaa-minesweeper-game-isnt-real/",
+    "id": 13,
+    "title": "How to get an Emperor Modulator in Arc Raiders",
+    "source": "PC Gamer",
+    "summary": "You'll need this super rare material to upgrade your gunsmith.",
+    "date": "Mon, 12 Oct 2026 17:13:57 +0000",
+    "link": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-emperor-modulator-location/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.23,
+      "score": 0.32,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 20,
-    "title": "Call Of Duty: MW4 Early Access Also Includes DMZ, Here’s How To Get In",
-    "source": "GameSpot",
-    "summary": "Call of Duty: Modern Warfare 4's campaign is playable a week early for people who preorder, and now we know the DMZ mode will be as well.\nActivision has announced that MW4's extraction-based DMZ mode will be playable starting Tuesday, October 20, which is three days before the game launches. Campaig...",
-    "date": "Fri, 09 Oct 2026 19:17:24 +0000",
-    "link": "https://www.gamespot.com/articles/call-of-duty-mw4-early-access-also-includes-dmz-heres-how-to-get-in/",
+    "id": 14,
+    "title": "I don't know what Rick and Morty's about but I have turned GTA 5 into its perfect replica",
+    "source": "PC Gamer",
+    "summary": "You need to have a very high IQ to understand Grand Theft Auto.",
+    "date": "Mon, 12 Oct 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-dont-know-what-rick-and-mortys-about-but-i-have-turned-gta-5-into-its-perfect-replica/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.57,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "People are being robbed of crypto by a tiny chip implanted in their hardware, with $100 million said to have been stolen already",
+    "source": "PC Gamer",
+    "summary": "Investigation of the \"draining incident of Oct 9th\" is ongoing.",
+    "date": "Mon, 12 Oct 2026 15:57:58 +0000",
+    "link": "https://www.pcgamer.com/hardware/people-are-being-robbed-of-crypto-by-a-tiny-chip-implanted-in-their-hardware-with-usd100-million-said-to-have-been-stolen-already/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Schrödinger's GPU set for an early 2027 release as the dead/alive 24 GB RTX 5080 Super box is shaken once more",
+    "source": "PC Gamer",
+    "summary": "\"Hey, you still in there?\"",
+    "date": "Mon, 12 Oct 2026 15:55:44 +0000",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/schrodingers-gpu-set-for-an-early-2027-release-as-the-dead-alive-24-gb-rtx-5080-super-box-is-shaken-once-more/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.31,
+      "badge": "success"
+    },
+    "tags": [
+      "GPU"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "Sorry, Street Fighter Movie, But Mondo Just Won The Poster Fight",
+    "source": "GameSpot",
+    "summary": "The new Street Fighter movie hits theaters in just a few days, and if you're a fan of the Capcom series, you might be tempted to celebrate with some new poster art on your wall. While the official poster for that movie is fine, Mondo's new Street Fighter 2 poster is much better, striking, and it doe...",
+    "date": "Mon, 12 Oct 2026 16:00:00 +0000",
+    "link": "https://www.gamespot.com/articles/sorry-street-fighter-movie-but-mondo-just-won-the-poster-fight/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Nintendo Says It Has No Plans To Ditch Physical Games Yet",
+    "source": "GameSpot",
+    "summary": "Unlike Sony, which has decided to move toward a digital-only game marketplace starting in 2028, Nintendo is sticking to an \"agnostic\" approach for the Switch 2 console. In a new interview, Nintendo's VP and general manager for Latin America, Bill van Zyll, said the company will still offer both phys...",
+    "date": "Mon, 12 Oct 2026 14:29:29 +0000",
+    "link": "https://www.gamespot.com/articles/nintendo-says-it-has-no-plans-to-ditch-physical-games-yet/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.04,
+      "badge": "info"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "Baki’s Yujiro Hanma Is About To Turn Tekken 8 Into A Full-Blown Muscle Appreciation Simulator",
+    "source": "GameSpot",
+    "summary": "Bandai Namco has dropped a new trailer for Tekken 8, and while this one is mostly focused on everyone's favorite Kangaroo, Roger, it also included a brief tease of one of the most ridiculous characters in anime: Yujiro Hanma. The sneak peek at the Gigachad of fighting anime is quick, but it does sho...",
+    "date": "Mon, 12 Oct 2026 13:27:28 +0000",
+    "link": "https://www.gamespot.com/articles/baki-yujiro-hanma-is-about-to-turn-tekken-8-into-a-full-blown-muscle-appreciation-simulator/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.23,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 20,
+    "title": "The New Squadron 42 Trailer Looks Great, But That 2027 Release Date Is Hard To Believe",
+    "source": "GameSpot",
+    "summary": "Star Citizen's single-player mode, Squadron 42, has made a reappearance with a new trailer showing off the mode's impressive cast and interstellar warfare. In development for 12 years, the ambitious mode blends outer space dogfighting and first-person action, set during an era when hostile alien for...",
+    "date": "Mon, 12 Oct 2026 11:57:55 +0000",
+    "link": "https://www.gamespot.com/articles/the-new-squadron-42-trailer-looks-great-but-that-2027-release-date-is-hard-to-believe/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.24,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
