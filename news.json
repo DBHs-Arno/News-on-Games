@@ -1,6 +1,41 @@
 [
   {
     "id": 1,
+    "title": "Doom 2016 Composer Mick Gordon Says \"F##k AI\"",
+    "source": "IGN",
+    "summary": "Doom 2016 Composer Mick Gordon Says \"F##k AI\"",
+    "date": "Mon, 12 Oct 2026 03:00:00 +0000",
+    "link": "https://www.ign.com/articles/doom-2016-composer-mick-gordon-says-fk-ai",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Doom 2016 Composer Mick Gordon Says He'd Return to the Doom Series \"In a Heartbeat\"",
+    "source": "IGN",
+    "summary": "Doom 2016 Composer Mick Gordon Says He'd Return to the Doom Series \"In a Heartbeat\"",
+    "date": "Mon, 12 Oct 2026 00:01:09 +0000",
+    "link": "https://www.ign.com/articles/doom-2016-composer-mick-gordon-says-hed-return-to-the-doom-series-in-a-heartbeat",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
     "title": "Artemis Fowl Animated TV Show Greenlit With Eoin Colfer as Executive Producer",
     "source": "IGN",
     "summary": "Artemis Fowl is coming back to TV screens in the form of an animated show on Disney Channel and Disney+.",
@@ -18,7 +53,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "Resident Evil Overtakes Weapons as Zach Cregger's Highest-Grossing Film, The Social Reckoning Bombs",
     "source": "IGN",
     "summary": "Resident Evil beat Weapons to become Zach Cregger's highest-grossing film while The Social Reckoning bombed at the box office.",
@@ -32,41 +67,6 @@
     "tags": [
       "Gaming",
       "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "The Best Deals Today: Doom: The Dark Ages, Star Wars Zero Company, 007 4K Blu-ray, and More",
-    "source": "IGN",
-    "summary": "",
-    "date": "Sun, 11 Oct 2026 21:09:22 +0000",
-    "link": "https://www.ign.com/articles/best-deals-for-october-11-2026",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.45,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "New NetEase FPS Sparks Warzone 'Rip-Off' Claims, But Some Call of Duty Fans Are Happy to See It",
-    "source": "IGN",
-    "summary": "Call of Duty fans are torn about NetEase Games' ECC: Redline, a new FPS that many have called a \"rip-off\" with the power to fill the void for frustrated Warzone players.",
-    "date": "Sun, 11 Oct 2026 19:26:12 +0000",
-    "link": "https://www.ign.com/articles/new-netease-fps-sparks-warzone-rip-off-claims-but-some-call-of-duty-fans-are-happy-to-see-it",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "FPS"
     ],
     "read_time": "1 min read"
   },
@@ -144,14 +144,14 @@
   },
   {
     "id": 9,
-    "title": "24 Years Later, the Weirdest Noir Fantasy of the '90s Is Officially Free on Streaming",
+    "title": "66 Years Later, Alfred Hitchcock’s Most Perfect Thriller is Officially Streaming on Netflix",
     "source": "Polygon",
-    "summary": "It's time for a new generation to discover one of the strangest films of the '90s",
-    "date": "Mon, 12 Oct 2026 00:00:16 GMT",
-    "link": "https://www.polygon.com/cool-world-free-youtube/",
+    "summary": "Alfred Hitchcock's 1960 thriller Psycho is currently on Netflix. It's worth watching even if you know the big twists",
+    "date": "Mon, 12 Oct 2026 03:00:16 GMT",
+    "link": "https://www.polygon.com/alfred-hitchcock-psycho-on-netflix/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.18,
+      "score": 0.3,
       "badge": "success"
     },
     "tags": [
@@ -162,14 +162,14 @@
   },
   {
     "id": 10,
-    "title": "10 Best Episodes of 'Buffy the Vampire Slayer' Of All Time, Ranked by Their IMDb Score",
+    "title": "5 Exciting Games Stuck In Development For More Than 10 Years",
     "source": "Polygon",
-    "summary": "The top Buffy episode is obvious, but there are some surprises along the way",
-    "date": "Sun, 11 Oct 2026 22:00:15 GMT",
-    "link": "https://www.polygon.com/the-10-best-episodes-of-buffy-the-vampire-slayer-ranked-by-their-imdb-score/",
+    "summary": "Some games have been trapped in development hell for over a decade. Here are 5 exciting games that have been stuck in development hell as of 2026.",
+    "date": "Mon, 12 Oct 2026 01:46:49 GMT",
+    "link": "https://www.polygon.com/games-development-hell-2026/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.5,
+      "score": 0.23,
       "badge": "success"
     },
     "tags": [
@@ -180,15 +180,15 @@
   },
   {
     "id": 11,
-    "title": "3 Essential Remedy Games To Play After Control Resonant",
+    "title": "Steven Spielberg's Polarizing Fantasy Film Gets Official New Release",
     "source": "Polygon",
-    "summary": "After playing Control Resonant, try these games from Remedy Entertainment that expand the lore even more.",
-    "date": "Sun, 11 Oct 2026 21:00:16 GMT",
-    "link": "https://www.polygon.com/control-resonant-games-to-play/",
+    "summary": "Robin Williams' Hook is getting a major 4K release this fall, featuring an all-new hour-long documentary and never-before-seen footage from the set.",
+    "date": "Mon, 12 Oct 2026 01:46:16 GMT",
+    "link": "https://www.polygon.com/steven-spielberg-hook-4k-anniversary-rerelease/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -198,50 +198,31 @@
   },
   {
     "id": 12,
-    "title": "Robert De Niro's 123-Minute Gothic Thriller Is Officially Streaming on Netflix",
+    "title": "8 Best Cyberpunk 2077 Replacement Games",
     "source": "Polygon",
-    "summary": "A classic horror tale is told through a heightened, emotional lens.",
-    "date": "Sun, 11 Oct 2026 19:00:16 GMT",
-    "link": "https://www.polygon.com/robert-de-niro-gothic-horror-streaming-netflix/",
+    "summary": "Looking for your next Night City-inspired adventure? These eight games share Cyberpunk 2077’s messy choices, augmented anti-heroes, or overall mood.",
+    "date": "Mon, 12 Oct 2026 01:29:05 GMT",
+    "link": "https://www.polygon.com/best-games-like-cyberpunk-2077/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Cyberpunk"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "The shortlist for 2026's Golden Joystick Awards is out, including PC Game of the Year, and you can vote now",
+    "title": "Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut",
     "source": "PC Gamer",
-    "summary": "You've got until October 23.",
-    "date": "Mon, 12 Oct 2026 00:00:19 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/events-conferences/the-shortlist-for-2026s-golden-joystick-awards-is-out-including-pc-game-of-the-year-and-you-can-vote-now/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "PvP pinball is such a good idea I can't believe I haven't played it before",
-    "source": "PC Gamer",
-    "summary": "Bumper Bout has a demo on Steam right now.",
-    "date": "Sun, 11 Oct 2026 23:19:02 +0000",
-    "link": "https://www.pcgamer.com/games/pvp-pinball-is-such-a-good-idea-i-cant-believe-i-havent-played-it-before/",
+    "summary": "All the interesting Steam facts for the week ending October 11.",
+    "date": "Mon, 12 Oct 2026 02:57:30 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.33,
+      "score": 0.2,
       "badge": "success"
     },
     "tags": [
@@ -250,16 +231,34 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "Yahtzee is still out there being mean about videogames, and good for him",
+    "id": 14,
+    "title": "Star Wars Galactic Racer's devs tested its roguelite progression system by turning it into a board game",
     "source": "PC Gamer",
-    "summary": "Zero Punctuation was an essential watch back in the day. Its successor Fully Ramblomatic still carries the torch.",
-    "date": "Sun, 11 Oct 2026 22:32:37 +0000",
-    "link": "https://www.pcgamer.com/games/yahtzee-is-still-out-there-being-mean-about-videogames-and-good-for-him/",
+    "summary": "\"You can't know if you can feel the system until you can play the system.\"",
+    "date": "Mon, 12 Oct 2026 02:15:46 +0000",
+    "link": "https://www.pcgamer.com/games/racing/star-wars-galactic-racers-devs-tested-its-roguelite-progression-system-by-turning-it-into-a-board-game/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Seamless Landing mod looks set to bring Starfield another step closer to No Man's Sky",
+    "source": "PC Gamer",
+    "summary": "Or Star Wars Outlaws, if you're nasty.",
+    "date": "Mon, 12 Oct 2026 01:12:23 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/seamless-landing-mod-looks-set-to-bring-starfield-another-step-closer-to-no-mans-sky/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.23,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -269,15 +268,15 @@
   },
   {
     "id": 16,
-    "title": "Nier creator Yoko Taro says he's achieved his career dreams, but he continues working because it's 'good for preventing dementia'",
+    "title": "The shortlist for 2026's Golden Joystick Awards is out, including PC Game of the Year, and you can vote now",
     "source": "PC Gamer",
-    "summary": "\"With Drakengard, the first game I was given the opportunity to direct, I was actually able to do almost everything the way I wanted.\"",
-    "date": "Sun, 11 Oct 2026 17:16:19 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/nier-creator-yoko-taro-says-hes-achieved-his-career-dreams-but-he-continues-working-because-its-good-for-preventing-dementia/",
+    "summary": "You've got until October 23.",
+    "date": "Mon, 12 Oct 2026 00:00:19 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/events-conferences/the-shortlist-for-2026s-golden-joystick-awards-is-out-including-pc-game-of-the-year-and-you-can-vote-now/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.23,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.05,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
