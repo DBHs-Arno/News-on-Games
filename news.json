@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "Today’s Top Deals: Hyperpop DualSense, SteelSeries Arctis Nova 7 Gaming Headset, and LOTR Box Set",
+    "title": "Mick Gordon Plans to Take His Upcoming Doom Concert Performance On the Road",
     "source": "IGN",
-    "summary": "Plus, don’t miss the 3-for-2 board games, Pokémon TCG restocks, and more",
-    "date": "Mon, 12 Oct 2026 17:40:00 +0000",
-    "link": "https://www.ign.com/articles/best-deals-for-october-12-2026",
+    "summary": "Mick Gordon Plans to Take His Upcoming Doom Concert Performance On the Road",
+    "date": "Tue, 13 Oct 2026 01:54:36 +0000",
+    "link": "https://www.ign.com/articles/mick-gordon-plans-to-take-his-upcoming-doom-concert-performance-on-the-road",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -19,33 +19,32 @@
   },
   {
     "id": 2,
-    "title": "The Best Controllers for Playing PC Games in 2026",
+    "title": "Get a 2-Pack of 6.6ft Right Angle USB-C Cables for $5 (Just $2.50 Per Cable)",
     "source": "IGN",
-    "summary": "You don't have to use a mouse and keyboard if you don't want to.",
-    "date": "Mon, 12 Oct 2026 17:35:00 +0000",
-    "link": "https://www.ign.com/articles/best-pc-controller",
+    "summary": "Universal cables perfect for your Switch 2, Steam Deck, or iPhone 18.",
+    "date": "Mon, 12 Oct 2026 22:50:00 +0000",
+    "link": "https://www.ign.com/articles/best-right-angle-usb-cable-deals-october-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 1.0,
+      "score": 0.43,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "The Pikachu and Poké Ball LEGO Set Has Hit Its Lowest Price Yet at Amazon With $13 Discount",
+    "title": "Satisfactory: The Board Game Preview",
     "source": "IGN",
-    "summary": "The LEGO Pokémon Pikachu and Poké Ball set has dropped to its lowest price yet at Amazon of $186.99, a $13 discount off its full price.",
-    "date": "Mon, 12 Oct 2026 17:30:00 +0000",
-    "link": "https://www.ign.com/articles/the-pikachu-and-poke-ball-lego-set-has-hit-its-lowest-price-so-far-at-amazon-with-13-discount",
+    "summary": "",
+    "date": "Mon, 12 Oct 2026 22:30:00 +0000",
+    "link": "https://www.ign.com/articles/satisfactory-the-board-game-preview",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.35,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -55,15 +54,15 @@
   },
   {
     "id": 4,
-    "title": "Your Mother Your Mother Your Mother Cast on Preparing for Their Intense Roles | IGN Fall Fan Fest 2026",
+    "title": "Greta Gerwig's Narnia: The Magician's Nephew Wins Over Skeptical Fans With First Poster",
     "source": "IGN",
-    "summary": "",
-    "date": "Mon, 12 Oct 2026 17:30:00 +0000",
-    "link": "https://www.ign.com/articles/your-mother-your-mother-your-mother-cast-on-preparing-for-their-intense-roles-ign-fall-fan-fest-2026",
+    "summary": "The first poster for Greta Gerwig's Narnia: The Magician's Nephew is here, and it seems to have won over a few of the more skeptical fans.",
+    "date": "Mon, 12 Oct 2026 22:28:07 +0000",
+    "link": "https://www.ign.com/articles/greta-gerwigs-narnia-the-magicians-nephew-wins-over-skeptical-fans-with-first-poster",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -143,14 +142,14 @@
   },
   {
     "id": 9,
-    "title": "John Cena’s Latest Nostalgia-Fueled Action Movie Is a Hit on Apple TV",
+    "title": "Scarlett Johansson's Irresistible R-Rated Sci-Fi Thriller Is Now Free to Watch on Streaming",
     "source": "Polygon",
-    "summary": "John Cena’s Matchbox: The Movie has topped Apple TV’s movie charts in its opening weekend, despite earning a low Rotten Tomatoes score from critics.",
-    "date": "Mon, 12 Oct 2026 22:17:18 GMT",
-    "link": "https://www.polygon.com/john-cena-matchbox-movie-streaming-success-apple-tv-october-2026/",
+    "summary": "You've seen that clip... now watch the whole movie",
+    "date": "Tue, 13 Oct 2026 04:08:16 GMT",
+    "link": "https://www.polygon.com/under-the-skin-free-streaming-tubi-october-2026/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.2,
+      "score": 0.3,
       "badge": "success"
     },
     "tags": [
@@ -161,15 +160,15 @@
   },
   {
     "id": 10,
-    "title": "All classes and unlock requirements in Fire Emblem Fortune's Weave",
+    "title": "20 Years Ago, the Best Sci-Fi Show of the Century Delivered the Most Epic Space Battle in TV History",
     "source": "Polygon",
-    "summary": "Our Fire Emblem Fortune's Weave class guide lists secret classes and unlock requirements, along with the mastery skill for each",
-    "date": "Mon, 12 Oct 2026 21:50:55 GMT",
-    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-classes-unlock-secret/",
+    "summary": "Twenty years ago, Battlestar Galactica topped the Adama Maneuver by transforming the Pegasus into an enormous battering ram.",
+    "date": "Tue, 13 Oct 2026 04:00:23 GMT",
+    "link": "https://www.polygon.com/battlestar-galactica-season-3-exodus-20th-anniversary/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -179,35 +178,37 @@
   },
   {
     "id": 11,
-    "title": "New 90% Positive Steam Roguelike Is a Faithful PSP-Era Comeback",
+    "title": "6 darkly funny Far Side comics starring the devil",
     "source": "Polygon",
-    "summary": "Ratatan, a spiritual successor to PSP cult hit Patapon, is an endearing throwback stuffed into an underdeveloped roguelike.",
-    "date": "Mon, 12 Oct 2026 21:00:16 GMT",
-    "link": "https://www.polygon.com/ratatan-switch-2-impressions/",
+    "summary": "Gary Larson’s comic strip loved to send people to Hell",
+    "date": "Tue, 13 Oct 2026 02:52:16 GMT",
+    "link": "https://www.polygon.com/6-best-far-side-comics-about-the-devil-hell/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.22,
+      "score": 0.32,
       "badge": "success"
     },
     "tags": [
-      "Steam"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "Epic Games Delays Marvel and Star Wars Crossover Game Amid Generative AI Push",
+    "title": "One of 2026’s Goriest Horror Movies Is Dominating HBO Max",
     "source": "Polygon",
-    "summary": "Epic Games has reportedly delayed an unannounced Marvel and Star Wars crossover game while it pivots toward AI-first game production.",
-    "date": "Mon, 12 Oct 2026 20:58:33 GMT",
-    "link": "https://www.polygon.com/epic-games-marvel-star-wars-game-delay-generative-ai-development/",
+    "summary": "Evil Dead Burn has reached the top of HBO Max’s movie rankings, giving horror fans a bloody new pick for spooky season.",
+    "date": "Tue, 13 Oct 2026 01:33:16 GMT",
+    "link": "https://www.polygon.com/evil-dead-burn-streaming-success-hbo-max-october-2026/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.2,
+      "score": -0.27,
       "badge": "danger"
     },
     "tags": [
-      "AI"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
