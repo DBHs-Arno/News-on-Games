@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "GTA 6 Fans Celebrate as Cyberleek Cryptocurrency Crashes Hard",
+    "title": "Over 1 Million Characters Have Been Made in the WoW Forever Beta",
     "source": "IGN",
-    "summary": "GTA 6 fans are celebrating after the Cyberleek memecoin crashed hard yesterday, scuppering the leaker’s crypto scheme.",
-    "date": "Tue, 13 Oct 2026 09:56:22 +0000",
-    "link": "https://www.ign.com/articles/gta-6-fans-celebrate-as-cyberleek-cryptocurrency-crashes-hard",
+    "summary": "It's no secret that World of Warcraft Forever has been incredibly popular since entering its beta last month, but now, over 1 million characters have been made.",
+    "date": "Tue, 13 Oct 2026 16:51:32 +0000",
+    "link": "https://www.ign.com/articles/over-1-million-characters-have-been-made-in-the-wow-forever-beta",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.29,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.23,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -19,31 +19,32 @@
   },
   {
     "id": 2,
-    "title": "How to Play Your Favourite Games at Uni with Top Graphics on Your Laptop",
+    "title": "Sony Announces $350 All-Black PS5, but You Probably Can't Buy It",
     "source": "IGN",
-    "summary": "",
-    "date": "Tue, 13 Oct 2026 08:36:44 +0000",
-    "link": "https://www.ign.com/sponsored/how-to-play-your-favourite-games-at-uni-with-top-graphics-on-your-laptop",
+    "summary": "After a few price increases, the PS5 will now set you back $599 for the Digital edition, but Sony has just announced a cheaper $350 console – but it's exclusive to Japan.",
+    "date": "Tue, 13 Oct 2026 16:49:54 +0000",
+    "link": "https://www.ign.com/articles/sony-announces-350-all-black-ps5-but-you-probably-cant-buy-it",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.07,
+      "badge": "info"
     },
     "tags": [
-      "Graphics"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Castlevania: Belmont’s Curse Review",
+    "title": "Pan’s Labyrinth Is Getting a Gorgeous 20th Anniversary 4K Steelbook – Here’s Where To Preorder It",
     "source": "IGN",
-    "summary": "A long-awaited return that brings the series into the modern era with a fast-paced focus on action first.",
-    "date": "Tue, 13 Oct 2026 07:01:00 +0000",
-    "link": "https://www.ign.com/articles/castlevania-belmonts-curse-review",
+    "summary": "Guillermo del Toro's film Pan’s Labyrinth is getting a 20th Anniversary Collector’s Edition 4K steelbook. While its release date is still to be determined, preorders for it are officially live for $35.39.",
+    "date": "Tue, 13 Oct 2026 16:44:58 +0000",
+    "link": "https://www.ign.com/articles/pans-labyrinth-20th-anniversary-4k-steelbook-where-to-buy",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.18,
+      "score": 0.21,
       "badge": "success"
     },
     "tags": [
@@ -54,11 +55,117 @@
   },
   {
     "id": 4,
-    "title": "Mick Gordon Plans to Take His Upcoming Doom Concert Performance On the Road",
+    "title": "Get a 2-Pack of 6.6ft Right Angle USB-C Cables for $5 (Just $2.50 Per Cable)",
     "source": "IGN",
-    "summary": "Mick Gordon Plans to Take His Upcoming Doom Concert Performance On the Road",
-    "date": "Tue, 13 Oct 2026 01:54:36 +0000",
-    "link": "https://www.ign.com/articles/mick-gordon-plans-to-take-his-upcoming-doom-concert-performance-on-the-road",
+    "summary": "Universal cables perfect for your Switch 2, Steam Deck, or iPhone 18.",
+    "date": "Tue, 13 Oct 2026 16:15:00 +0000",
+    "link": "https://www.ign.com/articles/best-right-angle-usb-cable-deals-october-2026",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.43,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "CD Projekt Red reassures players The Witcher 3 Switch 2 patch still due, as update rolls out for PS5 and PS5 Pro",
+    "source": "Eurogamer",
+    "summary": "CD Projekt Red has released an update for The Witcher 3 Remastered on PlayStation 5 and PS5 Pro, making \"various stability improvements to help ensure a more reliable experience\" to the game. And those are the entire patch notes for hotfix 5.01b, Eurogamer understands. Read more...",
+    "date": "Tue, 13 Oct 2026 16:13:54 +0000",
+    "link": "https://www.eurogamer.net/witcher-3-remastered-ps5-pro-switch-patch",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "PlayStation",
+      "Patch"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy",
+    "source": "Eurogamer",
+    "summary": "As American comedy series Saturday Night Live airs a sketch lampooning the November showdown between Grand Theft Auto 6 and The Legend of Zelda: Ocarina of Time remake, a pair of former Nintendo employees have recalled a more infamous SNL sketch from years earlier that did not go down well at all. R...",
+    "date": "Tue, 13 Oct 2026 15:33:54 +0000",
+    "link": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "Remake",
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Sifu, the singular kung fu action game, is out now on Android and iOS",
+    "source": "Eurogamer",
+    "summary": "Sifu, Sloclap's 2022 martial arts action game, can now be played on smartphones. The French developer released the game today on Android and iOS, following an announcement earlier in the month. Read more...",
+    "date": "Tue, 13 Oct 2026 14:26:57 +0000",
+    "link": "https://www.eurogamer.net/sifu-mobile-release-android-ios",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "GTA 6's PC release date is set for \"Q1 2027\", per a new report",
+    "source": "Eurogamer",
+    "summary": "A new report suggests that GTA 6 will release on PC in \"Q1 2027\". That, at least, is what GamesBeat is saying, citing \"sources familiar with the matter.\" Read more...",
+    "date": "Tue, 13 Oct 2026 13:57:07 +0000",
+    "link": "https://www.eurogamer.net/gta-6s-pc-release-date-is-set-for-q1-2027-per-a-new-report",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "Xbox Is Experimenting with a Controversial Social Media Feature",
+    "source": "Polygon",
+    "summary": "Xbox is experimenting with a new streak feature, which will track how many consecutive weeks you've used the system.",
+    "date": "Tue, 13 Oct 2026 17:59:34 GMT",
+    "link": "https://www.polygon.com/xbox-streak-feature-social-media-controversy/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "'Baywatch' Reboot Trailer Has All the Slo-Mo You Could Ever Want",
+    "source": "Polygon",
+    "summary": "Fox's Baywatch Reboot starring Stephen Amell releases trailer packed with steamy drama and slo-mo",
+    "date": "Tue, 13 Oct 2026 17:16:02 GMT",
+    "link": "https://www.polygon.com/baywatch-reboot-trailer-fox-stephen-amell/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -71,46 +178,30 @@
     "read_time": "1 min read"
   },
   {
-    "id": 5,
-    "title": "Former PlayStation boss Kaz Hirai used to ignore orders from Sony bosses, he reveals",
-    "source": "Eurogamer",
-    "summary": "Kazuo \"Kaz\" Hirai, who was the president of PlayStation from 2007 to 2012, apparently didn't pay much attention to orders he received from Sony's top brass. Read more...",
-    "date": "Tue, 13 Oct 2026 12:12:16 +0000",
-    "link": "https://www.eurogamer.net/kaz-hirai-playstation-boss-ignored-sony",
+    "id": 11,
+    "title": "'An Unheard Farewell' quest walkthrough in Valor Mortis",
+    "source": "Polygon",
+    "summary": "Here's how to complete the Adjudant's side quest, \"An Unheard Farewell,\" in Valor Mortis, and where to find the missing soldiers.",
+    "date": "Tue, 13 Oct 2026 17:09:18 GMT",
+    "link": "https://www.polygon.com/valor-mortis-an-unheard-farewell-quest-walkthrough/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.05,
+      "badge": "info"
     },
     "tags": [
-      "PlayStation"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "Asha Sharma reportedly tells rattled Xbox employees: \"We have to find new ways, and courage, to have invention on new IP\"",
-    "source": "Eurogamer",
-    "summary": "Xbox leader Asha Sharma has reportedly broadcast her intent to \"create enduring new IP\" alongside the company's much publicised plan to organise around its biggest gaming brands - think The Elder Scrolls, think Blizzard, etc. But according to Sharma: \"We will not survive if we only revive on the pas...",
-    "date": "Tue, 13 Oct 2026 10:37:22 +0000",
-    "link": "https://www.eurogamer.net/asha-sharma-xbox-town-hall-new-ip",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "\"I was forced to ship the game\" - Glen Schofield blames Krafton management for The Callisto Protocol's problems",
-    "source": "Eurogamer",
-    "summary": "Glen Schofield, the game-maker best known for co-creating Dead Space, has blamed Korean company Krafton - the owner of PUBG - for the shortcomings of his horror game successor The Callisto Protocol, which it published. Read more...",
-    "date": "Tue, 13 Oct 2026 08:40:04 +0000",
-    "link": "https://www.eurogamer.net/glen-schofield-the-callisto-protocol-krafton-problems",
+    "id": 12,
+    "title": "How to beat The Iron Marshall in Valor Mortis",
+    "source": "Polygon",
+    "summary": "Here's how to defeat The Iron Marshall, the second major boss in Valor Mortis.",
+    "date": "Tue, 13 Oct 2026 17:01:15 GMT",
+    "link": "https://www.polygon.com/valor-mortis-iron-marshall-boss-how-to-beat/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.03,
@@ -123,103 +214,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "Epic Games reportedly delays Star Wars and Marvel shooter, as the Fortnite maker embraces \"AI-accelerated development\"",
-    "source": "Eurogamer",
-    "summary": "Epic Games has reportedly turned to gen-AI to finish up development on a shooter that crosses over Star Wars and Marvel, which has been internally delayed. Read more...",
-    "date": "Mon, 12 Oct 2026 19:11:39 +0000",
-    "link": "https://www.eurogamer.net/epic-games-delays-star-wars-marvel-shooter-ai-development",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "Castlevania: Belmont's Curse Reviews Hail a Triumphant Return",
-    "source": "Polygon",
-    "summary": "Konami's classic series returns in a Switch, PS5, Xbox, and PC game from Dead Cells developer Evil Empire",
-    "date": "Tue, 13 Oct 2026 11:01:15 GMT",
-    "link": "https://www.polygon.com/castlevania-belmonts-curse-review-roundup/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.36,
-      "badge": "danger"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Mike Flanagan settles a major debate about Carrie's season 1 finale",
-    "source": "Polygon",
-    "summary": "Who's actually responsible for the prom massacre? Carrie or... that other character?",
-    "date": "Tue, 13 Oct 2026 11:00:17 GMT",
-    "link": "https://www.polygon.com/carrie-season-1-finale-emaline-prom/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Dragon Quest Creator Has a New Game, but It's AI-Generated",
-    "source": "Polygon",
-    "summary": "Yuji Horii praises AI for significantly reducing game development time, allowing him to produce a new game within 30 minutes.",
-    "date": "Tue, 13 Oct 2026 10:14:44 GMT",
-    "link": "https://www.polygon.com/dragon-quest-creator-yuji-horii-new-ai-game/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Doctor Who Is Getting a Christmas Special After All",
-    "source": "Polygon",
-    "summary": "A surprise Doctor Who Christmas special has been revealed, and it will star a familiar face.",
-    "date": "Tue, 13 Oct 2026 10:04:57 GMT",
-    "link": "https://www.polygon.com/doctor-who-christmas-special-2026-christopher-eccleston/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.36,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 13,
-    "title": "Dead Space creator says he was 'forced to ship' The Callisto Protocol by Krafton: 'We had f*cking Covid'",
+    "title": "Report claims Grand Theft Auto 6 will launch on PC sooner than anyone expected",
     "source": "PC Gamer",
-    "summary": "Kraftoff.",
-    "date": "Tue, 13 Oct 2026 11:32:01 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/game-development/dead-space-creator-says-he-was-forced-to-ship-the-callisto-protocol-by-krafton-we-had-f-cking-covid/",
+    "summary": "If the rumored release window is accurate, it means the new GTA will hit PC just a few months after consoles—something almost unheard of from Rockstar.",
+    "date": "Tue, 13 Oct 2026 18:07:30 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/report-claims-grand-theft-auto-6-will-launch-on-pc-sooner-than-anyone-expected/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.37,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -229,31 +233,32 @@
   },
   {
     "id": 14,
-    "title": "Behold, the $3,000 keyboard that is also actually a powerful AI PC I would hate to spill my coffee on",
+    "title": "Can you beat General Lothaire in Valor Mortis?",
     "source": "PC Gamer",
-    "summary": "I'll be saving my pennies for something—anything—else, personally.",
-    "date": "Tue, 13 Oct 2026 11:12:30 +0000",
-    "link": "https://www.pcgamer.com/hardware/behold-the-usd3-000-keyboard-that-is-also-actually-a-powerful-ai-pc-i-would-hate-to-spill-my-coffee-on/",
+    "summary": "Beat this big boss first time.",
+    "date": "Tue, 13 Oct 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/action/valor-mortis-general-lothaire-boss/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.17,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.1,
+      "badge": "success"
     },
     "tags": [
-      "AI"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "Don't neglect crafting furniture in your Arc Raiders outpost—it unlocks hundreds of extra storage slots",
+    "title": "How to equip ambers in Valor Mortis",
     "source": "PC Gamer",
-    "summary": "Turns out decorating your home away from home isn't purely cosmetic.",
-    "date": "Tue, 13 Oct 2026 11:04:52 +0000",
-    "link": "https://www.pcgamer.com/games/third-person-shooter/dont-neglect-crafting-furniture-in-your-arc-raiders-outpost-it-unlocks-100s-of-extra-storage-slots/",
+    "summary": "Slot these rare gems to gain passive bonuses and abilities.",
+    "date": "Tue, 13 Oct 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/action/valor-mortis-amber-equip/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.11,
+      "score": 0.3,
       "badge": "success"
     },
     "tags": [
@@ -264,32 +269,51 @@
   },
   {
     "id": 16,
-    "title": "If you're upset about the dire lack of consumer RAM knocking around, this 480 GB Intel GPU isn't going to cheer you up",
+    "title": "How to complete The Scarecrow in Valor Mortis",
     "source": "PC Gamer",
-    "summary": "Probably won't even run Crysis.",
-    "date": "Tue, 13 Oct 2026 11:02:39 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/if-youre-upset-about-the-dire-lack-of-consumer-ram-knocking-around-this-480-gb-intel-gpu-isnt-going-to-cheer-you-up/",
+    "summary": "Track down the unfortunate man's missing possessions.",
+    "date": "Tue, 13 Oct 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/action/valor-mortis-the-scarecrow-walkthrough/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.19,
+      "badge": "danger"
     },
     "tags": [
-      "GPU"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
-    "title": "Xbox CEO: We Must Rely On The Past, But We Cannot Rely On The Past",
+    "title": "Red Dead’s Shocking Twist Ending Angered A Lot Of People, But It Was The Right Call, Rockstar Co-Founder Says",
     "source": "GameSpot",
-    "summary": "Xbox CEO Asha Sharma has once again discussed the new direction for Microsoft's gaming division and how it'll continue to focus heavily on its biggest franchises, while also calling on its studios to create new IP. According to Sharma, relying solely on established franchises can only take Xbox so f...",
-    "date": "Tue, 13 Oct 2026 10:48:37 +0000",
-    "link": "https://www.gamespot.com/articles/xbox-ceo-we-must-rely-on-the-past-but-we-cannot-rely-on-the-past/",
+    "summary": "Rockstar co-founder Dan Houser has recalled the controversial ending to 2010's Red Dead Redemption in which the main character, John Marston, is killed. \nHe said in an interview that the game's lead designer, Christian Cantamessa was on board with the idea to kill off Marston, but Houser wondered ab...",
+    "date": "Tue, 13 Oct 2026 17:52:01 +0000",
+    "link": "https://www.gamespot.com/articles/red-deads-shocking-twist-ending-angered-a-lot-of-people-but-it-was-the-right-call-rockstar-co-founder-says/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Battlefield 6 Comes To Game Pass, As $30 Microtransaction That Instantly Unlocks All Guns Is Now Available",
+    "source": "GameSpot",
+    "summary": "It's a big day for Xbox Game Pass, as developer Battlefield Studios has launched Battlefield 6 into Game Pass, and it comes at a big moment for the game.\nBattlefield 6 is now available for Xbox Game Pass Ultimate ($23/month) subscribers on PC and console. It can also be streamed.\nThe game's arrival ...",
+    "date": "Tue, 13 Oct 2026 15:59:29 +0000",
+    "link": "https://www.gamespot.com/articles/battlefield-6-comes-to-game-pass-as-30-microtransaction-that-instantly-unlocks-all-guns-is-now-available/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.13,
+      "badge": "danger"
     },
     "tags": [
       "Xbox"
@@ -297,54 +321,37 @@
     "read_time": "1 min read"
   },
   {
-    "id": 18,
-    "title": "Haunted Chocolatier Is Still Missing, But This Freaky Tea Party Sim Could Scratch Your Itch",
-    "source": "GameSpot",
-    "summary": "Haunted Chocolatier looks like it could be the perfect, candy-bar blend of sweet and creepy once it launches--but developer ConcernedApe doesn't know when that might be. So I'd like to consider an alternate option for after-funeral desserts and try the upcoming Steam game Tearoom of Terror, whose de...",
-    "date": "Mon, 12 Oct 2026 19:15:00 +0000",
-    "link": "https://www.gamespot.com/articles/haunted-chocolatier-is-still-missing-but-this-freaky-tea-party-sim-could-scratch-your-itch/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 19,
-    "title": "Tim Burton Horror Lives In Weird Steam Adventure That Reminds Me Of The Creepiest 2010s Games",
+    "title": "God Of War’s Laufey Collector’s Edition Leaves One Important Thing Out: The Game",
     "source": "GameSpot",
-    "summary": "My 2012 belonged to Slender Man. I was easily terrified by creepy, early 2010s computer games like Slender: The Eight Pages, but I couldn't resist their special blend of unicorn blood and twee. Recently, I've been missing the pink bittersweetness of the Tim Burton-style horror games made in those ye...",
-    "date": "Mon, 12 Oct 2026 19:15:00 +0000",
-    "link": "https://www.gamespot.com/articles/tim-burton-horror-lives-in-weird-steam-adventure-that-reminds-me-of-the-creepiest-2010s-games/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "Sorry, Street Fighter Movie, But Mondo Just Won The Poster Fight",
-    "source": "GameSpot",
-    "summary": "The new Street Fighter movie hits theaters in just a few days, and if you're a fan of the Capcom series, you might be tempted to celebrate with some new poster art on your wall. While the official poster for that movie is fine, Mondo's new Street Fighter 2 poster is much better, striking, and it doe...",
-    "date": "Mon, 12 Oct 2026 16:00:00 +0000",
-    "link": "https://www.gamespot.com/articles/sorry-street-fighter-movie-but-mondo-just-won-the-poster-fight/",
+    "summary": "The God of War Laufey Collector's Edition has been revealed, but unlike the standard and digital deluxe editions that went up for preorder last month, this is purely a box of merch. The main attraction of this collector's edition is an eight-inch statue of Faye, Phranque the Cube, and Rue fighting a...",
+    "date": "Tue, 13 Oct 2026 12:47:00 +0000",
+    "link": "https://www.gamespot.com/articles/god-of-wars-laufey-collectors-edition-leaves-one-important-thing-out-the-game/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.14,
+      "score": 0.12,
       "badge": "success"
     },
     "tags": [
       "News",
       "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 20,
+    "title": "Xbox Is Testing A New Streak Feature That Could Make Gaming Feel (More) Like A Chore",
+    "source": "GameSpot",
+    "summary": "It looks like another new Xbox feature is in development, and this time, it's designed to encourage users to go on a hot streak--of using their console, not disrupting a sports event with a quick birthday-suit-run.\nSpotted by Game File's Stephen Totilo, a new number appears to be popping up on the d...",
+    "date": "Tue, 13 Oct 2026 14:49:57 +0000",
+    "link": "https://www.gamespot.com/articles/xbox-is-testing-a-new-streak-feature-that-could-make-gaming-feel-more-like-a-chore/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
     ],
     "read_time": "1 min read"
   }
