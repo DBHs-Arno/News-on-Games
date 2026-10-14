@@ -1,6 +1,42 @@
 [
   {
     "id": 1,
+    "title": "The MSI Codex R2 Intel Edition RTX 5070 Prebuilt Gaming PC Drops to $1449 With Free Delivery",
+    "source": "IGN",
+    "summary": "Excellent prebuilt option for 1080p and 1440p gaming, and it's capable enough to run games in 4K as well.",
+    "date": "Wed, 14 Oct 2026 01:20:00 +0000",
+    "link": "https://www.ign.com/articles/msi-codex-r2-rtx-5070-prebuilt-gaming-pc-deal-october-2026",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Fanttik Has a Great Deal on an All-in-One Electric Air Duster and Power Bank",
+    "source": "IGN",
+    "summary": "For a limited time, you can pick up the Fanttik B10 Pro Max Electric Air Duster and Power Bank for $44.99 with free shipping after you apply this coupon code.",
+    "date": "Wed, 14 Oct 2026 00:30:00 +0000",
+    "link": "https://www.ign.com/articles/fanttik-b10-pro-max-electric-air-duster-power-bank-deal-october-2026",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.38,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
     "title": "VisionQuest: What You Need to Remember Before the New MCU Show",
     "source": "IGN",
     "summary": "Here's everything you need to know about the Vision, Wanda, Tommy and Billy, and much more before watching the latest MCU show, VisionQuest.",
@@ -12,13 +48,13 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "Peak Has Been Leaked for PS5 by the ESRB",
     "source": "IGN",
     "summary": "The beloved co-op adventure game, Peak, has been leaked for PS5 by the ESRB.",
@@ -30,43 +66,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Save 20% Off the New Steelseries Aeon Pro Wireless Gaming Controller With Infinite Battery Life",
-    "source": "IGN",
-    "summary": "This controller is shaping up to be one of the best wireless PC and Xbox gaming controllers on the market.",
-    "date": "Tue, 13 Oct 2026 22:40:00 +0000",
-    "link": "https://www.ign.com/articles/steelseries-aeon-pro-wireless-gaming-controller-deal-october-2026",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.57,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "The Bose QuietComfort Noise Canceling Headphones Retail for $359, But You Can Get a Pair for Just $123",
-    "source": "IGN",
-    "summary": "Ships directly from Bose.",
-    "date": "Tue, 13 Oct 2026 22:35:00 +0000",
-    "link": "https://www.ign.com/articles/bose-quietcomfort-noise-canceling-headphone-deal-october-2026",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -119,8 +120,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -137,13 +138,67 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
+    "title": "10 Sci-Fi Books You Need to Read Before You Die",
+    "source": "Polygon",
+    "summary": "The ultimate reading list for mind-bending, genre-defining speculative fiction.",
+    "date": "Wed, 14 Oct 2026 04:00:20 GMT",
+    "link": "https://www.polygon.com/essential-sci-fi-books-you-need-to-read-at-least-once-in-your-life/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "'VisionQuest' Officially Makes the MCU's Most Overlooked Show Essential Viewing",
+    "source": "Polygon",
+    "summary": "Wanda and Vision's son emerges as a key character in VisionQuest, and Agatha All Along explained how that's possible.",
+    "date": "Wed, 14 Oct 2026 01:56:15 GMT",
+    "link": "https://www.polygon.com/visionquest-tommy-explainer-how-is-he-alive-agatha-all-along-spoilers/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "'VisionQuest' Just Officially Fixed a Huge Problem With MCU Canon",
+    "source": "Polygon",
+    "summary": "Episode 2 of VisionQuest showed Vision getting shot with adamantium bullets, marking the first time the metal is used in the MCU",
+    "date": "Wed, 14 Oct 2026 01:31:15 GMT",
+    "link": "https://www.polygon.com/adamantium-marvel-mcu-visionquest/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
     "title": "5 Forgotten Square Enix RPGs That Deserve a Comeback",
     "source": "Polygon",
     "summary": "Not every game can be Final Fantasy or Dragon Quest, but these neglected series deserve a second look from Square Enix",
@@ -155,66 +210,47 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "11 Magic: The Gathering Marvel Cards That Perfectly Capture Their Characters",
-    "source": "Polygon",
-    "summary": "Some of the best cards from Magic's Marvel Super Heroes set perfectly encapsulate their characters on cardboard.",
-    "date": "Tue, 13 Oct 2026 23:00:16 GMT",
-    "link": "https://www.polygon.com/mtg-best-marvel-card-designs-magic-the-gathering-super-heroes/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.72,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "New Xbox Labs Team Officially Announced",
-    "source": "Polygon",
-    "summary": "Xbox CEO Asha Sharma announces Xbox Labs, a new team that will focus on AI-inspired experiments, ports and mash-ups that have radically changed gaming",
-    "date": "Tue, 13 Oct 2026 21:08:30 GMT",
-    "link": "https://www.polygon.com/xbox-labs-asha-sharma-ai-vibe-coding/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "AI",
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Resident Evil 4 Remake On Switch 2 Is Capcom’s First Disappointment This Year",
-    "source": "Polygon",
-    "summary": "Resident Evil 4 remake's Switch 2 port is fuzzy and stuttery in handheld mode, though it runs much more smoothly while docked",
-    "date": "Tue, 13 Oct 2026 21:00:16 GMT",
-    "link": "https://www.polygon.com/resident-evil-4-remake-switch-2-impressions/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.24,
-      "badge": "danger"
-    },
-    "tags": [
-      "Remake"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
+    "title": "Steam now has a maddening bouncing logo screensaver, and I'm pretty sure it doesn't perfectly hit the corners",
+    "source": "PC Gamer",
+    "summary": "It sucks, get rid of it.",
+    "date": "Wed, 14 Oct 2026 03:08:04 +0000",
+    "link": "https://www.pcgamer.com/software/platforms/steam-now-has-a-maddening-bouncing-logo-screensaver-and-im-pretty-sure-it-doesnt-touch-the-corners/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.36,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Valve is clearing out its discontinued Index VR headsets if you want a cheap piece of history",
+    "source": "PC Gamer",
+    "summary": "The Steam Frame has rendered the tethered workhorse obsolete.",
+    "date": "Wed, 14 Oct 2026 00:42:28 +0000",
+    "link": "https://www.pcgamer.com/hardware/vr-hardware/valve-is-clearing-out-its-discontinued-index-vr-headsets-if-you-want-a-cheap-piece-of-history/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
     "title": "Rockstar co-founder Dan Houser says he 'failed' with Max Payne 3, and I'm sorry Danno but that's just plain wrong",
     "source": "PC Gamer",
     "summary": "Hear me out.",
@@ -226,13 +262,13 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "Kojima says he was 'just like Bryan' from the Resident Evil movie when he played RE1 in 1996: 'I kept getting game over after game over, shouting F***!'",
     "source": "PC Gamer",
     "summary": "\"It’s a film about the experience of playing Resident Evil, controller in hand.\"",
@@ -244,44 +280,8 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Legendary level designer Richard 'Levelord' Gray has died",
-    "source": "PC Gamer",
-    "summary": "Gray got his start with Duke Nukem 3D, before moving to co-found Ritual Entertainment.",
-    "date": "Tue, 13 Oct 2026 20:52:23 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/legendary-level-designer-richard-levelord-gray-has-died/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 1.0,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "World of Warcraft: Forever won't destroy what made the old classes so satisfying by modernizing them into oblivion: 'The level of mechanical complexity found in the beta classes is indicative of our intentions'",
-    "source": "PC Gamer",
-    "summary": "You will wait patiently for your next ability and you will learn to love it.",
-    "date": "Tue, 13 Oct 2026 20:40:33 +0000",
-    "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-wont-destroy-what-made-the-old-classes-so-satisfying-by-modernizing-them-into-oblivion-the-level-of-mechanical-complexity-found-in-the-beta-classes-is-indicative-of-our-intentions/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.18,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -298,8 +298,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -316,8 +316,8 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -351,8 +351,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
