@@ -1,72 +1,72 @@
 [
   {
     "id": 1,
-    "title": "Over 1 Million Characters Have Been Made in the WoW Forever Beta",
+    "title": "VisionQuest: What You Need to Remember Before the New MCU Show",
     "source": "IGN",
-    "summary": "It's no secret that World of Warcraft Forever has been incredibly popular since entering its beta last month, but now, over 1 million characters have been made.",
-    "date": "Tue, 13 Oct 2026 16:51:32 +0000",
-    "link": "https://www.ign.com/articles/over-1-million-characters-have-been-made-in-the-wow-forever-beta",
+    "summary": "Here's everything you need to know about the Vision, Wanda, Tommy and Billy, and much more before watching the latest MCU show, VisionQuest.",
+    "date": "Tue, 13 Oct 2026 23:06:18 +0000",
+    "link": "https://www.ign.com/articles/visionquest-recap-what-you-need-to-remember-before-the-new-mcu-show",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.23,
+      "score": 0.38,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Sony Announces $350 All-Black PS5, but You Probably Can't Buy It",
+    "title": "Peak Has Been Leaked for PS5 by the ESRB",
     "source": "IGN",
-    "summary": "After a few price increases, the PS5 will now set you back $599 for the Digital edition, but Sony has just announced a cheaper $350 console – but it's exclusive to Japan.",
-    "date": "Tue, 13 Oct 2026 16:49:54 +0000",
-    "link": "https://www.ign.com/articles/sony-announces-350-all-black-ps5-but-you-probably-cant-buy-it",
+    "summary": "The beloved co-op adventure game, Peak, has been leaked for PS5 by the ESRB.",
+    "date": "Tue, 13 Oct 2026 23:01:39 +0000",
+    "link": "https://www.ign.com/articles/peak-has-been-leaked-for-ps5-by-the-esrb",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Pan’s Labyrinth Is Getting a Gorgeous 20th Anniversary 4K Steelbook – Here’s Where To Preorder It",
+    "title": "Save 20% Off the New Steelseries Aeon Pro Wireless Gaming Controller With Infinite Battery Life",
     "source": "IGN",
-    "summary": "Guillermo del Toro's film Pan’s Labyrinth is getting a 20th Anniversary Collector’s Edition 4K steelbook. While its release date is still to be determined, preorders for it are officially live for $35.39.",
-    "date": "Tue, 13 Oct 2026 16:44:58 +0000",
-    "link": "https://www.ign.com/articles/pans-labyrinth-20th-anniversary-4k-steelbook-where-to-buy",
+    "summary": "This controller is shaping up to be one of the best wireless PC and Xbox gaming controllers on the market.",
+    "date": "Tue, 13 Oct 2026 22:40:00 +0000",
+    "link": "https://www.ign.com/articles/steelseries-aeon-pro-wireless-gaming-controller-deal-october-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.21,
+      "score": 0.57,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Get a 2-Pack of 6.6ft Right Angle USB-C Cables for $5 (Just $2.50 Per Cable)",
+    "title": "The Bose QuietComfort Noise Canceling Headphones Retail for $359, But You Can Get a Pair for Just $123",
     "source": "IGN",
-    "summary": "Universal cables perfect for your Switch 2, Steam Deck, or iPhone 18.",
-    "date": "Tue, 13 Oct 2026 16:15:00 +0000",
-    "link": "https://www.ign.com/articles/best-right-angle-usb-cable-deals-october-2026",
+    "summary": "Ships directly from Bose.",
+    "date": "Tue, 13 Oct 2026 22:35:00 +0000",
+    "link": "https://www.ign.com/articles/bose-quietcomfort-noise-canceling-headphone-deal-october-2026",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.43,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
     },
     "tags": [
-      "Steam"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -83,8 +83,8 @@
       "badge": "info"
     },
     "tags": [
-      "PlayStation",
-      "Patch"
+      "Patch",
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
@@ -101,8 +101,8 @@
       "badge": "info"
     },
     "tags": [
-      "Remake",
-      "Nintendo"
+      "Nintendo",
+      "Remake"
     ],
     "read_time": "1 min read"
   },
@@ -119,8 +119,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -137,221 +137,222 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "Xbox Is Experimenting with a Controversial Social Media Feature",
+    "title": "5 Forgotten Square Enix RPGs That Deserve a Comeback",
     "source": "Polygon",
-    "summary": "Xbox is experimenting with a new streak feature, which will track how many consecutive weeks you've used the system.",
-    "date": "Tue, 13 Oct 2026 17:59:34 GMT",
-    "link": "https://www.polygon.com/xbox-streak-feature-social-media-controversy/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "'Baywatch' Reboot Trailer Has All the Slo-Mo You Could Ever Want",
-    "source": "Polygon",
-    "summary": "Fox's Baywatch Reboot starring Stephen Amell releases trailer packed with steamy drama and slo-mo",
-    "date": "Tue, 13 Oct 2026 17:16:02 GMT",
-    "link": "https://www.polygon.com/baywatch-reboot-trailer-fox-stephen-amell/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "'An Unheard Farewell' quest walkthrough in Valor Mortis",
-    "source": "Polygon",
-    "summary": "Here's how to complete the Adjudant's side quest, \"An Unheard Farewell,\" in Valor Mortis, and where to find the missing soldiers.",
-    "date": "Tue, 13 Oct 2026 17:09:18 GMT",
-    "link": "https://www.polygon.com/valor-mortis-an-unheard-farewell-quest-walkthrough/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "How to beat The Iron Marshall in Valor Mortis",
-    "source": "Polygon",
-    "summary": "Here's how to defeat The Iron Marshall, the second major boss in Valor Mortis.",
-    "date": "Tue, 13 Oct 2026 17:01:15 GMT",
-    "link": "https://www.polygon.com/valor-mortis-iron-marshall-boss-how-to-beat/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Report claims Grand Theft Auto 6 will launch on PC sooner than anyone expected",
-    "source": "PC Gamer",
-    "summary": "If the rumored release window is accurate, it means the new GTA will hit PC just a few months after consoles—something almost unheard of from Rockstar.",
-    "date": "Tue, 13 Oct 2026 18:07:30 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/report-claims-grand-theft-auto-6-will-launch-on-pc-sooner-than-anyone-expected/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Can you beat General Lothaire in Valor Mortis?",
-    "source": "PC Gamer",
-    "summary": "Beat this big boss first time.",
-    "date": "Tue, 13 Oct 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/action/valor-mortis-general-lothaire-boss/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.1,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "How to equip ambers in Valor Mortis",
-    "source": "PC Gamer",
-    "summary": "Slot these rare gems to gain passive bonuses and abilities.",
-    "date": "Tue, 13 Oct 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/action/valor-mortis-amber-equip/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "How to complete The Scarecrow in Valor Mortis",
-    "source": "PC Gamer",
-    "summary": "Track down the unfortunate man's missing possessions.",
-    "date": "Tue, 13 Oct 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/action/valor-mortis-the-scarecrow-walkthrough/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.19,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "Red Dead’s Shocking Twist Ending Angered A Lot Of People, But It Was The Right Call, Rockstar Co-Founder Says",
-    "source": "GameSpot",
-    "summary": "Rockstar co-founder Dan Houser has recalled the controversial ending to 2010's Red Dead Redemption in which the main character, John Marston, is killed. \nHe said in an interview that the game's lead designer, Christian Cantamessa was on board with the idea to kill off Marston, but Houser wondered ab...",
-    "date": "Tue, 13 Oct 2026 17:52:01 +0000",
-    "link": "https://www.gamespot.com/articles/red-deads-shocking-twist-ending-angered-a-lot-of-people-but-it-was-the-right-call-rockstar-co-founder-says/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "Battlefield 6 Comes To Game Pass, As $30 Microtransaction That Instantly Unlocks All Guns Is Now Available",
-    "source": "GameSpot",
-    "summary": "It's a big day for Xbox Game Pass, as developer Battlefield Studios has launched Battlefield 6 into Game Pass, and it comes at a big moment for the game.\nBattlefield 6 is now available for Xbox Game Pass Ultimate ($23/month) subscribers on PC and console. It can also be streamed.\nThe game's arrival ...",
-    "date": "Tue, 13 Oct 2026 15:59:29 +0000",
-    "link": "https://www.gamespot.com/articles/battlefield-6-comes-to-game-pass-as-30-microtransaction-that-instantly-unlocks-all-guns-is-now-available/",
+    "summary": "Not every game can be Final Fantasy or Dragon Quest, but these neglected series deserve a second look from Square Enix",
+    "date": "Wed, 14 Oct 2026 00:00:16 GMT",
+    "link": "https://www.polygon.com/forgotten-square-enix-rpgs/",
     "sentiment": {
       "label": "Critical / Mixed",
       "score": -0.13,
       "badge": "danger"
     },
     "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "11 Magic: The Gathering Marvel Cards That Perfectly Capture Their Characters",
+    "source": "Polygon",
+    "summary": "Some of the best cards from Magic's Marvel Super Heroes set perfectly encapsulate their characters on cardboard.",
+    "date": "Tue, 13 Oct 2026 23:00:16 GMT",
+    "link": "https://www.polygon.com/mtg-best-marvel-card-designs-magic-the-gathering-super-heroes/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.72,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "New Xbox Labs Team Officially Announced",
+    "source": "Polygon",
+    "summary": "Xbox CEO Asha Sharma announces Xbox Labs, a new team that will focus on AI-inspired experiments, ports and mash-ups that have radically changed gaming",
+    "date": "Tue, 13 Oct 2026 21:08:30 GMT",
+    "link": "https://www.polygon.com/xbox-labs-asha-sharma-ai-vibe-coding/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
+    },
+    "tags": [
+      "AI",
       "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Resident Evil 4 Remake On Switch 2 Is Capcom’s First Disappointment This Year",
+    "source": "Polygon",
+    "summary": "Resident Evil 4 remake's Switch 2 port is fuzzy and stuttery in handheld mode, though it runs much more smoothly while docked",
+    "date": "Tue, 13 Oct 2026 21:00:16 GMT",
+    "link": "https://www.polygon.com/resident-evil-4-remake-switch-2-impressions/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.24,
+      "badge": "danger"
+    },
+    "tags": [
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Rockstar co-founder Dan Houser says he 'failed' with Max Payne 3, and I'm sorry Danno but that's just plain wrong",
+    "source": "PC Gamer",
+    "summary": "Hear me out.",
+    "date": "Tue, 13 Oct 2026 22:19:05 +0000",
+    "link": "https://www.pcgamer.com/games/third-person-shooter/rockstar-co-founder-dan-houser-says-he-failed-with-max-payne-3-and-im-sorry-danno-but-thats-just-plain-wrong/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.43,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Kojima says he was 'just like Bryan' from the Resident Evil movie when he played RE1 in 1996: 'I kept getting game over after game over, shouting F***!'",
+    "source": "PC Gamer",
+    "summary": "\"It’s a film about the experience of playing Resident Evil, controller in hand.\"",
+    "date": "Tue, 13 Oct 2026 22:04:33 +0000",
+    "link": "https://www.pcgamer.com/movies-tv/kojima-says-he-was-just-like-bryan-from-the-resident-evil-movie-when-he-played-re1-in-1996-i-kept-getting-game-over-after-game-over-shouting-f/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.72,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Legendary level designer Richard 'Levelord' Gray has died",
+    "source": "PC Gamer",
+    "summary": "Gray got his start with Duke Nukem 3D, before moving to co-found Ritual Entertainment.",
+    "date": "Tue, 13 Oct 2026 20:52:23 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/legendary-level-designer-richard-levelord-gray-has-died/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 1.0,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "World of Warcraft: Forever won't destroy what made the old classes so satisfying by modernizing them into oblivion: 'The level of mechanical complexity found in the beta classes is indicative of our intentions'",
+    "source": "PC Gamer",
+    "summary": "You will wait patiently for your next ability and you will learn to love it.",
+    "date": "Tue, 13 Oct 2026 20:40:33 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-wont-destroy-what-made-the-old-classes-so-satisfying-by-modernizing-them-into-oblivion-the-level-of-mechanical-complexity-found-in-the-beta-classes-is-indicative-of-our-intentions/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.18,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "Hideo Kojima Reviews The Resident Evil Movie",
+    "source": "GameSpot",
+    "summary": "Writer-director Hideo Kojima has seen Zach Cregger's Resident Evil movie, and he has now shared his review. Kojima, a true cinephile known for his public movie reviews, said he \"wasn't particularly interested\" in seeing the movie at first, but he did, and he sounded pretty impressed by what he saw.\n...",
+    "date": "Tue, 13 Oct 2026 19:42:51 +0000",
+    "link": "https://www.gamespot.com/articles/hideo-kojima-reviews-the-resident-evil-movie/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Here Are The Highest-Grossing Resident Evil Movies Ever, And The New One Is Now No. 1",
+    "source": "GameSpot",
+    "summary": "Zach Cregger's Resident Evil movie got solid reviews and is making a lot of money at the box office, but where does it rank on the list of highest-grossing Resident Evil movies? Following its debut in China, it's now No. 1 overall.\nDirector Paul W.S. Anderson made six previous Resident Evil movies, ...",
+    "date": "Thu, 08 Oct 2026 16:00:32 +0000",
+    "link": "https://www.gamespot.com/articles/here-are-the-highest-grossing-resident-evil-movies-ever-and-the-new-one-isnt-no-1/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.48,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 19,
-    "title": "God Of War’s Laufey Collector’s Edition Leaves One Important Thing Out: The Game",
+    "title": "Battlefield 6 Now Lets You Instantly Unlock All Guns At 100% Mastery For $30",
     "source": "GameSpot",
-    "summary": "The God of War Laufey Collector's Edition has been revealed, but unlike the standard and digital deluxe editions that went up for preorder last month, this is purely a box of merch. The main attraction of this collector's edition is an eight-inch statue of Faye, Phranque the Cube, and Rue fighting a...",
-    "date": "Tue, 13 Oct 2026 12:47:00 +0000",
-    "link": "https://www.gamespot.com/articles/god-of-wars-laufey-collectors-edition-leaves-one-important-thing-out-the-game/",
+    "summary": "It's a big week for Battlefield 6, as the game just launched its big Season 5 update, arrived on Xbox Game Pass, and ushered in a new Game of the Year Edition. That's not all, however, as the military shooter added a big new microtransaction in the form of the Ultimate Shortcut Kit.\nSimilar to how t...",
+    "date": "Tue, 13 Oct 2026 19:05:04 +0000",
+    "link": "https://www.gamespot.com/articles/battlefield-6-now-lets-you-instantly-unlock-all-guns-at-100-mastery-for-30/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.09,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "Xbox Is Testing A New Streak Feature That Could Make Gaming Feel (More) Like A Chore",
+    "title": "Despite Huge Changes For The Series, Halo Fest 2026 Is Going Forward, And News Is Coming Soon",
     "source": "GameSpot",
-    "summary": "It looks like another new Xbox feature is in development, and this time, it's designed to encourage users to go on a hot streak--of using their console, not disrupting a sports event with a quick birthday-suit-run.\nSpotted by Game File's Stephen Totilo, a new number appears to be popping up on the d...",
-    "date": "Tue, 13 Oct 2026 14:49:57 +0000",
-    "link": "https://www.gamespot.com/articles/xbox-is-testing-a-new-streak-feature-that-could-make-gaming-feel-more-like-a-chore/",
+    "summary": "The big Halo Fest event planned for December is going ahead as planned, despite mass layoffs and other major changes at developer Halo Studios.\nHalo Studios director of competitive engagement, Tashi, confirmed this and said there will be news about Halo Fest this week. Additionally, Halo Studios wil...",
+    "date": "Tue, 13 Oct 2026 18:30:59 +0000",
+    "link": "https://www.gamespot.com/articles/despite-huge-changes-for-the-series-halo-fest-2026-is-going-forward-and-news-is-coming-soon/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.16,
+      "score": 0.15,
       "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
