@@ -1,337 +1,104 @@
 [
   {
     "id": 1,
-    "title": "The MSI Codex R2 Intel Edition RTX 5070 Prebuilt Gaming PC Drops to $1449 With Free Delivery",
+    "title": "Rockstar Pushes Back on Rumor GTA 6 Cost More Than $1.5 Billion to Make, but It's Still Probably the Most Expensive Video Game of All Time",
     "source": "IGN",
-    "summary": "Excellent prebuilt option for 1080p and 1440p gaming, and it's capable enough to run games in 4K as well.",
-    "date": "Wed, 14 Oct 2026 01:20:00 +0000",
-    "link": "https://www.ign.com/articles/msi-codex-r2-rtx-5070-prebuilt-gaming-pc-deal-october-2026",
+    "summary": "Rockstar has insisted GTA 6 did not cost more than $1.5 billion to make, countering an online rumor, but it’s still probably the most expensive video game of all time.",
+    "date": "Wed, 14 Oct 2026 11:53:58 +0000",
+    "link": "https://www.ign.com/articles/rockstar-pushes-back-on-rumor-gta-6-cost-more-than-15-billion-to-make-but-its-still-probably-the-most-expensive-video-game-of-all-time",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Fanttik Has a Great Deal on an All-in-One Electric Air Duster and Power Bank",
+    "title": "Amazon Has a Sale on MTG x Marvel Super Heroes Boosters Right Now, Including Some Big Price Drops",
     "source": "IGN",
-    "summary": "For a limited time, you can pick up the Fanttik B10 Pro Max Electric Air Duster and Power Bank for $44.99 with free shipping after you apply this coupon code.",
-    "date": "Wed, 14 Oct 2026 00:30:00 +0000",
-    "link": "https://www.ign.com/articles/fanttik-b10-pro-max-electric-air-duster-power-bank-deal-october-2026",
+    "summary": "Save big bucks on Magic: The Gathering’s Marvel Super Heroes set at Amazon, including Commander precons, Play Boosters, and some sneaky Collector bundles before Darkhold Destiny launches next year.",
+    "date": "Wed, 14 Oct 2026 11:39:35 +0000",
+    "link": "https://www.ign.com/articles/magic-the-gathering-marvel-super-hero-deals-amazon-new",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.38,
+      "score": 0.21,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "VisionQuest: What You Need to Remember Before the New MCU Show",
+    "title": "Battlefield 6 Skins With Way Too Many Pistols and Spelling Errors Spark AI Accusations",
     "source": "IGN",
-    "summary": "Here's everything you need to know about the Vision, Wanda, Tommy and Billy, and much more before watching the latest MCU show, VisionQuest.",
-    "date": "Tue, 13 Oct 2026 23:06:18 +0000",
-    "link": "https://www.ign.com/articles/visionquest-recap-what-you-need-to-remember-before-the-new-mcu-show",
+    "summary": "Battlefield 6 has come under fire from fans after its latest battle pass was found to include new character skins with some pretty clear design flaws.",
+    "date": "Wed, 14 Oct 2026 11:19:39 +0000",
+    "link": "https://www.ign.com/articles/battlefield-6-skins-generative-ai-accusations",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.38,
+      "score": 0.3,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Peak Has Been Leaked for PS5 by the ESRB",
+    "title": "Mini PCs Are All The Rage: See What All The Fuss Is About With This AliExpress Deal That Saves You Hundreds",
     "source": "IGN",
-    "summary": "The beloved co-op adventure game, Peak, has been leaked for PS5 by the ESRB.",
-    "date": "Tue, 13 Oct 2026 23:01:39 +0000",
-    "link": "https://www.ign.com/articles/peak-has-been-leaked-for-ps5-by-the-esrb",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "CD Projekt Red reassures players The Witcher 3 Switch 2 patch still due, as update rolls out for PS5 and PS5 Pro",
-    "source": "Eurogamer",
-    "summary": "CD Projekt Red has released an update for The Witcher 3 Remastered on PlayStation 5 and PS5 Pro, making \"various stability improvements to help ensure a more reliable experience\" to the game. And those are the entire patch notes for hotfix 5.01b, Eurogamer understands. Read more...",
-    "date": "Tue, 13 Oct 2026 16:13:54 +0000",
-    "link": "https://www.eurogamer.net/witcher-3-remastered-ps5-pro-switch-patch",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "Patch",
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy",
-    "source": "Eurogamer",
-    "summary": "As American comedy series Saturday Night Live airs a sketch lampooning the November showdown between Grand Theft Auto 6 and The Legend of Zelda: Ocarina of Time remake, a pair of former Nintendo employees have recalled a more infamous SNL sketch from years earlier that did not go down well at all. R...",
-    "date": "Tue, 13 Oct 2026 15:33:54 +0000",
-    "link": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "Nintendo",
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Sifu, the singular kung fu action game, is out now on Android and iOS",
-    "source": "Eurogamer",
-    "summary": "Sifu, Sloclap's 2022 martial arts action game, can now be played on smartphones. The French developer released the game today on Android and iOS, following an announcement earlier in the month. Read more...",
-    "date": "Tue, 13 Oct 2026 14:26:57 +0000",
-    "link": "https://www.eurogamer.net/sifu-mobile-release-android-ios",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "GTA 6's PC release date is set for \"Q1 2027\", per a new report",
-    "source": "Eurogamer",
-    "summary": "A new report suggests that GTA 6 will release on PC in \"Q1 2027\". That, at least, is what GamesBeat is saying, citing \"sources familiar with the matter.\" Read more...",
-    "date": "Tue, 13 Oct 2026 13:57:07 +0000",
-    "link": "https://www.eurogamer.net/gta-6s-pc-release-date-is-set-for-q1-2027-per-a-new-report",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "10 Sci-Fi Books You Need to Read Before You Die",
-    "source": "Polygon",
-    "summary": "The ultimate reading list for mind-bending, genre-defining speculative fiction.",
-    "date": "Wed, 14 Oct 2026 04:00:20 GMT",
-    "link": "https://www.polygon.com/essential-sci-fi-books-you-need-to-read-at-least-once-in-your-life/",
+    "summary": "Save big on this Windows 11 mini PC from GMKtec and get to work for a fraction of the cost of a rival model.",
+    "date": "Wed, 14 Oct 2026 10:59:10 +0000",
+    "link": "https://www.ign.com/articles/mini-pcs-are-all-the-rage-see-what-all-the-fuss-is-about-with-this-aliexpress-deal-that-saves-you-hundreds",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "'VisionQuest' Officially Makes the MCU's Most Overlooked Show Essential Viewing",
-    "source": "Polygon",
-    "summary": "Wanda and Vision's son emerges as a key character in VisionQuest, and Agatha All Along explained how that's possible.",
-    "date": "Wed, 14 Oct 2026 01:56:15 GMT",
-    "link": "https://www.polygon.com/visionquest-tommy-explainer-how-is-he-alive-agatha-all-along-spoilers/",
+    "id": 5,
+    "title": "GTA 6 was originally Project Americas and covered \"big swaths\" of country's north and south, Rockstar reveals, in interview tackling crunch, delays, and leaks",
+    "source": "Eurogamer",
+    "summary": "Rockstar Games has revealed the original codename for Grand Theft Auto 6 was Project Americas, and that its intention was for the game to cover large areas of land in both the north of the country and the south. Read more...",
+    "date": "Wed, 14 Oct 2026 11:39:03 +0000",
+    "link": "https://www.eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.22,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Destiny 1 project, which aims to port the game to PC, seemingly gets a nod from Bungie boss",
+    "source": "Eurogamer",
+    "summary": "The original Destiny never made it to PC, but the shooter-MMO may not stay locked to PS4 and Xbox One for much longer. Some crafty modders have been working to get the game running on PC, and their efforts recently caught the eye of Bungie, which surprisingly didn't result in a take-down - not yet, ...",
+    "date": "Wed, 14 Oct 2026 10:36:37 +0000",
+    "link": "https://www.eurogamer.net/destiny-1-project-golden-age-pc-revival-bungie-nod",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.12,
       "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "'VisionQuest' Just Officially Fixed a Huge Problem With MCU Canon",
-    "source": "Polygon",
-    "summary": "Episode 2 of VisionQuest showed Vision getting shot with adamantium bullets, marking the first time the metal is used in the MCU",
-    "date": "Wed, 14 Oct 2026 01:31:15 GMT",
-    "link": "https://www.polygon.com/adamantium-marvel-mcu-visionquest/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "5 Forgotten Square Enix RPGs That Deserve a Comeback",
-    "source": "Polygon",
-    "summary": "Not every game can be Final Fantasy or Dragon Quest, but these neglected series deserve a second look from Square Enix",
-    "date": "Wed, 14 Oct 2026 00:00:16 GMT",
-    "link": "https://www.polygon.com/forgotten-square-enix-rpgs/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.13,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Steam now has a maddening bouncing logo screensaver, and I'm pretty sure it doesn't perfectly hit the corners",
-    "source": "PC Gamer",
-    "summary": "It sucks, get rid of it.",
-    "date": "Wed, 14 Oct 2026 03:08:04 +0000",
-    "link": "https://www.pcgamer.com/software/platforms/steam-now-has-a-maddening-bouncing-logo-screensaver-and-im-pretty-sure-it-doesnt-touch-the-corners/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.36,
-      "badge": "success"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Valve is clearing out its discontinued Index VR headsets if you want a cheap piece of history",
-    "source": "PC Gamer",
-    "summary": "The Steam Frame has rendered the tethered workhorse obsolete.",
-    "date": "Wed, 14 Oct 2026 00:42:28 +0000",
-    "link": "https://www.pcgamer.com/hardware/vr-hardware/valve-is-clearing-out-its-discontinued-index-vr-headsets-if-you-want-a-cheap-piece-of-history/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Rockstar co-founder Dan Houser says he 'failed' with Max Payne 3, and I'm sorry Danno but that's just plain wrong",
-    "source": "PC Gamer",
-    "summary": "Hear me out.",
-    "date": "Tue, 13 Oct 2026 22:19:05 +0000",
-    "link": "https://www.pcgamer.com/games/third-person-shooter/rockstar-co-founder-dan-houser-says-he-failed-with-max-payne-3-and-im-sorry-danno-but-thats-just-plain-wrong/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.43,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Kojima says he was 'just like Bryan' from the Resident Evil movie when he played RE1 in 1996: 'I kept getting game over after game over, shouting F***!'",
-    "source": "PC Gamer",
-    "summary": "\"It’s a film about the experience of playing Resident Evil, controller in hand.\"",
-    "date": "Tue, 13 Oct 2026 22:04:33 +0000",
-    "link": "https://www.pcgamer.com/movies-tv/kojima-says-he-was-just-like-bryan-from-the-resident-evil-movie-when-he-played-re1-in-1996-i-kept-getting-game-over-after-game-over-shouting-f/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.72,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "Hideo Kojima Reviews The Resident Evil Movie",
-    "source": "GameSpot",
-    "summary": "Writer-director Hideo Kojima has seen Zach Cregger's Resident Evil movie, and he has now shared his review. Kojima, a true cinephile known for his public movie reviews, said he \"wasn't particularly interested\" in seeing the movie at first, but he did, and he sounded pretty impressed by what he saw.\n...",
-    "date": "Tue, 13 Oct 2026 19:42:51 +0000",
-    "link": "https://www.gamespot.com/articles/hideo-kojima-reviews-the-resident-evil-movie/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "Here Are The Highest-Grossing Resident Evil Movies Ever, And The New One Is Now No. 1",
-    "source": "GameSpot",
-    "summary": "Zach Cregger's Resident Evil movie got solid reviews and is making a lot of money at the box office, but where does it rank on the list of highest-grossing Resident Evil movies? Following its debut in China, it's now No. 1 overall.\nDirector Paul W.S. Anderson made six previous Resident Evil movies, ...",
-    "date": "Thu, 08 Oct 2026 16:00:32 +0000",
-    "link": "https://www.gamespot.com/articles/here-are-the-highest-grossing-resident-evil-movies-ever-and-the-new-one-isnt-no-1/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.48,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "Battlefield 6 Now Lets You Instantly Unlock All Guns At 100% Mastery For $30",
-    "source": "GameSpot",
-    "summary": "It's a big week for Battlefield 6, as the game just launched its big Season 5 update, arrived on Xbox Game Pass, and ushered in a new Game of the Year Edition. That's not all, however, as the military shooter added a big new microtransaction in the form of the Ultimate Shortcut Kit.\nSimilar to how t...",
-    "date": "Tue, 13 Oct 2026 19:05:04 +0000",
-    "link": "https://www.gamespot.com/articles/battlefield-6-now-lets-you-instantly-unlock-all-guns-at-100-mastery-for-30/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.09,
-      "badge": "info"
     },
     "tags": [
       "Xbox"
@@ -339,20 +106,251 @@
     "read_time": "1 min read"
   },
   {
-    "id": 20,
-    "title": "Despite Huge Changes For The Series, Halo Fest 2026 Is Going Forward, And News Is Coming Soon",
-    "source": "GameSpot",
-    "summary": "The big Halo Fest event planned for December is going ahead as planned, despite mass layoffs and other major changes at developer Halo Studios.\nHalo Studios director of competitive engagement, Tashi, confirmed this and said there will be news about Halo Fest this week. Additionally, Halo Studios wil...",
-    "date": "Tue, 13 Oct 2026 18:30:59 +0000",
-    "link": "https://www.gamespot.com/articles/despite-huge-changes-for-the-series-halo-fest-2026-is-going-forward-and-news-is-coming-soon/",
+    "id": 7,
+    "title": "\"You don't listen to the loudest people in the room\" - World of Warcraft: Forever boss discusses how to approach a deluge of feedback",
+    "source": "Eurogamer",
+    "summary": "World of Warcraft executive producer Holly Longdale has spoken at PAX Australia ahead of World of Warcraft: Forever's imminent release. Of note were her comments on the sheer popularity of the beta and how the team is handling the waves of feedback from early players. Read more...",
+    "date": "Wed, 14 Oct 2026 09:59:22 +0000",
+    "link": "https://www.eurogamer.net/world-of-warcraft-forever-feedback-blizzard-listening",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.15,
+      "score": 0.2,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Former game-seller Zavvi enters administration again and \"is unable to fulfil any outstanding orders or pre-orders\"",
+    "source": "Eurogamer",
+    "summary": "Former game-seller Zavvi could be about to close for good; the company announced it has entered administration and that it has ceased trading while the insolvency process is resolved. Read more...",
+    "date": "Wed, 14 Oct 2026 09:54:26 +0000",
+    "link": "https://www.eurogamer.net/zavvi-administration-2026-orders",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "Nintendo Switch Online Additions Include Perfectly Timed GBA Classics",
+    "source": "Polygon",
+    "summary": "Nintendo released three classic games for Switch Online's Expansion Pack October update, right before highly anticipated releases.",
+    "date": "Wed, 14 Oct 2026 12:23:37 GMT",
+    "link": "https://www.polygon.com/nintendo-switch-online-game-boy-advance-october-2026/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "10 Years Ago, PlayStation Almost Changed Gaming Forever",
+    "source": "Polygon",
+    "summary": "This week marks the 10-year anniversary of the PlayStation VR, a headset which nearly made the case for VR gaming on consoles.",
+    "date": "Wed, 14 Oct 2026 11:01:15 GMT",
+    "link": "https://www.polygon.com/playstation-vr-10-year-retrospective/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "20 Years Ago, Lord of the Rings Paved the Way for New Zealand's Weirdest Zombie Movie",
+    "source": "Polygon",
+    "summary": "Without The Lord of the Rings, we would never have gotten Zealand's wackiest horror movie, 'Black Sheep'.",
+    "date": "Wed, 14 Oct 2026 10:00:15 GMT",
+    "link": "https://www.polygon.com/the-lord-of-the-rings-black-sheep/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "The Witcher 3 Remastered Switch 2 Patch Is Officially 'On the Way'",
+    "source": "Polygon",
+    "summary": "CD Projekt Red just gave an important update to Switch 2 players waiting for their The Witcher Remastered patch.",
+    "date": "Wed, 14 Oct 2026 09:48:30 GMT",
+    "link": "https://www.polygon.com/the-witcher-3-remastered-nintendo-switch-2-patch-update/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "Patch"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "OpenAI employee arrested for allegedly using AI and toilet paper to record confidential meetings - FBI director Kash Patel jumps at the chance to say AI companies are 'essential' for national security",
+    "source": "PC Gamer",
+    "summary": "AI and toilet paper: the joke writes itself, doesn't it?",
+    "date": "Wed, 14 Oct 2026 11:43:43 +0000",
+    "link": "https://www.pcgamer.com/software/security/openai-employee-arrested-for-allegedly-using-ai-and-toilet-paper-to-record-confidential-meetings-fbi-director-kash-patel-jumps-at-the-chance-to-say-ai-companies-are-essential-for-national-security/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.04,
+      "badge": "info"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "'123456' password was all a hacker reportedly needed to expose over 8 million people's personal data",
+    "source": "PC Gamer",
+    "summary": "A department where just a little bit of creativity doesn't go amiss.",
+    "date": "Wed, 14 Oct 2026 10:56:42 +0000",
+    "link": "https://www.pcgamer.com/software/security/123456-password-was-all-a-hacker-reportedly-needed-to-expose-over-8-million-peoples-personal-data/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.09,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Haunted Chocolatier is still 'a town game', but it'll be more of an action RPG: 'It's for the people in Stardew Valley that go into the mines'",
+    "source": "PC Gamer",
+    "summary": "Farming dungeons, not gourds.",
+    "date": "Wed, 14 Oct 2026 10:49:55 +0000",
+    "link": "https://www.pcgamer.com/games/life-sim/haunted-chocolatier-is-still-a-town-game-but-itll-be-more-of-an-action-rpg-its-for-the-people-in-stardew-valley-that-go-into-the-mines/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "I just tricked DLSS into running on my AMD GPU in Cyberpunk 2077 and Alan Wake 2 and all it took was running a single script",
+    "source": "PC Gamer",
+    "summary": "It's easy enough to install, so worth a try, I'd say.",
+    "date": "Wed, 14 Oct 2026 09:46:39 +0000",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/i-just-tricked-dlss-into-running-on-my-amd-gpu-in-cyberpunk-2077-and-alan-wake-2-and-all-it-took-was-running-a-single-script/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
+    },
+    "tags": [
+      "GPU",
+      "AMD",
+      "Cyberpunk",
+      "DLSS"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "Rockstar Says GTA 6 Didn’t Cost $1.5 Billion To Make, But Won’t Reveal The Real Number",
+    "source": "GameSpot",
+    "summary": "It's no secret that video game development is more expensive than ever before, and in a hit-driven industry, Grand Theft Auto VI is rumored to be the most expensive game ever made. Various numbers have been thrown around, with one report even claiming that $1.5 billion was spent--around the budget o...",
+    "date": "Wed, 14 Oct 2026 11:42:56 +0000",
+    "link": "https://www.gamespot.com/articles/rockstar-says-gta-6-didnt-cost-1-5-billion-to-make-but-wont-reveal-the-real-number/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Rockstar Built An Entire Studio Just To Create GTA 6 NPCs",
+    "source": "GameSpot",
+    "summary": "Rockstar Games reportedly established an entire studio in Los Angeles dedicated to creating NPCs for Grand Theft Auto 6 after realizing the game's ambitious world would need far more production resources than initially expected. \nSpeaking to Bloomberg, Rockstar development lead Rob Nelson explained ...",
+    "date": "Wed, 14 Oct 2026 11:07:36 +0000",
+    "link": "https://www.gamespot.com/articles/rockstar-built-an-entire-studio-just-to-create-gta-6-npcs/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "Rockstar’s GTA 6 Realism Experiment Started With Beer And Sandwiches",
+    "source": "GameSpot",
+    "summary": "Compared to previous games in the series, Grand Theft Auto 6 is aiming to add new layers of realism to the franchise. As the criminal couple Jason Duval and Lucia Caminos, players will explore a city where actions have consequences, and it's not easy to shake the long arm of the law when you cause c...",
+    "date": "Wed, 14 Oct 2026 11:02:14 +0000",
+    "link": "https://www.gamespot.com/articles/rockstars-gta-6-realism-experiment-started-with-beer-and-sandwiches/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 20,
+    "title": "Xbox Is Getting Into AI Gaming, Even If It Won’t Say So",
+    "source": "GameSpot",
+    "summary": "Vibe-coded games playable in web browsers have exploded in popularity recently, and amid a deluge of ports and remasters created with generative AI, Xbox is responding by creating Xbox Labs. The new branch of Xbox is described as an initiative designed to get more people playing games--especially on...",
+    "date": "Wed, 14 Oct 2026 10:50:37 +0000",
+    "link": "https://www.gamespot.com/articles/xbox-is-getting-into-ai-gaming-even-if-it-wont-say-so/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.21,
+      "badge": "success"
+    },
+    "tags": [
+      "AI",
+      "Xbox"
     ],
     "read_time": "1 min read"
   }
