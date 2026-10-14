@@ -1,32 +1,31 @@
 [
   {
     "id": 1,
-    "title": "Rockstar Pushes Back on Rumor GTA 6 Cost More Than $1.5 Billion to Make, but It's Still Probably the Most Expensive Video Game of All Time",
+    "title": "PlayStation Plus Game Catalog October 2026 Lineup Confirmed",
     "source": "IGN",
-    "summary": "Rockstar has insisted GTA 6 did not cost more than $1.5 billion to make, countering an online rumor, but it’s still probably the most expensive video game of all time.",
-    "date": "Wed, 14 Oct 2026 11:53:58 +0000",
-    "link": "https://www.ign.com/articles/rockstar-pushes-back-on-rumor-gta-6-cost-more-than-15-billion-to-make-but-its-still-probably-the-most-expensive-video-game-of-all-time",
+    "summary": "The PlayStation Plus game catalog adds some fantastic titles to its library this month, including Mafia: The Old Country. Check out the lineup in full.",
+    "date": "Wed, 14 Oct 2026 16:55:19 +0000",
+    "link": "https://www.ign.com/articles/playstation-plus-game-catalog-october-2026-lineup-confirmed",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.02,
+      "score": 0.07,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Amazon Has a Sale on MTG x Marvel Super Heroes Boosters Right Now, Including Some Big Price Drops",
+    "title": "Gears of War: E-Day Mod Adds Halo, Star Wars, and Warhammer 40,000 Skins",
     "source": "IGN",
-    "summary": "Save big bucks on Magic: The Gathering’s Marvel Super Heroes set at Amazon, including Commander precons, Play Boosters, and some sneaky Collector bundles before Darkhold Destiny launches next year.",
-    "date": "Wed, 14 Oct 2026 11:39:35 +0000",
-    "link": "https://www.ign.com/articles/magic-the-gathering-marvel-super-hero-deals-amazon-new",
+    "summary": "A Gears of War: E-Day mod lets players fancast your own team of Gears, with options from everything from Halo spartans to Space Marines from Warhammer 40,000.",
+    "date": "Wed, 14 Oct 2026 16:39:26 +0000",
+    "link": "https://www.ign.com/articles/halo-warhammer-gears-of-war-e-day-mod",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.21,
+      "score": 0.33,
       "badge": "success"
     },
     "tags": [
@@ -37,28 +36,188 @@
   },
   {
     "id": 3,
-    "title": "Battlefield 6 Skins With Way Too Many Pistols and Spelling Errors Spark AI Accusations",
+    "title": "The Steelseries Arctis Nova Pro Omni Gaming Headset With Infinite Battery Life Drops to a New Price Low",
     "source": "IGN",
-    "summary": "Battlefield 6 has come under fire from fans after its latest battle pass was found to include new character skins with some pretty clear design flaws.",
-    "date": "Wed, 14 Oct 2026 11:19:39 +0000",
-    "link": "https://www.ign.com/articles/battlefield-6-skins-generative-ai-accusations",
+    "summary": "Successor to the venerable Arctis Nova Pro.",
+    "date": "Wed, 14 Oct 2026 16:30:00 +0000",
+    "link": "https://www.ign.com/articles/steelseries-arctis-nova-pro-omni-gaming-headset-deal-october-2026",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
     },
     "tags": [
-      "AI"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Mini PCs Are All The Rage: See What All The Fuss Is About With This AliExpress Deal That Saves You Hundreds",
+    "title": "Everything Announced at IGN Fan Fest: Fall Edition 2026 (Updating Live!)",
     "source": "IGN",
-    "summary": "Save big on this Windows 11 mini PC from GMKtec and get to work for a fraction of the cost of a rival model.",
-    "date": "Wed, 14 Oct 2026 10:59:10 +0000",
-    "link": "https://www.ign.com/articles/mini-pcs-are-all-the-rage-see-what-all-the-fuss-is-about-with-this-aliexpress-deal-that-saves-you-hundreds",
+    "summary": "IGN Fan Fest 2026: Fall Edition is about to begin, and this article will be where you can catch the over 90 exclusive reveals we have in store, including from VisionQuest, Cyberpunk Edgerunners 2, Rainbow Six Siege, Whalefall, and many more! We'll be updating this roundup live, so be sure to keep ch...",
+    "date": "Wed, 14 Oct 2026 16:28:55 +0000",
+    "link": "https://www.ign.com/articles/everything-announced-at-ign-fan-fest-fall-edition-2026",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.39,
+      "badge": "success"
+    },
+    "tags": [
+      "Cyberpunk"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Epic throws shade at Steam, admits to vibe-coding the new Epic Games Launcher with AI \"to be faster than the other guy\"",
+    "source": "Eurogamer",
+    "summary": "Epic Games isn't lifting its foot off the gen-AI pedal. The company behind Fortnite and Unreal Engine has now vibe-coded a new Epic Games Launcher in an attempt to outrun Steam, by far the most popular digital games marketplace on PC. Read more...",
+    "date": "Wed, 14 Oct 2026 18:17:03 +0000",
+    "link": "https://www.eurogamer.net/epic-throws-shade-steam-vibe-coding-games-launcher-ai",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam",
+      "Unreal Engine",
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Here are our PS Plus Premium and Extra games for October",
+    "source": "Eurogamer",
+    "summary": "Sony has announced the games coming to PlayStation Plus Premium and Extra in October, and there's a good mix of modern hits and older gems to sink your teeth into for the spooky month of Halloween. Read more...",
+    "date": "Wed, 14 Oct 2026 16:51:54 +0000",
+    "link": "https://www.eurogamer.net/playstation-plus-october-2026-games",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.26,
+      "badge": "success"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "ArenaNet solves an ongoing Guild Wars 2 issue by ditching paid Living World add-ons and bundling them with expansions",
+    "source": "Eurogamer",
+    "summary": "ArenaNet has announced a major shift in its live service Guild Wars 2 operation today, ditching separate payments for Living World seasonal add-ons and packaging the narrative storylines alongside the MMO's expansions instead. Read more...",
+    "date": "Wed, 14 Oct 2026 15:14:15 +0000",
+    "link": "https://www.eurogamer.net/guild-wars-2-living-world-expansions",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.23,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "\"This non-profit will be the 'voice of the gamers'\" - Former Disco Elysium devs break new ground with player- and developer-owned studio structure",
+    "source": "Eurogamer",
+    "summary": "Elsewhere on the site, you can read a big reveal piece that outlines the new game from former Disco Elysium devs under the name of Summer Eternal - an \"incendiary RPG\" fusing the best bits of text-heavy isometric role-playing games with the world-building and player agency of an immersive sim. It's ...",
+    "date": "Wed, 14 Oct 2026 14:00:16 +0000",
+    "link": "https://www.eurogamer.net/summer-eternal-studio-structure-player-non-profit",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "Xbox Officially Announces New Nano Controller",
+    "source": "Polygon",
+    "summary": "The Xbox Nano Controller is light, practical, and portable, allowing players to take their gaming just about anywhere.",
+    "date": "Wed, 14 Oct 2026 18:14:03 GMT",
+    "link": "https://www.polygon.com/xbox-nano-controller-portable-price-reveal/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.27,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Soulslikes Don't Work in First-Person — Yet",
+    "source": "Polygon",
+    "summary": "Valor Mortis is a Soulslike from the studio behind Ghostrunner. It has grand ideas, but struggles to replicate Soulslike combat in first-person POV.",
+    "date": "Wed, 14 Oct 2026 18:00:16 GMT",
+    "link": "https://www.polygon.com/valor-mortis-soulslike-first-person-pov/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "‘Obsession’ Could Get a Sequel, and Its Breakout Star Is All In",
+    "source": "Polygon",
+    "summary": "Could Obsession 2 happen? Inde Navarrette is ready to return as Nikki after the hit horror movie’s disturbing ending.",
+    "date": "Wed, 14 Oct 2026 17:27:09 GMT",
+    "link": "https://www.polygon.com/obsession-2-sequel-inde-navarrette-comments/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Magic: The Gathering Is Officially Reprinting a Powerful $18 Card for the First Time in 20 Years",
+    "source": "Polygon",
+    "summary": "Two decades later, a scarce drain spell returns.",
+    "date": "Wed, 14 Oct 2026 17:00:15 GMT",
+    "link": "https://www.polygon.com/magic-the-gathering-soul-spike-secret-lair-reprint-reality-fracture/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.26,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "I've given GTA 5's cars Bond-style ejector seats",
+    "source": "PC Gamer",
+    "summary": "Going up.",
+    "date": "Wed, 14 Oct 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/ive-given-gta-5s-cars-bond-style-ejector-seats/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -71,172 +230,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 5,
-    "title": "GTA 6 was originally Project Americas and covered \"big swaths\" of country's north and south, Rockstar reveals, in interview tackling crunch, delays, and leaks",
-    "source": "Eurogamer",
-    "summary": "Rockstar Games has revealed the original codename for Grand Theft Auto 6 was Project Americas, and that its intention was for the game to cover large areas of land in both the north of the country and the south. Read more...",
-    "date": "Wed, 14 Oct 2026 11:39:03 +0000",
-    "link": "https://www.eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.22,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Destiny 1 project, which aims to port the game to PC, seemingly gets a nod from Bungie boss",
-    "source": "Eurogamer",
-    "summary": "The original Destiny never made it to PC, but the shooter-MMO may not stay locked to PS4 and Xbox One for much longer. Some crafty modders have been working to get the game running on PC, and their efforts recently caught the eye of Bungie, which surprisingly didn't result in a take-down - not yet, ...",
-    "date": "Wed, 14 Oct 2026 10:36:37 +0000",
-    "link": "https://www.eurogamer.net/destiny-1-project-golden-age-pc-revival-bungie-nod",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "\"You don't listen to the loudest people in the room\" - World of Warcraft: Forever boss discusses how to approach a deluge of feedback",
-    "source": "Eurogamer",
-    "summary": "World of Warcraft executive producer Holly Longdale has spoken at PAX Australia ahead of World of Warcraft: Forever's imminent release. Of note were her comments on the sheer popularity of the beta and how the team is handling the waves of feedback from early players. Read more...",
-    "date": "Wed, 14 Oct 2026 09:59:22 +0000",
-    "link": "https://www.eurogamer.net/world-of-warcraft-forever-feedback-blizzard-listening",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Former game-seller Zavvi enters administration again and \"is unable to fulfil any outstanding orders or pre-orders\"",
-    "source": "Eurogamer",
-    "summary": "Former game-seller Zavvi could be about to close for good; the company announced it has entered administration and that it has ceased trading while the insolvency process is resolved. Read more...",
-    "date": "Wed, 14 Oct 2026 09:54:26 +0000",
-    "link": "https://www.eurogamer.net/zavvi-administration-2026-orders",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "Nintendo Switch Online Additions Include Perfectly Timed GBA Classics",
-    "source": "Polygon",
-    "summary": "Nintendo released three classic games for Switch Online's Expansion Pack October update, right before highly anticipated releases.",
-    "date": "Wed, 14 Oct 2026 12:23:37 GMT",
-    "link": "https://www.polygon.com/nintendo-switch-online-game-boy-advance-october-2026/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
-    },
-    "tags": [
-      "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "10 Years Ago, PlayStation Almost Changed Gaming Forever",
-    "source": "Polygon",
-    "summary": "This week marks the 10-year anniversary of the PlayStation VR, a headset which nearly made the case for VR gaming on consoles.",
-    "date": "Wed, 14 Oct 2026 11:01:15 GMT",
-    "link": "https://www.polygon.com/playstation-vr-10-year-retrospective/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "20 Years Ago, Lord of the Rings Paved the Way for New Zealand's Weirdest Zombie Movie",
-    "source": "Polygon",
-    "summary": "Without The Lord of the Rings, we would never have gotten Zealand's wackiest horror movie, 'Black Sheep'.",
-    "date": "Wed, 14 Oct 2026 10:00:15 GMT",
-    "link": "https://www.polygon.com/the-lord-of-the-rings-black-sheep/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "The Witcher 3 Remastered Switch 2 Patch Is Officially 'On the Way'",
-    "source": "Polygon",
-    "summary": "CD Projekt Red just gave an important update to Switch 2 players waiting for their The Witcher Remastered patch.",
-    "date": "Wed, 14 Oct 2026 09:48:30 GMT",
-    "link": "https://www.polygon.com/the-witcher-3-remastered-nintendo-switch-2-patch-update/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "Patch"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "OpenAI employee arrested for allegedly using AI and toilet paper to record confidential meetings - FBI director Kash Patel jumps at the chance to say AI companies are 'essential' for national security",
-    "source": "PC Gamer",
-    "summary": "AI and toilet paper: the joke writes itself, doesn't it?",
-    "date": "Wed, 14 Oct 2026 11:43:43 +0000",
-    "link": "https://www.pcgamer.com/software/security/openai-employee-arrested-for-allegedly-using-ai-and-toilet-paper-to-record-confidential-meetings-fbi-director-kash-patel-jumps-at-the-chance-to-say-ai-companies-are-essential-for-national-security/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 14,
-    "title": "'123456' password was all a hacker reportedly needed to expose over 8 million people's personal data",
+    "title": "Looking back on 10 years of Overwatch, the promises kept, and where Team 4 goes from here",
     "source": "PC Gamer",
-    "summary": "A department where just a little bit of creativity doesn't go amiss.",
-    "date": "Wed, 14 Oct 2026 10:56:42 +0000",
-    "link": "https://www.pcgamer.com/software/security/123456-password-was-all-a-hacker-reportedly-needed-to-expose-over-8-million-peoples-personal-data/",
+    "summary": "\"In order for people to play the game in the present, they need to have confidence in its future.\"",
+    "date": "Wed, 14 Oct 2026 16:37:47 +0000",
+    "link": "https://www.pcgamer.com/games/fps/looking-back-on-10-years-of-overwatch-the-promises-kept-and-where-team-4-goes-from-here/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.09,
+      "score": -0.1,
       "badge": "info"
     },
     "tags": [
@@ -247,52 +249,51 @@
   },
   {
     "id": 15,
-    "title": "Haunted Chocolatier is still 'a town game', but it'll be more of an action RPG: 'It's for the people in Stardew Valley that go into the mines'",
+    "title": "The Walking Dead's Chandler Riggs made a Resident Evil 7 short film even though 'it's impossible to please everybody'",
     "source": "PC Gamer",
-    "summary": "Farming dungeons, not gourds.",
-    "date": "Wed, 14 Oct 2026 10:49:55 +0000",
-    "link": "https://www.pcgamer.com/games/life-sim/haunted-chocolatier-is-still-a-town-game-but-itll-be-more-of-an-action-rpg-its-for-the-people-in-stardew-valley-that-go-into-the-mines/",
+    "summary": "We're swamped with Resident Evil films right now, lucky us.",
+    "date": "Wed, 14 Oct 2026 16:34:27 +0000",
+    "link": "https://www.pcgamer.com/movies-tv/the-walking-deads-chandler-riggs-made-a-resident-evil-7-short-film-even-though-its-impossible-to-please-everybody/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.32,
+      "badge": "danger"
     },
     "tags": [
-      "RPG"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "I just tricked DLSS into running on my AMD GPU in Cyberpunk 2077 and Alan Wake 2 and all it took was running a single script",
+    "title": "Assassin's Creed Black Flag Resynced was a big hit, and now it's time for big layoffs at the studio that made it",
     "source": "PC Gamer",
-    "summary": "It's easy enough to install, so worth a try, I'd say.",
-    "date": "Wed, 14 Oct 2026 09:46:39 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/i-just-tricked-dlss-into-running-on-my-amd-gpu-in-cyberpunk-2077-and-alan-wake-2-and-all-it-took-was-running-a-single-script/",
+    "summary": "Ubisoft has also decided to close Trials studio Ubisoft Redlynx entirely.",
+    "date": "Wed, 14 Oct 2026 16:02:03 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/assassins-creed-black-flag-resynced-was-a-big-hit-and-now-its-time-for-big-layoffs-at-the-studio-that-made-it/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.04,
+      "badge": "info"
     },
     "tags": [
-      "GPU",
-      "AMD",
-      "Cyberpunk",
-      "DLSS"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
-    "title": "Rockstar Says GTA 6 Didn’t Cost $1.5 Billion To Make, But Won’t Reveal The Real Number",
+    "title": "Retro Handhelds Loaded With Unlicensed Games Could Face Government Crackdown",
     "source": "GameSpot",
-    "summary": "It's no secret that video game development is more expensive than ever before, and in a hit-driven industry, Grand Theft Auto VI is rumored to be the most expensive game ever made. Various numbers have been thrown around, with one report even claiming that $1.5 billion was spent--around the budget o...",
-    "date": "Wed, 14 Oct 2026 11:42:56 +0000",
-    "link": "https://www.gamespot.com/articles/rockstar-says-gta-6-didnt-cost-1-5-billion-to-make-but-wont-reveal-the-real-number/",
+    "summary": "The Electronic Software Association (ESA) has a serious bone to pick with retro handhelds that are packaged with tons of unlicensed pre-installed, calling these devices \"superfakes\" that should face some sort of suppression by the US government.\nAccording to an October 6 filing with the Office of th...",
+    "date": "Wed, 14 Oct 2026 17:12:32 +0000",
+    "link": "https://www.gamespot.com/articles/retro-handhelds-loaded-with-unlicensed-games-could-face-government-crackdown/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.33,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -302,15 +303,15 @@
   },
   {
     "id": 18,
-    "title": "Rockstar Built An Entire Studio Just To Create GTA 6 NPCs",
+    "title": "Ex-Overwatch Director Jeff Kaplan Says He Never Wanted The Spotlight, But The Game Needed A Face",
     "source": "GameSpot",
-    "summary": "Rockstar Games reportedly established an entire studio in Los Angeles dedicated to creating NPCs for Grand Theft Auto 6 after realizing the game's ambitious world would need far more production resources than initially expected. \nSpeaking to Bloomberg, Rockstar development lead Rob Nelson explained ...",
-    "date": "Wed, 14 Oct 2026 11:07:36 +0000",
-    "link": "https://www.gamespot.com/articles/rockstar-built-an-entire-studio-just-to-create-gta-6-npcs/",
+    "summary": "Being the face of a video game is a demanding role, as the people who step into these positions involved in these roles often find themselves on the receiving end of a lot of toxicity. Former Overwatch game director Jeff Kaplan knows this all too well, as he promoted the hero shooter for several yea...",
+    "date": "Wed, 14 Oct 2026 16:34:55 +0000",
+    "link": "https://www.gamespot.com/articles/ex-overwatch-director-jeff-kaplan-says-he-never-wanted-the-spotlight-but-the-game-needed-a-face/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.24,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -320,14 +321,14 @@
   },
   {
     "id": 19,
-    "title": "Rockstar’s GTA 6 Realism Experiment Started With Beer And Sandwiches",
+    "title": "Jeff Kaplan Says Separation From Overwatch Was “Clinical”: ” I Never Go Back”",
     "source": "GameSpot",
-    "summary": "Compared to previous games in the series, Grand Theft Auto 6 is aiming to add new layers of realism to the franchise. As the criminal couple Jason Duval and Lucia Caminos, players will explore a city where actions have consequences, and it's not easy to shake the long arm of the law when you cause c...",
-    "date": "Wed, 14 Oct 2026 11:02:14 +0000",
-    "link": "https://www.gamespot.com/articles/rockstars-gta-6-realism-experiment-started-with-beer-and-sandwiches/",
+    "summary": "Jeff Kaplan, Overwatch's former director, said he's not played the game he was the public face of since April 2021, when he left developer Blizzard after nearly 20 years to go indie. He called his relationship with Blizzard's shooter one of \"clinical separation.\"\nKaplan revealed this to GameSpot in ...",
+    "date": "Wed, 14 Oct 2026 16:34:31 +0000",
+    "link": "https://www.gamespot.com/articles/jeff-kaplan-says-seperation-from-overwatch-was-clinical-i-never-go-back/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.03,
+      "score": -0.04,
       "badge": "info"
     },
     "tags": [
@@ -338,19 +339,19 @@
   },
   {
     "id": 20,
-    "title": "Xbox Is Getting Into AI Gaming, Even If It Won’t Say So",
+    "title": "Minecraft’s Verity Is A Top Trending Halloween Costume For 2026",
     "source": "GameSpot",
-    "summary": "Vibe-coded games playable in web browsers have exploded in popularity recently, and amid a deluge of ports and remasters created with generative AI, Xbox is responding by creating Xbox Labs. The new branch of Xbox is described as an initiative designed to get more people playing games--especially on...",
-    "date": "Wed, 14 Oct 2026 10:50:37 +0000",
-    "link": "https://www.gamespot.com/articles/xbox-is-getting-into-ai-gaming-even-if-it-wont-say-so/",
+    "summary": "Google has released its list of the \"top trending costumes\" ahead of Halloween, and Minecraft's Verity has made the cut.\nThe Frightgeist list, as it's called, is based on what's trending on Google. The list is topped by Buddy the Unicorn from director Casper Kelly's horror movie. The character Nikki...",
+    "date": "Wed, 14 Oct 2026 16:29:27 +0000",
+    "link": "https://www.gamespot.com/articles/minecrafts-verity-is-a-top-trending-halloween-costume-for-2026/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.21,
+      "score": 0.5,
       "badge": "success"
     },
     "tags": [
-      "AI",
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
