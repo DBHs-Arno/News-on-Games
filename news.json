@@ -1,15 +1,32 @@
 [
   {
     "id": 1,
-    "title": "Callina Liang Says She Felt 'A Lot of Pressure' After Seeing How Reddit Reacted to Her Being Cast as Chun-Li",
+    "title": "The $849 ABS Cyclone RTX 5060 Gaming PC Is More Powerful AND Less Expensive Than the Steam Machine",
     "source": "IGN",
-    "summary": "Callina Liang admitted that she felt a ton of pressure after she saw fans’ reactions to her getting cast as Chun-Li in the Street Fighter movie, specifically mentioning a thread she saw on Reddit.",
-    "date": "Wed, 14 Oct 2026 22:50:00 +0000",
-    "link": "https://www.ign.com/articles/callina-liang-says-she-felt-a-lot-of-pressure-after-seeing-how-reddit-reacted-to-her-being-cast-as-chun-li",
+    "summary": "Capable 1080p gaming rig with room for future upgrades.",
+    "date": "Thu, 15 Oct 2026 00:20:00 +0000",
+    "link": "https://www.ign.com/articles/abs-cyclone-rtx-5060-gaming-pc-deal-better-than-steam-machine-updated",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.06,
       "badge": "info"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Obsession Star Inde Navarrette Says She Studied Anime Like Jujutsu Kaisen and Demon Slayer to Learn Screenwriting",
+    "source": "IGN",
+    "summary": "Inde Navarrette, best known for her role as Nikki Freeman in Obsession, says she took a deep dive into anime to better understand screenwriting and storytelling.",
+    "date": "Wed, 14 Oct 2026 23:53:00 +0000",
+    "link": "https://www.ign.com/articles/obsession-star-inde-navarrette-says-she-studied-anime-like-jujutsu-kaisen-and-demon-slayer-to-learn-screenwriting",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -18,33 +35,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
-    "title": "Xbox Reportedly Surveys Users On Return to Full Exclusivity for its Games",
-    "source": "IGN",
-    "summary": "Xbox has reportedly surveyed players on how they would feel about a return to console exclusivity for all of its games, with the exception of Call of Duty.",
-    "date": "Wed, 14 Oct 2026 22:45:28 +0000",
-    "link": "https://www.ign.com/articles/xbox-reportedly-surveys-users-on-return-to-full-exclusivity-for-its-games",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.35,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 3,
-    "title": "The Street Fighter Cast Would Love to Make a Mortal Kombat Crossover Movie",
+    "title": "Marvel TV Boss Says Daredevil: Born Again Was Always Meant to End With Season 3, Despite Previously Suggesting Otherwise",
     "source": "IGN",
-    "summary": "I got the chance to chat with the cast of the Street Fighter movie ahead of its theatrical release, and almost all of them are game for a crossover film with Mortal Kombat.",
-    "date": "Wed, 14 Oct 2026 22:12:58 +0000",
-    "link": "https://www.ign.com/articles/the-street-fighter-cast-would-love-to-make-a-mortal-kombat-crossover-movie",
+    "summary": "Head of Marvel Television Brad Winderbaum says Daredevil: Born Again was always planned to end with Season 3, despite previously suggesting otherwise.",
+    "date": "Wed, 14 Oct 2026 23:49:04 +0000",
+    "link": "https://www.ign.com/articles/marvel-tv-boss-says-daredevil-born-again-was-always-meant-to-end-with-season-3-despite-previously-suggesting-otherwise",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.17,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -54,11 +54,11 @@
   },
   {
     "id": 4,
-    "title": "Mick Gordon On How He Helped to Make Warhammer 40,000: Boltgun 2’s Climactic Boss Fight “Big and Bombastic”",
+    "title": "DC Studios Co-Boss Peter Safran Reaffirms Franchise Slate After Skydance Acquisition",
     "source": "IGN",
-    "summary": "Mick Gordon On How He Helped to Make Warhammer 40,000: Boltgun 2’s Climactic Boss Fight “Big and Bombastic”",
-    "date": "Wed, 14 Oct 2026 22:04:54 +0000",
-    "link": "https://www.ign.com/articles/mick-gordon-on-how-he-helped-to-make-warhammer-40000-boltgun-2s-climactic-boss-fight-big-and-bombastic",
+    "summary": "IGN spoke with DC Studios’ co-CEO and co-chairman Peter Safran this week about the status of the studio’s future projects now that Warner Bros. has been acquired by Skydance. Our discussion ranged from Clayface to their upcoming feature film, television and animated projects.",
+    "date": "Wed, 14 Oct 2026 23:42:57 +0000",
+    "link": "https://www.ign.com/articles/peter-safran-dc-studios-slate-post-merger",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -102,8 +102,8 @@
     },
     "tags": [
       "AI",
-      "Steam",
-      "Unreal Engine"
+      "Unreal Engine",
+      "Steam"
     ],
     "read_time": "1 min read"
   },
@@ -144,70 +144,73 @@
   },
   {
     "id": 9,
-    "title": "Xbox Considers Making Fallout, Elder Scrolls, and Minecraft Exclusive",
+    "title": "How to defeat Medusa in Castlevania Belmont's Curse",
     "source": "Polygon",
-    "summary": "Microsoft is surveying Xbox Insiders about making franchises like Fallout, Minecraft and The Elder Scrolls (but not Call of Duty) Xbox exclusives.",
-    "date": "Wed, 14 Oct 2026 22:30:47 GMT",
-    "link": "https://www.polygon.com/xbox-exclusive-minecraft-fallout-elder-scrolls/",
+    "summary": "Here's a complete rundown on how to beat Medusa in Castlevania: Belmont's Curse and where to find her, the Prophetess arcana.",
+    "date": "Thu, 15 Oct 2026 04:01:18 GMT",
+    "link": "https://www.polygon.com/castlevania-belmonts-curse-medusa-how-to-defeat-prophetess-location/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.1,
       "badge": "info"
     },
     "tags": [
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "2026 GOTY Contender Officially Sets Nintendo Switch 2 Release Date",
+    "title": "How to kill enemies with a whip attack in Castlevania Belmont's Curse",
     "source": "Polygon",
-    "summary": "007 First Light, the James Bond origin story, finally has a Nintendo Switch 2 release date after several delays.",
-    "date": "Wed, 14 Oct 2026 20:56:38 GMT",
-    "link": "https://www.polygon.com/007-first-light-nintendo-switch-2-release-date-price-confirmed-preorder/",
+    "summary": "In this guide, we explain how to perform a whip attack in Castlevania: Belmont's Curse so you can complete the Holy Cross' Work of Mercy.",
+    "date": "Thu, 15 Oct 2026 04:01:18 GMT",
+    "link": "https://www.polygon.com/castlevania-belmonts-curse-whip-attack-how-to-work-of-mercy/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
     },
     "tags": [
-      "Nintendo"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Total War Fans Blast New Remaster Over Bugs, AI Accusations",
+    "title": "How to get to the top of the Prison Tower in Castlevania Belmont's Curse",
     "source": "Polygon",
-    "summary": "Total War: Shogun 2 Complete Edition is a bug, genAI-filled mess and a greedy rerelease fans say in Steam reviews of Creative Assembly's game.",
-    "date": "Wed, 14 Oct 2026 20:29:56 GMT",
-    "link": "https://www.polygon.com/total-war-shogun-2-complete-edition/",
+    "summary": "Here's how to reach the top of the prison tower in Castlevania: Belmont's Curse and where to find the carpenter's crane.",
+    "date": "Thu, 15 Oct 2026 04:01:18 GMT",
+    "link": "https://www.polygon.com/castlevania-belmonts-curse-prison-tower-location-warrior-carpenters-crane/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
     },
     "tags": [
-      "AI",
-      "Steam"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "GTA 6 Leaks, Epic's AI Woes, No Man's Sky Mobile and the Best AAA of the Year...",
+    "title": "8 Best Science Fantasy Books of the 21st Century",
     "source": "Polygon",
-    "summary": "This week on Point It Out! We discuss the unfolding news around the GTA 6 Cyberleek leaks, a gaming favorite going to mobile and the sneaky favorite for AAA game of the year.Plus, Polygon Editor-At-Large Giovanni Colantonio holds Simone and Patches hostage with a powerpoint they'll never forget.Poin...",
-    "date": "Wed, 14 Oct 2026 20:01:39 GMT",
-    "link": "https://www.polygon.com/video/gta-6-leaks-epic-s-ai-woes-no-man-s-sky-mobile-and-the-best-aaa-of-the-year/",
+    "summary": "Break genre barriers with spacefaring necromancers and aliens employing goblins",
+    "date": "Thu, 15 Oct 2026 04:00:22 GMT",
+    "link": "https://www.polygon.com/best-science-fantasy-books-21st-century/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.34,
+      "score": 0.5,
       "badge": "success"
     },
     "tags": [
-      "AI"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
