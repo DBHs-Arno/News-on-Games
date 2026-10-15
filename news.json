@@ -1,244 +1,177 @@
 [
   {
     "id": 1,
-    "title": "Blue Team Only Wins 15% of Its Wardogs Games — We Asked a Color Psychologist Why",
+    "title": "K/DA Is Getting an Official Louis Vuitton Art Book Ahead of 'Start a Fire' Comeback",
     "source": "IGN",
-    "summary": "We asked a color psychologist why Blue Team only wins 15% of its Wardogs matches.",
-    "date": "Thu, 15 Oct 2026 08:56:09 +0000",
-    "link": "https://www.ign.com/articles/wardogs-blue-team-winrate-color-psychologist",
+    "summary": "",
+    "date": "Thu, 15 Oct 2026 17:47:00 +0000",
+    "link": "https://www.ign.com/articles/riot-games-louis-vuitton-kda-travel-book-announcement",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.1,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Big Walk Developer Explains Why the Game Isn't on Xbox",
+    "title": "Amazon's Best Audible Deal for 2026 Is Back for Just a Few Days: Pay $0.99 Per Month Plus Get $20 Credit",
     "source": "IGN",
-    "summary": "Big Walk developer House House has explained why it’s boycotting Xbox and thus why the game isn’t available on Microsoft's console.",
-    "date": "Thu, 15 Oct 2026 08:20:19 +0000",
-    "link": "https://www.ign.com/articles/big-walk-developer-explains-why-the-game-isnt-on-xbox",
+    "summary": "Both Amazon Prime and non-Prime members, new subscribers and (most) previous subscribers are eligible.",
+    "date": "Thu, 15 Oct 2026 17:45:00 +0000",
+    "link": "https://www.ign.com/articles/amazon-audible-deal-october-2026",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.08,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.21,
+      "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Netflix’s The Diplomat: Season 4 Review",
+    "title": "Avatar: Seven Havens Episode 3 Hints at the Return of the 'My Cabbages!' Guy",
     "source": "IGN",
-    "summary": "Netflix's The Diplomat Season 4 has standout performances from Keri Russell and Allison Janney that elevate the series into the best political thriller on TV.",
-    "date": "Thu, 15 Oct 2026 07:01:00 +0000",
-    "link": "https://www.ign.com/articles/the-diplomat-season-4-review",
+    "summary": "",
+    "date": "Thu, 15 Oct 2026 17:35:40 +0000",
+    "link": "https://www.ign.com/articles/avatar-seven-havens-episode-3-hints-at-the-return-of-the-my-cabbages-guy",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "DC’s Mister Miracle Animated Series Lead Voices Confirmed",
+    "title": "CD Projekt Has Officially Begun Work on Project Hadar, but It's Not in Pre-Production Yet",
     "source": "IGN",
-    "summary": "DC Studios co-CEO Peter Safran reveals the voices behind Scott Free and Big Barda.",
-    "date": "Thu, 15 Oct 2026 06:12:11 +0000",
-    "link": "https://www.ign.com/articles/dcs-mister-miracle-animated-series-lead-voices-confirmed",
+    "summary": "CD Projekt Red, the Polish developer best known for its amazing RPG series The Witcher and Cyberpunk 2077, has officially finished imagining up a new world for us to play in. The “world vision” stage for its new IP, Project Hadar, has been completed and work has officially begun on turning those con...",
+    "date": "Thu, 15 Oct 2026 17:23:22 +0000",
+    "link": "https://www.ign.com/articles/cd-projekt-has-officially-begun-work-on-project-hadar-but-its-not-in-pre-production-yet",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.37,
+      "badge": "success"
+    },
+    "tags": [
+      "RPG",
+      "Cyberpunk"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?",
+    "source": "Eurogamer",
+    "summary": "This generation's mega-game, Grand Theft Auto 6, will be eligible for The Game Awards 2026 by a matter of one day. Read more...",
+    "date": "Thu, 15 Oct 2026 16:10:34 +0000",
+    "link": "https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.1,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "Riot Games has announced the end League of Legends Classic as an on-going mode, just three months after its release",
-    "source": "Eurogamer",
-    "summary": "League of Legends Classic, the recreation of an older version of the popular MOBA, will be taken down at the end of the current season. The reason given is simple: most players have moved on to other areas of League of Legends. Read more...",
-    "date": "Thu, 15 Oct 2026 12:06:25 +0000",
-    "link": "https://www.eurogamer.net/league-of-legends-classic-ending-permanent-three-months",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.18,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 6,
-    "title": "007 First Light gets Switch 2 release date, with IO Interactive saying time for \"optimisation and performance\" was needed",
+    "title": "Fire Emblem: Fortune's Weave gets its first wave of DLC today, and an expansion pass to include it",
     "source": "Eurogamer",
-    "summary": "The Switch 2 version of 007 First Light will be released 18th March, 2027, IO Interactive has announced. The game had originally been expected this summer but IOI announced a delay to an unspecific date in March roughly a month ago. Read more...",
-    "date": "Thu, 15 Oct 2026 09:17:26 +0000",
-    "link": "https://www.eurogamer.net/007-first-light-switch-2-release-date-james-bond-game",
+    "summary": "Nintendo and Intelligent Systems have released an expansion pass for Fire Emblem: Fortune's Weave, introducing a string of DLC additions to the tactical RPG starting today, and through into 2027. Read more...",
+    "date": "Thu, 15 Oct 2026 13:48:43 +0000",
+    "link": "https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.17,
+      "score": 0.39,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Nintendo",
+      "RPG"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 7,
-    "title": "Big Walk developer explains the lack of Xbox version is due to Microsoft's place on the BDS boycott",
+    "title": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
     "source": "Eurogamer",
-    "summary": "Big Walk developer House House has explained the lack of an Xbox version for the popular co-operative puzzle game, pointing to the ongoing BDS boycott as the core reason behind its decision. Read more...",
-    "date": "Thu, 15 Oct 2026 08:48:27 +0000",
-    "link": "https://www.eurogamer.net/big-walk-xbox-version-bds-boycott",
+    "summary": "Rockstar Games has released the launch trailer for Grand Theft Auto 6 ahead of its 19th November release. Read more...",
+    "date": "Thu, 15 Oct 2026 13:24:51 +0000",
+    "link": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.23,
+      "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 8,
-    "title": "Monster Hunter Wilds' fairly generous Prologue Demo comes to Switch 2 next week",
+    "title": "DayZ creator Dean Hall says \"our industry is rotting from its core\" because of big-company \"greed\", aiming shots at Epic's Unreal and Unity",
     "source": "Eurogamer",
-    "summary": "Capcom is letting players 'try before they buy' Monster Hunter Wilds' on Switch 2, bringing the fairly generous 'Prologue demo' to the console before the game's full release on the platform on 4th December. Read more...",
-    "date": "Thu, 15 Oct 2026 08:30:51 +0000",
-    "link": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-prologue-demo",
+    "summary": "UPDATED 3.30PM BST: Dean Hall has explained more about his idea in an email exchange with Eurogamer, clarifying issues such as whether it uses or welcomes any form of generative AI, while offering some more strongly worded criticisms about Epic's Unreal engine and Unity. Read more...",
+    "date": "Thu, 15 Oct 2026 13:02:51 +0000",
+    "link": "https://www.eurogamer.net/dean-hall-brutal-framework-ksp-epic-unreal-unity",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.31,
+      "score": 0.3,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Unreal Engine",
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "Steam’s Best Way To Play New Games Officially Comes Back in 4 Days",
+    "title": "What time are the Fortnitemares power hours in Fortnite Chapter 7 Season 4?",
     "source": "Polygon",
-    "summary": "Steam Next Fest kicks off on Oct. 19, bringing tons of free game demos for PC players.",
-    "date": "Thu, 15 Oct 2026 12:00:15 GMT",
-    "link": "https://www.polygon.com/steam-next-fest-october-edition-fyi/",
+    "summary": "This weekend's Fortnite power hours feature Trick or Treat sprites. Here's when they are in your time zone.",
+    "date": "Thu, 15 Oct 2026 18:01:18 GMT",
+    "link": "https://www.polygon.com/fortnite-chapter-7-season-4-power-hours-what-time/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.19,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Steam"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "'Avatar' Seven Havens' Finally Fixes 'The Last Airbender's Biggest Mistake",
+    "title": "The 9 Biggest RPG Jerk Companions, Ranked From Worst to Even Worse",
     "source": "Polygon",
-    "summary": "Polygon spoke to the creative team behind Seven Havens about how Avatar is changing",
-    "date": "Thu, 15 Oct 2026 11:00:16 GMT",
-    "link": "https://www.polygon.com/avatar-seven-havens-creators-interview-aang/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Big Walk Is Skipping Xbox as Part of the Pro-Palestinian BDS Boycott",
-    "source": "Polygon",
-    "summary": "Developer House House said it won't release the game on Xbox until Microsoft is removed as a priority target by BDS",
-    "date": "Thu, 15 Oct 2026 10:51:35 GMT",
-    "link": "https://www.polygon.com/big-walk-skipping-xbox-palestinian-bds-boycott/",
+    "summary": "From a grumpy krogan to a bride who makes you sleep on the floor, these nine RPG companions are jerks at first and keepers by the end.",
+    "date": "Thu, 15 Oct 2026 18:00:19 GMT",
+    "link": "https://www.polygon.com/best-jerk-rpg-companions/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.2,
+      "score": -0.38,
       "badge": "danger"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Penguin Colony Rips Lovecraft’s Horror From His Racist Hands",
-    "source": "Polygon",
-    "summary": "Penguin Colony reclaims H.P. Lovecraft's cosmic horror and weaponizes it against the writer's own beliefs in a vital piece of apocalypse art.",
-    "date": "Thu, 15 Oct 2026 10:00:16 GMT",
-    "link": "https://www.polygon.com/penguin-colony-review/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.35,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Big Walk devs explain why it isn't on Xbox and likely never will be, 'not until Microsoft and/or Xbox have been removed as BDS boycott targets'",
-    "source": "PC Gamer",
-    "summary": "\"We've made this decision with the belief that meaningful change can be made in the world.\"",
-    "date": "Thu, 15 Oct 2026 11:36:38 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/big-walk-devs-explain-why-it-isnt-on-xbox-and-likely-never-will-be-not-until-microsoft-and-or-xbox-have-been-removed-as-bds-boycott-targets/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Disco Elysium splinter studio's Red Rooster is going to be a 'an incendiary, physics-driven RPG' where you play an inmate, an opiate-fuelled mathematician, and a bus driver with nunchucks",
-    "source": "PC Gamer",
-    "summary": "Setting the world on fire.",
-    "date": "Thu, 15 Oct 2026 11:14:46 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/disco-elysium-splinter-studios-red-rooster-is-going-to-be-a-an-incendiary-physics-driven-rpg-where-you-play-an-inmate-an-opiate-fuelled-mathematician-and-a-bus-driver-with-nunchucks/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
     },
     "tags": [
       "RPG"
@@ -246,50 +179,106 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "Valve is toying with a Steam Frame OLED and some Reddit users are already wondering whether to wait an excruciatingly long time for it even though it may never happen",
-    "source": "PC Gamer",
-    "summary": "Gluttons for punishment.",
-    "date": "Thu, 15 Oct 2026 11:06:28 +0000",
-    "link": "https://www.pcgamer.com/hardware/vr-hardware/valve-is-toying-with-a-steam-frame-oled-and-some-reddit-users-are-already-wondering-whether-to-wait-an-excruciatingly-long-time-for-it-even-though-it-may-never-happen/",
+    "id": 11,
+    "title": "Diablo 5 Officially Passes a Major Production Milestone",
+    "source": "Polygon",
+    "summary": "Blizzard is hard at work on Diablo 5 as shooting begins for the game despite being slated for release in 2029",
+    "date": "Thu, 15 Oct 2026 17:56:34 GMT",
+    "link": "https://www.polygon.com/diablo-5-blizzard-rpg-cinematic-shooting-begins/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.21,
+      "badge": "danger"
     },
     "tags": [
-      "Steam"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "'Obsession 'Director’s Next Film Is 'Even Better' Than Last, Says Seth Rogen",
+    "source": "Polygon",
+    "summary": "Seth Rogen has already seen Curry Barker's next film, 'Anything But Ghosts,' and he says it's excellent.",
+    "date": "Thu, 15 Oct 2026 17:48:46 GMT",
+    "link": "https://www.polygon.com/obsession-director-curry-barker-next-film-anything-but-ghosts/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Control Resonant sells 1 million copies in 3 weeks to become Remedy's fastest-selling game ever",
+    "source": "PC Gamer",
+    "summary": "It's not a huge number, but it's big news for Remedy.",
+    "date": "Thu, 15 Oct 2026 18:15:22 +0000",
+    "link": "https://www.pcgamer.com/games/action/control-resonant-sells-1-million-copies-in-3-weeks-to-become-remedys-fastest-selling-game-ever/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "GTA 5 finally measures up to the actual best GTA game now I've added a jetpack",
+    "source": "PC Gamer",
+    "summary": "Zoom.",
+    "date": "Thu, 15 Oct 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-5-finally-measures-up-to-the-actual-best-gta-game-now-ive-added-a-jetpack/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Come on Razer what are you doing? This Pokemon-themed mouse is most definitely not the one",
+    "source": "PC Gamer",
+    "summary": "Now listen, I'm no designer, but...",
+    "date": "Thu, 15 Oct 2026 16:30:05 +0000",
+    "link": "https://www.pcgamer.com/hardware/gaming-mice/come-on-razer-what-are-you-doing-this-pokemon-themed-mouse-is-most-definitely-not-the-one/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "How in the world are Intel GPUs still improving so much? The latest driver update claims up to a 31% fps improvement in Resident Evil Requiem",
+    "title": "The AI bubble may not have burst yet, but $1 trillion worth of air appears to have escaped",
     "source": "PC Gamer",
-    "summary": "And more modest but still significant boosts in other games.",
-    "date": "Thu, 15 Oct 2026 10:40:22 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/how-in-the-world-are-intel-gpus-still-improving-so-much-the-latest-driver-update-claims-up-to-a-31-percent-fps-improvement-in-resident-evil-requiem/",
+    "summary": "Not so much 'going out with a bang' as 'anticlimactic party balloon deflation'.",
+    "date": "Thu, 15 Oct 2026 16:26:16 +0000",
+    "link": "https://www.pcgamer.com/software/ai/the-ai-bubble-may-not-have-burst-yet-but-usd1-trillion-worth-of-air-appears-to-have-escaped/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "FPS"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "Something Utterly Chaotic Is Happening In The VTuber World",
-    "source": "GameSpot",
-    "summary": "If you've ever wondered what would happen if you put an AI VTuber, her evil twin, their creator, a cow, an imp, and a monkey in a car in a post-apocalyptic desert and told them to drive thousands of kilometers, congratulations. You've got the same brain as Vedal987, the creator of Neuro-Sama and her...",
-    "date": "Thu, 15 Oct 2026 12:12:15 +0000",
-    "link": "https://www.gamespot.com/articles/something-utterly-chaotic-is-happening-in-the-vtuber-world/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.24,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
     },
     "tags": [
       "AI"
@@ -297,32 +286,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 18,
-    "title": "Cyberpunk 2 Is Evolving Beyond Its Director’s Original Vision",
+    "id": 17,
+    "title": "007 First Light On Switch 2 Includes Something No Other Platform Gets, And It’s Ridiculous",
     "source": "GameSpot",
-    "summary": "As development on Cyberpunk 2 continues, game director Gabe Amatangelo has shared more thoughts on the Cyberpunk 2077 sequel and how his plans have evolved as CD Projekt Red has started to assign more people to its creation. In a new blog post, Amatangelo spoke about what the theme of cyberpunk mean...",
-    "date": "Thu, 15 Oct 2026 11:24:08 +0000",
-    "link": "https://www.gamespot.com/articles/cyberpunk-2-is-evolving-beyond-its-directors-original-vision/",
+    "summary": "IO Interactive has announced the release date for 007 First Light's long-delayed Switch 2 version--March 18, 2027--and that's not all. People who preorder the game for Switch 2 are getting something no other platform has: a ridiculously oversized tie.\nNot just any ridiculously oversized tie, however...",
+    "date": "Thu, 15 Oct 2026 17:32:43 +0000",
+    "link": "https://www.gamespot.com/articles/007-first-light-on-switch-2-includes-something-no-other-platform-gets-and-its-ridiculous/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Cyberpunk"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 19,
-    "title": "Epic Is Overhauling Its Anti-Cheat So That Fortnite Can Finally Come To A New Platform",
+    "id": 18,
+    "title": "GTA 6 Isn’t Showing Boobie In Promotional Material",
     "source": "GameSpot",
-    "summary": "Thanks to devices such as the Steam Deck and Steam Machine, as well as the ongoing issues with Windows, gaming on Linux looks a lot more attractive over the last few years. Its biggest hurdle is still multiplayer games and their anti-cheat systems, but Epic Games is committed to bringing one of the ...",
-    "date": "Wed, 14 Oct 2026 19:43:31 +0000",
-    "link": "https://www.gamespot.com/articles/epic-is-overhauling-its-anti-cheat-so-that-fortnite-can-finally-come-to-a-new-platform/",
+    "summary": "The marketing machine for Grand Theft Auto 6 is at full steam, and while Rockstar Games is showcasing many of the characters players will be encountering in the open-world crime game, one character with a very distinct name has been largely absent from promos.\nViewers of the GTA 6 Extended Look migh...",
+    "date": "Thu, 15 Oct 2026 17:31:32 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-isnt-showing-boobie-in-promotional-material/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.16,
+      "score": 0.26,
       "badge": "success"
     },
     "tags": [
@@ -331,19 +321,38 @@
     "read_time": "1 min read"
   },
   {
-    "id": 20,
-    "title": "Xbox Survey About Exclusives Includes A Nuclear Strategy, But Wait Just A Minute",
+    "id": 19,
+    "title": "We’re Getting A WWE And Street Fighter Crossover, And It’s Pretty Weird",
     "source": "GameSpot",
-    "summary": "Microsoft is reportedly surveying a subset of Xbox users about changing its plans for exclusive games going forward--possibly in a big way--and that's no surprise given Xbox CEO Asha Sharma has alluded to changes to the exclusivity strategy in the future. \nAt the same time, a survey like this is not...",
-    "date": "Wed, 14 Oct 2026 19:26:54 +0000",
-    "link": "https://www.gamespot.com/articles/xbox-survey-about-exclusives-includes-a-nuclear-strategy-but-wait-just-a-minute/",
+    "summary": "Ahead of the Street Fighter movie's release this week, 2K Games has announced a new DLC pack for WWE 2K26 that lets you dress several WWE performers as Street Fighter action figures. \nYou can make the likes of Rey Mysterio and The Rock look like oversized toys, and each version of the WWE star will ...",
+    "date": "Thu, 15 Oct 2026 17:11:07 +0000",
+    "link": "https://www.gamespot.com/articles/were-getting-a-wwe-and-street-fighter-crossover-and-its-pretty-weird/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": -0.0,
       "badge": "info"
     },
     "tags": [
-      "Xbox"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 20,
+    "title": "Sega Pulls Total War: Shogun 2 Remaster After Backlash Over AI-Upscaled Graphics",
+    "source": "GameSpot",
+    "summary": "Following player backlash, Sega and Creative Assembly have yanked Total War: Shogun 2 - Complete Edition from sale and have replaced it with the original 2011 version. First hitting digital shelves on October 13, this version of the beloved strategy game was advertised as having had a substantial fa...",
+    "date": "Thu, 15 Oct 2026 17:10:28 +0000",
+    "link": "https://www.gamespot.com/articles/sega-pulls-total-war-shogun-2-remaster-after-backlash-over-ai-upscaled-graphics/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
+    },
+    "tags": [
+      "AI",
+      "Graphics"
     ],
     "read_time": "1 min read"
   }
