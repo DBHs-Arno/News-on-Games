@@ -1,73 +1,72 @@
 [
   {
     "id": 1,
-    "title": "K/DA Is Getting an Official Louis Vuitton Art Book Ahead of 'Start a Fire' Comeback",
+    "title": "Pro Dota 2 Player Claims He Had to Play a Full Match in Front of Police Officers to Prove His Identity",
     "source": "IGN",
-    "summary": "",
-    "date": "Thu, 15 Oct 2026 17:47:00 +0000",
-    "link": "https://www.ign.com/articles/riot-games-louis-vuitton-kda-travel-book-announcement",
+    "summary": "A pro Dota 2 player is claiming he had to play a full Dota match in front of police officers to prove his identity. Thankfully, he had the sauce.",
+    "date": "Thu, 15 Oct 2026 21:57:59 +0000",
+    "link": "https://www.ign.com/articles/pro-dota-2-player-claims-he-had-to-play-a-full-match-in-front-of-police-after-his-teams-boot-camp-was-raided",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.35,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Amazon's Best Audible Deal for 2026 Is Back for Just a Few Days: Pay $0.99 Per Month Plus Get $20 Credit",
+    "title": "The Tiny Lisen 10,000mAh Power Bank With 45W USB-C Output Drops to $23.99",
     "source": "IGN",
-    "summary": "Both Amazon Prime and non-Prime members, new subscribers and (most) previous subscribers are eligible.",
-    "date": "Thu, 15 Oct 2026 17:45:00 +0000",
-    "link": "https://www.ign.com/articles/amazon-audible-deal-october-2026",
+    "summary": "More than doubles your Nintendo Switch 2 playtime.",
+    "date": "Thu, 15 Oct 2026 21:45:00 +0000",
+    "link": "https://www.ign.com/articles/lisen-10000mah-power-bank-deal-october-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.21,
+      "score": 0.25,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Avatar: Seven Havens Episode 3 Hints at the Return of the 'My Cabbages!' Guy",
+    "title": "Mortal Kombat Creator Ed Boon Responds to Street Fighter Cast Saying They Want a Crossover Movie",
     "source": "IGN",
-    "summary": "",
-    "date": "Thu, 15 Oct 2026 17:35:40 +0000",
-    "link": "https://www.ign.com/articles/avatar-seven-havens-episode-3-hints-at-the-return-of-the-my-cabbages-guy",
+    "summary": "Mortal Kombat co-creator Ed Boon has responded after the cast of the Street Fighter movie were vocally enthusiastic about the idea of a crossover film with Mortal Kombat, and it looks like he’s open to the possibility, too — as long as a game gets made first.",
+    "date": "Thu, 15 Oct 2026 21:38:28 +0000",
+    "link": "https://www.ign.com/articles/mortal-kombat-creator-ed-boon-responds-to-street-fighter-cast-saying-they-want-a-crossover-movie",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.08,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "CD Projekt Has Officially Begun Work on Project Hadar, but It's Not in Pre-Production Yet",
+    "title": "The BROTTAR Corner Display Cabinet Drops to $89.99 With Coupon, More Room to Showcase Your Collection",
     "source": "IGN",
-    "summary": "CD Projekt Red, the Polish developer best known for its amazing RPG series The Witcher and Cyberpunk 2077, has officially finished imagining up a new world for us to play in. The “world vision” stage for its new IP, Project Hadar, has been completed and work has officially begun on turning those con...",
-    "date": "Thu, 15 Oct 2026 17:23:22 +0000",
-    "link": "https://www.ign.com/articles/cd-projekt-has-officially-begun-work-on-project-hadar-but-its-not-in-pre-production-yet",
+    "summary": "Features motion-sensing 3-color LED lighting and soft-close hinges.",
+    "date": "Thu, 15 Oct 2026 21:30:00 +0000",
+    "link": "https://www.ign.com/articles/brottar-corner-display-cabinet-deal-october-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.37,
+      "score": 0.5,
       "badge": "success"
     },
     "tags": [
-      "RPG",
-      "Cyberpunk"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -84,8 +83,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -120,8 +119,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -138,155 +137,189 @@
       "badge": "success"
     },
     "tags": [
-      "Unreal Engine",
-      "AI"
+      "AI",
+      "Unreal Engine"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "What time are the Fortnitemares power hours in Fortnite Chapter 7 Season 4?",
+    "title": "The Mummy Officially Returns in 1 Year — Now With a New Cryptic Title",
     "source": "Polygon",
-    "summary": "This weekend's Fortnite power hours feature Trick or Treat sprites. Here's when they are in your time zone.",
-    "date": "Thu, 15 Oct 2026 18:01:18 GMT",
-    "link": "https://www.polygon.com/fortnite-chapter-7-season-4-power-hours-what-time/",
+    "summary": "The Mummy 4 has been titled The Mummy: Book of the Dead. It arrives in theaters exactly one year from today.",
+    "date": "Thu, 15 Oct 2026 21:12:33 GMT",
+    "link": "https://www.polygon.com/the-mummy-4-release-date-title-revealed/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "How to unlock fast travel in Castlevania: Belmont's Curse",
+    "source": "Polygon",
+    "summary": "Castlevania Belmont's Curse fast travel is locked behind a significant amount of progress. Here's when you can fast travel in Belmont's Curse.",
+    "date": "Thu, 15 Oct 2026 21:10:40 GMT",
+    "link": "https://www.polygon.com/castlevania-belmonts-curse-fast-travel/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "6 Fire Emblem Fortune's Weave Characters Who Need to Be in the Next Smash Bros Game",
+    "source": "Polygon",
+    "summary": "It's inevitable we'll see Fire Emblem Fortune's Weave characters in the next Smash Bros game. Hopefully, some of these make the cut",
+    "date": "Thu, 15 Oct 2026 21:00:17 GMT",
+    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-characters-next-smash-bros/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.16,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "2026's Bloodiest Game Just Got a Release Date",
+    "source": "Polygon",
+    "summary": "Acts of Blood is a The Raid-inspired beat-'em-up. It will arrive on Steam in December and on consoles in 2027.",
+    "date": "Thu, 15 Oct 2026 19:00:17 GMT",
+    "link": "https://www.polygon.com/acts-of-blood-steam-release-date-console-launch-announced/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "US lawmaker calls videogame purchases rentals disguised as sales: 'When you pay for a game, you should own it'",
+    "source": "PC Gamer",
+    "summary": "Representative Ritchie Torres will introduce a bill aimed at protecting videogame ownership, including for online games that are decommissioned.",
+    "date": "Fri, 16 Oct 2026 00:08:45 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/us-lawmaker-calls-videogame-purchases-rentals-disguised-as-sales-when-you-pay-for-a-game-you-should-own-it/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Steam achievements are getting a huge overhaul, with separate sets for DLC and season passes, and an easy way to compare with friends",
+    "source": "PC Gamer",
+    "summary": "It's in beta now, but will likely release widely in about a month.",
+    "date": "Thu, 15 Oct 2026 23:58:30 +0000",
+    "link": "https://www.pcgamer.com/software/platforms/steam-achievements-are-getting-a-huge-overhaul-with-separate-sets-for-dlc-and-season-passes-and-an-easy-way-to-compare-with-friends/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.18,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Less than 2 weeks after announcing RuneScape Reignited, Jagex is scrapping the whole thing",
+    "source": "PC Gamer",
+    "summary": "In the wake of a furious backlash from players, Jagex admits it \"missed the mark.\"",
+    "date": "Thu, 15 Oct 2026 21:09:54 +0000",
+    "link": "https://www.pcgamer.com/games/mmo/less-than-2-weeks-after-announcing-runescape-reignited-jagex-is-scrapping-the-whole-thing/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Valheim vs Enshrouded vs RuneScape: Dragonwilds: Let's settle this",
+    "source": "PC Gamer",
+    "summary": "Three top-tier survival crafting games have entered their 1.0 era.",
+    "date": "Thu, 15 Oct 2026 20:54:41 +0000",
+    "link": "https://www.pcgamer.com/games/survival-crafting/valheim-vs-runescape-dragonwilds-vs-enshrouded/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "The 9 Biggest RPG Jerk Companions, Ranked From Worst to Even Worse",
-    "source": "Polygon",
-    "summary": "From a grumpy krogan to a bride who makes you sleep on the floor, these nine RPG companions are jerks at first and keepers by the end.",
-    "date": "Thu, 15 Oct 2026 18:00:19 GMT",
-    "link": "https://www.polygon.com/best-jerk-rpg-companions/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.38,
-      "badge": "danger"
-    },
-    "tags": [
-      "RPG"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Diablo 5 Officially Passes a Major Production Milestone",
-    "source": "Polygon",
-    "summary": "Blizzard is hard at work on Diablo 5 as shooting begins for the game despite being slated for release in 2029",
-    "date": "Thu, 15 Oct 2026 17:56:34 GMT",
-    "link": "https://www.polygon.com/diablo-5-blizzard-rpg-cinematic-shooting-begins/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.21,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "'Obsession 'Director’s Next Film Is 'Even Better' Than Last, Says Seth Rogen",
-    "source": "Polygon",
-    "summary": "Seth Rogen has already seen Curry Barker's next film, 'Anything But Ghosts,' and he says it's excellent.",
-    "date": "Thu, 15 Oct 2026 17:48:46 GMT",
-    "link": "https://www.polygon.com/obsession-director-curry-barker-next-film-anything-but-ghosts/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Control Resonant sells 1 million copies in 3 weeks to become Remedy's fastest-selling game ever",
-    "source": "PC Gamer",
-    "summary": "It's not a huge number, but it's big news for Remedy.",
-    "date": "Thu, 15 Oct 2026 18:15:22 +0000",
-    "link": "https://www.pcgamer.com/games/action/control-resonant-sells-1-million-copies-in-3-weeks-to-become-remedys-fastest-selling-game-ever/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.2,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "GTA 5 finally measures up to the actual best GTA game now I've added a jetpack",
-    "source": "PC Gamer",
-    "summary": "Zoom.",
-    "date": "Thu, 15 Oct 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-5-finally-measures-up-to-the-actual-best-gta-game-now-ive-added-a-jetpack/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Come on Razer what are you doing? This Pokemon-themed mouse is most definitely not the one",
-    "source": "PC Gamer",
-    "summary": "Now listen, I'm no designer, but...",
-    "date": "Thu, 15 Oct 2026 16:30:05 +0000",
-    "link": "https://www.pcgamer.com/hardware/gaming-mice/come-on-razer-what-are-you-doing-this-pokemon-themed-mouse-is-most-definitely-not-the-one/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "The AI bubble may not have burst yet, but $1 trillion worth of air appears to have escaped",
-    "source": "PC Gamer",
-    "summary": "Not so much 'going out with a bang' as 'anticlimactic party balloon deflation'.",
-    "date": "Thu, 15 Oct 2026 16:26:16 +0000",
-    "link": "https://www.pcgamer.com/software/ai/the-ai-bubble-may-not-have-burst-yet-but-usd1-trillion-worth-of-air-appears-to-have-escaped/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "AI"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
+    "title": "Why Rockstar Canceled Its PlayStation-Exclusive Follow-Up To GTA 4",
+    "source": "GameSpot",
+    "summary": "At E3 2009, Sony announced that it was partnering with Rockstar on a PlayStation-exclusive spy game called Agent, with Rockstar founders Sam and Dan Houser overseeing development. The game never materialized, though, and now Dan Houser has shared more details as to why.\nSpeaking to IGN, Houser said ...",
+    "date": "Thu, 15 Oct 2026 19:23:16 +0000",
+    "link": "https://www.gamespot.com/articles/why-rockstar-canceled-its-playstation-exclusive-follow-up-to-gta-4/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.1,
+      "badge": "danger"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Call Of Duty: MW4 Is Not On Xbox Game Pass, But Here’s When You Can Expect It",
+    "source": "GameSpot",
+    "summary": "Call of Duty: Modern Warfare 4 is set for release on October 23, and in a big shakeup, it will not be available on Xbox Game Pass at launch.\nThis has been known for a while, but Activision is reminding people of this in a new blog post on the eve of the game's campaign early access on October 16. In...",
+    "date": "Thu, 15 Oct 2026 19:21:10 +0000",
+    "link": "https://www.gamespot.com/articles/call-of-duty-mw4-is-not-on-xbox-game-pass-but-heres-when-you-can-expect-it/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
     "title": "007 First Light On Switch 2 Includes Something No Other Platform Gets, And It’s Ridiculous",
     "source": "GameSpot",
     "summary": "IO Interactive has announced the release date for 007 First Light's long-delayed Switch 2 version--March 18, 2027--and that's not all. People who preorder the game for Switch 2 are getting something no other platform has: a ridiculously oversized tie.\nNot just any ridiculously oversized tie, however...",
@@ -298,13 +331,13 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 18,
+    "id": 20,
     "title": "GTA 6 Isn’t Showing Boobie In Promotional Material",
     "source": "GameSpot",
     "summary": "The marketing machine for Grand Theft Auto 6 is at full steam, and while Rockstar Games is showcasing many of the characters players will be encountering in the open-world crime game, one character with a very distinct name has been largely absent from promos.\nViewers of the GTA 6 Extended Look migh...",
@@ -317,42 +350,6 @@
     },
     "tags": [
       "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "We’re Getting A WWE And Street Fighter Crossover, And It’s Pretty Weird",
-    "source": "GameSpot",
-    "summary": "Ahead of the Street Fighter movie's release this week, 2K Games has announced a new DLC pack for WWE 2K26 that lets you dress several WWE performers as Street Fighter action figures. \nYou can make the likes of Rey Mysterio and The Rock look like oversized toys, and each version of the WWE star will ...",
-    "date": "Thu, 15 Oct 2026 17:11:07 +0000",
-    "link": "https://www.gamespot.com/articles/were-getting-a-wwe-and-street-fighter-crossover-and-its-pretty-weird/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "Sega Pulls Total War: Shogun 2 Remaster After Backlash Over AI-Upscaled Graphics",
-    "source": "GameSpot",
-    "summary": "Following player backlash, Sega and Creative Assembly have yanked Total War: Shogun 2 - Complete Edition from sale and have replaced it with the original 2011 version. First hitting digital shelves on October 13, this version of the beloved strategy game was advertised as having had a substantial fa...",
-    "date": "Thu, 15 Oct 2026 17:10:28 +0000",
-    "link": "https://www.gamespot.com/articles/sega-pulls-total-war-shogun-2-remaster-after-backlash-over-ai-upscaled-graphics/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "AI",
-      "Graphics"
     ],
     "read_time": "1 min read"
   }
