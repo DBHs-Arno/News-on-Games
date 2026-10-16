@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Pro Dota 2 Player Claims He Had to Play a Full Match in Front of Police Officers to Prove His Identity",
+    "title": "Preorder the SteelSeries Sensei Pro and Rival Pro 8K Gaming Mice With Unlimited Battery Life",
     "source": "IGN",
-    "summary": "A pro Dota 2 player is claiming he had to play a full Dota match in front of police officers to prove his identity. Thankfully, he had the sauce.",
-    "date": "Thu, 15 Oct 2026 21:57:59 +0000",
-    "link": "https://www.ign.com/articles/pro-dota-2-player-claims-he-had-to-play-a-full-match-in-front-of-police-after-his-teams-boot-camp-was-raided",
+    "summary": "Shaping up to be the best gaming mice on the market.",
+    "date": "Fri, 16 Oct 2026 01:20:00 +0000",
+    "link": "https://www.ign.com/articles/preorder-the-steelseries-new-sensei-pro-and-rival-pro-gaming-mice",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.35,
+      "score": 1.0,
       "badge": "success"
     },
     "tags": [
@@ -19,31 +19,32 @@
   },
   {
     "id": 2,
-    "title": "The Tiny Lisen 10,000mAh Power Bank With 45W USB-C Output Drops to $23.99",
+    "title": "Save 34% Off the Storied Klipsch ProMedia 2.1 Lumina Computer Speakers Well Ahead of Black Friday",
     "source": "IGN",
-    "summary": "More than doubles your Nintendo Switch 2 playtime.",
-    "date": "Thu, 15 Oct 2026 21:45:00 +0000",
-    "link": "https://www.ign.com/articles/lisen-10000mah-power-bank-deal-october-2026",
+    "summary": "Updated to modern day standards.",
+    "date": "Fri, 16 Oct 2026 00:20:00 +0000",
+    "link": "https://www.ign.com/articles/klipsch-promedia-21-lumina-computer-speaker-deal-october-2026",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
     },
     "tags": [
-      "Nintendo"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Mortal Kombat Creator Ed Boon Responds to Street Fighter Cast Saying They Want a Crossover Movie",
+    "title": "'I Just Sort of Disconnect' — Jeff Kaplan is Avoiding Overwatch at all Costs",
     "source": "IGN",
-    "summary": "Mortal Kombat co-creator Ed Boon has responded after the cast of the Street Fighter movie were vocally enthusiastic about the idea of a crossover film with Mortal Kombat, and it looks like he’s open to the possibility, too — as long as a game gets made first.",
-    "date": "Thu, 15 Oct 2026 21:38:28 +0000",
-    "link": "https://www.ign.com/articles/mortal-kombat-creator-ed-boon-responds-to-street-fighter-cast-saying-they-want-a-crossover-movie",
+    "summary": "Former Overwatch director Jeff Kaplan explained how he protects his psyche by completely avoiding online discussions and subreddits about Blizzard's hero shooter.",
+    "date": "Thu, 15 Oct 2026 23:44:16 +0000",
+    "link": "https://www.ign.com/articles/i-just-sort-of-disconnect-jeff-kaplan-is-avoiding-overwatch-at-all-costs",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.08,
+      "score": 0.05,
       "badge": "info"
     },
     "tags": [
@@ -54,14 +55,14 @@
   },
   {
     "id": 4,
-    "title": "The BROTTAR Corner Display Cabinet Drops to $89.99 With Coupon, More Room to Showcase Your Collection",
+    "title": "Save $900 Off the New 2026 65\" Hisense UR8 RGB Mini-LED TV, One of the Best TVs You Can Get for Gaming",
     "source": "IGN",
-    "summary": "Features motion-sensing 3-color LED lighting and soft-close hinges.",
-    "date": "Thu, 15 Oct 2026 21:30:00 +0000",
-    "link": "https://www.ign.com/articles/brottar-corner-display-cabinet-deal-october-2026",
+    "summary": "The new 2026 RGB Mini-LED tech boasts richer colors, a brighter picture, and wider viewing angles than ever before.",
+    "date": "Thu, 15 Oct 2026 23:30:00 +0000",
+    "link": "https://www.ign.com/articles/hisense-ur8-rgb-mini-led-tv-deal-october-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.5,
+      "score": 0.42,
       "badge": "success"
     },
     "tags": [
@@ -144,6 +145,60 @@
   },
   {
     "id": 9,
+    "title": "34 Years Later, the Best-Ever 'Far Side' Quote Will Still Leave You Speechless",
+    "source": "Polygon",
+    "summary": "Gary Larson's comic strip The Far Side was known for its visual humor, but this is the best-ever quote from the series",
+    "date": "Fri, 16 Oct 2026 04:00:23 GMT",
+    "link": "https://www.polygon.com/best-far-side-quote-ever/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "53 Years Later, The Greatest Closing Line In Sci-Fi History Is Still The Best Book Quote Of The 1970s",
+    "source": "Polygon",
+    "summary": "Roadside Picnic ends with one of science fiction’s most beautiful lines, a simple wish for happiness that still resonates more than 50 years later.",
+    "date": "Fri, 16 Oct 2026 02:21:17 GMT",
+    "link": "https://www.polygon.com/best-scifi-book-closing-line/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.51,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "The Batman Part 2 to Resume Filming With New Director",
+    "source": "Polygon",
+    "summary": "Steven Soderbergh is stepping in to help complete The Batman Part 2, starring Robert Pattinson, as questions remain about the DC sequel's release date",
+    "date": "Fri, 16 Oct 2026 01:36:53 GMT",
+    "link": "https://www.polygon.com/the-batman-part-2-steven-soderbergh-production-update/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
     "title": "The Mummy Officially Returns in 1 Year — Now With a New Cryptic Title",
     "source": "Polygon",
     "summary": "The Mummy 4 has been titled The Mummy: Book of the Dead. It arrives in theaters exactly one year from today.",
@@ -157,59 +212,6 @@
     "tags": [
       "Gaming",
       "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "How to unlock fast travel in Castlevania: Belmont's Curse",
-    "source": "Polygon",
-    "summary": "Castlevania Belmont's Curse fast travel is locked behind a significant amount of progress. Here's when you can fast travel in Belmont's Curse.",
-    "date": "Thu, 15 Oct 2026 21:10:40 GMT",
-    "link": "https://www.polygon.com/castlevania-belmonts-curse-fast-travel/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "6 Fire Emblem Fortune's Weave Characters Who Need to Be in the Next Smash Bros Game",
-    "source": "Polygon",
-    "summary": "It's inevitable we'll see Fire Emblem Fortune's Weave characters in the next Smash Bros game. Hopefully, some of these make the cut",
-    "date": "Thu, 15 Oct 2026 21:00:17 GMT",
-    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-characters-next-smash-bros/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.16,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "2026's Bloodiest Game Just Got a Release Date",
-    "source": "Polygon",
-    "summary": "Acts of Blood is a The Raid-inspired beat-'em-up. It will arrive on Steam in December and on consoles in 2027.",
-    "date": "Thu, 15 Oct 2026 19:00:17 GMT",
-    "link": "https://www.polygon.com/acts-of-blood-steam-release-date-console-launch-announced/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
-    },
-    "tags": [
-      "Steam"
     ],
     "read_time": "1 min read"
   },
