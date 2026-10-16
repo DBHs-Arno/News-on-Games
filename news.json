@@ -1,249 +1,230 @@
 [
   {
     "id": 1,
-    "title": "Preorder the SteelSeries Sensei Pro and Rival Pro 8K Gaming Mice With Unlimited Battery Life",
+    "title": "The Dark Tower TV Series Would Be 'Remarkably Faithful' to Stephen King's Books, Mike Flanagan Says",
     "source": "IGN",
-    "summary": "Shaping up to be the best gaming mice on the market.",
-    "date": "Fri, 16 Oct 2026 01:20:00 +0000",
-    "link": "https://www.ign.com/articles/preorder-the-steelseries-new-sensei-pro-and-rival-pro-gaming-mice",
+    "summary": "Mike Flanagan has revealed his approach for the hotly-anticipated The Dark Tower TV show, which is sure to please fans of Stephen King’s book series.",
+    "date": "Fri, 16 Oct 2026 10:11:05 +0000",
+    "link": "https://www.ign.com/articles/the-dark-tower-tv-series-would-be-remarkably-faithful-to-stephen-kings-books-mike-flanagan-says",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 1.0,
+      "score": 0.24,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Save 34% Off the Storied Klipsch ProMedia 2.1 Lumina Computer Speakers Well Ahead of Black Friday",
+    "title": "Rockstar Mods Real Life Vehicles to Look Like GTA 6 Cars Before Driving Them Through Miami",
     "source": "IGN",
-    "summary": "Updated to modern day standards.",
-    "date": "Fri, 16 Oct 2026 00:20:00 +0000",
-    "link": "https://www.ign.com/articles/klipsch-promedia-21-lumina-computer-speaker-deal-october-2026",
+    "summary": "Rockstar’s wild marketing push for GTA 6 is well underway, with the latest seeing modded cars cruising around Miami.",
+    "date": "Fri, 16 Oct 2026 09:13:30 +0000",
+    "link": "https://www.ign.com/articles/rockstar-mods-real-life-vehicles-gta-6-cars-miami",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.27,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "'I Just Sort of Disconnect' — Jeff Kaplan is Avoiding Overwatch at all Costs",
+    "title": "Humble’s Cozy After Dark Showcase Bundle Is Perfect for Halloween, With 10 Spooky Indie Games for $12",
     "source": "IGN",
-    "summary": "Former Overwatch director Jeff Kaplan explained how he protects his psyche by completely avoiding online discussions and subreddits about Blizzard's hero shooter.",
-    "date": "Thu, 15 Oct 2026 23:44:16 +0000",
-    "link": "https://www.ign.com/articles/i-just-sort-of-disconnect-jeff-kaplan-is-avoiding-overwatch-at-all-costs",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Save $900 Off the New 2026 65\" Hisense UR8 RGB Mini-LED TV, One of the Best TVs You Can Get for Gaming",
-    "source": "IGN",
-    "summary": "The new 2026 RGB Mini-LED tech boasts richer colors, a brighter picture, and wider viewing angles than ever before.",
-    "date": "Thu, 15 Oct 2026 23:30:00 +0000",
-    "link": "https://www.ign.com/articles/hisense-ur8-rgb-mini-led-tv-deal-october-2026",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.42,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?",
-    "source": "Eurogamer",
-    "summary": "This generation's mega-game, Grand Theft Auto 6, will be eligible for The Game Awards 2026 by a matter of one day. Read more...",
-    "date": "Thu, 15 Oct 2026 16:10:34 +0000",
-    "link": "https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Fire Emblem: Fortune's Weave gets its first wave of DLC today, and an expansion pass to include it",
-    "source": "Eurogamer",
-    "summary": "Nintendo and Intelligent Systems have released an expansion pass for Fire Emblem: Fortune's Weave, introducing a string of DLC additions to the tactical RPG starting today, and through into 2027. Read more...",
-    "date": "Thu, 15 Oct 2026 13:48:43 +0000",
-    "link": "https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.39,
-      "badge": "success"
-    },
-    "tags": [
-      "Nintendo",
-      "RPG"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
-    "source": "Eurogamer",
-    "summary": "Rockstar Games has released the launch trailer for Grand Theft Auto 6 ahead of its 19th November release. Read more...",
-    "date": "Thu, 15 Oct 2026 13:24:51 +0000",
-    "link": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.23,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "DayZ creator Dean Hall says \"our industry is rotting from its core\" because of big-company \"greed\", aiming shots at Epic's Unreal and Unity",
-    "source": "Eurogamer",
-    "summary": "UPDATED 3.30PM BST: Dean Hall has explained more about his idea in an email exchange with Eurogamer, clarifying issues such as whether it uses or welcomes any form of generative AI, while offering some more strongly worded criticisms about Epic's Unreal engine and Unity. Read more...",
-    "date": "Thu, 15 Oct 2026 13:02:51 +0000",
-    "link": "https://www.eurogamer.net/dean-hall-brutal-framework-ksp-epic-unreal-unity",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
-    },
-    "tags": [
-      "AI",
-      "Unreal Engine"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "34 Years Later, the Best-Ever 'Far Side' Quote Will Still Leave You Speechless",
-    "source": "Polygon",
-    "summary": "Gary Larson's comic strip The Far Side was known for its visual humor, but this is the best-ever quote from the series",
-    "date": "Fri, 16 Oct 2026 04:00:23 GMT",
-    "link": "https://www.polygon.com/best-far-side-quote-ever/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "53 Years Later, The Greatest Closing Line In Sci-Fi History Is Still The Best Book Quote Of The 1970s",
-    "source": "Polygon",
-    "summary": "Roadside Picnic ends with one of science fiction’s most beautiful lines, a simple wish for happiness that still resonates more than 50 years later.",
-    "date": "Fri, 16 Oct 2026 02:21:17 GMT",
-    "link": "https://www.polygon.com/best-scifi-book-closing-line/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.51,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "The Batman Part 2 to Resume Filming With New Director",
-    "source": "Polygon",
-    "summary": "Steven Soderbergh is stepping in to help complete The Batman Part 2, starring Robert Pattinson, as questions remain about the DC sequel's release date",
-    "date": "Fri, 16 Oct 2026 01:36:53 GMT",
-    "link": "https://www.polygon.com/the-batman-part-2-steven-soderbergh-production-update/",
+    "summary": "Humble Bundle's Cozy After Dark Showcase bundle features 10 wonderfully spooky indie games you can grab for as low as $12, including Fear the Spotlight, Paradise Killer, and more.",
+    "date": "Fri, 16 Oct 2026 08:58:10 +0000",
+    "link": "https://www.ign.com/articles/humbles-cozy-after-dark-showcase-bundle-is-perfect-for-halloween-with-10-spooky-indie-games-for-12",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.12,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "Mike Flanagan Explains Why Warhammer 40,000 Is a 'Brutally Difficult Adaptation'",
+    "source": "IGN",
+    "summary": "Mike Flanagan has discussed the challenges of adapting Warhammer 40,000 into an Amazon TV series, calling it “brutally difficult.”",
+    "date": "Fri, 16 Oct 2026 08:24:05 +0000",
+    "link": "https://www.ign.com/articles/mike-flanagan-explains-why-warhammer-40000-is-a-brutally-difficult-adaptation",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.5,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "CD Projekt Red says its mysterious Hadar game is its \"biggest project to date\", but even after \"several good years\" it's seemingly a long way off",
+    "source": "Eurogamer",
+    "summary": "CD Projekt Red has described its mysterious new game, which is currently known by its codename Hadar, as its \"biggest project to date\", revealing it's taken \"several good years\" to reach its current state, and it's still not even in pre-production. Read more...",
+    "date": "Fri, 16 Oct 2026 11:09:05 +0000",
+    "link": "https://www.eurogamer.net/cd-projekt-red-project-hadar-sirius-witcher",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Control Resonant becomes the fastest-selling game in Remedy's history, outpacing Alan Wake 2 and the original Control",
+    "source": "Eurogamer",
+    "summary": "The latest game to pass a 1 million copies sold milestone is Control Resonant. Developer Remedy Entertainment broke the news yesterday, roughly three weeks after the game's release, revealing that Resonant is now the fastest-selling game in the Finnish studio's 31-year history. Read more...",
+    "date": "Fri, 16 Oct 2026 11:00:24 +0000",
+    "link": "https://www.eurogamer.net/control-resonant-sales-remedy-entertainment",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.04,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Jagex cancels RuneScape Reignited less than two weeks after it was announced, due to \"a ton\" of player feedback",
+    "source": "Eurogamer",
+    "summary": "RuneScape: Reignited, a shiny new version of the long-running British MMORPG, has been cancelled less than two weeks after it was revealed. Read more...",
+    "date": "Fri, 16 Oct 2026 09:07:10 +0000",
+    "link": "https://www.eurogamer.net/runescape-reignited-cancelled-two-weeks-player-feedback",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Controversial Battlefield 6 XP changes have been reversed, with Battlefield Studios saying they were \"unintended\"",
+    "source": "Eurogamer",
+    "summary": "Season 5 launched in Battlefield 6 this week as planned, and though most of the new additions -  new maps, weapons and vehicles, and gameplay changes - were well received, the season began on a low note due to accusations of generative AI use and because of a major hit to XP gain. Read more...",
+    "date": "Fri, 16 Oct 2026 08:37:38 +0000",
+    "link": "https://www.eurogamer.net/battlefield-6-xp-cap-season-5-reverted",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.22,
+      "badge": "success"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "'Crystal Lake' Ending Explained: Jason Voorhees' New Origin Story and More",
+    "source": "Polygon",
+    "summary": "Showrunner Brad Caleb Kane defends Crystal Lake's biggest twists. Spoilers ahead!",
+    "date": "Fri, 16 Oct 2026 12:00:17 GMT",
+    "link": "https://www.polygon.com/crystal-lake-ending-explained-jason-voorhees-origin-story-canon-changes/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.38,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "One Piece Could Be Coming to Fortnite Soon",
+    "source": "Polygon",
+    "summary": "Leakers have dug into game files and gotten access to upcoming event assets that reveal details about the next mini-season.",
+    "date": "Fri, 16 Oct 2026 11:45:51 GMT",
+    "link": "https://www.polygon.com/fortnite-one-piece-chest-barrel/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "Amazon Casts Leads in Fourth Wing TV Series",
+    "source": "Polygon",
+    "summary": "The first two actors have been selected for the upcoming Fourth Wing series on Amazon, and they'll play none other than Violet and Xaden.",
+    "date": "Fri, 16 Oct 2026 10:42:25 GMT",
+    "link": "https://www.polygon.com/fourth-wing-cast-violet-sorrengail-xaden-riorson/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "The Mummy Officially Returns in 1 Year — Now With a New Cryptic Title",
+    "title": "10 Games With Permadeath That Are 10/10 Masterpieces",
     "source": "Polygon",
-    "summary": "The Mummy 4 has been titled The Mummy: Book of the Dead. It arrives in theaters exactly one year from today.",
-    "date": "Thu, 15 Oct 2026 21:12:33 GMT",
-    "link": "https://www.polygon.com/the-mummy-4-release-date-title-revealed/",
+    "summary": "Games with a permadeath mechanic can be punishing, but they find interesting ways to make up for it. Here are some of the best ones around.",
+    "date": "Fri, 16 Oct 2026 10:30:18 GMT",
+    "link": "https://www.polygon.com/10-best-games-with-permadeath/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.75,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "US lawmaker calls videogame purchases rentals disguised as sales: 'When you pay for a game, you should own it'",
+    "title": "'Little Tim is so obsessed with Gabe': Former Valve writer baffled by Epic CEO Tim Sweeney's attempts to compete with Steam via vibe coding",
     "source": "PC Gamer",
-    "summary": "Representative Ritchie Torres will introduce a bill aimed at protecting videogame ownership, including for online games that are decommissioned.",
-    "date": "Fri, 16 Oct 2026 00:08:45 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/us-lawmaker-calls-videogame-purchases-rentals-disguised-as-sales-when-you-pay-for-a-game-you-should-own-it/",
+    "summary": "\"He talks about Gabe's yachts obsessively, so this is not an accident.\"",
+    "date": "Fri, 16 Oct 2026 10:52:32 +0000",
+    "link": "https://www.pcgamer.com/software/platforms/little-tim-is-so-obsessed-with-gabe-former-valve-writer-baffled-by-epic-ceo-tim-sweeneys-attempts-to-compete-with-steam-via-vibe-coding/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Steam achievements are getting a huge overhaul, with separate sets for DLC and season passes, and an easy way to compare with friends",
-    "source": "PC Gamer",
-    "summary": "It's in beta now, but will likely release widely in about a month.",
-    "date": "Thu, 15 Oct 2026 23:58:30 +0000",
-    "link": "https://www.pcgamer.com/software/platforms/steam-achievements-are-getting-a-huge-overhaul-with-separate-sets-for-dlc-and-season-passes-and-an-easy-way-to-compare-with-friends/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.18,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
     },
     "tags": [
       "Steam"
@@ -251,38 +232,55 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "Less than 2 weeks after announcing RuneScape Reignited, Jagex is scrapping the whole thing",
+    "id": 14,
+    "title": "Semifinals: The brutal war to determine the best RTS unit of all time needs your votes",
     "source": "PC Gamer",
-    "summary": "In the wake of a furious backlash from players, Jagex admits it \"missed the mark.\"",
-    "date": "Thu, 15 Oct 2026 21:09:54 +0000",
-    "link": "https://www.pcgamer.com/games/mmo/less-than-2-weeks-after-announcing-runescape-reignited-jagex-is-scrapping-the-whole-thing/",
+    "summary": "We've lost a lot of heroes so far.",
+    "date": "Fri, 16 Oct 2026 10:44:42 +0000",
+    "link": "https://www.pcgamer.com/games/rts/semifinals-the-brutal-war-to-determine-the-best-rts-unit-of-all-time-needs-your-votes/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.02,
+      "score": 0.07,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Peter Molyneux explains why Black & White 3 remains MIA, and then drops a tantalising teaser: 'It's such a difficult, difficult, challenging title to develop'",
+    "source": "PC Gamer",
+    "summary": "The father of the god game genre speaks",
+    "date": "Fri, 16 Oct 2026 10:34:30 +0000",
+    "link": "https://www.pcgamer.com/games/strategy/peter-molyneux-explains-why-black-and-white-3-remains-mia-and-then-drops-a-tantalising-teaser-its-such-a-difficult-difficult-challenging-title-to-develop/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Valheim vs Enshrouded vs RuneScape: Dragonwilds: Let's settle this",
+    "title": "New fear dropped: Amazon scammer seems to have delidded an $889 AMD chip, transplanted it on old Intel chip, and got it through return inspection",
     "source": "PC Gamer",
-    "summary": "Three top-tier survival crafting games have entered their 1.0 era.",
-    "date": "Thu, 15 Oct 2026 20:54:41 +0000",
-    "link": "https://www.pcgamer.com/games/survival-crafting/valheim-vs-runescape-dragonwilds-vs-enshrouded/",
+    "summary": "The AMD Ryzen 9 9950X3D2 is not a cheap chip.",
+    "date": "Fri, 16 Oct 2026 10:30:59 +0000",
+    "link": "https://www.pcgamer.com/hardware/processors/new-fear-dropped-amazon-scammer-seems-to-have-delidded-an-usd889-amd-chip-transplanted-it-on-old-intel-chip-and-got-it-through-return-inspection/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.01,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "AMD"
     ],
     "read_time": "1 min read"
   },
@@ -333,8 +331,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
