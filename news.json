@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "title": "The Dark Tower TV Series Would Be 'Remarkably Faithful' to Stephen King's Books, Mike Flanagan Says",
+    "title": "Save 50% Off a Rechargeable LED Light Up Mask With 50 Different Effects for Halloween, Now Under $20",
     "source": "IGN",
-    "summary": "Mike Flanagan has revealed his approach for the hotly-anticipated The Dark Tower TV show, which is sure to please fans of Stephen King’s book series.",
-    "date": "Fri, 16 Oct 2026 10:11:05 +0000",
-    "link": "https://www.ign.com/articles/the-dark-tower-tv-series-would-be-remarkably-faithful-to-stephen-kings-books-mike-flanagan-says",
+    "summary": "Powered by over 200 high‑brightness RGB LEDs.",
+    "date": "Fri, 16 Oct 2026 16:40:00 +0000",
+    "link": "https://www.ign.com/articles/led-mask-halloween-deal-october-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.24,
+      "score": 0.2,
       "badge": "success"
     },
     "tags": [
@@ -19,14 +19,14 @@
   },
   {
     "id": 2,
-    "title": "Rockstar Mods Real Life Vehicles to Look Like GTA 6 Cars Before Driving Them Through Miami",
+    "title": "Get a Switch 2-Ready 512GB MicroSD Express Card for $85",
     "source": "IGN",
-    "summary": "Rockstar’s wild marketing push for GTA 6 is well underway, with the latest seeing modded cars cruising around Miami.",
-    "date": "Fri, 16 Oct 2026 09:13:30 +0000",
-    "link": "https://www.ign.com/articles/rockstar-mods-real-life-vehicles-gta-6-cars-miami",
+    "summary": "This microSD Express card deal lets you expand your Switch 2 storage for as cheap as you'll find in 2026.",
+    "date": "Fri, 16 Oct 2026 16:30:34 +0000",
+    "link": "https://www.ign.com/articles/switch-2-ready-512gb-onn-microsd-express-card-on-sale",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.27,
+      "score": 0.4,
       "badge": "success"
     },
     "tags": [
@@ -37,14 +37,31 @@
   },
   {
     "id": 3,
-    "title": "Humble’s Cozy After Dark Showcase Bundle Is Perfect for Halloween, With 10 Spooky Indie Games for $12",
+    "title": "Save $40 Off Microsoft's Professional-Grade Xbox Elite Series 2 Core Wireless Controller",
     "source": "IGN",
-    "summary": "Humble Bundle's Cozy After Dark Showcase bundle features 10 wonderfully spooky indie games you can grab for as low as $12, including Fear the Spotlight, Paradise Killer, and more.",
-    "date": "Fri, 16 Oct 2026 08:58:10 +0000",
-    "link": "https://www.ign.com/articles/humbles-cozy-after-dark-showcase-bundle-is-perfect-for-halloween-with-10-spooky-indie-games-for-12",
+    "summary": "Worth the upgrade.",
+    "date": "Fri, 16 Oct 2026 16:20:00 +0000",
+    "link": "https://www.ign.com/articles/xbox-elite-controller-deal-october-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.12,
+      "score": 0.3,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "Preorder the SteelSeries Sensei Pro and Rival Pro 8K Gaming Mice With Unlimited Battery Life",
+    "source": "IGN",
+    "summary": "Shaping up to be the best gaming mice on the market.",
+    "date": "Fri, 16 Oct 2026 16:15:00 +0000",
+    "link": "https://www.ign.com/articles/preorder-the-steelseries-new-sensei-pro-and-rival-pro-gaming-mice",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 1.0,
       "badge": "success"
     },
     "tags": [
@@ -54,16 +71,50 @@
     "read_time": "1 min read"
   },
   {
-    "id": 4,
-    "title": "Mike Flanagan Explains Why Warhammer 40,000 Is a 'Brutally Difficult Adaptation'",
-    "source": "IGN",
-    "summary": "Mike Flanagan has discussed the challenges of adapting Warhammer 40,000 into an Amazon TV series, calling it “brutally difficult.”",
-    "date": "Fri, 16 Oct 2026 08:24:05 +0000",
-    "link": "https://www.ign.com/articles/mike-flanagan-explains-why-warhammer-40000-is-a-brutally-difficult-adaptation",
+    "id": 5,
+    "title": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements",
+    "source": "Eurogamer",
+    "summary": "Analogue - creator of various fancy retro-focused game consoles - has detailed its newly announced Mega Sg+ and Super Nt+: revised editions of its earlier Mega Sg and Super Nt machines, capable of playing original Sega and Nintendo cartridges with modern advancements. Read more...",
+    "date": "Fri, 16 Oct 2026 17:11:28 +0000",
+    "link": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.5,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.19,
+      "badge": "success"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine",
+    "source": "Eurogamer",
+    "summary": "Epic Games is officially working on bringing its battle royale shooter Fortnite to Linux. The announcement was tucked away at the bottom of Epic's widely mocked blog post revealing the new, \"vibe-coded\" Epic Games Store, which is also coming to Linux. Read more...",
+    "date": "Fri, 16 Oct 2026 13:46:23 +0000",
+    "link": "https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day",
+    "source": "Eurogamer",
+    "summary": "The launch of a new live season is hard, and subtle changes to a game can have massive consequences when players get their hands on it. Wardogs proved this true with the launch of its second season this week, as players were able to unlock tanks on day one. Read more...",
+    "date": "Fri, 16 Oct 2026 13:41:05 +0000",
+    "link": "https://www.eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -72,7 +123,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 5,
+    "id": 8,
     "title": "CD Projekt Red says its mysterious Hadar game is its \"biggest project to date\", but even after \"several good years\" it's seemingly a long way off",
     "source": "Eurogamer",
     "summary": "CD Projekt Red has described its mysterious new game, which is currently known by its codename Hadar, as its \"biggest project to date\", revealing it's taken \"several good years\" to reach its current state, and it's still not even in pre-production. Read more...",
@@ -90,68 +141,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "Control Resonant becomes the fastest-selling game in Remedy's history, outpacing Alan Wake 2 and the original Control",
-    "source": "Eurogamer",
-    "summary": "The latest game to pass a 1 million copies sold milestone is Control Resonant. Developer Remedy Entertainment broke the news yesterday, roughly three weeks after the game's release, revealing that Resonant is now the fastest-selling game in the Finnish studio's 31-year history. Read more...",
-    "date": "Fri, 16 Oct 2026 11:00:24 +0000",
-    "link": "https://www.eurogamer.net/control-resonant-sales-remedy-entertainment",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Jagex cancels RuneScape Reignited less than two weeks after it was announced, due to \"a ton\" of player feedback",
-    "source": "Eurogamer",
-    "summary": "RuneScape: Reignited, a shiny new version of the long-running British MMORPG, has been cancelled less than two weeks after it was revealed. Read more...",
-    "date": "Fri, 16 Oct 2026 09:07:10 +0000",
-    "link": "https://www.eurogamer.net/runescape-reignited-cancelled-two-weeks-player-feedback",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Controversial Battlefield 6 XP changes have been reversed, with Battlefield Studios saying they were \"unintended\"",
-    "source": "Eurogamer",
-    "summary": "Season 5 launched in Battlefield 6 this week as planned, and though most of the new additions -  new maps, weapons and vehicles, and gameplay changes - were well received, the season began on a low note due to accusations of generative AI use and because of a major hit to XP gain. Read more...",
-    "date": "Fri, 16 Oct 2026 08:37:38 +0000",
-    "link": "https://www.eurogamer.net/battlefield-6-xp-cap-season-5-reverted",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.22,
-      "badge": "success"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 9,
-    "title": "'Crystal Lake' Ending Explained: Jason Voorhees' New Origin Story and More",
+    "title": "GTA 6 Recaptures What Made GTA’s Best DLC So Great",
     "source": "Polygon",
-    "summary": "Showrunner Brad Caleb Kane defends Crystal Lake's biggest twists. Spoilers ahead!",
-    "date": "Fri, 16 Oct 2026 12:00:17 GMT",
-    "link": "https://www.polygon.com/crystal-lake-ending-explained-jason-voorhees-origin-story-canon-changes/",
+    "summary": "Vice City's lavish clubs, high-speed getaways, and over-the-top heists recall GTA's most extravagant era.",
+    "date": "Fri, 16 Oct 2026 18:00:18 GMT",
+    "link": "https://www.polygon.com/gta-6-ballad-of-gay-tony/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.38,
+      "score": 0.45,
       "badge": "success"
     },
     "tags": [
@@ -162,15 +160,15 @@
   },
   {
     "id": 10,
-    "title": "One Piece Could Be Coming to Fortnite Soon",
+    "title": "Street Fighter’s Best Live-Action Movie Yet Is Now Free on Streaming",
     "source": "Polygon",
-    "summary": "Leakers have dug into game files and gotten access to upcoming event assets that reveal details about the next mini-season.",
-    "date": "Fri, 16 Oct 2026 11:45:51 GMT",
-    "link": "https://www.polygon.com/fortnite-one-piece-chest-barrel/",
+    "summary": "The original 1994 Street Fighter movie is streaming for free on Tubi and Pluto TV.",
+    "date": "Fri, 16 Oct 2026 17:35:53 GMT",
+    "link": "https://www.polygon.com/street-fighter-1994-streaming-free-tubi-pluto-tv/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.2,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.54,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -180,11 +178,117 @@
   },
   {
     "id": 11,
-    "title": "Amazon Casts Leads in Fourth Wing TV Series",
+    "title": "Laura Bailey's Favorite Critical Role Romance Changed Campaign 3 Forever",
     "source": "Polygon",
-    "summary": "The first two actors have been selected for the upcoming Fourth Wing series on Amazon, and they'll play none other than Violet and Xaden.",
-    "date": "Fri, 16 Oct 2026 10:42:25 GMT",
-    "link": "https://www.polygon.com/fourth-wing-cast-violet-sorrengail-xaden-riorson/",
+    "summary": "A single kiss changed everything in Critical Role's Campaign 3.",
+    "date": "Fri, 16 Oct 2026 17:00:18 GMT",
+    "link": "https://www.polygon.com/critical-role-best-romance-laura-bailey-imodna/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Game Freak Announces End of Beast of Reincarnation’s Post-Launch Updates",
+    "source": "Polygon",
+    "summary": "Pokémon developer Game Freak has announced it is ending current post-launch update plans for action RPG Beast of Reincarnation",
+    "date": "Fri, 16 Oct 2026 16:24:34 GMT",
+    "link": "https://www.polygon.com/beast-of-reincarnation-game-freak-pokemon-updates-ending/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.18,
+      "badge": "danger"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "My career as a weed farmer was derailed by my unslakeable lust for golf",
+    "source": "PC Gamer",
+    "summary": "Same old story.",
+    "date": "Fri, 16 Oct 2026 17:06:21 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/my-career-as-a-weed-farmer-was-derailed-by-my-unslakeable-lust-for-golf/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Call of Duty: Modern Warfare 4 review-in-progress: A campaign you shouldn't skip",
+    "source": "PC Gamer",
+    "summary": "A fractured, fun campaign that benefits from looking backward.",
+    "date": "Fri, 16 Oct 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review-in-progress-a-campaign-you-shouldnt-skip/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Asus not only replaced an RTX 4080 Super with an RTX 5080 but also swapped it *again* just to give this lucky Redditor one that matches their all-white build",
+    "source": "PC Gamer",
+    "summary": "Sometimes persistence does win out.",
+    "date": "Fri, 16 Oct 2026 16:29:30 +0000",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/asus-not-only-replaced-an-rtx-4080-super-with-an-rtx-5080-but-also-swapped-it-again-just-to-give-this-lucky-redditor-one-that-matches-their-all-white-build/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.37,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Linux kernel drops AI-contribution disclosure rule, as Linus Torvalds says banning the tech would be 'utterly stupid'",
+    "source": "PC Gamer",
+    "summary": "The key thing for Torvalds is that you understand the code you submit, not how you made it.",
+    "date": "Fri, 16 Oct 2026 15:52:39 +0000",
+    "link": "https://www.pcgamer.com/software/linux/linux-kernel-drops-ai-contribution-disclosure-rule-as-linus-torvalds-says-banning-the-tech-would-be-utterly-stupid/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "WoW: Forever Just Changed The Math On What Race To Play In A Big Way",
+    "source": "GameSpot",
+    "summary": "World of Warcraft: Forever's beta is set to end in just a few days on October 21, but that hasn't stopped Blizzard from making some major changes to the game's various racial abilities.\nUnlike in the modern version of WoW, where racial abilities are so minor that they mostly feel cosmetic, racial ab...",
+    "date": "Fri, 16 Oct 2026 18:01:39 +0000",
+    "link": "https://www.gamespot.com/articles/wow-forever-just-changed-the-math-on-what-race-to-play-in-a-big-way/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.03,
@@ -197,15 +301,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "10 Games With Permadeath That Are 10/10 Masterpieces",
-    "source": "Polygon",
-    "summary": "Games with a permadeath mechanic can be punishing, but they find interesting ways to make up for it. Here are some of the best ones around.",
-    "date": "Fri, 16 Oct 2026 10:30:18 GMT",
-    "link": "https://www.polygon.com/10-best-games-with-permadeath/",
+    "id": 18,
+    "title": "A Comically On-The-Nose New Title Has Me Even More Excited For This Upcoming Tactics Game",
+    "source": "GameSpot",
+    "summary": "I was already looking forward to upcoming tactics game Australia Did It, but now I've got another reason to do so: a hilariously expanded new name.\nIn a fun turn of events, designer Rami Ismail has revealed a new subtitle has officially been adopted. Back in August, he posted a suggestion about the ...",
+    "date": "Fri, 16 Oct 2026 15:38:26 +0000",
+    "link": "https://www.gamespot.com/articles/a-comically-on-the-nose-new-title-has-me-even-more-excited-for-this-upcoming-tactics-game/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.75,
+      "score": 0.16,
       "badge": "success"
     },
     "tags": [
@@ -215,102 +319,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 13,
-    "title": "'Little Tim is so obsessed with Gabe': Former Valve writer baffled by Epic CEO Tim Sweeney's attempts to compete with Steam via vibe coding",
-    "source": "PC Gamer",
-    "summary": "\"He talks about Gabe's yachts obsessively, so this is not an accident.\"",
-    "date": "Fri, 16 Oct 2026 10:52:32 +0000",
-    "link": "https://www.pcgamer.com/software/platforms/little-tim-is-so-obsessed-with-gabe-former-valve-writer-baffled-by-epic-ceo-tim-sweeneys-attempts-to-compete-with-steam-via-vibe-coding/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Semifinals: The brutal war to determine the best RTS unit of all time needs your votes",
-    "source": "PC Gamer",
-    "summary": "We've lost a lot of heroes so far.",
-    "date": "Fri, 16 Oct 2026 10:44:42 +0000",
-    "link": "https://www.pcgamer.com/games/rts/semifinals-the-brutal-war-to-determine-the-best-rts-unit-of-all-time-needs-your-votes/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Peter Molyneux explains why Black & White 3 remains MIA, and then drops a tantalising teaser: 'It's such a difficult, difficult, challenging title to develop'",
-    "source": "PC Gamer",
-    "summary": "The father of the god game genre speaks",
-    "date": "Fri, 16 Oct 2026 10:34:30 +0000",
-    "link": "https://www.pcgamer.com/games/strategy/peter-molyneux-explains-why-black-and-white-3-remains-mia-and-then-drops-a-tantalising-teaser-its-such-a-difficult-difficult-challenging-title-to-develop/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "New fear dropped: Amazon scammer seems to have delidded an $889 AMD chip, transplanted it on old Intel chip, and got it through return inspection",
-    "source": "PC Gamer",
-    "summary": "The AMD Ryzen 9 9950X3D2 is not a cheap chip.",
-    "date": "Fri, 16 Oct 2026 10:30:59 +0000",
-    "link": "https://www.pcgamer.com/hardware/processors/new-fear-dropped-amazon-scammer-seems-to-have-delidded-an-usd889-amd-chip-transplanted-it-on-old-intel-chip-and-got-it-through-return-inspection/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "AMD"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "Why Rockstar Canceled Its PlayStation-Exclusive Follow-Up To GTA 4",
+    "id": 19,
+    "title": "Call Of Duty: MW4’s Campaign Launches Today, Please Don’t Spoil It For Others",
     "source": "GameSpot",
-    "summary": "At E3 2009, Sony announced that it was partnering with Rockstar on a PlayStation-exclusive spy game called Agent, with Rockstar founders Sam and Dan Houser overseeing development. The game never materialized, though, and now Dan Houser has shared more details as to why.\nSpeaking to IGN, Houser said ...",
-    "date": "Thu, 15 Oct 2026 19:23:16 +0000",
-    "link": "https://www.gamespot.com/articles/why-rockstar-canceled-its-playstation-exclusive-follow-up-to-gta-4/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.1,
-      "badge": "danger"
-    },
-    "tags": [
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "Call Of Duty: MW4 Is Not On Xbox Game Pass, But Here’s When You Can Expect It",
-    "source": "GameSpot",
-    "summary": "Call of Duty: Modern Warfare 4 is set for release on October 23, and in a big shakeup, it will not be available on Xbox Game Pass at launch.\nThis has been known for a while, but Activision is reminding people of this in a new blog post on the eve of the game's campaign early access on October 16. In...",
-    "date": "Thu, 15 Oct 2026 19:21:10 +0000",
-    "link": "https://www.gamespot.com/articles/call-of-duty-mw4-is-not-on-xbox-game-pass-but-heres-when-you-can-expect-it/",
+    "summary": "It's a big day for Call of Duty, as Call of Duty: Modern Warfare 4's campaign is playable beginning today, October 16, for people who preorder the game.\nThe campaign is available to preload now, but doesn't unlock until 10 AM PT / 1 PM ET. You can play early across PS5, Xbox Series X|S, Switch 2, an...",
+    "date": "Fri, 16 Oct 2026 15:24:46 +0000",
+    "link": "https://www.gamespot.com/articles/call-of-duty-mw4s-campaign-launches-today-please-dont-spoil-it-for-others/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.05,
+      "score": 0.06,
       "badge": "info"
     },
     "tags": [
@@ -319,37 +336,20 @@
     "read_time": "1 min read"
   },
   {
-    "id": 19,
-    "title": "007 First Light On Switch 2 Includes Something No Other Platform Gets, And It’s Ridiculous",
+    "id": 20,
+    "title": "The Blood Of Dawnwalker’s Next Update Will Let You Erase Your Mistakes And Pet The Dog",
     "source": "GameSpot",
-    "summary": "IO Interactive has announced the release date for 007 First Light's long-delayed Switch 2 version--March 18, 2027--and that's not all. People who preorder the game for Switch 2 are getting something no other platform has: a ridiculously oversized tie.\nNot just any ridiculously oversized tie, however...",
-    "date": "Thu, 15 Oct 2026 17:32:43 +0000",
-    "link": "https://www.gamespot.com/articles/007-first-light-on-switch-2-includes-something-no-other-platform-gets-and-its-ridiculous/",
+    "summary": "The Blood of Dawnwalker is already one of the best role-playing games of the year, but developer Rebel Wolves is preparing a big update that should make it even better. Like all good things in life, it starts with getting to pet a dog. \nUpdate 1.1, which is scheduled to arrive next week, brings a nu...",
+    "date": "Fri, 16 Oct 2026 15:09:53 +0000",
+    "link": "https://www.gamespot.com/articles/the-blood-of-dawnwalkers-next-update-will-let-you-erase-your-mistakes-and-pet-the-dog/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.37,
+      "badge": "success"
     },
     "tags": [
       "News",
       "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "GTA 6 Isn’t Showing Boobie In Promotional Material",
-    "source": "GameSpot",
-    "summary": "The marketing machine for Grand Theft Auto 6 is at full steam, and while Rockstar Games is showcasing many of the characters players will be encountering in the open-world crime game, one character with a very distinct name has been largely absent from promos.\nViewers of the GTA 6 Extended Look migh...",
-    "date": "Thu, 15 Oct 2026 17:31:32 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-isnt-showing-boobie-in-promotional-material/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.26,
-      "badge": "success"
-    },
-    "tags": [
-      "Steam"
     ],
     "read_time": "1 min read"
   }
