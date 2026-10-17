@@ -12,8 +12,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -30,8 +30,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -48,8 +48,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -66,13 +66,31 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting",
+    "source": "Eurogamer",
+    "summary": "Update 1.1 for The Blood of Dawnwalker will add a new Story mode with additional combat assist, a potion that lets you forget your abilities and master new ones, and the ability to pet dogs and cats. Read more...",
+    "date": "Sat, 17 Oct 2026 11:18:21 +0000",
+    "link": "https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.26,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
     "title": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements",
     "source": "Eurogamer",
     "summary": "Analogue - creator of various fancy retro-focused game consoles - has detailed its newly announced Mega Sg+ and Super Nt+: revised editions of its earlier Mega Sg and Super Nt machines, capable of playing original Sega and Nintendo cartridges with modern advancements. Read more...",
@@ -89,7 +107,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine",
     "source": "Eurogamer",
     "summary": "Epic Games is officially working on bringing its battle royale shooter Fortnite to Linux. The announcement was tucked away at the bottom of Epic's widely mocked blog post revealing the new, \"vibe-coded\" Epic Games Store, which is also coming to Linux. Read more...",
@@ -106,7 +124,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day",
     "source": "Eurogamer",
     "summary": "The launch of a new live season is hard, and subtle changes to a game can have massive consequences when players get their hands on it. Wardogs proved this true with the launch of its second season this week, as players were able to unlock tanks on day one. Read more...",
@@ -118,103 +136,120 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "CD Projekt Red says its mysterious Hadar game is its \"biggest project to date\", but even after \"several good years\" it's seemingly a long way off",
-    "source": "Eurogamer",
-    "summary": "CD Projekt Red has described its mysterious new game, which is currently known by its codename Hadar, as its \"biggest project to date\", revealing it's taken \"several good years\" to reach its current state, and it's still not even in pre-production. Read more...",
-    "date": "Fri, 16 Oct 2026 11:09:05 +0000",
-    "link": "https://www.eurogamer.net/cd-projekt-red-project-hadar-sirius-witcher",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "Event Habitat Dex and Pokédex list in Pokémon Pokopia",
+    "title": "Grand Theft Auto 4 Was Rockstar at Its Best: Unpredictable",
     "source": "Polygon",
-    "summary": "Here are all the limited-time event habitats and Pokémon in Pokémon Pokopia and what you need to make them.",
-    "date": "Sat, 17 Oct 2026 04:01:19 GMT",
-    "link": "https://www.polygon.com/pokemon-pokopia-event-habitat-dex-pokedex-list-requirements-unlock/",
+    "summary": "GTA 4 is one of the best GTA games, as it's the only one where Rockstar took its satire and storytelling seriously",
+    "date": "Sat, 17 Oct 2026 12:00:18 GMT",
+    "link": "https://www.polygon.com/grand-theft-auto-4-was-rockstar-at-its-best-unpredictable/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.33,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Pokémon Pokopia event schedule",
+    "title": "New Street Fighter Movie Ends on the Strangest Song Choice Possible",
     "source": "Polygon",
-    "summary": "Our guide lists all the known limited-time events for Pokémon Pokopia, so you can find these event items and Pokémon.",
-    "date": "Sat, 17 Oct 2026 04:01:19 GMT",
-    "link": "https://www.polygon.com/pokemon-pokopia-event-schedule-holiday-dates/",
+    "summary": "Street Fighter director Kitao Sakurai explains the film's baffling send-off that uses The Weather Girls' \"It's Raining Men.\"",
+    "date": "Sat, 17 Oct 2026 11:30:18 GMT",
+    "link": "https://www.polygon.com/street-fighter-movie-2026-ending-its-raining-men/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.07,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Pokémon Pokopia 'Pumpkaboo's Sweet Surprises' event guide",
+    "title": "Stephen King Meets 'The Backrooms' in Syfy's Underrated 6-Part Anthology Series",
     "source": "Polygon",
-    "summary": "In this guide, you find all the information to complete Pokémon Pokopia's \"Pumpkaboo's Sweet Surprises\" Halloween event.",
-    "date": "Sat, 17 Oct 2026 04:01:18 GMT",
-    "link": "https://www.polygon.com/pokemon-pokopia-pumpkaboos-sweet-surprises-gourgeist-habitats-items/",
+    "summary": "A creepy contortionist clown isn't the only monster in this strange story.",
+    "date": "Sat, 17 Oct 2026 10:00:18 GMT",
+    "link": "https://www.polygon.com/horror-anthology-creepypasta-halloween-countdown/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.27,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.18,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "10 Perfect Detective Thrillers That Get More Intense With Every Episode",
+    "title": "37 Years Ago, 'Garfield' Suddenly Changed Genres With a Mind-Blowing Comic Strip",
     "source": "Polygon",
-    "summary": "These gripping mysteries explore the darkest corners of human nature, where each clue revels in the unexpected.",
-    "date": "Sat, 17 Oct 2026 04:00:23 GMT",
-    "link": "https://www.polygon.com/best-mystery-tv-shows-worth-solving/",
+    "summary": "This Garfield Halloween special might never have actually ended",
+    "date": "Sat, 17 Oct 2026 09:00:18 GMT",
+    "link": "https://www.polygon.com/garfield-alone/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'",
+    "source": "PC Gamer",
+    "summary": "Alliance Arts will instead host \"closed sessions\" for Drunken Goddess Reflux.",
+    "date": "Sat, 17 Oct 2026 12:04:00 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Funcom is laying off yet more developers as it pivots to supporting Dune: Awakening and Conan Exiles",
+    "source": "PC Gamer",
+    "summary": "CEO Rui Casais to depart the company at the end of the year.",
+    "date": "Sat, 17 Oct 2026 10:32:05 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/funcom-is-laying-off-yet-more-developers-as-it-pivots-to-supporting-dune-awakening-and-conan-exiles/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.38,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 13,
+    "id": 15,
     "title": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood",
     "source": "PC Gamer",
     "summary": "City residents and leaders denounced the free web game, which was taken down.",
@@ -226,13 +261,13 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says",
     "source": "PC Gamer",
     "summary": "The game is great, but CD Projekt wants to tell a new story.",
@@ -245,42 +280,6 @@
     },
     "tags": [
       "Cyberpunk"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "I haven't wanted to 100% a game in a long time, but…",
-    "source": "PC Gamer",
-    "summary": "I've only played a bit of offroad driving sim Over the Hill, but I'm already hooked. Or should I say: winched.",
-    "date": "Fri, 16 Oct 2026 20:07:29 +0000",
-    "link": "https://www.pcgamer.com/games/sim/i-havent-wanted-to-100-percent-a-game-in-a-long-time-but/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "'We f**ked up': 1 day into Wardogs Season 2, the Blue team bribery bonus is being dropped",
-    "source": "PC Gamer",
-    "summary": "Bulkhead's effort to make life better for the Blues worked a little too well.",
-    "date": "Fri, 16 Oct 2026 19:42:52 +0000",
-    "link": "https://www.pcgamer.com/games/fps/we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribery-bonus-is-being-dropped/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.1,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -314,8 +313,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -332,8 +331,8 @@
       "badge": "info"
     },
     "tags": [
-      "Steam",
-      "FPS"
+      "FPS",
+      "Steam"
     ],
     "read_time": "1 min read"
   },
