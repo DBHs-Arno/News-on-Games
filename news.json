@@ -1,72 +1,73 @@
 [
   {
     "id": 1,
-    "title": "Save 50% Off a Rechargeable LED Light Up Mask With 50 Different Effects for Halloween, Now Under $20",
+    "title": "James Gunn Shoots Down Milly Alcock Supergirl Rumors, Shares Man of Tomorrow Update",
     "source": "IGN",
-    "summary": "Powered by over 200 high‑brightness RGB LEDs.",
-    "date": "Fri, 16 Oct 2026 16:40:00 +0000",
-    "link": "https://www.ign.com/articles/led-mask-halloween-deal-october-2026",
+    "summary": "James Gunn has shot down rumors that Milly Alcock was fired as Supergirl and confirmed that he'll show Peter Safran an early cut of Man of Tomorrow later today.",
+    "date": "Fri, 16 Oct 2026 22:48:07 +0000",
+    "link": "https://www.ign.com/articles/james-gunn-shoots-down-milly-alcock-supergirl-rumors-shares-man-of-tomorrow-update",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.04,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Get a Switch 2-Ready 512GB MicroSD Express Card for $85",
+    "title": "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns",
     "source": "IGN",
-    "summary": "This microSD Express card deal lets you expand your Switch 2 storage for as cheap as you'll find in 2026.",
-    "date": "Fri, 16 Oct 2026 16:30:34 +0000",
-    "link": "https://www.ign.com/articles/switch-2-ready-512gb-onn-microsd-express-card-on-sale",
+    "summary": "Professional Super Smash Bros. player Jason ‘Mew2King’ Zimmerman has been banned from a competitive tournament after posting photos of his concerning skin condition and complaining of a bug infestation in his home.",
+    "date": "Fri, 16 Oct 2026 21:54:09 +0000",
+    "link": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.4,
+      "score": 0.26,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Save $40 Off Microsoft's Professional-Grade Xbox Elite Series 2 Core Wireless Controller",
+    "title": "Street Fighter: How Can There Be an Ending Explained When There Is No Ending?",
     "source": "IGN",
-    "summary": "Worth the upgrade.",
-    "date": "Fri, 16 Oct 2026 16:20:00 +0000",
-    "link": "https://www.ign.com/articles/xbox-elite-controller-deal-october-2026",
+    "summary": "Street Fighter is in theaters now, so this is our ending explained... or rather, non-ending explained. Plus, are there any post-credits scenes in the new movie?",
+    "date": "Fri, 16 Oct 2026 21:38:55 +0000",
+    "link": "https://www.ign.com/articles/street-fighter-how-can-there-be-an-ending-explained-when-there-is-no-ending",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.3,
+      "score": 0.14,
       "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Preorder the SteelSeries Sensei Pro and Rival Pro 8K Gaming Mice With Unlimited Battery Life",
+    "title": "Save 45% Off the Stylish MFish E-Rhino 140W USB-C Charger",
     "source": "IGN",
-    "summary": "Shaping up to be the best gaming mice on the market.",
-    "date": "Fri, 16 Oct 2026 16:15:00 +0000",
-    "link": "https://www.ign.com/articles/preorder-the-steelseries-new-sensei-pro-and-rival-pro-gaming-mice",
+    "summary": "Charger with swag.",
+    "date": "Fri, 16 Oct 2026 21:20:00 +0000",
+    "link": "https://www.ign.com/articles/mfish-usb-c-charger-deal-october-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 1.0,
+      "score": 0.5,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -117,8 +118,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -135,199 +136,164 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "GTA 6 Recaptures What Made GTA’s Best DLC So Great",
+    "title": "8 Call of Duty Games Still Missing from Game Pass",
     "source": "Polygon",
-    "summary": "Vice City's lavish clubs, high-speed getaways, and over-the-top heists recall GTA's most extravagant era.",
-    "date": "Fri, 16 Oct 2026 18:00:18 GMT",
-    "link": "https://www.polygon.com/gta-6-ballad-of-gay-tony/",
+    "summary": "Game Pass has a few excellent Call of Duty games available, but some of the best entries from years past are conspicuously absent.",
+    "date": "Fri, 16 Oct 2026 22:00:17 GMT",
+    "link": "https://www.polygon.com/best-call-of-duty-games-missing-from-game-pass/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.45,
+      "score": 0.12,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Street Fighter’s Best Live-Action Movie Yet Is Now Free on Streaming",
+    "title": "Resident Evil 2 on Switch 2 Is My New Favorite Way to Play Capcom's Horror Masterpiece",
     "source": "Polygon",
-    "summary": "The original 1994 Street Fighter movie is streaming for free on Tubi and Pluto TV.",
-    "date": "Fri, 16 Oct 2026 17:35:53 GMT",
-    "link": "https://www.polygon.com/street-fighter-1994-streaming-free-tubi-pluto-tv/",
+    "summary": "Resident Evil 2 on Switch 2 runs smoothly and looks great, thanks in part to HDR's effects on colors and lighting",
+    "date": "Fri, 16 Oct 2026 21:00:19 GMT",
+    "link": "https://www.polygon.com/resident-evil-2-switch-2-impressions/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.54,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Laura Bailey's Favorite Critical Role Romance Changed Campaign 3 Forever",
+    "title": "9 Most Perfect Single-Player Zelda Clones Nobody Plays, Ranked",
     "source": "Polygon",
-    "summary": "A single kiss changed everything in Critical Role's Campaign 3.",
-    "date": "Fri, 16 Oct 2026 17:00:18 GMT",
-    "link": "https://www.polygon.com/critical-role-best-romance-laura-bailey-imodna/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Game Freak Announces End of Beast of Reincarnation’s Post-Launch Updates",
-    "source": "Polygon",
-    "summary": "Pokémon developer Game Freak has announced it is ending current post-launch update plans for action RPG Beast of Reincarnation",
-    "date": "Fri, 16 Oct 2026 16:24:34 GMT",
-    "link": "https://www.polygon.com/beast-of-reincarnation-game-freak-pokemon-updates-ending/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.18,
-      "badge": "danger"
-    },
-    "tags": [
-      "RPG"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "My career as a weed farmer was derailed by my unslakeable lust for golf",
-    "source": "PC Gamer",
-    "summary": "Same old story.",
-    "date": "Fri, 16 Oct 2026 17:06:21 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/my-career-as-a-weed-farmer-was-derailed-by-my-unslakeable-lust-for-golf/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Call of Duty: Modern Warfare 4 review-in-progress: A campaign you shouldn't skip",
-    "source": "PC Gamer",
-    "summary": "A fractured, fun campaign that benefits from looking backward.",
-    "date": "Fri, 16 Oct 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review-in-progress-a-campaign-you-shouldnt-skip/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Asus not only replaced an RTX 4080 Super with an RTX 5080 but also swapped it *again* just to give this lucky Redditor one that matches their all-white build",
-    "source": "PC Gamer",
-    "summary": "Sometimes persistence does win out.",
-    "date": "Fri, 16 Oct 2026 16:29:30 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/asus-not-only-replaced-an-rtx-4080-super-with-an-rtx-5080-but-also-swapped-it-again-just-to-give-this-lucky-redditor-one-that-matches-their-all-white-build/",
+    "summary": "From a yoyo adventure to a game where you die every minute, these nine overlooked single-player Zelda-likes are ranked by weirdness.",
+    "date": "Fri, 16 Oct 2026 21:00:19 GMT",
+    "link": "https://www.polygon.com/best-zelda-likes-nobody-plays-ranked/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.37,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "10 New Movies to Watch This Weekend on Netflix, Prime Video, and HBO Max (October 16-18)",
+    "source": "Polygon",
+    "summary": "On this weekend's streaming and VOD movie column, there's the most recent take on Dracula and a horror movie about the plushy star of a kids' TV show.",
+    "date": "Fri, 16 Oct 2026 21:00:19 GMT",
+    "link": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-october-16-18/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.21,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood",
+    "source": "PC Gamer",
+    "summary": "City residents and leaders denounced the free web game, which was taken down.",
+    "date": "Fri, 16 Oct 2026 23:53:11 +0000",
+    "link": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.14,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says",
+    "source": "PC Gamer",
+    "summary": "The game is great, but CD Projekt wants to tell a new story.",
+    "date": "Fri, 16 Oct 2026 22:02:23 +0000",
+    "link": "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "Cyberpunk"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "I haven't wanted to 100% a game in a long time, but…",
+    "source": "PC Gamer",
+    "summary": "I've only played a bit of offroad driving sim Over the Hill, but I'm already hooked. Or should I say: winched.",
+    "date": "Fri, 16 Oct 2026 20:07:29 +0000",
+    "link": "https://www.pcgamer.com/games/sim/i-havent-wanted-to-100-percent-a-game-in-a-long-time-but/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Linux kernel drops AI-contribution disclosure rule, as Linus Torvalds says banning the tech would be 'utterly stupid'",
+    "title": "'We f**ked up': 1 day into Wardogs Season 2, the Blue team bribery bonus is being dropped",
     "source": "PC Gamer",
-    "summary": "The key thing for Torvalds is that you understand the code you submit, not how you made it.",
-    "date": "Fri, 16 Oct 2026 15:52:39 +0000",
-    "link": "https://www.pcgamer.com/software/linux/linux-kernel-drops-ai-contribution-disclosure-rule-as-linus-torvalds-says-banning-the-tech-would-be-utterly-stupid/",
+    "summary": "Bulkhead's effort to make life better for the Blues worked a little too well.",
+    "date": "Fri, 16 Oct 2026 19:42:52 +0000",
+    "link": "https://www.pcgamer.com/games/fps/we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribery-bonus-is-being-dropped/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.1,
+      "badge": "success"
     },
     "tags": [
-      "AI"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
-    "title": "WoW: Forever Just Changed The Math On What Race To Play In A Big Way",
+    "title": "All The Records GTA 6 Will Break, We Think",
     "source": "GameSpot",
-    "summary": "World of Warcraft: Forever's beta is set to end in just a few days on October 21, but that hasn't stopped Blizzard from making some major changes to the game's various racial abilities.\nUnlike in the modern version of WoW, where racial abilities are so minor that they mostly feel cosmetic, racial ab...",
-    "date": "Fri, 16 Oct 2026 18:01:39 +0000",
-    "link": "https://www.gamespot.com/articles/wow-forever-just-changed-the-math-on-what-race-to-play-in-a-big-way/",
+    "summary": "After years of development and perhaps more hype than for any game, GTA 6 is set for release on November 19 for PS5 and Xbox Series X|S. Predicting that it will be an enormous success commercially is perhaps one of the safest bets anyone could make. \nBut just how big will the launch be? And what rec...",
+    "date": "Fri, 16 Oct 2026 20:27:22 +0000",
+    "link": "https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "A Comically On-The-Nose New Title Has Me Even More Excited For This Upcoming Tactics Game",
-    "source": "GameSpot",
-    "summary": "I was already looking forward to upcoming tactics game Australia Did It, but now I've got another reason to do so: a hilariously expanded new name.\nIn a fun turn of events, designer Rami Ismail has revealed a new subtitle has officially been adopted. Back in August, he posted a suggestion about the ...",
-    "date": "Fri, 16 Oct 2026 15:38:26 +0000",
-    "link": "https://www.gamespot.com/articles/a-comically-on-the-nose-new-title-has-me-even-more-excited-for-this-upcoming-tactics-game/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "Call Of Duty: MW4’s Campaign Launches Today, Please Don’t Spoil It For Others",
-    "source": "GameSpot",
-    "summary": "It's a big day for Call of Duty, as Call of Duty: Modern Warfare 4's campaign is playable beginning today, October 16, for people who preorder the game.\nThe campaign is available to preload now, but doesn't unlock until 10 AM PT / 1 PM ET. You can play early across PS5, Xbox Series X|S, Switch 2, an...",
-    "date": "Fri, 16 Oct 2026 15:24:46 +0000",
-    "link": "https://www.gamespot.com/articles/call-of-duty-mw4s-campaign-launches-today-please-dont-spoil-it-for-others/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
+      "score": 0.07,
       "badge": "info"
     },
     "tags": [
@@ -336,20 +302,55 @@
     "read_time": "1 min read"
   },
   {
-    "id": 20,
-    "title": "The Blood Of Dawnwalker’s Next Update Will Let You Erase Your Mistakes And Pet The Dog",
+    "id": 18,
+    "title": "You Can Play WoW: Forever For Free Next Week (But There’s A Catch)",
     "source": "GameSpot",
-    "summary": "The Blood of Dawnwalker is already one of the best role-playing games of the year, but developer Rebel Wolves is preparing a big update that should make it even better. Like all good things in life, it starts with getting to pet a dog. \nUpdate 1.1, which is scheduled to arrive next week, brings a nu...",
-    "date": "Fri, 16 Oct 2026 15:09:53 +0000",
-    "link": "https://www.gamespot.com/articles/the-blood-of-dawnwalkers-next-update-will-let-you-erase-your-mistakes-and-pet-the-dog/",
+    "summary": "World of Warcraft: Forever's beta will be free for a limited time next week, giving players who want to check out the new version of Blizzard's old-school MMORPG but don't want to pay $60 for beta access a chance to see what all the hype is about. \nBlizzard announced a WoW: Forever stress test will ...",
+    "date": "Fri, 16 Oct 2026 18:45:44 +0000",
+    "link": "https://www.gamespot.com/articles/you-can-play-wow-forever-for-free-next-week-but-theres-a-catch/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.37,
+      "score": 0.13,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "This Espresso Machine Can Run Doom",
+    "source": "GameSpot",
+    "summary": "Before caffeinating yourself in the morning, the Fellow Espresso Series 1 machine can actually run 1993's Doom on its small, circular screen. Reddit user FullExtraction showed off the classic FPS, utilizing the brew button to run and steam button to shoot. The scroll wheel on the device turns Doomgu...",
+    "date": "Fri, 16 Oct 2026 18:28:36 +0000",
+    "link": "https://www.gamespot.com/articles/this-espresso-machine-can-run-doom/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "FPS",
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 20,
+    "title": "Shrek 2 Remaster Leaks, Looks Amazing And I Need It Now",
+    "source": "GameSpot",
+    "summary": "A remaster of 2004's Shrek 2: The Game is on the way, according to an Xbox.com listing that seems to have been published too soon.\nThe page for the unannounced game--which has since been removed--says the remaster will feature better textures, enhanced UI, and 4K resolution.\nLike the original PS2, X...",
+    "date": "Fri, 16 Oct 2026 18:21:13 +0000",
+    "link": "https://www.gamespot.com/articles/shrek-2-remaster-leaks-looks-amazing-and-i-need-it-now/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.27,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
     ],
     "read_time": "1 min read"
   }
