@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Red Rising Greenlit for Movie Adaptation With Author Pierce Brown to Produce",
+    "title": "Captain Price Actor Sends Message to Fans as Call of Duty: Modern Warfare 4 Campaign Praise Rolls in",
     "source": "IGN",
-    "summary": "The Red Rising book series by author Pierce Brown has officially been greenlit for a movie adaptation from Paramount Pictures, with Hunger Games alum Francis Lawrence to direct.",
-    "date": "Fri, 16 Oct 2026 23:08:54 +0000",
-    "link": "https://www.ign.com/articles/red-rising-greenlit-for-movie-adaptation-with-author-pierce-brown-to-produce",
+    "summary": "Barry Sloane, the actor behind Call of Duty's Captain Price, has shared a message with fans as praise for Modern Warfare 4's campaign rolls in.",
+    "date": "Sat, 17 Oct 2026 15:52:41 +0000",
+    "link": "https://www.ign.com/articles/captain-price-actor-sends-message-to-fans-as-call-of-duty-modern-warfare-4-campaign-praise-rolls-in",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.03,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
@@ -19,15 +19,15 @@
   },
   {
     "id": 2,
-    "title": "James Gunn Shoots Down Milly Alcock Supergirl Rumors, Shares Man of Tomorrow Update",
+    "title": "7 Crazy Movie Premises That Actually Worked",
     "source": "IGN",
-    "summary": "James Gunn has shot down rumors that Milly Alcock was fired as Supergirl and confirmed that he'll show Peter Safran an early cut of Man of Tomorrow later today.",
-    "date": "Fri, 16 Oct 2026 22:48:07 +0000",
-    "link": "https://www.ign.com/articles/james-gunn-shoots-down-milly-alcock-supergirl-rumors-shares-man-of-tomorrow-update",
+    "summary": "Before Whalefall, these crazy movie premises actually worked too.",
+    "date": "Sat, 17 Oct 2026 13:00:00 +0000",
+    "link": "https://www.ign.com/articles/crazy-movie-premises-that-actually-worked",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.04,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.3,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -37,15 +37,15 @@
   },
   {
     "id": 3,
-    "title": "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns",
+    "title": "We Sat Down with D&D Game Designer James Wyatt to Talk Dungeons & Dragons: World of Warcraft",
     "source": "IGN",
-    "summary": "Professional Super Smash Bros. player Jason ‘Mew2King’ Zimmerman has been banned from a competitive tournament after posting photos of his concerning skin condition and complaining of a bug infestation in his home.",
-    "date": "Fri, 16 Oct 2026 21:54:09 +0000",
-    "link": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
+    "summary": "At New York Comic Con, I got a chance to sit down with Wizards of the Coast Principal Game Designer James Wyatt to talk about the first Universes Beyond expansion for D&D.",
+    "date": "Sat, 17 Oct 2026 13:00:00 +0000",
+    "link": "https://www.ign.com/articles/we-sat-down-with-dd-game-designer-james-wyatt-to-talk-dungeons-and-dragons-world-of-warcraft",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.26,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.07,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -55,15 +55,15 @@
   },
   {
     "id": 4,
-    "title": "Street Fighter: How Can There Be an Ending Explained When There Is No Ending?",
+    "title": "The Street Fighter Movie Makes a Mistake Mortal Kombat Already Learned From",
     "source": "IGN",
-    "summary": "Street Fighter is in theaters now, so this is our ending explained... or rather, non-ending explained. Plus, are there any post-credits scenes in the new movie?",
-    "date": "Fri, 16 Oct 2026 21:38:55 +0000",
-    "link": "https://www.ign.com/articles/street-fighter-how-can-there-be-an-ending-explained-when-there-is-no-ending",
+    "summary": "Why are fighting game movies so scared of fighting tournaments? The Street Fighter movie is just the latest example.",
+    "date": "Sat, 17 Oct 2026 12:00:00 +0000",
+    "link": "https://www.ign.com/articles/the-street-fighter-movie-makes-a-mistake-mortal-kombat-already-learned-from",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -73,6 +73,58 @@
   },
   {
     "id": 5,
+    "title": "Sega pulls Total War: Shogun 2 - Complete Edition from sale amid AI accusations, admitting it has \"fallen short\"",
+    "source": "Eurogamer",
+    "summary": "Sega and Creative Assembly are temporarily removing Total War: Shogun 2 - Complete Edition from sale just days after release. Read more...",
+    "date": "Sat, 17 Oct 2026 17:28:08 +0000",
+    "link": "https://www.eurogamer.net/total-war-shogun-2-complete-edition-pulled-from-sale",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Steam's Achievement Sets beta aims to stop new content breaking your completion status",
+    "source": "Eurogamer",
+    "summary": "Valve is beta testing Steam Achievement Sets, a feature that lets developers group a game's achievements into collections. Read more...",
+    "date": "Sat, 17 Oct 2026 13:12:01 +0000",
+    "link": "https://www.eurogamer.net/steam-achievement-sets-beta",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny",
+    "source": "Eurogamer",
+    "summary": "Footage of a reportedly cancelled Assassin's Creed game set in ancient China has emerged online, including stealth kills, the series' leap of faith, and a spinning umbrella weapon. Read more...",
+    "date": "Sat, 17 Oct 2026 12:39:42 +0000",
+    "link": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.1,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
     "title": "The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting",
     "source": "Eurogamer",
     "summary": "Update 1.1 for The Blood of Dawnwalker will add a new Story mode with additional combat assist, a potion that lets you forget your abilities and master new ones, and the ability to pet dogs and cats. Read more...",
@@ -90,86 +142,34 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements",
-    "source": "Eurogamer",
-    "summary": "Analogue - creator of various fancy retro-focused game consoles - has detailed its newly announced Mega Sg+ and Super Nt+: revised editions of its earlier Mega Sg and Super Nt machines, capable of playing original Sega and Nintendo cartridges with modern advancements. Read more...",
-    "date": "Fri, 16 Oct 2026 17:11:28 +0000",
-    "link": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.19,
-      "badge": "success"
-    },
-    "tags": [
-      "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine",
-    "source": "Eurogamer",
-    "summary": "Epic Games is officially working on bringing its battle royale shooter Fortnite to Linux. The announcement was tucked away at the bottom of Epic's widely mocked blog post revealing the new, \"vibe-coded\" Epic Games Store, which is also coming to Linux. Read more...",
-    "date": "Fri, 16 Oct 2026 13:46:23 +0000",
-    "link": "https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day",
-    "source": "Eurogamer",
-    "summary": "The launch of a new live season is hard, and subtle changes to a game can have massive consequences when players get their hands on it. Wardogs proved this true with the launch of its second season this week, as players were able to unlock tanks on day one. Read more...",
-    "date": "Fri, 16 Oct 2026 13:41:05 +0000",
-    "link": "https://www.eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 9,
-    "title": "Grand Theft Auto 4 Was Rockstar at Its Best: Unpredictable",
+    "title": "The Zelda: Ocarina of Time Remake Sounds Meaningfully Better Than the Original",
     "source": "Polygon",
-    "summary": "GTA 4 is one of the best GTA games, as it's the only one where Rockstar took its satire and storytelling seriously",
-    "date": "Sat, 17 Oct 2026 12:00:18 GMT",
-    "link": "https://www.polygon.com/grand-theft-auto-4-was-rockstar-at-its-best-unpredictable/",
+    "summary": "Previews indicate Nintendo cares as much about the 2026 Switch 2 revival as it does about physical media",
+    "date": "Sat, 17 Oct 2026 18:00:18 GMT",
+    "link": "https://www.polygon.com/switchboard-zelda-ocarina-of-time-previews/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.33,
+      "score": 0.27,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Nintendo",
+      "Remake"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "New Street Fighter Movie Ends on the Strangest Song Choice Possible",
+    "title": "The 8 Best Castlevania Games, Ranked",
     "source": "Polygon",
-    "summary": "Street Fighter director Kitao Sakurai explains the film's baffling send-off that uses The Weather Girls' \"It's Raining Men.\"",
-    "date": "Sat, 17 Oct 2026 11:30:18 GMT",
-    "link": "https://www.polygon.com/street-fighter-movie-2026-ending-its-raining-men/",
+    "summary": "The finest Castlevania games of all time come from multiple decades. Together, they built a franchise that is better than ever.",
+    "date": "Sat, 17 Oct 2026 16:01:19 GMT",
+    "link": "https://www.polygon.com/best-castlevania-games-ranked/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -179,15 +179,15 @@
   },
   {
     "id": 11,
-    "title": "Stephen King Meets 'The Backrooms' in Syfy's Underrated 6-Part Anthology Series",
+    "title": "D&D’s Arcana Unleashed Officially Fixes One of the Game’s Most Frustrating Problems",
     "source": "Polygon",
-    "summary": "A creepy contortionist clown isn't the only monster in this strange story.",
-    "date": "Sat, 17 Oct 2026 10:00:18 GMT",
-    "link": "https://www.polygon.com/horror-anthology-creepypasta-halloween-countdown/",
+    "summary": "One of the most eye-catching new systems in Arcana Unleashed outlines how to let magic items grow with your players.",
+    "date": "Sat, 17 Oct 2026 16:01:19 GMT",
+    "link": "https://www.polygon.com/dnd-arcana-unleashed-evolving-magic-items/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.18,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -197,14 +197,14 @@
   },
   {
     "id": 12,
-    "title": "37 Years Ago, 'Garfield' Suddenly Changed Genres With a Mind-Blowing Comic Strip",
+    "title": "True Detective Season 5 to feature the best starring duo since Matthew McConaughey and Woody Harrelson",
     "source": "Polygon",
-    "summary": "This Garfield Halloween special might never have actually ended",
-    "date": "Sat, 17 Oct 2026 09:00:18 GMT",
-    "link": "https://www.polygon.com/garfield-alone/",
+    "summary": "Nicolas Cage and Antonio Banderas will star in the next season of True Detective, which enters production next year",
+    "date": "Sat, 17 Oct 2026 15:48:31 GMT",
+    "link": "https://www.polygon.com/true-detective-season-5-casting/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.15,
+      "score": 0.34,
       "badge": "success"
     },
     "tags": [
@@ -215,32 +215,15 @@
   },
   {
     "id": 13,
-    "title": "Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'",
+    "title": "To help America, I used Crusader Kings 3 to figure out how to remove a doddering, senile lunatic from power",
     "source": "PC Gamer",
-    "summary": "Alliance Arts will instead host \"closed sessions\" for Drunken Goddess Reflux.",
-    "date": "Sat, 17 Oct 2026 12:04:00 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/",
+    "summary": "Any resemblance to actual persons or actual events is purely coincidental.",
+    "date": "Sat, 17 Oct 2026 18:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/strategy/to-help-america-i-used-crusader-kings-3-to-figure-out-how-to-remove-a-doddering-senile-lunatic-from-power/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.0,
+      "score": 0.07,
       "badge": "info"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Funcom is laying off yet more developers as it pivots to supporting Dune: Awakening and Conan Exiles",
-    "source": "PC Gamer",
-    "summary": "CEO Rui Casais to depart the company at the end of the year.",
-    "date": "Sat, 17 Oct 2026 10:32:05 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/funcom-is-laying-off-yet-more-developers-as-it-pivots-to-supporting-dune-awakening-and-conan-exiles/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.38,
-      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -249,15 +232,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood",
+    "id": 14,
+    "title": "Discussion time: Do you think zone chats in MMOs are forces for good, or evil?",
     "source": "PC Gamer",
-    "summary": "City residents and leaders denounced the free web game, which was taken down.",
-    "date": "Fri, 16 Oct 2026 23:53:11 +0000",
-    "link": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
+    "summary": "What's up, Barrens Chat.",
+    "date": "Sat, 17 Oct 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.14,
+      "score": -0.15,
       "badge": "danger"
     },
     "tags": [
@@ -267,19 +250,38 @@
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says",
+    "id": 15,
+    "title": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year",
     "source": "PC Gamer",
-    "summary": "The game is great, but CD Projekt wants to tell a new story.",
-    "date": "Fri, 16 Oct 2026 22:02:23 +0000",
-    "link": "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
+    "summary": "\"Wizards is not neutral on the question of unionization.\"",
+    "date": "Sat, 17 Oct 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.35,
+      "badge": "success"
     },
     "tags": [
-      "Cyberpunk"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "This game about grinding mute lumps of shapeless flesh has made me realise I've been hornswoggled by capitalism",
+    "source": "PC Gamer",
+    "summary": "Flesh grinders of the world, unite.",
+    "date": "Sat, 17 Oct 2026 16:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/horror/this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-made-me-realise-ive-been-hornswoggled-by-capitalism/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.3,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -331,8 +333,8 @@
       "badge": "info"
     },
     "tags": [
-      "FPS",
-      "Steam"
+      "Steam",
+      "FPS"
     ],
     "read_time": "1 min read"
   },
