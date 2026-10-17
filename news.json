@@ -1,6 +1,24 @@
 [
   {
     "id": 1,
+    "title": "Red Rising Greenlit for Movie Adaptation With Author Pierce Brown to Produce",
+    "source": "IGN",
+    "summary": "The Red Rising book series by author Pierce Brown has officially been greenlit for a movie adaptation from Paramount Pictures, with Hunger Games alum Francis Lawrence to direct.",
+    "date": "Fri, 16 Oct 2026 23:08:54 +0000",
+    "link": "https://www.ign.com/articles/red-rising-greenlit-for-movie-adaptation-with-author-pierce-brown-to-produce",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
     "title": "James Gunn Shoots Down Milly Alcock Supergirl Rumors, Shares Man of Tomorrow Update",
     "source": "IGN",
     "summary": "James Gunn has shot down rumors that Milly Alcock was fired as Supergirl and confirmed that he'll show Peter Safran an early cut of Man of Tomorrow later today.",
@@ -12,13 +30,13 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns",
     "source": "IGN",
     "summary": "Professional Super Smash Bros. player Jason ‘Mew2King’ Zimmerman has been banned from a competitive tournament after posting photos of his concerning skin condition and complaining of a bug infestation in his home.",
@@ -30,13 +48,13 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Street Fighter: How Can There Be an Ending Explained When There Is No Ending?",
     "source": "IGN",
     "summary": "Street Fighter is in theaters now, so this is our ending explained... or rather, non-ending explained. Plus, are there any post-credits scenes in the new movie?",
@@ -48,26 +66,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Save 45% Off the Stylish MFish E-Rhino 140W USB-C Charger",
-    "source": "IGN",
-    "summary": "Charger with swag.",
-    "date": "Fri, 16 Oct 2026 21:20:00 +0000",
-    "link": "https://www.ign.com/articles/mfish-usb-c-charger-deal-october-2026",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -118,8 +118,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -136,80 +136,80 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "8 Call of Duty Games Still Missing from Game Pass",
+    "title": "Event Habitat Dex and Pokédex list in Pokémon Pokopia",
     "source": "Polygon",
-    "summary": "Game Pass has a few excellent Call of Duty games available, but some of the best entries from years past are conspicuously absent.",
-    "date": "Fri, 16 Oct 2026 22:00:17 GMT",
-    "link": "https://www.polygon.com/best-call-of-duty-games-missing-from-game-pass/",
+    "summary": "Here are all the limited-time event habitats and Pokémon in Pokémon Pokopia and what you need to make them.",
+    "date": "Sat, 17 Oct 2026 04:01:19 GMT",
+    "link": "https://www.polygon.com/pokemon-pokopia-event-habitat-dex-pokedex-list-requirements-unlock/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Resident Evil 2 on Switch 2 Is My New Favorite Way to Play Capcom's Horror Masterpiece",
+    "title": "Pokémon Pokopia event schedule",
     "source": "Polygon",
-    "summary": "Resident Evil 2 on Switch 2 runs smoothly and looks great, thanks in part to HDR's effects on colors and lighting",
-    "date": "Fri, 16 Oct 2026 21:00:19 GMT",
-    "link": "https://www.polygon.com/resident-evil-2-switch-2-impressions/",
+    "summary": "Our guide lists all the known limited-time events for Pokémon Pokopia, so you can find these event items and Pokémon.",
+    "date": "Sat, 17 Oct 2026 04:01:19 GMT",
+    "link": "https://www.polygon.com/pokemon-pokopia-event-schedule-holiday-dates/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.01,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "9 Most Perfect Single-Player Zelda Clones Nobody Plays, Ranked",
+    "title": "Pokémon Pokopia 'Pumpkaboo's Sweet Surprises' event guide",
     "source": "Polygon",
-    "summary": "From a yoyo adventure to a game where you die every minute, these nine overlooked single-player Zelda-likes are ranked by weirdness.",
-    "date": "Fri, 16 Oct 2026 21:00:19 GMT",
-    "link": "https://www.polygon.com/best-zelda-likes-nobody-plays-ranked/",
+    "summary": "In this guide, you find all the information to complete Pokémon Pokopia's \"Pumpkaboo's Sweet Surprises\" Halloween event.",
+    "date": "Sat, 17 Oct 2026 04:01:18 GMT",
+    "link": "https://www.polygon.com/pokemon-pokopia-pumpkaboos-sweet-surprises-gourgeist-habitats-items/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.37,
+      "score": 0.27,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "10 New Movies to Watch This Weekend on Netflix, Prime Video, and HBO Max (October 16-18)",
+    "title": "10 Perfect Detective Thrillers That Get More Intense With Every Episode",
     "source": "Polygon",
-    "summary": "On this weekend's streaming and VOD movie column, there's the most recent take on Dracula and a horror movie about the plushy star of a kids' TV show.",
-    "date": "Fri, 16 Oct 2026 21:00:19 GMT",
-    "link": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-october-16-18/",
+    "summary": "These gripping mysteries explore the darkest corners of human nature, where each clue revels in the unexpected.",
+    "date": "Sat, 17 Oct 2026 04:00:23 GMT",
+    "link": "https://www.polygon.com/best-mystery-tv-shows-worth-solving/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.21,
+      "score": 0.38,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -226,8 +226,8 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -261,8 +261,8 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -279,8 +279,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -314,8 +314,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -332,8 +332,8 @@
       "badge": "info"
     },
     "tags": [
-      "FPS",
-      "Steam"
+      "Steam",
+      "FPS"
     ],
     "read_time": "1 min read"
   },
