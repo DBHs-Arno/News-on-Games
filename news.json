@@ -12,8 +12,8 @@
       "badge": "danger"
     },
     "tags": [
-      "Steam",
-      "AI"
+      "AI",
+      "Steam"
     ],
     "read_time": "1 min read"
   },
@@ -84,8 +84,8 @@
       "badge": "success"
     },
     "tags": [
-      "Remake",
-      "RPG"
+      "RPG",
+      "Remake"
     ],
     "read_time": "1 min read"
   },
@@ -143,68 +143,14 @@
   },
   {
     "id": 9,
-    "title": "Every Major Game Releasing in November That Isn’t GTA 6",
+    "title": "America's Dominance in The Game Awards Is Officially Over",
     "source": "Polygon",
-    "summary": "Grand Theft Auto 6 isn't the only game coming out in November. Here's what's daring to share space with Rockstar's latest.",
-    "date": "Sun, 18 Oct 2026 04:00:23 GMT",
-    "link": "https://www.polygon.com/november-2026-game-releases/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "42 Years Later, the Definitive Sci-Fi Action Thriller is Free to Watch on YouTube",
-    "source": "Polygon",
-    "summary": "James Cameron's genre-redefining sci-fi thriller The Terminator is currently free to stream on YouTube",
-    "date": "Sun, 18 Oct 2026 03:00:19 GMT",
-    "link": "https://www.polygon.com/the-terminator-1984-free-on-youtube/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.23,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "GTA: San Andreas’ Bigfoot myth is a classic urban legend",
-    "source": "Polygon",
-    "summary": "The myth of the Bigfoot in GTA San Andreas might have been debunked, but it will live forever as the symbol of an exciting time in gaming.",
-    "date": "Sun, 18 Oct 2026 01:00:18 GMT",
-    "link": "https://www.polygon.com/gta-san-andreas-bigfoot-myth/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Game of Thrones Prequel The Mad King Officially Returns in 2027",
-    "source": "Polygon",
-    "summary": "George R.R. Martin has confirmed Game of Thrones: The Mad King will get a new London production in 2027 following its sold-out theatrical run.",
-    "date": "Sun, 18 Oct 2026 00:44:23 GMT",
-    "link": "https://www.polygon.com/game-of-thrones-the-mad-king-prequel-2027-return/",
+    "summary": "The TGA jury that decides GOTY has fewer U.S. outlets on it than ever, which may have an impact",
+    "date": "Sun, 18 Oct 2026 12:00:18 GMT",
+    "link": "https://www.polygon.com/the-game-awards-goty-jury-usa/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.19,
+      "score": -0.4,
       "badge": "danger"
     },
     "tags": [
@@ -214,7 +160,97 @@
     "read_time": "1 min read"
   },
   {
+    "id": 10,
+    "title": "13 Years Ago, Rockstar Suffered a Leak Worse Than GTA 6",
+    "source": "Polygon",
+    "summary": "Before unauthorized clips of GTA 6 scandalized fans, GTA 5 made video game leak history for Rockstar and Sony",
+    "date": "Sun, 18 Oct 2026 11:00:18 GMT",
+    "link": "https://www.polygon.com/gta-5-leak-gta-6-reddit-vine-reactions-ban-sony-rockstar-response/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "Before Dark Souls, FromSoftware’s Forgotten PS1 Horror Game Was a Haunting Exercise in Empathy",
+    "source": "Polygon",
+    "summary": "FromSoft’s Echo Night asks players to bring peace to the dead.",
+    "date": "Sun, 18 Oct 2026 10:00:18 GMT",
+    "link": "https://www.polygon.com/fromsoftware-echo-night-ps1/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.25,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "The 10 Best Horror Books of All Time According to Goodreads, Ranked",
+    "source": "Polygon",
+    "summary": "Pick up one of these tales of demons, vampires, or monsters for spooky season",
+    "date": "Sun, 18 Oct 2026 09:00:18 GMT",
+    "link": "https://www.polygon.com/10-best-horror-books-ranked-goodreads/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 1.0,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
     "id": 13,
+    "title": "Outlast designer says that one playtester was so upset by the horror series they 'ran out of the studio to go cry outside' and didn't return",
+    "source": "PC Gamer",
+    "summary": "\"We always make sure that people are fully aware of the kind of content we create,\" says director Philippe Morin.",
+    "date": "Sun, 18 Oct 2026 11:18:11 +0000",
+    "link": "https://www.pcgamer.com/games/horror/outlast-designer-says-that-one-playtester-was-so-upset-by-the-horror-series-they-ran-out-of-the-studio-to-go-cry-outside-and-didnt-return/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.34,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Liquid Swords, developer of open-city crime sim Samson, has gone bankrupt following staff claims that they haven't been paid in two months",
+    "source": "PC Gamer",
+    "summary": "The administrator is currently seeking a buyer for the studio and its assets.",
+    "date": "Sun, 18 Oct 2026 09:50:29 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
     "title": "Metal band Genitorturers allegedly claims a Vampire: The Masquerade - Bloodlines remake is coming, getting a dozen crusty nerds way too worked up",
     "source": "PC Gamer",
     "summary": "I'm one of a dozen crusty nerds.",
@@ -231,7 +267,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "Qualcomm wins $2 legal decision against fellow tech giant Arm, and that's not a typo",
     "source": "PC Gamer",
     "summary": "It's not just the principle of the thing: There could be more money up for grabs.",
@@ -241,42 +277,6 @@
       "label": "Positive / Hype",
       "score": 0.25,
       "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "'I am overwhelmed and overstimulated': The actor behind Star Wars: Galactic Racer’s Biddy Blas is scribbing doon all your enthusiasm",
-    "source": "PC Gamer",
-    "summary": "Ding dong pookie.",
-    "date": "Sat, 17 Oct 2026 18:34:02 +0000",
-    "link": "https://www.pcgamer.com/games/racing/i-am-overwhelmed-and-overstimulated-the-actor-behind-star-wars-galactic-racers-biddy-blas-is-scribbing-doon-all-your-enthusiasm/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "To help America, I used Crusader Kings 3 to figure out how to remove a doddering, senile lunatic from power",
-    "source": "PC Gamer",
-    "summary": "Any resemblance to actual persons or actual events is purely coincidental.",
-    "date": "Sat, 17 Oct 2026 18:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/strategy/to-help-america-i-used-crusader-kings-3-to-figure-out-how-to-remove-a-doddering-senile-lunatic-from-power/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
     },
     "tags": [
       "Gaming",
