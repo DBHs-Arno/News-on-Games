@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "Captain Price Actor Sends Message to Fans as Call of Duty: Modern Warfare 4 Campaign Praise Rolls in",
+    "title": "Battlefield 6 Devs Respond After Players Take Aim at 'Secuty' Typo and Cosmetic With 5 Pistols",
     "source": "IGN",
-    "summary": "Barry Sloane, the actor behind Call of Duty's Captain Price, has shared a message with fans as praise for Modern Warfare 4's campaign rolls in.",
-    "date": "Sat, 17 Oct 2026 15:52:41 +0000",
-    "link": "https://www.ign.com/articles/captain-price-actor-sends-message-to-fans-as-call-of-duty-modern-warfare-4-campaign-praise-rolls-in",
+    "summary": "The Battlefield 6 team has responded after players took aim at a few controversial cosmetics added in Season 5.",
+    "date": "Sat, 17 Oct 2026 21:27:10 +0000",
+    "link": "https://www.ign.com/articles/battlefield-6-devs-respond-after-players-take-aim-at-secuty-typo-and-cosmetic-with-5-pistols",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.18,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -19,15 +19,15 @@
   },
   {
     "id": 2,
-    "title": "7 Crazy Movie Premises That Actually Worked",
+    "title": "James Cameron Congratulates Marvel After Avengers: Endgame Beats Avatar at the Box Office Yet Again",
     "source": "IGN",
-    "summary": "Before Whalefall, these crazy movie premises actually worked too.",
-    "date": "Sat, 17 Oct 2026 13:00:00 +0000",
-    "link": "https://www.ign.com/articles/crazy-movie-premises-that-actually-worked",
+    "summary": "James Cameron celebrated Avengers: Endgame beating Avatar at the box office with another social media post after the two movies traded places yet again.",
+    "date": "Sat, 17 Oct 2026 20:15:41 +0000",
+    "link": "https://www.ign.com/articles/james-cameron-congratulates-marvel-after-avengers-endgame-beats-avatar-at-the-box-office-yet-again",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.3,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.19,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -37,15 +37,15 @@
   },
   {
     "id": 3,
-    "title": "We Sat Down with D&D Game Designer James Wyatt to Talk Dungeons & Dragons: World of Warcraft",
+    "title": "Ben Affleck's Batman Movie Would Have Featured Arkham Asylum-Inspired Deathstroke Fight and DCEU Batgirl, Joe Manganiello Reveals",
     "source": "IGN",
-    "summary": "At New York Comic Con, I got a chance to sit down with Wizards of the Coast Principal Game Designer James Wyatt to talk about the first Universes Beyond expansion for D&D.",
-    "date": "Sat, 17 Oct 2026 13:00:00 +0000",
-    "link": "https://www.ign.com/articles/we-sat-down-with-dd-game-designer-james-wyatt-to-talk-dungeons-and-dragons-world-of-warcraft",
+    "summary": "Joe Manganiello has revealed new plot details about Ben Affleck's canceled Batman movie, including information about an Arkham Asylum-inspired fight with Deathstroke and the DCEU's Batgirl.",
+    "date": "Sat, 17 Oct 2026 18:58:54 +0000",
+    "link": "https://www.ign.com/articles/ben-afflecks-batman-movie-would-have-featured-arkham-asylum-inspired-deathstroke-fight-and-dceu-batgirl-joe-manganiello-reveals",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -55,24 +55,41 @@
   },
   {
     "id": 4,
-    "title": "The Street Fighter Movie Makes a Mistake Mortal Kombat Already Learned From",
+    "title": "The Best Deals Today: Cyberpunk 2077 for Switch 2, Pikmin 4, Star Wars Zero Company, and More",
     "source": "IGN",
-    "summary": "Why are fighting game movies so scared of fighting tournaments? The Street Fighter movie is just the latest example.",
-    "date": "Sat, 17 Oct 2026 12:00:00 +0000",
-    "link": "https://www.ign.com/articles/the-street-fighter-movie-makes-a-mistake-mortal-kombat-already-learned-from",
+    "summary": "",
+    "date": "Sat, 17 Oct 2026 18:57:34 +0000",
+    "link": "https://www.ign.com/articles/best-deals-for-october-17-2026",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.75,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Cyberpunk"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake",
+    "source": "Eurogamer",
+    "summary": "A remaster of cult 2004 RPG Vampire: The Masquerade - Bloodlines may be in the works. Read more...",
+    "date": "Sat, 17 Oct 2026 18:28:40 +0000",
+    "link": "https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "RPG",
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
     "title": "Sega pulls Total War: Shogun 2 - Complete Edition from sale amid AI accusations, admitting it has \"fallen short\"",
     "source": "Eurogamer",
     "summary": "Sega and Creative Assembly are temporarily removing Total War: Shogun 2 - Complete Edition from sale just days after release. Read more...",
@@ -89,7 +106,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Steam's Achievement Sets beta aims to stop new content breaking your completion status",
     "source": "Eurogamer",
     "summary": "Valve is beta testing Steam Achievement Sets, a feature that lets developers group a game's achievements into collections. Read more...",
@@ -106,7 +123,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny",
     "source": "Eurogamer",
     "summary": "Footage of a reportedly cancelled Assassin's Creed game set in ancient China has emerged online, including stealth kills, the series' leap of faith, and a spinning umbrella weapon. Read more...",
@@ -124,16 +141,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting",
-    "source": "Eurogamer",
-    "summary": "Update 1.1 for The Blood of Dawnwalker will add a new Story mode with additional combat assist, a potion that lets you forget your abilities and master new ones, and the ability to pet dogs and cats. Read more...",
-    "date": "Sat, 17 Oct 2026 11:18:21 +0000",
-    "link": "https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals",
+    "id": 9,
+    "title": "44 Years Later, Steven Spielberg's Scariest Movie of All Time Is Officially Back on Streaming",
+    "source": "Polygon",
+    "summary": "The supernatural horror film Poltergeist is on HBO Max, though there's still a debate as to who directed it",
+    "date": "Sun, 18 Oct 2026 00:00:18 GMT",
+    "link": "https://www.polygon.com/poltergeist-tobe-hooper-steven-spielberg-on-hbo-max/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.26,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -142,34 +159,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 9,
-    "title": "The Zelda: Ocarina of Time Remake Sounds Meaningfully Better Than the Original",
-    "source": "Polygon",
-    "summary": "Previews indicate Nintendo cares as much about the 2026 Switch 2 revival as it does about physical media",
-    "date": "Sat, 17 Oct 2026 18:00:18 GMT",
-    "link": "https://www.polygon.com/switchboard-zelda-ocarina-of-time-previews/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.27,
-      "badge": "success"
-    },
-    "tags": [
-      "Nintendo",
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 10,
-    "title": "The 8 Best Castlevania Games, Ranked",
+    "title": "8 Most Disappointing Switch Games, Ranked",
     "source": "Polygon",
-    "summary": "The finest Castlevania games of all time come from multiple decades. Together, they built a franchise that is better than ever.",
-    "date": "Sat, 17 Oct 2026 16:01:19 GMT",
-    "link": "https://www.polygon.com/best-castlevania-games-ranked/",
+    "summary": "From Princess Peach to 1-2-Switch, eight Switch games that missed the mark, ranked by the gap between what we expected and what we got.",
+    "date": "Sat, 17 Oct 2026 23:00:18 GMT",
+    "link": "https://www.polygon.com/most-disappointing-switch-games-ranked/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.07,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -179,14 +178,14 @@
   },
   {
     "id": 11,
-    "title": "D&D’s Arcana Unleashed Officially Fixes One of the Game’s Most Frustrating Problems",
+    "title": "Pokémon Go Minior Shower schedule",
     "source": "Polygon",
-    "summary": "One of the most eye-catching new systems in Arcana Unleashed outlines how to let magic items grow with your players.",
-    "date": "Sat, 17 Oct 2026 16:01:19 GMT",
-    "link": "https://www.polygon.com/dnd-arcana-unleashed-evolving-magic-items/",
+    "summary": "Here's when the next Minior Shower is in Pokémon Go. This is when you'll be able to find the meteor Pokémon, Minior.",
+    "date": "Sat, 17 Oct 2026 21:01:18 GMT",
+    "link": "https://www.polygon.com/pokemon-go-minior-shower-schedule-how-to-find-shiny/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.14,
+      "score": 0.25,
       "badge": "success"
     },
     "tags": [
@@ -197,32 +196,14 @@
   },
   {
     "id": 12,
-    "title": "True Detective Season 5 to feature the best starring duo since Matthew McConaughey and Woody Harrelson",
+    "title": "5 Years Later, One Game’s Blood Sacrifice Mechanic Still Haunts Me",
     "source": "Polygon",
-    "summary": "Nicolas Cage and Antonio Banderas will star in the next season of True Detective, which enters production next year",
-    "date": "Sat, 17 Oct 2026 15:48:31 GMT",
-    "link": "https://www.polygon.com/true-detective-season-5-casting/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.34,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "To help America, I used Crusader Kings 3 to figure out how to remove a doddering, senile lunatic from power",
-    "source": "PC Gamer",
-    "summary": "Any resemblance to actual persons or actual events is purely coincidental.",
-    "date": "Sat, 17 Oct 2026 18:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/strategy/to-help-america-i-used-crusader-kings-3-to-figure-out-how-to-remove-a-doddering-senile-lunatic-from-power/",
+    "summary": "Five years on, Inscryption’s blood sacrifice mechanic, from one squirrel to a pair of pliers, still shows how little convincing it takes.",
+    "date": "Sat, 17 Oct 2026 20:00:19 GMT",
+    "link": "https://www.polygon.com/inscryption-retrospective-blood-sacrifice/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.07,
+      "score": -0.02,
       "badge": "info"
     },
     "tags": [
@@ -232,33 +213,32 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
-    "title": "Discussion time: Do you think zone chats in MMOs are forces for good, or evil?",
+    "id": 13,
+    "title": "Metal band Genitorturers allegedly claims a Vampire: The Masquerade - Bloodlines remake is coming, getting a dozen crusty nerds way too worked up",
     "source": "PC Gamer",
-    "summary": "What's up, Barrens Chat.",
-    "date": "Sat, 17 Oct 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/",
+    "summary": "I'm one of a dozen crusty nerds.",
+    "date": "Sat, 17 Oct 2026 21:52:34 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/metal-band-genitorturers-allegedly-claims-a-vampire-the-masquerade-bloodlines-remake-is-coming-getting-a-dozen-crusty-nerds-way-too-worked-up/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Remake"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year",
+    "id": 14,
+    "title": "Qualcomm wins $2 legal decision against fellow tech giant Arm, and that's not a typo",
     "source": "PC Gamer",
-    "summary": "\"Wizards is not neutral on the question of unionization.\"",
-    "date": "Sat, 17 Oct 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
+    "summary": "It's not just the principle of the thing: There could be more money up for grabs.",
+    "date": "Sat, 17 Oct 2026 19:30:53 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/qualcomm-wins-usd2-legal-decision-against-fellow-tech-giant-arm-and-thats-not-a-typo/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.35,
+      "score": 0.25,
       "badge": "success"
     },
     "tags": [
@@ -268,16 +248,34 @@
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "This game about grinding mute lumps of shapeless flesh has made me realise I've been hornswoggled by capitalism",
+    "id": 15,
+    "title": "'I am overwhelmed and overstimulated': The actor behind Star Wars: Galactic Racer’s Biddy Blas is scribbing doon all your enthusiasm",
     "source": "PC Gamer",
-    "summary": "Flesh grinders of the world, unite.",
-    "date": "Sat, 17 Oct 2026 16:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/horror/this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-made-me-realise-ive-been-hornswoggled-by-capitalism/",
+    "summary": "Ding dong pookie.",
+    "date": "Sat, 17 Oct 2026 18:34:02 +0000",
+    "link": "https://www.pcgamer.com/games/racing/i-am-overwhelmed-and-overstimulated-the-actor-behind-star-wars-galactic-racers-biddy-blas-is-scribbing-doon-all-your-enthusiasm/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.3,
+      "score": -0.4,
       "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "To help America, I used Crusader Kings 3 to figure out how to remove a doddering, senile lunatic from power",
+    "source": "PC Gamer",
+    "summary": "Any resemblance to actual persons or actual events is purely coincidental.",
+    "date": "Sat, 17 Oct 2026 18:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/strategy/to-help-america-i-used-crusader-kings-3-to-figure-out-how-to-remove-a-doddering-senile-lunatic-from-power/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -306,13 +304,13 @@
     "id": 18,
     "title": "You Can Play WoW: Forever For Free Next Week (But There’s A Catch)",
     "source": "GameSpot",
-    "summary": "World of Warcraft: Forever's beta will be free for a limited time next week, giving players who want to check out the new version of Blizzard's old-school MMORPG but don't want to pay $60 for beta access a chance to see what all the hype is about. \nBlizzard announced a WoW: Forever stress test will ...",
+    "summary": "Update: Following publication, Blizzard announced the stress test will actually occur on October 21, instead of October 19 as previously announced. This article has been updated.\nWorld of Warcraft: Forever's beta will be free for a limited time next week, giving players who want to check out the new...",
     "date": "Fri, 16 Oct 2026 18:45:44 +0000",
     "link": "https://www.gamespot.com/articles/you-can-play-wow-forever-for-free-next-week-but-theres-a-catch/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.13,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -333,8 +331,8 @@
       "badge": "info"
     },
     "tags": [
-      "Steam",
-      "FPS"
+      "FPS",
+      "Steam"
     ],
     "read_time": "1 min read"
   },
