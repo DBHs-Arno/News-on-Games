@@ -1,6 +1,24 @@
 [
   {
     "id": 1,
+    "title": "Quentin Tarantino Says He's 'Written a Script' for 10th and Final Film, But He Wants to 'Live' Before Making It",
+    "source": "IGN",
+    "summary": "Quentin Tarantino has confirmed he's \"written a script\" for his 10th and final film, but he's going to \"live\" a little before making it.",
+    "date": "Sun, 18 Oct 2026 15:56:06 +0000",
+    "link": "https://www.ign.com/articles/quentin-tarantino-says-hes-written-a-script-for-10th-and-final-film-but-he-wants-to-live-before-making-it",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
     "title": "Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat Concerns",
     "source": "IGN",
     "summary": "The developer behind Russian roulette anime game Drunken Goddess Reflux has canceled its plans for a public Steam demo, citing concerns over potential AI copycats.",
@@ -18,7 +36,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Battlefield 6 Devs Respond After Players Take Aim at 'Secuty' Typo and Cosmetic With 5 Pistols",
     "source": "IGN",
     "summary": "The Battlefield 6 team has responded after players took aim at a few controversial cosmetics added in Season 5.",
@@ -30,13 +48,13 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "James Cameron Congratulates Marvel After Avengers: Endgame Beats Avatar at the Box Office Yet Again",
     "source": "IGN",
     "summary": "James Cameron celebrated Avengers: Endgame beating Avatar at the box office with another social media post after the two movies traded places yet again.",
@@ -48,57 +66,21 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Ben Affleck's Batman Movie Would Have Featured Arkham Asylum-Inspired Deathstroke Fight and DCEU Batgirl, Joe Manganiello Reveals",
-    "source": "IGN",
-    "summary": "Joe Manganiello has revealed new plot details about Ben Affleck's canceled Batman movie, including information about an Arkham Asylum-inspired fight with Deathstroke and the DCEU's Batgirl.",
-    "date": "Sat, 17 Oct 2026 18:58:54 +0000",
-    "link": "https://www.ign.com/articles/ben-afflecks-batman-movie-would-have-featured-arkham-asylum-inspired-deathstroke-fight-and-dceu-batgirl-joe-manganiello-reveals",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
-    "title": "Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake",
+    "title": "Battlefield 6 devs to fix \"Secuty\" skin typo, but five-pistol outfit was intentional",
     "source": "Eurogamer",
-    "summary": "A remaster of cult 2004 RPG Vampire: The Masquerade - Bloodlines may be in the works. Read more...",
-    "date": "Sat, 17 Oct 2026 18:28:40 +0000",
-    "link": "https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour",
+    "summary": "Battlefield Studios has responded after fans accused it of using AI to generate cosmetics after spotting a \"Secuty\" typo on a Battlefield 6 Season 5 skin. Read more...",
+    "date": "Sun, 18 Oct 2026 17:37:38 +0000",
+    "link": "https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "RPG",
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Sega pulls Total War: Shogun 2 - Complete Edition from sale amid AI accusations, admitting it has \"fallen short\"",
-    "source": "Eurogamer",
-    "summary": "Sega and Creative Assembly are temporarily removing Total War: Shogun 2 - Complete Edition from sale just days after release. Read more...",
-    "date": "Sat, 17 Oct 2026 17:28:08 +0000",
-    "link": "https://www.eurogamer.net/total-war-shogun-2-complete-edition-pulled-from-sale",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
       "badge": "success"
     },
     "tags": [
@@ -107,185 +89,223 @@
     "read_time": "1 min read"
   },
   {
-    "id": 7,
-    "title": "Steam's Achievement Sets beta aims to stop new content breaking your completion status",
+    "id": 6,
+    "title": "The PS6's memory and storage alone reportedly cost more than $680",
     "source": "Eurogamer",
-    "summary": "Valve is beta testing Steam Achievement Sets, a feature that lets developers group a game's achievements into collections. Read more...",
-    "date": "Sat, 17 Oct 2026 13:12:01 +0000",
-    "link": "https://www.eurogamer.net/steam-achievement-sets-beta",
+    "summary": "The PS6's memory and storage reportedly cost more than $680 between them. Read more",
+    "date": "Sun, 18 Oct 2026 17:10:29 +0000",
+    "link": "https://www.eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Samson dev Liquid Swords has reportedly gone bankrupt",
+    "source": "Eurogamer",
+    "summary": "Swedish studio Liquid Swords, maker of action game Samson, has reportedly been put into bankruptcy. Read more...",
+    "date": "Sun, 18 Oct 2026 15:21:13 +0000",
+    "link": "https://www.eurogamer.net/liquid-swords-samson-developer-bankrupt",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.08,
+      "score": 0.07,
       "badge": "info"
     },
     "tags": [
-      "Steam"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 8,
-    "title": "Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny",
+    "title": "God of War Laufey's £130 Collector Box doesn't come with the game",
     "source": "Eurogamer",
-    "summary": "Footage of a reportedly cancelled Assassin's Creed game set in ancient China has emerged online, including stealth kills, the series' leap of faith, and a spinning umbrella weapon. Read more...",
-    "date": "Sat, 17 Oct 2026 12:39:42 +0000",
-    "link": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent",
+    "summary": "God of War Laufey's Collector Box will cost £129.99 and will not include the game. Read more...",
+    "date": "Sun, 18 Oct 2026 14:47:02 +0000",
+    "link": "https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game",
     "sentiment": {
       "label": "Critical / Mixed",
       "score": -0.1,
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "America's Dominance in The Game Awards Is Officially Over",
+    "title": "36 Years Later, Robert De Niro's Greatest Gangster Movie Quote Is Still One of a Kind",
     "source": "Polygon",
-    "summary": "The TGA jury that decides GOTY has fewer U.S. outlets on it than ever, which may have an impact",
-    "date": "Sun, 18 Oct 2026 12:00:18 GMT",
-    "link": "https://www.polygon.com/the-game-awards-goty-jury-usa/",
+    "summary": "Robert De Niro's iconic gangster quote from Goodfellas reveals the deadly truth about mob loyalty and betrayal.",
+    "date": "Sun, 18 Oct 2026 18:00:18 GMT",
+    "link": "https://www.polygon.com/robert-de-niro-best-gangster-movie-quote-goodfellas/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.38,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "13 Years Ago, Rockstar Suffered a Leak Worse Than GTA 6",
+    "title": "8 Mass Effect Replay Ideas That Make the Trilogy Feel Brand-New",
     "source": "Polygon",
-    "summary": "Before unauthorized clips of GTA 6 scandalized fans, GTA 5 made video game leak history for Rockstar and Sony",
-    "date": "Sun, 18 Oct 2026 11:00:18 GMT",
-    "link": "https://www.polygon.com/gta-5-leak-gta-6-reddit-vine-reactions-ban-sony-rockstar-response/",
+    "summary": "Swap your class, tank a choice on purpose, or finish with one gun: eight Mass Effect challenge runs that make the trilogy feel brand new.",
+    "date": "Sun, 18 Oct 2026 17:00:18 GMT",
+    "link": "https://www.polygon.com/mass-effect-challenge-runs/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Before Dark Souls, FromSoftware’s Forgotten PS1 Horror Game Was a Haunting Exercise in Empathy",
+    "title": "Drunken Goddess Reflux Devs Cancel Steam Next Fest Demo Over AI Clone Concerns",
     "source": "Polygon",
-    "summary": "FromSoft’s Echo Night asks players to bring peace to the dead.",
-    "date": "Sun, 18 Oct 2026 10:00:18 GMT",
-    "link": "https://www.polygon.com/fromsoftware-echo-night-ps1/",
+    "summary": "Drunken Goddess Reflux will no longer be at the Steam Next Fest, as developers opt for a closed playtest instead.",
+    "date": "Sun, 18 Oct 2026 16:48:39 GMT",
+    "link": "https://www.polygon.com/drunken-goddess-reflux-demo-canceled/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.25,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "AI",
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "The 10 Best Horror Books of All Time According to Goodreads, Ranked",
+    "title": "Street Fighter Fails To Match Resident Evil's Opening Weekend Box Office Success",
     "source": "Polygon",
-    "summary": "Pick up one of these tales of demons, vampires, or monsters for spooky season",
-    "date": "Sun, 18 Oct 2026 09:00:18 GMT",
-    "link": "https://www.polygon.com/10-best-horror-books-ranked-goodreads/",
+    "summary": "Street Fighter's opening weekend does not compare favorably to Resident Evil's box office performance",
+    "date": "Sun, 18 Oct 2026 16:14:05 GMT",
+    "link": "https://www.polygon.com/street-fighter-opening-weekend-box-office/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 1.0,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.55,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "Outlast designer says that one playtester was so upset by the horror series they 'ran out of the studio to go cry outside' and didn't return",
+    "title": "The Outlast Trials' initial playtests went poorly: Designer says 6-year development took 'a f**king long time' and 'a s**t-ton of prototypes'",
     "source": "PC Gamer",
-    "summary": "\"We always make sure that people are fully aware of the kind of content we create,\" says director Philippe Morin.",
-    "date": "Sun, 18 Oct 2026 11:18:11 +0000",
-    "link": "https://www.pcgamer.com/games/horror/outlast-designer-says-that-one-playtester-was-so-upset-by-the-horror-series-they-ran-out-of-the-studio-to-go-cry-outside-and-didnt-return/",
+    "summary": "Red Barrels co-founder Philippe Morin recently spoke on the trials The Outlast Trials outlasted.",
+    "date": "Sun, 18 Oct 2026 17:18:53 +0000",
+    "link": "https://www.pcgamer.com/games/horror/the-outlast-trials-initial-playtests-went-poorly-designer-says-6-year-development-took-a-f-king-long-time-and-a-s-t-ton-of-prototypes/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.34,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.09,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "Liquid Swords, developer of open-city crime sim Samson, has gone bankrupt following staff claims that they haven't been paid in two months",
+    "title": "No soundtrack does it like Hades 2",
     "source": "PC Gamer",
-    "summary": "The administrator is currently seeking a buyer for the studio and its assets.",
-    "date": "Sun, 18 Oct 2026 09:50:29 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/",
+    "summary": "I'm still listening to this thing a year later.",
+    "date": "Sun, 18 Oct 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/roguelike/no-soundtrack-does-it-like-hades-2/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "Metal band Genitorturers allegedly claims a Vampire: The Masquerade - Bloodlines remake is coming, getting a dozen crusty nerds way too worked up",
+    "title": "Frozen Trail finally puts the 'raid' in Arc Raiders",
     "source": "PC Gamer",
-    "summary": "I'm one of a dozen crusty nerds.",
-    "date": "Sat, 17 Oct 2026 21:52:34 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/metal-band-genitorturers-allegedly-claims-a-vampire-the-masquerade-bloodlines-remake-is-coming-getting-a-dozen-crusty-nerds-way-too-worked-up/",
+    "summary": "The Fallen Emperor and Arc Frigate have me excited for the game's future.",
+    "date": "Sun, 18 Oct 2026 16:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/third-person-shooter/frozen-trail-finally-puts-the-raid-in-arc-raiders/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.1,
+      "score": -0.01,
       "badge": "info"
     },
     "tags": [
-      "Remake"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Qualcomm wins $2 legal decision against fellow tech giant Arm, and that's not a typo",
+    "title": "'There were a lot of disagreements across the place': Former Marathon director Joe Ziegler on leading Bungie's extraction shooter, playing Path of Exile for 3,437 hours, and why he'll never uninstall Kingdom Hearts",
     "source": "PC Gamer",
-    "summary": "It's not just the principle of the thing: There could be more money up for grabs.",
-    "date": "Sat, 17 Oct 2026 19:30:53 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/qualcomm-wins-usd2-legal-decision-against-fellow-tech-giant-arm-and-thats-not-a-typo/",
+    "summary": "The former game director of both Marathon and Valorant guides us through the games on his PC.",
+    "date": "Sun, 18 Oct 2026 15:00:00 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/there-were-a-lot-of-disagreements-across-the-place-former-marathon-director-joe-ziegler-on-leading-bungies-extraction-shooter-playing-path-of-exile-for-3-437-hours-and-why-hell-never-uninstall-kingdom-hearts/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.13,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
+    "title": "Tenebris Somnia Blends 2D Visuals With Live-Action Horror Scenes, And It’s Already On Sale At Launch",
+    "source": "GameSpot",
+    "summary": "Horror games live or die by their scares and tension. If the player isn’t uncomfortable guiding a character through dreadful situations, well, you may as well be playing an action-adventure game (don’t mention the first Uncharted’s final act, please). Tenebris Somnia blends the discomfort of retro h...",
+    "date": "Sun, 18 Oct 2026 12:00:00 +0000",
+    "link": "https://www.gamespot.com/articles/tenebris-somnia-blends-2d-visuals-with-live-action-horror-scenes-and-its-already-on-sale-at-launch/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.25,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
     "title": "All The Records GTA 6 Will Break, We Think",
     "source": "GameSpot",
     "summary": "After years of development and perhaps more hype than for any game, GTA 6 is set for release on November 19 for PS5 and Xbox Series X|S. Predicting that it will be an enormous success commercially is perhaps one of the safest bets anyone could make. \nBut just how big will the launch be? And what rec...",
@@ -302,7 +322,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "You Can Play WoW: Forever For Free Next Week (But There’s A Catch)",
     "source": "GameSpot",
     "summary": "Update: Following publication, Blizzard announced the stress test will actually occur on October 21, instead of October 19 as previously announced. This article has been updated.\nWorld of Warcraft: Forever's beta will be free for a limited time next week, giving players who want to check out the new...",
@@ -314,13 +334,13 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 19,
+    "id": 20,
     "title": "This Espresso Machine Can Run Doom",
     "source": "GameSpot",
     "summary": "Before caffeinating yourself in the morning, the Fellow Espresso Series 1 machine can actually run 1993's Doom on its small, circular screen. Reddit user FullExtraction showed off the classic FPS, utilizing the brew button to run and steam button to shoot. The scroll wheel on the device turns Doomgu...",
@@ -334,23 +354,6 @@
     "tags": [
       "FPS",
       "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "Shrek 2 Remaster Leaks, Looks Amazing And I Need It Now",
-    "source": "GameSpot",
-    "summary": "A remaster of 2004's Shrek 2: The Game is on the way, according to an Xbox.com listing that seems to have been published too soon.\nThe page for the unannounced game--which has since been removed--says the remaster will feature better textures, enhanced UI, and 4K resolution.\nLike the original PS2, X...",
-    "date": "Fri, 16 Oct 2026 18:21:13 +0000",
-    "link": "https://www.gamespot.com/articles/shrek-2-remaster-leaks-looks-amazing-and-i-need-it-now/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.27,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
     ],
     "read_time": "1 min read"
   }
