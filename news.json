@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Quentin Tarantino Says He's 'Written a Script' for 10th and Final Film, But He Wants to 'Live' Before Making It",
+    "title": "Don Bradman Cricket Jr Announced for PC and Consoles",
     "source": "IGN",
-    "summary": "Quentin Tarantino has confirmed he's \"written a script\" for his 10th and final film, but he's going to \"live\" a little before making it.",
-    "date": "Sun, 18 Oct 2026 15:56:06 +0000",
-    "link": "https://www.ign.com/articles/quentin-tarantino-says-hes-written-a-script-for-10th-and-final-film-but-he-wants-to-live-before-making-it",
+    "summary": "Don Bradman Cricket Jr Announced for PC and Consoles",
+    "date": "Mon, 19 Oct 2026 00:12:40 +0000",
+    "link": "https://www.ign.com/articles/don-bradman-cricket-jr-announced-for-pc-and-consoles",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.1,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
@@ -19,32 +19,32 @@
   },
   {
     "id": 2,
-    "title": "Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat Concerns",
+    "title": "Jesse Eisenberg Says He 'Couldn't Get Movie Studio Parts' After Winning His Batman v. Superman Razzie",
     "source": "IGN",
-    "summary": "The developer behind Russian roulette anime game Drunken Goddess Reflux has canceled its plans for a public Steam demo, citing concerns over potential AI copycats.",
-    "date": "Sat, 17 Oct 2026 23:00:23 +0000",
-    "link": "https://www.ign.com/articles/dev-behind-russian-roulette-drinking-game-cancels-steam-demo-plans-following-ai-copycat-concerns",
+    "summary": "Jesse Eisenberg says he \"couldn't get into studio movie parts\" because he won a Worst Supporting Actor Razzie for playing Lex Luthor in Batman v. Superman.",
+    "date": "Sun, 18 Oct 2026 22:37:38 +0000",
+    "link": "https://www.ign.com/articles/jesse-eisenberg-says-he-couldnt-get-movie-studio-parts-after-winning-his-batman-v-superman-razzie",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.18,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.08,
+      "badge": "info"
     },
     "tags": [
-      "AI",
-      "Steam"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Battlefield 6 Devs Respond After Players Take Aim at 'Secuty' Typo and Cosmetic With 5 Pistols",
+    "title": "Taika Waititi Says His Star Wars Movie Is 'on Ice'",
     "source": "IGN",
-    "summary": "The Battlefield 6 team has responded after players took aim at a few controversial cosmetics added in Season 5.",
-    "date": "Sat, 17 Oct 2026 21:27:10 +0000",
-    "link": "https://www.ign.com/articles/battlefield-6-devs-respond-after-players-take-aim-at-secuty-typo-and-cosmetic-with-5-pistols",
+    "summary": "Director Taika Waititi has confirmed his long-in-development Star Wars movie is officially \"on ice.\"",
+    "date": "Sun, 18 Oct 2026 20:50:43 +0000",
+    "link": "https://www.ign.com/articles/taika-waititi-says-his-star-wars-movie-is-on-ice",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.18,
+      "score": 0.4,
       "badge": "success"
     },
     "tags": [
@@ -55,19 +55,18 @@
   },
   {
     "id": 4,
-    "title": "James Cameron Congratulates Marvel After Avengers: Endgame Beats Avatar at the Box Office Yet Again",
+    "title": "Silent Hill Remake Studio Wants to Make Physical Games 'for as Long as Possible'",
     "source": "IGN",
-    "summary": "James Cameron celebrated Avengers: Endgame beating Avatar at the box office with another social media post after the two movies traded places yet again.",
-    "date": "Sat, 17 Oct 2026 20:15:41 +0000",
-    "link": "https://www.ign.com/articles/james-cameron-congratulates-marvel-after-avengers-endgame-beats-avatar-at-the-box-office-yet-again",
+    "summary": "Silent Hill developer Bloober Team wants to make physical versions of its games \"for as long as possible.\"",
+    "date": "Sun, 18 Oct 2026 19:55:44 +0000",
+    "link": "https://www.ign.com/articles/silent-hill-remake-studio-wants-to-make-physical-games-for-as-long-as-possible",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.19,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Remake"
     ],
     "read_time": "1 min read"
   },
@@ -144,14 +143,14 @@
   },
   {
     "id": 9,
-    "title": "36 Years Later, Robert De Niro's Greatest Gangster Movie Quote Is Still One of a Kind",
+    "title": "31 Years Later, Calvin and Hobbes' Scariest Comic Is Still a Controversial Classic",
     "source": "Polygon",
-    "summary": "Robert De Niro's iconic gangster quote from Goodfellas reveals the deadly truth about mob loyalty and betrayal.",
-    "date": "Sun, 18 Oct 2026 18:00:18 GMT",
-    "link": "https://www.polygon.com/robert-de-niro-best-gangster-movie-quote-goodfellas/",
+    "summary": "This Calvin and Hobbes comic strip is a spine-shatteringly good time that has nothing to do with Halloween",
+    "date": "Mon, 19 Oct 2026 03:00:18 GMT",
+    "link": "https://www.polygon.com/calvin-hobbes-halloween/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.38,
+      "score": 0.32,
       "badge": "success"
     },
     "tags": [
@@ -162,14 +161,14 @@
   },
   {
     "id": 10,
-    "title": "8 Mass Effect Replay Ideas That Make the Trilogy Feel Brand-New",
+    "title": "Pokémon Officially Returns to Galar in 2027 for New Release",
     "source": "Polygon",
-    "summary": "Swap your class, tank a choice on purpose, or finish with one gun: eight Mass Effect challenge runs that make the trilogy feel brand new.",
-    "date": "Sun, 18 Oct 2026 17:00:18 GMT",
-    "link": "https://www.polygon.com/mass-effect-challenge-runs/",
+    "summary": "Pokémon Tales: The Misadventures of Sirfetch’d & Pichu is coming to Disney Plus, as is the classic Pokémon anime, in a new streaming deal.",
+    "date": "Mon, 19 Oct 2026 02:51:19 GMT",
+    "link": "https://www.polygon.com/pokemon-sirfetchd-pichu-animated-series-streaming-disney-plus-2027/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.14,
+      "score": 0.15,
       "badge": "success"
     },
     "tags": [
@@ -180,33 +179,33 @@
   },
   {
     "id": 11,
-    "title": "Drunken Goddess Reflux Devs Cancel Steam Next Fest Demo Over AI Clone Concerns",
+    "title": "10 NES Games That Are Still Worth Playing From Start to Finish",
     "source": "Polygon",
-    "summary": "Drunken Goddess Reflux will no longer be at the Steam Next Fest, as developers opt for a closed playtest instead.",
-    "date": "Sun, 18 Oct 2026 16:48:39 GMT",
-    "link": "https://www.polygon.com/drunken-goddess-reflux-demo-canceled/",
+    "summary": "From start to finish, these 10 NES games reward every second of the time you invest in them, even decades after the fact.",
+    "date": "Mon, 19 Oct 2026 02:34:47 GMT",
+    "link": "https://www.polygon.com/best-nes-games/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
     },
     "tags": [
-      "AI",
-      "Steam"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "Street Fighter Fails To Match Resident Evil's Opening Weekend Box Office Success",
+    "title": "9 Best DLCs That Were Even Better Than the Base Game",
     "source": "Polygon",
-    "summary": "Street Fighter's opening weekend does not compare favorably to Resident Evil's box office performance",
-    "date": "Sun, 18 Oct 2026 16:14:05 GMT",
-    "link": "https://www.polygon.com/street-fighter-opening-weekend-box-office/",
+    "summary": "From Hell weddings to alien hive-minds, these nine DLCs took a hard swerve away from the games they built off.",
+    "date": "Mon, 19 Oct 2026 02:24:58 GMT",
+    "link": "https://www.polygon.com/best-dlcs-video-games/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.55,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.04,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -216,33 +215,32 @@
   },
   {
     "id": 13,
-    "title": "The Outlast Trials' initial playtests went poorly: Designer says 6-year development took 'a f**king long time' and 'a s**t-ton of prototypes'",
+    "title": "Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up",
     "source": "PC Gamer",
-    "summary": "Red Barrels co-founder Philippe Morin recently spoke on the trials The Outlast Trials outlasted.",
-    "date": "Sun, 18 Oct 2026 17:18:53 +0000",
-    "link": "https://www.pcgamer.com/games/horror/the-outlast-trials-initial-playtests-went-poorly-designer-says-6-year-development-took-a-f-king-long-time-and-a-s-t-ton-of-prototypes/",
+    "summary": "All the interesting Steam facts for the week ending October 18.",
+    "date": "Mon, 19 Oct 2026 03:00:45 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.09,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.1,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "No soundtrack does it like Hades 2",
+    "title": "23 devs teamed up to make a free game of 'innovative yet questionable volume sliders,' and it feels like browser-based WarioWare",
     "source": "PC Gamer",
-    "summary": "I'm still listening to this thing a year later.",
-    "date": "Sun, 18 Oct 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/roguelike/no-soundtrack-does-it-like-hades-2/",
+    "summary": "Here for a good time and a loud time.",
+    "date": "Sun, 18 Oct 2026 22:36:22 +0000",
+    "link": "https://www.pcgamer.com/games/23-devs-teamed-up-to-make-a-free-game-of-innovative-yet-questionable-volume-sliders-and-it-feels-like-browser-based-warioware/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.13,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -252,14 +250,14 @@
   },
   {
     "id": 15,
-    "title": "Frozen Trail finally puts the 'raid' in Arc Raiders",
+    "title": "Dark Souls 2 dataminer shows off massive prototype coliseum level from early development",
     "source": "PC Gamer",
-    "summary": "The Fallen Emperor and Arc Frigate have me excited for the game's future.",
-    "date": "Sun, 18 Oct 2026 16:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/third-person-shooter/frozen-trail-finally-puts-the-raid-in-arc-raiders/",
+    "summary": "Bigger than the ones in Elden Ring, for what it's worth.",
+    "date": "Sun, 18 Oct 2026 18:48:42 +0000",
+    "link": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-dataminer-shows-off-massive-prototype-coliseum-level-from-early-development/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.01,
+      "score": 0.05,
       "badge": "info"
     },
     "tags": [
@@ -270,19 +268,18 @@
   },
   {
     "id": 16,
-    "title": "'There were a lot of disagreements across the place': Former Marathon director Joe Ziegler on leading Bungie's extraction shooter, playing Path of Exile for 3,437 hours, and why he'll never uninstall Kingdom Hearts",
+    "title": "Leaked AI safety bill from Anthropic only requires government intervention if 50+ injuries or $1 billion are at risk",
     "source": "PC Gamer",
-    "summary": "The former game director of both Marathon and Valorant guides us through the games on his PC.",
-    "date": "Sun, 18 Oct 2026 15:00:00 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/there-were-a-lot-of-disagreements-across-the-place-former-marathon-director-joe-ziegler-on-leading-bungies-extraction-shooter-playing-path-of-exile-for-3-437-hours-and-why-hell-never-uninstall-kingdom-hearts/",
+    "summary": "Claude, finish drafting my single-use ray gun which can only vaporize $999 million worth of stuff and/or 49 people.",
+    "date": "Sun, 18 Oct 2026 18:44:11 +0000",
+    "link": "https://www.pcgamer.com/software/ai/leaked-ai-safety-bill-from-anthropic-only-lets-government-act-if-50-deaths-or-usd1-billion-are-on-the-line/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.13,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "AI"
     ],
     "read_time": "1 min read"
   },
@@ -352,8 +349,8 @@
       "badge": "info"
     },
     "tags": [
-      "FPS",
-      "Steam"
+      "Steam",
+      "FPS"
     ],
     "read_time": "1 min read"
   }
