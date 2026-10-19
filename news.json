@@ -1,312 +1,11 @@
 [
   {
     "id": 1,
-    "title": "Cyberpunk: Edgerunners 2 Review",
+    "title": "Abbott & Costello Join Forces With Kolchak the Night Stalker in Horror Crossover Special",
     "source": "IGN",
-    "summary": "Cyberpunk: Edgerunners 2 review: Welcome back to Night City, but beware the corpos.",
-    "date": "Mon, 19 Oct 2026 07:01:00 +0000",
-    "link": "https://www.ign.com/articles/cyberpunk-edgerunners-2-review",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
-    },
-    "tags": [
-      "Cyberpunk"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "The Simpsons’ Apu Has Finally Spoken on the Show for the First Time in Almost a Decade",
-    "source": "IGN",
-    "summary": "The Simpsons’ Apu Has Finally Spoken on the Show for the First Time in Almost a Decade",
-    "date": "Mon, 19 Oct 2026 02:37:59 +0000",
-    "link": "https://www.ign.com/articles/the-simpsons-apu-has-finally-spoken-on-the-show-for-the-first-time-in-almost-a-decade",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Don Bradman Cricket Jr Announced for PC and Consoles",
-    "source": "IGN",
-    "summary": "Don Bradman Cricket Jr Announced for PC and Consoles",
-    "date": "Mon, 19 Oct 2026 00:12:40 +0000",
-    "link": "https://www.ign.com/articles/don-bradman-cricket-jr-announced-for-pc-and-consoles",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Jesse Eisenberg Says He 'Couldn't Get Movie Studio Parts' After Winning His Batman v. Superman Razzie",
-    "source": "IGN",
-    "summary": "Jesse Eisenberg says he \"couldn't get into studio movie parts\" because he won a Worst Supporting Actor Razzie for playing Lex Luthor in Batman v. Superman.",
-    "date": "Sun, 18 Oct 2026 22:37:38 +0000",
-    "link": "https://www.ign.com/articles/jesse-eisenberg-says-he-couldnt-get-movie-studio-parts-after-winning-his-batman-v-superman-razzie",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "The next Call of Duty will introduce a new sub-series to the franchise",
-    "source": "Eurogamer",
-    "summary": "Next year's Call of Duty game will not be part of any of the franchise's existing sub-series. In an interview with The Game Business, Activision confirmed it's finally ready to create a new sub-series. Read more...",
-    "date": "Mon, 19 Oct 2026 11:00:50 +0000",
-    "link": "https://www.eurogamer.net/call-of-duty-next-game-new-sub-franchise",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Dune: Awakening studio faces layoffs as it restructures following console release",
-    "source": "Eurogamer",
-    "summary": "Norwegian developer Funcom, creator of Dune: Awakening and Conan Exiles - and many other games - is entering a period of restructuring and bracing for layoffs as a result. You may remember the company making a similar move this time last year, months after the initial PC release of Dune: Awakening. ...",
-    "date": "Mon, 19 Oct 2026 10:47:29 +0000",
-    "link": "https://www.eurogamer.net/funcom-dune-awakening-layoffs-restructuring",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Steam Next Fest 2026 has more than double the number of demos than last year, but how much of it is generative 'AI slop'?",
-    "source": "Eurogamer",
-    "summary": "Steam Next Fest 2026 starts today, offering PC players a chance to get their hands on a staggering number of playable demos. With the full count coming to more than double last year's event, concerns about generative AI 'slop', plagiarism, and discoverability are circulating Read more...",
-    "date": "Mon, 19 Oct 2026 10:43:26 +0000",
-    "link": "https://www.eurogamer.net/steam-next-fest-2026-over-double",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.19,
-      "badge": "success"
-    },
-    "tags": [
-      "AI",
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Players on Steam so far seem delighted with Modern Warfare 4's campaign, making it one of the most well-received Call of Dutys in recent history",
-    "source": "Eurogamer",
-    "summary": "It may be hard to believe, given all the Call of Duty: Modern 4 pre-launch community drama and the beta's lower-than-expected numbers on PC, but the final game may have turned things around - so far, at least. Read more...",
-    "date": "Mon, 19 Oct 2026 08:36:43 +0000",
-    "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "Final Fantasy 7 Revelation Director Makes Announces Big Changes to Hard Mode",
-    "source": "Polygon",
-    "summary": "Final Fantasy 7 remake director Naoki Hamaguchi announces significant improvements to the game's Hard Mode.",
-    "date": "Mon, 19 Oct 2026 11:59:07 GMT",
-    "link": "https://www.polygon.com/final-fantasy-7-revelation-hard-difficulty-changes-dynamic-mode/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "5 Essential Horror Books You Need To Read At Least Once In Your Life",
-    "source": "Polygon",
-    "summary": "There's something for every horror fan",
-    "date": "Mon, 19 Oct 2026 11:00:18 GMT",
-    "link": "https://www.polygon.com/essential-horror-books-read-at-least-once/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "The 7 Best Daily Pokémon Games, Ranked",
-    "source": "Polygon",
-    "summary": "The best Wordle-like Pokémon games that you can play in your browser every day.",
-    "date": "Mon, 19 Oct 2026 11:00:18 GMT",
-    "link": "https://www.polygon.com/pokemon-games-best-daily-ranked-browser/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.67,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "One of 2026's Best Horror Movies Is Officially Headed to Netflix Soon",
-    "source": "Polygon",
-    "summary": "Curry Barker's box office horror hit, Obsession, is coming to Netflix this November.",
-    "date": "Mon, 19 Oct 2026 10:00:32 GMT",
-    "link": "https://www.polygon.com/obsession-netflix-streaming-release-date/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 1.0,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "No publishers wanted Outlast because they'd 'rather invest $50,000 in 10 mobile games' so Red Barrels relied on public investment programs and their own savings instead",
-    "source": "PC Gamer",
-    "summary": "\"Everything was on the line\" during Outlast's development.",
-    "date": "Mon, 19 Oct 2026 11:34:55 +0000",
-    "link": "https://www.pcgamer.com/games/horror/no-publisher-wanted-outlast-because-theyd-rather-invest-usd50-000-in-10-mobile-games-so-red-barrels-relied-on-public-investment-programs-and-their-own-savings-instead/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "RTX 5090 not dead, says Nvidia—but it's mysteriously vanished from the company's official marketplace",
-    "source": "PC Gamer",
-    "summary": "Another Schrödinger's graphics card?",
-    "date": "Mon, 19 Oct 2026 11:12:36 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/rtx-5090-not-dead-says-nvidia-but-its-mysteriously-vanished-from-the-companys-official-marketplace/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "Nvidia",
-      "Graphics"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Man moved to tears by RTX 5090 on his wedding day - $9000+ price tag brings a tear to my eye too",
-    "source": "PC Gamer",
-    "summary": "Who among us wouldn't feel the same?",
-    "date": "Mon, 19 Oct 2026 10:29:15 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/man-moved-to-tears-by-rtx-5090-on-his-wedding-day-usd9000-price-tag-brings-a-tear-to-my-eye-too/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up",
-    "source": "PC Gamer",
-    "summary": "All the interesting Steam facts for the week ending October 18.",
-    "date": "Mon, 19 Oct 2026 03:00:45 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.1,
-      "badge": "danger"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "Xbox Game Pass Is Losing 8 More Games In October",
-    "source": "GameSpot",
-    "summary": "It's that time of month when Xbox updates the Game Pass library, and, as usual, a few more games are leaving the subscription service in a few weeks. On October 31, you can say goodbye to 8 more games, including a few LucasArts classics, a diggy-diggy blast of co-op fun, and one of the biggest Lego ...",
-    "date": "Mon, 19 Oct 2026 10:22:22 +0000",
-    "link": "https://www.gamespot.com/articles/xbox-game-pass-is-losing-8-more-games-in-october/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "Street Fighter Lands A Number One Debut, But Its Box Office Punch Is Weaker Than Expected",
-    "source": "GameSpot",
-    "summary": "Street Fighter got off to an okay start on the weekend, punching its way to a $31 million opening at the US box office and a number one debut. That's below the domestic opening weekend of Mortal Kombat 2 earlier this year ($38.5 million), and globally, it made $20.1 million. That brings the worldwid...",
-    "date": "Thu, 15 Oct 2026 14:31:35 +0000",
-    "link": "https://www.gamespot.com/articles/street-fighter-movie-box-office-results/",
+    "summary": "Comedy icons Abbott & Costello are returning to comics for the first time in half a century, and they're joining forces with none other than Kolchak the Night Stalker.",
+    "date": "Mon, 19 Oct 2026 16:00:00 +0000",
+    "link": "https://www.ign.com/articles/abbott-costello-join-forces-with-kolchak-the-night-stalker-in-horror-crossover-special",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.08,
@@ -319,15 +18,226 @@
     "read_time": "1 min read"
   },
   {
-    "id": 19,
-    "title": "Tenebris Somnia Blends 2D Visuals With Live-Action Horror Scenes, And It’s Already On Sale At Launch",
-    "source": "GameSpot",
-    "summary": "Horror games live or die by their scares and tension. If the player isn’t uncomfortable guiding a character through dreadful situations, well, you may as well be playing an action-adventure game (don’t mention the first Uncharted’s final act, please). Tenebris Somnia blends the discomfort of retro h...",
-    "date": "Sun, 18 Oct 2026 12:00:00 +0000",
-    "link": "https://www.gamespot.com/articles/tenebris-somnia-blends-2d-visuals-with-live-action-horror-scenes-and-its-already-on-sale-at-launch/",
+    "id": 2,
+    "title": "PlayStation Shadowdrops Saros Zenith Update With Boss Rush, New Game+ and Fancy Golden Crown Powerups",
+    "source": "IGN",
+    "summary": "A new update for Saros dropped today, adding some new features to the hectic Housemarque shooter.",
+    "date": "Mon, 19 Oct 2026 15:57:20 +0000",
+    "link": "https://www.ign.com/articles/saros-zenith-update-boss-rush-new-game-plus",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "Don't Miss Out on Amazon's Fall Audible Deal: Pay $0.99 Per Month Plus Get $20 Credit",
+    "source": "IGN",
+    "summary": "Both Amazon Prime and non-Prime members, new subscribers and (most) previous subscribers are eligible.",
+    "date": "Mon, 19 Oct 2026 15:55:00 +0000",
+    "link": "https://www.ign.com/articles/amazon-audible-deal-october-2026",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "PlayStation 6 RAM and Storage Alone May Cost $680, According to Leaker",
+    "source": "IGN",
+    "summary": "The PlayStation 6 hasn't even been announced yet, but little rumors pop up now and then that add speculation on what to expect from Sony's next-gen console. The latest is a shocking claim that the RAM and storage configuration of the console will cost more than the entirety of the PS5.",
+    "date": "Mon, 19 Oct 2026 15:51:58 +0000",
+    "link": "https://www.ign.com/articles/playstation-6-ram-and-storage-alone-may-cost-680-according-to-leaker",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Final Fantasy 7 Revelation's Hard Mode is available from the start this time, so you won't need to replay the mammoth RPG to get to the good stuff",
+    "source": "Eurogamer",
+    "summary": "Final Fantasy 7 Revelation will let players access Hard Mode from the very beginning of the journey, unlike FF7 Remake and Rebirth, which made folks complete the mammoth adventures before unlocking the tougher difficulty option. Read more...",
+    "date": "Mon, 19 Oct 2026 18:27:17 +0000",
+    "link": "https://www.eurogamer.net/final-fantasy-7-revelation-hard-mode-start-replay-rpg",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
+    },
+    "tags": [
+      "RPG",
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Arc Raiders player numbers hit a six-month high following the release of the extraction shooter's huge Frozen Trails update",
+    "source": "Eurogamer",
+    "summary": "Arc Raiders is still going strong almost a year after finding viral success, and it's all thanks to Embark Studios' one-two-punch strategy of launching a huge new update, Frozen Trails, to coincide with a free weekend. Read more...",
+    "date": "Mon, 19 Oct 2026 17:22:27 +0000",
+    "link": "https://www.eurogamer.net/arc-raiders-frozen-trails-player-numbers-six-month-high",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.29,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "PlayStation founder Ken Kutaragi says discs became \"metaphor for 'owning' games\", and that upset at their discontinuation is a \"mentality issue\"",
+    "source": "Eurogamer",
+    "summary": "Ken Kutaragi, the founder of PlayStation and architect of the first three PlayStation consoles, has said that people being upset about Sony's discontinuation of game discs is probably a \"mentality issue\". He understands it, he noted, but that doesn't make it \"economically reasonable\" for Sony to kee...",
+    "date": "Mon, 19 Oct 2026 16:07:22 +0000",
+    "link": "https://www.eurogamer.net/ken-kutaragi-playstation-discs",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Japanese acting union fights back against AI-generated voice use, proposing strict new guidelines, especially regarding the use of a deceased actor's voice",
+    "source": "Eurogamer",
+    "summary": "The Japan Actors Union has issued  new rules, guidelines, and restrictions related to AI-generated voice use. This includes an outright ban on the replication of the voices of dead actors, unless the actor had authorised its use during their lifetime. Read more...",
+    "date": "Mon, 19 Oct 2026 15:12:17 +0000",
+    "link": "https://www.eurogamer.net/japanese-voice-acting-union-generative-ai",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "DC Studios Reveals First Details on New TV Series",
+    "source": "Polygon",
+    "summary": "DC Studios' 'Mister Miracle' show just got a new teaser image alongside confirmation of the show's cast.",
+    "date": "Mon, 19 Oct 2026 18:39:55 GMT",
+    "link": "https://www.polygon.com/mister-miracle-first-details-confirmed/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "The 10 Best Steam Next Fest Demos to Play Right Now",
+    "source": "Polygon",
+    "summary": "Steam Next Fest is back again, and it features tons of free demos for some promising upcoming games.",
+    "date": "Mon, 19 Oct 2026 18:00:56 GMT",
+    "link": "https://www.polygon.com/steam-next-fest-demos-best-october-2026/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.27,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "Sounds Like GTA 6 Will Be Full of Details Like Red Dead's Infamous Horse Balls",
+    "source": "Polygon",
+    "summary": "After a decade of silence, Rockstar finally acknowledges a controversial RDR2 feature that could reappear in GTA 6 with some major upgrades",
+    "date": "Mon, 19 Oct 2026 17:54:41 GMT",
+    "link": "https://www.polygon.com/gta-6-rdr2-horse-balls-confirmed-rockstar/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.04,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "How to make goo in Enshrouded",
+    "source": "Polygon",
+    "summary": "Here's how to unlock the goo crafting recipe in Enshrouded.",
+    "date": "Mon, 19 Oct 2026 17:50:54 GMT",
+    "link": "https://www.polygon.com/enshrouded-goo-crafting-recipe-how-to-make/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "I have added completely realistic Uber driving to Grand Theft Auto 5",
+    "source": "PC Gamer",
+    "summary": "Your driver is nearby.",
+    "date": "Mon, 19 Oct 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-have-added-completely-realistic-uber-driving-to-grand-theft-auto-5/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.33,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "You can make this DIY controller in six hours and for less than 12 bucks—but would you want to?",
+    "source": "PC Gamer",
+    "summary": "I think I'll stick with my GameSir Nova Lite.",
+    "date": "Mon, 19 Oct 2026 16:15:13 +0000",
+    "link": "https://www.pcgamer.com/hardware/controllers/you-can-make-this-diy-controller-in-six-hours-and-for-less-than-12-bucks-but-would-you-want-to/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.25,
+      "score": -0.17,
       "badge": "danger"
     },
     "tags": [
@@ -337,19 +247,109 @@
     "read_time": "1 min read"
   },
   {
-    "id": 20,
-    "title": "All The Records GTA 6 Will Break, We Think",
-    "source": "GameSpot",
-    "summary": "After years of development and perhaps more hype than for any game, GTA 6 is set for release on November 19 for PS5 and Xbox Series X|S. Predicting that it will be an enormous success commercially is perhaps one of the safest bets anyone could make. \nBut just how big will the launch be? And what rec...",
-    "date": "Fri, 16 Oct 2026 20:27:22 +0000",
-    "link": "https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/",
+    "id": 15,
+    "title": "GameSir Nova Lite 2 review",
+    "source": "PC Gamer",
+    "summary": "The best deal in controllers at $30 or less right now.",
+    "date": "Mon, 19 Oct 2026 15:01:40 +0000",
+    "link": "https://www.pcgamer.com/hardware/controllers/gamesir-nova-lite-2-review/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.37,
+      "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Two entire pallets of RTX 5090s have 'gone missing' from a Brazilian airport—$495,000 worth of unobtanium graphics cards now presumably at large",
+    "source": "PC Gamer",
+    "summary": "Own up, which one of you was it?",
+    "date": "Mon, 19 Oct 2026 15:00:43 +0000",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/two-entire-pallets-of-rtx-5090s-have-gone-missing-from-a-brazilian-airport-usd495-000-worth-of-unobtanium-graphics-cards-now-presumably-at-large/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.18,
+      "badge": "success"
+    },
+    "tags": [
+      "Graphics"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "This LA Noire Spinoff Idea Sounds Incredible",
+    "source": "GameSpot",
+    "summary": "British actor Rahul Kohli (Saros, Midnight Mass) has a pitch for a new L.A. Noire game, and it sounds pretty great. Speaking to BAFTA Games, Kohli said he would like to see the franchise return with a spinoff that takes players through different time periods, as a cop, as they investigate different ...",
+    "date": "Mon, 19 Oct 2026 17:47:18 +0000",
+    "link": "https://www.gamespot.com/articles/this-la-noire-spinoff-idea-sounds-incredible/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.21,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Mr. Beast’s Call Of Duty: MW4 DMZ Video Pays $1 Million To The Winner, Watch It Here",
+    "source": "GameSpot",
+    "summary": "YouTube star Mr. Beast, who has more than 500 million subscribers on that platform alone, has published a Call of Duty video today, October 19, to mark the release of Modern Warfare 4. He teased the video online, saying it's going to be \"one of the biggest COD videos of all time.\" \nHe also pointed o...",
+    "date": "Mon, 19 Oct 2026 13:28:09 +0000",
+    "link": "https://www.gamespot.com/articles/mr-beast-teases-a-huge-call-of-duty-video-focused-on-dmz-with-real-life-content-creators/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.35,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "Saros Gets Boss Rush And Tons Of Difficulty Options With Zenith Update",
+    "source": "GameSpot",
+    "summary": "Saros is a phenomenal sci-fi shooter, and it currently stands as my favorite game of 2026. If you've been waiting for the right time to play it--or to play it again--then developer Housemarque has some good news. The new Zenith update is now available for free, adding a boss rush and difficulty opti...",
+    "date": "Mon, 19 Oct 2026 16:19:09 +0000",
+    "link": "https://www.gamespot.com/articles/saros-gets-boss-rush-and-tons-of-difficulty-options-with-zenith-update/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.28,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 20,
+    "title": "Star Wars: Galactic Racer’s Biddy Blas Is Voiced By A Sinister Circus Ringmaster Pro Wrestler, And This Makes Sense",
+    "source": "GameSpot",
+    "summary": "Star Wars has had no shortage of breakout alien stars over the decades--from Chewbacca in the original trilogy to Grogu from The Mandalorian--but in Star Wars: Galactic Racer, that honor belongs to Biddy Blas. Who is Biddy Blas? A hotshot racer in the game, with an ego the size of a Death Star and a...",
+    "date": "Mon, 19 Oct 2026 16:18:07 +0000",
+    "link": "https://www.gamespot.com/articles/star-wars-galactic-racers-biddy-blas-is-voiced-by-a-sinister-circus-ringmaster-pro-wrestler-and-this-makes-sense/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.19,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
