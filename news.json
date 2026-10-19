@@ -1,6 +1,41 @@
 [
   {
     "id": 1,
+    "title": "Cyberpunk: Edgerunners 2 Review",
+    "source": "IGN",
+    "summary": "Cyberpunk: Edgerunners 2 review: Welcome back to Night City, but beware the corpos.",
+    "date": "Mon, 19 Oct 2026 07:01:00 +0000",
+    "link": "https://www.ign.com/articles/cyberpunk-edgerunners-2-review",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
+    },
+    "tags": [
+      "Cyberpunk"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "The Simpsons’ Apu Has Finally Spoken on the Show for the First Time in Almost a Decade",
+    "source": "IGN",
+    "summary": "The Simpsons’ Apu Has Finally Spoken on the Show for the First Time in Almost a Decade",
+    "date": "Mon, 19 Oct 2026 02:37:59 +0000",
+    "link": "https://www.ign.com/articles/the-simpsons-apu-has-finally-spoken-on-the-show-for-the-first-time-in-almost-a-decade",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
     "title": "Don Bradman Cricket Jr Announced for PC and Consoles",
     "source": "IGN",
     "summary": "Don Bradman Cricket Jr Announced for PC and Consoles",
@@ -18,7 +53,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "Jesse Eisenberg Says He 'Couldn't Get Movie Studio Parts' After Winning His Batman v. Superman Razzie",
     "source": "IGN",
     "summary": "Jesse Eisenberg says he \"couldn't get into studio movie parts\" because he won a Worst Supporting Actor Razzie for playing Lex Luthor in Batman v. Superman.",
@@ -36,16 +71,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 3,
-    "title": "Taika Waititi Says His Star Wars Movie Is 'on Ice'",
-    "source": "IGN",
-    "summary": "Director Taika Waititi has confirmed his long-in-development Star Wars movie is officially \"on ice.\"",
-    "date": "Sun, 18 Oct 2026 20:50:43 +0000",
-    "link": "https://www.ign.com/articles/taika-waititi-says-his-star-wars-movie-is-on-ice",
+    "id": 5,
+    "title": "The next Call of Duty will introduce a new sub-series to the franchise",
+    "source": "Eurogamer",
+    "summary": "Next year's Call of Duty game will not be part of any of the franchise's existing sub-series. In an interview with The Game Business, Activision confirmed it's finally ready to create a new sub-series. Read more...",
+    "date": "Mon, 19 Oct 2026 11:00:50 +0000",
+    "link": "https://www.eurogamer.net/call-of-duty-next-game-new-sub-franchise",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -54,50 +89,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 4,
-    "title": "Silent Hill Remake Studio Wants to Make Physical Games 'for as Long as Possible'",
-    "source": "IGN",
-    "summary": "Silent Hill developer Bloober Team wants to make physical versions of its games \"for as long as possible.\"",
-    "date": "Sun, 18 Oct 2026 19:55:44 +0000",
-    "link": "https://www.ign.com/articles/silent-hill-remake-studio-wants-to-make-physical-games-for-as-long-as-possible",
+    "id": 6,
+    "title": "Dune: Awakening studio faces layoffs as it restructures following console release",
+    "source": "Eurogamer",
+    "summary": "Norwegian developer Funcom, creator of Dune: Awakening and Conan Exiles - and many other games - is entering a period of restructuring and bracing for layoffs as a result. You may remember the company making a similar move this time last year, months after the initial PC release of Dune: Awakening. ...",
+    "date": "Mon, 19 Oct 2026 10:47:29 +0000",
+    "link": "https://www.eurogamer.net/funcom-dune-awakening-layoffs-restructuring",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.03,
+      "score": 0.05,
       "badge": "info"
-    },
-    "tags": [
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "Battlefield 6 devs to fix \"Secuty\" skin typo, but five-pistol outfit was intentional",
-    "source": "Eurogamer",
-    "summary": "Battlefield Studios has responded after fans accused it of using AI to generate cosmetics after spotting a \"Secuty\" typo on a Battlefield 6 Season 5 skin. Read more...",
-    "date": "Sun, 18 Oct 2026 17:37:38 +0000",
-    "link": "https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "The PS6's memory and storage alone reportedly cost more than $680",
-    "source": "Eurogamer",
-    "summary": "The PS6's memory and storage reportedly cost more than $680 between them. Read more",
-    "date": "Sun, 18 Oct 2026 17:10:29 +0000",
-    "link": "https://www.eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
     },
     "tags": [
       "News",
@@ -107,32 +108,66 @@
   },
   {
     "id": 7,
-    "title": "Samson dev Liquid Swords has reportedly gone bankrupt",
+    "title": "Steam Next Fest 2026 has more than double the number of demos than last year, but how much of it is generative 'AI slop'?",
     "source": "Eurogamer",
-    "summary": "Swedish studio Liquid Swords, maker of action game Samson, has reportedly been put into bankruptcy. Read more...",
-    "date": "Sun, 18 Oct 2026 15:21:13 +0000",
-    "link": "https://www.eurogamer.net/liquid-swords-samson-developer-bankrupt",
+    "summary": "Steam Next Fest 2026 starts today, offering PC players a chance to get their hands on a staggering number of playable demos. With the full count coming to more than double last year's event, concerns about generative AI 'slop', plagiarism, and discoverability are circulating Read more...",
+    "date": "Mon, 19 Oct 2026 10:43:26 +0000",
+    "link": "https://www.eurogamer.net/steam-next-fest-2026-over-double",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.19,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "AI",
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 8,
-    "title": "God of War Laufey's £130 Collector Box doesn't come with the game",
+    "title": "Players on Steam so far seem delighted with Modern Warfare 4's campaign, making it one of the most well-received Call of Dutys in recent history",
     "source": "Eurogamer",
-    "summary": "God of War Laufey's Collector Box will cost £129.99 and will not include the game. Read more...",
-    "date": "Sun, 18 Oct 2026 14:47:02 +0000",
-    "link": "https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game",
+    "summary": "It may be hard to believe, given all the Call of Duty: Modern 4 pre-launch community drama and the beta's lower-than-expected numbers on PC, but the final game may have turned things around - so far, at least. Read more...",
+    "date": "Mon, 19 Oct 2026 08:36:43 +0000",
+    "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "Final Fantasy 7 Revelation Director Makes Announces Big Changes to Hard Mode",
+    "source": "Polygon",
+    "summary": "Final Fantasy 7 remake director Naoki Hamaguchi announces significant improvements to the game's Hard Mode.",
+    "date": "Mon, 19 Oct 2026 11:59:07 GMT",
+    "link": "https://www.polygon.com/final-fantasy-7-revelation-hard-difficulty-changes-dynamic-mode/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.09,
+      "badge": "info"
+    },
+    "tags": [
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "5 Essential Horror Books You Need To Read At Least Once In Your Life",
+    "source": "Polygon",
+    "summary": "There's something for every horror fan",
+    "date": "Mon, 19 Oct 2026 11:00:18 GMT",
+    "link": "https://www.polygon.com/essential-horror-books-read-at-least-once/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.1,
+      "score": -0.15,
       "badge": "danger"
     },
     "tags": [
@@ -142,51 +177,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 9,
-    "title": "31 Years Later, Calvin and Hobbes' Scariest Comic Is Still a Controversial Classic",
-    "source": "Polygon",
-    "summary": "This Calvin and Hobbes comic strip is a spine-shatteringly good time that has nothing to do with Halloween",
-    "date": "Mon, 19 Oct 2026 03:00:18 GMT",
-    "link": "https://www.polygon.com/calvin-hobbes-halloween/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.32,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Pokémon Officially Returns to Galar in 2027 for New Release",
-    "source": "Polygon",
-    "summary": "Pokémon Tales: The Misadventures of Sirfetch’d & Pichu is coming to Disney Plus, as is the classic Pokémon anime, in a new streaming deal.",
-    "date": "Mon, 19 Oct 2026 02:51:19 GMT",
-    "link": "https://www.polygon.com/pokemon-sirfetchd-pichu-animated-series-streaming-disney-plus-2027/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 11,
-    "title": "10 NES Games That Are Still Worth Playing From Start to Finish",
+    "title": "The 7 Best Daily Pokémon Games, Ranked",
     "source": "Polygon",
-    "summary": "From start to finish, these 10 NES games reward every second of the time you invest in them, even decades after the fact.",
-    "date": "Mon, 19 Oct 2026 02:34:47 GMT",
-    "link": "https://www.polygon.com/best-nes-games/",
+    "summary": "The best Wordle-like Pokémon games that you can play in your browser every day.",
+    "date": "Mon, 19 Oct 2026 11:00:18 GMT",
+    "link": "https://www.polygon.com/pokemon-games-best-daily-ranked-browser/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.15,
+      "score": 0.67,
       "badge": "success"
     },
     "tags": [
@@ -197,15 +196,15 @@
   },
   {
     "id": 12,
-    "title": "9 Best DLCs That Were Even Better Than the Base Game",
+    "title": "One of 2026's Best Horror Movies Is Officially Headed to Netflix Soon",
     "source": "Polygon",
-    "summary": "From Hell weddings to alien hive-minds, these nine DLCs took a hard swerve away from the games they built off.",
-    "date": "Mon, 19 Oct 2026 02:24:58 GMT",
-    "link": "https://www.polygon.com/best-dlcs-video-games/",
+    "summary": "Curry Barker's box office horror hit, Obsession, is coming to Netflix this November.",
+    "date": "Mon, 19 Oct 2026 10:00:32 GMT",
+    "link": "https://www.polygon.com/obsession-netflix-streaming-release-date/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.04,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 1.0,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -215,6 +214,60 @@
   },
   {
     "id": 13,
+    "title": "No publishers wanted Outlast because they'd 'rather invest $50,000 in 10 mobile games' so Red Barrels relied on public investment programs and their own savings instead",
+    "source": "PC Gamer",
+    "summary": "\"Everything was on the line\" during Outlast's development.",
+    "date": "Mon, 19 Oct 2026 11:34:55 +0000",
+    "link": "https://www.pcgamer.com/games/horror/no-publisher-wanted-outlast-because-theyd-rather-invest-usd50-000-in-10-mobile-games-so-red-barrels-relied-on-public-investment-programs-and-their-own-savings-instead/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "RTX 5090 not dead, says Nvidia—but it's mysteriously vanished from the company's official marketplace",
+    "source": "PC Gamer",
+    "summary": "Another Schrödinger's graphics card?",
+    "date": "Mon, 19 Oct 2026 11:12:36 +0000",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/rtx-5090-not-dead-says-nvidia-but-its-mysteriously-vanished-from-the-companys-official-marketplace/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "Nvidia",
+      "Graphics"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Man moved to tears by RTX 5090 on his wedding day - $9000+ price tag brings a tear to my eye too",
+    "source": "PC Gamer",
+    "summary": "Who among us wouldn't feel the same?",
+    "date": "Mon, 19 Oct 2026 10:29:15 +0000",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/man-moved-to-tears-by-rtx-5090-on-his-wedding-day-usd9000-price-tag-brings-a-tear-to-my-eye-too/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
     "title": "Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up",
     "source": "PC Gamer",
     "summary": "All the interesting Steam facts for the week ending October 18.",
@@ -231,60 +284,42 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
-    "title": "23 devs teamed up to make a free game of 'innovative yet questionable volume sliders,' and it feels like browser-based WarioWare",
-    "source": "PC Gamer",
-    "summary": "Here for a good time and a loud time.",
-    "date": "Sun, 18 Oct 2026 22:36:22 +0000",
-    "link": "https://www.pcgamer.com/games/23-devs-teamed-up-to-make-a-free-game-of-innovative-yet-questionable-volume-sliders-and-it-feels-like-browser-based-warioware/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.13,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Dark Souls 2 dataminer shows off massive prototype coliseum level from early development",
-    "source": "PC Gamer",
-    "summary": "Bigger than the ones in Elden Ring, for what it's worth.",
-    "date": "Sun, 18 Oct 2026 18:48:42 +0000",
-    "link": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-dataminer-shows-off-massive-prototype-coliseum-level-from-early-development/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Leaked AI safety bill from Anthropic only requires government intervention if 50+ injuries or $1 billion are at risk",
-    "source": "PC Gamer",
-    "summary": "Claude, finish drafting my single-use ray gun which can only vaporize $999 million worth of stuff and/or 49 people.",
-    "date": "Sun, 18 Oct 2026 18:44:11 +0000",
-    "link": "https://www.pcgamer.com/software/ai/leaked-ai-safety-bill-from-anthropic-only-lets-government-act-if-50-deaths-or-usd1-billion-are-on-the-line/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 17,
+    "title": "Xbox Game Pass Is Losing 8 More Games In October",
+    "source": "GameSpot",
+    "summary": "It's that time of month when Xbox updates the Game Pass library, and, as usual, a few more games are leaving the subscription service in a few weeks. On October 31, you can say goodbye to 8 more games, including a few LucasArts classics, a diggy-diggy blast of co-op fun, and one of the biggest Lego ...",
+    "date": "Mon, 19 Oct 2026 10:22:22 +0000",
+    "link": "https://www.gamespot.com/articles/xbox-game-pass-is-losing-8-more-games-in-october/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Street Fighter Lands A Number One Debut, But Its Box Office Punch Is Weaker Than Expected",
+    "source": "GameSpot",
+    "summary": "Street Fighter got off to an okay start on the weekend, punching its way to a $31 million opening at the US box office and a number one debut. That's below the domestic opening weekend of Mortal Kombat 2 earlier this year ($38.5 million), and globally, it made $20.1 million. That brings the worldwid...",
+    "date": "Thu, 15 Oct 2026 14:31:35 +0000",
+    "link": "https://www.gamespot.com/articles/street-fighter-movie-box-office-results/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
     "title": "Tenebris Somnia Blends 2D Visuals With Live-Action Horror Scenes, And It’s Already On Sale At Launch",
     "source": "GameSpot",
     "summary": "Horror games live or die by their scares and tension. If the player isn’t uncomfortable guiding a character through dreadful situations, well, you may as well be playing an action-adventure game (don’t mention the first Uncharted’s final act, please). Tenebris Somnia blends the discomfort of retro h...",
@@ -302,7 +337,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 18,
+    "id": 20,
     "title": "All The Records GTA 6 Will Break, We Think",
     "source": "GameSpot",
     "summary": "After years of development and perhaps more hype than for any game, GTA 6 is set for release on November 19 for PS5 and Xbox Series X|S. Predicting that it will be an enormous success commercially is perhaps one of the safest bets anyone could make. \nBut just how big will the launch be? And what rec...",
@@ -315,42 +350,6 @@
     },
     "tags": [
       "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "You Can Play WoW: Forever For Free Next Week (But There’s A Catch)",
-    "source": "GameSpot",
-    "summary": "Update: Following publication, Blizzard announced the stress test will actually occur on October 21, instead of October 19 as previously announced. This article has been updated.\nWorld of Warcraft: Forever's beta will be free for a limited time next week, giving players who want to check out the new...",
-    "date": "Fri, 16 Oct 2026 18:45:44 +0000",
-    "link": "https://www.gamespot.com/articles/you-can-play-wow-forever-for-free-next-week-but-theres-a-catch/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "This Espresso Machine Can Run Doom",
-    "source": "GameSpot",
-    "summary": "Before caffeinating yourself in the morning, the Fellow Espresso Series 1 machine can actually run 1993's Doom on its small, circular screen. Reddit user FullExtraction showed off the classic FPS, utilizing the brew button to run and steam button to shoot. The scroll wheel on the device turns Doomgu...",
-    "date": "Fri, 16 Oct 2026 18:28:36 +0000",
-    "link": "https://www.gamespot.com/articles/this-espresso-machine-can-run-doom/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Steam",
-      "FPS"
     ],
     "read_time": "1 min read"
   }

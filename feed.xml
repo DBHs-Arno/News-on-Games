@@ -6,6 +6,20 @@
     <description>Automated Global Gaming News &amp; Tech Insights Feed</description>
     <language>en-us</language>
     <item>
+      <title>[IGN] Cyberpunk: Edgerunners 2 Review</title>
+      <link>https://www.ign.com/articles/cyberpunk-edgerunners-2-review</link>
+      <description>Cyberpunk: Edgerunners 2 review: Welcome back to Night City, but beware the corpos....</description>
+      <pubDate>Mon, 19 Oct 2026 07:01:00 +0000</pubDate>
+      <guid>https://www.ign.com/articles/cyberpunk-edgerunners-2-review</guid>
+    </item>
+    <item>
+      <title>[IGN] The Simpsons’ Apu Has Finally Spoken on the Show for the First Time in Almost a Decade</title>
+      <link>https://www.ign.com/articles/the-simpsons-apu-has-finally-spoken-on-the-show-for-the-first-time-in-almost-a-decade</link>
+      <description>The Simpsons’ Apu Has Finally Spoken on the Show for the First Time in Almost a Decade...</description>
+      <pubDate>Mon, 19 Oct 2026 02:37:59 +0000</pubDate>
+      <guid>https://www.ign.com/articles/the-simpsons-apu-has-finally-spoken-on-the-show-for-the-first-time-in-almost-a-decade</guid>
+    </item>
+    <item>
       <title>[IGN] Don Bradman Cricket Jr Announced for PC and Consoles</title>
       <link>https://www.ign.com/articles/don-bradman-cricket-jr-announced-for-pc-and-consoles</link>
       <description>Don Bradman Cricket Jr Announced for PC and Consoles...</description>
@@ -27,18 +41,32 @@
       <guid>https://www.ign.com/articles/taika-waititi-says-his-star-wars-movie-is-on-ice</guid>
     </item>
     <item>
-      <title>[IGN] Silent Hill Remake Studio Wants to Make Physical Games 'for as Long as Possible'</title>
-      <link>https://www.ign.com/articles/silent-hill-remake-studio-wants-to-make-physical-games-for-as-long-as-possible</link>
-      <description>Silent Hill developer Bloober Team wants to make physical versions of its games "for as long as possible."...</description>
-      <pubDate>Sun, 18 Oct 2026 19:55:44 +0000</pubDate>
-      <guid>https://www.ign.com/articles/silent-hill-remake-studio-wants-to-make-physical-games-for-as-long-as-possible</guid>
+      <title>[Eurogamer] The next Call of Duty will introduce a new sub-series to the franchise</title>
+      <link>https://www.eurogamer.net/call-of-duty-next-game-new-sub-franchise</link>
+      <description> Next year's Call of Duty game will not be part of any of the franchise's existing sub-series. In an interview with The Game Business, Activision confirmed it's finally ready to create a new sub-series. Read more...</description>
+      <pubDate>Mon, 19 Oct 2026 11:00:50 +0000</pubDate>
+      <guid>https://www.eurogamer.net/call-of-duty-next-game-new-sub-franchise</guid>
     </item>
     <item>
-      <title>[IGN] Street Fighter Tops the Box Office With $51 Million Opening Weekend Amid Lackluster Reviews</title>
-      <link>https://www.ign.com/articles/street-fighter-tops-the-box-office-with-51-million-opening-weekend-amid-lackluster-reviews</link>
-      <description>Capcom's Street Fighter movie spun up $51.1 million in its opening weekend, securing its place atop the global box office despite some not-so-great reviews....</description>
-      <pubDate>Sun, 18 Oct 2026 18:17:45 +0000</pubDate>
-      <guid>https://www.ign.com/articles/street-fighter-tops-the-box-office-with-51-million-opening-weekend-amid-lackluster-reviews</guid>
+      <title>[Eurogamer] Dune: Awakening studio faces layoffs as it restructures following console release</title>
+      <link>https://www.eurogamer.net/funcom-dune-awakening-layoffs-restructuring</link>
+      <description> Norwegian developer Funcom, creator of Dune: Awakening and Conan Exiles - and many other games - is entering a period of restructuring and bracing for layoffs as a result. You may remember the company making a similar move this time last year, month...</description>
+      <pubDate>Mon, 19 Oct 2026 10:47:29 +0000</pubDate>
+      <guid>https://www.eurogamer.net/funcom-dune-awakening-layoffs-restructuring</guid>
+    </item>
+    <item>
+      <title>[Eurogamer] Steam Next Fest 2026 has more than double the number of demos than last year, but how much of it is generative 'AI slop'?</title>
+      <link>https://www.eurogamer.net/steam-next-fest-2026-over-double</link>
+      <description> Steam Next Fest 2026 starts today, offering PC players a chance to get their hands on a staggering number of playable demos. With the full count coming to more than double last year's event, concerns about generative AI 'slop', plagiarism, and disco...</description>
+      <pubDate>Mon, 19 Oct 2026 10:43:26 +0000</pubDate>
+      <guid>https://www.eurogamer.net/steam-next-fest-2026-over-double</guid>
+    </item>
+    <item>
+      <title>[Eurogamer] Players on Steam so far seem delighted with Modern Warfare 4's campaign, making it one of the most well-received Call of Dutys in recent history</title>
+      <link>https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating</link>
+      <description> It may be hard to believe, given all the Call of Duty: Modern 4 pre-launch community drama and the beta's lower-than-expected numbers on PC, but the final game may have turned things around - so far, at least. Read more...</description>
+      <pubDate>Mon, 19 Oct 2026 08:36:43 +0000</pubDate>
+      <guid>https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating</guid>
     </item>
     <item>
       <title>[Eurogamer] Battlefield 6 devs to fix "Secuty" skin typo, but five-pistol outfit was intentional</title>
@@ -48,67 +76,39 @@
       <guid>https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond</guid>
     </item>
     <item>
-      <title>[Eurogamer] The PS6's memory and storage alone reportedly cost more than $680</title>
-      <link>https://www.eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2</link>
-      <description> The PS6's memory and storage reportedly cost more than $680 between them. Read more...</description>
-      <pubDate>Sun, 18 Oct 2026 17:10:29 +0000</pubDate>
-      <guid>https://www.eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2</guid>
+      <title>[Polygon] Final Fantasy 7 Revelation Director Makes Announces Big Changes to Hard Mode</title>
+      <link>https://www.polygon.com/final-fantasy-7-revelation-hard-difficulty-changes-dynamic-mode/</link>
+      <description>Final Fantasy 7 remake director Naoki Hamaguchi announces significant improvements to the game's Hard Mode....</description>
+      <pubDate>Mon, 19 Oct 2026 11:59:07 GMT</pubDate>
+      <guid>https://www.polygon.com/final-fantasy-7-revelation-hard-difficulty-changes-dynamic-mode/</guid>
     </item>
     <item>
-      <title>[Eurogamer] Samson dev Liquid Swords has reportedly gone bankrupt</title>
-      <link>https://www.eurogamer.net/liquid-swords-samson-developer-bankrupt</link>
-      <description> Swedish studio Liquid Swords, maker of action game Samson, has reportedly been put into bankruptcy. Read more...</description>
-      <pubDate>Sun, 18 Oct 2026 15:21:13 +0000</pubDate>
-      <guid>https://www.eurogamer.net/liquid-swords-samson-developer-bankrupt</guid>
+      <title>[Polygon] 5 Essential Horror Books You Need To Read At Least Once In Your Life</title>
+      <link>https://www.polygon.com/essential-horror-books-read-at-least-once/</link>
+      <description>There's something for every horror fan...</description>
+      <pubDate>Mon, 19 Oct 2026 11:00:18 GMT</pubDate>
+      <guid>https://www.polygon.com/essential-horror-books-read-at-least-once/</guid>
     </item>
     <item>
-      <title>[Eurogamer] God of War Laufey's £130 Collector Box doesn't come with the game</title>
-      <link>https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game</link>
-      <description> God of War Laufey's Collector Box will cost £129.99 and will not include the game. Read more...</description>
-      <pubDate>Sun, 18 Oct 2026 14:47:02 +0000</pubDate>
-      <guid>https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game</guid>
+      <title>[Polygon] The 7 Best Daily Pokémon Games, Ranked</title>
+      <link>https://www.polygon.com/pokemon-games-best-daily-ranked-browser/</link>
+      <description>The best Wordle-like Pokémon games that you can play in your browser every day....</description>
+      <pubDate>Mon, 19 Oct 2026 11:00:18 GMT</pubDate>
+      <guid>https://www.polygon.com/pokemon-games-best-daily-ranked-browser/</guid>
     </item>
     <item>
-      <title>[Eurogamer] Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake</title>
-      <link>https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour</link>
-      <description> A remaster of cult 2004 RPG Vampire: The Masquerade - Bloodlines may be in the works. Read more...</description>
-      <pubDate>Sat, 17 Oct 2026 18:28:40 +0000</pubDate>
-      <guid>https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour</guid>
+      <title>[Polygon] One of 2026's Best Horror Movies Is Officially Headed to Netflix Soon</title>
+      <link>https://www.polygon.com/obsession-netflix-streaming-release-date/</link>
+      <description>Curry Barker's box office horror hit, Obsession, is coming to Netflix this November....</description>
+      <pubDate>Mon, 19 Oct 2026 10:00:32 GMT</pubDate>
+      <guid>https://www.polygon.com/obsession-netflix-streaming-release-date/</guid>
     </item>
     <item>
-      <title>[Polygon] 31 Years Later, Calvin and Hobbes' Scariest Comic Is Still a Controversial Classic</title>
-      <link>https://www.polygon.com/calvin-hobbes-halloween/</link>
-      <description>This Calvin and Hobbes comic strip is a spine-shatteringly good time that has nothing to do with Halloween...</description>
-      <pubDate>Mon, 19 Oct 2026 03:00:18 GMT</pubDate>
-      <guid>https://www.polygon.com/calvin-hobbes-halloween/</guid>
-    </item>
-    <item>
-      <title>[Polygon] Pokémon Officially Returns to Galar in 2027 for New Release</title>
-      <link>https://www.polygon.com/pokemon-sirfetchd-pichu-animated-series-streaming-disney-plus-2027/</link>
-      <description>Pokémon Tales: The Misadventures of Sirfetch’d &amp; Pichu is coming to Disney Plus, as is the classic Pokémon anime, in a new streaming deal....</description>
-      <pubDate>Mon, 19 Oct 2026 02:51:19 GMT</pubDate>
-      <guid>https://www.polygon.com/pokemon-sirfetchd-pichu-animated-series-streaming-disney-plus-2027/</guid>
-    </item>
-    <item>
-      <title>[Polygon] 10 NES Games That Are Still Worth Playing From Start to Finish</title>
-      <link>https://www.polygon.com/best-nes-games/</link>
-      <description>From start to finish, these 10 NES games reward every second of the time you invest in them, even decades after the fact....</description>
-      <pubDate>Mon, 19 Oct 2026 02:34:47 GMT</pubDate>
-      <guid>https://www.polygon.com/best-nes-games/</guid>
-    </item>
-    <item>
-      <title>[Polygon] 9 Best DLCs That Were Even Better Than the Base Game</title>
-      <link>https://www.polygon.com/best-dlcs-video-games/</link>
-      <description>From Hell weddings to alien hive-minds, these nine DLCs took a hard swerve away from the games they built off....</description>
-      <pubDate>Mon, 19 Oct 2026 02:24:58 GMT</pubDate>
-      <guid>https://www.polygon.com/best-dlcs-video-games/</guid>
-    </item>
-    <item>
-      <title>[Polygon] 10 Near-Perfect PS4 Games Nobody Played</title>
-      <link>https://www.polygon.com/best-underrated-ps4-games/</link>
-      <description>The PlayStation 4 started strong and is still going, but there are 10 terrific games too many players overlooked along the way....</description>
-      <pubDate>Mon, 19 Oct 2026 02:01:27 GMT</pubDate>
-      <guid>https://www.polygon.com/best-underrated-ps4-games/</guid>
+      <title>[Polygon] 28 Years Ago, a Near-Perfect Zombie Thriller Resurrected a Beloved Franchise From the Dead</title>
+      <link>https://www.polygon.com/scooby-doo-zombie-thriller-halloween/</link>
+      <description>What makes a perfect zombie film is subjective, but this 1998 Warner Bros. classic may have settled that classic debate....</description>
+      <pubDate>Mon, 19 Oct 2026 10:00:18 GMT</pubDate>
+      <guid>https://www.polygon.com/scooby-doo-zombie-thriller-halloween/</guid>
     </item>
   </channel>
 </rss>
