@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "Stupid Never Dies Blends a Wacky Tone with Aggressive Gameplay to Create a Unique Pop-Punk Action Game",
+    "title": "Fortnite's Nikki Skin Sparks Debate Among Horror Fans, With Some Calling for a Boycott",
     "source": "IGN",
-    "summary": "",
-    "date": "Tue, 20 Oct 2026 14:00:00 +0000",
-    "link": "https://www.ign.com/articles/stupid-never-dies-blends-a-wacky-tone-with-aggressive-gameplay-to-create-a-unique-pop-punk-action-game",
+    "summary": "A vocal group of Fortnite players are calling for a boycott of Epic's battle royale game after a skin of Obsession’s Nikki Freeman, played by Inde Navarrette, sparked backlash among fans.",
+    "date": "Tue, 20 Oct 2026 18:36:32 +0000",
+    "link": "https://www.ign.com/articles/fortnites-nikki-skin-sparks-debate-among-horror-fans-with-some-calling-for-a-boycott",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.04,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
     },
     "tags": [
       "News",
@@ -19,54 +19,54 @@
   },
   {
     "id": 2,
-    "title": "Cyberpunk Edgerunners 2 Confirms a Popular Theory From the Game",
+    "title": "Christopher Nolan’s The Prestige 20th Anniversary Re-Release Includes 70mm and IMAX",
     "source": "IGN",
-    "summary": "In Netflix's Cyberpunk Edgerunners 2, a popular fan theory from Cyberpunk 2077 has been confirmed. Let’s talk about cyberpsychosis…",
-    "date": "Tue, 20 Oct 2026 13:51:34 +0000",
-    "link": "https://www.ign.com/articles/cyberpunk-edgerunners-2-confirms-a-popular-theory-from-the-game",
+    "summary": "To celebrate the film’s 20th anniversary, Disney will re-release Christopher Nolan’s The Prestige in theaters on January 29, 2027. The thriller will be released on 70mm and IMAX for the first time.",
+    "date": "Tue, 20 Oct 2026 18:28:24 +0000",
+    "link": "https://www.ign.com/articles/the-prestige-rerelease-70mm-imax-christopher-nolan",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
     },
     "tags": [
-      "Cyberpunk"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Former Call of Duty Dev Says 'It's Hard to Watch' Xbox Make Money From Black Ops PlayStation Ports",
+    "title": "Shrek 2 Remastered Reveal Trailer Parodies GTA 6, Sets November Release Date",
     "source": "IGN",
-    "summary": "A former Call of Duty designer has argued that developers should get royalties when older games are ported to new systems, saying it's \"hard to watch\" Xbox make money from the recently released and hugely successful Black Ops 1 and 2 ports on PlayStation.",
-    "date": "Tue, 20 Oct 2026 13:48:03 +0000",
-    "link": "https://www.ign.com/articles/former-black-ops-dev-wants-royalties",
+    "summary": "Shrek 2 Remastered is real, and its release date is less than a month away.",
+    "date": "Tue, 20 Oct 2026 18:24:07 +0000",
+    "link": "https://www.ign.com/articles/shrek-2-remastered-reveal-trailer-parodies-gta-6-sets-november-release-date",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.01,
+      "score": 0.02,
       "badge": "info"
     },
     "tags": [
-      "Xbox",
-      "PlayStation"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Free $5 Reward Certificate for Signing Up for the New Best Buy Gamers Program",
+    "title": "Arctic Eggs, Mouthwashing, and No, I'm Not a Human Are Coming to Xbox | IDXBOX",
     "source": "IGN",
-    "summary": "Signing up for Best Buy's new Gamers program gets you a free $5 reward certificate, but only while supplies last.",
-    "date": "Tue, 20 Oct 2026 13:24:10 +0000",
-    "link": "https://www.ign.com/articles/free-5-gift-card-new-best-buy-gamers-program",
+    "summary": "Three indie games that achieved viral status over the last three years are making their long-awaited debut on Xbox from publisher Critical Reflex.",
+    "date": "Tue, 20 Oct 2026 18:23:29 +0000",
+    "link": "https://www.ign.com/articles/arctic-eggs-mouthwashing-and-no-im-not-a-human-are-coming-to-xbox-idxbox",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.38,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
@@ -144,11 +144,184 @@
   },
   {
     "id": 9,
-    "title": "'GTA 6' at Risk as PS5 Hackers Officially Claim Major New Breakthrough",
+    "title": "Next-gen Xbox Could Cost Up to $1,800, New Report Says",
     "source": "Polygon",
-    "summary": "Fans are hoping Grand Theft Auto 6 will be playable on PC soon, but PS5 jailbreak hackers still face hurdles placed by Sony and Rockstar",
-    "date": "Tue, 20 Oct 2026 16:09:44 GMT",
-    "link": "https://www.polygon.com/ps5-jailbreak-gta-6-piracy-firmware-update-hypervisor-sony-rockstar/",
+    "summary": "Project Helix, the next-generation Xbox coming in 2028, costs between $1200 and $1800, according to a new report.",
+    "date": "Tue, 20 Oct 2026 21:00:04 GMT",
+    "link": "https://www.polygon.com/next-gen-xbox-project-helix-price-release-date-2028/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Fallout 4: FEVer Dreams Gets Official Surprise Release",
+    "source": "Polygon",
+    "summary": "The trippy new RPG adventure is presented by Bethesda, and a good way to pass the time before Fallout 5 or Obsidian Entertainment's projects release.",
+    "date": "Tue, 20 Oct 2026 19:16:02 GMT",
+    "link": "https://www.polygon.com/fallout-4-fever-dreams-what-is-bethesda-rpg-release/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.42,
+      "badge": "success"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "A New DC Green Lantern Has Officially Been Unveiled",
+    "source": "Polygon",
+    "summary": "DC Comics has announced Green Lantern: Doomed Cosmos, a new Elseworlds series where the Lanterns look a lot like Warhammer 40K space marines.",
+    "date": "Tue, 20 Oct 2026 19:03:36 GMT",
+    "link": "https://www.polygon.com/green-lantern-doomed-cosmos-elseworlds-series-announced-dc-comics/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "New Cheaper PS5 Officially Available for Pre-Order Now",
+    "source": "Polygon",
+    "summary": "Sony's new PlayStation 5 Digital Edition Midnight Black for Japan is now available for pre-order and costs much less than other PS5 models.",
+    "date": "Tue, 20 Oct 2026 18:31:44 GMT",
+    "link": "https://www.polygon.com/ps5-midnight-edition-preorders-open-now-japan/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "My favorite indie roguelike action RPG is tempting me to come back with a transformative new update inspired by Diablo seasons",
+    "source": "PC Gamer",
+    "summary": "Hell Clock's Journey of Miracles update changes the entire game like a new Diablo season, but it won't ever expire.",
+    "date": "Tue, 20 Oct 2026 20:59:12 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/my-favorite-indie-roguelike-action-rpg-is-tempting-me-to-come-back-with-a-transformative-new-update-inspired-by-diablo-seasons/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "The studio behind Life is Strange, Jusant, and Lost Records: Bloom & Rage is desperately struggling to stay afloat",
+    "source": "PC Gamer",
+    "summary": "Don't Nod has begun \"safeguard proceedings\" to protect itself from creditors and says up to 85 employees are at risk of being let go under its new restructuring plan.",
+    "date": "Tue, 20 Oct 2026 20:43:59 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/the-studio-behind-life-is-strange-jusant-and-lost-records-bloom-and-rage-is-desperately-struggling-to-stay-afloat/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.18,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "After talking to Capcom, I'm a lot more optimistic about Onimusha 3 getting a remaster",
+    "source": "PC Gamer",
+    "summary": "We need time-traveling Jean Reno on PC.",
+    "date": "Tue, 20 Oct 2026 20:34:43 +0000",
+    "link": "https://www.pcgamer.com/games/action/after-talking-to-capcom-im-a-lot-more-optimistic-about-onimusha-3-getting-a-remaster/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Founder of bankrupt Samson studio mulls how to use AI for his next attempt: 'Cutting corners in game development has a habit of coming back to bite you in the ass'",
+    "source": "PC Gamer",
+    "summary": "Christopher Sundberg said the goal for his next studio is to make \"a game we can afford to finish without needing every sales forecast to come true.\"",
+    "date": "Tue, 20 Oct 2026 18:43:15 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/founder-of-bankrupt-samson-studio-mulls-how-to-use-ai-for-his-next-attempt-cutting-corners-in-game-development-has-a-habit-of-coming-back-to-bite-you-in-the-ass/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "Next-Gen Xbox Could Be $1,800 And Launch In 2028 – Report",
+    "source": "GameSpot",
+    "summary": "A new report sheds more details on Microsoft's plans for new Xbox hardware, including a new handheld device and console, and one of the biggest takeaways is the alleged price. \nAccording to Fortune, the Project Helix console could cost between $1,200 and $1,800, unless Microsoft opts to subsidize th...",
+    "date": "Tue, 20 Oct 2026 19:29:33 +0000",
+    "link": "https://www.gamespot.com/articles/next-gen-xbox-could-be-1800-and-launch-in-2028-report/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Watch Out GTA 6, A Shrek 2 Remaster Was Just Announced",
+    "source": "GameSpot",
+    "summary": "A remaster of 2004's Shrek 2: The Game is on the way, according to an Xbox.com listing that was published too soon. Following the leak, Aspyr officially announced the Shrek 2 remaster, and it's releasing on November 10. That's just 9 days before GTA 6, so this November it's a battle of Shrek vs. GTA...",
+    "date": "Fri, 16 Oct 2026 18:21:13 +0000",
+    "link": "https://www.gamespot.com/articles/shrek-2-remaster-leaks-looks-amazing-and-i-need-it-now/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "Here Are The Mechanics and Dozens Of New Cards From Magic: The Gathering’s Star Trek Set",
+    "source": "GameSpot",
+    "summary": "After a year that featured alternate realities, ninja turtles, superheroes, and hobbits, the final Magic: The Gathering expansion of 2026 is going where no Universes Beyond set has gone before, as Star Trek is scheduled to launch in November. \nToday, Wizards of the Coast revealed the mechanics playe...",
+    "date": "Tue, 20 Oct 2026 18:00:00 +0000",
+    "link": "https://www.gamespot.com/articles/here-are-the-mechanics-and-dozens-of-new-cards-from-magic-the-gatherings-star-trek-set/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.23,
@@ -161,198 +334,22 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "Exclusive: Cyberpunk TCG Set 2 Art Reveal Officially Revisits a Major ‘Edgerunners’ Tragedy",
-    "source": "Polygon",
-    "summary": "Cyberpunk TCG’s Edgerunners: Burn Bright arrives in spring 2027. Our exclusive art reveal features a heartbreaking scene from the anime and more.",
-    "date": "Tue, 20 Oct 2026 16:00:17 GMT",
-    "link": "https://www.polygon.com/cyberpunk-tcg-edgerunners-burn-bright-set-2-exclusive-art-reveal/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.42,
-      "badge": "success"
-    },
-    "tags": [
-      "Cyberpunk"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Exclusive: 2 Critical Role Heroes Team Up in The Mighty Nein’s Groundbreaking New Sequel",
-    "source": "Polygon",
-    "summary": "Set between Campaigns 2 and 3, a new Mighty Nein sequel is on the horizon, one that may even bring wedding bells.",
-    "date": "Tue, 20 Oct 2026 16:00:17 GMT",
-    "link": "https://www.polygon.com/critical-role-the-mighty-nein-children-of-the-empire-excerpt/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.21,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "This Year’s Most Underrated Fantasy Film Officially Lands on Digital Early",
-    "source": "Polygon",
-    "summary": "Forgotten Island is a delightful animated fantasy film about friendship, and one of the best movies of 2026. It will be released digitally next week.",
-    "date": "Tue, 20 Oct 2026 15:43:48 GMT",
-    "link": "https://www.polygon.com/forgotten-island-digital-release-date/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.43,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Asus ProArt P16 (H7607) RTX Spark laptop review",
-    "source": "PC Gamer",
-    "summary": "The best RTX Spark machine, but is it the best for you? Probably not…",
-    "date": "Tue, 20 Oct 2026 16:08:45 +0000",
-    "link": "https://www.pcgamer.com/hardware/gaming-laptops/asus-proart-p16-rtx-spark-review/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 1.0,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "DLSS Swapper now lets you update all your upscalers in multiple games at once, adds Nvidia's new Frame Generation Preset C",
-    "source": "PC Gamer",
-    "summary": "Everything, everywhere, all at once.",
-    "date": "Tue, 20 Oct 2026 16:01:15 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/dlss-swapper-now-lets-you-update-all-your-upscalers-in-multiple-games-at-once-adds-nvidias-new-frame-generation-preset-c/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "DLSS",
-      "Nvidia"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "I have neither the budget nor the inclination for a crystal encrusted RTX 5090, but Galax is releasing one anyway",
-    "source": "PC Gamer",
-    "summary": "These stones ain't no friends of mine.",
-    "date": "Tue, 20 Oct 2026 15:25:03 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/i-have-neither-the-budget-nor-the-inclination-for-a-crystal-encrusted-rtx-5090-but-galax-is-releasing-one-anyway/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Of course a new Edgerunners series means a new Cyberpunk 2077 patch",
-    "source": "PC Gamer",
-    "summary": "Together at last?",
-    "date": "Tue, 20 Oct 2026 14:46:51 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/of-course-a-new-edgerunners-series-means-a-new-cyberpunk-2077-patch/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "Cyberpunk",
-      "Patch"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "Netflix’s Push Into Gaming Continues To Fall Short",
-    "source": "GameSpot",
-    "summary": "Netflix has undertaken efforts over the years to increase its footprint in the world of video games, but it's been a bumpy road, and new data suggests that the company is falling short of its targets.\nAccording to a Netflix memo seen by The Wall Street Journal, only 3.5% of Netflix's subscribers pla...",
-    "date": "Tue, 20 Oct 2026 15:25:48 +0000",
-    "link": "https://www.gamespot.com/articles/netflixs-push-into-gaming-continues-to-fall-short/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "GTA 5 And Red Dead Redemption 2 Are Leaving PS Plus, But You Still Have Time",
-    "source": "GameSpot",
-    "summary": "While a whole bunch of new games are being added to the PlayStation Plus Game Catalog this month, it looks like Sony is making room for them by removing several titles over the next few weeks. We don’t know exactly when they will be gone, but you can expect 11 games to be removed over the next coupl...",
-    "date": "Tue, 20 Oct 2026 15:15:30 +0000",
-    "link": "https://www.gamespot.com/articles/gta-5-and-red-dead-redemption-2-are-leaving-ps-plus-but-you-still-have-time/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "Justice Is Keeping The GTA 6 Hype At Arm’s Length While Making Its Soundtrack",
-    "source": "GameSpot",
-    "summary": "Grand Theft Auto 6 doesn't just look visually impressive; it also has a killer sound thanks to French electronic music duo Justice. Composing the soundtrack for any game is no easy feat, but with GTA 6 generating an unprecedented amount of hype, the team of Gaspard Augé and Xavier de Rosnay are well...",
-    "date": "Tue, 20 Oct 2026 14:19:30 +0000",
-    "link": "https://www.gamespot.com/articles/justice-is-keeping-the-gta-6-hype-at-arms-length-while-making-its-soundtrack/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.26,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 20,
-    "title": "Fortnite’s Obsession DLC Leaks, Includes A Twist On The Movie’s Iconic Line",
+    "title": "Xbox Series X|S Is Getting A Surprise Graphics Boost From AMD",
     "source": "GameSpot",
-    "summary": "Fortnite's spooky season content is rolling out, and that includes the character Nikki from one of 2026's biggest movies, Obsession. \nInde Navarrette's character from the Curry Barker movie is coming to Fortnite on October 21. As expected, Nikki's \"No, no, no!\" line from the movie is coming to Fortn...",
-    "date": "Tue, 20 Oct 2026 14:14:42 +0000",
-    "link": "https://www.gamespot.com/articles/fortnites-obsession-dlc-leaks-includes-a-twist-on-the-movies-iconic-line/",
+    "summary": "Sony isn't the only company introducing new upscaling technology to its flagship PlayStation 5, as Microsoft and AMD have announced that FSR 4.1 is coming to more devices--including Xbox Series X|S consoles--in the future. \nSimilar to Sony's hardware-accelerated upscaling solutions for PS5 and PS5 P...",
+    "date": "Tue, 20 Oct 2026 17:51:08 +0000",
+    "link": "https://www.gamespot.com/articles/xbox-series-xs-is-getting-a-surprise-graphics-boost-from-amd/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.19,
+      "score": 0.13,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "AMD",
+      "Graphics",
+      "PlayStation",
+      "Xbox"
     ],
     "read_time": "1 min read"
   }
