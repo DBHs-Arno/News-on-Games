@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "Abbott & Costello Join Forces With Kolchak the Night Stalker in Horror Crossover Special",
+    "title": "Call of Duty: Modern Warfare 4 Pop-Up: The DMZ Has Never Been This Much Fun",
     "source": "IGN",
-    "summary": "Comedy icons Abbott & Costello are returning to comics for the first time in half a century, and they're joining forces with none other than Kolchak the Night Stalker.",
-    "date": "Mon, 19 Oct 2026 16:00:00 +0000",
-    "link": "https://www.ign.com/articles/abbott-costello-join-forces-with-kolchak-the-night-stalker-in-horror-crossover-special",
+    "summary": "Call of Duty: Modern Warfare 4 Pop-Up: The DMZ Has Never Been This Much Fun",
+    "date": "Tue, 20 Oct 2026 01:24:23 +0000",
+    "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-pop-up-the-dmz-has-never-been-this-much-fun",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -19,31 +19,32 @@
   },
   {
     "id": 2,
-    "title": "PlayStation Shadowdrops Saros Zenith Update With Boss Rush, New Game+ and Fancy Golden Crown Powerups",
+    "title": "Save $150 Off the 2026 MacBook Air With New Apple M5 Chip Ahead of Black Friday",
     "source": "IGN",
-    "summary": "A new update for Saros dropped today, adding some new features to the hectic Housemarque shooter.",
-    "date": "Mon, 19 Oct 2026 15:57:20 +0000",
-    "link": "https://www.ign.com/articles/saros-zenith-update-boss-rush-new-game-plus",
+    "summary": "The best MacBook for most people.",
+    "date": "Mon, 19 Oct 2026 23:30:00 +0000",
+    "link": "https://www.ign.com/articles/2026-apple-macbook-air-laptop-deal-october-2026",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.37,
+      "badge": "success"
     },
     "tags": [
-      "PlayStation"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Don't Miss Out on Amazon's Fall Audible Deal: Pay $0.99 Per Month Plus Get $20 Credit",
+    "title": "Clayface Stars Praise Batman: The Animated Series and Ron Perlman's 'Amazing' Performance as the DC Villain",
     "source": "IGN",
-    "summary": "Both Amazon Prime and non-Prime members, new subscribers and (most) previous subscribers are eligible.",
-    "date": "Mon, 19 Oct 2026 15:55:00 +0000",
-    "link": "https://www.ign.com/articles/amazon-audible-deal-october-2026",
+    "summary": "Clayface stars Tom Rhys Harries and Naomi Ackie were big fans of Batman: The Animated Series growing up in the UK, recalling how they would rush home to watch it after school.",
+    "date": "Mon, 19 Oct 2026 23:10:53 +0000",
+    "link": "https://www.ign.com/articles/clayface-cast-batman-animated-series-fandom",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.16,
+      "score": 0.3,
       "badge": "success"
     },
     "tags": [
@@ -54,26 +55,45 @@
   },
   {
     "id": 4,
-    "title": "PlayStation 6 RAM and Storage Alone May Cost $680, According to Leaker",
+    "title": "The Legend of Zelda Encyclopedia Is on Sale at Amazon Today",
     "source": "IGN",
-    "summary": "The PlayStation 6 hasn't even been announced yet, but little rumors pop up now and then that add speculation on what to expect from Sony's next-gen console. The latest is a shocking claim that the RAM and storage configuration of the console will cost more than the entirety of the PS5.",
-    "date": "Mon, 19 Oct 2026 15:51:58 +0000",
-    "link": "https://www.ign.com/articles/playstation-6-ram-and-storage-alone-may-cost-680-according-to-leaker",
+    "summary": "",
+    "date": "Mon, 19 Oct 2026 23:01:00 +0000",
+    "link": "https://www.ign.com/articles/the-legend-of-zelda-encyclopedia-book-sale-amazon-october-2026",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.05,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "PlayStation"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "Moonlighter dev delays Steam playtest for its \"Tower Defensevania\" ReVamp over concerns that AI copycats might clone it before launch",
+    "source": "Eurogamer",
+    "summary": "Digital Sun - the indie studio behind moreish roguelike Moonlighter and moody RTS Cataclismo - has delayed a planned Steam playtest for its next game, ReVamp, citing concerns over \"games being reverse-engineered, cloned and published before the original is even out.\" Read more...",
+    "date": "Mon, 19 Oct 2026 19:54:06 +0000",
+    "link": "https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "AI",
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
     "title": "Final Fantasy 7 Revelation's Hard Mode is available from the start this time, so you won't need to replay the mammoth RPG to get to the good stuff",
     "source": "Eurogamer",
-    "summary": "Final Fantasy 7 Revelation will let players access Hard Mode from the very beginning of the journey, unlike FF7 Remake and Rebirth, which made folks complete the mammoth adventures before unlocking the tougher difficulty option. Read more...",
+    "summary": "Final Fantasy 7 Revelation will let players access Hard Mode from the very beginning of the journey, unlike FF7 Remake and Rebirth, which made folks roll credits before unlocking the tougher difficulty option. Read more...",
     "date": "Mon, 19 Oct 2026 18:27:17 +0000",
     "link": "https://www.eurogamer.net/final-fantasy-7-revelation-hard-mode-start-replay-rpg",
     "sentiment": {
@@ -88,7 +108,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Arc Raiders player numbers hit a six-month high following the release of the extraction shooter's huge Frozen Trails update",
     "source": "Eurogamer",
     "summary": "Arc Raiders is still going strong almost a year after finding viral success, and it's all thanks to Embark Studios' one-two-punch strategy of launching a huge new update, Frozen Trails, to coincide with a free weekend. Read more...",
@@ -106,7 +126,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "PlayStation founder Ken Kutaragi says discs became \"metaphor for 'owning' games\", and that upset at their discontinuation is a \"mentality issue\"",
     "source": "Eurogamer",
     "summary": "Ken Kutaragi, the founder of PlayStation and architect of the first three PlayStation consoles, has said that people being upset about Sony's discontinuation of game discs is probably a \"mentality issue\". He understands it, he noted, but that doesn't make it \"economically reasonable\" for Sony to kee...",
@@ -123,33 +143,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "Japanese acting union fights back against AI-generated voice use, proposing strict new guidelines, especially regarding the use of a deceased actor's voice",
-    "source": "Eurogamer",
-    "summary": "The Japan Actors Union has issued  new rules, guidelines, and restrictions related to AI-generated voice use. This includes an outright ban on the replication of the voices of dead actors, unless the actor had authorised its use during their lifetime. Read more...",
-    "date": "Mon, 19 Oct 2026 15:12:17 +0000",
-    "link": "https://www.eurogamer.net/japanese-voice-acting-union-generative-ai",
+    "id": 9,
+    "title": "3 Video Games Where Your Choices Actually Make a Difference",
+    "source": "Polygon",
+    "summary": "Games where choices matter often narrow what matters to character death or branching endings. These narrative-driven games do it differently",
+    "date": "Tue, 20 Oct 2026 00:34:42 GMT",
+    "link": "https://www.polygon.com/best-games-choices-impact/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.06,
+      "score": -0.07,
       "badge": "info"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "DC Studios Reveals First Details on New TV Series",
-    "source": "Polygon",
-    "summary": "DC Studios' 'Mister Miracle' show just got a new teaser image alongside confirmation of the show's cast.",
-    "date": "Mon, 19 Oct 2026 18:39:55 GMT",
-    "link": "https://www.polygon.com/mister-miracle-first-details-confirmed/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
     },
     "tags": [
       "News",
@@ -159,31 +162,14 @@
   },
   {
     "id": 10,
-    "title": "The 10 Best Steam Next Fest Demos to Play Right Now",
+    "title": "'Red Dead Redemption' 2 Mod Is 'Shadow of Mordor' Meets the Wild West",
     "source": "Polygon",
-    "summary": "Steam Next Fest is back again, and it features tons of free demos for some promising upcoming games.",
-    "date": "Mon, 19 Oct 2026 18:00:56 GMT",
-    "link": "https://www.polygon.com/steam-next-fest-demos-best-october-2026/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.27,
-      "badge": "success"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Sounds Like GTA 6 Will Be Full of Details Like Red Dead's Infamous Horse Balls",
-    "source": "Polygon",
-    "summary": "After a decade of silence, Rockstar finally acknowledges a controversial RDR2 feature that could reappear in GTA 6 with some major upgrades",
-    "date": "Mon, 19 Oct 2026 17:54:41 GMT",
-    "link": "https://www.polygon.com/gta-6-rdr2-horse-balls-confirmed-rockstar/",
+    "summary": "The enRAGE mod brings a Nemesis system to Red Dead Redemption 2, adding personal grudges, rival factions and evolving gang wars.",
+    "date": "Mon, 19 Oct 2026 23:12:52 GMT",
+    "link": "https://www.polygon.com/red-dead-redemption-2-nemesis-system-mod-shadow-of-mordor/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.04,
+      "score": 0.01,
       "badge": "info"
     },
     "tags": [
@@ -193,16 +179,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "How to make goo in Enshrouded",
+    "id": 11,
+    "title": "8 Classic PlayStation Adventure Games that are Barely Playable Today",
     "source": "Polygon",
-    "summary": "Here's how to unlock the goo crafting recipe in Enshrouded.",
-    "date": "Mon, 19 Oct 2026 17:50:54 GMT",
-    "link": "https://www.polygon.com/enshrouded-goo-crafting-recipe-how-to-make/",
+    "summary": "From Tomb Raider to Silent Hill, eight classic PlayStation games whose tank controls, cameras, or lost code make them hard to play today",
+    "date": "Mon, 19 Oct 2026 23:01:17 GMT",
+    "link": "https://www.polygon.com/classic-playstation-adventure-games-unplayable-today/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.02,
       "badge": "info"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Modern Warfare 4 Is Legitimately a Top-5 Call of Duty Campaign",
+    "source": "Polygon",
+    "summary": "The Modern Warfare 4 campaign is one of the series' best, taking place during a Korean conflict while also following Captain Price on the run.",
+    "date": "Mon, 19 Oct 2026 22:15:56 GMT",
+    "link": "https://www.polygon.com/mw4-modern-warfare-4-call-duty-campaign-review/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.35,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -212,33 +215,32 @@
   },
   {
     "id": 13,
-    "title": "I have added completely realistic Uber driving to Grand Theft Auto 5",
+    "title": "Moonlighter studio won't host a public playtest of its next game due to rampant AI-led cloning: 'We know we're not the only developers feeling this way'",
     "source": "PC Gamer",
-    "summary": "Your driver is nearby.",
-    "date": "Mon, 19 Oct 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-have-added-completely-realistic-uber-driving-to-grand-theft-auto-5/",
+    "summary": "ReVamp will get a limited Discord playtest.",
+    "date": "Mon, 19 Oct 2026 23:33:09 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.33,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "You can make this DIY controller in six hours and for less than 12 bucks—but would you want to?",
+    "title": "Star Wars Zero Company adds new difficulty options that can bring it closer to XCOM",
     "source": "PC Gamer",
-    "summary": "I think I'll stick with my GameSir Nova Lite.",
-    "date": "Mon, 19 Oct 2026 16:15:13 +0000",
-    "link": "https://www.pcgamer.com/hardware/controllers/you-can-make-this-diy-controller-in-six-hours-and-for-less-than-12-bucks-but-would-you-want-to/",
+    "summary": "Turning up the heat a little.",
+    "date": "Mon, 19 Oct 2026 21:47:17 +0000",
+    "link": "https://www.pcgamer.com/games/strategy/star-wars-zero-company-adds-new-difficulty-options-that-can-bring-it-closer-to-xcom/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.17,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -248,14 +250,14 @@
   },
   {
     "id": 15,
-    "title": "GameSir Nova Lite 2 review",
+    "title": "Lucasfilm wants to do more Star Wars games like Zero Company and Galactic Racer: 'We’ve tried to be more flexible about who we’re willing to take pitches from'",
     "source": "PC Gamer",
-    "summary": "The best deal in controllers at $30 or less right now.",
-    "date": "Mon, 19 Oct 2026 15:01:40 +0000",
-    "link": "https://www.pcgamer.com/hardware/controllers/gamesir-nova-lite-2-review/",
+    "summary": "Not every Star Wars game has to be a big-budget blockbuster to be successful.",
+    "date": "Mon, 19 Oct 2026 21:46:23 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/lucasfilm-wants-to-do-more-star-wars-games-like-zero-company-and-galactic-racer-weve-tried-to-be-more-flexible-about-who-were-willing-to-take-pitches-from/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.37,
+      "score": 0.3,
       "badge": "success"
     },
     "tags": [
@@ -266,23 +268,60 @@
   },
   {
     "id": 16,
-    "title": "Two entire pallets of RTX 5090s have 'gone missing' from a Brazilian airport—$495,000 worth of unobtanium graphics cards now presumably at large",
+    "title": "Xbox biz guy deletes his X account less than 24 hours after saying game devs who don't embrace AI 'should not be in the business of being a business'",
     "source": "PC Gamer",
-    "summary": "Own up, which one of you was it?",
-    "date": "Mon, 19 Oct 2026 15:00:43 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/two-entire-pallets-of-rtx-5090s-have-gone-missing-from-a-brazilian-airport-usd495-000-worth-of-unobtanium-graphics-cards-now-presumably-at-large/",
+    "summary": "Business strategy manager Brandon Stirrup said he was \"happy to take the hit\" for his stance on AI, then left social media.",
+    "date": "Mon, 19 Oct 2026 20:44:12 +0000",
+    "link": "https://www.pcgamer.com/software/ai/xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after-saying-game-devs-who-dont-embrace-ai-should-not-be-in-the-business-of-being-a-business/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.18,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
     },
     "tags": [
-      "Graphics"
+      "AI",
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
+    "title": "WoW: Forever Is Soaring, But Midnight Is Struggling",
+    "source": "GameSpot",
+    "summary": "World of Warcraft: Forever is riding high thanks to its popular beta and upcoming launch, but retail WoW's Midnight expansion feels like it's in a state of crisis by comparison.\nThe two different versions of WoW couldn't be in more different places. Forever seems to be extremely popular, with Blizza...",
+    "date": "Mon, 19 Oct 2026 19:21:39 +0000",
+    "link": "https://www.gamespot.com/articles/wow-forever-is-soaring-but-midnight-is-struggling/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.24,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "You Don’t Need An Expensive Console Or High-End PC To Play Call Of Duty: Modern Warfare 4",
+    "source": "GameSpot",
+    "summary": "Call of Duty: Modern Warfare 4 releases this week, and with gaming consoles and capable PC rigs now more expensive than ever, you might be wondering if there is another way to play. \nThankfully, there is, but there are a few things you need to know before jumping in.\nHow to play MW4 without a consol...",
+    "date": "Mon, 19 Oct 2026 19:11:06 +0000",
+    "link": "https://www.gamespot.com/articles/you-dont-need-an-expensive-console-or-high-end-pc-to-play-call-of-duty-modern-warfare-4/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
     "title": "This LA Noire Spinoff Idea Sounds Incredible",
     "source": "GameSpot",
     "summary": "British actor Rahul Kohli (Saros, Midnight Mass) has a pitch for a new L.A. Noire game, and it sounds pretty great. Speaking to BAFTA Games, Kohli said he would like to see the franchise return with a spinoff that takes players through different time periods, as a cop, as they investigate different ...",
@@ -300,7 +339,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 18,
+    "id": 20,
     "title": "Mr. Beast’s Call Of Duty: MW4 DMZ Video Pays $1 Million To The Winner, Watch It Here",
     "source": "GameSpot",
     "summary": "YouTube star Mr. Beast, who has more than 500 million subscribers on that platform alone, has published a Call of Duty video today, October 19, to mark the release of Modern Warfare 4. He teased the video online, saying it's going to be \"one of the biggest COD videos of all time.\" \nHe also pointed o...",
@@ -310,42 +349,6 @@
       "label": "Positive / Hype",
       "score": 0.35,
       "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "Saros Gets Boss Rush And Tons Of Difficulty Options With Zenith Update",
-    "source": "GameSpot",
-    "summary": "Saros is a phenomenal sci-fi shooter, and it currently stands as my favorite game of 2026. If you've been waiting for the right time to play it--or to play it again--then developer Housemarque has some good news. The new Zenith update is now available for free, adding a boss rush and difficulty opti...",
-    "date": "Mon, 19 Oct 2026 16:19:09 +0000",
-    "link": "https://www.gamespot.com/articles/saros-gets-boss-rush-and-tons-of-difficulty-options-with-zenith-update/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.28,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "Star Wars: Galactic Racer’s Biddy Blas Is Voiced By A Sinister Circus Ringmaster Pro Wrestler, And This Makes Sense",
-    "source": "GameSpot",
-    "summary": "Star Wars has had no shortage of breakout alien stars over the decades--from Chewbacca in the original trilogy to Grogu from The Mandalorian--but in Star Wars: Galactic Racer, that honor belongs to Biddy Blas. Who is Biddy Blas? A hotshot racer in the game, with an ego the size of a Death Star and a...",
-    "date": "Mon, 19 Oct 2026 16:18:07 +0000",
-    "link": "https://www.gamespot.com/articles/star-wars-galactic-racers-biddy-blas-is-voiced-by-a-sinister-circus-ringmaster-pro-wrestler-and-this-makes-sense/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.19,
-      "badge": "danger"
     },
     "tags": [
       "News",
