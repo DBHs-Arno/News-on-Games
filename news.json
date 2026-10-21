@@ -1,48 +1,50 @@
 [
   {
     "id": 1,
-    "title": "Fans React to Shrek 2 Remastered's Surprising PC Requirements",
+    "title": "Save 50% Off a Rechargeable LED Light Up Mask With 50 Different Effects for Halloween, Now Under $15",
     "source": "IGN",
-    "summary": "Shrek 2 isn’t exactly pushing the bounds of PC graphics, but the recommended specs for the remaster are surprisingly hefty.",
-    "date": "Wed, 21 Oct 2026 09:53:34 +0000",
-    "link": "https://www.ign.com/articles/shrek-2-remastered-surprising-pc-requirements",
+    "summary": "Powered by over 200 high‑brightness RGB LEDs.",
+    "date": "Wed, 21 Oct 2026 19:45:00 +0000",
+    "link": "https://www.ign.com/articles/led-mask-halloween-deal-october-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.55,
+      "score": 0.2,
       "badge": "success"
     },
     "tags": [
-      "Graphics"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Sony Issues New PS5 Firmware Update as Jailbreak Race Heats Up Ahead of GTA 6 Release",
+    "title": "You Can Save $11 Off GTA 6 Preorders, Today Only",
     "source": "IGN",
-    "summary": "Sony has issued a new PlayStation 5 firmware update amid the homebrew community's ongoing effort to jailbreak the console.",
-    "date": "Wed, 21 Oct 2026 09:36:28 +0000",
-    "link": "https://www.ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release",
+    "summary": "Follow three simple steps, and you can save $11 off Grand Theft Auto 6, today only.",
+    "date": "Wed, 21 Oct 2026 19:40:49 +0000",
+    "link": "https://www.ign.com/articles/you-can-save-11-off-gta-6-preorders-today-only",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.14,
+      "score": 0.12,
       "badge": "success"
     },
     "tags": [
-      "PlayStation"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Marvel's VisionQuest Episodes 3 and 4 Review: 'Reboot' and 'Malware'",
+    "title": "Clair Obscur: Expedition 33 on PS5 Drops to New All-Time Low Price at Amazon With a Coupon",
     "source": "IGN",
-    "summary": "VisionQuest improves in Episodes 3 and 4, as Paul Bettany's White Vision begins to make strides in recapturing his missing humanity.",
-    "date": "Wed, 21 Oct 2026 01:00:00 +0000",
-    "link": "https://www.ign.com/articles/marvels-visionquest-episodes-3-and-4-review-recap-reboot-malware",
+    "summary": "Amazon has knocked Clair Obscur: Expedition 33 on PS5 down to a new all-time low price, but it's only available through a coupon. After clipping it on the store page, you can buy it for $34.65 rather than $49.99.",
+    "date": "Wed, 21 Oct 2026 19:40:00 +0000",
+    "link": "https://www.ign.com/articles/clair-obscur-expedition-33-on-ps5-drops-to-new-all-time-low-price-at-amazon-with-a-coupon",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.1,
+      "score": 0.07,
       "badge": "info"
     },
     "tags": [
@@ -53,15 +55,15 @@
   },
   {
     "id": 4,
-    "title": "Cooking Up Magick Book Review",
+    "title": "Sauron Wears the One Ring and Battles the Balrog in New Rings of Power Season 3 Trailer",
     "source": "IGN",
-    "summary": "",
-    "date": "Wed, 21 Oct 2026 00:01:59 +0000",
-    "link": "https://www.ign.com/articles/cooking-up-magick-book-review",
+    "summary": "Prime Video has released a new trailer for the upcoming third season of The Lord of the Rings: The Rings of Power that revealed more of the war to stop Sauron from forging the One Ring.",
+    "date": "Wed, 21 Oct 2026 19:25:00 +0000",
+    "link": "https://www.ign.com/articles/sauron-wears-the-one-ring-and-battles-the-balrog-in-new-rings-of-power-season-3-trailer",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.19,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -71,6 +73,60 @@
   },
   {
     "id": 5,
+    "title": "EA cancels unannounced The Sims project, trims the Skate team and reportedly plans to lay off 400 workers: \"We're the number one publisher in Western HD gaming\"",
+    "source": "Eurogamer",
+    "summary": "Not only is EA closing down BioWare and cancelling the next Mass Effect - Electronic Arts has now announced a heap of drastic changes that include cutting 400 jobs across the company, pausing development on a project connected to The Sims, and bringing together Respawn and DICE. Read more...",
+    "date": "Wed, 21 Oct 2026 19:01:46 +0000",
+    "link": "https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.04,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "BioWare is closing down and Mass Effect 5 is cancelled, months after Saudi Arabia's $55bn EA buyout",
+    "source": "Eurogamer",
+    "summary": "After over three decades of iconic RPGs, developer BioWare is closing down and its in-development Mass Effect game is no more. The move comes just months after corporate owner EA was bought out by a group of investment firms for $55 billion. Read more...",
+    "date": "Wed, 21 Oct 2026 17:55:57 +0000",
+    "link": "https://www.eurogamer.net/bioware-closing-down-mass-effect-5-cancelled",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "First-person Soulslike Valor Mortis is already making a profit after seven days, despite launching against some stiff competition",
+    "source": "Eurogamer",
+    "summary": "Developer One More Level is wall-running toward another big success with its recently-released first-person Soulslike, Valor Mortis, which has already broken even after its first week. Read more...",
+    "date": "Wed, 21 Oct 2026 16:43:42 +0000",
+    "link": "https://www.eurogamer.net/soulslike-valor-mortis-making-profit-seven-days",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.13,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
     "title": "CD Projekt Red details new Cyberpunk 2077 update - adding dual-wielding, cross-platform mods, Edgerunners story quests, and more",
     "source": "Eurogamer",
     "summary": "CD Projekt Red has detailed the substantial update coming to Cyberpunk 2077, revealing a new dual-wielding skill for pistols and revolvers, cyberware customisation, cross-platform mod support, and a brand-new Edgerunners-related story quest featuring voice actors from the Netflix anime show. Read mo...",
@@ -87,141 +143,12 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "Beyond Good & Evil 2 reportedly still in development 18 years after being announced, now a \"solo-first\" adventure",
-    "source": "Eurogamer",
-    "summary": "Beyond Good & Evil 2 is reportedly still in pre-production a staggering 18 years after it was first announced, and it has apparently evolved from being a multiplayer-first project to being \"solo-first\" and story based, with additional, optional co-op. Read more...",
-    "date": "Wed, 21 Oct 2026 16:01:00 +0000",
-    "link": "https://www.eurogamer.net/beyond-good-and-evil-bge2-report-ubisoft",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "World of Warcraft: Forever's beta has been extended, as community members mourn the loss of their hunter pets",
-    "source": "Eurogamer",
-    "summary": "World of Warcraft: Forever's beta has been extended until this Friday, much to the joy of the community of early players. Read more...",
-    "date": "Wed, 21 Oct 2026 15:46:24 +0000",
-    "link": "https://www.eurogamer.net/world-of-warcraft-forever-beta-extended",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Xbox follows in PlayStation's footsteps, introducing AMD FSR 4.1, targeting better graphics and performance on Series X/S",
-    "source": "Eurogamer",
-    "summary": "AMD, the company that designs the chips inside Xbox and PlayStation consoles, made a big announcement this week: it's bringing the latest version of its advanced, AI-driven image upscaling technology, FSR 4.1, to Xbox Series X, Series S, and handhelds ROG Ally and Ally X. Read more...",
-    "date": "Wed, 21 Oct 2026 14:13:43 +0000",
-    "link": "https://www.eurogamer.net/xbox-series-x-s-amd-fsr-4-1-upscaling",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.38,
-      "badge": "success"
-    },
-    "tags": [
-      "AMD",
-      "Graphics",
-      "PlayStation",
-      "Xbox",
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 9,
-    "title": "New 'Pokémon' Release Reinvents The Series' Most Hated Monster Type",
+    "title": "Demon Slayer: Infinity Castle 2 Rumored Release Date Discovered",
     "source": "Polygon",
-    "summary": "Despite beloved monsters like Butterfree and Heracross, Game Freak has struggled with this Pokémon type for 30 years now",
-    "date": "Wed, 21 Oct 2026 16:24:37 GMT",
-    "link": "https://www.polygon.com/pokemon-game-release-buglime-what-is-rom-hack-type/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "How to play DMZ solo in Modern Warfare 4",
-    "source": "Polygon",
-    "summary": "A guide explaining how to play Modern Warfare 4's DMZ mode solo, rather than teaming up with random players.",
-    "date": "Wed, 21 Oct 2026 16:07:22 GMT",
-    "link": "https://www.polygon.com/mw4-modern-warfare-4-dmz-solo-how-to-play/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Game Pass Is Losing a Legendary Point-and-Click Masterpiece This Halloween",
-    "source": "Polygon",
-    "summary": "Day of the Tentacle Remastered is Double Fine's reworked version of a '90s LucasArts classic",
-    "date": "Wed, 21 Oct 2026 16:01:16 GMT",
-    "link": "https://www.polygon.com/day-of-the-tentacle-leaving-xbox-game-pass/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.24,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Expedition 33's Fan-favorite Costumes Are Unofficially Invading a Different Game",
-    "source": "Polygon",
-    "summary": "Rayman Legends Retold is getting its own baguette costumes that wink and nod to 2025 GOTY Clair Obscur: Expedition 33.",
-    "date": "Wed, 21 Oct 2026 16:01:16 GMT",
-    "link": "https://www.polygon.com/rayman-legends-retold-baguette-outfits-clair-obscur-expedition-33/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "GOG taken offline for maintenance in wake of PHP security emergency",
-    "source": "PC Gamer",
-    "summary": "GOG and GOG Galaxy were taken offline following news of critical web vulnerabilities.",
-    "date": "Wed, 21 Oct 2026 16:20:08 +0000",
-    "link": "https://www.pcgamer.com/software/security/gog-taken-offline-for-maintenance-in-wake-of-php-security-emergency/",
+    "summary": "Demon Slayer: Kimetsu No Yaiba: Infinity Castle 2's 2027 release date may have been exposed by anime fans after leak.",
+    "date": "Wed, 21 Oct 2026 21:08:13 GMT",
+    "link": "https://www.polygon.com/demon-slayer-infinity-castle-2-movie-release-date-2027/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -234,15 +161,86 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
-    "title": "US government leaks the best GTA 6 promo yet: Pißwasser is real",
-    "source": "PC Gamer",
-    "summary": "Rockstar appears to be teaming up with a Florida brewery to bring two of GTA's most famous beer brands to life.",
-    "date": "Wed, 21 Oct 2026 16:12:33 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/us-government-leaks-the-best-gta-6-promo-yet-pisswasser-is-real/",
+    "id": 10,
+    "title": "HBO Poison Ivy Show Reportedly Coming From 'The Penguin' Producer",
+    "source": "Polygon",
+    "summary": "A Poison Ivy TV series is reportedly in the works from The Penguin's showrunner. It would be separate from Matt Reeves' The Batman continuity.",
+    "date": "Wed, 21 Oct 2026 20:45:10 GMT",
+    "link": "https://www.polygon.com/hbo-dc-poison-ivy-tv-series-penguin-batman-dcu/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "Major Skyrim Update Officially Comes to 'Elder Scrolls Online'",
+    "source": "Polygon",
+    "summary": "The Elder Scrolls Online launches Echoes of Skyrim, a new season with free DLC, solo dungeons and rewards for players across all platforms.",
+    "date": "Wed, 21 Oct 2026 20:10:26 GMT",
+    "link": "https://www.polygon.com/elder-scrolls-online-skyrim-update-free-dlc/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.55,
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "8 Fallout 4 Replay Ideas to Make the Commonwealth Feel Brand New",
+    "source": "Polygon",
+    "summary": "Hunt animals for a living, take over Nuka-World as a raider warlord, or never leave one settlement",
+    "date": "Wed, 21 Oct 2026 20:00:17 GMT",
+    "link": "https://www.polygon.com/fallout-4-replay-ideas/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "It gives me great nerdly joy that the Next Fest demo on Steam's 100 most-played games list is a shopkeeping sim",
+    "source": "PC Gamer",
+    "summary": "(Don't worry, you don't need to be a sim geek to dig it.)",
+    "date": "Wed, 21 Oct 2026 20:06:33 +0000",
+    "link": "https://www.pcgamer.com/games/sim/it-gives-me-great-nerdly-joy-that-the-next-fest-demo-on-steams-100-most-played-games-list-is-a-shopkeeping-sim/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.53,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Everyone gets a free ticket to World of Warcraft: Forever today as Blizzard stress tests the servers ahead of launch day",
+    "source": "PC Gamer",
+    "summary": "Get a taste of what it's like to compete with hundreds of other players to finish a quest.",
+    "date": "Wed, 21 Oct 2026 19:58:36 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/everyone-gets-a-free-ticket-to-world-of-warcraft-forever-today-as-blizzard-stress-tests-the-servers-ahead-of-launch-day/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.14,
       "badge": "success"
     },
     "tags": [
@@ -253,32 +251,14 @@
   },
   {
     "id": 15,
-    "title": "Black Friday gaming mouse deals",
+    "title": "With BioWare dead, EA lays out its 'next chapter,' and it's pretty much as predicted: Guns and football are fine, and everything else is under the microscope",
     "source": "PC Gamer",
-    "summary": "Black Friday is a-coming and the deals wheels will are already rolling in earnest.",
-    "date": "Wed, 21 Oct 2026 16:11:02 +0000",
-    "link": "https://www.pcgamer.com/hardware/gaming-mice/black-friday-gaming-mouse-deals/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.17,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Don't get hit with the BIOS update hammer for COD MW4 like my colleagues - here's how to ensure you can play multiplayer and DMZ",
-    "source": "PC Gamer",
-    "summary": "TPM and Secure Boot requirements strike again.",
-    "date": "Wed, 21 Oct 2026 15:55:30 +0000",
-    "link": "https://www.pcgamer.com/games/call-of-duty/dont-get-hit-with-the-bios-update-hammer-for-cod-mw4-like-my-colleagues-heres-how-to-ensure-you-can-play-multiplayer-and-dmz/",
+    "summary": "The changes predicted when Saudi Arabia's PIF bought Electronic Arts are coming true.",
+    "date": "Wed, 21 Oct 2026 18:41:11 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/with-bioware-dead-ea-lays-out-its-next-chapter-and-its-pretty-much-as-predicted-guns-and-football-are-fine-and-everything-else-is-under-the-microscope/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.4,
+      "score": 0.17,
       "badge": "success"
     },
     "tags": [
@@ -288,15 +268,32 @@
     "read_time": "1 min read"
   },
   {
-    "id": 17,
-    "title": "GTA 6 Will Feature Lots Of Small Details Like Red Dead’s Dynamic Horse Testicle Physics",
-    "source": "GameSpot",
-    "summary": "New details about Rockstar's GTA 6 continue to come to light ahead of the highly anticipated crime game's release in November. Reporter Jason Schreier published a video recently in which he discussed some of the new things about GTA 6 that he learned when interviewing Rockstar, including how the gam...",
-    "date": "Wed, 21 Oct 2026 16:16:36 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-will-feature-lots-of-small-details-like-red-deads-dynamic-horse-testicle-physics/",
+    "id": 16,
+    "title": "RIP BioWare: EA has shut down the legendary RPG developer",
+    "source": "PC Gamer",
+    "summary": "Bloomberg also reports that EA is cutting \"around 400 jobs\" across the company.",
+    "date": "Wed, 21 Oct 2026 17:16:53 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/rip-bioware-ea-has-shut-down-the-legendary-rpg-developer/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.0,
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "EA Cancels New Mass Effect, Pauses New Sims Game, And All The Other  Big EA News That Just Happened",
+    "source": "GameSpot",
+    "summary": "When EA was acquired by Saudi Arabia's Public Investment Fund, many expected major changes at the gaming company, including layoffs and game cancellations, among other shakeups. Now, those have begun, with EA on October 21 confirming a series of significant changes impacting the people and teams tha...",
+    "date": "Wed, 21 Oct 2026 18:20:23 +0000",
+    "link": "https://www.gamespot.com/articles/ea-kills-bioware-cancels-new-mass-effect-pauses-new-sims-game-and-all-the-other-big-ea-news-that-just-happened/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.01,
       "badge": "info"
     },
     "tags": [
@@ -307,14 +304,14 @@
   },
   {
     "id": 18,
-    "title": "GTA 6 Might Give America A Very Expensive Sick Day",
+    "title": "Star Wars Battlefront 3 Reportedly In Development By EA’s Top Shooter Studios",
     "source": "GameSpot",
-    "summary": "Everyone wants to play Rockstar Games' upcoming heist-'em-up Grand Theft Auto 6--so much so that some 1.5 million Americans are projected to call in sick to work on November 19 to play the game, which an economics professor estimates will set the country back roughly $1 billion.\nAccording to an Inte...",
-    "date": "Wed, 21 Oct 2026 16:02:00 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-might-give-america-a-very-expensive-sick-day/",
+    "summary": "Included in the shocking news of EA's restructuring, which includes layoffs and the closure of BioWare, is a mention from the publisher that Apex Legends studio Respawn Entertainment and Battlefield maker DICE are collaborating on a project. According to a report, that project is a long-awaited sequ...",
+    "date": "Wed, 21 Oct 2026 19:16:31 +0000",
+    "link": "https://www.gamespot.com/articles/star-wars-battlefront-3-reportedly-in-development-by-eas-top-shooter-studios/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.19,
+      "score": -0.25,
       "badge": "danger"
     },
     "tags": [
@@ -325,36 +322,35 @@
   },
   {
     "id": 19,
-    "title": "Everything New In Cyberpunk 2077 Update 2.5",
+    "title": "Xbox Cloud Gaming Hourly Prices Revealed For Non-Game Pass Members",
     "source": "GameSpot",
-    "summary": "A new season of Cyberpunk: Edgerunners is now on Netflix, and to celebrate, Cyberpunk 2077 is getting an update.  Developer CD Projekt Red announced Update 2.5 this week, teasing new items and features inspired by the anime spin-off's second season. \nThe update goes live on October 22 for PC, PS5, a...",
-    "date": "Wed, 21 Oct 2026 14:50:42 +0000",
-    "link": "https://www.gamespot.com/articles/everything-new-in-cyberpunk-2077-update-2-5/",
+    "summary": "Microsoft has revealed how much it will charge people for using the Xbox Cloud Gaming service without a Game Pass membership. Right now, this is available only to Xbox Insiders, but that's a free program that anyone can join. \nAlso notable is that the prices below are described as \"introductory laun...",
+    "date": "Wed, 21 Oct 2026 19:10:33 +0000",
+    "link": "https://www.gamespot.com/articles/xbox-cloud-gaming-hourly-prices-revealed-for-non-game-pass-members/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
     },
     "tags": [
-      "Cyberpunk"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "Diablo Is Getting A New Board Game, And You Can Play It Solo",
+    "title": "EA Shuts Down Dragon Age, Mass Effect Studio BioWare",
     "source": "GameSpot",
-    "summary": "The world of Diablo will expand over the next couple of years with a new video game and a Netflix animated series, but if you'd rather roll some dice, Diablo Unbound will offer an officially licensed tour of Sanctuary when it launches. \nThe new board game is billed as a highly replayable co-op (or s...",
-    "date": "Wed, 21 Oct 2026 16:00:00 +0000",
-    "link": "https://www.gamespot.com/articles/diablo-is-getting-a-new-board-game-and-you-can-play-it-solo/",
+    "summary": "Publisher Electronic Arts is planning to shut down legendary RPG studio BioWare, laying off about 50 employees at the studio alongside 350 more elsewhere.\nIn a new Bloomberg report, a person familiar with the matter said a total of 3% of EA's overall company has been affected by this latest round of...",
+    "date": "Wed, 21 Oct 2026 17:12:53 +0000",
+    "link": "https://www.gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.08,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "RPG"
     ],
     "read_time": "1 min read"
   }
