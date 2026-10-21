@@ -71,14 +71,49 @@
   },
   {
     "id": 5,
-    "title": "Football Manager 27 will be free to play for five days before its full release, in \"industry first\" for a game of its kind",
+    "title": "CD Projekt Red details new Cyberpunk 2077 update - adding dual-wielding, cross-platform mods, Edgerunners story quests, and more",
     "source": "Eurogamer",
-    "summary": "You can play Football Manager 27 on PC and Mac for free this year for five full days later this month, in a first for the series and apparently an \"industry first\" for games of its kind. Read more...",
-    "date": "Wed, 21 Oct 2026 11:00:00 +0000",
-    "link": "https://www.eurogamer.net/football-manager-27-free-to-play-five-days",
+    "summary": "CD Projekt Red has detailed the substantial update coming to Cyberpunk 2077, revealing a new dual-wielding skill for pistols and revolvers, cyberware customisation, cross-platform mod support, and a brand-new Edgerunners-related story quest featuring voice actors from the Netflix anime show. Read mo...",
+    "date": "Wed, 21 Oct 2026 16:03:54 +0000",
+    "link": "https://www.eurogamer.net/cyberpunk-2077-update-edgerunners-2-mod-support",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.28,
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "Cyberpunk"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Beyond Good & Evil 2 reportedly still in development 18 years after being announced, now a \"solo-first\" adventure",
+    "source": "Eurogamer",
+    "summary": "Beyond Good & Evil 2 is reportedly still in pre-production a staggering 18 years after it was first announced, and it has apparently evolved from being a multiplayer-first project to being \"solo-first\" and story based, with additional, optional co-op. Read more...",
+    "date": "Wed, 21 Oct 2026 16:01:00 +0000",
+    "link": "https://www.eurogamer.net/beyond-good-and-evil-bge2-report-ubisoft",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "World of Warcraft: Forever's beta has been extended, as community members mourn the loss of their hunter pets",
+    "source": "Eurogamer",
+    "summary": "World of Warcraft: Forever's beta has been extended until this Friday, much to the joy of the community of early players. Read more...",
+    "date": "Wed, 21 Oct 2026 15:46:24 +0000",
+    "link": "https://www.eurogamer.net/world-of-warcraft-forever-beta-extended",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
       "badge": "success"
     },
     "tags": [
@@ -88,84 +123,54 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "Xbox reportedly planning three more rounds of layoffs, with the first wave coming as early as this month",
-    "source": "Eurogamer",
-    "summary": "Xbox is reportedly gearing up for three more rounds of layoffs as the Microsoft gaming division continues CEO Asha Sharma's plan to reset the business. According to a new report, the first of these is taking place this month, followed by another in November and one in January 2027. Read more...",
-    "date": "Wed, 21 Oct 2026 10:47:21 +0000",
-    "link": "https://www.eurogamer.net/xbox-layoffs-october-november-january-report",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.32,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Resident Evil: Requiem made more money from PlayStation discs than on Xbox in total, reportedly, as Sony's march to a discless future continues",
-    "source": "Eurogamer",
-    "summary": "Physical disc-based copies of Resident Evil: Requiem on PlayStation consoles may have been more popular than all versions of the game on Xbox, a new report has found, while unearthing a trove of other statistics about physical sales. Read more...",
-    "date": "Wed, 21 Oct 2026 09:21:49 +0000",
-    "link": "https://www.eurogamer.net/playstation-physical-disc-sales-statistics-alinea",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "Xbox",
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 8,
-    "title": "Xbox's next-gen console to reportedly cost up to $1,800, with a Helix handheld coming in 2027 and a full release in holiday 2028",
+    "title": "Xbox follows in PlayStation's footsteps, introducing AMD FSR 4.1, targeting better graphics and performance on Series X/S",
     "source": "Eurogamer",
-    "summary": "The price of Xbox's next generation console, codename Project Helix, may be higher than many of us expected. Helix, which is reportedly going to ship as two devices, is estimated to cost close to $2,000. Read more...",
-    "date": "Wed, 21 Oct 2026 08:40:37 +0000",
-    "link": "https://www.eurogamer.net/microsoft-next-gen-xbox-helix-date-price",
+    "summary": "AMD, the company that designs the chips inside Xbox and PlayStation consoles, made a big announcement this week: it's bringing the latest version of its advanced, AI-driven image upscaling technology, FSR 4.1, to Xbox Series X, Series S, and handhelds ROG Ally and Ally X. Read more...",
+    "date": "Wed, 21 Oct 2026 14:13:43 +0000",
+    "link": "https://www.eurogamer.net/xbox-series-x-s-amd-fsr-4-1-upscaling",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.25,
+      "score": 0.38,
       "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "AMD",
+      "Graphics",
+      "PlayStation",
+      "Xbox",
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "'Cyberpunk: Edgerunners' Season 3 Confirmed? Potential Release Date, Characters, and Everything You Need to Know",
+    "title": "New 'Pokémon' Release Reinvents The Series' Most Hated Monster Type",
     "source": "Polygon",
-    "summary": "Will Cyberpunk: Edgerunners get a season 3? Here’s what the creators have said about future stories and who could return after season 2’s ending.",
-    "date": "Wed, 21 Oct 2026 11:00:17 GMT",
-    "link": "https://www.polygon.com/cyberpunk-edgerunners-season-3-confirmed-release-date-story-characters/",
+    "summary": "Despite beloved monsters like Butterfree and Heracross, Game Freak has struggled with this Pokémon type for 30 years now",
+    "date": "Wed, 21 Oct 2026 16:24:37 GMT",
+    "link": "https://www.polygon.com/pokemon-game-release-buglime-what-is-rom-hack-type/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.13,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
     },
     "tags": [
-      "Cyberpunk"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Critical Role Is Heading to Middle-earth With a Big Lord of the Rings Collaboration",
+    "title": "How to play DMZ solo in Modern Warfare 4",
     "source": "Polygon",
-    "summary": "The Critical Role cast is headed for the Lord of the Rings setting in a thrilling new Rings of Power collaboration",
-    "date": "Wed, 21 Oct 2026 10:14:12 GMT",
-    "link": "https://www.polygon.com/critical-role-lord-of-the-rings-crossover-twitch-con/",
+    "summary": "A guide explaining how to play Modern Warfare 4's DMZ mode solo, rather than teaming up with random players.",
+    "date": "Wed, 21 Oct 2026 16:07:22 GMT",
+    "link": "https://www.polygon.com/mw4-modern-warfare-4-dmz-solo-how-to-play/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.08,
+      "score": -0.03,
       "badge": "info"
     },
     "tags": [
@@ -176,14 +181,14 @@
   },
   {
     "id": 11,
-    "title": "7 Funniest 'Calvin and Hobbes' Comics About Calvin's Mom and Dad",
+    "title": "Game Pass Is Losing a Legendary Point-and-Click Masterpiece This Halloween",
     "source": "Polygon",
-    "summary": "Calvin's Mom and Dad are a great comedy duo in Calvin and Hobbes. Here are 7 strips that star them",
-    "date": "Wed, 21 Oct 2026 10:00:18 GMT",
-    "link": "https://www.polygon.com/best-calvin-and-hobbes-comics-about-the-parents/",
+    "summary": "Day of the Tentacle Remastered is Double Fine's reworked version of a '90s LucasArts classic",
+    "date": "Wed, 21 Oct 2026 16:01:16 GMT",
+    "link": "https://www.polygon.com/day-of-the-tentacle-leaving-xbox-game-pass/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.8,
+      "score": 0.24,
       "badge": "success"
     },
     "tags": [
@@ -194,33 +199,33 @@
   },
   {
     "id": 12,
-    "title": "Cyberpunk 2077 Edgerunners 2 Update Leaked Ahead of Reveal",
+    "title": "Expedition 33's Fan-favorite Costumes Are Unofficially Invading a Different Game",
     "source": "Polygon",
-    "summary": "To celebrate Edgerunners season 2, CD Projekt Red is releasing a patch for Cyberpunk 2077 riddled with themed content.",
-    "date": "Wed, 21 Oct 2026 09:55:20 GMT",
-    "link": "https://www.polygon.com/cyberpunk-2077-edgerunners-2-update-leak/",
+    "summary": "Rayman Legends Retold is getting its own baguette costumes that wink and nod to 2025 GOTY Clair Obscur: Expedition 33.",
+    "date": "Wed, 21 Oct 2026 16:01:16 GMT",
+    "link": "https://www.polygon.com/rayman-legends-retold-baguette-outfits-clair-obscur-expedition-33/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.07,
       "badge": "info"
     },
     "tags": [
-      "Patch",
-      "Cyberpunk"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "'We expect mass attacks to start within 15 minutes of the release': Web admins braced for emergency PHP updates to plug leaked high-severity holes",
+    "title": "GOG taken offline for maintenance in wake of PHP security emergency",
     "source": "PC Gamer",
-    "summary": "Batten down the virtual hatches.",
-    "date": "Wed, 21 Oct 2026 10:39:05 +0000",
-    "link": "https://www.pcgamer.com/software/security/we-expect-mass-attacks-to-start-within-15-minutes-of-the-release-web-admins-braced-for-emergency-php-updates-to-plug-leaked-high-severity-holes/",
+    "summary": "GOG and GOG Galaxy were taken offline following news of critical web vulnerabilities.",
+    "date": "Wed, 21 Oct 2026 16:20:08 +0000",
+    "link": "https://www.pcgamer.com/software/security/gog-taken-offline-for-maintenance-in-wake-of-php-security-emergency/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.16,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -230,49 +235,51 @@
   },
   {
     "id": 14,
-    "title": "Chinese repair centre has received 7 melted 12+4-pin Nvidia GPUs in just the past two days alone",
+    "title": "US government leaks the best GTA 6 promo yet: Pißwasser is real",
     "source": "PC Gamer",
-    "summary": "This is not getting better, is it?",
-    "date": "Wed, 21 Oct 2026 10:00:07 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/chinese-repair-centre-has-received-7-melted-12-4-pin-nvidia-gpus-in-just-the-past-two-days-alone/",
+    "summary": "Rockstar appears to be teaming up with a Florida brewery to bring two of GTA's most famous beer brands to life.",
+    "date": "Wed, 21 Oct 2026 16:12:33 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/us-government-leaks-the-best-gta-6-promo-yet-pisswasser-is-real/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.55,
+      "badge": "success"
     },
     "tags": [
-      "Nvidia"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "Here's another gizmo to prevent your graphics card from melting - wouldn't it be nice if 12+4-pin connectors weren't a cause for concern at all?",
+    "title": "Black Friday gaming mouse deals",
     "source": "PC Gamer",
-    "summary": "I'm thankful for accessories like this, but I wish it wasn't my problem to sort in the first place.",
-    "date": "Wed, 21 Oct 2026 09:59:41 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/heres-another-gizmo-to-prevent-your-graphics-card-from-melting-wouldnt-it-be-nice-if-12-4-pin-connectors-werent-a-cause-for-concern-at-all/",
+    "summary": "Black Friday is a-coming and the deals wheels will are already rolling in earnest.",
+    "date": "Wed, 21 Oct 2026 16:11:02 +0000",
+    "link": "https://www.pcgamer.com/hardware/gaming-mice/black-friday-gaming-mouse-deals/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.42,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.17,
+      "badge": "danger"
     },
     "tags": [
-      "Graphics"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "In this age of pervasive slop maybe we should be grateful for Shrek 2 Remastered",
+    "title": "Don't get hit with the BIOS update hammer for COD MW4 like my colleagues - here's how to ensure you can play multiplayer and DMZ",
     "source": "PC Gamer",
-    "summary": "Or maybe not.",
-    "date": "Wed, 21 Oct 2026 02:08:18 +0000",
-    "link": "https://www.pcgamer.com/games/action/in-this-age-of-pervasive-slop-maybe-we-should-be-grateful-for-shrek-2-remastered/",
+    "summary": "TPM and Secure Boot requirements strike again.",
+    "date": "Wed, 21 Oct 2026 15:55:30 +0000",
+    "link": "https://www.pcgamer.com/games/call-of-duty/dont-get-hit-with-the-bios-update-hammer-for-cod-mw4-like-my-colleagues-heres-how-to-ensure-you-can-play-multiplayer-and-dmz/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -282,49 +289,15 @@
   },
   {
     "id": 17,
-    "title": "Next-Gen Xbox Could Be $1,800 And Launch In 2028 – Report",
+    "title": "GTA 6 Will Feature Lots Of Small Details Like Red Dead’s Dynamic Horse Testicle Physics",
     "source": "GameSpot",
-    "summary": "A new report sheds more details on Microsoft's plans for new Xbox hardware, including a new handheld device and console, and one of the biggest takeaways is the alleged price. \nAccording to Fortune, the Project Helix console could cost between $1,200 and $1,800, unless Microsoft opts to subsidize th...",
-    "date": "Tue, 20 Oct 2026 19:29:33 +0000",
-    "link": "https://www.gamespot.com/articles/next-gen-xbox-could-be-1800-and-launch-in-2028-report/",
+    "summary": "New details about Rockstar's GTA 6 continue to come to light ahead of the highly anticipated crime game's release in November. Reporter Jason Schreier published a video recently in which he discussed some of the new things about GTA 6 that he learned when interviewing Rockstar, including how the gam...",
+    "date": "Wed, 21 Oct 2026 16:16:36 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-will-feature-lots-of-small-details-like-red-deads-dynamic-horse-testicle-physics/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "Watch Out GTA 6, A Shrek 2 Remaster Was Just Announced",
-    "source": "GameSpot",
-    "summary": "A remaster of 2004's Shrek 2: The Game is on the way, according to an Xbox.com listing that was published too soon. Following the leak, Aspyr officially announced the Shrek 2 remaster, and it's releasing on November 10. That's just 9 days before GTA 6, so this November it's a battle of Shrek vs. GTA...",
-    "date": "Fri, 16 Oct 2026 18:21:13 +0000",
-    "link": "https://www.gamespot.com/articles/shrek-2-remaster-leaks-looks-amazing-and-i-need-it-now/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.2,
-      "badge": "danger"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "Here Are The Mechanics and Dozens Of New Cards From Magic: The Gathering’s Star Trek Set",
-    "source": "GameSpot",
-    "summary": "After a year that featured alternate realities, ninja turtles, superheroes, and hobbits, the final Magic: The Gathering expansion of 2026 is going where no Universes Beyond set has gone before, as Star Trek is scheduled to launch in November. \nToday, Wizards of the Coast revealed the mechanics playe...",
-    "date": "Tue, 20 Oct 2026 18:00:00 +0000",
-    "link": "https://www.gamespot.com/articles/here-are-the-mechanics-and-dozens-of-new-cards-from-magic-the-gatherings-star-trek-set/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.23,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.0,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -333,22 +306,55 @@
     "read_time": "1 min read"
   },
   {
-    "id": 20,
-    "title": "Xbox Series X|S Is Getting A Surprise Graphics Boost From AMD",
+    "id": 18,
+    "title": "GTA 6 Might Give America A Very Expensive Sick Day",
     "source": "GameSpot",
-    "summary": "Sony isn't the only company introducing new upscaling technology to its flagship PlayStation 5, as Microsoft and AMD have announced that FSR 4.1 is coming to more devices--including Xbox Series X|S consoles--in the future. \nSimilar to Sony's hardware-accelerated upscaling solutions for PS5 and PS5 P...",
-    "date": "Tue, 20 Oct 2026 17:51:08 +0000",
-    "link": "https://www.gamespot.com/articles/xbox-series-xs-is-getting-a-surprise-graphics-boost-from-amd/",
+    "summary": "Everyone wants to play Rockstar Games' upcoming heist-'em-up Grand Theft Auto 6--so much so that some 1.5 million Americans are projected to call in sick to work on November 19 to play the game, which an economics professor estimates will set the country back roughly $1 billion.\nAccording to an Inte...",
+    "date": "Wed, 21 Oct 2026 16:02:00 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-might-give-america-a-very-expensive-sick-day/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.13,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.19,
+      "badge": "danger"
     },
     "tags": [
-      "AMD",
-      "Graphics",
-      "Xbox",
-      "PlayStation"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "Everything New In Cyberpunk 2077 Update 2.5",
+    "source": "GameSpot",
+    "summary": "A new season of Cyberpunk: Edgerunners is now on Netflix, and to celebrate, Cyberpunk 2077 is getting an update.  Developer CD Projekt Red announced Update 2.5 this week, teasing new items and features inspired by the anime spin-off's second season. \nThe update goes live on October 22 for PC, PS5, a...",
+    "date": "Wed, 21 Oct 2026 14:50:42 +0000",
+    "link": "https://www.gamespot.com/articles/everything-new-in-cyberpunk-2077-update-2-5/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
+    },
+    "tags": [
+      "Cyberpunk"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 20,
+    "title": "Diablo Is Getting A New Board Game, And You Can Play It Solo",
+    "source": "GameSpot",
+    "summary": "The world of Diablo will expand over the next couple of years with a new video game and a Netflix animated series, but if you'd rather roll some dice, Diablo Unbound will offer an officially licensed tour of Sanctuary when it launches. \nThe new board game is billed as a highly replayable co-op (or s...",
+    "date": "Wed, 21 Oct 2026 16:00:00 +0000",
+    "link": "https://www.gamespot.com/articles/diablo-is-getting-a-new-board-game-and-you-can-play-it-solo/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
