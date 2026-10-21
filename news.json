@@ -1,6 +1,40 @@
 [
   {
     "id": 1,
+    "title": "Fans React to Shrek 2 Remastered's Surprising PC Requirements",
+    "source": "IGN",
+    "summary": "Shrek 2 isn’t exactly pushing the bounds of PC graphics, but the recommended specs for the remaster are surprisingly hefty.",
+    "date": "Wed, 21 Oct 2026 09:53:34 +0000",
+    "link": "https://www.ign.com/articles/shrek-2-remastered-surprising-pc-requirements",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.55,
+      "badge": "success"
+    },
+    "tags": [
+      "Graphics"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Sony Issues New PS5 Firmware Update as Jailbreak Race Heats Up Ahead of GTA 6 Release",
+    "source": "IGN",
+    "summary": "Sony has issued a new PlayStation 5 firmware update amid the homebrew community's ongoing effort to jailbreak the console.",
+    "date": "Wed, 21 Oct 2026 09:36:28 +0000",
+    "link": "https://www.ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
     "title": "Marvel's VisionQuest Episodes 3 and 4 Review: 'Reboot' and 'Malware'",
     "source": "IGN",
     "summary": "VisionQuest improves in Episodes 3 and 4, as Paul Bettany's White Vision begins to make strides in recapturing his missing humanity.",
@@ -12,13 +46,13 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "Cooking Up Magick Book Review",
     "source": "IGN",
     "summary": "",
@@ -30,193 +64,206 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "KPop Demon Hunters 2 Gets a Theatrical Release After First Movie's Smashing Success on Streaming",
-    "source": "IGN",
-    "summary": "The KPop Demon Hunters sequel won’t be repeating the mistakes of its predecessor, having secured a guaranteed theatrical release following the first film’s smashing success.",
-    "date": "Tue, 20 Oct 2026 23:34:42 +0000",
-    "link": "https://www.ign.com/articles/kpop-demon-hunters-2-gets-a-theatrical-release-after-first-movies-smashing-success-on-streaming",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "The Chronicles of Narnia Books are on Sale at Amazon, Including a Deluxe Edition Hardcover",
-    "source": "IGN",
-    "summary": "",
-    "date": "Tue, 20 Oct 2026 23:01:00 +0000",
-    "link": "https://www.ign.com/articles/the-chronicles-of-narnia-books-are-on-sale-at-amazon-october-2026",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.6,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
-    "title": "Ex-Call of Duty designer \"who survived the crunch\" in order to launch Black Ops 1 & 2 calls out executives \"raking it in\" from sales of remasters",
+    "title": "Football Manager 27 will be free to play for five days before its full release, in \"industry first\" for a game of its kind",
     "source": "Eurogamer",
-    "summary": "A former long-time Call of Duty developer has called out Activision executives profiteering from the re-release of games like Black Ops 1 and 2, whereas the developers who contributed \"blood, sweat, and tears\" to make them gained nothing. Read more...",
-    "date": "Tue, 20 Oct 2026 15:45:04 +0000",
-    "link": "https://www.eurogamer.net/call-of-duty-black-ops-1-2-re-release-controversy",
+    "summary": "You can play Football Manager 27 on PC and Mac for free this year for five full days later this month, in a first for the series and apparently an \"industry first\" for games of its kind. Read more...",
+    "date": "Wed, 21 Oct 2026 11:00:00 +0000",
+    "link": "https://www.eurogamer.net/football-manager-27-free-to-play-five-days",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.04,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.28,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 6,
-    "title": "Helldivers 2 swaps over to Easy anti-cheat, with developers admitting Gameguard \"wasn't as effective as it could have been\"",
+    "title": "Xbox reportedly planning three more rounds of layoffs, with the first wave coming as early as this month",
     "source": "Eurogamer",
-    "summary": "Helldivers will be switching up its anti-cheat, as developer Arrowhead Game Studios has admitted that its Gameguard cheat policy \"wasn't as effective as it could have been.\" Read more...",
-    "date": "Tue, 20 Oct 2026 13:13:19 +0000",
-    "link": "https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard",
+    "summary": "Xbox is reportedly gearing up for three more rounds of layoffs as the Microsoft gaming division continues CEO Asha Sharma's plan to reset the business. According to a new report, the first of these is taking place this month, followed by another in November and one in January 2027. Read more...",
+    "date": "Wed, 21 Oct 2026 10:47:21 +0000",
+    "link": "https://www.eurogamer.net/xbox-layoffs-october-november-january-report",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.35,
+      "score": 0.32,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 7,
-    "title": "People who've finished Call of Duty: Modern Warfare 4 on the new YOLO, single-life difficulty share experiences and tips for doing so",
+    "title": "Resident Evil: Requiem made more money from PlayStation discs than on Xbox in total, reportedly, as Sony's march to a discless future continues",
     "source": "Eurogamer",
-    "summary": "The Call of Duty: Modern Warfare 4 campaign is currently available in early access, and if you're among the many who pre-ordered a copy in order to play it before launch, you've likely noticed a locked difficulty setting that's harder, even, than Realism. Read more...",
-    "date": "Tue, 20 Oct 2026 12:57:42 +0000",
-    "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-finish-yolo-campaign-difficulty",
+    "summary": "Physical disc-based copies of Resident Evil: Requiem on PlayStation consoles may have been more popular than all versions of the game on Xbox, a new report has found, while unearthing a trove of other statistics about physical sales. Read more...",
+    "date": "Wed, 21 Oct 2026 09:21:49 +0000",
+    "link": "https://www.eurogamer.net/playstation-physical-disc-sales-statistics-alinea",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.22,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox",
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 8,
-    "title": "European age-ratings body PEGI begins raising age-limit of loot box games, like EA Sports FC, to 16",
+    "title": "Xbox's next-gen console to reportedly cost up to $1,800, with a Helix handheld coming in 2027 and a full release in holiday 2028",
     "source": "Eurogamer",
-    "summary": "PEGI, the European video game age rating agency, has started raising the age ratings of digital games that feature loot boxes to 16. The rollout of this new, stricter approach, is expected to occur throughout October. Read more...",
-    "date": "Tue, 20 Oct 2026 11:43:36 +0000",
-    "link": "https://www.eurogamer.net/pegi-age-ratings-16-loot-boxes-digital-only",
+    "summary": "The price of Xbox's next generation console, codename Project Helix, may be higher than many of us expected. Helix, which is reportedly going to ship as two devices, is estimated to cost close to $2,000. Read more...",
+    "date": "Wed, 21 Oct 2026 08:40:37 +0000",
+    "link": "https://www.eurogamer.net/microsoft-next-gen-xbox-helix-date-price",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "Marvel Officially Made the Saddest Death in MCU History More Tragic With Just 1 Sentence",
+    "title": "'Cyberpunk: Edgerunners' Season 3 Confirmed? Potential Release Date, Characters, and Everything You Need to Know",
     "source": "Polygon",
-    "summary": "In VisionQuest episode three, F.R.I.D.A.Y. reveals that she tried to save Tony in Avengers: Endgame",
-    "date": "Wed, 21 Oct 2026 03:00:19 GMT",
-    "link": "https://www.polygon.com/visionquest-episode-3-explained-friday-avengers-endgame-tony-stark-death/",
+    "summary": "Will Cyberpunk: Edgerunners get a season 3? Here’s what the creators have said about future stories and who could return after season 2’s ending.",
+    "date": "Wed, 21 Oct 2026 11:00:17 GMT",
+    "link": "https://www.polygon.com/cyberpunk-edgerunners-season-3-confirmed-release-date-story-characters/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.12,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.13,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Cyberpunk"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Phineas Horton? Disney Just Officially Made a Forgotten Marvel Legend Into MCU Canon",
+    "title": "Critical Role Is Heading to Middle-earth With a Big Lord of the Rings Collaboration",
     "source": "Polygon",
-    "summary": "In the fourth episode of VisionQuest, Dr. Phineas Horton is mentioned. Horton is a key figure in the earliest days of Marvel Comics",
-    "date": "Wed, 21 Oct 2026 02:45:18 GMT",
-    "link": "https://www.polygon.com/visionquest-original-human-torch-phineas-horton-explainer/",
+    "summary": "The Critical Role cast is headed for the Lord of the Rings setting in a thrilling new Rings of Power collaboration",
+    "date": "Wed, 21 Oct 2026 10:14:12 GMT",
+    "link": "https://www.polygon.com/critical-role-lord-of-the-rings-crossover-twitch-con/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "7 Funniest 'Calvin and Hobbes' Comics About Calvin's Mom and Dad",
+    "source": "Polygon",
+    "summary": "Calvin's Mom and Dad are a great comedy duo in Calvin and Hobbes. Here are 7 strips that star them",
+    "date": "Wed, 21 Oct 2026 10:00:18 GMT",
+    "link": "https://www.polygon.com/best-calvin-and-hobbes-comics-about-the-parents/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.8,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Cyberpunk 2077 Edgerunners 2 Update Leaked Ahead of Reveal",
+    "source": "Polygon",
+    "summary": "To celebrate Edgerunners season 2, CD Projekt Red is releasing a patch for Cyberpunk 2077 riddled with themed content.",
+    "date": "Wed, 21 Oct 2026 09:55:20 GMT",
+    "link": "https://www.polygon.com/cyberpunk-2077-edgerunners-2-update-leak/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "'VisionQuest' Episode 4 Ending Explained: Who Is Jocasta?",
-    "source": "Polygon",
-    "summary": "VisionQuest episode 4 introduces Jocasta, a deadly new synthezoid with a surprising connection to Ultron. Here’s how the show changes her Marvel Comic",
-    "date": "Wed, 21 Oct 2026 02:31:18 GMT",
-    "link": "https://www.polygon.com/visionquest-jocasta-explained-marvel-comics/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.36,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Forget ‘Carrie,’ Mike Flanagan’s Best Netflix Miniseries Is a Masterpiece From Start to Finish",
-    "source": "Polygon",
-    "summary": "Explore Mike Flanagan's Midnight Mass, a profound horror story about faith, fear, and human choice.",
-    "date": "Wed, 21 Oct 2026 01:30:18 GMT",
-    "link": "https://www.polygon.com/midnight-mass-vs-carrie-mike-mike-flanagan/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.36,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "Patch",
+      "Cyberpunk"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
+    "title": "'We expect mass attacks to start within 15 minutes of the release': Web admins braced for emergency PHP updates to plug leaked high-severity holes",
+    "source": "PC Gamer",
+    "summary": "Batten down the virtual hatches.",
+    "date": "Wed, 21 Oct 2026 10:39:05 +0000",
+    "link": "https://www.pcgamer.com/software/security/we-expect-mass-attacks-to-start-within-15-minutes-of-the-release-web-admins-braced-for-emergency-php-updates-to-plug-leaked-high-severity-holes/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.16,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Chinese repair centre has received 7 melted 12+4-pin Nvidia GPUs in just the past two days alone",
+    "source": "PC Gamer",
+    "summary": "This is not getting better, is it?",
+    "date": "Wed, 21 Oct 2026 10:00:07 +0000",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/chinese-repair-centre-has-received-7-melted-12-4-pin-nvidia-gpus-in-just-the-past-two-days-alone/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Nvidia"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Here's another gizmo to prevent your graphics card from melting - wouldn't it be nice if 12+4-pin connectors weren't a cause for concern at all?",
+    "source": "PC Gamer",
+    "summary": "I'm thankful for accessories like this, but I wish it wasn't my problem to sort in the first place.",
+    "date": "Wed, 21 Oct 2026 09:59:41 +0000",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/heres-another-gizmo-to-prevent-your-graphics-card-from-melting-wouldnt-it-be-nice-if-12-4-pin-connectors-werent-a-cause-for-concern-at-all/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.42,
+      "badge": "success"
+    },
+    "tags": [
+      "Graphics"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
     "title": "In this age of pervasive slop maybe we should be grateful for Shrek 2 Remastered",
     "source": "PC Gamer",
     "summary": "Or maybe not.",
@@ -228,61 +275,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "EA Sports FC 27 gets a PEGI 16 rating in Europe because of loot boxes",
-    "source": "PC Gamer",
-    "summary": "Still rated E for Everyone by the ESRB, though.",
-    "date": "Tue, 20 Oct 2026 21:56:37 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-loot-boxes/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "'If you can’t show your game to the world without fearing it’ll be cloned, something’s broken' says Moonlighter studio on its canceled demo",
-    "source": "PC Gamer",
-    "summary": "Opus 5.5 continues to wreak havoc among independent devs.",
-    "date": "Tue, 20 Oct 2026 21:34:35 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/if-you-cant-show-your-game-to-the-world-without-fearing-itll-be-cloned-somethings-broken-says-moonlighter-studio-on-its-canceled-demo/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.27,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "My favorite indie roguelike action RPG is tempting me to come back with a transformative new update inspired by Diablo seasons",
-    "source": "PC Gamer",
-    "summary": "Hell Clock's Journey of Miracles update changes the entire game like a new Diablo season, but it won't ever expire.",
-    "date": "Tue, 20 Oct 2026 20:59:12 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/my-favorite-indie-roguelike-action-rpg-is-tempting-me-to-come-back-with-a-transformative-new-update-inspired-by-diablo-seasons/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "RPG"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -333,8 +327,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -351,10 +345,10 @@
       "badge": "success"
     },
     "tags": [
-      "Xbox",
-      "PlayStation",
       "AMD",
-      "Graphics"
+      "Graphics",
+      "Xbox",
+      "PlayStation"
     ],
     "read_time": "1 min read"
   }

@@ -6,6 +6,20 @@
     <description>Automated Global Gaming News &amp; Tech Insights Feed</description>
     <language>en-us</language>
     <item>
+      <title>[IGN] Fans React to Shrek 2 Remastered's Surprising PC Requirements</title>
+      <link>https://www.ign.com/articles/shrek-2-remastered-surprising-pc-requirements</link>
+      <description>Shrek 2 isn’t exactly pushing the bounds of PC graphics, but the recommended specs for the remaster are surprisingly hefty....</description>
+      <pubDate>Wed, 21 Oct 2026 09:53:34 +0000</pubDate>
+      <guid>https://www.ign.com/articles/shrek-2-remastered-surprising-pc-requirements</guid>
+    </item>
+    <item>
+      <title>[IGN] Sony Issues New PS5 Firmware Update as Jailbreak Race Heats Up Ahead of GTA 6 Release</title>
+      <link>https://www.ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release</link>
+      <description>Sony has issued a new PlayStation 5 firmware update amid the homebrew community's ongoing effort to jailbreak the console....</description>
+      <pubDate>Wed, 21 Oct 2026 09:36:28 +0000</pubDate>
+      <guid>https://www.ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release</guid>
+    </item>
+    <item>
       <title>[IGN] Marvel's VisionQuest Episodes 3 and 4 Review: 'Reboot' and 'Malware'</title>
       <link>https://www.ign.com/articles/marvels-visionquest-episodes-3-and-4-review-recap-reboot-malware</link>
       <description>VisionQuest improves in Episodes 3 and 4, as Paul Bettany's White Vision begins to make strides in recapturing his missing humanity....</description>
@@ -27,18 +41,32 @@
       <guid>https://www.ign.com/articles/kpop-demon-hunters-2-gets-a-theatrical-release-after-first-movies-smashing-success-on-streaming</guid>
     </item>
     <item>
-      <title>[IGN] The Chronicles of Narnia Books are on Sale at Amazon, Including a Deluxe Edition Hardcover</title>
-      <link>https://www.ign.com/articles/the-chronicles-of-narnia-books-are-on-sale-at-amazon-october-2026</link>
-      <description>...</description>
-      <pubDate>Tue, 20 Oct 2026 23:01:00 +0000</pubDate>
-      <guid>https://www.ign.com/articles/the-chronicles-of-narnia-books-are-on-sale-at-amazon-october-2026</guid>
+      <title>[Eurogamer] Football Manager 27 will be free to play for five days before its full release, in "industry first" for a game of its kind</title>
+      <link>https://www.eurogamer.net/football-manager-27-free-to-play-five-days</link>
+      <description> You can play Football Manager 27 on PC and Mac for free this year for five full days later this month, in a first for the series and apparently an "industry first" for games of its kind. Read more...</description>
+      <pubDate>Wed, 21 Oct 2026 11:00:00 +0000</pubDate>
+      <guid>https://www.eurogamer.net/football-manager-27-free-to-play-five-days</guid>
     </item>
     <item>
-      <title>[IGN] GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami</title>
-      <link>https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami</link>
-      <description>Eagle-eyed Rockstar fans have noticed camera crews recording convoys of flashy GTA-themed cars in Miami, creating speculation over a new live-action trailer....</description>
-      <pubDate>Tue, 20 Oct 2026 22:48:37 +0000</pubDate>
-      <guid>https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami</guid>
+      <title>[Eurogamer] Xbox reportedly planning three more rounds of layoffs, with the first wave coming as early as this month</title>
+      <link>https://www.eurogamer.net/xbox-layoffs-october-november-january-report</link>
+      <description> Xbox is reportedly gearing up for three more rounds of layoffs as the Microsoft gaming division continues CEO Asha Sharma's plan to reset the business. According to a new report, the first of these is taking place this month, followed by another in ...</description>
+      <pubDate>Wed, 21 Oct 2026 10:47:21 +0000</pubDate>
+      <guid>https://www.eurogamer.net/xbox-layoffs-october-november-january-report</guid>
+    </item>
+    <item>
+      <title>[Eurogamer] Resident Evil: Requiem made more money from PlayStation discs than on Xbox in total, reportedly, as Sony's march to a discless future continues</title>
+      <link>https://www.eurogamer.net/playstation-physical-disc-sales-statistics-alinea</link>
+      <description> Physical disc-based copies of Resident Evil: Requiem on PlayStation consoles may have been more popular than all versions of the game on Xbox, a new report has found, while unearthing a trove of other statistics about physical sales. Read more...</description>
+      <pubDate>Wed, 21 Oct 2026 09:21:49 +0000</pubDate>
+      <guid>https://www.eurogamer.net/playstation-physical-disc-sales-statistics-alinea</guid>
+    </item>
+    <item>
+      <title>[Eurogamer] Xbox's next-gen console to reportedly cost up to $1,800, with a Helix handheld coming in 2027 and a full release in holiday 2028</title>
+      <link>https://www.eurogamer.net/microsoft-next-gen-xbox-helix-date-price</link>
+      <description> The price of Xbox's next generation console, codename Project Helix, may be higher than many of us expected. Helix, which is reportedly going to ship as two devices, is estimated to cost close to $2,000. Read more...</description>
+      <pubDate>Wed, 21 Oct 2026 08:40:37 +0000</pubDate>
+      <guid>https://www.eurogamer.net/microsoft-next-gen-xbox-helix-date-price</guid>
     </item>
     <item>
       <title>[Eurogamer] Ex-Call of Duty designer "who survived the crunch" in order to launch Black Ops 1 &amp; 2 calls out executives "raking it in" from sales of remasters</title>
@@ -48,67 +76,39 @@
       <guid>https://www.eurogamer.net/call-of-duty-black-ops-1-2-re-release-controversy</guid>
     </item>
     <item>
-      <title>[Eurogamer] Helldivers 2 swaps over to Easy anti-cheat, with developers admitting Gameguard "wasn't as effective as it could have been"</title>
-      <link>https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard</link>
-      <description> Helldivers will be switching up its anti-cheat, as developer Arrowhead Game Studios has admitted that its Gameguard cheat policy "wasn't as effective as it could have been." Read more...</description>
-      <pubDate>Tue, 20 Oct 2026 13:13:19 +0000</pubDate>
-      <guid>https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard</guid>
+      <title>[Polygon] 'Cyberpunk: Edgerunners' Season 3 Confirmed? Potential Release Date, Characters, and Everything You Need to Know</title>
+      <link>https://www.polygon.com/cyberpunk-edgerunners-season-3-confirmed-release-date-story-characters/</link>
+      <description>Will Cyberpunk: Edgerunners get a season 3? Here’s what the creators have said about future stories and who could return after season 2’s ending....</description>
+      <pubDate>Wed, 21 Oct 2026 11:00:17 GMT</pubDate>
+      <guid>https://www.polygon.com/cyberpunk-edgerunners-season-3-confirmed-release-date-story-characters/</guid>
     </item>
     <item>
-      <title>[Eurogamer] People who've finished Call of Duty: Modern Warfare 4 on the new YOLO, single-life difficulty share experiences and tips for doing so</title>
-      <link>https://www.eurogamer.net/call-of-duty-modern-warfare-4-finish-yolo-campaign-difficulty</link>
-      <description> The Call of Duty: Modern Warfare 4 campaign is currently available in early access, and if you're among the many who pre-ordered a copy in order to play it before launch, you've likely noticed a locked difficulty setting that's harder, even, than Re...</description>
-      <pubDate>Tue, 20 Oct 2026 12:57:42 +0000</pubDate>
-      <guid>https://www.eurogamer.net/call-of-duty-modern-warfare-4-finish-yolo-campaign-difficulty</guid>
+      <title>[Polygon] Critical Role Is Heading to Middle-earth With a Big Lord of the Rings Collaboration</title>
+      <link>https://www.polygon.com/critical-role-lord-of-the-rings-crossover-twitch-con/</link>
+      <description>The Critical Role cast is headed for the Lord of the Rings setting in a thrilling new Rings of Power collaboration...</description>
+      <pubDate>Wed, 21 Oct 2026 10:14:12 GMT</pubDate>
+      <guid>https://www.polygon.com/critical-role-lord-of-the-rings-crossover-twitch-con/</guid>
     </item>
     <item>
-      <title>[Eurogamer] European age-ratings body PEGI begins raising age-limit of loot box games, like EA Sports FC, to 16</title>
-      <link>https://www.eurogamer.net/pegi-age-ratings-16-loot-boxes-digital-only</link>
-      <description> PEGI, the European video game age rating agency, has started raising the age ratings of digital games that feature loot boxes to 16. The rollout of this new, stricter approach, is expected to occur throughout October. Read more...</description>
-      <pubDate>Tue, 20 Oct 2026 11:43:36 +0000</pubDate>
-      <guid>https://www.eurogamer.net/pegi-age-ratings-16-loot-boxes-digital-only</guid>
+      <title>[Polygon] 7 Funniest 'Calvin and Hobbes' Comics About Calvin's Mom and Dad</title>
+      <link>https://www.polygon.com/best-calvin-and-hobbes-comics-about-the-parents/</link>
+      <description>Calvin's Mom and Dad are a great comedy duo in Calvin and Hobbes. Here are 7 strips that star them...</description>
+      <pubDate>Wed, 21 Oct 2026 10:00:18 GMT</pubDate>
+      <guid>https://www.polygon.com/best-calvin-and-hobbes-comics-about-the-parents/</guid>
     </item>
     <item>
-      <title>[Eurogamer] Cyberpunk 2077 getting a substantial update to coincide with Edgerunners' Netflix Season 2 release</title>
-      <link>https://www.eurogamer.net/cyberpunk-2077-25-update-free-egerunners-2-release</link>
-      <description> CD Projekt Red has announced that Cyberpunk 2077 is getting a free update to coincide with the release of anime series Edgerunners 2 on Netflix. Read more...</description>
-      <pubDate>Tue, 20 Oct 2026 11:29:50 +0000</pubDate>
-      <guid>https://www.eurogamer.net/cyberpunk-2077-25-update-free-egerunners-2-release</guid>
+      <title>[Polygon] Cyberpunk 2077 Edgerunners 2 Update Leaked Ahead of Reveal</title>
+      <link>https://www.polygon.com/cyberpunk-2077-edgerunners-2-update-leak/</link>
+      <description>To celebrate Edgerunners season 2, CD Projekt Red is releasing a patch for Cyberpunk 2077 riddled with themed content....</description>
+      <pubDate>Wed, 21 Oct 2026 09:55:20 GMT</pubDate>
+      <guid>https://www.polygon.com/cyberpunk-2077-edgerunners-2-update-leak/</guid>
     </item>
     <item>
-      <title>[Polygon] Marvel Officially Made the Saddest Death in MCU History More Tragic With Just 1 Sentence</title>
-      <link>https://www.polygon.com/visionquest-episode-3-explained-friday-avengers-endgame-tony-stark-death/</link>
-      <description>In VisionQuest episode three, F.R.I.D.A.Y. reveals that she tried to save Tony in Avengers: Endgame...</description>
-      <pubDate>Wed, 21 Oct 2026 03:00:19 GMT</pubDate>
-      <guid>https://www.polygon.com/visionquest-episode-3-explained-friday-avengers-endgame-tony-stark-death/</guid>
-    </item>
-    <item>
-      <title>[Polygon] Phineas Horton? Disney Just Officially Made a Forgotten Marvel Legend Into MCU Canon</title>
-      <link>https://www.polygon.com/visionquest-original-human-torch-phineas-horton-explainer/</link>
-      <description>In the fourth episode of VisionQuest, Dr. Phineas Horton is mentioned. Horton is a key figure in the earliest days of Marvel Comics...</description>
-      <pubDate>Wed, 21 Oct 2026 02:45:18 GMT</pubDate>
-      <guid>https://www.polygon.com/visionquest-original-human-torch-phineas-horton-explainer/</guid>
-    </item>
-    <item>
-      <title>[Polygon] 'VisionQuest' Episode 4 Ending Explained: Who Is Jocasta?</title>
-      <link>https://www.polygon.com/visionquest-jocasta-explained-marvel-comics/</link>
-      <description>VisionQuest episode 4 introduces Jocasta, a deadly new synthezoid with a surprising connection to Ultron. Here’s how the show changes her Marvel Comic...</description>
-      <pubDate>Wed, 21 Oct 2026 02:31:18 GMT</pubDate>
-      <guid>https://www.polygon.com/visionquest-jocasta-explained-marvel-comics/</guid>
-    </item>
-    <item>
-      <title>[Polygon] Forget ‘Carrie,’ Mike Flanagan’s Best Netflix Miniseries Is a Masterpiece From Start to Finish</title>
-      <link>https://www.polygon.com/midnight-mass-vs-carrie-mike-mike-flanagan/</link>
-      <description>Explore Mike Flanagan's Midnight Mass, a profound horror story about faith, fear, and human choice....</description>
-      <pubDate>Wed, 21 Oct 2026 01:30:18 GMT</pubDate>
-      <guid>https://www.polygon.com/midnight-mass-vs-carrie-mike-mike-flanagan/</guid>
-    </item>
-    <item>
-      <title>[Polygon] Red Rising Is Officially Returning In 2027</title>
-      <link>https://www.polygon.com/red-rising-digital-edition-2027-release/</link>
-      <description>A digital adaptation of Pierce Brown's beloved sci-fi saga is on its way....</description>
-      <pubDate>Wed, 21 Oct 2026 01:00:18 GMT</pubDate>
-      <guid>https://www.polygon.com/red-rising-digital-edition-2027-release/</guid>
+      <title>[Polygon] 17 Years Later, Johnny Depp’s Overlooked Action Crime Thriller Is Officially Free on YouTube</title>
+      <link>https://www.polygon.com/public-enemies-free-on-youtube/</link>
+      <description>Johnny Depp brings cool charisma to Michael Mann’s gripping portrait of legendary bank robber John Dillinger....</description>
+      <pubDate>Wed, 21 Oct 2026 09:00:18 GMT</pubDate>
+      <guid>https://www.polygon.com/public-enemies-free-on-youtube/</guid>
     </item>
   </channel>
 </rss>
