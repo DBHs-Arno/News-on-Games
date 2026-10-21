@@ -1,72 +1,73 @@
 [
   {
     "id": 1,
-    "title": "Fortnite's Nikki Skin Sparks Debate Among Horror Fans, With Some Calling for a Boycott",
+    "title": "Marvel's VisionQuest Episodes 3 and 4 Review: 'Reboot' and 'Malware'",
     "source": "IGN",
-    "summary": "A vocal group of Fortnite players are calling for a boycott of Epic's battle royale game after a skin of Obsession’s Nikki Freeman, played by Inde Navarrette, sparked backlash among fans.",
-    "date": "Tue, 20 Oct 2026 18:36:32 +0000",
-    "link": "https://www.ign.com/articles/fortnites-nikki-skin-sparks-debate-among-horror-fans-with-some-calling-for-a-boycott",
+    "summary": "VisionQuest improves in Episodes 3 and 4, as Paul Bettany's White Vision begins to make strides in recapturing his missing humanity.",
+    "date": "Wed, 21 Oct 2026 01:00:00 +0000",
+    "link": "https://www.ign.com/articles/marvels-visionquest-episodes-3-and-4-review-recap-reboot-malware",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Christopher Nolan’s The Prestige 20th Anniversary Re-Release Includes 70mm and IMAX",
+    "title": "Cooking Up Magick Book Review",
     "source": "IGN",
-    "summary": "To celebrate the film’s 20th anniversary, Disney will re-release Christopher Nolan’s The Prestige in theaters on January 29, 2027. The thriller will be released on 70mm and IMAX for the first time.",
-    "date": "Tue, 20 Oct 2026 18:28:24 +0000",
-    "link": "https://www.ign.com/articles/the-prestige-rerelease-70mm-imax-christopher-nolan",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Shrek 2 Remastered Reveal Trailer Parodies GTA 6, Sets November Release Date",
-    "source": "IGN",
-    "summary": "Shrek 2 Remastered is real, and its release date is less than a month away.",
-    "date": "Tue, 20 Oct 2026 18:24:07 +0000",
-    "link": "https://www.ign.com/articles/shrek-2-remastered-reveal-trailer-parodies-gta-6-sets-november-release-date",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Arctic Eggs, Mouthwashing, and No, I'm Not a Human Are Coming to Xbox | IDXBOX",
-    "source": "IGN",
-    "summary": "Three indie games that achieved viral status over the last three years are making their long-awaited debut on Xbox from publisher Critical Reflex.",
-    "date": "Tue, 20 Oct 2026 18:23:29 +0000",
-    "link": "https://www.ign.com/articles/arctic-eggs-mouthwashing-and-no-im-not-a-human-are-coming-to-xbox-idxbox",
+    "summary": "",
+    "date": "Wed, 21 Oct 2026 00:01:59 +0000",
+    "link": "https://www.ign.com/articles/cooking-up-magick-book-review",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Xbox"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "KPop Demon Hunters 2 Gets a Theatrical Release After First Movie's Smashing Success on Streaming",
+    "source": "IGN",
+    "summary": "The KPop Demon Hunters sequel won’t be repeating the mistakes of its predecessor, having secured a guaranteed theatrical release following the first film’s smashing success.",
+    "date": "Tue, 20 Oct 2026 23:34:42 +0000",
+    "link": "https://www.ign.com/articles/kpop-demon-hunters-2-gets-a-theatrical-release-after-first-movies-smashing-success-on-streaming",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "The Chronicles of Narnia Books are on Sale at Amazon, Including a Deluxe Edition Hardcover",
+    "source": "IGN",
+    "summary": "",
+    "date": "Tue, 20 Oct 2026 23:01:00 +0000",
+    "link": "https://www.ign.com/articles/the-chronicles-of-narnia-books-are-on-sale-at-amazon-october-2026",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.6,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -83,8 +84,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -101,8 +102,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -119,8 +120,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -137,82 +138,139 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "Next-gen Xbox Could Cost Up to $1,800, New Report Says",
+    "title": "Marvel Officially Made the Saddest Death in MCU History More Tragic With Just 1 Sentence",
     "source": "Polygon",
-    "summary": "Project Helix, the next-generation Xbox coming in 2028, costs between $1200 and $1800, according to a new report.",
-    "date": "Tue, 20 Oct 2026 21:00:04 GMT",
-    "link": "https://www.polygon.com/next-gen-xbox-project-helix-price-release-date-2028/",
+    "summary": "In VisionQuest episode three, F.R.I.D.A.Y. reveals that she tried to save Tony in Avengers: Endgame",
+    "date": "Wed, 21 Oct 2026 03:00:19 GMT",
+    "link": "https://www.polygon.com/visionquest-episode-3-explained-friday-avengers-endgame-tony-stark-death/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.12,
+      "badge": "danger"
     },
     "tags": [
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Fallout 4: FEVer Dreams Gets Official Surprise Release",
+    "title": "Phineas Horton? Disney Just Officially Made a Forgotten Marvel Legend Into MCU Canon",
     "source": "Polygon",
-    "summary": "The trippy new RPG adventure is presented by Bethesda, and a good way to pass the time before Fallout 5 or Obsidian Entertainment's projects release.",
-    "date": "Tue, 20 Oct 2026 19:16:02 GMT",
-    "link": "https://www.polygon.com/fallout-4-fever-dreams-what-is-bethesda-rpg-release/",
+    "summary": "In the fourth episode of VisionQuest, Dr. Phineas Horton is mentioned. Horton is a key figure in the earliest days of Marvel Comics",
+    "date": "Wed, 21 Oct 2026 02:45:18 GMT",
+    "link": "https://www.polygon.com/visionquest-original-human-torch-phineas-horton-explainer/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.42,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "RPG"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "A New DC Green Lantern Has Officially Been Unveiled",
+    "title": "'VisionQuest' Episode 4 Ending Explained: Who Is Jocasta?",
     "source": "Polygon",
-    "summary": "DC Comics has announced Green Lantern: Doomed Cosmos, a new Elseworlds series where the Lanterns look a lot like Warhammer 40K space marines.",
-    "date": "Tue, 20 Oct 2026 19:03:36 GMT",
-    "link": "https://www.polygon.com/green-lantern-doomed-cosmos-elseworlds-series-announced-dc-comics/",
+    "summary": "VisionQuest episode 4 introduces Jocasta, a deadly new synthezoid with a surprising connection to Ultron. Here’s how the show changes her Marvel Comic",
+    "date": "Wed, 21 Oct 2026 02:31:18 GMT",
+    "link": "https://www.polygon.com/visionquest-jocasta-explained-marvel-comics/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.36,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "New Cheaper PS5 Officially Available for Pre-Order Now",
+    "title": "Forget ‘Carrie,’ Mike Flanagan’s Best Netflix Miniseries Is a Masterpiece From Start to Finish",
     "source": "Polygon",
-    "summary": "Sony's new PlayStation 5 Digital Edition Midnight Black for Japan is now available for pre-order and costs much less than other PS5 models.",
-    "date": "Tue, 20 Oct 2026 18:31:44 GMT",
-    "link": "https://www.polygon.com/ps5-midnight-edition-preorders-open-now-japan/",
+    "summary": "Explore Mike Flanagan's Midnight Mass, a profound horror story about faith, fear, and human choice.",
+    "date": "Wed, 21 Oct 2026 01:30:18 GMT",
+    "link": "https://www.polygon.com/midnight-mass-vs-carrie-mike-mike-flanagan/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.36,
+      "badge": "success"
     },
     "tags": [
-      "PlayStation"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
+    "title": "In this age of pervasive slop maybe we should be grateful for Shrek 2 Remastered",
+    "source": "PC Gamer",
+    "summary": "Or maybe not.",
+    "date": "Wed, 21 Oct 2026 02:08:18 +0000",
+    "link": "https://www.pcgamer.com/games/action/in-this-age-of-pervasive-slop-maybe-we-should-be-grateful-for-shrek-2-remastered/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "EA Sports FC 27 gets a PEGI 16 rating in Europe because of loot boxes",
+    "source": "PC Gamer",
+    "summary": "Still rated E for Everyone by the ESRB, though.",
+    "date": "Tue, 20 Oct 2026 21:56:37 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-loot-boxes/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "'If you can’t show your game to the world without fearing it’ll be cloned, something’s broken' says Moonlighter studio on its canceled demo",
+    "source": "PC Gamer",
+    "summary": "Opus 5.5 continues to wreak havoc among independent devs.",
+    "date": "Tue, 20 Oct 2026 21:34:35 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/if-you-cant-show-your-game-to-the-world-without-fearing-itll-be-cloned-somethings-broken-says-moonlighter-studio-on-its-canceled-demo/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.27,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
     "title": "My favorite indie roguelike action RPG is tempting me to come back with a transformative new update inspired by Diablo seasons",
     "source": "PC Gamer",
     "summary": "Hell Clock's Journey of Miracles update changes the entire game like a new Diablo season, but it won't ever expire.",
@@ -225,59 +283,6 @@
     },
     "tags": [
       "RPG"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "The studio behind Life is Strange, Jusant, and Lost Records: Bloom & Rage is desperately struggling to stay afloat",
-    "source": "PC Gamer",
-    "summary": "Don't Nod has begun \"safeguard proceedings\" to protect itself from creditors and says up to 85 employees are at risk of being let go under its new restructuring plan.",
-    "date": "Tue, 20 Oct 2026 20:43:59 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/the-studio-behind-life-is-strange-jusant-and-lost-records-bloom-and-rage-is-desperately-struggling-to-stay-afloat/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.18,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "After talking to Capcom, I'm a lot more optimistic about Onimusha 3 getting a remaster",
-    "source": "PC Gamer",
-    "summary": "We need time-traveling Jean Reno on PC.",
-    "date": "Tue, 20 Oct 2026 20:34:43 +0000",
-    "link": "https://www.pcgamer.com/games/action/after-talking-to-capcom-im-a-lot-more-optimistic-about-onimusha-3-getting-a-remaster/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Founder of bankrupt Samson studio mulls how to use AI for his next attempt: 'Cutting corners in game development has a habit of coming back to bite you in the ass'",
-    "source": "PC Gamer",
-    "summary": "Christopher Sundberg said the goal for his next studio is to make \"a game we can afford to finish without needing every sales forecast to come true.\"",
-    "date": "Tue, 20 Oct 2026 18:43:15 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/founder-of-bankrupt-samson-studio-mulls-how-to-use-ai-for-his-next-attempt-cutting-corners-in-game-development-has-a-habit-of-coming-back-to-bite-you-in-the-ass/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
-    },
-    "tags": [
-      "AI"
     ],
     "read_time": "1 min read"
   },
@@ -328,8 +333,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -346,10 +351,10 @@
       "badge": "success"
     },
     "tags": [
-      "AMD",
-      "Graphics",
+      "Xbox",
       "PlayStation",
-      "Xbox"
+      "AMD",
+      "Graphics"
     ],
     "read_time": "1 min read"
   }
