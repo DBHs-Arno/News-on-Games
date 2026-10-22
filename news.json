@@ -1,11 +1,29 @@
 [
   {
     "id": 1,
-    "title": "Save 50% Off a Rechargeable LED Light Up Mask With 50 Different Effects for Halloween, Now Under $15",
+    "title": "Dragon Ball Xenoverse 3 Narrows Release Window Following Player Feedback",
     "source": "IGN",
-    "summary": "Powered by over 200 high‑brightness RGB LEDs.",
-    "date": "Wed, 21 Oct 2026 19:45:00 +0000",
-    "link": "https://www.ign.com/articles/led-mask-halloween-deal-october-2026",
+    "summary": "Bandai Namco announced a narrower release window for the upcoming multiplayer-enabled brawler Dragon Ball Xenoverse 3, although it's not too much more specific. Previously, the publisher had stated that the sequel to 2016 fan-favorite would arrive in 2027. Now, it's turned that from a 12-month windo...",
+    "date": "Thu, 22 Oct 2026 00:41:48 +0000",
+    "link": "https://www.ign.com/articles/dragon-ball-xenoverse-3-narrows-release-window-following-player-feedback",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Brandon Sanderson Wants to Know Who Really Wrote the Mr. Beast Book",
+    "source": "IGN",
+    "summary": "",
+    "date": "Thu, 22 Oct 2026 00:14:50 +0000",
+    "link": "https://www.ign.com/articles/brandon-sanderson-wants-to-know-who-really-wrote-the-mr-beast-book",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.2,
@@ -18,15 +36,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
-    "title": "You Can Save $11 Off GTA 6 Preorders, Today Only",
+    "id": 3,
+    "title": "GTA 6's Fast Food Restaurant, Burger Shot, Is Coming to Real Life in the Miami Heat's Arena",
     "source": "IGN",
-    "summary": "Follow three simple steps, and you can save $11 off Grand Theft Auto 6, today only.",
-    "date": "Wed, 21 Oct 2026 19:40:49 +0000",
-    "link": "https://www.ign.com/articles/you-can-save-11-off-gta-6-preorders-today-only",
+    "summary": "One of the most iconic fast food restaurants from the GTA universe is becoming real ahead of GTA 6's release.",
+    "date": "Wed, 21 Oct 2026 23:15:44 +0000",
+    "link": "https://www.ign.com/articles/gta-6s-fast-food-restaurant-burger-shot-is-coming-to-real-life-in-the-miami-heats-arena",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.12,
+      "score": 0.32,
       "badge": "success"
     },
     "tags": [
@@ -36,33 +54,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 3,
-    "title": "Clair Obscur: Expedition 33 on PS5 Drops to New All-Time Low Price at Amazon With a Coupon",
-    "source": "IGN",
-    "summary": "Amazon has knocked Clair Obscur: Expedition 33 on PS5 down to a new all-time low price, but it's only available through a coupon. After clipping it on the store page, you can buy it for $34.65 rather than $49.99.",
-    "date": "Wed, 21 Oct 2026 19:40:00 +0000",
-    "link": "https://www.ign.com/articles/clair-obscur-expedition-33-on-ps5-drops-to-new-all-time-low-price-at-amazon-with-a-coupon",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 4,
-    "title": "Sauron Wears the One Ring and Battles the Balrog in New Rings of Power Season 3 Trailer",
+    "title": "Call of Duty: Modern Warfare 4 DMZ Review So Far",
     "source": "IGN",
-    "summary": "Prime Video has released a new trailer for the upcoming third season of The Lord of the Rings: The Rings of Power that revealed more of the war to stop Sauron from forging the One Ring.",
-    "date": "Wed, 21 Oct 2026 19:25:00 +0000",
-    "link": "https://www.ign.com/articles/sauron-wears-the-one-ring-and-battles-the-balrog-in-new-rings-of-power-season-3-trailer",
+    "summary": "This bigger and better version of DMZ makes a great first impression.",
+    "date": "Wed, 21 Oct 2026 23:02:17 +0000",
+    "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-dmz-review",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.19,
+      "score": 0.31,
       "badge": "success"
     },
     "tags": [
@@ -144,6 +144,42 @@
   },
   {
     "id": 9,
+    "title": "The 10 best alchemy cards in Magic: The Gathering, ranked",
+    "source": "Polygon",
+    "summary": "Alchemy produced some of Magic’s wildest digital-only cards",
+    "date": "Wed, 21 Oct 2026 22:59:28 GMT",
+    "link": "https://www.polygon.com/best-alchemy-cards-magic-gathering-mgt/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.67,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Baldur’s Gate 3 Returns With New Official Sequel Series",
+    "source": "Polygon",
+    "summary": "HBO is developing Baldur's Gate with Last of Us and Chernobyl creator Craig Mazin. The D&D fantasy series picks up where Baldur's Gate 3 left off.",
+    "date": "Wed, 21 Oct 2026 22:09:17 GMT",
+    "link": "https://www.polygon.com/baldurs-gate-3-sequel-series-hbo-streaming/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
     "title": "Demon Slayer: Infinity Castle 2 Rumored Release Date Discovered",
     "source": "Polygon",
     "summary": "Demon Slayer: Kimetsu No Yaiba: Infinity Castle 2's 2027 release date may have been exposed by anime fans after leak.",
@@ -161,7 +197,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
+    "id": 12,
     "title": "HBO Poison Ivy Show Reportedly Coming From 'The Penguin' Producer",
     "source": "Polygon",
     "summary": "A Poison Ivy TV series is reportedly in the works from The Penguin's showrunner. It would be separate from Matt Reeves' The Batman continuity.",
@@ -179,69 +215,34 @@
     "read_time": "1 min read"
   },
   {
-    "id": 11,
-    "title": "Major Skyrim Update Officially Comes to 'Elder Scrolls Online'",
-    "source": "Polygon",
-    "summary": "The Elder Scrolls Online launches Echoes of Skyrim, a new season with free DLC, solo dungeons and rewards for players across all platforms.",
-    "date": "Wed, 21 Oct 2026 20:10:26 GMT",
-    "link": "https://www.polygon.com/elder-scrolls-online-skyrim-update-free-dlc/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "8 Fallout 4 Replay Ideas to Make the Commonwealth Feel Brand New",
-    "source": "Polygon",
-    "summary": "Hunt animals for a living, take over Nuka-World as a raider warlord, or never leave one settlement",
-    "date": "Wed, 21 Oct 2026 20:00:17 GMT",
-    "link": "https://www.polygon.com/fallout-4-replay-ideas/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 13,
-    "title": "It gives me great nerdly joy that the Next Fest demo on Steam's 100 most-played games list is a shopkeeping sim",
+    "title": "The next Mass Effect would have had 'a level of autonomy and choice that no other game has been able to match', according to BioWare veteran",
     "source": "PC Gamer",
-    "summary": "(Don't worry, you don't need to be a sim geek to dig it.)",
-    "date": "Wed, 21 Oct 2026 20:06:33 +0000",
-    "link": "https://www.pcgamer.com/games/sim/it-gives-me-great-nerdly-joy-that-the-next-fest-demo-on-steams-100-most-played-games-list-is-a-shopkeeping-sim/",
+    "summary": "BioWare had paid attention to Larian and CD Projekt.",
+    "date": "Thu, 22 Oct 2026 01:14:40 +0000",
+    "link": "https://www.pcgamer.com/games/mass-effect/the-next-mass-effect-would-have-had-a-level-of-autonomy-and-choice-that-no-other-game-has-been-able-to-match-according-to-bioware-veteran/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.53,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
     },
     "tags": [
-      "Steam"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "Everyone gets a free ticket to World of Warcraft: Forever today as Blizzard stress tests the servers ahead of launch day",
+    "title": "Can you identify the horror game by its horrors?",
     "source": "PC Gamer",
-    "summary": "Get a taste of what it's like to compete with hundreds of other players to finish a quest.",
-    "date": "Wed, 21 Oct 2026 19:58:36 +0000",
-    "link": "https://www.pcgamer.com/games/world-of-warcraft/everyone-gets-a-free-ticket-to-world-of-warcraft-forever-today-as-blizzard-stress-tests-the-servers-ahead-of-launch-day/",
+    "summary": "Put a name to the nightmare.",
+    "date": "Thu, 22 Oct 2026 01:09:04 +0000",
+    "link": "https://www.pcgamer.com/games/can-you-identify-the-horror-game-by-its-horrors/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
     },
     "tags": [
       "News",
@@ -251,15 +252,15 @@
   },
   {
     "id": 15,
-    "title": "With BioWare dead, EA lays out its 'next chapter,' and it's pretty much as predicted: Guns and football are fine, and everything else is under the microscope",
+    "title": "Holy crap, they're making Serious Sam: The Third Encounter",
     "source": "PC Gamer",
-    "summary": "The changes predicted when Saudi Arabia's PIF bought Electronic Arts are coming true.",
-    "date": "Wed, 21 Oct 2026 18:41:11 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/with-bioware-dead-ea-lays-out-its-next-chapter-and-its-pretty-much-as-predicted-guns-and-football-are-fine-and-everything-else-is-under-the-microscope/",
+    "summary": "I've been waiting a quarter-century for this.",
+    "date": "Thu, 22 Oct 2026 00:12:03 +0000",
+    "link": "https://www.pcgamer.com/games/fps/holy-crap-theyre-making-serious-sam-the-third-encounter/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.38,
+      "badge": "danger"
     },
     "tags": [
       "News",
@@ -269,18 +270,18 @@
   },
   {
     "id": 16,
-    "title": "RIP BioWare: EA has shut down the legendary RPG developer",
+    "title": "Machinarium AI tribute cops a flogging from studio: 'This looks disgusting and has nothing to do with us or our craft'",
     "source": "PC Gamer",
-    "summary": "Bloomberg also reports that EA is cutting \"around 400 jobs\" across the company.",
-    "date": "Wed, 21 Oct 2026 17:16:53 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/rip-bioware-ea-has-shut-down-the-legendary-rpg-developer/",
+    "summary": "Three cheers for the slop intolerant.",
+    "date": "Wed, 21 Oct 2026 22:26:41 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/machinarium-ai-tribute-cops-a-flogging-from-studio-this-looks-disgusting-and-has-nothing-to-do-with-us-or-our-craft/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -1.0,
+      "badge": "danger"
     },
     "tags": [
-      "RPG"
+      "AI"
     ],
     "read_time": "1 min read"
   },
