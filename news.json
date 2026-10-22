@@ -1,6 +1,24 @@
 [
   {
     "id": 1,
+    "title": "'We Were Working on a Great Game' — Former Mass Effect 5 Writers Speak Out After EA Shuts Down BioWare",
+    "source": "IGN",
+    "summary": "`Former writers for the now-canceled Mass Effect 5 are speaking out on social media following news that BioWare, a beloved studio with more than 30 years of games under its belt, was shuttered by EA earlier today.",
+    "date": "Thu, 22 Oct 2026 05:56:58 +0000",
+    "link": "https://www.ign.com/articles/we-were-working-on-a-great-game-former-mass-effect-5-writers-speak-out-after-ea-shuts-down-bioware",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
     "title": "Dragon Ball Xenoverse 3 Narrows Release Window Following Player Feedback",
     "source": "IGN",
     "summary": "Bandai Namco announced a narrower release window for the upcoming multiplayer-enabled brawler Dragon Ball Xenoverse 3, although it's not too much more specific. Previously, the publisher had stated that the sequel to 2016 fan-favorite would arrive in 2027. Now, it's turned that from a 12-month windo...",
@@ -18,7 +36,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Brandon Sanderson Wants to Know Who Really Wrote the Mr. Beast Book",
     "source": "IGN",
     "summary": "",
@@ -36,7 +54,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "GTA 6's Fast Food Restaurant, Burger Shot, Is Coming to Real Life in the Miami Heat's Arena",
     "source": "IGN",
     "summary": "One of the most iconic fast food restaurants from the GTA universe is becoming real ahead of GTA 6's release.",
@@ -54,16 +72,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 4,
-    "title": "Call of Duty: Modern Warfare 4 DMZ Review So Far",
-    "source": "IGN",
-    "summary": "This bigger and better version of DMZ makes a great first impression.",
-    "date": "Wed, 21 Oct 2026 23:02:17 +0000",
-    "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-dmz-review",
+    "id": 5,
+    "title": "Xbox cloud gaming prices revealed, with 50 hours of ad-free game-time priced $11.99",
+    "source": "Eurogamer",
+    "summary": "Microsoft has revealed how much its Xbox cloud gaming service is going to cost, with 50 hours of stream-time selling for an introductory price of $11.99. Read more...",
+    "date": "Thu, 22 Oct 2026 09:10:43 +0000",
+    "link": "https://www.eurogamer.net/xbox-cloud-gaming-prices-revealed",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.31,
+      "score": 0.35,
       "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn",
+    "source": "Eurogamer",
+    "summary": "A new Star Wars: Battlefront game is reportedly in the works, and it's said to have Apex Legends and Star Wars Jedi studio Respawn working on it, as well as Battlefield and Battlefront developer DICE. Read more...",
+    "date": "Thu, 22 Oct 2026 08:40:15 +0000",
+    "link": "https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -72,7 +107,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 5,
+    "id": 7,
     "title": "EA cancels unannounced The Sims project, trims the Skate team and reportedly plans to lay off 400 workers: \"We're the number one publisher in Western HD gaming\"",
     "source": "Eurogamer",
     "summary": "Not only is EA closing down BioWare and cancelling the next Mass Effect - Electronic Arts has now announced a heap of drastic changes that include cutting 400 jobs across the company, pausing development on a project connected to The Sims, and bringing together Respawn and DICE. Read more...",
@@ -90,7 +125,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "BioWare is closing down and Mass Effect 5 is cancelled, months after Saudi Arabia's $55bn EA buyout",
     "source": "Eurogamer",
     "summary": "After over three decades of iconic RPGs, developer BioWare is closing down and its in-development Mass Effect game is no more. The move comes just months after corporate owner EA was bought out by a group of investment firms for $55 billion. Read more...",
@@ -108,12 +143,47 @@
     "read_time": "1 min read"
   },
   {
-    "id": 7,
-    "title": "First-person Soulslike Valor Mortis is already making a profit after seven days, despite launching against some stiff competition",
-    "source": "Eurogamer",
-    "summary": "Developer One More Level is wall-running toward another big success with its recently-released first-person Soulslike, Valor Mortis, which has already broken even after its first week. Read more...",
-    "date": "Wed, 21 Oct 2026 16:43:42 +0000",
-    "link": "https://www.eurogamer.net/soulslike-valor-mortis-making-profit-seven-days",
+    "id": 9,
+    "title": "The Nintendo Switch 2’s Open-World Era Is Officially Here, and It Rules",
+    "source": "Polygon",
+    "summary": "Nintendo Switch Sports Resort's excellent open-world modes continues an emerging Switch 2 trend started with Mario Kart World.",
+    "date": "Thu, 22 Oct 2026 11:00:17 GMT",
+    "link": "https://www.polygon.com/nintendo-switch-2-open-world-era/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 1.0,
+      "badge": "success"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Anime's Most Devastating Horror Story Is a Tragedy About Being Human",
+    "source": "Polygon",
+    "summary": "Devilman Crybaby is a brutal anime that transforms the end of the world into a nightmare about what makes us human.",
+    "date": "Thu, 22 Oct 2026 10:00:18 GMT",
+    "link": "https://www.polygon.com/devilman-crybaby-horror-anime-halloween-countdown/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.28,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "Phantom Blade Zero Will Get a Physical Release, But There's a Catch",
+    "source": "Polygon",
+    "summary": "Phantom Blade Zero will have a physical edition, but it will not be available on launch day.",
+    "date": "Thu, 22 Oct 2026 09:43:37 GMT",
+    "link": "https://www.polygon.com/phantom-blade-zero-physical-release-disc/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.13,
@@ -126,87 +196,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "CD Projekt Red details new Cyberpunk 2077 update - adding dual-wielding, cross-platform mods, Edgerunners story quests, and more",
-    "source": "Eurogamer",
-    "summary": "CD Projekt Red has detailed the substantial update coming to Cyberpunk 2077, revealing a new dual-wielding skill for pistols and revolvers, cyberware customisation, cross-platform mod support, and a brand-new Edgerunners-related story quest featuring voice actors from the Netflix anime show. Read mo...",
-    "date": "Wed, 21 Oct 2026 16:03:54 +0000",
-    "link": "https://www.eurogamer.net/cyberpunk-2077-update-edgerunners-2-mod-support",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "Cyberpunk"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "The 10 best alchemy cards in Magic: The Gathering, ranked",
-    "source": "Polygon",
-    "summary": "Alchemy produced some of Magic’s wildest digital-only cards",
-    "date": "Wed, 21 Oct 2026 22:59:28 GMT",
-    "link": "https://www.polygon.com/best-alchemy-cards-magic-gathering-mgt/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.67,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Baldur’s Gate 3 Returns With New Official Sequel Series",
-    "source": "Polygon",
-    "summary": "HBO is developing Baldur's Gate with Last of Us and Chernobyl creator Craig Mazin. The D&D fantasy series picks up where Baldur's Gate 3 left off.",
-    "date": "Wed, 21 Oct 2026 22:09:17 GMT",
-    "link": "https://www.polygon.com/baldurs-gate-3-sequel-series-hbo-streaming/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Demon Slayer: Infinity Castle 2 Rumored Release Date Discovered",
-    "source": "Polygon",
-    "summary": "Demon Slayer: Kimetsu No Yaiba: Infinity Castle 2's 2027 release date may have been exposed by anime fans after leak.",
-    "date": "Wed, 21 Oct 2026 21:08:13 GMT",
-    "link": "https://www.polygon.com/demon-slayer-infinity-castle-2-movie-release-date-2027/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 12,
-    "title": "HBO Poison Ivy Show Reportedly Coming From 'The Penguin' Producer",
+    "title": "‘Avatar: Seven Havens’ Producer Drops a Huge Clue About Korra and the Cataclysm",
     "source": "Polygon",
-    "summary": "A Poison Ivy TV series is reportedly in the works from The Penguin's showrunner. It would be separate from Matt Reeves' The Batman continuity.",
-    "date": "Wed, 21 Oct 2026 20:45:10 GMT",
-    "link": "https://www.polygon.com/hbo-dc-poison-ivy-tv-series-penguin-batman-dcu/",
+    "summary": "One comment from Avatar: Seven Havens executive producer Sehaj Sethi provides a major hint at what ultimately led to the Cataclysm.",
+    "date": "Thu, 22 Oct 2026 08:00:18 GMT",
+    "link": "https://www.polygon.com/avatar-seven-havens-korra-and-the-cataclysm/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -216,15 +215,15 @@
   },
   {
     "id": 13,
-    "title": "The next Mass Effect would have had 'a level of autonomy and choice that no other game has been able to match', according to BioWare veteran",
+    "title": "The iconic Windows fish screensaver was inspired by a dentist's office, which makes a lot of sense when you think about it",
     "source": "PC Gamer",
-    "summary": "BioWare had paid attention to Larian and CD Projekt.",
-    "date": "Thu, 22 Oct 2026 01:14:40 +0000",
-    "link": "https://www.pcgamer.com/games/mass-effect/the-next-mass-effect-would-have-had-a-level-of-autonomy-and-choice-that-no-other-game-has-been-able-to-match-according-to-bioware-veteran/",
+    "summary": "Top ten screensaver?",
+    "date": "Thu, 22 Oct 2026 10:58:33 +0000",
+    "link": "https://www.pcgamer.com/hardware/the-iconic-windows-fish-screensaver-was-inspired-by-a-dentists-office-which-makes-a-lot-of-sense-when-you-think-about-it/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.33,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -234,14 +233,14 @@
   },
   {
     "id": 14,
-    "title": "Can you identify the horror game by its horrors?",
+    "title": "Mass Effect's Amazon series is reportedly continuing after BioWare shutdown, which'll make an uncomfortable gravestone for the studio's work",
     "source": "PC Gamer",
-    "summary": "Put a name to the nightmare.",
-    "date": "Thu, 22 Oct 2026 01:09:04 +0000",
-    "link": "https://www.pcgamer.com/games/can-you-identify-the-horror-game-by-its-horrors/",
+    "summary": "Here lies BioWare's sci-fi opera, you can tell because we put 'Mass Effect' on the gravestone.",
+    "date": "Thu, 22 Oct 2026 10:52:44 +0000",
+    "link": "https://www.pcgamer.com/movies-tv/mass-effects-amazon-series-is-reportedly-continuing-after-bioware-shutdown-whichll-make-an-uncomfortable-gravestone-for-the-studios-work/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.4,
+      "score": -0.5,
       "badge": "danger"
     },
     "tags": [
@@ -252,15 +251,15 @@
   },
   {
     "id": 15,
-    "title": "Holy crap, they're making Serious Sam: The Third Encounter",
+    "title": "Star Wars: The Old Republic lead writer calls out BioWare for snubbing the MMO",
     "source": "PC Gamer",
-    "summary": "I've been waiting a quarter-century for this.",
-    "date": "Thu, 22 Oct 2026 00:12:03 +0000",
-    "link": "https://www.pcgamer.com/games/fps/holy-crap-theyre-making-serious-sam-the-third-encounter/",
+    "summary": "The long-running MMO didn't get a mention when BioWare announced it was closing.",
+    "date": "Thu, 22 Oct 2026 10:51:53 +0000",
+    "link": "https://www.pcgamer.com/games/mmo/star-wars-the-old-republic-lead-writer-calls-out-bioware-for-snubbing-the-mmo/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.38,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -270,18 +269,19 @@
   },
   {
     "id": 16,
-    "title": "Machinarium AI tribute cops a flogging from studio: 'This looks disgusting and has nothing to do with us or our craft'",
+    "title": "How to get electronic sensors in Modern Warfare 4 DMZ",
     "source": "PC Gamer",
-    "summary": "Three cheers for the slop intolerant.",
-    "date": "Wed, 21 Oct 2026 22:26:41 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/machinarium-ai-tribute-cops-a-flogging-from-studio-this-looks-disgusting-and-has-nothing-to-do-with-us-or-our-craft/",
+    "summary": "One of two materials you'll need to expand your stash.",
+    "date": "Thu, 22 Oct 2026 10:26:58 +0000",
+    "link": "https://www.pcgamer.com/games/call-of-duty/dmz-electronic-sensors-location/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -1.0,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
     },
     "tags": [
-      "AI"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
