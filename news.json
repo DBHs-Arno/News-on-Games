@@ -1,78 +1,95 @@
 [
   {
     "id": 1,
-    "title": "First GTA 6 TV Commercial Strips Out Steamy Shower Scenes, but Shows More of Lucia's Fancy Hair Tech",
+    "title": "Cormac McCarthy’s The Road Is on Sale for $1.99 on Kindle",
     "source": "IGN",
-    "summary": "GTA 6 has its first TV commercial, and it's a little different than the launch trailer.",
-    "date": "Thu, 22 Oct 2026 13:40:42 +0000",
-    "link": "https://www.ign.com/articles/gta-6-tv-commercial-strips-shower-scene-doesnt-mention-xbox",
+    "summary": "",
+    "date": "Thu, 22 Oct 2026 19:00:49 +0000",
+    "link": "https://www.ign.com/articles/cormac-mccarthys-the-road-is-on-sale-for-199-on-kindle",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Mass Effect 5 Trailer Reportedly Ready to Go Before BioWare Closure",
+    "title": "Valve Developer Mistakenly Mentions Rumored Half-Life 3 Codename",
     "source": "IGN",
-    "summary": "A Mass Effect 5 trailer was reportedly ready to go before EA canceled the game and shut BioWare down.",
-    "date": "Thu, 22 Oct 2026 13:04:32 +0000",
-    "link": "https://www.ign.com/articles/mass-effect-5-trailer-reportedly-ready-to-go-before-bioware-closure",
+    "summary": "A Valve developer mistakenly slipped up and made mention of Half-Life 3's long rumored codename during a recent conference.",
+    "date": "Thu, 22 Oct 2026 18:46:00 +0000",
+    "link": "https://www.ign.com/articles/valve-developer-mistakenly-mentions-rumored-half-life-3-codename",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.04,
+      "score": -0.03,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "DevGAMM Awards 2026 Reveals 70 Nominated Games For Its 3rd Annual Show: See the Full List",
+    "title": "LEGO Disney Sets Are Hitting All-Time Low Prices on Amazon Right Now",
     "source": "IGN",
-    "summary": "Check out the full list of nominees from the third annual DevGAMM Awards, which will celebrate 70 games from 25 different countries on November 18, 2026.",
-    "date": "Thu, 22 Oct 2026 13:00:00 +0000",
-    "link": "https://www.ign.com/articles/devgamm-awards-2026-reveals-70-nominated-games-for-its-3rd-annual-show-see-the-full-list",
+    "summary": "",
+    "date": "Thu, 22 Oct 2026 17:42:23 +0000",
+    "link": "https://www.ign.com/articles/lego-disney-sets-are-hitting-all-time-low-prices-on-amazon-right-now",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.14,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Before There Was Heated Rivalry, There Was Yuri!!! On Ice",
+    "title": "GTA 6 Is Almost Here: Trade in Your Old Console and Save on an Upgrade at PayMore",
     "source": "IGN",
-    "summary": "Ten years later, the anime Yuri!!! On Ice remains special – and groundbreaking.",
-    "date": "Thu, 22 Oct 2026 12:00:00 +0000",
-    "link": "https://www.ign.com/articles/before-there-was-heated-rivalry-there-was-yuri-on-ice",
+    "summary": "What is your old system worth?",
+    "date": "Thu, 22 Oct 2026 17:37:00 +0000",
+    "link": "https://www.ign.com/articles/gta-6-trade-in-old-console-save-on-upgrade-paymore",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.12,
+      "score": 0.17,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "Smash Bros. director Masahiro Sakurai thinks gen-AI will cause a surge of unoriginal games, but says human creativity can't be replicated",
+    "source": "Eurogamer",
+    "summary": "Masahiro Sakurai has spoken about the pitfalls of generative AI use in game development, saying that while he believes the technology will result in a surge of unoriginal video games, human creativity - such as that shown by designers like Ico's Fumito Ueda - can't be replicated. Read more...",
+    "date": "Thu, 22 Oct 2026 17:00:49 +0000",
+    "link": "https://www.eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.04,
+      "badge": "info"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
     "title": "Final Fantasy 14, Umamusume: Pretty Derby, and more impacted as PHP vulnerability outages hit games around the globe",
     "source": "Eurogamer",
     "summary": "Multiple games - including Final Fantasy 14 and Umamusume: Pretty Derby - have faced outages and other issues following this week's discovery of a serious PHP vulnerability. Read more...",
@@ -84,13 +101,13 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver \"a level of autonomy and choice that no other game has\"",
     "source": "Eurogamer",
     "summary": "EA has closed its longtime studio partner BioWare, the iconic development house behind Mass Effect and Dragon Age, impacting around 50 staff who were in pre-production on the next Mass Effect game. In the aftermath of EA's decision, one of those affected has shared a little about the project, claimi...",
@@ -102,13 +119,13 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Despite its mixed reception, Marvel's Wolverine was September's top-selling new game in the US, making Sony launch revenues it hasn't seen since Helldivers 2",
     "source": "Eurogamer",
     "summary": "Marvel's Wolverine may not have had the best critical reception, but that clearly didn't discourage consumers. The action-adventure from Marvel's Spider-Man studio Insomniac has topped US video game sales in September, despite releasing exactly halfway through the month. Read more...",
@@ -120,21 +137,179 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "Games industry mourns sudden BioWare closure - \"Anyone who participated in this travesty should be ashamed\"",
-    "source": "Eurogamer",
-    "summary": "Following the sudden closure of Bioware last night, people from across the games industry have shared their sympathies for those employees losing their jobs, and said farewell to one of the most influential RPG developers of all time. Read more...",
-    "date": "Thu, 22 Oct 2026 12:56:13 +0000",
-    "link": "https://www.eurogamer.net/video-game-industry-reacts-to-bioware-closure",
+    "id": 9,
+    "title": "'Clayface' Officially Sets Up Another Iconic Batman Villain in the DC Universe",
+    "source": "Polygon",
+    "summary": "Clayface is filled with some very noticible Easter eggs about the Joker",
+    "date": "Thu, 22 Oct 2026 21:00:19 GMT",
+    "link": "https://www.polygon.com/clayface-joker-easter-eggs/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.17,
+      "score": 0.37,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Everything We Know About the PS6, Sony’s Next-Gen Console",
+    "source": "Polygon",
+    "summary": "A rundown of everything announced, reported, leaked, and rumored about PlayStation 6, including release date, price, and specs",
+    "date": "Thu, 22 Oct 2026 20:12:31 GMT",
+    "link": "https://www.polygon.com/ps6-playstation-6-release-date-price/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "Everything We Know About Project Helix, the Next Xbox",
+    "source": "Polygon",
+    "summary": "A rundown of everything announced, reported, leaked, and rumored about the next-gen Xbox, including, release date, price, and specs",
+    "date": "Thu, 22 Oct 2026 20:12:23 GMT",
+    "link": "https://www.polygon.com/next-xbox-console-release-date-price-project-helix/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "'Avatar: Seven Havens' Producers Provide a Suspicious Answer About the Anomaly",
+    "source": "Polygon",
+    "summary": "Avatar: Seven Havens producers address whether the Anomaly’s mysterious diamond-shaped entity is connected to Vaatu.",
+    "date": "Thu, 22 Oct 2026 20:01:19 GMT",
+    "link": "https://www.polygon.com/avatar-seven-havens-producers-interview-anomaly-vaatu-connection/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Half-Life 3 re-re-re-confirmed: A Valve dev just said 'HLX' out loud",
+    "source": "PC Gamer",
+    "summary": "There's no mistaking it this time—he said it.",
+    "date": "Thu, 22 Oct 2026 20:16:39 +0000",
+    "link": "https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "How to dual wield in Cyberpunk 2077",
+    "source": "PC Gamer",
+    "summary": "Combo your pistols or revolvers with the 2.5 update.",
+    "date": "Thu, 22 Oct 2026 19:35:48 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/how-to-dual-wield-in-cyberpunk-2077/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Cyberpunk"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "How to get King's outfit in Cyberpunk 2077",
+    "source": "PC Gamer",
+    "summary": "Grab Weak Kingsley's coat, glasses, and gun from Edgerunners 2.",
+    "date": "Thu, 22 Oct 2026 19:32:18 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/cyberpunk-2077-king-outfit-clampdown-edgerunners/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.38,
+      "badge": "danger"
+    },
+    "tags": [
+      "Cyberpunk"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Future Capcom games will have Onimusha to thank for RE Engine's gnarly dismemberments",
+    "source": "PC Gamer",
+    "summary": "Surely this will come in handy for the next Resident Evil.",
+    "date": "Thu, 22 Oct 2026 19:18:23 +0000",
+    "link": "https://www.pcgamer.com/games/action/future-capcom-games-will-have-onimusha-to-thank-for-re-engines-gnarly-dismemberments/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "GTA 6’s New TV Trailer Is A Bit Different, See It For Yourself",
+    "source": "GameSpot",
+    "summary": "GTA 6's marketing push is ramping up substantially, and that includes with TV commercials. Eagled-eyes fans have discovered that the new GTA 6 TV spots actually contain some extended sequences, but just barely.\nFor starters, a 30-second TV spot cuts out the steamy shower scenes with Jason and Lucia ...",
+    "date": "Thu, 22 Oct 2026 19:52:26 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6s-new-tv-trailer-is-a-bit-different-see-it-for-yourself/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "I’m Getting Very Worried About Skate Following EA Layoffs",
+    "source": "GameSpot",
+    "summary": "Publisher Electronic Arts recently slashed 400 roles across its company, which resulted in the shuttering of legendary RPG studio BioWare. But also impacted by the layoffs was Skate developer Full Circle, and now I'm growing increasingly worried about the future of a franchise I waited so long to ma...",
+    "date": "Thu, 22 Oct 2026 19:49:22 +0000",
+    "link": "https://www.gamespot.com/articles/im-getting-very-worried-about-skate-following-ea-layoffs/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.21,
       "badge": "success"
     },
     "tags": [
@@ -143,218 +318,37 @@
     "read_time": "1 min read"
   },
   {
-    "id": 9,
-    "title": "Dungeon Crawler Carl Is Officially Getting a New Release Next Year",
-    "source": "Polygon",
-    "summary": "Dungeon Crawler Carl is getting a comic book series from Vault Comics in 2027",
-    "date": "Thu, 22 Oct 2026 16:32:19 GMT",
-    "link": "https://www.polygon.com/dungeon-crawler-carl-litrpg-vault-comics-series-announced/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.13,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "'Mass Effect Universe' Trailer Leaks A Day After BioWare Shutters",
-    "source": "Polygon",
-    "summary": "A short clip teases what is essentially Mass Effect 5 with a new cast of characters, new powers, shooting gameplay, and even romance scenes",
-    "date": "Thu, 22 Oct 2026 16:29:11 GMT",
-    "link": "https://www.polygon.com/mass-effect-5-trailer-universe-what-is-bioware-leak-development/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Superhero Workplace Comedy Hit 'Dispatch' Reveals Huge Update and New Platforms",
-    "source": "Polygon",
-    "summary": "Dispatch hits 5 million players as AdHoc Studio announces new game modes, a December mobile release, a live concert, and collectibles.",
-    "date": "Thu, 22 Oct 2026 16:15:22 GMT",
-    "link": "https://www.polygon.com/dispatch-anniversary-new-modes-mobile-release/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Winter Sotoyama region treasure hunt location in Forza Horizon 6",
-    "source": "Polygon",
-    "summary": "The winter treasure hunt is located in the Sotoyama region of Forza Horizon 6. Here's its exact location and how to reach it.",
-    "date": "Thu, 22 Oct 2026 16:12:28 GMT",
-    "link": "https://www.polygon.com/forza-horizon-6-fh6-treasure-hunt-location/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Ex-BioWare boss and Mass Effect director Casey Hudson says he'll 'forever be grateful' for his time at the studio: 'Its legacy will live on'",
-    "source": "PC Gamer",
-    "summary": "The former KotOR director's new studio is working on its own Star Wars entry in the Old Republic era.",
-    "date": "Thu, 22 Oct 2026 16:24:11 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/ex-bioware-boss-and-mass-effect-director-casey-hudson-says-hell-forever-be-grateful-for-his-time-at-the-studio-its-legacy-will-live-on/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.19,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Clive Barker's Hellraiser: Revival review–Rough around the edges",
-    "source": "PC Gamer",
-    "summary": "Hellraiser: Revival may not be great action horror but it does win the prize for most unique fetch quest.",
-    "date": "Thu, 22 Oct 2026 15:50:04 +0000",
-    "link": "https://www.pcgamer.com/games/horror/clive-barkers-hellraiser-revival-review/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.52,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "I've been waiting to see a pixel bounce into a perfect corner since childhood and finally this Next Fest Demo delivered it",
-    "source": "PC Gamer",
-    "summary": "I saw it hit the corner, I swear I did.",
-    "date": "Thu, 22 Oct 2026 15:25:08 +0000",
-    "link": "https://www.pcgamer.com/games/adventure/ive-been-waiting-to-see-a-pixel-bounce-into-a-perfect-corner-since-childhood-and-finally-this-next-fest-demo-delivered-it/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.33,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "EA has reportedly put DICE and Respawn to work on a new Star Wars: Battlefront game",
-    "source": "PC Gamer",
-    "summary": "It will unlock growth, which I'm pretty excited about.",
-    "date": "Thu, 22 Oct 2026 15:23:33 +0000",
-    "link": "https://www.pcgamer.com/games/fps/ea-has-reportedly-put-dice-and-respawn-to-work-on-a-new-star-wars-battlefront-game/",
+    "id": 19,
+    "title": "WoW: Forever Is Keeping Its Secrets Close To The Chest",
+    "source": "GameSpot",
+    "summary": "World of Warcraft: Forever players may have searched its beta with a fine-toothed comb, but Blizzard said there are still plenty of secrets waiting to be found come launch and beyond.\nIn a new WoW: Forever Podcast dedicated to the end of the beta, Blizzard made clear it's keeping many of the game's ...",
+    "date": "Thu, 22 Oct 2026 19:10:38 +0000",
+    "link": "https://www.gamespot.com/articles/wow-forever-is-keeping-its-secrets-close-to-the-chest/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.09,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "Dispatch Is Coming To Mobile In December, With Its First Four Episodes Free",
-    "source": "GameSpot",
-    "summary": "Ahead of its first anniversary, Dispatch developer AdHoc has revealed a big (and free) update for the deluxe edition of the superhero workplace-dramedy. Available now on all platforms where the deluxe edition is available, two new behind-the-scenes modes are being added to Dispatch. Dispatch is also...",
-    "date": "Thu, 22 Oct 2026 16:15:00 +0000",
-    "link": "https://www.gamespot.com/articles/dispatch-is-coming-to-mobile-in-december-with-its-first-four-episodes-free/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.34,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "Battlefield 1’s Jack Lowden Is One Of The Finalists For New James Bond, Apparently",
-    "source": "GameSpot",
-    "summary": "As rumored, it appears that actor Jack Lowden, who played Lawrence of Arabia in EA's Battlefield 1, is a finalist to play James Bond.\nAccording to Deadline, \"final auditions\" for the role will take place over the next week, and the process will include screen tests. At least four actors are coming i...",
-    "date": "Thu, 22 Oct 2026 15:38:56 +0000",
-    "link": "https://www.gamespot.com/articles/battlefield-1s-jack-lowden-is-one-of-the-finalists-for-new-james-bond-apparently/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "Katana Zero DLC Is Still Coming, And It’s Apparently Freakin’ Huge Now",
-    "source": "GameSpot",
-    "summary": "It's been a minute since we've heard anything about Askiisoft's samurai platformer Katana Zero, but the developer has re-re-reconfirmed that, yes, the DLC is still on the way--and it's big. Like, so big Askiisoft is basically calling it a sequel.\nIn a Bluesky post on October 22, Justin Stander of As...",
-    "date": "Thu, 22 Oct 2026 15:28:46 +0000",
-    "link": "https://www.gamespot.com/articles/katana-zero-dlc-is-still-coming-and-its-apparently-freakin-huge-now/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "Why Street Fighter Movie Goes For “Gonzo” Vibes Instead of Gritty And Grounded",
+    "title": "The Leaked Mass Effect 5 Trailer Is Absolutely Heartbreaking",
     "source": "GameSpot",
-    "summary": "Street Fighter movie director Kitao Sakurai has shared new insights into the recently released video game movie, including how he intentionally wanted it to go for a \"gonzo\" style of over-the-top action and silliness as opposed to being gritty and grounded.\n\"There’s a silliness to it, and there’s an...",
-    "date": "Thu, 22 Oct 2026 15:19:11 +0000",
-    "link": "https://www.gamespot.com/articles/why-street-fighter-movie-goes-for-gonzo-vibes-instead-of-gritty-and-grounded/",
+    "summary": "After hearing the disappointing news that EA has shuttered BioWare, putting an end to two of my favorite RPG franchises—Mass Effect and Dragon Age—I have been, like so many other players, feeling pretty bummed out. But I consoled myself with the fact that, given the environment at BioWare in recent ...",
+    "date": "Thu, 22 Oct 2026 19:06:27 +0000",
+    "link": "https://www.gamespot.com/articles/the-leaked-mass-effect-5-trailer-is-absolutely-heartbreaking/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.09,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.1,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "RPG"
     ],
     "read_time": "1 min read"
   }
