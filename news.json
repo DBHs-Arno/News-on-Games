@@ -1,357 +1,360 @@
 [
   {
     "id": 1,
-    "title": "'We Were Working on a Great Game' — Former Mass Effect 5 Writers Speak Out After EA Shuts Down BioWare",
+    "title": "First GTA 6 TV Commercial Strips Out Steamy Shower Scenes, but Shows More of Lucia's Fancy Hair Tech",
     "source": "IGN",
-    "summary": "`Former writers for the now-canceled Mass Effect 5 are speaking out on social media following news that BioWare, a beloved studio with more than 30 years of games under its belt, was shuttered by EA earlier today.",
-    "date": "Thu, 22 Oct 2026 05:56:58 +0000",
-    "link": "https://www.ign.com/articles/we-were-working-on-a-great-game-former-mass-effect-5-writers-speak-out-after-ea-shuts-down-bioware",
+    "summary": "GTA 6 has its first TV commercial, and it's a little different than the launch trailer.",
+    "date": "Thu, 22 Oct 2026 13:40:42 +0000",
+    "link": "https://www.ign.com/articles/gta-6-tv-commercial-strips-shower-scene-doesnt-mention-xbox",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.15,
+      "score": 0.12,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Dragon Ball Xenoverse 3 Narrows Release Window Following Player Feedback",
+    "title": "Mass Effect 5 Trailer Reportedly Ready to Go Before BioWare Closure",
     "source": "IGN",
-    "summary": "Bandai Namco announced a narrower release window for the upcoming multiplayer-enabled brawler Dragon Ball Xenoverse 3, although it's not too much more specific. Previously, the publisher had stated that the sequel to 2016 fan-favorite would arrive in 2027. Now, it's turned that from a 12-month windo...",
-    "date": "Thu, 22 Oct 2026 00:41:48 +0000",
-    "link": "https://www.ign.com/articles/dragon-ball-xenoverse-3-narrows-release-window-following-player-feedback",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Brandon Sanderson Wants to Know Who Really Wrote the Mr. Beast Book",
-    "source": "IGN",
-    "summary": "",
-    "date": "Thu, 22 Oct 2026 00:14:50 +0000",
-    "link": "https://www.ign.com/articles/brandon-sanderson-wants-to-know-who-really-wrote-the-mr-beast-book",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "GTA 6's Fast Food Restaurant, Burger Shot, Is Coming to Real Life in the Miami Heat's Arena",
-    "source": "IGN",
-    "summary": "One of the most iconic fast food restaurants from the GTA universe is becoming real ahead of GTA 6's release.",
-    "date": "Wed, 21 Oct 2026 23:15:44 +0000",
-    "link": "https://www.ign.com/articles/gta-6s-fast-food-restaurant-burger-shot-is-coming-to-real-life-in-the-miami-heats-arena",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.32,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "Xbox cloud gaming prices revealed, with 50 hours of ad-free game-time priced $11.99",
-    "source": "Eurogamer",
-    "summary": "Microsoft has revealed how much its Xbox cloud gaming service is going to cost, with 50 hours of stream-time selling for an introductory price of $11.99. Read more...",
-    "date": "Thu, 22 Oct 2026 09:10:43 +0000",
-    "link": "https://www.eurogamer.net/xbox-cloud-gaming-prices-revealed",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.35,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn",
-    "source": "Eurogamer",
-    "summary": "A new Star Wars: Battlefront game is reportedly in the works, and it's said to have Apex Legends and Star Wars Jedi studio Respawn working on it, as well as Battlefield and Battlefront developer DICE. Read more...",
-    "date": "Thu, 22 Oct 2026 08:40:15 +0000",
-    "link": "https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "EA cancels unannounced The Sims project, trims the Skate team and reportedly plans to lay off 400 workers: \"We're the number one publisher in Western HD gaming\"",
-    "source": "Eurogamer",
-    "summary": "Not only is EA closing down BioWare and cancelling the next Mass Effect - Electronic Arts has now announced a heap of drastic changes that include cutting 400 jobs across the company, pausing development on a project connected to The Sims, and bringing together Respawn and DICE. Read more...",
-    "date": "Wed, 21 Oct 2026 19:01:46 +0000",
-    "link": "https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs",
+    "summary": "A Mass Effect 5 trailer was reportedly ready to go before EA canceled the game and shut BioWare down.",
+    "date": "Thu, 22 Oct 2026 13:04:32 +0000",
+    "link": "https://www.ign.com/articles/mass-effect-5-trailer-reportedly-ready-to-go-before-bioware-closure",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": -0.04,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "BioWare is closing down and Mass Effect 5 is cancelled, months after Saudi Arabia's $55bn EA buyout",
-    "source": "Eurogamer",
-    "summary": "After over three decades of iconic RPGs, developer BioWare is closing down and its in-development Mass Effect game is no more. The move comes just months after corporate owner EA was bought out by a group of investment firms for $55 billion. Read more...",
-    "date": "Wed, 21 Oct 2026 17:55:57 +0000",
-    "link": "https://www.eurogamer.net/bioware-closing-down-mass-effect-5-cancelled",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "The Nintendo Switch 2’s Open-World Era Is Officially Here, and It Rules",
-    "source": "Polygon",
-    "summary": "Nintendo Switch Sports Resort's excellent open-world modes continues an emerging Switch 2 trend started with Mario Kart World.",
-    "date": "Thu, 22 Oct 2026 11:00:17 GMT",
-    "link": "https://www.polygon.com/nintendo-switch-2-open-world-era/",
+    "id": 3,
+    "title": "DevGAMM Awards 2026 Reveals 70 Nominated Games For Its 3rd Annual Show: See the Full List",
+    "source": "IGN",
+    "summary": "Check out the full list of nominees from the third annual DevGAMM Awards, which will celebrate 70 games from 25 different countries on November 18, 2026.",
+    "date": "Thu, 22 Oct 2026 13:00:00 +0000",
+    "link": "https://www.ign.com/articles/devgamm-awards-2026-reveals-70-nominated-games-for-its-3rd-annual-show-see-the-full-list",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 1.0,
+      "score": 0.14,
       "badge": "success"
     },
     "tags": [
-      "Nintendo"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "Anime's Most Devastating Horror Story Is a Tragedy About Being Human",
-    "source": "Polygon",
-    "summary": "Devilman Crybaby is a brutal anime that transforms the end of the world into a nightmare about what makes us human.",
-    "date": "Thu, 22 Oct 2026 10:00:18 GMT",
-    "link": "https://www.polygon.com/devilman-crybaby-horror-anime-halloween-countdown/",
+    "id": 4,
+    "title": "Before There Was Heated Rivalry, There Was Yuri!!! On Ice",
+    "source": "IGN",
+    "summary": "Ten years later, the anime Yuri!!! On Ice remains special – and groundbreaking.",
+    "date": "Thu, 22 Oct 2026 12:00:00 +0000",
+    "link": "https://www.ign.com/articles/before-there-was-heated-rivalry-there-was-yuri-on-ice",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Final Fantasy 14, Umamusume: Pretty Derby, and more impacted as PHP vulnerability outages hit games around the globe",
+    "source": "Eurogamer",
+    "summary": "Multiple games - including Final Fantasy 14 and Umamusume: Pretty Derby - have faced outages and other issues following this week's discovery of a serious PHP vulnerability. Read more...",
+    "date": "Thu, 22 Oct 2026 14:11:14 +0000",
+    "link": "https://www.eurogamer.net/video-games-down-php-vulnerability",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.1,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver \"a level of autonomy and choice that no other game has\"",
+    "source": "Eurogamer",
+    "summary": "EA has closed its longtime studio partner BioWare, the iconic development house behind Mass Effect and Dragon Age, impacting around 50 staff who were in pre-production on the next Mass Effect game. In the aftermath of EA's decision, one of those affected has shared a little about the project, claimi...",
+    "date": "Thu, 22 Oct 2026 13:35:34 +0000",
+    "link": "https://www.eurogamer.net/cancelled-mass-effect-bioware-unprecedented-levels-of-autonomy",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.28,
+      "score": -0.15,
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 11,
-    "title": "Phantom Blade Zero Will Get a Physical Release, But There's a Catch",
-    "source": "Polygon",
-    "summary": "Phantom Blade Zero will have a physical edition, but it will not be available on launch day.",
-    "date": "Thu, 22 Oct 2026 09:43:37 GMT",
-    "link": "https://www.polygon.com/phantom-blade-zero-physical-release-disc/",
+    "id": 7,
+    "title": "Despite its mixed reception, Marvel's Wolverine was September's top-selling new game in the US, making Sony launch revenues it hasn't seen since Helldivers 2",
+    "source": "Eurogamer",
+    "summary": "Marvel's Wolverine may not have had the best critical reception, but that clearly didn't discourage consumers. The action-adventure from Marvel's Spider-Man studio Insomniac has topped US video game sales in September, despite releasing exactly halfway through the month. Read more...",
+    "date": "Thu, 22 Oct 2026 13:22:52 +0000",
+    "link": "https://www.eurogamer.net/marvels-wolverine-top-seling-september-us-circana",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.13,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Games industry mourns sudden BioWare closure - \"Anyone who participated in this travesty should be ashamed\"",
+    "source": "Eurogamer",
+    "summary": "Following the sudden closure of Bioware last night, people from across the games industry have shared their sympathies for those employees losing their jobs, and said farewell to one of the most influential RPG developers of all time. Read more...",
+    "date": "Thu, 22 Oct 2026 12:56:13 +0000",
+    "link": "https://www.eurogamer.net/video-game-industry-reacts-to-bioware-closure",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "Dungeon Crawler Carl Is Officially Getting a New Release Next Year",
+    "source": "Polygon",
+    "summary": "Dungeon Crawler Carl is getting a comic book series from Vault Comics in 2027",
+    "date": "Thu, 22 Oct 2026 16:32:19 GMT",
+    "link": "https://www.polygon.com/dungeon-crawler-carl-litrpg-vault-comics-series-announced/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.13,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "'Mass Effect Universe' Trailer Leaks A Day After BioWare Shutters",
+    "source": "Polygon",
+    "summary": "A short clip teases what is essentially Mass Effect 5 with a new cast of characters, new powers, shooting gameplay, and even romance scenes",
+    "date": "Thu, 22 Oct 2026 16:29:11 GMT",
+    "link": "https://www.polygon.com/mass-effect-5-trailer-universe-what-is-bioware-leak-development/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "Superhero Workplace Comedy Hit 'Dispatch' Reveals Huge Update and New Platforms",
+    "source": "Polygon",
+    "summary": "Dispatch hits 5 million players as AdHoc Studio announces new game modes, a December mobile release, a live concert, and collectibles.",
+    "date": "Thu, 22 Oct 2026 16:15:22 GMT",
+    "link": "https://www.polygon.com/dispatch-anniversary-new-modes-mobile-release/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "‘Avatar: Seven Havens’ Producer Drops a Huge Clue About Korra and the Cataclysm",
+    "title": "Winter Sotoyama region treasure hunt location in Forza Horizon 6",
     "source": "Polygon",
-    "summary": "One comment from Avatar: Seven Havens executive producer Sehaj Sethi provides a major hint at what ultimately led to the Cataclysm.",
-    "date": "Thu, 22 Oct 2026 08:00:18 GMT",
-    "link": "https://www.polygon.com/avatar-seven-havens-korra-and-the-cataclysm/",
+    "summary": "The winter treasure hunt is located in the Sotoyama region of Forza Horizon 6. Here's its exact location and how to reach it.",
+    "date": "Thu, 22 Oct 2026 16:12:28 GMT",
+    "link": "https://www.polygon.com/forza-horizon-6-fh6-treasure-hunt-location/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.15,
+      "score": 0.25,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "The iconic Windows fish screensaver was inspired by a dentist's office, which makes a lot of sense when you think about it",
+    "title": "Ex-BioWare boss and Mass Effect director Casey Hudson says he'll 'forever be grateful' for his time at the studio: 'Its legacy will live on'",
     "source": "PC Gamer",
-    "summary": "Top ten screensaver?",
-    "date": "Thu, 22 Oct 2026 10:58:33 +0000",
-    "link": "https://www.pcgamer.com/hardware/the-iconic-windows-fish-screensaver-was-inspired-by-a-dentists-office-which-makes-a-lot-of-sense-when-you-think-about-it/",
+    "summary": "The former KotOR director's new studio is working on its own Star Wars entry in the Old Republic era.",
+    "date": "Thu, 22 Oct 2026 16:24:11 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/ex-bioware-boss-and-mass-effect-director-casey-hudson-says-hell-forever-be-grateful-for-his-time-at-the-studio-its-legacy-will-live-on/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.19,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Clive Barker's Hellraiser: Revival review–Rough around the edges",
+    "source": "PC Gamer",
+    "summary": "Hellraiser: Revival may not be great action horror but it does win the prize for most unique fetch quest.",
+    "date": "Thu, 22 Oct 2026 15:50:04 +0000",
+    "link": "https://www.pcgamer.com/games/horror/clive-barkers-hellraiser-revival-review/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.52,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "I've been waiting to see a pixel bounce into a perfect corner since childhood and finally this Next Fest Demo delivered it",
+    "source": "PC Gamer",
+    "summary": "I saw it hit the corner, I swear I did.",
+    "date": "Thu, 22 Oct 2026 15:25:08 +0000",
+    "link": "https://www.pcgamer.com/games/adventure/ive-been-waiting-to-see-a-pixel-bounce-into-a-perfect-corner-since-childhood-and-finally-this-next-fest-demo-delivered-it/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.33,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Mass Effect's Amazon series is reportedly continuing after BioWare shutdown, which'll make an uncomfortable gravestone for the studio's work",
-    "source": "PC Gamer",
-    "summary": "Here lies BioWare's sci-fi opera, you can tell because we put 'Mass Effect' on the gravestone.",
-    "date": "Thu, 22 Oct 2026 10:52:44 +0000",
-    "link": "https://www.pcgamer.com/movies-tv/mass-effects-amazon-series-is-reportedly-continuing-after-bioware-shutdown-whichll-make-an-uncomfortable-gravestone-for-the-studios-work/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.5,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Star Wars: The Old Republic lead writer calls out BioWare for snubbing the MMO",
-    "source": "PC Gamer",
-    "summary": "The long-running MMO didn't get a mention when BioWare announced it was closing.",
-    "date": "Thu, 22 Oct 2026 10:51:53 +0000",
-    "link": "https://www.pcgamer.com/games/mmo/star-wars-the-old-republic-lead-writer-calls-out-bioware-for-snubbing-the-mmo/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "How to get electronic sensors in Modern Warfare 4 DMZ",
+    "title": "EA has reportedly put DICE and Respawn to work on a new Star Wars: Battlefront game",
     "source": "PC Gamer",
-    "summary": "One of two materials you'll need to expand your stash.",
-    "date": "Thu, 22 Oct 2026 10:26:58 +0000",
-    "link": "https://www.pcgamer.com/games/call-of-duty/dmz-electronic-sensors-location/",
+    "summary": "It will unlock growth, which I'm pretty excited about.",
+    "date": "Thu, 22 Oct 2026 15:23:33 +0000",
+    "link": "https://www.pcgamer.com/games/fps/ea-has-reportedly-put-dice-and-respawn-to-work-on-a-new-star-wars-battlefront-game/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
-    "title": "EA Cancels New Mass Effect, Pauses New Sims Game, And All The Other  Big EA News That Just Happened",
+    "title": "Dispatch Is Coming To Mobile In December, With Its First Four Episodes Free",
     "source": "GameSpot",
-    "summary": "When EA was acquired by Saudi Arabia's Public Investment Fund, many expected major changes at the gaming company, including layoffs and game cancellations, among other shakeups. Now, those have begun, with EA on October 21 confirming a series of significant changes impacting the people and teams tha...",
-    "date": "Wed, 21 Oct 2026 18:20:23 +0000",
-    "link": "https://www.gamespot.com/articles/ea-kills-bioware-cancels-new-mass-effect-pauses-new-sims-game-and-all-the-other-big-ea-news-that-just-happened/",
+    "summary": "Ahead of its first anniversary, Dispatch developer AdHoc has revealed a big (and free) update for the deluxe edition of the superhero workplace-dramedy. Available now on all platforms where the deluxe edition is available, two new behind-the-scenes modes are being added to Dispatch. Dispatch is also...",
+    "date": "Thu, 22 Oct 2026 16:15:00 +0000",
+    "link": "https://www.gamespot.com/articles/dispatch-is-coming-to-mobile-in-december-with-its-first-four-episodes-free/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.34,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 18,
-    "title": "Star Wars Battlefront 3 Reportedly In Development By EA’s Top Shooter Studios",
+    "title": "Battlefield 1’s Jack Lowden Is One Of The Finalists For New James Bond, Apparently",
     "source": "GameSpot",
-    "summary": "Included in the shocking news of EA's restructuring, which includes layoffs and the closure of BioWare, is a mention from the publisher that Apex Legends studio Respawn Entertainment and Battlefield maker DICE are collaborating on a project. According to a report, that project is a long-awaited sequ...",
-    "date": "Wed, 21 Oct 2026 19:16:31 +0000",
-    "link": "https://www.gamespot.com/articles/star-wars-battlefront-3-reportedly-in-development-by-eas-top-shooter-studios/",
+    "summary": "As rumored, it appears that actor Jack Lowden, who played Lawrence of Arabia in EA's Battlefield 1, is a finalist to play James Bond.\nAccording to Deadline, \"final auditions\" for the role will take place over the next week, and the process will include screen tests. At least four actors are coming i...",
+    "date": "Thu, 22 Oct 2026 15:38:56 +0000",
+    "link": "https://www.gamespot.com/articles/battlefield-1s-jack-lowden-is-one-of-the-finalists-for-new-james-bond-apparently/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.25,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 19,
-    "title": "Xbox Cloud Gaming Hourly Prices Revealed For Non-Game Pass Members",
+    "title": "Katana Zero DLC Is Still Coming, And It’s Apparently Freakin’ Huge Now",
     "source": "GameSpot",
-    "summary": "Microsoft has revealed how much it will charge people for using the Xbox Cloud Gaming service without a Game Pass membership. Right now, this is available only to Xbox Insiders, but that's a free program that anyone can join. \nAlso notable is that the prices below are described as \"introductory laun...",
-    "date": "Wed, 21 Oct 2026 19:10:33 +0000",
-    "link": "https://www.gamespot.com/articles/xbox-cloud-gaming-hourly-prices-revealed-for-non-game-pass-members/",
+    "summary": "It's been a minute since we've heard anything about Askiisoft's samurai platformer Katana Zero, but the developer has re-re-reconfirmed that, yes, the DLC is still on the way--and it's big. Like, so big Askiisoft is basically calling it a sequel.\nIn a Bluesky post on October 22, Justin Stander of As...",
+    "date": "Thu, 22 Oct 2026 15:28:46 +0000",
+    "link": "https://www.gamespot.com/articles/katana-zero-dlc-is-still-coming-and-its-apparently-freakin-huge-now/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.2,
+      "score": 0.11,
       "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "EA Shuts Down Dragon Age, Mass Effect Studio BioWare",
+    "title": "Why Street Fighter Movie Goes For “Gonzo” Vibes Instead of Gritty And Grounded",
     "source": "GameSpot",
-    "summary": "Publisher Electronic Arts is planning to shut down legendary RPG studio BioWare, laying off about 50 employees at the studio alongside 350 more elsewhere.\nIn a new Bloomberg report, a person familiar with the matter said a total of 3% of EA's overall company has been affected by this latest round of...",
-    "date": "Wed, 21 Oct 2026 17:12:53 +0000",
-    "link": "https://www.gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware/",
+    "summary": "Street Fighter movie director Kitao Sakurai has shared new insights into the recently released video game movie, including how he intentionally wanted it to go for a \"gonzo\" style of over-the-top action and silliness as opposed to being gritty and grounded.\n\"There’s a silliness to it, and there’s an...",
+    "date": "Thu, 22 Oct 2026 15:19:11 +0000",
+    "link": "https://www.gamespot.com/articles/why-street-fighter-movie-goes-for-gonzo-vibes-instead-of-gritty-and-grounded/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.09,
+      "badge": "info"
     },
     "tags": [
-      "RPG"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
