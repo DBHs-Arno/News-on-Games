@@ -1,68 +1,67 @@
 [
   {
     "id": 1,
-    "title": "Cyberpunk 2077 2.5 Update Secretly Added The Witcher 3 Sword and Cosmetics",
+    "title": "Mondo Celebrates Over the Garden Wall With New Figures and Poster",
     "source": "IGN",
-    "summary": "Cyberpunk 2077’s surprise 2.5 update added a new dual-wielding playstyle, fresh ways to customize protagonist V’s look, extra quests and plenty more, but players have discovered that developer CD Projekt Red secretly added a range of new The Witcher 3-themed cosmetics, too.",
-    "date": "Fri, 23 Oct 2026 09:50:49 +0000",
-    "link": "https://www.ign.com/articles/cyberpunk-2077-update-secretly-added-witcher-sword-cosmetics",
+    "summary": "Over the Garden Wall fans can show their love for the critically acclaimed animated series with a new batch of collectibles from Mondo.",
+    "date": "Fri, 23 Oct 2026 16:00:00 +0000",
+    "link": "https://www.ign.com/articles/mondo-celebrates-over-the-garden-wall-with-new-figures-and-poster",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.19,
+      "badge": "success"
     },
     "tags": [
-      "Cyberpunk"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "X-Files Creator Chris Carter on How His I Want to Believe Director's Cut Dovetailed Into His Second Feature, Queens for a Day",
+    "title": "'Press Play' — Amazon Reveals Full PlayStation x Lisa Merch Collection as the Blackpink Star Drops New EP",
     "source": "IGN",
-    "summary": "X-Files creator Chris Carter on how his I Want to Believe Director's Cut dovetailed into his second feature, Queens for a Day.",
-    "date": "Fri, 23 Oct 2026 09:29:54 +0000",
-    "link": "https://www.ign.com/articles/x-files-creator-chris-carter-on-how-his-i-want-to-believe-directors-cut-dovetailed-into-his-second-feature-queens-for-a-day",
+    "summary": "",
+    "date": "Fri, 23 Oct 2026 15:59:38 +0000",
+    "link": "https://www.ign.com/articles/press-play-amazon-reveals-full-playstation-x-lisa-merch-collection-as-the-blackpink-star-drops-new-ep",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.24,
+      "badge": "success"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "Save $50 Off a 512GB Nintendo Switch 2 Memory Card That We've Personally Tested and Vetted",
+    "source": "IGN",
+    "summary": "The Samsung P9 MicroSD Express card will triple your total Switch 2 storage.",
+    "date": "Fri, 23 Oct 2026 15:55:00 +0000",
+    "link": "https://www.ign.com/articles/samsung-p9-512gb-nintendo-switch-2-memory-card-deal-october-2026",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "25 Years Since Its Reveal, and People Still Search for iPods “Every Two Seconds” on eBay",
-    "source": "IGN",
-    "summary": "eBay has revealed that buyers are still searching for \"iPods\" every two seconds worldwide, a quarter of a century since they were first revealed.",
-    "date": "Fri, 23 Oct 2026 08:00:00 +0000",
-    "link": "https://www.ign.com/articles/people-still-search-for-ipods-every-two-seconds-on-ebay",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Avatar: Seven Havens Episodes 7-9 Recap and Review",
+    "title": "The Ultra-Slim Baseus Blade 20,000mAh Power Bank Drops to $39 Ahead of Black Friday",
     "source": "IGN",
-    "summary": "Avatar: Seven Havens Episodes 7-9 recap and review: Lore and laughter dominate the latest episodes of the series.",
-    "date": "Fri, 23 Oct 2026 07:01:00 +0000",
-    "link": "https://www.ign.com/articles/avatar-seven-havens-episodes-7-9-recap-and-review",
+    "summary": "This 0.7\" thin power bank boasts high capacity and output for handheld gaming PCs and laptops.",
+    "date": "Fri, 23 Oct 2026 15:50:00 +0000",
+    "link": "https://www.ign.com/articles/baseus-blade-slim-power-bank-deal-october-2026",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.14,
+      "badge": "danger"
     },
     "tags": [
       "News",
@@ -72,6 +71,59 @@
   },
   {
     "id": 5,
+    "title": "\"Why the f**k would they add a perk like that?\" - Modern Warfare 4 DMZ players are up in arms over the ability to self-revive",
+    "source": "Eurogamer",
+    "summary": "Modern Warfare 4's DMZ extraction shooter mode has only been out for two days - and only for those who pre-ordered the game -  but already players are up in arms over a particular trait that allows competitors  to revive themselves after being killed. Read more...",
+    "date": "Fri, 23 Oct 2026 14:55:40 +0000",
+    "link": "https://www.eurogamer.net/modern-warfare-4-dmz-playing-possum-perk-broke",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Half-Life 3 is back in the news again as Valve developer accidentally sort-of references it in public, reigniting hope once more",
+    "source": "Eurogamer",
+    "summary": "It's been 19 years since the release of Half-Life 2: Episode 2, and yet the ceaseless clamour for a Valve game with a number '3' in its title continues. And following a swell of reports suggesting Half-Life 3 isn't just real, its development is well underway, a Valve developer has gone and sent the ...",
+    "date": "Fri, 23 Oct 2026 12:43:22 +0000",
+    "link": "https://www.eurogamer.net/half-life-3-developer-references-codename-public",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Phantom Blade Zero isn't even out yet, but it could be 'one of the year's breakout hits' as it shifts half a million copies on Steam alone",
+    "source": "Eurogamer",
+    "summary": "Chinese action game Phantom Blade Zero already appears to be outperforming massive games like Gears of War: E-Day and Control Resonant on Steam, despite still being days from release. Read more...",
+    "date": "Fri, 23 Oct 2026 12:33:45 +0000",
+    "link": "https://www.eurogamer.net/phantom-blade-zero-hit-not-out",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
     "title": "Flashy internal trailer for now-cancelled Mass Effect Universe appears online, following EA's closure of BioWare",
     "source": "Eurogamer",
     "summary": "An internal trailer for the cancelled Mass Effect game that was in-development at BioWare prior to its closure this week has appeared online. It's confirmed to be real, too, amid some initial suspicions it may have been an AI generated fake. Read more...",
@@ -88,69 +140,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "Smash Bros. director Masahiro Sakurai thinks gen-AI will cause a surge of unoriginal games, but says human creativity can't be replicated",
-    "source": "Eurogamer",
-    "summary": "Masahiro Sakurai has spoken about the pitfalls of generative AI use in game development, saying that while he believes the technology will result in a surge of unoriginal video games, human creativity - such as that shown by designers like Ico's Fumito Ueda - can't be replicated. Read more...",
-    "date": "Thu, 22 Oct 2026 17:00:49 +0000",
-    "link": "https://www.eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Final Fantasy 14, Umamusume: Pretty Derby, and more impacted as PHP vulnerability outages hit games around the globe",
-    "source": "Eurogamer",
-    "summary": "Multiple games - including Final Fantasy 14 and Umamusume: Pretty Derby - have faced outages and other issues following this week's discovery of a serious PHP vulnerability. Read more...",
-    "date": "Thu, 22 Oct 2026 14:11:14 +0000",
-    "link": "https://www.eurogamer.net/video-games-down-php-vulnerability",
+    "id": 9,
+    "title": "The best traits in DMZ in Modern Warfare 4",
+    "source": "Polygon",
+    "summary": "Our guide explains the best traits to choose for your operator in DMZ in Modern Warfare 4 and how the traits system works.",
+    "date": "Fri, 23 Oct 2026 16:06:08 GMT",
+    "link": "https://www.polygon.com/mw4-modern-warfare-4-traits-best/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.1,
+      "score": 0.6,
       "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver \"a level of autonomy and choice that no other game has\"",
-    "source": "Eurogamer",
-    "summary": "EA has closed its longtime studio partner BioWare, the iconic development house behind Mass Effect and Dragon Age, impacting around 50 staff who were in pre-production on the next Mass Effect game. In the aftermath of EA's decision, one of those affected has shared a little about the project, claimi...",
-    "date": "Thu, 22 Oct 2026 13:35:34 +0000",
-    "link": "https://www.eurogamer.net/cancelled-mass-effect-bioware-unprecedented-levels-of-autonomy",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "Starfighter Officially Broke a Star Wars Franchise Record Already",
-    "source": "Polygon",
-    "summary": "Disney and Lucasfilm are going all in on 'Starfighter', setting a new financial record even before the film releases in 2027.",
-    "date": "Fri, 23 Oct 2026 10:52:29 GMT",
-    "link": "https://www.polygon.com/star-wars-starfighter-ryan-gosling-most-expensive-movie/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
     },
     "tags": [
       "News",
@@ -160,99 +159,11 @@
   },
   {
     "id": 10,
-    "title": "Vinland Saga Creator Gives a Heartbreaking Update on the Anime's Third Season",
+    "title": "Marvel's Mystery Spy Series Gets First Details, Official Writing Team",
     "source": "Polygon",
-    "summary": "Makoto Yukimura shared an update on the third season of Vinland Saga, and it's not one that fans will like.",
-    "date": "Fri, 23 Oct 2026 10:04:21 GMT",
-    "link": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "187 Years Ago, a Gothic Horror Story Beat Edgar Allan Poe to the Locked-Room Mystery",
-    "source": "Polygon",
-    "summary": "Sheridan Le Fanu's overlooked Gothic horror novel deserves more appreciation.",
-    "date": "Fri, 23 Oct 2026 10:00:18 GMT",
-    "link": "https://www.polygon.com/locked-room-gothic-horror-sheridan-le-fanu/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Epic Games Is Just Trolling Fans at This Point With New $50k AI Game Contest",
-    "source": "Polygon",
-    "summary": "Epic Games is pouring thousands of dollars into an AI-based game development competition.",
-    "date": "Fri, 23 Oct 2026 09:51:40 GMT",
-    "link": "https://www.polygon.com/epic-games-unreal-engine-ai-competition/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Stolen RTX 5090 from Brazilian airport forklift heist reportedly turns up on second hand market for $6,400, but the rest remain AWOL",
-    "source": "PC Gamer",
-    "summary": "These things have serial numbers, you know.",
-    "date": "Fri, 23 Oct 2026 10:42:31 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/stolen-rtx-5090-from-brazilian-airport-forklift-heist-reportedly-turns-up-on-second-hand-market-for-usd6-400-but-the-rest-remain-awol/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "I've tested every graphics setting in Call of Duty: Modern Warfare 4—tweak these four options for the best performance",
-    "source": "PC Gamer",
-    "summary": "Upscaling can also help a bunch, of course.",
-    "date": "Fri, 23 Oct 2026 10:29:20 +0000",
-    "link": "https://www.pcgamer.com/games/call-of-duty/ive-tested-every-graphics-setting-in-call-of-duty-modern-warfare-4-tweak-these-four-options-for-the-best-performance/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.6,
-      "badge": "success"
-    },
-    "tags": [
-      "Graphics"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Asus ROG Rapture GT-BN98 router review",
-    "source": "PC Gamer",
-    "summary": "Asus delivers the first Wi-Fi 8 router.",
-    "date": "Fri, 23 Oct 2026 09:53:57 +0000",
-    "link": "https://www.pcgamer.com/hardware/networking/asus-rog-rapture-gt-bn98-review/",
+    "summary": "Marvel has reportedly tapped Euphoria creator to write Disney Plus' spy show, Zodiac",
+    "date": "Fri, 23 Oct 2026 16:02:04 GMT",
+    "link": "https://www.polygon.com/marvel-disney-zodiac-spy-show-writers-revealed/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.25,
@@ -265,16 +176,102 @@
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "A public outing of severe and unfixed Linux kernel vulnerabilities should have you thinking of updating your SteamOS or other distros to beta branches",
-    "source": "PC Gamer",
-    "summary": "The accidental reveal of unpatched vulnerabilities as high as 9 on the CVSS score chart is a little worrisome.",
-    "date": "Fri, 23 Oct 2026 09:26:40 +0000",
-    "link": "https://www.pcgamer.com/hardware/a-public-outing-of-severe-and-unfixed-linux-kernel-vulnerabilities-should-have-you-thinking-of-updating-your-steamos-or-other-distros-to-beta-branches/",
+    "id": 11,
+    "title": "15 Years Later, Ned Stark's Greatest Game of Thrones's Line Is Still the Boldest Quote in Fantasy History",
+    "source": "Polygon",
+    "summary": "Ned Stark always had some banger one-liners, but what is his best 'Game of Thrones' quote?",
+    "date": "Fri, 23 Oct 2026 16:00:19 GMT",
+    "link": "https://www.polygon.com/game-of-thrones-ned-stark-best-quote-ever/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.04,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Beloved Game Studio’s Fate Looks Grim after Xbox Abandons It",
+    "source": "Polygon",
+    "summary": "Arkane Studios, makers of Dishonored and Deathloop, is at risk of closure as part of Microsoft's wave of 3,000+ layoffs.",
+    "date": "Fri, 23 Oct 2026 15:45:59 GMT",
+    "link": "https://www.polygon.com/arkane-studios-potential-closure-november-2026-microsoft/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.23,
+      "badge": "danger"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Call of Duty: Modern Warfare 4 actually runs pretty smoothly with Activision's 'recommended' RTX 3060 Ti graphics card, and here are the settings I use to get the best performance from it",
+    "source": "PC Gamer",
+    "summary": "Though upscaling is somewhat of a requirement if you're at 1440p.",
+    "date": "Fri, 23 Oct 2026 16:13:25 +0000",
+    "link": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-actually-runs-pretty-smoothly-with-activisions-recommended-rtx-3060-ti-graphics-card-and-here-are-the-settings-i-use-to-get-the-best-performance-from-it/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.37,
+      "badge": "success"
+    },
+    "tags": [
+      "Graphics"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "AMD says the re-release of the Ryzen 7 5800X3D was 'like a final gift to our loyal [AM4] users' and it was CEO Dr. Lisa Su who first came up with the idea",
+    "source": "PC Gamer",
+    "summary": "It timed itself rather nicely with the deepening memory crisis, too.",
+    "date": "Fri, 23 Oct 2026 16:11:07 +0000",
+    "link": "https://www.pcgamer.com/hardware/processors/amd-says-the-re-release-of-the-ryzen-7-5800x3d-was-like-a-final-gift-to-our-loyal-am4-users-and-it-was-ceo-dr-lisa-su-who-first-came-up-with-the-idea/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
+    },
+    "tags": [
+      "AMD"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "AMD says its working on FSR's frame pacing issues, but there's still conspicuously no mention of Multi Frame Generation",
+    "source": "PC Gamer",
+    "summary": "Smooth moves ahead?",
+    "date": "Fri, 23 Oct 2026 16:04:04 +0000",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-its-working-on-fsrs-frame-pacing-issues-but-theres-still-conspicuously-no-mention-of-multi-frame-generation/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
+    },
+    "tags": [
+      "AMD"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "In a rare instance of good news, Philips has announced the world's first 36-inch, 260 Hz gaming monitor. So that's nice",
+    "source": "PC Gamer",
+    "summary": "Let's all look upon it with wonder.",
+    "date": "Fri, 23 Oct 2026 14:55:41 +0000",
+    "link": "https://www.pcgamer.com/hardware/gaming-monitors/in-a-rare-instance-of-good-news-philips-has-announced-the-worlds-first-36-inch-260-hz-gaming-monitor-so-thats-nice/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.46,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -284,31 +281,32 @@
   },
   {
     "id": 17,
-    "title": "After The BioWare Shutdown, Mass Effect Spiritual Successor Exodus Gets A New Look",
+    "title": "Arkane Lyon Could Be Shut Down Within Weeks As Deadline To Find A Buyer Looms",
     "source": "GameSpot",
-    "summary": "In the wake of the news that EA has closed down BioWare and ended development on Mass Effect 5, Archetype Entertainment—co-founded by former BioWare devs Chad Robertson, James Ohlen, and Drew Karpyshyn—has given players a brand-new look at its upcoming title, a very Mass-Effecty sci-fi RPG called Ex...",
-    "date": "Thu, 22 Oct 2026 21:37:24 +0000",
-    "link": "https://www.gamespot.com/articles/after-the-bioware-shutdown-mass-effect-spiritual-successor-exodus-gets-a-new-look/",
+    "summary": "It might be the end of the road for Marvel's Blade developer Arkane Lyon, as a new report says that the studio has until November 13 to find a buyer or face closure.\nLe Monde reported that while Microsoft had followed the procedure as laid out in Florange Law--French legislation that requires Micros...",
+    "date": "Fri, 23 Oct 2026 15:31:00 +0000",
+    "link": "https://www.gamespot.com/articles/arkane-lyon-could-be-shut-down-within-weeks-as-deadline-to-find-a-buyer-looms/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.01,
+      "score": -0.01,
       "badge": "info"
     },
     "tags": [
-      "RPG"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 18,
-    "title": "GTA 6’s New TV Trailer Is A Bit Different, See It For Yourself",
+    "title": "Battlefield 6 Reportedly Cancels Mass Effect Collab In Wake Of BioWare Closure",
     "source": "GameSpot",
-    "summary": "GTA 6's marketing push is ramping up substantially, and that includes with TV commercials. Eagled-eyes fans have discovered that the new GTA 6 TV spots actually contain some extended sequences, but just barely.\nFor starters, a 30-second TV spot cuts out the steamy shower scenes with Jason and Lucia ...",
-    "date": "Thu, 22 Oct 2026 19:52:26 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6s-new-tv-trailer-is-a-bit-different-see-it-for-yourself/",
+    "summary": "Battlefield Studios is reportedly cancelling plans for a Mass Effect collaboration in Battlefield 6 in the wake of EA's decision to close BioWare and cancel the next game in the sci-fi series. \nFans discovered various Mass Effect-themed cosmetics in Battlefield 6's files, with many speculating that ...",
+    "date": "Fri, 23 Oct 2026 15:48:29 +0000",
+    "link": "https://www.gamespot.com/articles/battlefield-6-reportedly-cancels-mass-effect-collab-in-wake-of-bioware-closure/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.06,
+      "score": 0.02,
       "badge": "info"
     },
     "tags": [
@@ -319,32 +317,32 @@
   },
   {
     "id": 19,
-    "title": "I’m Getting Very Worried About Skate Following EA Layoffs",
+    "title": "Finger Out How To Prep For GTA 6 With These Exercises",
     "source": "GameSpot",
-    "summary": "Publisher Electronic Arts recently slashed 400 roles across its company, which resulted in the shuttering of legendary RPG studio BioWare. But also impacted by the layoffs was Skate developer Full Circle, and now I'm growing increasingly worried about the future of a franchise I waited so long to ma...",
-    "date": "Thu, 22 Oct 2026 19:49:22 +0000",
-    "link": "https://www.gamespot.com/articles/im-getting-very-worried-about-skate-following-ea-layoffs/",
+    "summary": "We're just weeks away from Grand Theft Auto VI launching, and you might think you're set to spend hours upon hours in the open-world game right now. But PureGym asks if your body is actually ready like former Nintendo of America president Reggie Fils-Aime's--as well as your thumbs. \nWith that in min...",
+    "date": "Fri, 23 Oct 2026 15:39:56 +0000",
+    "link": "https://www.gamespot.com/articles/finger-out-how-to-prep-for-gta-6-with-these-exercises/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.21,
+      "score": 0.12,
       "badge": "success"
     },
     "tags": [
-      "RPG"
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "WoW: Forever Is Keeping Its Secrets Close To The Chest",
+    "title": "GTA 6 Burgers Will Be Available In Florida Throughout The Year",
     "source": "GameSpot",
-    "summary": "World of Warcraft: Forever players may have searched its beta with a fine-toothed comb, but Blizzard said there are still plenty of secrets waiting to be found come launch and beyond.\nIn a new WoW: Forever Podcast dedicated to the end of the beta, Blizzard made clear it's keeping many of the game's ...",
-    "date": "Thu, 22 Oct 2026 19:10:38 +0000",
-    "link": "https://www.gamespot.com/articles/wow-forever-is-keeping-its-secrets-close-to-the-chest/",
+    "summary": "Rockstar Games and the burger company Skinny Louie have announced a partnership to promote GTA 6, during which its stores will convert to Burger Shots through the end of the year. Burger Shot is the Burger King parody in the world of GTA.\nPeople in South Florida can buy GTA 6 burgers at the Kaseya C...",
+    "date": "Fri, 23 Oct 2026 15:13:13 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-burgers-will-be-available-in-florida-throughout-the-year/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
     },
     "tags": [
       "News",
