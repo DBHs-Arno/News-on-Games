@@ -1,73 +1,72 @@
 [
   {
     "id": 1,
-    "title": "Cormac McCarthy’s The Road Is on Sale for $1.99 on Kindle",
+    "title": "Clayface Ending Explained",
     "source": "IGN",
-    "summary": "",
-    "date": "Thu, 22 Oct 2026 19:00:49 +0000",
-    "link": "https://www.ign.com/articles/cormac-mccarthys-the-road-is-on-sale-for-199-on-kindle",
+    "summary": "The new movie Clayface marks the live-action film debut of the classic Batman villain but fans are obviously wondering if the film also introduces the DCU’s incarnation of the Caped Crusader. We’re gonna dive into how Clayface ends, how the character’s design was created for the film, and yes, the B...",
+    "date": "Fri, 23 Oct 2026 01:00:00 +0000",
+    "link": "https://www.ign.com/articles/clayface-ending-explained-batman-dcu",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.1,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Valve Developer Mistakenly Mentions Rumored Half-Life 3 Codename",
+    "title": "Wo Long 2: Wings of Ember Gets Wuxia… and Let Me Fight a Horrific Spider Thing | IGN Preview",
     "source": "IGN",
-    "summary": "A Valve developer mistakenly slipped up and made mention of Half-Life 3's long rumored codename during a recent conference.",
-    "date": "Thu, 22 Oct 2026 18:46:00 +0000",
-    "link": "https://www.ign.com/articles/valve-developer-mistakenly-mentions-rumored-half-life-3-codename",
+    "summary": "Wo Long 2: Wings of Ember is shaping up to be an interesting sequel that combines elements of Team Ninja’s action game expertise with the Three Kingdoms games’ penchant for strategy.",
+    "date": "Fri, 23 Oct 2026 01:00:00 +0000",
+    "link": "https://www.ign.com/articles/wo-long-2-wings-of-ember-gets-wuxia-and-let-me-fight-a-horrific-spider-thing-ign-preview",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "LEGO Disney Sets Are Hitting All-Time Low Prices on Amazon Right Now",
+    "title": "Save $50 Off the Endlessly Useful ASUS ZenScreen 16\" 1080p Portable USB Monitor Ahead of Black Friday",
     "source": "IGN",
-    "summary": "",
-    "date": "Thu, 22 Oct 2026 17:42:23 +0000",
-    "link": "https://www.ign.com/articles/lego-disney-sets-are-hitting-all-time-low-prices-on-amazon-right-now",
+    "summary": "Doubles as a secondary monitor for your laptop or a portable display for your Nintendo Switch or Steam Deck.",
+    "date": "Fri, 23 Oct 2026 00:05:00 +0000",
+    "link": "https://www.ign.com/articles/asus-zenscreen-usb-portable-monitor-deal-october-2026",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.06,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Nintendo",
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "GTA 6 Is Almost Here: Trade in Your Old Console and Save on an Upgrade at PayMore",
+    "title": "The Acer Nitro  RX 9060 XT Gaming PC Offers Great 1440p Gaming Performance for Just $1,200",
     "source": "IGN",
-    "summary": "What is your old system worth?",
-    "date": "Thu, 22 Oct 2026 17:37:00 +0000",
-    "link": "https://www.ign.com/articles/gta-6-trade-in-old-console-save-on-upgrade-paymore",
+    "summary": "The equipped Radeon RX 9060 XT GPU is the preferred 16GB variant.",
+    "date": "Fri, 23 Oct 2026 00:00:00 +0000",
+    "link": "https://www.ign.com/articles/acer-nitro-radeon-rx-9060-xt-gaming-pc-deal-october-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.17,
+      "score": 0.45,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "GPU"
     ],
     "read_time": "1 min read"
   },
@@ -101,8 +100,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -119,8 +118,8 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -137,153 +136,173 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "'Clayface' Officially Sets Up Another Iconic Batman Villain in the DC Universe",
+    "title": "How to unlock the full Weeping Creek Valley map in Phantom Blade Zero",
     "source": "Polygon",
-    "summary": "Clayface is filled with some very noticible Easter eggs about the Joker",
-    "date": "Thu, 22 Oct 2026 21:00:19 GMT",
-    "link": "https://www.polygon.com/clayface-joker-easter-eggs/",
+    "summary": "Here's how to enter every optional, shrouded area on the first Phantom Blade Zero map",
+    "date": "Fri, 23 Oct 2026 02:01:23 GMT",
+    "link": "https://www.polygon.com/phantom-blade-zero-how-to-unlock-the-full-weeping-creek-valley-map/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.37,
+      "score": 0.3,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Everything We Know About the PS6, Sony’s Next-Gen Console",
+    "title": "8 Cyberpunk 2077 Replay Ideas to Make Night City Feel Brand New",
     "source": "Polygon",
-    "summary": "A rundown of everything announced, reported, leaked, and rumored about PlayStation 6, including release date, price, and specs",
-    "date": "Thu, 22 Oct 2026 20:12:31 GMT",
-    "link": "https://www.polygon.com/ps6-playstation-6-release-date-price/",
+    "summary": "From a dual-revolver cowboy to a netrunner who never fires a gun, these eight Cyberpunk 2077 replay ideas make Night City feel new again",
+    "date": "Thu, 22 Oct 2026 23:00:19 GMT",
+    "link": "https://www.polygon.com/cyberpunk-2077-replay-ideas/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
     },
     "tags": [
-      "PlayStation"
+      "Cyberpunk"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Everything We Know About Project Helix, the Next Xbox",
+    "title": "'Mass Effect Universe' Leak Promised What Fans Have Waited Decades For",
     "source": "Polygon",
-    "summary": "A rundown of everything announced, reported, leaked, and rumored about the next-gen Xbox, including, release date, price, and specs",
-    "date": "Thu, 22 Oct 2026 20:12:23 GMT",
-    "link": "https://www.polygon.com/next-xbox-console-release-date-price-project-helix/",
+    "summary": "BioWare's canceled Mass Effect Universe game would have paid off a long-standing fan request, and fans are mourning the game's death.",
+    "date": "Thu, 22 Oct 2026 22:19:07 GMT",
+    "link": "https://www.polygon.com/mass-effect-universe-new-characters-male-quarian-asari-krogan-aliens/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
     },
     "tags": [
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "'Avatar: Seven Havens' Producers Provide a Suspicious Answer About the Anomaly",
+    "title": "Half-Life 3 Rumors Reignite After Valve Employee Lets Codename Slip",
     "source": "Polygon",
-    "summary": "Avatar: Seven Havens producers address whether the Anomaly’s mysterious diamond-shaped entity is connected to Vaatu.",
-    "date": "Thu, 22 Oct 2026 20:01:19 GMT",
-    "link": "https://www.polygon.com/avatar-seven-havens-producers-interview-anomaly-vaatu-connection/",
+    "summary": "A Valve employee just casually mentioned Half-Life 3's rumored codename HLX in public, reigniting rumors that the shooter is returning.",
+    "date": "Thu, 22 Oct 2026 21:16:28 GMT",
+    "link": "https://www.polygon.com/valve-half-life-3-hlx/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.25,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "Half-Life 3 re-re-re-confirmed: A Valve dev just said 'HLX' out loud",
+    "title": "My GOTY is $7 and has 253 Steam reviews",
     "source": "PC Gamer",
-    "summary": "There's no mistaking it this time—he said it.",
-    "date": "Thu, 22 Oct 2026 20:16:39 +0000",
-    "link": "https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/",
+    "summary": "Stuntboost is a racing game for FPS movement sickos.",
+    "date": "Thu, 22 Oct 2026 22:29:10 +0000",
+    "link": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "FPS",
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "How to dual wield in Cyberpunk 2077",
+    "title": "A new Fallout 4 mod adds an entire town, but more importantly, it lets you join a gang",
     "source": "PC Gamer",
-    "summary": "Combo your pistols or revolvers with the 2.5 update.",
-    "date": "Thu, 22 Oct 2026 19:35:48 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/how-to-dual-wield-in-cyberpunk-2077/",
+    "summary": "They're not the Tunnel Snakes, but they're trying.",
+    "date": "Thu, 22 Oct 2026 22:22:04 +0000",
+    "link": "https://www.pcgamer.com/games/fallout/a-new-fallout-4-mod-adds-an-entire-town-but-more-importantly-it-lets-you-join-a-gang/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
     },
     "tags": [
-      "Cyberpunk"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "How to get King's outfit in Cyberpunk 2077",
+    "title": "Epic announces game jam where you have to use AI, then walks back the requirement",
     "source": "PC Gamer",
-    "summary": "Grab Weak Kingsley's coat, glasses, and gun from Edgerunners 2.",
-    "date": "Thu, 22 Oct 2026 19:32:18 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/cyberpunk-2077-king-outfit-clampdown-edgerunners/",
+    "summary": "The Unreal Engine and Fortnite company has extended the public a many-fingered invitation.",
+    "date": "Thu, 22 Oct 2026 21:39:30 +0000",
+    "link": "https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.38,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.08,
+      "badge": "info"
     },
     "tags": [
-      "Cyberpunk"
+      "Unreal Engine",
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Future Capcom games will have Onimusha to thank for RE Engine's gnarly dismemberments",
+    "title": "Canadian politician calls on government to help BioWare employees buy the studio and run it themselves",
     "source": "PC Gamer",
-    "summary": "Surely this will come in handy for the next Resident Evil.",
-    "date": "Thu, 22 Oct 2026 19:18:23 +0000",
-    "link": "https://www.pcgamer.com/games/action/future-capcom-games-will-have-onimusha-to-thank-for-re-engines-gnarly-dismemberments/",
+    "summary": "Avi Lewis, leader of one of Canada's top opposition parties, is not a fan of private equity.",
+    "date": "Thu, 22 Oct 2026 21:26:29 +0000",
+    "link": "https://www.pcgamer.com/games/mass-effect/canadian-politician-calls-on-government-to-help-bioware-employees-buy-the-studio-and-run-it-themselves/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
+    "title": "After The BioWare Shutdown, Mass Effect Spiritual Successor Exodus Gets A New Look",
+    "source": "GameSpot",
+    "summary": "In the wake of the news that EA has closed down BioWare and ended development on Mass Effect 5, Archetype Entertainment—co-founded by former BioWare devs Chad Robertson, James Ohlen, and Drew Karpyshyn—has given players a brand-new look at its upcoming title, a very Mass-Effecty sci-fi RPG called Ex...",
+    "date": "Thu, 22 Oct 2026 21:37:24 +0000",
+    "link": "https://www.gamespot.com/articles/after-the-bioware-shutdown-mass-effect-spiritual-successor-exodus-gets-a-new-look/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
     "title": "GTA 6’s New TV Trailer Is A Bit Different, See It For Yourself",
     "source": "GameSpot",
     "summary": "GTA 6's marketing push is ramping up substantially, and that includes with TV commercials. Eagled-eyes fans have discovered that the new GTA 6 TV spots actually contain some extended sequences, but just barely.\nFor starters, a 30-second TV spot cuts out the steamy shower scenes with Jason and Lucia ...",
@@ -295,13 +314,13 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "I’m Getting Very Worried About Skate Following EA Layoffs",
     "source": "GameSpot",
     "summary": "Publisher Electronic Arts recently slashed 400 roles across its company, which resulted in the shuttering of legendary RPG studio BioWare. But also impacted by the layoffs was Skate developer Full Circle, and now I'm growing increasingly worried about the future of a franchise I waited so long to ma...",
@@ -318,7 +337,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 19,
+    "id": 20,
     "title": "WoW: Forever Is Keeping Its Secrets Close To The Chest",
     "source": "GameSpot",
     "summary": "World of Warcraft: Forever players may have searched its beta with a fine-toothed comb, but Blizzard said there are still plenty of secrets waiting to be found come launch and beyond.\nIn a new WoW: Forever Podcast dedicated to the end of the beta, Blizzard made clear it's keeping many of the game's ...",
@@ -330,25 +349,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "The Leaked Mass Effect 5 Trailer Is Absolutely Heartbreaking",
-    "source": "GameSpot",
-    "summary": "After hearing the disappointing news that EA has shuttered BioWare, putting an end to two of my favorite RPG franchises—Mass Effect and Dragon Age—I have been, like so many other players, feeling pretty bummed out. But I consoled myself with the fact that, given the environment at BioWare in recent ...",
-    "date": "Thu, 22 Oct 2026 19:06:27 +0000",
-    "link": "https://www.gamespot.com/articles/the-leaked-mass-effect-5-trailer-is-absolutely-heartbreaking/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.1,
-      "badge": "success"
-    },
-    "tags": [
-      "RPG"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
