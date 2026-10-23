@@ -1,77 +1,94 @@
 [
   {
     "id": 1,
-    "title": "Clayface Ending Explained",
+    "title": "Cyberpunk 2077 2.5 Update Secretly Added The Witcher 3 Sword and Cosmetics",
     "source": "IGN",
-    "summary": "The new movie Clayface marks the live-action film debut of the classic Batman villain but fans are obviously wondering if the film also introduces the DCU’s incarnation of the Caped Crusader. We’re gonna dive into how Clayface ends, how the character’s design was created for the film, and yes, the B...",
-    "date": "Fri, 23 Oct 2026 01:00:00 +0000",
-    "link": "https://www.ign.com/articles/clayface-ending-explained-batman-dcu",
+    "summary": "Cyberpunk 2077’s surprise 2.5 update added a new dual-wielding playstyle, fresh ways to customize protagonist V’s look, extra quests and plenty more, but players have discovered that developer CD Projekt Red secretly added a range of new The Witcher 3-themed cosmetics, too.",
+    "date": "Fri, 23 Oct 2026 09:50:49 +0000",
+    "link": "https://www.ign.com/articles/cyberpunk-2077-update-secretly-added-witcher-sword-cosmetics",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.1,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Cyberpunk"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Wo Long 2: Wings of Ember Gets Wuxia… and Let Me Fight a Horrific Spider Thing | IGN Preview",
+    "title": "X-Files Creator Chris Carter on How His I Want to Believe Director's Cut Dovetailed Into His Second Feature, Queens for a Day",
     "source": "IGN",
-    "summary": "Wo Long 2: Wings of Ember is shaping up to be an interesting sequel that combines elements of Team Ninja’s action game expertise with the Three Kingdoms games’ penchant for strategy.",
-    "date": "Fri, 23 Oct 2026 01:00:00 +0000",
-    "link": "https://www.ign.com/articles/wo-long-2-wings-of-ember-gets-wuxia-and-let-me-fight-a-horrific-spider-thing-ign-preview",
+    "summary": "X-Files creator Chris Carter on how his I Want to Believe Director's Cut dovetailed into his second feature, Queens for a Day.",
+    "date": "Fri, 23 Oct 2026 09:29:54 +0000",
+    "link": "https://www.ign.com/articles/x-files-creator-chris-carter-on-how-his-i-want-to-believe-directors-cut-dovetailed-into-his-second-feature-queens-for-a-day",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Save $50 Off the Endlessly Useful ASUS ZenScreen 16\" 1080p Portable USB Monitor Ahead of Black Friday",
+    "title": "25 Years Since Its Reveal, and People Still Search for iPods “Every Two Seconds” on eBay",
     "source": "IGN",
-    "summary": "Doubles as a secondary monitor for your laptop or a portable display for your Nintendo Switch or Steam Deck.",
-    "date": "Fri, 23 Oct 2026 00:05:00 +0000",
-    "link": "https://www.ign.com/articles/asus-zenscreen-usb-portable-monitor-deal-october-2026",
+    "summary": "eBay has revealed that buyers are still searching for \"iPods\" every two seconds worldwide, a quarter of a century since they were first revealed.",
+    "date": "Fri, 23 Oct 2026 08:00:00 +0000",
+    "link": "https://www.ign.com/articles/people-still-search-for-ipods-every-two-seconds-on-ebay",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.06,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
     },
     "tags": [
-      "Nintendo",
-      "Steam"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "The Acer Nitro  RX 9060 XT Gaming PC Offers Great 1440p Gaming Performance for Just $1,200",
+    "title": "Avatar: Seven Havens Episodes 7-9 Recap and Review",
     "source": "IGN",
-    "summary": "The equipped Radeon RX 9060 XT GPU is the preferred 16GB variant.",
-    "date": "Fri, 23 Oct 2026 00:00:00 +0000",
-    "link": "https://www.ign.com/articles/acer-nitro-radeon-rx-9060-xt-gaming-pc-deal-october-2026",
+    "summary": "Avatar: Seven Havens Episodes 7-9 recap and review: Lore and laughter dominate the latest episodes of the series.",
+    "date": "Fri, 23 Oct 2026 07:01:00 +0000",
+    "link": "https://www.ign.com/articles/avatar-seven-havens-episodes-7-9-recap-and-review",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.45,
+      "score": 0.5,
       "badge": "success"
     },
     "tags": [
-      "GPU"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "Flashy internal trailer for now-cancelled Mass Effect Universe appears online, following EA's closure of BioWare",
+    "source": "Eurogamer",
+    "summary": "An internal trailer for the cancelled Mass Effect game that was in-development at BioWare prior to its closure this week has appeared online. It's confirmed to be real, too, amid some initial suspicions it may have been an AI generated fake. Read more...",
+    "date": "Fri, 23 Oct 2026 09:11:49 +0000",
+    "link": "https://www.eurogamer.net/mass-effect-universe-trailer-leak-real",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
     "title": "Smash Bros. director Masahiro Sakurai thinks gen-AI will cause a surge of unoriginal games, but says human creativity can't be replicated",
     "source": "Eurogamer",
     "summary": "Masahiro Sakurai has spoken about the pitfalls of generative AI use in game development, saying that while he believes the technology will result in a surge of unoriginal video games, human creativity - such as that shown by designers like Ico's Fumito Ueda - can't be replicated. Read more...",
@@ -88,7 +105,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Final Fantasy 14, Umamusume: Pretty Derby, and more impacted as PHP vulnerability outages hit games around the globe",
     "source": "Eurogamer",
     "summary": "Multiple games - including Final Fantasy 14 and Umamusume: Pretty Derby - have faced outages and other issues following this week's discovery of a serious PHP vulnerability. Read more...",
@@ -100,13 +117,13 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver \"a level of autonomy and choice that no other game has\"",
     "source": "Eurogamer",
     "summary": "EA has closed its longtime studio partner BioWare, the iconic development house behind Mass Effect and Dragon Age, impacting around 50 staff who were in pre-production on the next Mass Effect game. In the aftermath of EA's decision, one of those affected has shared a little about the project, claimi...",
@@ -118,169 +135,150 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Despite its mixed reception, Marvel's Wolverine was September's top-selling new game in the US, making Sony launch revenues it hasn't seen since Helldivers 2",
-    "source": "Eurogamer",
-    "summary": "Marvel's Wolverine may not have had the best critical reception, but that clearly didn't discourage consumers. The action-adventure from Marvel's Spider-Man studio Insomniac has topped US video game sales in September, despite releasing exactly halfway through the month. Read more...",
-    "date": "Thu, 22 Oct 2026 13:22:52 +0000",
-    "link": "https://www.eurogamer.net/marvels-wolverine-top-seling-september-us-circana",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.13,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "How to unlock the full Weeping Creek Valley map in Phantom Blade Zero",
+    "title": "Starfighter Officially Broke a Star Wars Franchise Record Already",
     "source": "Polygon",
-    "summary": "Here's how to enter every optional, shrouded area on the first Phantom Blade Zero map",
-    "date": "Fri, 23 Oct 2026 02:01:23 GMT",
-    "link": "https://www.polygon.com/phantom-blade-zero-how-to-unlock-the-full-weeping-creek-valley-map/",
+    "summary": "Disney and Lucasfilm are going all in on 'Starfighter', setting a new financial record even before the film releases in 2027.",
+    "date": "Fri, 23 Oct 2026 10:52:29 GMT",
+    "link": "https://www.polygon.com/star-wars-starfighter-ryan-gosling-most-expensive-movie/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "8 Cyberpunk 2077 Replay Ideas to Make Night City Feel Brand New",
+    "title": "Vinland Saga Creator Gives a Heartbreaking Update on the Anime's Third Season",
     "source": "Polygon",
-    "summary": "From a dual-revolver cowboy to a netrunner who never fires a gun, these eight Cyberpunk 2077 replay ideas make Night City feel new again",
-    "date": "Thu, 22 Oct 2026 23:00:19 GMT",
-    "link": "https://www.polygon.com/cyberpunk-2077-replay-ideas/",
+    "summary": "Makoto Yukimura shared an update on the third season of Vinland Saga, and it's not one that fans will like.",
+    "date": "Fri, 23 Oct 2026 10:04:21 GMT",
+    "link": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Cyberpunk"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "'Mass Effect Universe' Leak Promised What Fans Have Waited Decades For",
+    "title": "187 Years Ago, a Gothic Horror Story Beat Edgar Allan Poe to the Locked-Room Mystery",
     "source": "Polygon",
-    "summary": "BioWare's canceled Mass Effect Universe game would have paid off a long-standing fan request, and fans are mourning the game's death.",
-    "date": "Thu, 22 Oct 2026 22:19:07 GMT",
-    "link": "https://www.polygon.com/mass-effect-universe-new-characters-male-quarian-asari-krogan-aliens/",
+    "summary": "Sheridan Le Fanu's overlooked Gothic horror novel deserves more appreciation.",
+    "date": "Fri, 23 Oct 2026 10:00:18 GMT",
+    "link": "https://www.polygon.com/locked-room-gothic-horror-sheridan-le-fanu/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "Half-Life 3 Rumors Reignite After Valve Employee Lets Codename Slip",
+    "title": "Epic Games Is Just Trolling Fans at This Point With New $50k AI Game Contest",
     "source": "Polygon",
-    "summary": "A Valve employee just casually mentioned Half-Life 3's rumored codename HLX in public, reigniting rumors that the shooter is returning.",
-    "date": "Thu, 22 Oct 2026 21:16:28 GMT",
-    "link": "https://www.polygon.com/valve-half-life-3-hlx/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.25,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "My GOTY is $7 and has 253 Steam reviews",
-    "source": "PC Gamer",
-    "summary": "Stuntboost is a racing game for FPS movement sickos.",
-    "date": "Thu, 22 Oct 2026 22:29:10 +0000",
-    "link": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
-    },
-    "tags": [
-      "FPS",
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "A new Fallout 4 mod adds an entire town, but more importantly, it lets you join a gang",
-    "source": "PC Gamer",
-    "summary": "They're not the Tunnel Snakes, but they're trying.",
-    "date": "Thu, 22 Oct 2026 22:22:04 +0000",
-    "link": "https://www.pcgamer.com/games/fallout/a-new-fallout-4-mod-adds-an-entire-town-but-more-importantly-it-lets-you-join-a-gang/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Epic announces game jam where you have to use AI, then walks back the requirement",
-    "source": "PC Gamer",
-    "summary": "The Unreal Engine and Fortnite company has extended the public a many-fingered invitation.",
-    "date": "Thu, 22 Oct 2026 21:39:30 +0000",
-    "link": "https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/",
+    "summary": "Epic Games is pouring thousands of dollars into an AI-based game development competition.",
+    "date": "Fri, 23 Oct 2026 09:51:40 GMT",
+    "link": "https://www.polygon.com/epic-games-unreal-engine-ai-competition/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.08,
+      "score": -0.09,
       "badge": "info"
     },
     "tags": [
-      "Unreal Engine",
       "AI"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "Canadian politician calls on government to help BioWare employees buy the studio and run it themselves",
+    "id": 13,
+    "title": "Stolen RTX 5090 from Brazilian airport forklift heist reportedly turns up on second hand market for $6,400, but the rest remain AWOL",
     "source": "PC Gamer",
-    "summary": "Avi Lewis, leader of one of Canada's top opposition parties, is not a fan of private equity.",
-    "date": "Thu, 22 Oct 2026 21:26:29 +0000",
-    "link": "https://www.pcgamer.com/games/mass-effect/canadian-politician-calls-on-government-to-help-bioware-employees-buy-the-studio-and-run-it-themselves/",
+    "summary": "These things have serial numbers, you know.",
+    "date": "Fri, 23 Oct 2026 10:42:31 +0000",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/stolen-rtx-5090-from-brazilian-airport-forklift-heist-reportedly-turns-up-on-second-hand-market-for-usd6-400-but-the-rest-remain-awol/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "I've tested every graphics setting in Call of Duty: Modern Warfare 4—tweak these four options for the best performance",
+    "source": "PC Gamer",
+    "summary": "Upscaling can also help a bunch, of course.",
+    "date": "Fri, 23 Oct 2026 10:29:20 +0000",
+    "link": "https://www.pcgamer.com/games/call-of-duty/ive-tested-every-graphics-setting-in-call-of-duty-modern-warfare-4-tweak-these-four-options-for-the-best-performance/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.6,
+      "badge": "success"
+    },
+    "tags": [
+      "Graphics"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Asus ROG Rapture GT-BN98 router review",
+    "source": "PC Gamer",
+    "summary": "Asus delivers the first Wi-Fi 8 router.",
+    "date": "Fri, 23 Oct 2026 09:53:57 +0000",
+    "link": "https://www.pcgamer.com/hardware/networking/asus-rog-rapture-gt-bn98-review/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.25,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "A public outing of severe and unfixed Linux kernel vulnerabilities should have you thinking of updating your SteamOS or other distros to beta branches",
+    "source": "PC Gamer",
+    "summary": "The accidental reveal of unpatched vulnerabilities as high as 9 on the CVSS score chart is a little worrisome.",
+    "date": "Fri, 23 Oct 2026 09:26:40 +0000",
+    "link": "https://www.pcgamer.com/hardware/a-public-outing-of-severe-and-unfixed-linux-kernel-vulnerabilities-should-have-you-thinking-of-updating-your-steamos-or-other-distros-to-beta-branches/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.04,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -314,8 +312,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -349,8 +347,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
