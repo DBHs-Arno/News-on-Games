@@ -1,6 +1,24 @@
 [
   {
     "id": 1,
+    "title": "12 Anime Worth Watching This Fall",
+    "source": "IGN",
+    "summary": "From a return to Night City to a legendary blacksmith and bizarre race, we run down the new and returning anime titles you need to check out.",
+    "date": "Sat, 24 Oct 2026 12:00:00 +0000",
+    "link": "https://www.ign.com/articles/new-anime-to-watch-in-fall-2006",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.34,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
     "title": "Avengers: Doomsday Promoted With Baseball-Themed Crossover Featuring MLB Players During World Series",
     "source": "IGN",
     "summary": "Marvel Studios debuted a unique promo for Avengers: Doomsday during Game 1 of the 2026 World Series on Fox tonight between the Milwaukee Brewers and Tampa Bay Rays. The ad is an Avengers-MLB crossover set on Earth-828 at Ebbets Field (the former home of the Dodgers when they were in Brooklyn; it was...",
@@ -12,13 +30,13 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Aaron Paul Makes Surprise Cameo in DC’s Clayface",
     "source": "IGN",
     "summary": "Three-time Emmy winner Aaron Paul has a blink and you’ll miss it cameo in the new DC movie Clayface. Now, the film’s director, James Watkins, has revealed why the Breaking Bad and Westworld star is in DC’s first R-rated horror movie.",
@@ -30,13 +48,13 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Dead by Daylight to Remove Chucky Content Just Months After Losing Michael Myers",
     "source": "IGN",
     "summary": "Dead by Daylight fans are beside themselves after Behaviour Interactive announced that all Chucky content would no longer be available to purchase starting next month.",
@@ -48,31 +66,66 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Barnes & Noble Has the First 500-Piece Dungeon Crawler Carl Jigsaw Puzzle for Sale",
-    "source": "IGN",
-    "summary": "",
-    "date": "Fri, 23 Oct 2026 23:15:00 +0000",
-    "link": "https://www.ign.com/articles/barnes-noble-has-the-first-500-piece-dungeon-crawler-carl-jigsaw-puzzle-for-sale",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.42,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "Mass Effect Universe \"looked incredible\" says creator who claims he advised BioWare",
+    "source": "Eurogamer",
+    "summary": "A content creator who claims to have served on a BioWare community council has shared alleged details about the cancelled next Mass Effect game, titled Mass Effect Universe. Read more...",
+    "date": "Sat, 24 Oct 2026 14:26:27 +0000",
+    "link": "https://www.eurogamer.net/mass-effect-universe-details-dantics-claims",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.18,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Prime Video's Fallout reality competition Fallout Shelter: The Experiment premieres in January",
+    "source": "Eurogamer",
+    "summary": "Prime Video's Fallout reality competition, Fallout Shelter: The Experiment, will premiere on 13th January 2027. Read more...",
+    "date": "Sat, 24 Oct 2026 13:30:30 +0000",
+    "link": "https://www.eurogamer.net/fallout-shelter-the-experiment-prime-video-release-date",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Xbox's first chief operating officer Helen Chiang leaves Microsoft just three months into the job",
+    "source": "Eurogamer",
+    "summary": "Helen Chiang, Xbox’s first-ever chief operating officer (COO), is leaving Microsoft just three months after taking the job. Read more...",
+    "date": "Sat, 24 Oct 2026 12:57:17 +0000",
+    "link": "https://www.eurogamer.net/xbox-coo-helen-chiang-leaves-microsoft",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.38,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
     "title": "Nintendo's Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers",
     "source": "Eurogamer",
     "summary": "Legendary Nintendo developer Shigeru Miyamoto - who led development on classic games such as Super Mario 64 and The Legend of Zelda: Ocarina of Time - has argued that the rise of generative AI tools won't necessarily replace human talent. Read more...",
@@ -90,198 +143,143 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "With Minecraft and Diablo shows already on the way, Netflix reportedly offered Xbox $500m for a bigger film and TV deal",
-    "source": "Eurogamer",
-    "summary": "A deal between Netflix and Xbox has supposedly fallen through because of one minor quibble: Netflix wanted to adapt the console maker's games for $500m, not $800m. Read more...",
-    "date": "Fri, 23 Oct 2026 18:38:57 +0000",
-    "link": "https://www.eurogamer.net/netflix-500m-xbox-film-tv-rights",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "As devastating Xbox \"reset\" continues, Dishonored studio Arkane Lyon reportedly only has until November to find a new buyer before it's closed",
-    "source": "Eurogamer",
-    "summary": "After getting caught up in Xbox CEO Asha Sharma's devastating layoffs and cuts earlier this year, Arkane Lyon - the beloved immersive sim studio behind the likes of Dishonored and Deathloop - reportedly only has until November to find a buyer. If the search fails, it will be shut down. Read more...",
-    "date": "Fri, 23 Oct 2026 18:09:03 +0000",
-    "link": "https://www.eurogamer.net/xbox-layoffs-marvels-blade-arkane-lyon-closure",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Mass Effect crossover items have seemingly been removed from Battlefield 6 following EA's sudden closure of BioWare",
-    "source": "Eurogamer",
-    "summary": "After EA's sudden shutdown of developer BioWare, upcoming crossover items themed around Mass Effect appear to have been removed from Battlefield 6. Read more...",
-    "date": "Fri, 23 Oct 2026 17:19:50 +0000",
-    "link": "https://www.eurogamer.net/mass-effect-battlefield-6-crossover-bioware-closure",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 9,
-    "title": "13 Years Later, 'Adventure Time's Scariest Episode Is Still a 10-Minute Masterpiece",
+    "title": "Dead by Daylight Is Losing Another Horror Icon",
     "source": "Polygon",
-    "summary": "Simon and Marcy remains the pinnacle of Adventure Time storytelling, and a must-watch for your Halloween Countdown",
-    "date": "Sat, 24 Oct 2026 10:00:18 GMT",
-    "link": "https://www.polygon.com/adventure-time-scariest-episode-simon-and-marcy/",
+    "summary": "This is Dead by Daylight's last Halloween with Chucky, as the horror movie icon is being removed from the game for good.",
+    "date": "Sat, 24 Oct 2026 15:17:05 GMT",
+    "link": "https://www.polygon.com/dead-by-daylight-chucky-removed/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "One of 2026’s Best-Rated Games Is Basically Mass Effect With Spies",
+    "source": "Polygon",
+    "summary": "Mass Effect: Universe may be cancelled following BioWare's closure, but Zero Parades: For Died Spies is already Mass Effect meets James Bond",
+    "date": "Sat, 24 Oct 2026 15:00:18 GMT",
+    "link": "https://www.polygon.com/zero-parades-mass-effect-2-comparison/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Final Fantasy 14 Players Deliver Perfect Response to 2026’s PHP Vulnerability",
-    "source": "Polygon",
-    "summary": "Final Fantasy 14 community gets a green thumb and waters plants for players who couldn't log in during this week's security debacle",
-    "date": "Sat, 24 Oct 2026 09:05:18 GMT",
-    "link": "https://www.polygon.com/final-fantasy-14-php-issues-planet-watering-community-response/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "7 Hilarious ‘Far Side’ Comics With the Worst Puns",
+    "title": "Xbox's First-Ever COO Is Already Leaving After A Few Months",
     "source": "Polygon",
-    "summary": "Some of Gary Larson's best Far Side comic strips featured a purposefully bad bit of word play, which was further proof of Larson's genius",
-    "date": "Sat, 24 Oct 2026 09:00:21 GMT",
-    "link": "https://www.polygon.com/best-far-side-comics-with-terrible-puns/",
+    "summary": "Less than four months after becoming the first-ever Xbox COO, Helen Chiang has left the company",
+    "date": "Sat, 24 Oct 2026 14:34:52 GMT",
+    "link": "https://www.polygon.com/xbox-loses-coo/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.03,
+      "score": 0.02,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "12 Years Ago, 'Doctor Who's Most Unhinged Episode Revealed the Doctor at His Worst",
+    "title": "'Wildwood' Is a \"Risky\" Movie — Just Like 'Coraline' Was 20 Years Ago",
     "source": "Polygon",
-    "summary": "Peter Capaldi's Twelfth Doctor has plenty of outstanding moments, but one episode in particular shows the Time Lord at his worst.",
-    "date": "Sat, 24 Oct 2026 08:05:18 GMT",
-    "link": "https://www.polygon.com/doctor-who-the-caretaker-peter-capaldi-12th-doctor-episode-analysis/",
+    "summary": "Discover the 16-year journey of Laika's Wildwood, a groundbreaking stop-motion film directed by Travis Knight.",
+    "date": "Sat, 24 Oct 2026 14:00:18 GMT",
+    "link": "https://www.polygon.com/wildwood-coraline-interview/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.17,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "Why private equity acquisitions like the one that just claimed BioWare are so dreaded",
+    "title": "Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024",
     "source": "PC Gamer",
-    "summary": "BioWare is just the latest casualty in a long history of private equity carnage.",
-    "date": "Fri, 23 Oct 2026 22:46:50 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/why-private-equity-acquisitions-like-the-one-that-just-claimed-bioware-are-so-dreaded/",
+    "summary": "Uh oh, everything is cozy now.",
+    "date": "Sat, 24 Oct 2026 15:10:00 +0000",
+    "link": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "Mass Effect 5 was set in a 'galactic Cold War,' new leak claims, and all 3 endings were wrapped into 1",
+    "title": "The best feature in the original Alan Wake is an absence: the man has no reticle",
     "source": "PC Gamer",
-    "summary": "The more I hear about what BioWare had cooking, the more pissed off I am that we're never going to get it.",
-    "date": "Fri, 23 Oct 2026 21:58:50 +0000",
-    "link": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims-and-all-3-endings-were-wrapped-into-1/",
+    "summary": "Remedy forgot the rules of third-person shooting to build its inaugural horror game.",
+    "date": "Sat, 24 Oct 2026 15:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/horror/the-best-feature-in-the-original-alan-wake-is-an-absence-the-man-has-no-reticle/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.13,
+      "score": 0.24,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'",
+    "title": "'I drank from the chalice of blood': indie dev scrubs his game of AI-generated voice lines, having previously described the technology as 'anti-human and anti-art'",
     "source": "PC Gamer",
-    "summary": "Too easy, too hard, or just right?",
-    "date": "Fri, 23 Oct 2026 21:43:44 +0000",
-    "link": "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/",
+    "summary": "Refund offered for players who \"still feel betrayed\" over AI use in Future? No Thanks!",
+    "date": "Sat, 24 Oct 2026 14:30:20 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.29,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.14,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Time could be running out for Arkane",
+    "title": "Award-winning sci-fi author NK Jemisin joins BioWare's mourners and scorns a broken industry for killing geese that 'laid the golden eggs'",
     "source": "PC Gamer",
-    "summary": "The famed immersive sim studio just got an extra month to find a new buyer, but will likely close if there are no takers.",
-    "date": "Fri, 23 Oct 2026 20:07:21 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/time-could-be-running-out-for-arkane/",
+    "summary": "\"The [Mass Effect] and [Dragon Age] games were a literal inspiration.\"",
+    "date": "Sat, 24 Oct 2026 14:00:00 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/award-winning-sci-fi-author-nk-jemisin-joins-biowares-mourners-and-scorns-a-broken-industry-for-killing-geese-that-laid-the-golden-eggs/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.05,
+      "score": -0.05,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -298,8 +296,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -316,8 +314,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -334,8 +332,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -352,8 +350,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
