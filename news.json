@@ -1,71 +1,73 @@
 [
   {
     "id": 1,
-    "title": "Ahead of GTA 6, PlayStation 5 Sales Were Up 22%, Likely Due To Wolverine",
+    "title": "Avengers: Doomsday Promoted With Baseball-Themed Crossover Featuring MLB Players During World Series",
     "source": "IGN",
-    "summary": "The latter part of 2026 has been packed with excellent games, all leading up to GTA 6 on November 19, so it's not surprising that PS5 sales have jumped over last month.",
-    "date": "Fri, 23 Oct 2026 18:43:16 +0000",
-    "link": "https://www.ign.com/articles/ahead-of-gta-6-playstation-5-sales-were-up-22-likely-due-to-wolverine",
+    "summary": "Marvel Studios debuted a unique promo for Avengers: Doomsday during Game 1 of the 2026 World Series on Fox tonight between the Milwaukee Brewers and Tampa Bay Rays. The ad is an Avengers-MLB crossover set on Earth-828 at Ebbets Field (the former home of the Dodgers when they were in Brooklyn; it was...",
+    "date": "Sat, 24 Oct 2026 01:08:16 +0000",
+    "link": "https://www.ign.com/articles/avengers-doomsday-promoted-with-baseball-themed-crossover-featuring-mlb-players-during-world-series",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.09,
+      "score": -0.01,
       "badge": "info"
     },
     "tags": [
-      "PlayStation"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Today’s Best Deals: Persona 3 Reload for Switch 2, Nitro Deck 2, and Fallout Day at the IGN Store",
+    "title": "Aaron Paul Makes Surprise Cameo in DC’s Clayface",
     "source": "IGN",
-    "summary": "Don’t miss discounts on a portable monitor, MTG Reality Fracture, and more heading into the weekend.",
-    "date": "Fri, 23 Oct 2026 18:40:00 +0000",
-    "link": "https://www.ign.com/articles/best-deals-for-october-23-2026",
+    "summary": "Three-time Emmy winner Aaron Paul has a blink and you’ll miss it cameo in the new DC movie Clayface. Now, the film’s director, James Watkins, has revealed why the Breaking Bad and Westworld star is in DC’s first R-rated horror movie.",
+    "date": "Sat, 24 Oct 2026 00:26:26 +0000",
+    "link": "https://www.ign.com/articles/aaron-paul-clayface-cameo-dc",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.75,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.1,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "FemShep Voice Actor Jennifer Hale Speaks Out After Mass Effect 5 Trailer Leaks Online",
+    "title": "Dead by Daylight to Remove Chucky Content Just Months After Losing Michael Myers",
     "source": "IGN",
-    "summary": "Award-winning voice actor Jennifer Hale, best known for voicing the female version of Commander Shepard in the first three Mass Effect games, is speaking out after a leaked trailer for the sci-fi franchise’s next title was leaked online.",
-    "date": "Fri, 23 Oct 2026 18:34:23 +0000",
-    "link": "https://www.ign.com/articles/femshep-voice-actor-jennifer-hale-speaks-out-after-mass-effect-5-trailer-leaks-online",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.31,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Xbox Reportedly Asked Netflix for $800 Million for 7-Year Movie and TV Exclusivity Deal",
-    "source": "IGN",
-    "summary": "Xbox reportedly asked Netflix for $800 million for a seven-year deal that would have given the streamer exclusive adaptations based on its games.",
-    "date": "Fri, 23 Oct 2026 18:27:40 +0000",
-    "link": "https://www.ign.com/articles/xbox-reportedly-asked-netflix-for-800-million-for-7-year-movie-and-tv-exclusivity-deal",
+    "summary": "Dead by Daylight fans are beside themselves after Behaviour Interactive announced that all Chucky content would no longer be available to purchase starting next month.",
+    "date": "Sat, 24 Oct 2026 00:01:07 +0000",
+    "link": "https://www.ign.com/articles/dead-by-daylight-to-remove-chucky-content-just-months-after-losing-michael-myers",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Xbox"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "Barnes & Noble Has the First 500-Piece Dungeon Crawler Carl Jigsaw Puzzle for Sale",
+    "source": "IGN",
+    "summary": "",
+    "date": "Fri, 23 Oct 2026 23:15:00 +0000",
+    "link": "https://www.ign.com/articles/barnes-noble-has-the-first-500-piece-dungeon-crawler-carl-jigsaw-puzzle-for-sale",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.42,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -82,8 +84,8 @@
       "badge": "success"
     },
     "tags": [
-      "AI",
-      "Nintendo"
+      "Nintendo",
+      "AI"
     ],
     "read_time": "1 min read"
   },
@@ -134,85 +136,138 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "8 New TV Shows to Watch This Weekend on Netflix, HBO, and Hulu (October 23-25)",
+    "title": "The Witcher's Geralt Officially Returns for New Adventure",
     "source": "Polygon",
-    "summary": "In this week's TV column, we have the return of different shows, including one featuring Chris Pratt and an anime based on a video game.",
-    "date": "Fri, 23 Oct 2026 20:01:19 GMT",
-    "link": "https://www.polygon.com/new-tv-shows-streaming-this-weekend-netflix-october-23-25/",
+    "summary": "Andrzej Sapkowski recently confirmed he's working on a new The Witcher book, and he hopes to have it completed by 2028.",
+    "date": "Sat, 24 Oct 2026 00:43:18 GMT",
+    "link": "https://www.polygon.com/the-witcher-geralt-returns-in-2026-with-new-release/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.09,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.22,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Esper locations in Final Fantasy Resonance",
+    "title": "Disney's Officially Bringing Back a '90s Cartoon Icon After 35 Years",
     "source": "Polygon",
-    "summary": "Here's where to find each Esper location in Final Fantasy Resonance and how to recruit them",
-    "date": "Fri, 23 Oct 2026 18:51:59 GMT",
-    "link": "https://www.polygon.com/final-fantasy-resonance-esper-locations/",
+    "summary": "Disney Plus is getting a new Darkwing Duck series, featuring the return of crime fighter Drake Mallard.",
+    "date": "Fri, 23 Oct 2026 23:33:18 GMT",
+    "link": "https://www.polygon.com/darkwing-duck-reboot-disney-plus/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.07,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Mass Effect 5 Pitched as 'John Wick and James Bond' in Space, Report Says",
+    "title": "7 Classic JRPGs That Are So Good They Never Need a Remake",
     "source": "Polygon",
-    "summary": "New Mass Effect: Universe details have surfaced. Reportedly it would have been a spy thriller inspired by John Wick and James Bond.",
-    "date": "Fri, 23 Oct 2026 18:34:46 GMT",
-    "link": "https://www.polygon.com/mass-effect-5-leaked-plot-details-john-wick-james-bond-in-space/",
+    "summary": "These JRPGs may have been ported to newer platforms or lightly remastered, but they look and play nearly identical to when they were first released",
+    "date": "Fri, 23 Oct 2026 22:19:03 GMT",
+    "link": "https://www.polygon.com/best-classic-jrpgs-no-remake/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.14,
+      "score": 0.32,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Remake"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "Best Visions to use in Final Fantasy Resonance",
+    "title": "Every Marvel Post-Credits Scene That Went Nowhere (So Far)",
     "source": "Polygon",
-    "summary": "The best Visions in Final Fantasy Resonance combine excellent skills with universally useful mastery abilities",
-    "date": "Fri, 23 Oct 2026 18:27:34 GMT",
-    "link": "https://www.polygon.com/final-fantasy-resonance-best-visions/",
+    "summary": "Marvel Studios has promised a lot in the Multiverse Saga. Here's every post-credits scene from the MCU we still need answers for.",
+    "date": "Fri, 23 Oct 2026 22:16:19 GMT",
+    "link": "https://www.polygon.com/marvel-movies-tv-shows-post-credits-scenes-teases/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.55,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
+    "title": "Why private equity acquisitions like the one that just claimed BioWare are so dreaded",
+    "source": "PC Gamer",
+    "summary": "BioWare is just the latest casualty in a long history of private equity carnage.",
+    "date": "Fri, 23 Oct 2026 22:46:50 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/why-private-equity-acquisitions-like-the-one-that-just-claimed-bioware-are-so-dreaded/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Mass Effect 5 was set in a 'galactic Cold War,' new leak claims, and all 3 endings were wrapped into 1",
+    "source": "PC Gamer",
+    "summary": "The more I hear about what BioWare had cooking, the more pissed off I am that we're never going to get it.",
+    "date": "Fri, 23 Oct 2026 21:58:50 +0000",
+    "link": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims-and-all-3-endings-were-wrapped-into-1/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.13,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'",
+    "source": "PC Gamer",
+    "summary": "Too easy, too hard, or just right?",
+    "date": "Fri, 23 Oct 2026 21:43:44 +0000",
+    "link": "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.29,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
     "title": "Time could be running out for Arkane",
     "source": "PC Gamer",
     "summary": "The famed immersive sim studio just got an extra month to find a new buyer, but will likely close if there are no takers.",
@@ -224,61 +279,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "It's our new daily game fixation and we all stink at it: Can you guess how much used cars cost?",
-    "source": "PC Gamer",
-    "summary": "Like Wordle, but it's about pricing used cars.",
-    "date": "Fri, 23 Oct 2026 19:37:16 +0000",
-    "link": "https://www.pcgamer.com/games/puzzle/its-our-new-daily-game-fixation-and-we-all-stink-at-it-can-you-guess-how-much-used-cars-cost/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Creative Assembly exec pins the blame for the Shogun 2 remaster mess on someone else: 'This was not a Creative Assembly developed game'",
-    "source": "PC Gamer",
-    "summary": "Roger Collum says Creative Assembly was \"focused on our next big projects,\" and didn't pay enough attention to the work being done by an \"external developer.\"",
-    "date": "Fri, 23 Oct 2026 19:35:17 +0000",
-    "link": "https://www.pcgamer.com/games/strategy/creative-assembly-exec-pins-the-blame-for-the-shogun-2-remaster-mess-on-someone-else-this-was-not-a-creative-assembly-developed-game/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "'Every single week it's going to feel like the sky is falling': Cloudflare CEO says strap in for 'a couple years' of AI-powered internet security mayhem",
-    "source": "PC Gamer",
-    "summary": "This week's PHP crisis is likely just the first of many.",
-    "date": "Fri, 23 Oct 2026 19:24:34 +0000",
-    "link": "https://www.pcgamer.com/software/security/every-single-week-its-going-to-feel-like-the-sky-is-falling-cloudflare-ceo-says-strap-in-for-a-couple-years-of-ai-powered-internet-security-mayhem/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
-      "AI"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -295,8 +297,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -313,8 +315,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -331,8 +333,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -349,8 +351,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
