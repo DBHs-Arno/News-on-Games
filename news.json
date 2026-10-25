@@ -1,6 +1,24 @@
 [
   {
     "id": 1,
+    "title": "Man Arrested for Brandishing Knife at Crew on the Set of Miami Vice ‘85",
+    "source": "IGN",
+    "summary": "A knife-wielding man was arrested Friday night for threatening crew members on the Brooklyn set of Miami Vice ‘85. Citing information from the NYPD, TMZ reports that a police officer working security on the set arrested Alex Perez, 23.",
+    "date": "Sun, 25 Oct 2026 04:23:32 +0000",
+    "link": "https://www.ign.com/articles/man-arrested-for-brandishing-knife-at-crew-on-the-set-of-miami-vice-85",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
     "title": "New Avengers: Doomsday Trailer Pokes Fun at Multiple 'Captains America'",
     "source": "IGN",
     "summary": "Marvel dropped a new trailer for Avengers: Doomsday that leans heavily on the dynamic between Thor and Steve Rogers, especially their shared worthiness to wield the enchanted hammer Mjolnir.",
@@ -18,7 +36,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "James Gunn Defends the DCU's Approach to Interconnected Stories, Doesn't Want Movies Like Clayface to Exist Just to 'Set Up' Crossovers",
     "source": "IGN",
     "summary": "DC Studios co-chairman James Gunn has defended the DCU's approach to interconnected stories, saying he doesn't want movies like Clayface to exist just to \"set up\" crossovers.",
@@ -36,7 +54,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "The Best Deals Today: Persona 3 Reload, Pikmin 4, The Adventures of Elliot, and More",
     "source": "IGN",
     "summary": "",
@@ -45,24 +63,6 @@
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.75,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Call of Duty Movie Director Teases Story That Explores 'the Cost of War,' Praises Modern Warfare Characters",
-    "source": "IGN",
-    "summary": "Call of Duty movie director Peter Berg has teased more details from his live-action film, promising an adaptation with \"a very strong soul\" that explores \"the cost of war.\"",
-    "date": "Sat, 24 Oct 2026 19:45:14 +0000",
-    "link": "https://www.ign.com/articles/call-of-duty-movie-director-teases-story-that-explores-the-cost-of-war-praises-modern-warfare-characters",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.37,
       "badge": "success"
     },
     "tags": [
@@ -144,14 +144,14 @@
   },
   {
     "id": 9,
-    "title": "58 Years Later, Captain Kirk's Best Star Trek Quote Is the Greatest Line in Sci-Fi History",
+    "title": "Vincent Price Is the Weirdest Serial Killer Ever in this '70s Cult Classic",
     "source": "Polygon",
-    "summary": "Captain Kirk's speech in 'Return to Tomorrow' says more about what Star Trek stands for than any other line in the original series.",
-    "date": "Sun, 25 Oct 2026 01:20:18 GMT",
-    "link": "https://www.polygon.com/best-star-trek-original-series-quote-captain-kirk/",
+    "summary": "The Abominable Dr. Phibes is a campy horror movie about an organist who murders surgeons",
+    "date": "Sun, 25 Oct 2026 10:00:18 GMT",
+    "link": "https://www.polygon.com/halloween-horror-what-to-watch-vincent-price-abominable-dr-phibes/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.46,
+      "score": 0.17,
       "badge": "success"
     },
     "tags": [
@@ -162,15 +162,15 @@
   },
   {
     "id": 10,
-    "title": "Jean-Claude Van Damme's First Action Classic is Streaming for Free",
+    "title": "5 Near-Perfect Psychological Thriller Movies Streaming for Free",
     "source": "Polygon",
-    "summary": "Forged by fire, a beast in the night",
-    "date": "Sun, 25 Oct 2026 01:00:18 GMT",
-    "link": "https://www.polygon.com/bloodsport-free-youtube/",
+    "summary": "These tense genre picks are well worth your time.",
+    "date": "Sun, 25 Oct 2026 08:54:46 GMT",
+    "link": "https://www.polygon.com/best-psychological-thrillers-movies-streaming-free-online/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.23,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -180,14 +180,14 @@
   },
   {
     "id": 11,
-    "title": "5 Most Perfect 1980s Games That Nobody Remembers",
+    "title": "23 Years Later, Spike's Best 'Buffy' Quote Is Still One of the Best Lines in TV History",
     "source": "Polygon",
-    "summary": "From Tempest to Captain Blood, unearth these classic 1980s games from the 8-bit era that deserve to make a comeback.",
-    "date": "Sun, 25 Oct 2026 00:53:58 GMT",
-    "link": "https://www.polygon.com/best-forgotten-1980s-games/",
+    "summary": "Spike's best quote sums up his arc as one of the main characters in Buffy the Vampire Slayer.",
+    "date": "Sun, 25 Oct 2026 08:08:18 GMT",
+    "link": "https://www.polygon.com/buffy-vampire-slayer-best-spike-quote/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.56,
+      "score": 0.63,
       "badge": "success"
     },
     "tags": [
@@ -198,15 +198,15 @@
   },
   {
     "id": 12,
-    "title": "The 6 Kingdom Hearts 4 Worlds We Want to See — and 4 We Absolutely Don't",
+    "title": "61 Years Later, Paul's Best Dune Line Is Still the Coldest Quote in Sci-Fi History",
     "source": "Polygon",
-    "summary": "Kingdom Hearts has a complicated history of representing Disney worlds, so here's a look at what should and should not be included in KH4.",
-    "date": "Sun, 25 Oct 2026 00:39:16 GMT",
-    "link": "https://www.polygon.com/kingdom-hearts-4-worlds-theories/",
+    "summary": "This brilliant quote from Frank Herbert's Dune reveals an unsavory truth.",
+    "date": "Sun, 25 Oct 2026 08:00:18 GMT",
+    "link": "https://www.polygon.com/paul-atreides-best-dune-quote/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.63,
+      "badge": "success"
     },
     "tags": [
       "News",
