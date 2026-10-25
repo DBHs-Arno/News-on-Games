@@ -1,73 +1,73 @@
 [
   {
     "id": 1,
-    "title": "Elden Ring Movie's Budget Reportedly $200 Million, Almost 3x More Expensive Than A24's Marty Supreme",
+    "title": "New Avengers: Doomsday Trailer Pokes Fun at Multiple 'Captains America'",
     "source": "IGN",
-    "summary": "Alex Garland's Elden Ring movie reportedly carries a hefty budget of almost $200 million, making it A24's most expensive movie ever – and it's not close.",
-    "date": "Sat, 24 Oct 2026 18:29:56 +0000",
-    "link": "https://www.ign.com/articles/elden-ring-movies-budget-reportedly-200-million-almost-3x-more-expensive-than-a24s-marty-supreme",
+    "summary": "Marvel dropped a new trailer for Avengers: Doomsday that leans heavily on the dynamic between Thor and Steve Rogers, especially their shared worthiness to wield the enchanted hammer Mjolnir.",
+    "date": "Sun, 25 Oct 2026 01:20:56 +0000",
+    "link": "https://www.ign.com/articles/avengers-doomsday-trailer-multiple-captains-america",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "James Gunn Defends the DCU's Approach to Interconnected Stories, Doesn't Want Movies Like Clayface to Exist Just to 'Set Up' Crossovers",
+    "source": "IGN",
+    "summary": "DC Studios co-chairman James Gunn has defended the DCU's approach to interconnected stories, saying he doesn't want movies like Clayface to exist just to \"set up\" crossovers.",
+    "date": "Sat, 24 Oct 2026 22:09:42 +0000",
+    "link": "https://www.ign.com/articles/james-gunn-defends-the-dcus-approach-to-interconnected-stories-doesnt-want-movies-like-clayface-to-exist-just-to-set-up-crossovers",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "Avengers: Doomsday Teaser Reveals Who Was Edited Out of the First Trailer, Fans Say",
-    "source": "IGN",
-    "summary": "Marvel fans say the new Avengers: Doomsday teaser might have revealed who was edited out of its first trailer.",
-    "date": "Sat, 24 Oct 2026 16:28:24 +0000",
-    "link": "https://www.ign.com/articles/avengers-doomsday-teaser-reveals-who-was-edited-out-of-the-first-trailer-fans-say",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.21,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "12 Anime Worth Watching This Fall",
+    "title": "The Best Deals Today: Persona 3 Reload, Pikmin 4, The Adventures of Elliot, and More",
     "source": "IGN",
-    "summary": "From a return to Night City to a legendary blacksmith and bizarre race, we run down the new and returning anime titles you need to check out.",
-    "date": "Sat, 24 Oct 2026 12:00:00 +0000",
-    "link": "https://www.ign.com/articles/new-anime-to-watch-in-fall-2006",
+    "summary": "",
+    "date": "Sat, 24 Oct 2026 20:09:52 +0000",
+    "link": "https://www.ign.com/articles/best-deals-for-october-24-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.34,
+      "score": 0.75,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Avengers: Doomsday Promoted With Baseball-Themed Crossover Featuring MLB Players During World Series",
+    "title": "Call of Duty Movie Director Teases Story That Explores 'the Cost of War,' Praises Modern Warfare Characters",
     "source": "IGN",
-    "summary": "Marvel Studios debuted a unique promo for Avengers: Doomsday during Game 1 of the 2026 World Series on Fox tonight between the Milwaukee Brewers and Tampa Bay Rays. The ad is an Avengers-MLB crossover set on Earth-828 at Ebbets Field (the former home of the Dodgers when they were in Brooklyn; it was...",
-    "date": "Sat, 24 Oct 2026 01:08:16 +0000",
-    "link": "https://www.ign.com/articles/avengers-doomsday-promoted-with-baseball-themed-crossover-featuring-mlb-players-during-world-series",
+    "summary": "Call of Duty movie director Peter Berg has teased more details from his live-action film, promising an adaptation with \"a very strong soul\" that explores \"the cost of war.\"",
+    "date": "Sat, 24 Oct 2026 19:45:14 +0000",
+    "link": "https://www.ign.com/articles/call-of-duty-movie-director-teases-story-that-explores-the-cost-of-war-praises-modern-warfare-characters",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.01,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.37,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -101,8 +101,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -119,8 +119,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -137,80 +137,80 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "The 5 least-scary scary games for people who are scared of scary games",
+    "title": "58 Years Later, Captain Kirk's Best Star Trek Quote Is the Greatest Line in Sci-Fi History",
     "source": "Polygon",
-    "summary": "If you love Halloween, but could do without any nightmares, these non-scary scary games are for you.",
-    "date": "Sat, 24 Oct 2026 20:00:18 GMT",
-    "link": "https://www.polygon.com/best-not-scary-horror-games/",
+    "summary": "Captain Kirk's speech in 'Return to Tomorrow' says more about what Star Trek stands for than any other line in the original series.",
+    "date": "Sun, 25 Oct 2026 01:20:18 GMT",
+    "link": "https://www.polygon.com/best-star-trek-original-series-quote-captain-kirk/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.25,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.46,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "10 Near-Perfect Netflix Sci-Fi Shows That Hook You in the First Scene",
+    "title": "Jean-Claude Van Damme's First Action Classic is Streaming for Free",
     "source": "Polygon",
-    "summary": "From mind-bending mysteries to dystopian futures, these Netflix sci-fi series prove that some stories can't be forgotten from the moment they start.",
-    "date": "Sat, 24 Oct 2026 20:00:18 GMT",
-    "link": "https://www.polygon.com/perfect-netflix-sci-fi-shows-that-hook-you-in-the-first-scene/",
+    "summary": "Forged by fire, a beast in the night",
+    "date": "Sun, 25 Oct 2026 01:00:18 GMT",
+    "link": "https://www.polygon.com/bloodsport-free-youtube/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.25,
+      "score": 0.23,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "One Piece Is Officially Coming to Fortnite",
+    "title": "5 Most Perfect 1980s Games That Nobody Remembers",
     "source": "Polygon",
-    "summary": "Epic Games confirms that One Piece, one of the most highly anticipated collabs, will be part of the next Fortnite season.",
-    "date": "Sat, 24 Oct 2026 19:05:06 GMT",
-    "link": "https://www.polygon.com/fortnite-one-piece-confirmed-mini-season-teaser/",
+    "summary": "From Tempest to Captain Blood, unearth these classic 1980s games from the 8-bit era that deserve to make a comeback.",
+    "date": "Sun, 25 Oct 2026 00:53:58 GMT",
+    "link": "https://www.polygon.com/best-forgotten-1980s-games/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.19,
+      "score": 0.56,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "Clint Eastwood's Most Intense Western Is Officially Streaming for Free on YouTube",
+    "title": "The 6 Kingdom Hearts 4 Worlds We Want to See — and 4 We Absolutely Don't",
     "source": "Polygon",
-    "summary": "Clint Eastwood's second film as director, High Plains Drifter is a horror Western free on YouTube",
-    "date": "Sat, 24 Oct 2026 19:00:18 GMT",
-    "link": "https://www.polygon.com/high-plains-drifter-clint-eastwood-free-to-stream/",
+    "summary": "Kingdom Hearts has a complicated history of representing Disney worlds, so here's a look at what should and should not be included in KH4.",
+    "date": "Sun, 25 Oct 2026 00:39:16 GMT",
+    "link": "https://www.polygon.com/kingdom-hearts-4-worlds-theories/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.21,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -244,8 +244,8 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -262,8 +262,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -280,8 +280,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -298,8 +298,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -316,8 +316,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -334,8 +334,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -352,8 +352,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
