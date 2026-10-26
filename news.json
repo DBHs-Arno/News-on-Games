@@ -1,6 +1,42 @@
 [
   {
     "id": 1,
+    "title": "Phantom Blade Zero Review",
+    "source": "IGN",
+    "summary": "Memorable boss fights, compelling combat, and limitless swagger.",
+    "date": "Mon, 26 Oct 2026 00:00:00 +0000",
+    "link": "https://www.ign.com/articles/phantom-blade-zero-review",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "X-Men Actor Christopher Abbott Insists His Professor X Is Not in Doomsday or Secret Wars",
+    "source": "IGN",
+    "summary": "Professor X actor Christopher Abbott said Marvel fans won't see him in Avengers: Doomsday or Secret Wars because he needs to wrap up his time with X-Men before doing any cameos.",
+    "date": "Sun, 25 Oct 2026 21:26:42 +0000",
+    "link": "https://www.ign.com/articles/x-men-actor-christopher-abbott-insists-his-professor-x-is-not-in-doomsday-or-secret-wars",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
     "title": "Clayface Looks Like a Win for the DCU After Earning $43 Million in Box Office Opening Weekend",
     "source": "IGN",
     "summary": "Clayface looks set up to be a win for the DCU after securing the top spot at the box office with an estimated global haul of $43 million.",
@@ -18,7 +54,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "The Best Deals Today: Xenoblade Chronicles 2, Persona 3 Reload, Dragon Quest III HD-2D Remake, and More",
     "source": "IGN",
     "summary": "",
@@ -31,42 +67,6 @@
     },
     "tags": [
       "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Mass Effect Leaks Reveal Canceled BioWare Game's Story Would Have Accounted for 'All' Choices From Previous Games",
-    "source": "IGN",
-    "summary": "Additional details about BioWare's canceled Mass Effect game have leaked online, revealing a story that would have taken choices from the Commander Shepard trilogy into account if EA hadn't shut down the studio.",
-    "date": "Sun, 25 Oct 2026 17:30:24 +0000",
-    "link": "https://www.ign.com/articles/mass-effect-leaks-reveal-canceled-bioware-games-story-would-have-accounted-for-all-choices-from-previous-games",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.28,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Rumored Lucia Actress Goes Viral After Dodging Swarm of GTA 6 Comments During Livestream",
-    "source": "IGN",
-    "summary": "Manni L. Perez, the actress long rumored to be playing Lucia in GTA 6, has gone viral after dodging a swarm of comments from Grand Theft Auto fans during a recent livestream.",
-    "date": "Sun, 25 Oct 2026 15:14:17 +0000",
-    "link": "https://www.ign.com/articles/rumored-lucia-actress-goes-viral-after-dodging-swarm-of-gta-6-comments-during-livestream",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
     ],
     "read_time": "1 min read"
   },
@@ -143,33 +143,32 @@
   },
   {
     "id": 9,
-    "title": "15 Years Later, Batman: Arkham City Remains Batman's Last Gaming Masterpiece",
+    "title": "The 10 Best SNES Games to Play on Nintendo Switch Online",
     "source": "Polygon",
-    "summary": "Batman: Arkham City set a new highwater mark for superhero games and has influenced their design and mechanics in the 15 years since its release.",
-    "date": "Sun, 25 Oct 2026 20:00:18 GMT",
-    "link": "https://www.polygon.com/batman-arkham-city-retrospective-best-superhero-video-game/",
+    "summary": "From Super Mario World to The Legend of Zelda: A Link to the Past, these are the best games on the Super Nintendo collection on Nintendo Classics.",
+    "date": "Mon, 26 Oct 2026 02:44:34 GMT",
+    "link": "https://www.polygon.com/best-snes-games-nintendo-switch-online-classics/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.48,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "6 Hilarious 'Calvin and Hobbes' Comics Where Calvin is a Weird Little Genius",
+    "title": "Phantom Blade Zero Reviews Just Beat Every Soulslike In 2026",
     "source": "Polygon",
-    "summary": "Words and verbs and adjectives, painted up like a picture in these iconic Calvin and Hobbes comic strips",
-    "date": "Sun, 25 Oct 2026 20:00:18 GMT",
-    "link": "https://www.polygon.com/calvin-hobbes-vocabulary/",
+    "summary": "Phantom Blade Zero reviews put the Wuxia-inspired action game from S-Game in pole position as one of Metacritic's best-rated 2026 games.",
+    "date": "Mon, 26 Oct 2026 00:56:40 GMT",
+    "link": "https://www.polygon.com/phantom-blade-zero-review-roundup-score/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -179,11 +178,47 @@
   },
   {
     "id": 11,
-    "title": "'Avatar: Seven Havens' Fans Need to Watch Disney’s Overlooked Apocalyptic Fantasy Adventure",
+    "title": "Phantom Blade Zero Is the Perfect Martial Arts Game, For Better or Worse",
     "source": "Polygon",
-    "summary": "Raya and the Last Dragon has similar settings, characters, and dynamics as Avatar: Seven Havens, so it's a must-watch for fans.",
-    "date": "Sun, 25 Oct 2026 17:00:18 GMT",
-    "link": "https://www.polygon.com/raya-and-the-last-dragon-perfect-disney-movie-for-avatar-seven-havens-fans/",
+    "summary": "Phantom Blade Zero, developed by S-Game, prioritizes the visual spectacle it brings from Wuxia movies to create a great action game.",
+    "date": "Mon, 26 Oct 2026 00:00:18 GMT",
+    "link": "https://www.polygon.com/phantom-blade-zero-review/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.13,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Stephen King's Hit Horror TV Series Officially Returning to HBO Max",
+    "source": "Polygon",
+    "summary": "It: Welcome to Derry is getting a season 2 renewal, HBO Max confirmed, with Pennywise returning to terrorize the kids of Derry.",
+    "date": "Sun, 25 Oct 2026 23:15:18 GMT",
+    "link": "https://www.polygon.com/stephen-king-it-welcome-to-derry-season-2-renewal-hbo-max/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.6,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Commander Shepard actors Jennifer Hale & Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''",
+    "source": "PC Gamer",
+    "summary": "You can say that again.",
+    "date": "Sun, 25 Oct 2026 20:49:51 +0000",
+    "link": "https://www.pcgamer.com/games/mass-effect/commander-shepard-actors-jennifer-hale-and-mark-meer-mourn-bioware-together-it-was-in-the-hands-of-ownership-that-may-not-have-understood-what-bioware-fully-is/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -196,25 +231,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "Clayface Gives Skydance Its Second Box Office Weekend Win In A Row",
-    "source": "Polygon",
-    "summary": "Clayface held off You Can See Everything to top the box office this weekend",
-    "date": "Sun, 25 Oct 2026 16:02:01 GMT",
-    "link": "https://www.polygon.com/clayface-opening-weekend-box-office/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.43,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
+    "id": 14,
     "title": "Indies and non-sequels have exploded in the last year, and it's not all friendslop",
     "source": "PC Gamer",
     "summary": "\"Indie studios produced 20 of the 21 extra breakout launches in the 2026 cohort,\" reads one industry analysis.",
@@ -232,7 +249,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "'Save Mass Effect' petition hits over 180,000 signatures within days of BioWare's closure",
     "source": "PC Gamer",
     "summary": "The desperate plea to EA has fans sharing their memories of the spacefaring shooter.",
@@ -250,7 +267,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "The creator of our running RPG of the year weighs in on BioWare's closure: 'They were fundamental to the genre'",
     "source": "PC Gamer",
     "summary": "Don't cry because it's over.",
@@ -263,24 +280,6 @@
     },
     "tags": [
       "RPG"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Riot resurrected 3 of its biggest League of Legends pop groups, but only one emerged victorious",
-    "source": "PC Gamer",
-    "summary": "I think I could guess where the budget went, but I'm not complaining.",
-    "date": "Sun, 25 Oct 2026 18:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/moba/riot-resurrected-3-of-its-biggest-league-of-legends-pop-groups-but-only-one-emerged-victorious/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
     ],
     "read_time": "1 min read"
   },
