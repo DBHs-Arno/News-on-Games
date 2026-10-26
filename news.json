@@ -1,77 +1,131 @@
 [
   {
     "id": 1,
-    "title": "Phantom Blade Zero Review",
+    "title": "Epic Games Boss Tim Sweeney Doubles Down on Valve Criticism, Says Steam's AI Content Disclosure Is a 'Political Act'",
     "source": "IGN",
-    "summary": "Memorable boss fights, compelling combat, and limitless swagger.",
-    "date": "Mon, 26 Oct 2026 00:00:00 +0000",
-    "link": "https://www.ign.com/articles/phantom-blade-zero-review",
+    "summary": "Epic Games boss Tim Sweeney spent the weekend doubling down on his severe criticism of Valve, calling Steam’s AI content disclosure a “political act.”",
+    "date": "Mon, 26 Oct 2026 10:53:12 +0000",
+    "link": "https://www.ign.com/articles/epic-games-boss-tim-sweeney-doubles-down-on-valve-criticism-says-steams-ai-content-disclosure-is-a-political-act",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "AI",
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "X-Men Actor Christopher Abbott Insists His Professor X Is Not in Doomsday or Secret Wars",
+    "title": "Xbox Seeks Partner to Support Arkane Lyon as It Finishes Marvel's Blade, Extends Search for Buyer",
     "source": "IGN",
-    "summary": "Professor X actor Christopher Abbott said Marvel fans won't see him in Avengers: Doomsday or Secret Wars because he needs to wrap up his time with X-Men before doing any cameos.",
-    "date": "Sun, 25 Oct 2026 21:26:42 +0000",
-    "link": "https://www.ign.com/articles/x-men-actor-christopher-abbott-insists-his-professor-x-is-not-in-doomsday-or-secret-wars",
+    "summary": "Microsoft has said it's exploring the possibility of a company coming in to support Arkane Lyon as it works to finish development of Marvel's Blade, and that it's extending the deadline to find a buyer for the studio.",
+    "date": "Mon, 26 Oct 2026 10:19:18 +0000",
+    "link": "https://www.ign.com/articles/xbox-looks-for-development-partner-to-finish-marvels-blade",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Clayface Looks Like a Win for the DCU After Earning $43 Million in Box Office Opening Weekend",
+    "title": "Eric Bauza, Voice Acting Legend Behind Bugs Bunny and Daffy Duck, Dead at 46",
     "source": "IGN",
-    "summary": "Clayface looks set up to be a win for the DCU after securing the top spot at the box office with an estimated global haul of $43 million.",
-    "date": "Sun, 25 Oct 2026 19:19:00 +0000",
-    "link": "https://www.ign.com/articles/clayface-looks-like-a-win-for-the-dcu-after-earning-43-million-in-box-office-opening-weekend",
+    "summary": "Eric Bauza, the voice acting legend behind Bugs Bunny, Daffy Duck, and countless other classic characters, has died at 46.",
+    "date": "Mon, 26 Oct 2026 05:08:32 +0000",
+    "link": "https://www.ign.com/articles/eric-bauza-voice-acting-legend-behind-bugs-bunny-and-daffy-duck-dead-at-46",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.53,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.12,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "The Best Deals Today: Xenoblade Chronicles 2, Persona 3 Reload, Dragon Quest III HD-2D Remake, and More",
+    "title": "Dragon Ball Xenoverse 2 Gets Surprise 10th Anniversary Update This Week",
     "source": "IGN",
-    "summary": "",
-    "date": "Sun, 25 Oct 2026 19:17:19 +0000",
-    "link": "https://www.ign.com/articles/best-deals-for-october-25-2026",
+    "summary": "Bandai Namco has revealed a 10th anniversary update for Dragon Ball Xenoverse 2 as fans await the fighting game series' third installment.",
+    "date": "Mon, 26 Oct 2026 03:28:52 +0000",
+    "link": "https://www.ign.com/articles/dragon-ball-xenoverse-2-gets-surprise-10th-anniversary-update-this-week",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.75,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
     },
     "tags": [
-      "Remake"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "Shenmue 3: Enhanced Edition has been delayed to \"get everything right\"",
+    "source": "Eurogamer",
+    "summary": "Grab your nearest forklift operator and make sure they're sitting down. Shenmue 3: Enhanced Edition has been delayed to 2027 in order to, as  publisher Inin Games puts it,  \"get everything right\". Read more...",
+    "date": "Mon, 26 Oct 2026 12:05:37 +0000",
+    "link": "https://www.eurogamer.net/shenmue-3-enhanced-edition-delayed",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.28,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Call of Duty: Modern Warfare 4 players are calling for a PvE-only version of its DMZ mode - just like every extraction shooter before it",
+    "source": "Eurogamer",
+    "summary": "Call of Duty: Modern Warfare 4 is officially out for all players, and its extraction shooter mode DMZ is looking to be particularly popular. And unsurprisingly, the mode's popularity has brought a longstanding player request back in the spotlight: many DMZ players have been asking developer Infinity...",
+    "date": "Mon, 26 Oct 2026 09:56:30 +0000",
+    "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-petition",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Canadian political party leader blames BioWare's closure on private equity, says government should help former employees buy it back",
+    "source": "Eurogamer",
+    "summary": "In the wake of EA's tragic shuttering of BioWare last week, a leader of one of Canada's New Democratic Party has spoken out about the perils of private equity, and said BioWare employees should be able to buy the studio with \"federal support\". Read more...",
+    "date": "Mon, 26 Oct 2026 09:53:04 +0000",
+    "link": "https://www.eurogamer.net/canadian-politician-bioware-employees-buy-studio-federal-support",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.04,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
     "title": "187K+ fans call for EA to \"Save Mass Effect\"",
     "source": "Eurogamer",
     "summary": "A petition created to save BioWare's well-loved sci-fi RPG, Mass Effect, has topped 187,000 signatures. Read more...",
@@ -88,132 +142,113 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "Call of Duty movie will explore the \"cost of war\", says director",
-    "source": "Eurogamer",
-    "summary": "The Call of Duty movie will explore \"the cost of war\" and probably won't be as graphically violent as director Peter Berg's upcoming Netflix film, The Mosquito Bowl. Read more...",
-    "date": "Sun, 25 Oct 2026 18:12:35 +0000",
-    "link": "https://www.eurogamer.net/call-of-duty-movie-cost-of-war",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Elden Ring movie has a budget of nearly $200 million",
-    "source": "Eurogamer",
-    "summary": "A24's live-action Elden Ring movie is reportedly set to cost almost $200 million, making it the most expensive film the studio has ever made. Read more...",
-    "date": "Sun, 25 Oct 2026 16:37:14 +0000",
-    "link": "https://www.eurogamer.net/elden-ring-movie-a24-budget-200-million",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "An officially licensed Knightmare game, based on the British TV show, is coming next year",
-    "source": "Eurogamer",
-    "summary": "A free point-and-click adventure based on Knightmare, the cult ITV children's show, is in development. Read more...",
-    "date": "Sun, 25 Oct 2026 14:32:00 +0000",
-    "link": "https://www.eurogamer.net/knightmare-game-free-pc-original-cast",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 9,
-    "title": "The 10 Best SNES Games to Play on Nintendo Switch Online",
+    "title": "James Gunn Explains the Difference Between DC Studios and Marvel Movies",
     "source": "Polygon",
-    "summary": "From Super Mario World to The Legend of Zelda: A Link to the Past, these are the best games on the Super Nintendo collection on Nintendo Classics.",
-    "date": "Mon, 26 Oct 2026 02:44:34 GMT",
-    "link": "https://www.polygon.com/best-snes-games-nintendo-switch-online-classics/",
+    "summary": "According to James Gunn, the DC universe consists of great individual stories that aren't made for the sake of a major crossover.",
+    "date": "Mon, 26 Oct 2026 12:05:59 GMT",
+    "link": "https://www.polygon.com/james-gunn-dc-universe-individual-stories-marvel-crossovers/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.48,
+      "score": 0.29,
       "badge": "success"
     },
     "tags": [
-      "Nintendo"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Phantom Blade Zero Reviews Just Beat Every Soulslike In 2026",
+    "title": "27 Years Ago, 'Buffy the Vampire' Unleashed an Impossibly Good Season, and Broke the Fandom",
     "source": "Polygon",
-    "summary": "Phantom Blade Zero reviews put the Wuxia-inspired action game from S-Game in pole position as one of Metacritic's best-rated 2026 games.",
-    "date": "Mon, 26 Oct 2026 00:56:40 GMT",
-    "link": "https://www.polygon.com/phantom-blade-zero-review-roundup-score/",
+    "summary": "Buffy Season 3 is the best Halloween binge watch with thrilling villains and unforgettable moments.",
+    "date": "Mon, 26 Oct 2026 11:00:19 GMT",
+    "link": "https://www.polygon.com/buffy-season-3-best-season-mayor-faith/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.69,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Phantom Blade Zero Is the Perfect Martial Arts Game, For Better or Worse",
+    "title": "Amazon's Fourth Wing Show Reportedly Set to Start Filming Soon",
     "source": "Polygon",
-    "summary": "Phantom Blade Zero, developed by S-Game, prioritizes the visual spectacle it brings from Wuxia movies to create a great action game.",
-    "date": "Mon, 26 Oct 2026 00:00:18 GMT",
-    "link": "https://www.polygon.com/phantom-blade-zero-review/",
+    "summary": "Reports reveal the filming window and location for the Fourth Wing show, indicating it's nearly ready to move out of pre-production.",
+    "date": "Mon, 26 Oct 2026 10:15:12 GMT",
+    "link": "https://www.polygon.com/fourth-wing-filming-start-date-location-vancouver/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.13,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "Stephen King's Hit Horror TV Series Officially Returning to HBO Max",
+    "title": "D&D's Japanese Rival Sword World Crowdfunding Raises Over $2 million in a Day",
     "source": "Polygon",
-    "summary": "It: Welcome to Derry is getting a season 2 renewal, HBO Max confirmed, with Pennywise returning to terrorize the kids of Derry.",
-    "date": "Sun, 25 Oct 2026 23:15:18 GMT",
-    "link": "https://www.polygon.com/stephen-king-it-welcome-to-derry-season-2-renewal-hbo-max/",
+    "summary": "Sword World RPG's first official English localization launched on BackerKit last week and raised over $2 million in a day.",
+    "date": "Mon, 26 Oct 2026 09:59:38 GMT",
+    "link": "https://www.polygon.com/sword-world-rpg-crowdfunding-backerkit-success/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.6,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "RPG"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
+    "title": "Korean police arrest cyberhacking gang reportedly led by self-taught hacker, who allegedly used AI to breach 60 firms and received a mere $210 in ransom",
+    "source": "PC Gamer",
+    "summary": "In this case, crime really didn't pay. Much.",
+    "date": "Mon, 26 Oct 2026 12:00:52 +0000",
+    "link": "https://www.pcgamer.com/hardware/korean-police-arrest-cyberhacking-gang-reportedly-led-by-self-taught-hacker-who-allegedly-used-ai-to-breach-60-firms-and-received-a-mere-usd210-in-ransom/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays'",
+    "source": "PC Gamer",
+    "summary": "All the interesting Steam facts for the week ending October 25.",
+    "date": "Mon, 26 Oct 2026 03:12:41 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "AI",
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
     "title": "Commander Shepard actors Jennifer Hale & Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''",
     "source": "PC Gamer",
     "summary": "You can say that again.",
@@ -225,13 +260,13 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "Indies and non-sequels have exploded in the last year, and it's not all friendslop",
     "source": "PC Gamer",
     "summary": "\"Indie studios produced 20 of the 21 extra breakout launches in the 2026 cohort,\" reads one industry analysis.",
@@ -243,43 +278,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "'Save Mass Effect' petition hits over 180,000 signatures within days of BioWare's closure",
-    "source": "PC Gamer",
-    "summary": "The desperate plea to EA has fans sharing their memories of the spacefaring shooter.",
-    "date": "Sun, 25 Oct 2026 18:24:00 +0000",
-    "link": "https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.6,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "The creator of our running RPG of the year weighs in on BioWare's closure: 'They were fundamental to the genre'",
-    "source": "PC Gamer",
-    "summary": "Don't cry because it's over.",
-    "date": "Sun, 25 Oct 2026 18:23:41 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/the-creator-of-our-running-rpg-of-the-year-weighs-in-on-biowares-closure-they-were-fundamental-to-the-genre/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "RPG"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -296,8 +296,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -314,8 +314,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -332,8 +332,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -350,8 +350,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
