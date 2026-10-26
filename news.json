@@ -1,153 +1,46 @@
 [
   {
     "id": 1,
-    "title": "Epic Games Boss Tim Sweeney Doubles Down on Valve Criticism, Says Steam's AI Content Disclosure Is a 'Political Act'",
+    "title": "Palworld's First Official Toy Collection Is Here, Complete With Mystery Eggs and Adorable Pals",
     "source": "IGN",
-    "summary": "Epic Games boss Tim Sweeney spent the weekend doubling down on his severe criticism of Valve, calling Steam’s AI content disclosure a “political act.”",
-    "date": "Mon, 26 Oct 2026 10:53:12 +0000",
-    "link": "https://www.ign.com/articles/epic-games-boss-tim-sweeney-doubles-down-on-valve-criticism-says-steams-ai-content-disclosure-is-a-political-act",
+    "summary": "Collectibles creator The Loyal Subjects has released the game's first official toy collection, featuring everything from articulated figures to mystery eggs.",
+    "date": "Mon, 26 Oct 2026 19:48:39 +0000",
+    "link": "https://www.ign.com/articles/palworld-official-toy-collection-mystery-eggs",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
     },
     "tags": [
-      "AI",
-      "Steam"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Xbox Seeks Partner to Support Arkane Lyon as It Finishes Marvel's Blade, Extends Search for Buyer",
+    "title": "Canned Paranormal Activity Game Back From The Dead as Playable Archive, Free on Steam",
     "source": "IGN",
-    "summary": "Microsoft has said it's exploring the possibility of a company coming in to support Arkane Lyon as it works to finish development of Marvel's Blade, and that it's extending the deadline to find a buyer for the studio.",
-    "date": "Mon, 26 Oct 2026 10:19:18 +0000",
-    "link": "https://www.ign.com/articles/xbox-looks-for-development-partner-to-finish-marvels-blade",
+    "summary": "The canceled movie spin-off getting a new lease of life as Playable Archive, which is released today, for free, on Steam.",
+    "date": "Mon, 26 Oct 2026 19:43:55 +0000",
+    "link": "https://www.ign.com/articles/canned-paranormal-activity-game-back-from-the-dead-as-playable-archive-free-on-steam",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.06,
       "badge": "info"
     },
     "tags": [
-      "Xbox"
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Eric Bauza, Voice Acting Legend Behind Bugs Bunny and Daffy Duck, Dead at 46",
+    "title": "We Build Star Wars Executor Super Star Destroyer, the Longest Build in LEGO History",
     "source": "IGN",
-    "summary": "Eric Bauza, the voice acting legend behind Bugs Bunny, Daffy Duck, and countless other classic characters, has died at 46.",
-    "date": "Mon, 26 Oct 2026 05:08:32 +0000",
-    "link": "https://www.ign.com/articles/eric-bauza-voice-acting-legend-behind-bugs-bunny-and-daffy-duck-dead-at-46",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.12,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Dragon Ball Xenoverse 2 Gets Surprise 10th Anniversary Update This Week",
-    "source": "IGN",
-    "summary": "Bandai Namco has revealed a 10th anniversary update for Dragon Ball Xenoverse 2 as fans await the fighting game series' third installment.",
-    "date": "Mon, 26 Oct 2026 03:28:52 +0000",
-    "link": "https://www.ign.com/articles/dragon-ball-xenoverse-2-gets-surprise-10th-anniversary-update-this-week",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.2,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "Shenmue 3: Enhanced Edition has been delayed to \"get everything right\"",
-    "source": "Eurogamer",
-    "summary": "Grab your nearest forklift operator and make sure they're sitting down. Shenmue 3: Enhanced Edition has been delayed to 2027 in order to, as  publisher Inin Games puts it,  \"get everything right\". Read more...",
-    "date": "Mon, 26 Oct 2026 12:05:37 +0000",
-    "link": "https://www.eurogamer.net/shenmue-3-enhanced-edition-delayed",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.28,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Call of Duty: Modern Warfare 4 players are calling for a PvE-only version of its DMZ mode - just like every extraction shooter before it",
-    "source": "Eurogamer",
-    "summary": "Call of Duty: Modern Warfare 4 is officially out for all players, and its extraction shooter mode DMZ is looking to be particularly popular. And unsurprisingly, the mode's popularity has brought a longstanding player request back in the spotlight: many DMZ players have been asking developer Infinity...",
-    "date": "Mon, 26 Oct 2026 09:56:30 +0000",
-    "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-petition",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Canadian political party leader blames BioWare's closure on private equity, says government should help former employees buy it back",
-    "source": "Eurogamer",
-    "summary": "In the wake of EA's tragic shuttering of BioWare last week, a leader of one of Canada's New Democratic Party has spoken out about the perils of private equity, and said BioWare employees should be able to buy the studio with \"federal support\". Read more...",
-    "date": "Mon, 26 Oct 2026 09:53:04 +0000",
-    "link": "https://www.eurogamer.net/canadian-politician-bioware-employees-buy-studio-federal-support",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "187K+ fans call for EA to \"Save Mass Effect\"",
-    "source": "Eurogamer",
-    "summary": "A petition created to save BioWare's well-loved sci-fi RPG, Mass Effect, has topped 187,000 signatures. Read more...",
-    "date": "Sun, 25 Oct 2026 18:50:44 +0000",
-    "link": "https://www.eurogamer.net/save-mass-effect-petition",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "RPG"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "James Gunn Explains the Difference Between DC Studios and Marvel Movies",
-    "source": "Polygon",
-    "summary": "According to James Gunn, the DC universe consists of great individual stories that aren't made for the sake of a major crossover.",
-    "date": "Mon, 26 Oct 2026 12:05:59 GMT",
-    "link": "https://www.polygon.com/james-gunn-dc-universe-individual-stories-marvel-crossovers/",
+    "summary": "Don't have $700? That's cool, we take you through building the new LEGO Star Wars Executor Super Star Destroyer, the longest set ever made.",
+    "date": "Mon, 26 Oct 2026 19:14:32 +0000",
+    "link": "https://www.ign.com/articles/we-build-star-wars-executor-super-star-destroyer-75457",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.29,
@@ -160,15 +53,85 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "27 Years Ago, 'Buffy the Vampire' Unleashed an Impossibly Good Season, and Broke the Fandom",
-    "source": "Polygon",
-    "summary": "Buffy Season 3 is the best Halloween binge watch with thrilling villains and unforgettable moments.",
-    "date": "Mon, 26 Oct 2026 11:00:19 GMT",
-    "link": "https://www.polygon.com/buffy-season-3-best-season-mayor-faith/",
+    "id": 4,
+    "title": "Emberville Delays Early Access Launch at the Last Minute",
+    "source": "IGN",
+    "summary": "Cygnus Cross, the development team behind the promising \"Diablo meets Stardew Valley\" game Emberville, has delayed their Early Access launch the day before it was supposed to happen. The new Early Access release date is January 7 ,2027. To soften the blow the team says that the content originally pl...",
+    "date": "Mon, 26 Oct 2026 19:08:28 +0000",
+    "link": "https://www.ign.com/articles/emberville-delays-early-access-launch-at-the-last-minute",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Mass Effect fans ramp up efforts to save BioWare's RPG series with a Times Square billboard and plans for more ads outside The Game Awards",
+    "source": "Eurogamer",
+    "summary": "Fans continue to rally around the 'Save Mass Effect' movement, this time with a billboard at Times Square and more initiatives planned throughout the rest of the year. Read more...",
+    "date": "Mon, 26 Oct 2026 20:07:29 +0000",
+    "link": "https://www.eurogamer.net/mass-effect-fans-save-rpg-times-square",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.69,
+      "score": 0.22,
+      "badge": "success"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Amid sweeping layoffs at Xbox and massive AI investments, Microsoft introduces a \"Voluntary Exit Offer\" to 60,000 workers",
+    "source": "Eurogamer",
+    "summary": "Xbox isn't the only Microsoft division looking to massively reduce worker headcounts. In fact, Microsoft has just announced a \"Voluntary Exit Offer\" that will essentially pay staff to move in front of any potential layoffs and voluntarily leave their jobs. Read more...",
+    "date": "Mon, 26 Oct 2026 18:44:22 +0000",
+    "link": "https://www.eurogamer.net/xbox-ai-microsoft-voluntary-exit-offer-60000",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Xbox",
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Ghost of Yotei studio Sucker Punch reportedly lays off 26 developers \"after carefully observing the challenges in the market\"",
+    "source": "Eurogamer",
+    "summary": "Layoffs have reportedly hit Sucker Punch, the PlayStation-owned studio behind the Sly Cooper series, Infamous and last year's Ghost of Yotei. Read more...",
+    "date": "Mon, 26 Oct 2026 17:48:33 +0000",
+    "link": "https://www.eurogamer.net/ghost-of-yotei-sucker-punch-lays-off-developers",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.16,
+      "badge": "danger"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Control loreheads shouldn't put too much stock into what The Board says in Control Resonant - the devs say it's \"basically gibberish\"",
+    "source": "Eurogamer",
+    "summary": "One of Control and Control Resonant's most memorable stylistic choices is how The Board - an alien entity whose true nature is a mystery, and whose morals and motivations are never made clear - communicates with the player. Read more...",
+    "date": "Mon, 26 Oct 2026 15:10:30 +0000",
+    "link": "https://www.eurogamer.net/control-resonant-the-board-dialogue-crafted-gibberish",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.27,
       "badge": "success"
     },
     "tags": [
@@ -178,12 +141,12 @@
     "read_time": "1 min read"
   },
   {
-    "id": 11,
-    "title": "Amazon's Fourth Wing Show Reportedly Set to Start Filming Soon",
+    "id": 9,
+    "title": "Mass Effect's Longshot #SaveMassEffect Campaign Actually Has a Chance",
     "source": "Polygon",
-    "summary": "Reports reveal the filming window and location for the Fourth Wing show, indicating it's nearly ready to move out of pre-production.",
-    "date": "Mon, 26 Oct 2026 10:15:12 GMT",
-    "link": "https://www.polygon.com/fourth-wing-filming-start-date-location-vancouver/",
+    "summary": "Mass Effect fans have rallied behind the #SaveMassEffect campaign, mirroring a similar fan campaign that rescued a beloved sci-fi series.",
+    "date": "Mon, 26 Oct 2026 21:00:17 GMT",
+    "link": "https://www.polygon.com/save-mass-effect-campaign-the-expanse-amazon/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.07,
@@ -196,15 +159,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "D&D's Japanese Rival Sword World Crowdfunding Raises Over $2 million in a Day",
+    "id": 10,
+    "title": "Stardew Valley-inspired RPG Gets Shock Last-Minute Delay",
     "source": "Polygon",
-    "summary": "Sword World RPG's first official English localization launched on BackerKit last week and raised over $2 million in a day.",
-    "date": "Mon, 26 Oct 2026 09:59:38 GMT",
-    "link": "https://www.polygon.com/sword-world-rpg-crowdfunding-backerkit-success/",
+    "summary": "Emberville delays Early Access until January 2027 as developer works on combat improvements to the Stardew Valley-like PC RPG.",
+    "date": "Mon, 26 Oct 2026 20:46:38 GMT",
+    "link": "https://www.polygon.com/emberville-early-access-launch-delay/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.06,
+      "score": 0.1,
       "badge": "info"
     },
     "tags": [
@@ -213,51 +176,88 @@
     "read_time": "1 min read"
   },
   {
-    "id": 13,
-    "title": "Korean police arrest cyberhacking gang reportedly led by self-taught hacker, who allegedly used AI to breach 60 firms and received a mere $210 in ransom",
-    "source": "PC Gamer",
-    "summary": "In this case, crime really didn't pay. Much.",
-    "date": "Mon, 26 Oct 2026 12:00:52 +0000",
-    "link": "https://www.pcgamer.com/hardware/korean-police-arrest-cyberhacking-gang-reportedly-led-by-self-taught-hacker-who-allegedly-used-ai-to-breach-60-firms-and-received-a-mere-usd210-in-ransom/",
+    "id": 11,
+    "title": "Huntr/x Returns in Surprise New KPop Demon Hunters Short",
+    "source": "Polygon",
+    "summary": "Netflix released an official new KPop Demon Hunters choreography video for \"How It's Done\" aimed a KPDH fans.",
+    "date": "Mon, 26 Oct 2026 20:43:40 GMT",
+    "link": "https://www.polygon.com/kpop-demon-hunters-new-video-how-its-done-netflix/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.05,
+      "score": 0.09,
       "badge": "info"
     },
     "tags": [
-      "AI"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "GTA 6's Rumored Lucia Actor Breaks Silence With Rare Live Appearance",
+    "source": "Polygon",
+    "summary": "The apparent actress behind Grand Theft Auto 6's Lucia Caminos, Manni Perez, shut downs haters with a livestream",
+    "date": "Mon, 26 Oct 2026 20:06:55 GMT",
+    "link": "https://www.polygon.com/gta-6-manni-perez-lucia-caminos-actor-who-is-instagram-live-money/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "One day before launch, ARPG Emberville gets delayed until 2027",
+    "source": "PC Gamer",
+    "summary": "Don't blame this one on GTA 6: The developers say incorporating feedback on Emberville's demo is taking longer than they expected.",
+    "date": "Mon, 26 Oct 2026 21:57:24 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/one-day-before-launch-arpg-emberville-gets-delayed-until-2027/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays'",
+    "title": "A free 'micro' horror game from the maker of The Mortuary Assistant is basically if PT was an episode of Law and Order",
     "source": "PC Gamer",
-    "summary": "All the interesting Steam facts for the week ending October 25.",
-    "date": "Mon, 26 Oct 2026 03:12:41 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/",
+    "summary": "Playable Archive is free, and it's very good.",
+    "date": "Mon, 26 Oct 2026 21:47:58 +0000",
+    "link": "https://www.pcgamer.com/games/horror/a-free-micro-horror-game-from-the-maker-of-the-mortuary-assistant-is-basically-if-pt-was-an-episode-of-law-and-order/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.2,
+      "score": 0.33,
       "badge": "success"
     },
     "tags": [
-      "AI",
-      "Steam"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "Commander Shepard actors Jennifer Hale & Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''",
+    "title": "The developer of one of my favorite 2020s RPGs does it because of BioWare: 'Baldur's Gate 1 is the first game I truly loved'",
     "source": "PC Gamer",
-    "summary": "You can say that again.",
-    "date": "Sun, 25 Oct 2026 20:49:51 +0000",
-    "link": "https://www.pcgamer.com/games/mass-effect/commander-shepard-actors-jennifer-hale-and-mark-meer-mourn-bioware-together-it-was-in-the-hands-of-ownership-that-may-not-have-understood-what-bioware-fully-is/",
+    "summary": "It's a hard one to beat.",
+    "date": "Mon, 26 Oct 2026 21:31:55 +0000",
+    "link": "https://www.pcgamer.com/games/baldurs-gate/the-developer-of-one-of-my-favorite-2020s-rpgs-does-it-because-of-bioware-baldurs-gate-1-is-the-first-game-i-truly-loved/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -267,15 +267,15 @@
   },
   {
     "id": 16,
-    "title": "Indies and non-sequels have exploded in the last year, and it's not all friendslop",
+    "title": "Veteran game composer in talks to score Mass Effect 5 shares 20 minutes of music he wrote for the project: 'To even dream in your sandbox was a privilege'",
     "source": "PC Gamer",
-    "summary": "\"Indie studios produced 20 of the 21 extra breakout launches in the 2026 cohort,\" reads one industry analysis.",
-    "date": "Sun, 25 Oct 2026 19:17:10 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/indies-and-non-sequels-have-exploded-in-the-last-year-and-its-not-all-friendslop/",
+    "summary": "We're so back / It's so over / We were so robbed.",
+    "date": "Mon, 26 Oct 2026 21:19:51 +0000",
+    "link": "https://www.pcgamer.com/games/mass-effect/veteran-game-composer-in-talks-to-score-mass-effect-5-shares-20-minutes-of-music-he-wrote-for-the-project-to-even-dream-in-your-sandbox-was-a-privilege/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.13,
+      "badge": "danger"
     },
     "tags": [
       "News",
@@ -285,14 +285,14 @@
   },
   {
     "id": 17,
-    "title": "Call Of Duty: Modern Warfare 4’s First DLC Is Out Now,  Honors A Real Soldier Who Sustained Gruesome Injuries",
+    "title": "Diablo 4’s War Plans Are Getting A Huge Upgrade In Season 16",
     "source": "GameSpot",
-    "summary": "Call of Duty: Modern Warfare 4 released today, October 23, and the game's first DLC pack is available now. In keeping with Call of Duty tradition, the day-one DLC is a Call of Duty Endowment (CODE) pack, with proceeds going to Activision's charity that supports military veterans find new jobs after ...",
-    "date": "Fri, 23 Oct 2026 19:37:03 +0000",
-    "link": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4s-first-dlc-is-out-now-honors-a-real-soldier-who-sustained-gruesome-injuries/",
+    "summary": "Diablo 4's War Plans system is getting a major upgrade in Season 16, giving players even more control over their endgame activities and rewards.\nDeveloper Blizzard introduced War Plans earlier this year as part of the game's second (and last) expansion, Lord of Hatred. It's an endgame system where p...",
+    "date": "Mon, 26 Oct 2026 19:14:12 +0000",
+    "link": "https://www.gamespot.com/articles/diablo-4s-war-plans-are-getting-a-huge-upgrade-in-season-16/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.01,
+      "score": 0.08,
       "badge": "info"
     },
     "tags": [
@@ -303,15 +303,15 @@
   },
   {
     "id": 18,
-    "title": "Shepard Actor Reacts To Leaked Mass Effect Trailer,  Is “Holding Hope” The Game Will Live On",
+    "title": "Why There Won’t Be A Helldivers 3 Anytime Soon, If Ever",
     "source": "GameSpot",
-    "summary": "Prolific and veteran gaming actor Jennifer Hale, who is known for voicing Commander Shepard in the Mass Effect series, has reacted to the closure of BioWare and the cancellation of the next game in the series. After footage of the new project, Mass Effect Universe, was released, Hale said, \"It's ext...",
-    "date": "Fri, 23 Oct 2026 18:01:01 +0000",
-    "link": "https://www.gamespot.com/articles/shepard-actor-reacts-to-leaked-mass-effect-trailer-is-holding-hope-the-game-will-live-on/",
+    "summary": "Helldivers 2 has been a huge hit for developer Arrowhead and publisher Sony, but don't expect a third game in the series anytime soon.\nArrowhead's chief creative officer, Johan Pilestedt, told Rock Paper Shotgun that a sequel would reset \"everything\" and force the player to \"start over.\"  He doesn't...",
+    "date": "Mon, 26 Oct 2026 15:29:15 +0000",
+    "link": "https://www.gamespot.com/articles/why-there-wont-be-a-helldivers-3-anytime-soon-if-ever/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.09,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -321,32 +321,32 @@
   },
   {
     "id": 19,
-    "title": "The Next Mass Effect Sounded Like John Wick In Space",
+    "title": "Cyberpunk 2077 Hits Its Biggest Steam Player Peak Since Phantom Liberty, And You Can Guess Why",
     "source": "GameSpot",
-    "summary": "After news broke that EA would be shutting down BioWare, more details on the studio's in-development Mass Effect have begun to trickle out. A trailer for Mass Effect Universe hinted that the next game in the series would have a completely different tone, moving away from the galactic warfare that de...",
-    "date": "Fri, 23 Oct 2026 17:31:41 +0000",
-    "link": "https://www.gamespot.com/articles/the-next-mass-effect-sounded-like-john-wick-in-space/",
+    "summary": "Almost six years after launch, Cyberpunk 2077 still has a healthy player base, especially with a new anime spin-off driving people to the Night City source material. The second season of Edgerunners launched last week alongside a beefy update for Cyberpunk 2077, and unsurprisingly, PC player numbers...",
+    "date": "Mon, 26 Oct 2026 14:57:15 +0000",
+    "link": "https://www.gamespot.com/articles/cyberpunk-2077-hits-its-biggest-steam-player-peak-since-phantom-liberty-and-you-can-guess-why/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.01,
+      "score": 0.01,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Steam",
+      "Cyberpunk"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "WoW: Forever’s Divisive Layering Will See Major Improvements For Launch, Blizzard Says",
+    "title": "Arkane Lyon Gets Another Chance To Find A New Home And Finish Marvel’s Blade",
     "source": "GameSpot",
-    "summary": "World of Warcraft: Forever's layering system will receive some significant improvements for launch, according to a statement provided to GameSpot from Blizzard.\nLayering, for the uninitiated, is a behind-the-scenes system in WoW: Forever that essentially creates and runs new versions (or layers) of ...",
-    "date": "Fri, 23 Oct 2026 16:29:06 +0000",
-    "link": "https://www.gamespot.com/articles/wow-forevers-divisive-layering-will-see-major-improvements-for-launch-blizzard-says/",
+    "summary": "Arkane Lyon has received a slight reprieve from its looming deadline to find a new buyer, as Microsoft says it is exploring allowing another company to support the developer's efforts to get Marvel's Blade over the finish line.\nOriginally, it was reported that Arkane Lyon had until November 18 to fi...",
+    "date": "Mon, 26 Oct 2026 14:23:35 +0000",
+    "link": "https://www.gamespot.com/articles/arkane-lyon-gets-another-chance-to-find-a-new-home-and-finish-marvels-blade/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.13,
+      "score": 0.12,
       "badge": "success"
     },
     "tags": [
