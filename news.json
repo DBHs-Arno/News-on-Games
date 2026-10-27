@@ -1,6 +1,59 @@
 [
   {
     "id": 1,
+    "title": "Mass Effect Has Been Taken Away Just When We Needed It Most",
+    "source": "IGN",
+    "summary": "Mass Effect: Universe looked great, and BioWare's closure means it's been taken away just when we needed it most.",
+    "date": "Tue, 27 Oct 2026 10:43:00 +0000",
+    "link": "https://www.ign.com/articles/mass-effect-has-been-taken-away-just-when-we-needed-it-most",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.6,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Silent Hill Remake Coming 2027, First Cast Details Leaked",
+    "source": "IGN",
+    "summary": "The 1999 PS1 horror game is getting the Bloober treatment, and a new leak from MP1ST suggests work has been underway since 2022 and the game is targeting a 2027 launch.",
+    "date": "Tue, 27 Oct 2026 10:19:55 +0000",
+    "link": "https://www.ign.com/articles/silent-hill-remake-coming-2027-cast-details-leaked",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "Pokemon Unite to Be Taken Offline in 2027, In-Game Sales Suspended Immediately",
+    "source": "IGN",
+    "summary": "Pokemon Unite will end service on March 23, 2027, following the game’s final competition, the Aeos Crown 2027, just two days prior in Tokyo.",
+    "date": "Tue, 27 Oct 2026 09:12:38 +0000",
+    "link": "https://www.ign.com/articles/pokemon-unite-offline-2027-in-game-sales-suspended",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
     "title": "This TSA-Compliant Daran 89.6Wh 100W LiFePO4 Power Station Drops to Just $49.99",
     "source": "IGN",
     "summary": "The smallest power station, weighing in at under 3 pounds.",
@@ -12,67 +65,66 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "Amazon's Lord of the Rings Gandalf Costume Has Dropped to Its Lowest Price of the Year",
-    "source": "IGN",
-    "summary": "",
-    "date": "Tue, 27 Oct 2026 00:01:00 +0000",
-    "link": "https://www.ign.com/articles/lord-of-the-rings-gandalf-costume-price-drop-halloween-2026",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "T-Mobile Is Offering $1,000 Off the Latest Apple iPhone 18 Pro and Pro Max",
-    "source": "IGN",
-    "summary": "Get the new iPhone 18 for less than $200.",
-    "date": "Tue, 27 Oct 2026 00:00:00 +0000",
-    "link": "https://www.ign.com/articles/t-mobile-apple-iphone-18-deal-explained",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Dead by Daylight Devs Explain Chucky's Exit From Stores and Says Horror Icons Removed Due to Licenses Have 'Open Invitation' to Rejoin",
-    "source": "IGN",
-    "summary": "Dead by Daylight developer Behaviour Interactive has responded after confirming Chucky would be removed from stores last week, explaining that horror icons will \"continue to have an open invitation to join (or rejoin).\"",
-    "date": "Mon, 26 Oct 2026 23:57:06 +0000",
-    "link": "https://www.ign.com/articles/dead-by-daylight-devs-explain-chuckys-exit-from-stores-and-says-horror-icons-removed-due-to-licenses-have-open-invitation-to-rejoin",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "Pokémon Unite closing down for good, but you'll still be able to use it afterwards, sort of",
+    "source": "Eurogamer",
+    "summary": "That's it for Pokémon Unite. Tencent's once-popular MOBA is being switched off in March 2027. The Pokémon Company announced the news today, saying: \"We regret to inform you that service for Pokémon Unite will end on Tuesday, March 23, 2027, at 00:00 UTC.\" Read more...",
+    "date": "Tue, 27 Oct 2026 10:56:34 +0000",
+    "link": "https://www.eurogamer.net/pokemon-unite-closing-date",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.39,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Composer shares 20 minutes of  music created for Mass Effect 5 following tragic closure of BioWare",
+    "source": "Eurogamer",
+    "summary": "Austin Wintory has shared twenty minutes of music they pitched to BioWare and EA in hopes of joining the Mass Effect 5 development team, following the tragic closure of BioWare last week. Read more...",
+    "date": "Tue, 27 Oct 2026 10:02:28 +0000",
+    "link": "https://www.eurogamer.net/mass-effect-5-pitched-music-composer",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.17,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Assassin's Creed Black Flag Resynced's final major update adds long-awaited New Game Plus, new Nightmare difficulty and much more",
+    "source": "Eurogamer",
+    "summary": "After a period of quiet and a few small updates, Ubisoft has unveiled a massive update coming today to Assassin's Creed Black Flag Resynced. This is the game's last major patch and it includes some long-requested features. Read more...",
+    "date": "Tue, 27 Oct 2026 09:18:45 +0000",
+    "link": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-new-game-plus-final-update",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "Patch"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
     "title": "Mass Effect fans ramp up efforts to save BioWare's RPG series with a Times Square billboard and plans for more ads outside The Game Awards",
     "source": "Eurogamer",
     "summary": "Fans continue to rally around the 'Save Mass Effect' movement, this time with a billboard at Times Square and more initiatives planned throughout the rest of the year. Read more...",
@@ -89,130 +141,96 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "Amid sweeping layoffs at Xbox and massive AI investments, Microsoft introduces a \"Voluntary Exit Offer\" to 60,000 workers",
-    "source": "Eurogamer",
-    "summary": "Xbox isn't the only Microsoft division looking to massively reduce worker headcounts. In fact, Microsoft has just announced a \"Voluntary Exit Offer\" that will essentially pay staff to move in front of any potential layoffs and voluntarily leave their jobs. Read more...",
-    "date": "Mon, 26 Oct 2026 18:44:22 +0000",
-    "link": "https://www.eurogamer.net/xbox-ai-microsoft-voluntary-exit-offer-60000",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "Xbox",
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Ghost of Yotei studio Sucker Punch reportedly lays off 26 developers \"after carefully observing the challenges in the market\"",
-    "source": "Eurogamer",
-    "summary": "Layoffs have reportedly hit Sucker Punch, the PlayStation-owned studio behind the Sly Cooper series, Infamous and last year's Ghost of Yotei. Read more...",
-    "date": "Mon, 26 Oct 2026 17:48:33 +0000",
-    "link": "https://www.eurogamer.net/ghost-of-yotei-sucker-punch-lays-off-developers",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.16,
-      "badge": "danger"
-    },
-    "tags": [
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Control loreheads shouldn't put too much stock into what The Board says in Control Resonant - the devs say it's \"basically gibberish\"",
-    "source": "Eurogamer",
-    "summary": "One of Control and Control Resonant's most memorable stylistic choices is how The Board - an alien entity whose true nature is a mystery, and whose morals and motivations are never made clear - communicates with the player. Read more...",
-    "date": "Mon, 26 Oct 2026 15:10:30 +0000",
-    "link": "https://www.eurogamer.net/control-resonant-the-board-dialogue-crafted-gibberish",
+    "id": 9,
+    "title": "10 Years Ago, Anime's Most Bonkers Series Introduced a Disturbing Villain Who Changed Everything",
+    "source": "Polygon",
+    "summary": "This man has been single-handedly terrorizing Morioh for more than a decade.",
+    "date": "Tue, 27 Oct 2026 11:00:18 GMT",
+    "link": "https://www.polygon.com/jojo-bizarre-adventure-villain-diamond-is-unbreakable/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.27,
+      "score": 0.17,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "Phantom Blade Zero release time in your time zone",
-    "source": "Polygon",
-    "summary": "Here you find Phantom Blade Zero release date and release time in different time zones, and all the pre-order bonuses you can receive.",
-    "date": "Tue, 27 Oct 2026 02:01:21 GMT",
-    "link": "https://www.polygon.com/phantom-blade-zero-release-time-when-edt-pdt/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "24 Years Later, Nintendo's Most Divisive Mario Game Is a Miracle on Switch 2",
+    "title": "Free-to-Play Pokémon Game Is Shutting Down After 5 Years",
     "source": "Polygon",
-    "summary": "Super Mario Sunshine was beloved at launch but grew to become one of the most divisive Mario games ever. Here's why it's worth playing in 2026.",
-    "date": "Tue, 27 Oct 2026 01:06:52 GMT",
-    "link": "https://www.polygon.com/super-mario-sunshine-nintendo-switch-online/",
+    "summary": "The Pokémon Company has announced that Pokémon Unite will end its service in the spring of 2027.",
+    "date": "Tue, 27 Oct 2026 10:05:01 GMT",
+    "link": "https://www.polygon.com/pokemon-unite-end-service-announcement/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.28,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.28,
+      "badge": "danger"
     },
     "tags": [
-      "Nintendo"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "10 Years Later, Nintendo's Switch Reveal Is a Fascinating Time Capsule",
+    "title": "Adult Fairy Tales: The Best of the Best",
     "source": "Polygon",
-    "summary": "Nintendo’s hybrid console was not a sure thing back in 2016",
-    "date": "Tue, 27 Oct 2026 01:00:17 GMT",
-    "link": "https://www.polygon.com/nintendo-switch-nx-reveal-october-2016/",
+    "summary": "Inspired by Wolf Among Us Remastered, we're flipping through the pages of dark fantasy history",
+    "date": "Tue, 27 Oct 2026 10:01:19 GMT",
+    "link": "https://www.polygon.com/happily-never-after-adult-fairy-tales-week/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.11,
+      "score": 0.49,
       "badge": "success"
     },
     "tags": [
-      "Nintendo"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "Marvel's Forgotten Mass Effect Clone Couldn't Escape the Avengers' Failure",
+    "title": "7 Reasons FF7 Is the Ultimate Video Game Fairy Tale",
     "source": "Polygon",
-    "summary": "Marvel's Guardians of the Galaxy was released five years ago and is still one of the best superhero games around, no matter what Square Enix thinks.",
-    "date": "Tue, 27 Oct 2026 00:01:17 GMT",
-    "link": "https://www.polygon.com/marvel-guardians-galaxy-underrated-superhero-game/",
+    "summary": "Final Fantasy 7 has tons of narrative elements plucked directly from fairy tales, and it’s probably part of the reason players still love it so much",
+    "date": "Tue, 27 Oct 2026 10:00:18 GMT",
+    "link": "https://www.polygon.com/ff7-final-fantasy-7-fairy-tale/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.34,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
+    "title": "Half-Life: Alyx patch adds foveated rendering support a mere 6 years after the game's release",
+    "source": "PC Gamer",
+    "summary": "Just took launching a VR headset with eye tracking for Valve to add it.",
+    "date": "Tue, 27 Oct 2026 11:13:22 +0000",
+    "link": "https://www.pcgamer.com/hardware/vr-hardware/half-life-alyx-patch-adds-foveated-rendering-support-a-mere-6-years-after-the-games-release/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.45,
+      "badge": "danger"
+    },
+    "tags": [
+      "Patch"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
     "title": "The 50 most-played Steam Next Fest demos include 7 incremental games, 4 AI disclosures, and only one instance of haystack slop",
     "source": "PC Gamer",
     "summary": "Ten years ago, this list would have shocked most PC gamers.",
@@ -224,13 +242,13 @@
       "badge": "info"
     },
     "tags": [
-      "AI",
-      "Steam"
+      "Steam",
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "World of Warcraft: Forever's last-minute patch transforms its bovines into racecars capable of zooming 60% faster than everyone else",
     "source": "PC Gamer",
     "summary": "Blizzard dropped a final balance pass for each playable race's unique abilities.",
@@ -247,7 +265,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "One day before launch, ARPG Emberville gets delayed until 2027",
     "source": "PC Gamer",
     "summary": "Don't blame this one on GTA 6: The developers say incorporating feedback on Emberville's demo is taking longer than they expected.",
@@ -259,31 +277,47 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "A free 'micro' horror game from the maker of The Mortuary Assistant is basically if PT was an episode of Law and Order",
-    "source": "PC Gamer",
-    "summary": "Playable Archive is free, and it's very good.",
-    "date": "Mon, 26 Oct 2026 21:47:58 +0000",
-    "link": "https://www.pcgamer.com/games/horror/a-free-micro-horror-game-from-the-maker-of-the-mortuary-assistant-is-basically-if-pt-was-an-episode-of-law-and-order/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.33,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
+    "title": "One Day Out From Early Access, Emberville Has Been Delayed To 2027",
+    "source": "GameSpot",
+    "summary": "Originally set to enter early access on October 27, action-adventure RPG Emberville has been delayed by over two months to January 7, 2027. The last-minute delay gives the team time to make \"essential improvements\" before Emberville reaches its fans.\nThe upcoming game mixes Stardew Valley-like farmi...",
+    "date": "Tue, 27 Oct 2026 10:05:58 +0000",
+    "link": "https://www.gamespot.com/articles/one-day-out-from-early-access-emberville-has-been-delayed-to-2027/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Ghost Of Yotei Was A Hit, But Its Developer Is Reportedly Cutting Jobs",
+    "source": "GameSpot",
+    "summary": "Sony-owned studio Sucker Punch Productions is losing 24 employees in another round of layoffs in the games industry. The studio is behind Ghost of Tsushima and Ghost of Yotei, two first-party PlayStation titles that have been critical and commercial hits.\nAn Aftermath report claims 24 Sucker Punch s...",
+    "date": "Tue, 27 Oct 2026 10:00:15 +0000",
+    "link": "https://www.gamespot.com/articles/ghost-of-yotei-was-a-hit-but-its-developer-is-reportedly-cutting-jobs/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.26,
+      "badge": "danger"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
     "title": "Here’s Another Mass Effect 5 Leak To Break Your Heart",
     "source": "GameSpot",
     "summary": "If last week's mysterious Mass Effect: Universe trailer leak wasn't painful enough for you in the wake of BioWare's sudden closure, we've gotten yet another taste of The Game That Could Have Been, this time courtesy of award-winning video game composer Austin Wintory. \nKnown for his beautiful and ha...",
@@ -295,13 +329,13 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 18,
+    "id": 20,
     "title": "WoW: Forever Just Got Another Major Racial Ability Shakeup Before Launch",
     "source": "GameSpot",
     "summary": "World of Warcraft: Forever's release is just around the corner, but developer Blizzard is making one final pass at the game's racial abilities before launch in response to beta feedback.\nIn a forum post, WoW community manager Kaivax posted a list of significant changes to many of each race's unique ...",
@@ -313,44 +347,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "Diablo 4’s War Plans Are Getting A Huge Upgrade In Season 16",
-    "source": "GameSpot",
-    "summary": "Diablo 4's War Plans system is getting a major upgrade in Season 16, giving players even more control over their endgame activities and rewards.\nDeveloper Blizzard introduced War Plans earlier this year as part of the game's second (and last) expansion, Lord of Hatred. It's an endgame system where p...",
-    "date": "Mon, 26 Oct 2026 19:14:12 +0000",
-    "link": "https://www.gamespot.com/articles/diablo-4s-war-plans-are-getting-a-huge-upgrade-in-season-16/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "Why There Won’t Be A Helldivers 3 Anytime Soon, If Ever",
-    "source": "GameSpot",
-    "summary": "Helldivers 2 has been a huge hit for developer Arrowhead and publisher Sony, but don't expect a third game in the series anytime soon.\nArrowhead's chief creative officer, Johan Pilestedt, told Rock Paper Shotgun that a sequel would reset \"everything\" and force the player to \"start over.\"  He doesn't...",
-    "date": "Mon, 26 Oct 2026 15:29:15 +0000",
-    "link": "https://www.gamespot.com/articles/why-there-wont-be-a-helldivers-3-anytime-soon-if-ever/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
