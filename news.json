@@ -1,73 +1,71 @@
 [
   {
     "id": 1,
-    "title": "Obsession Director Releasing New Short Film on YouTube in Time for Halloween",
+    "title": "Marvel's VisionQuest Episodes 5 & 6 Recap and Review",
     "source": "IGN",
-    "summary": "Curry Barker, writer and director of the brilliantly twisted Obsession, is releasing a new short film on YouTube on October 29.",
-    "date": "Tue, 27 Oct 2026 20:41:09 +0000",
-    "link": "https://www.ign.com/articles/obsession-director-releasing-new-short-film-on-youtube-in-time-for-halloween",
+    "summary": "VisionQuest reaches new heights in Episodes 5 and 6, as the fascinating dynamic between Ultron and Jocasta takes center stage.",
+    "date": "Wed, 28 Oct 2026 01:00:00 +0000",
+    "link": "https://www.ign.com/articles/marvels-visionquest-episodes-5-6-recap-and-review",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.18,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Life Is Strange Developer Don't Nod Blasted by Union Employees Over 'Illegal' Management Practices as Possible Layoffs Loom",
+    "title": "The 2026 55\" LG Evo C6 4K OLED TV Drops to Black Friday Pricing Plus Get a Free Xbox Controller",
     "source": "IGN",
-    "summary": "An October 27 statement from employees of Don't Nod, the developer best known for making the original Life is Strange games, warn that the company is in danger of insolvency and layoffs, and accused its management of \"illegal\" practices that have caused staff \"uncertainty and anxiety.\"",
-    "date": "Tue, 27 Oct 2026 20:34:03 +0000",
-    "link": "https://www.ign.com/articles/life-is-strange-developer-dont-nod-blasted-by-union-employees-over-illegal-management-practices-as-possible-layoffs-loom",
+    "summary": "The best gaming TV paired with one of the best gaming controllers.",
+    "date": "Wed, 28 Oct 2026 00:00:00 +0000",
+    "link": "https://www.ign.com/articles/lg-evo-c6-4k-oled-tv-deal-free-xbox-controller-october-2026",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.04,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.56,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Elden Ring Movie Runtime Could Reach Nearly 3 Hours",
+    "title": "Masahiro Sakurai Shrugs Off AI Games as ‘Unprofitable Titles’ as Clones and Mods Boom",
     "source": "IGN",
-    "summary": "A few new details on the story for A24’s Elden Ring movie have emerged, including its possible runtime. And, if that remains the case, it’s going to be epic.",
-    "date": "Tue, 27 Oct 2026 20:32:53 +0000",
-    "link": "https://www.ign.com/articles/elden-ring-movie-runtime-could-reach-nearly-3-hours",
+    "summary": "Super Smash Bros creator Masahiro Sakurai explained why the boom in AI-created games isn’t likely to create a lasting demand for such projects, comparing them to “low-quality goods” that could never compare to human-made titles like Shadow of the Colossus.",
+    "date": "Tue, 27 Oct 2026 23:27:51 +0000",
+    "link": "https://www.ign.com/articles/masahiro-sakurai-shrugs-off-ai-games-as-unprofitable-titles-as-clones-and-mods-boom",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.03,
+      "score": 0.08,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Call of Duty: Modern Warfare 4 Adds Series Favorite Map, Shipment, to Multiplayer",
+    "title": "Creator of Viral Needle in a Haystack Game Roasts Copycats With 'Find the Original Game' Mode",
     "source": "IGN",
-    "summary": "Shipment, one of Call of Duty's most iconic maps, has officially been added to Modern Warfare 4's multiplayer.",
-    "date": "Tue, 27 Oct 2026 20:28:05 +0000",
-    "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-series-favorite-map-shipment-to-multiplayer",
+    "summary": "The creator of a viral indie game where players must literally find a needle in a haystack is tired of his project getting cloned. So, he made a new game mode, where players must find the real game in a pile of fakes.",
+    "date": "Tue, 27 Oct 2026 22:30:35 +0000",
+    "link": "https://www.ign.com/articles/creator-of-viral-needle-in-a-haystack-game-roasts-copycats-with-find-the-original-game-mode",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.38,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.23,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -84,8 +82,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -136,85 +134,139 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "Magic Is Reprinting a $20 Commander Powerhouse as a Star Trek Fan Favorite",
+    "title": "The MCU's Oldest Villain Just Made a Surprise Return in 'VisionQuest'",
     "source": "Polygon",
-    "summary": "Magic: The Gathering’s new Star Trek Secret Lair reprints Thrasios, Triton Hero as Lower Decks’ Tendi. Here’s every Drop revealed so far.",
-    "date": "Tue, 27 Oct 2026 20:32:08 GMT",
-    "link": "https://www.polygon.com/magic-gathering-mtg-star-trek-commander-reprint/",
+    "summary": "VisionQuest just brought back the character of Raza, the Ten Rings terrorist not seen since the first Iron Man movie",
+    "date": "Wed, 28 Oct 2026 02:46:17 GMT",
+    "link": "https://www.polygon.com/visionquest-mcus-oldest-iron-man-villain-raza-hamidmi-al-wazar/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.22,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "McDonald's New 'Pokémon' Happy Meal Surprise Leaks Ahead Of Launch",
+    "title": "3 Upcoming Sci-Fi RPGs Better Than Waiting for a New Mass Effect",
     "source": "Polygon",
-    "summary": "The upcoming Pokémon promo brings back a McDonald's product that's been MIA from Happy Meals for nearly a decade",
-    "date": "Tue, 27 Oct 2026 20:17:18 GMT",
-    "link": "https://www.polygon.com/mcdonalds-pokemon-happy-meal-toy-card-leak-start-date-tcg-promo/",
+    "summary": "From Exodus to Star Wars: Fate of the Old Republic, these upcoming RPGs could be your next great Mass Effect replacement.",
+    "date": "Wed, 28 Oct 2026 01:00:17 GMT",
+    "link": "https://www.polygon.com/upcoming-games-like-mass-effect/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.37,
+      "score": 0.31,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "30 Years Later, Magic’s Most Ridiculous 1-Mana Creature Is Still a Competitive Powerhouse",
+    "title": "5 Adult Fairy Tale Books That Are Magical From Start to Finish",
     "source": "Polygon",
-    "summary": "Who would win: An entire Magic: The Gathering eternal format, or one Shrimp?",
-    "date": "Tue, 27 Oct 2026 20:00:19 GMT",
-    "link": "https://www.polygon.com/magic-phyrexian-dreadnought-stiflenought-premodern/",
+    "summary": "Dive into fantastical worlds filled with wizards, fae, and dangerous quests",
+    "date": "Wed, 28 Oct 2026 00:00:17 GMT",
+    "link": "https://www.polygon.com/best-fantasy-books-like-adult-fairy-tales/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.28,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "How to unlock Lid's second limit burst in Final Fantasy Resonance",
+    "title": "The Lord of the Rings: Return of the King Is Officially Getting a New Version Next Year",
     "source": "Polygon",
-    "summary": "Unlocking Lid's second limit burst in Final Fantasy Resonance works differently than the others. Here's how to get Lid's second limit burst",
-    "date": "Tue, 27 Oct 2026 19:34:43 GMT",
-    "link": "https://www.polygon.com/final-fantasy-resonance-lid-second-limit-burst-how-to-unlock/",
+    "summary": "The upcoming game will have just as many endings as Peter Jackson’s movie",
+    "date": "Tue, 27 Oct 2026 22:00:17 GMT",
+    "link": "https://www.polygon.com/return-of-the-king-trick-taking-game-interview/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Here's the Phantom Blade Zero release time for your region",
+    "source": "PC Gamer",
+    "summary": "Battle through the Wulin's monsters and martial masters.",
+    "date": "Wed, 28 Oct 2026 02:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-release-date-launch-times/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 13,
+    "id": 14,
+    "title": "Rockstar will hold union vote right on top of Grand Theft Auto 6 release",
+    "source": "PC Gamer",
+    "summary": "It's going to be a busy November for Rockstar workers.",
+    "date": "Tue, 27 Oct 2026 22:23:23 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.35,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Messages in certain large public Discord servers will be searchable on the web after December",
+    "source": "PC Gamer",
+    "summary": "Discord is attempting to solve the 'this should've been a forum' problem with specially-designated channels whose messages can show up in search engines.",
+    "date": "Tue, 27 Oct 2026 21:53:41 +0000",
+    "link": "https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
     "title": "Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day",
     "source": "PC Gamer",
     "summary": "Hulick says he wants the trailer to properly represent his \"musical vision\" for the cancelled Mass Effect game.",
@@ -226,62 +278,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Former Halo boss is now in charge of Wizards of the Coast and Hasbro Digital Games",
-    "source": "PC Gamer",
-    "summary": "Dan Ayoub joined WotC in 2024 and previously served as the company's SVP of digital games.",
-    "date": "Tue, 27 Oct 2026 19:48:09 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/former-halo-boss-is-now-in-charge-of-wizards-of-the-coast-and-hasbro-digital-games/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Call of Duty: Modern Warfare 4 review",
-    "source": "PC Gamer",
-    "summary": "This is what it looks like when Call of Duty is in the pocket.",
-    "date": "Tue, 27 Oct 2026 18:17:42 +0000",
-    "link": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "After Onimusha's focused swordplay, Phantom Blade Zero delivers a sprawling, maximalist action epic",
-    "source": "PC Gamer",
-    "summary": "A truly enormous wuxia journey.",
-    "date": "Tue, 27 Oct 2026 17:55:06 +0000",
-    "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-vs-onimusha-way-of-the-sword/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -298,8 +296,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -316,8 +314,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -334,8 +332,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -352,8 +350,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
