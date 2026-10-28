@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Marvel's VisionQuest Episodes 5 & 6 Recap and Review",
+    "title": "Football Fans Share Their Visceral Reactions to Nicolas Cage’s John Madden: ‘A Disgraceful Portrayal of a Great Man’",
     "source": "IGN",
-    "summary": "VisionQuest reaches new heights in Episodes 5 and 6, as the fascinating dynamic between Ultron and Jocasta takes center stage.",
-    "date": "Wed, 28 Oct 2026 01:00:00 +0000",
-    "link": "https://www.ign.com/articles/marvels-visionquest-episodes-5-6-recap-and-review",
+    "summary": "NFL fans expressed some pretty heated responses on social media to the first clip of Nicolas Cage in the upcoming movie Madden, where the Oscar winner portrays the legendary football TV commentator John Madden.",
+    "date": "Wed, 28 Oct 2026 21:00:10 +0000",
+    "link": "https://www.ign.com/articles/nicolas-cage-madden-movie-fan-reactions",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.18,
+      "score": 0.47,
       "badge": "success"
     },
     "tags": [
@@ -19,48 +19,14 @@
   },
   {
     "id": 2,
-    "title": "The 2026 55\" LG Evo C6 4K OLED TV Drops to Black Friday Pricing Plus Get a Free Xbox Controller",
+    "title": "Ali G: Who Iz I? Review",
     "source": "IGN",
-    "summary": "The best gaming TV paired with one of the best gaming controllers.",
-    "date": "Wed, 28 Oct 2026 00:00:00 +0000",
-    "link": "https://www.ign.com/articles/lg-evo-c6-4k-oled-tv-deal-free-xbox-controller-october-2026",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.56,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Masahiro Sakurai Shrugs Off AI Games as ‘Unprofitable Titles’ as Clones and Mods Boom",
-    "source": "IGN",
-    "summary": "Super Smash Bros creator Masahiro Sakurai explained why the boom in AI-created games isn’t likely to create a lasting demand for such projects, comparing them to “low-quality goods” that could never compare to human-made titles like Shadow of the Colossus.",
-    "date": "Tue, 27 Oct 2026 23:27:51 +0000",
-    "link": "https://www.ign.com/articles/masahiro-sakurai-shrugs-off-ai-games-as-unprofitable-titles-as-clones-and-mods-boom",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Creator of Viral Needle in a Haystack Game Roasts Copycats With 'Find the Original Game' Mode",
-    "source": "IGN",
-    "summary": "The creator of a viral indie game where players must literally find a needle in a haystack is tired of his project getting cloned. So, he made a new game mode, where players must find the real game in a pile of fakes.",
-    "date": "Tue, 27 Oct 2026 22:30:35 +0000",
-    "link": "https://www.ign.com/articles/creator-of-viral-needle-in-a-haystack-game-roasts-copycats-with-find-the-original-game-mode",
+    "summary": "Sacha Baron Cohen’s attempt to resurrect Ali G goes disastrously off the rails, with barely a joke to be found.",
+    "date": "Wed, 28 Oct 2026 20:08:54 +0000",
+    "link": "https://www.ign.com/articles/ali-g-who-iz-i-review",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.23,
+      "score": -0.32,
       "badge": "danger"
     },
     "tags": [
@@ -70,64 +36,66 @@
     "read_time": "1 min read"
   },
   {
-    "id": 5,
-    "title": "\"This is a serious incident\" - Kingdom Come: Deliverance developer Warhorse suffers cyberattack",
-    "source": "Eurogamer",
-    "summary": "Kingdom Come: Deliverance developer Warhorse Studios has confirmed it's suffered a \"serious\" cyberattack, saying it is currently working to determine the \"full extent\" of its impact. Read more...",
-    "date": "Tue, 27 Oct 2026 16:53:16 +0000",
-    "link": "https://www.eurogamer.net/warhorse-cyberattack-kingdom-come-deliverance",
+    "id": 3,
+    "title": "Wendy's Is Making a Turn-Based RPG and It Actually Looks Really Good",
+    "source": "IGN",
+    "summary": "Wendy’s — yes, the American fast food chain — is releasing a surprisingly gorgeous, pixelated, turn-based RPG on Steam, and the internet is legitimately stunned by how good it looks.",
+    "date": "Wed, 28 Oct 2026 20:05:39 +0000",
+    "link": "https://www.ign.com/articles/wendys-is-making-a-turn-based-rpg-and-it-actually-looks-really-good",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.38,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "RPG",
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "Save $700 Off the HyperX OMEN Gaming Laptop With GeForce RTX 5060 (115W) Graphics",
+    "source": "IGN",
+    "summary": "It's actually more powerful than the comparably priced Steam Machine.",
+    "date": "Wed, 28 Oct 2026 20:00:00 +0000",
+    "link": "https://www.ign.com/articles/hyperx-omen-gaming-laptop-deal-october-2026",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
+    },
+    "tags": [
+      "Graphics",
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Epic Games further doubles down on gen-AI tools for Fortnite, Unreal Engine 6 and more: \"Our engineers are no longer writing the bulk of the code\"",
+    "source": "Eurogamer",
+    "summary": "To no one's surprise, Epic Games has now confirmed that it's tripling down on its gen-AI push and will use the controversial tech on everything from Fortnite to the next iteration of its widely-used game development engine, Unreal Engine 6. Read more...",
+    "date": "Wed, 28 Oct 2026 20:08:50 +0000",
+    "link": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.13,
+      "badge": "success"
+    },
+    "tags": [
+      "Unreal Engine",
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 6,
-    "title": "Roblox users have made a playable version of Counter-Strike and full, working PlayStation games that you can play right now",
+    "title": "Alien: Isolation 2 devs commit to a physical edition: \"Staying true to the analogue nature of Alien is one of our pillars\"",
     "source": "Eurogamer",
-    "summary": "Multiple remakes of beloved games including Counter Strike, The Simpsons: Hit and Run, and Super Hot, are available to play on Roblox right now. These have not been uploaded by the original game's creators. Read more...",
-    "date": "Tue, 27 Oct 2026 15:01:29 +0000",
-    "link": "https://www.eurogamer.net/roblox-counter-strike-playstation-homepage-super-hot-simpsons-hit-and-run",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.28,
-      "badge": "success"
-    },
-    "tags": [
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Nintendo is hosting a new Indie World showcase tomorrow, featuring games for Switch and Switch 2, and it'll be 15 minutes long",
-    "source": "Eurogamer",
-    "summary": "It's been a bumper year for Nintendo, with the likes of  and Pokémon Pokopia kicking off 2026 in a very strong way for the company, and more recently with games like Fire Emblem and Nintendo Switch Sports Resort picking up strong scores for the platform holder. Read more...",
-    "date": "Tue, 27 Oct 2026 14:06:39 +0000",
-    "link": "https://www.eurogamer.net/nintendo-new-indie-world-showcase-october-28",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.26,
-      "badge": "success"
-    },
-    "tags": [
-      "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Phantom Blade Zero is asking players to free up 300GB of space for pre-loading, double its actual 145GB file size",
-    "source": "Eurogamer",
-    "summary": "Pre-loads are live for Phantom Blade Zero, the debut action game from Chinese developer S-Game. Alongside news of the pre-load, the studio revealed the final set of PC requirements, including how much space the game is going to take up on your drive. Read more...",
-    "date": "Tue, 27 Oct 2026 13:06:03 +0000",
-    "link": "https://www.eurogamer.net/phantom-blade-zero-300gb-pre-load-space",
+    "summary": "The developers behind Alien: Isolation 2 are committing to a full physical edition, and have shared even more details about the highly-anticipated survival horror sequel. Read more...",
+    "date": "Wed, 28 Oct 2026 19:16:08 +0000",
+    "link": "https://www.eurogamer.net/alien-isolation-2-commit-physical-edition",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.05,
@@ -140,12 +108,136 @@
     "read_time": "1 min read"
   },
   {
+    "id": 7,
+    "title": "Cyberpunk 2 might include multiplayer after CD Projekt Red scrapped the feature in Cyberpunk 2077",
+    "source": "Eurogamer",
+    "summary": "Cyberpunk 2 might try to revive Cyberpunk 2077's online ambitions, as a new CD Projekt Red job listing is looking for someone familiar with \"multiplayer network architecture.\" Read more...",
+    "date": "Wed, 28 Oct 2026 17:56:45 +0000",
+    "link": "https://www.eurogamer.net/cyberpunk-2077-multiplayer-quests-cd-projekt-red",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "Cyberpunk"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "\"This company has been driven into a wall for years\" - Life is Strange studio Don't Nod faces unrest while teetering on insolvency",
+    "source": "Eurogamer",
+    "summary": "There's deep unrest at French studio Don't Nod - creator of Life is Strange, Remember Me, Vampyr, Banishers: New Eden, and most recently Aphelion - as it scrambles to restructure itself and guard against insolvency. Read more...",
+    "date": "Wed, 28 Oct 2026 17:10:24 +0000",
+    "link": "https://www.eurogamer.net/dont-nod-insolvency-life-is-strange-aphelion",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.13,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
     "id": 9,
-    "title": "The MCU's Oldest Villain Just Made a Surprise Return in 'VisionQuest'",
+    "title": "The best Han 86 build in Modern Warfare 4",
     "source": "Polygon",
-    "summary": "VisionQuest just brought back the character of Raza, the Ten Rings terrorist not seen since the first Iron Man movie",
-    "date": "Wed, 28 Oct 2026 02:46:17 GMT",
-    "link": "https://www.polygon.com/visionquest-mcus-oldest-iron-man-villain-raza-hamidmi-al-wazar/",
+    "summary": "A guide detailing the best Han 86 build in Modern Warfare 4, along with the loadout and class to run with it.",
+    "date": "Wed, 28 Oct 2026 21:54:24 GMT",
+    "link": "https://www.polygon.com/mw4-modern-warfare-4-han-86-build-loadout-class-best/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.6,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "The Case Against Larian Saving Dragon Age, No Matter How Tempting It Sounds",
+    "source": "Polygon",
+    "summary": "Fans want Larian to take over Dragon Age after BioWare’s closure. Here’s why Larian’s own plans, Dragon Age’s DNA, and EA all say no",
+    "date": "Wed, 28 Oct 2026 21:27:38 GMT",
+    "link": "https://www.polygon.com/larian-dragon-age-takeover-bad-idea/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.6,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "BG3 Owes Everything to One Underrated 2009 BioWare RPG",
+    "source": "Polygon",
+    "summary": "Baldur’s Gate 3 fans, meet Dragon Age: Origins, the 2009 BioWare RPG with the same campfire confessions, disaster friends, and impossible choices.",
+    "date": "Wed, 28 Oct 2026 19:30:18 GMT",
+    "link": "https://www.polygon.com/dragon-age-origins-baldurs-gate-3-underrated/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.33,
+      "badge": "danger"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Backrooms Director Teases Next Dream Projects — Is Portal One of Them?",
+    "source": "Polygon",
+    "summary": "Kane Parsons' comments in a recent interview have sparked speculation that he's working on a 'Portal' movie.",
+    "date": "Wed, 28 Oct 2026 19:14:30 GMT",
+    "link": "https://www.polygon.com/backrooms-director-kane-parsons-portal-movie-valve-rumors/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Epic Games chief Tim Sweeney claims 'Valve has held gaming back for years'",
+    "source": "PC Gamer",
+    "summary": "Sweeney says locking developers into the \"walled garden\" of Steamworks is a real problem.",
+    "date": "Wed, 28 Oct 2026 21:00:20 +0000",
+    "link": "https://www.pcgamer.com/software/platforms/epic-games-chief-tim-sweeney-claims-valve-has-held-gaming-back-for-years/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.1,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "WoW: Forever's update schedule will be 'a little more laid back' than the main MMO",
+    "source": "PC Gamer",
+    "summary": "Developers say the plan is to release updates a few times a year to match the MMO's classic spirit.",
+    "date": "Wed, 28 Oct 2026 20:10:35 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-update-schedule-will-be-a-little-more-laid-back-than-the-main-mmo/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.08,
@@ -158,138 +250,12 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "3 Upcoming Sci-Fi RPGs Better Than Waiting for a New Mass Effect",
-    "source": "Polygon",
-    "summary": "From Exodus to Star Wars: Fate of the Old Republic, these upcoming RPGs could be your next great Mass Effect replacement.",
-    "date": "Wed, 28 Oct 2026 01:00:17 GMT",
-    "link": "https://www.polygon.com/upcoming-games-like-mass-effect/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.31,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "5 Adult Fairy Tale Books That Are Magical From Start to Finish",
-    "source": "Polygon",
-    "summary": "Dive into fantastical worlds filled with wizards, fae, and dangerous quests",
-    "date": "Wed, 28 Oct 2026 00:00:17 GMT",
-    "link": "https://www.polygon.com/best-fantasy-books-like-adult-fairy-tales/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "The Lord of the Rings: Return of the King Is Officially Getting a New Version Next Year",
-    "source": "Polygon",
-    "summary": "The upcoming game will have just as many endings as Peter Jackson’s movie",
-    "date": "Tue, 27 Oct 2026 22:00:17 GMT",
-    "link": "https://www.polygon.com/return-of-the-king-trick-taking-game-interview/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Here's the Phantom Blade Zero release time for your region",
-    "source": "PC Gamer",
-    "summary": "Battle through the Wulin's monsters and martial masters.",
-    "date": "Wed, 28 Oct 2026 02:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-release-date-launch-times/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Rockstar will hold union vote right on top of Grand Theft Auto 6 release",
-    "source": "PC Gamer",
-    "summary": "It's going to be a busy November for Rockstar workers.",
-    "date": "Tue, 27 Oct 2026 22:23:23 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.35,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 15,
-    "title": "Messages in certain large public Discord servers will be searchable on the web after December",
+    "title": "Witchbrook is delayed again, now set for release in 2027",
     "source": "PC Gamer",
-    "summary": "Discord is attempting to solve the 'this should've been a forum' problem with specially-designated channels whose messages can show up in search engines.",
-    "date": "Tue, 27 Oct 2026 21:53:41 +0000",
-    "link": "https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day",
-    "source": "PC Gamer",
-    "summary": "Hulick says he wants the trailer to properly represent his \"musical vision\" for the cancelled Mass Effect game.",
-    "date": "Tue, 27 Oct 2026 21:12:29 +0000",
-    "link": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "You Can Make Your WoW: Forever Character Now And Be Ready For Launch",
-    "source": "GameSpot",
-    "summary": "World of Warcraft: Forever's character creation and name reservations are now live, letting you save some time on launch day by making your characters now rather than on launch day.\nTo access name reservations, you'll need to have Forever preinstalled on Battle.net and have purchased at least the $3...",
-    "date": "Tue, 27 Oct 2026 20:00:00 +0000",
-    "link": "https://www.gamespot.com/articles/you-can-make-your-wow-forever-character-now-and-be-ready-for-launch/",
+    "summary": "We finally have a solid launch date, and it's not in 2026 as planned but it's not too far off, either.",
+    "date": "Wed, 28 Oct 2026 18:28:34 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/witchbrook-is-delayed-again-now-set-for-release-in-2027/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.03,
@@ -302,15 +268,50 @@
     "read_time": "1 min read"
   },
   {
-    "id": 18,
-    "title": "GTA 6 Developers Are About To Do Something Historic",
+    "id": 16,
+    "title": "One of the best quests in Baldur's Gate 3 is also its scariest, and it doesn't have anything to do with ghosts or vampires",
+    "source": "PC Gamer",
+    "summary": "Drowning in consequences.",
+    "date": "Wed, 28 Oct 2026 17:38:31 +0000",
+    "link": "https://www.pcgamer.com/games/baldurs-gate/one-of-the-best-quests-in-baldurs-gate-3-is-also-its-scariest-and-it-doesnt-have-anything-to-do-with-ghosts-or-vampires/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 1.0,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "GTA 6 File Size Revealed, And It’s Massive–See How It Compares To Other Huge Games",
     "source": "GameSpot",
-    "summary": "Workers at GTA 6 developer Rockstar will soon get to vote on recognizing a union.\nThe union, IWGB Union at Rockstar, is for Rockstar's UK-based developers. Rockstar North, based in Edinburgh, Scotland, is one of Rockstar's biggest outfits in the UK, and the lead developer on GTA 6.\nThe negotiating p...",
-    "date": "Tue, 27 Oct 2026 19:43:21 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-developers-are-about-to-do-something-historic/",
+    "summary": "Ahead of the game's release in November, GTA 6's file size has been revealed, and it is massive. PlayStation Game Size reports that the $80 standard edition will take up 210GB of storage capacity.\nSize details for the $100 Ultimate Edition--which includes a ton of content not in the regular version-...",
+    "date": "Tue, 27 Oct 2026 17:48:21 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-file-size-revealed-and-its-massive/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": -0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "GTA 6 Online Could Be Released In Early 2027, Bank Says",
+    "source": "GameSpot",
+    "summary": "Take-Two's biggest release ever, GTA 6, is coming up in November, but the company's share price continues to drop. It's down 21% this year and has now dipped under $200 this week after reaching a 52-week high of $265. \nIn short, the stock is struggling, but one big bank says it sees a lot of upside,...",
+    "date": "Wed, 28 Oct 2026 19:05:50 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-online-could-be-released-in-early-2027-bank-says/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.02,
       "badge": "info"
     },
     "tags": [
@@ -321,15 +322,15 @@
   },
   {
     "id": 19,
-    "title": "This Company Is Paying You To Play GTA 6, But It’s A Long Shot",
+    "title": "LOTRO’s Latest Expansion Is Out Now, Nearly 20 Years After The Game Launched",
     "source": "GameSpot",
-    "summary": "A company, Virgin Media, has announced a promotional campaign where one lucky person will get paid to play GTA 6. \nThe promotion, which is limited to Ireland, requires people to explain in 100-200 words on this contest site why they deserve to get paid to play GTA 6. Virgin Media will then select a ...",
-    "date": "Tue, 27 Oct 2026 19:03:48 +0000",
-    "link": "https://www.gamespot.com/articles/this-company-is-paying-you-to-play-gta-6-but-its-a-long-shot/",
+    "summary": "The Lord of the Rings Online, an MMO based on the popular fantasy series, got its latest expansion today, some 19.5 years after the game was originally released in 2007.\nThe new expansion is called The Wolves of Mordor, and as its name suggests, the expansion is focused on the werewolves of Mordor w...",
+    "date": "Wed, 28 Oct 2026 18:30:46 +0000",
+    "link": "https://www.gamespot.com/articles/lotros-latest-expansion-is-out-now-nearly-20-years-after-the-game-launched/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.18,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -339,14 +340,14 @@
   },
   {
     "id": 20,
-    "title": "Official WoW: Forever AMV Will Get You Super Hyped",
+    "title": "Backrooms Director Reacts To Rumors That He’s Making A Portal Movie",
     "source": "GameSpot",
-    "summary": "World of Warcraft: Forever is almost here, and in case players weren't already excited to return to classic Azeroth, a new animated music video highlighting the war between the Horde and the Alliance is sure to get your inner player vs. player hyped up to spill some blood for your faction. \nCalled \"...",
-    "date": "Tue, 27 Oct 2026 19:01:52 +0000",
-    "link": "https://www.gamespot.com/articles/official-wow-forever-amv-will-get-you-super-hyped/",
+    "summary": "Kane Parsons made one of 2026's most highly acclaimed and commercially successful movies in Backrooms, and everyone wants to know what he'll do next. A lot of people think he's going to make a Portal movie, based on Valve's hit series, and his latest appearance has fans convinced that's on tap.\nPars...",
+    "date": "Wed, 28 Oct 2026 13:15:27 +0000",
+    "link": "https://www.gamespot.com/articles/backrooms-director-wears-a-valve-hoodie-to-interview-and-people-think-hes-teasing-a-portal-movie/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.23,
+      "score": 0.35,
       "badge": "success"
     },
     "tags": [
