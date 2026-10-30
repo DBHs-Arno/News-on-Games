@@ -1,72 +1,73 @@
 [
   {
     "id": 1,
-    "title": "Patrick Stewart's Best Roles in Movies and TV",
+    "title": "Death Stranding Isolations Anime Gets First Trailer",
     "source": "IGN",
-    "summary": "Patrick Stewart's best roles in movies and TV went far beyond outer space and mutants.",
-    "date": "Thu, 29 Oct 2026 21:02:17 +0000",
-    "link": "https://www.ign.com/articles/patrick-stewarts-best-roles-in-movies-and-tv",
+    "summary": "Kojima Productions revealed the first trailer for Death Stranding Isolations, an original anime series set in the world of Death Stranding, scheduled to release on Disney+ next year.",
+    "date": "Fri, 30 Oct 2026 02:51:05 +0000",
+    "link": "https://www.ign.com/articles/death-stranding-isolations-anime-gets-first-trailer",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.7,
+      "score": 0.22,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Kevin Feige, Marvel Studios, and Hugh Jackman Pay Tribute to Sir Patrick Stewart After Actor's Death at 86",
+    "title": "Attack on Titan 3: The Final Preview",
     "source": "IGN",
-    "summary": "Kevin Feige, president of Marvel Studios and COO of Marvel, has given a heartfelt response to the death of acclaimed actor Sir Patrick Stewart.",
-    "date": "Thu, 29 Oct 2026 20:43:45 +0000",
-    "link": "https://www.ign.com/articles/kevin-feige-and-marvel-studios-pay-tribute-to-sir-patrick-stewart-after-actors-death-at-86",
+    "summary": "Attack on Titan 3 may come with a number, but it isn’t a direct sequel in the truest sense of the word. It’s more of a retelling.  Based on my time with it, Attack on Titan 3 is juggling a lot of plates, and its ambition to do something new with the franchise is pretty laudable.",
+    "date": "Fri, 30 Oct 2026 01:00:00 +0000",
+    "link": "https://www.ign.com/articles/attack-on-titan-3-the-final-preview",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Save 20% Off the New Steelseries Aeon Pro Wireless Gaming Controller With Infinite Battery Life",
+    "title": "Call of Duty: Modern Warfare 4 Adds 'Non MilSim Content' Disclaimer to Halloween Themed Content",
     "source": "IGN",
-    "summary": "This controller is shaping up to be one of the best wireless PC and Xbox gaming controllers on the market.",
-    "date": "Thu, 29 Oct 2026 20:30:00 +0000",
-    "link": "https://www.ign.com/articles/steelseries-aeon-pro-wireless-gaming-controller-deal-october-2026",
+    "summary": "Call of Duty: Modern Warfare 4 has added new disclaimers to content that may not abide by the game's usual grounded tone and aesthetic.",
+    "date": "Thu, 29 Oct 2026 23:17:23 +0000",
+    "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-non-milsim-content-disclaimer-to-halloween-themed-content",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.57,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
     },
     "tags": [
-      "Xbox"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Save 20% Off the SteelSeries Arctis Nova Pro Wireless Gaming Headset With Infinite Battery Life",
+    "title": "Gears of War: E-Day Reportedly Sold Over 400K Copies Across Console and PC a Month After Day-One Game Pass Launch",
     "source": "IGN",
-    "summary": "Rated one of the best gaming headsets for 4 years running.",
-    "date": "Thu, 29 Oct 2026 20:30:00 +0000",
-    "link": "https://www.ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-october-2026",
+    "summary": "Sources tell The Verge that Gears of War: E-Day has sold over 400,000 copies across console and PC, and Game Pass is likely to blame.",
+    "date": "Thu, 29 Oct 2026 23:13:44 +0000",
+    "link": "https://www.ign.com/articles/gears-of-war-e-day-reportedly-sold-over-400k-copies-across-console-and-pc-a-month-after-day-one-game-pass-launch",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 1.0,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.27,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -83,8 +84,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -101,8 +102,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -119,8 +120,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -137,13 +138,31 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
+    "title": "10 Essential Fantasy Books You Need to Read at Least Once in Your Life",
+    "source": "Polygon",
+    "summary": "From Tolkien's Middle-earth to Lovecraft's dreamscapes, these 10 essential fantasy books deserve a place on your shelf.",
+    "date": "Fri, 30 Oct 2026 04:00:17 GMT",
+    "link": "https://www.polygon.com/fantasy-books-you-need-to-read-at-least-once-in-your-life/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
     "title": "Official The Elder Scrolls 6 Announcement Imminent, Report Says",
     "source": "Polygon",
     "summary": "Skyrim's 15th anniversary will give fans a real reason to be excited about a new Bethesda RPG",
@@ -160,7 +179,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "Ubisoft Issues Official Update on Fate of Future Assassin's Creed Remakes",
     "source": "Polygon",
     "summary": "Ubisoft has confirmed no Assassin's Creed remakes are currently in development. It also shared updates on projects like Assassin's Creed Hexe.",
@@ -172,13 +191,13 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 11,
+    "id": 12,
     "title": "Steam Makes 96% Positive Puzzle Game Completely Free",
     "source": "Polygon",
     "summary": "Hexologic is free to keep on Steam for a limited time. Claim this relaxing Sudoku-inspired puzzle game and solve more than 90 levels.",
@@ -195,25 +214,24 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "Patrick Stewart's Greatest Captain Picard Quote Is Still a Defining Star Trek Moment",
-    "source": "Polygon",
-    "summary": "\"The Inner Light\" contains Jean-Luc Picard's greatest quote, a quiet line that reveals the humanity behind Star Trek's most beloved captain.",
-    "date": "Thu, 29 Oct 2026 20:10:37 GMT",
-    "link": "https://www.polygon.com/patrick-stewart-best-star-trek-quote/",
+    "id": 13,
+    "title": "Reddit will switch to a 'logged-in only experience'",
+    "source": "PC Gamer",
+    "summary": "The exact details of the change are still being determined (and yep, this is about AI).",
+    "date": "Thu, 29 Oct 2026 23:58:10 +0000",
+    "link": "https://www.pcgamer.com/software/ai/reddit-will-switch-to-a-logged-in-only-experience/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.4,
+      "score": 0.12,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 13,
+    "id": 14,
     "title": "How to start the Charting the Unknown DLC in Crimson Desert",
     "source": "PC Gamer",
     "summary": "Unlock requirements for all of the expansion's new content.",
@@ -225,13 +243,13 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "'None of these people have ever made a game,' BioWare co-founder Greg Zeschuk says of game industry executives: 'They just don't know how it works'",
     "source": "PC Gamer",
     "summary": "In a rare interview, Zeschuk said the closure of BioWare is sad, but his greater concern is for the people put out of work.",
@@ -243,13 +261,13 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "Patrick Stewart, Star Trek and Shakespeare legend, has died",
     "source": "PC Gamer",
     "summary": "Stewart died at age 86 after \"a brief and poignant journey with Alzheimer's Disease.\"",
@@ -261,26 +279,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Modern Warfare 4's newest map is actually older than the Gen Z & Alpha teens who will play it",
-    "source": "PC Gamer",
-    "summary": "This map can drink.",
-    "date": "Thu, 29 Oct 2026 19:36:41 +0000",
-    "link": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4s-newest-map-is-actually-older-than-the-gen-z-and-alpha-teens-who-will-play-it/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.18,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -297,8 +297,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -315,8 +315,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -333,8 +333,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -351,8 +351,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
