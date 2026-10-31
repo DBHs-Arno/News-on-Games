@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Stranger Than Heaven Features Optional “Cheats” to Make its Combat Easier",
+    "title": "Arkade is a PC Peripheral That Transforms Every Modern Shooter Into a Light Gun Game",
     "source": "IGN",
-    "summary": "Stranger Than Heaven Features Optional “Cheats” to Make its Combat Easier",
-    "date": "Sat, 31 Oct 2026 01:06:04 +0000",
-    "link": "https://www.ign.com/articles/stranger-than-heaven-features-optional-cheats-to-make-its-combat-easier",
+    "summary": "Arkade is a PC Peripheral That Transforms Every Modern Shooter Into a Light Gun Game",
+    "date": "Sat, 31 Oct 2026 07:30:24 +0000",
+    "link": "https://www.ign.com/articles/arkade-is-a-pc-peripheral-that-transforms-every-modern-shooter-into-a-light-gun-game",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.07,
       "badge": "info"
     },
     "tags": [
@@ -19,14 +19,14 @@
   },
   {
     "id": 2,
-    "title": "Monster Hunter Outlanders Review So Far",
+    "title": "Costco Reveals Its Full Black Friday Ad and Sale Dates for 2026",
     "source": "IGN",
-    "summary": "This mobile spin-off maintains the gameplay loop and visuals of its console counterparts, with the caveat of how progress gates push microtransactions.",
-    "date": "Sat, 31 Oct 2026 00:45:06 +0000",
-    "link": "https://www.ign.com/articles/monster-hunter-outlanders-review",
+    "summary": "",
+    "date": "Sat, 31 Oct 2026 04:51:13 +0000",
+    "link": "https://www.ign.com/articles/costco-reveals-its-full-black-friday-ad-and-sale-dates-for-2026",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.1,
+      "score": 0.09,
       "badge": "info"
     },
     "tags": [
@@ -37,14 +37,14 @@
   },
   {
     "id": 3,
-    "title": "Chronicles: Medieval Developer 'At Real Risk of Closing' Before Release as Funding 'No Longer in Place'",
+    "title": "By Skipping Last-Gen Systems, Stranger Than Heaven is Allowing RGG Studio to Fully Leverage the Power of Current-Gen Consoles at Long Last",
     "source": "IGN",
-    "summary": "Chronicles: Medieval developer Raw Power Games posted a chilling warning on its social media pages, warning that the studio might close before it can launch the Early Access version of its medieval open-world action/strategy sandbox because funding for the team is \"no longer in place.\"",
-    "date": "Sat, 31 Oct 2026 00:40:27 +0000",
-    "link": "https://www.ign.com/articles/chronicles-medieval-developer-at-real-risk-of-closing-before-release-as-funding-no-longer-in-place",
+    "summary": "By Skipping Last-Gen Systems, Stranger Than Heaven is Allowing RGG Studio to Fully Leverage the Power of Current-Gen Consoles at Long Last",
+    "date": "Sat, 31 Oct 2026 03:33:09 +0000",
+    "link": "https://www.ign.com/articles/by-skipping-last-gen-systems-stranger-than-heaven-is-allowing-rgg-studio-to-fully-leverage-the-power-of-current-gen-consoles-at-long-last",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.05,
+      "score": -0.03,
       "badge": "info"
     },
     "tags": [
@@ -55,18 +55,19 @@
   },
   {
     "id": 4,
-    "title": "Xbox's Doom, Wolfenstein Developers Working 'More Closely Than Ever' Following Xbox 'Reset' Layoffs",
+    "title": "Final Fantasy XIV Evercold Delayed, New Release Date Announced at FFXIV Fan Fest",
     "source": "IGN",
-    "summary": "Bethesda and Xbox development studio id Software, maker of the Doom franchise, has deepened its partnership with fellow Bethesda and Xbox studio MachineGames, makers of the most recent Wolfenstein games as well as 2024's Indiana Jones and the Great Circle.",
-    "date": "Sat, 31 Oct 2026 00:01:34 +0000",
-    "link": "https://www.ign.com/articles/xboxs-doom-wolfenstein-developers-working-more-closely-than-ever-following-xbox-reset-layoffs",
+    "summary": "The MMORPG's next expansion was set to launch shortly after the new year, but Warriors of Light will have to wait a bit longer.",
+    "date": "Sat, 31 Oct 2026 02:13:24 +0000",
+    "link": "https://www.ign.com/articles/final-fantasy-xiv-evercold-delayed-new-release-date-announced-at-ffxiv-fan-fest",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.36,
+      "score": 0.11,
       "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -144,15 +145,15 @@
   },
   {
     "id": 9,
-    "title": "Sony's Bringing Back Spider-Man $2.5 Billion Hit With New Footage",
+    "title": "20 Years Later, Rockstar’s Best Game Still Doesn’t Have the Sequel It Deserved",
     "source": "Polygon",
-    "summary": "Spider-Man: Brand New Day isn't done dominating movie theaters, with Sony planning an extended rerelease of 2026's Spider-Man cinematic feat.",
-    "date": "Sat, 31 Oct 2026 03:09:18 GMT",
-    "link": "https://www.polygon.com/spider-man-brand-new-day-rerelease-extended-new-footage-cameos/",
+    "summary": "Bully, or Canis Canem Edit, was one of Rockstar's most innovative and unique games, and it's about time we got a sequel.",
+    "date": "Sat, 31 Oct 2026 11:00:19 GMT",
+    "link": "https://www.polygon.com/bully-20-years-later-sequel-retrospective/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.33,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -162,31 +163,32 @@
   },
   {
     "id": 10,
-    "title": "15 Classic Games That Prove Gameplay Is More Important Than Graphics",
+    "title": "Star Wars' Secret Writers Quietly Made the Strangest, Scariest Zombie Movies of All Time",
     "source": "Polygon",
-    "summary": "Great visuals never hurt, but these 15 classic games prove that gameplay is the more important factor for timelessness.",
-    "date": "Sat, 31 Oct 2026 02:36:37 GMT",
-    "link": "https://www.polygon.com/classic-games-bad-graphics-good-gameplay/",
+    "summary": "Messiah of Evil might be the ultimate Halloween horror movie",
+    "date": "Sat, 31 Oct 2026 10:01:20 GMT",
+    "link": "https://www.polygon.com/messiah-of-evil/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.42,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.35,
+      "badge": "danger"
     },
     "tags": [
-      "Graphics"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Top 10 Pokémon Cards Most Likely to Be Fake",
+    "title": "60 Years Later, the Best 'Peanuts' Quote of All Time Still Doesn't Get the Credit it Deserves",
     "source": "Polygon",
-    "summary": "Counterfeit Pokémon cards is a big business, but some TCG cards are more suspicious than others. Here's how to tell fakes from legit Pokémon cards.",
-    "date": "Sat, 31 Oct 2026 02:22:17 GMT",
-    "link": "https://www.polygon.com/top-10-pokemon-cards-most-likely-to-be-fake-how-to-tell/",
+    "summary": "In addition to being sweet and funny, Charles Schulz's Peanuts comic strip could be profound at time. The best example comes from 1966.",
+    "date": "Sat, 31 Oct 2026 08:04:17 GMT",
+    "link": "https://www.polygon.com/best-peanuts-quote-ever-charlie-brown-charles-schulz/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.17,
+      "score": 0.42,
       "badge": "success"
     },
     "tags": [
@@ -197,19 +199,18 @@
   },
   {
     "id": 12,
-    "title": "Every Mike Flanagan TV Series, Ranked",
+    "title": "Nintendo’s Biggest Game of the Year Isn't What You Think It Is",
     "source": "Polygon",
-    "summary": "Explore the top-ranked TV series by Mike Flanagan, showcasing horror's human side and captivating storytelling.",
-    "date": "Sat, 31 Oct 2026 02:10:17 GMT",
-    "link": "https://www.polygon.com/mike-flanagan-series-ranked/",
+    "summary": "Tomodachi Life: Living the Dream is a massive hit on Switch, and helping sell Zelda: Ocarina of Time on Switch 2",
+    "date": "Sat, 31 Oct 2026 08:00:17 GMT",
+    "link": "https://www.polygon.com/switchboard-tomodachi-life-huge/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
