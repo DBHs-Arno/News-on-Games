@@ -1,6 +1,59 @@
 [
   {
     "id": 1,
+    "title": "Nintendo Reveals Surprise Pikmin Day Direct",
+    "source": "IGN",
+    "summary": "Nintendo has revealed a surprise Nintendo Direct for Pikmin Day because it has apparently decided that's a thing now.",
+    "date": "Sat, 31 Oct 2026 14:26:26 +0000",
+    "link": "https://www.ign.com/articles/nintendo-reveals-surprise-pikmin-day-direct",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Aliens, Bigfoots, and Monsters… Remembering the Age of the Weirdumentary",
+    "source": "IGN",
+    "summary": "In the conspiracy-minded 1970s, monster ‘documentaries’ were a huge hit at the box office.",
+    "date": "Sat, 31 Oct 2026 13:00:00 +0000",
+    "link": "https://www.ign.com/articles/aliens-bigfoots-and-monsters-remembering-the-age-of-the-weirdumentary",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "Avatar: Seven Havens Showrunners Address Your Biggest Finale Burning Questions",
+    "source": "IGN",
+    "summary": "Avatar: Seven Havens: We talk with show co-creator Michael Dante DiMartino and showrunners Sehaj Sethi and Ethan Spaulding about the current season and beyond.",
+    "date": "Sat, 31 Oct 2026 12:00:00 +0000",
+    "link": "https://www.ign.com/articles/avatar-seven-havens-finale-showrunners-ending-explained-biggest-questions",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
     "title": "Arkade is a PC Peripheral That Transforms Every Modern Shooter Into a Light Gun Game",
     "source": "IGN",
     "summary": "Arkade is a PC Peripheral That Transforms Every Modern Shooter Into a Light Gun Game",
@@ -18,70 +71,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
-    "title": "Costco Reveals Its Full Black Friday Ad and Sale Dates for 2026",
-    "source": "IGN",
-    "summary": "",
-    "date": "Sat, 31 Oct 2026 04:51:13 +0000",
-    "link": "https://www.ign.com/articles/costco-reveals-its-full-black-friday-ad-and-sale-dates-for-2026",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "By Skipping Last-Gen Systems, Stranger Than Heaven is Allowing RGG Studio to Fully Leverage the Power of Current-Gen Consoles at Long Last",
-    "source": "IGN",
-    "summary": "By Skipping Last-Gen Systems, Stranger Than Heaven is Allowing RGG Studio to Fully Leverage the Power of Current-Gen Consoles at Long Last",
-    "date": "Sat, 31 Oct 2026 03:33:09 +0000",
-    "link": "https://www.ign.com/articles/by-skipping-last-gen-systems-stranger-than-heaven-is-allowing-rgg-studio-to-fully-leverage-the-power-of-current-gen-consoles-at-long-last",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Final Fantasy XIV Evercold Delayed, New Release Date Announced at FFXIV Fan Fest",
-    "source": "IGN",
-    "summary": "The MMORPG's next expansion was set to launch shortly after the new year, but Warriors of Light will have to wait a bit longer.",
-    "date": "Sat, 31 Oct 2026 02:13:24 +0000",
-    "link": "https://www.ign.com/articles/final-fantasy-xiv-evercold-delayed-new-release-date-announced-at-ffxiv-fan-fest",
+    "id": 5,
+    "title": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families",
+    "source": "Eurogamer",
+    "summary": "Activision has apologised to the bereaved families of the Itaewon crowd crush victims and confirmed it will remove real footage of the tragedy from Call of Duty: Modern Warfare 4. Read more...",
+    "date": "Sat, 31 Oct 2026 15:59:46 +0000",
+    "link": "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.11,
+      "score": 0.3,
       "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "GOTY hopeful Mina the Hollower bought the studio financial stability \"for now,\" while the Shovel Knight devs work on a new 3D game",
-    "source": "Eurogamer",
-    "summary": "Yacht Club Games has confirmed that most of its developers are now working on a brand new 3D game (potentially Shovel Knight 3D), after the critically-acclaimed Mina the Hollower did well enough for the team to continue. Read more...",
-    "date": "Fri, 30 Oct 2026 19:55:21 +0000",
-    "link": "https://www.eurogamer.net/shovel-knight-3d-mina-financial-stability",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
     },
     "tags": [
       "News",
@@ -91,15 +90,15 @@
   },
   {
     "id": 6,
-    "title": "Blizzard hints at console ports for World of Warcraft: Forever - \"Play it wherever you want and, at some point, on whatever you want\"",
+    "title": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week",
     "source": "Eurogamer",
-    "summary": "After more than two decades dominating the PC MMO battlefield, it sounds like Blizzard Entertainment's taking the idea of a World of Warcraft console port more seriously than ever. Read more...",
-    "date": "Fri, 30 Oct 2026 19:06:18 +0000",
-    "link": "https://www.eurogamer.net/blizzard-console-port-hints-world-of-warcraft-forever",
+    "summary": "Final Fantasy 14's next expansion, Evercold, will launch on 23rd February 2027, and its second new job is zephyr, a physical ranged DPS that fights with a crossbow and a bird. Read more...",
+    "date": "Sat, 31 Oct 2026 14:39:25 +0000",
+    "link": "https://www.eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.29,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -109,14 +108,14 @@
   },
   {
     "id": 7,
-    "title": "Dark Souls 2 and Dark Souls 3's online servers are temporarily going dark, FromSoftware announces",
+    "title": "Silent Hill: Townfall adds new Hard difficulty in latest update",
     "source": "Eurogamer",
-    "summary": "Things might get even darker over in the world of Lordran without those silly, only sometimes helpful notes left by other players. Developer FromSoftware has announced that it's temporarily closing Dark Souls 2 and Dark Souls 3 servers because of an unspecified issue. Read more...",
-    "date": "Fri, 30 Oct 2026 17:45:23 +0000",
-    "link": "https://www.eurogamer.net/dark-souls-servers-temporarily-shutting-down-fromsoftware",
+    "summary": "Silent Hill: Townfall has added a new Hard difficulty mode and rebalanced every existing setting to make room for it. Read more...",
+    "date": "Sat, 31 Oct 2026 13:53:19 +0000",
+    "link": "https://www.eurogamer.net/silent-hill-townfall-hard-mode-update",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.09,
+      "score": 0.09,
       "badge": "info"
     },
     "tags": [
@@ -127,32 +126,31 @@
   },
   {
     "id": 8,
-    "title": "Crimson Desert Enhanced Edition gets a surprise demo on PlayStation and Xbox, lets you play for 5 hours and carry over your save data",
+    "title": "A former volunteer is threatening legal action against fan-made game project Skyblivion",
     "source": "Eurogamer",
-    "summary": "Crimson Desert is one of 2026's most successful releases. The game managed to sell over 6 million copies in just three months, and ended up being so profitable that its publisher ended up giving each employee at development studio Pearl Abyss a $3,400 bonus. Since launch, the dev has been committed ...",
-    "date": "Fri, 30 Oct 2026 14:58:30 +0000",
-    "link": "https://www.eurogamer.net/crimson-desert-free-demo-xbox-playstation",
+    "summary": "A former volunteer is threatening legal action against Skyblivion, the long-running fan remake of Oblivion built in Skyrim's engine, over code they contributed to the project. Read more...",
+    "date": "Sat, 31 Oct 2026 13:21:03 +0000",
+    "link": "https://www.eurogamer.net/skyblivion-former-volunteer-legal-threats",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.28,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
     },
     "tags": [
-      "Xbox",
-      "PlayStation"
+      "Remake"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "20 Years Later, Rockstar’s Best Game Still Doesn’t Have the Sequel It Deserved",
+    "title": "Phantom Blade Zero Just Killed Crimson Desert's Chances At a GOTY",
     "source": "Polygon",
-    "summary": "Bully, or Canis Canem Edit, was one of Rockstar's most innovative and unique games, and it's about time we got a sequel.",
-    "date": "Sat, 31 Oct 2026 11:00:19 GMT",
-    "link": "https://www.polygon.com/bully-20-years-later-sequel-retrospective/",
+    "summary": "Phantom Blade Zero has rave reviews, tons of buzz, and a preferential release date, effectively boxing Crimson Desert out of GOTY 2026.",
+    "date": "Sat, 31 Oct 2026 16:00:19 GMT",
+    "link": "https://www.polygon.com/phantom-blade-zero-crimson-desert-goty-chances/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.33,
+      "score": 0.2,
       "badge": "success"
     },
     "tags": [
@@ -163,32 +161,14 @@
   },
   {
     "id": 10,
-    "title": "Star Wars' Secret Writers Quietly Made the Strangest, Scariest Zombie Movies of All Time",
+    "title": "Skyblivion's Biggest Legal Challenge Yet Is Not Coming From Bethesda",
     "source": "Polygon",
-    "summary": "Messiah of Evil might be the ultimate Halloween horror movie",
-    "date": "Sat, 31 Oct 2026 10:01:20 GMT",
-    "link": "https://www.polygon.com/messiah-of-evil/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.35,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "60 Years Later, the Best 'Peanuts' Quote of All Time Still Doesn't Get the Credit it Deserves",
-    "source": "Polygon",
-    "summary": "In addition to being sweet and funny, Charles Schulz's Peanuts comic strip could be profound at time. The best example comes from 1966.",
-    "date": "Sat, 31 Oct 2026 08:04:17 GMT",
-    "link": "https://www.polygon.com/best-peanuts-quote-ever-charlie-brown-charles-schulz/",
+    "summary": "As Skyblivion nears release, a former volunteer  is trying to sue those working on the mod bringing The Elder Scrolls 4: Oblivion to Skyrim",
+    "date": "Sat, 31 Oct 2026 15:57:49 GMT",
+    "link": "https://www.polygon.com/skyblivion-legal-threats-former-volunteer/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.42,
+      "score": 0.13,
       "badge": "success"
     },
     "tags": [
@@ -198,68 +178,87 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "Nintendo’s Biggest Game of the Year Isn't What You Think It Is",
+    "id": 11,
+    "title": "'No Man's Sky' Players Pay Homage To Star Trek's Patrick Stewart",
     "source": "Polygon",
-    "summary": "Tomodachi Life: Living the Dream is a massive hit on Switch, and helping sell Zelda: Ocarina of Time on Switch 2",
-    "date": "Sat, 31 Oct 2026 08:00:17 GMT",
-    "link": "https://www.polygon.com/switchboard-tomodachi-life-huge/",
+    "summary": "No Man's Sky players are honoring late Star Trek actor Patrick Stewart by naming planets and star systems after him.",
+    "date": "Sat, 31 Oct 2026 15:18:18 GMT",
+    "link": "https://www.polygon.com/no-mans-sky-players-patrick-stewart-memorial-star-systems/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.2,
+      "score": -0.3,
       "badge": "danger"
     },
     "tags": [
-      "Nintendo"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Austin Abrams Was Grabbed by Tentacles in a 35-Foot Whale Head for the Thriller ‘Whalefall’",
+    "source": "Polygon",
+    "summary": "“Austin’s body is responding to real action in real time.”",
+    "date": "Sat, 31 Oct 2026 15:01:18 GMT",
+    "link": "https://www.polygon.com/whalefall-bts-interview/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.18,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "AI-powered game development is 'leading to an explosion of content,' Roblox says, as it brags about 70,000 games published on its platform in the last 5 months alone",
+    "title": "Dune: Awakening is getting a free DLC that adds a whole new map and swaps out sand for snow",
     "source": "PC Gamer",
-    "summary": "Two days after Steam admitted it has an AI slop problem, Roblox basically bragged about the same thing.",
-    "date": "Fri, 30 Oct 2026 20:39:57 +0000",
-    "link": "https://www.pcgamer.com/software/ai/ai-powered-game-development-is-leading-to-an-explosion-of-content-roblox-says-as-it-brags-about-70-000-games-published-on-its-platform-in-the-last-5-months-alone/",
+    "summary": "Funcom will also \"continue expanding the game\" through 2027.",
+    "date": "Sat, 31 Oct 2026 16:20:31 +0000",
+    "link": "https://www.pcgamer.com/games/mmo/dune-awakening-is-getting-a-free-dlc-that-adds-a-whole-new-map-and-swaps-out-sand-for-snow/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.13,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
     },
     "tags": [
-      "AI",
-      "Steam"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "Soulframe opens up for everyone next week as the Warframe devs prepare the fantasy action RPG for one of its 'biggest, most violent' updates ever next month",
+    "title": "id Software co-director says the Doom developer is 'working more closely with MachineGames than ever' after Xbox laid off 'about half of our studio'",
     "source": "PC Gamer",
-    "summary": "Verse of the Veilands will radically change the structure of the game so it's easier for new players to follow.",
-    "date": "Fri, 30 Oct 2026 20:30:00 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/",
+    "summary": "MachineGames is rumoured to be working on a third Wolfenstein game.",
+    "date": "Sat, 31 Oct 2026 16:10:44 +0000",
+    "link": "https://www.pcgamer.com/games/fps/id-software-co-director-says-the-doom-developer-is-working-more-closely-with-machinegames-than-ever-after-xbox-laid-off-about-half-of-our-studio/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.07,
+      "score": -0.02,
       "badge": "info"
     },
     "tags": [
-      "RPG"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "New games in 2027: Fable, Final Fantasy 7, and (maybe) GTA 6 on PC",
+    "title": "How fast do you type, and has playing MMOs improved your typing in any way?",
     "source": "PC Gamer",
-    "summary": "This is where I'd put the GTA 6 PC release date, if we had one.",
-    "date": "Fri, 30 Oct 2026 19:11:36 +0000",
-    "link": "https://www.pcgamer.com/games/new-pc-games-2027/",
+    "summary": "On my touch-type, touch-type telephone.",
+    "date": "Sat, 31 Oct 2026 16:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/mmo/how-fast-do-you-type-and-has-playing-mmos-improved-your-typing-in-any-way/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -269,19 +268,19 @@
   },
   {
     "id": 16,
-    "title": "Star Trek Online players are holding public vigils to mourn Patrick Stewart",
+    "title": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop",
     "source": "PC Gamer",
-    "summary": "In orbit and planetside, the MMO's player base is honoring its most-loved captain.",
-    "date": "Fri, 30 Oct 2026 18:53:22 +0000",
-    "link": "https://www.pcgamer.com/games/mmo/star-trek-online-players-are-holding-public-vigils-to-mourn-patrick-stewart/",
+    "summary": "Anthropic updates Claude to 'steer it away' from letting users clone other games.",
+    "date": "Sat, 31 Oct 2026 15:23:04 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/anthropic-updates-claude-to-steer-it-away-from-letting-users-clone-games-following-weeks-of-steam-being-inundated-with-ai-slop/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.06,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Steam",
+      "AI"
     ],
     "read_time": "1 min read"
   },
