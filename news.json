@@ -1,6 +1,60 @@
 [
   {
     "id": 1,
+    "title": "Joe Manganiello Says He 'Will Never Give Up Hope' on His D&D Dragonlance TV Series",
+    "source": "IGN",
+    "summary": "Joe Manganiello, one of the most famous Dungeons & Dragons players in Hollywood, said he still wants his Dragonlance TV series to come to fruition despite its cancellation several years ago.",
+    "date": "Sat, 31 Oct 2026 19:04:07 +0000",
+    "link": "https://www.ign.com/articles/joe-manganiello-says-he-will-never-give-up-hope-on-his-dd-dragonlance-tv-series",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "It: Welcome to Derry Drops Surprise Halloween Episode",
+    "source": "IGN",
+    "summary": "HBO has jump-scared subscribers with a surprise episode of It: Welcome to Derry to help celebrate Halloween.",
+    "date": "Sat, 31 Oct 2026 18:01:44 +0000",
+    "link": "https://www.ign.com/articles/it-welcome-to-derry-drops-surprise-halloween-episode",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.8,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "Everything Coming to Disney+ and Hulu in November",
+    "source": "IGN",
+    "summary": "",
+    "date": "Sat, 31 Oct 2026 16:30:00 +0000",
+    "link": "https://www.ign.com/articles/whats-new-on-disney-plus-hulu-streaming-bundle-november-2026",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
     "title": "Nintendo Reveals Surprise Pikmin Day Direct",
     "source": "IGN",
     "summary": "Nintendo has revealed a surprise Nintendo Direct for Pikmin Day because it has apparently decided that's a thing now.",
@@ -17,61 +71,25 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
-    "title": "Aliens, Bigfoots, and Monsters… Remembering the Age of the Weirdumentary",
-    "source": "IGN",
-    "summary": "In the conspiracy-minded 1970s, monster ‘documentaries’ were a huge hit at the box office.",
-    "date": "Sat, 31 Oct 2026 13:00:00 +0000",
-    "link": "https://www.ign.com/articles/aliens-bigfoots-and-monsters-remembering-the-age-of-the-weirdumentary",
+    "id": 5,
+    "title": "PUBG live-action series in the works at Netflix, with Donald Glover set to direct and star",
+    "source": "Eurogamer",
+    "summary": "PUBG is being turned into a live-action series for Netflix, with Donald Glover set to direct, write, executive produce, and star. Read more...",
+    "date": "Sat, 31 Oct 2026 17:35:36 +0000",
+    "link": "https://www.eurogamer.net/pubg-live-action-netflix-series-donald-glover",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.4,
+      "score": 0.23,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 3,
-    "title": "Avatar: Seven Havens Showrunners Address Your Biggest Finale Burning Questions",
-    "source": "IGN",
-    "summary": "Avatar: Seven Havens: We talk with show co-creator Michael Dante DiMartino and showrunners Sehaj Sethi and Ethan Spaulding about the current season and beyond.",
-    "date": "Sat, 31 Oct 2026 12:00:00 +0000",
-    "link": "https://www.ign.com/articles/avatar-seven-havens-finale-showrunners-ending-explained-biggest-questions",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Arkade is a PC Peripheral That Transforms Every Modern Shooter Into a Light Gun Game",
-    "source": "IGN",
-    "summary": "Arkade is a PC Peripheral That Transforms Every Modern Shooter Into a Light Gun Game",
-    "date": "Sat, 31 Oct 2026 07:30:24 +0000",
-    "link": "https://www.ign.com/articles/arkade-is-a-pc-peripheral-that-transforms-every-modern-shooter-into-a-light-gun-game",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
+    "id": 6,
     "title": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families",
     "source": "Eurogamer",
     "summary": "Activision has apologised to the bereaved families of the Itaewon crowd crush victims and confirmed it will remove real footage of the tragedy from Call of Duty: Modern Warfare 4. Read more...",
@@ -83,13 +101,13 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week",
     "source": "Eurogamer",
     "summary": "Final Fantasy 14's next expansion, Evercold, will launch on 23rd February 2027, and its second new job is zephyr, a physical ranged DPS that fights with a crossbow and a bird. Read more...",
@@ -101,13 +119,13 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Silent Hill: Townfall adds new Hard difficulty in latest update",
     "source": "Eurogamer",
     "summary": "Silent Hill: Townfall has added a new Hard difficulty mode and rebalanced every existing setting to make room for it. Read more...",
@@ -119,30 +137,67 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "A former volunteer is threatening legal action against fan-made game project Skyblivion",
-    "source": "Eurogamer",
-    "summary": "A former volunteer is threatening legal action against Skyblivion, the long-running fan remake of Oblivion built in Skyrim's engine, over code they contributed to the project. Read more...",
-    "date": "Sat, 31 Oct 2026 13:21:03 +0000",
-    "link": "https://www.eurogamer.net/skyblivion-former-volunteer-legal-threats",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "Remake"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
+    "title": "6 Essential Activities GTA Needs to Let Players Experience in Vice City",
+    "source": "Polygon",
+    "summary": "GTA 6's side activities seem expansive, but I hope Rockstar leaves room for these, too",
+    "date": "Sat, 31 Oct 2026 20:01:17 GMT",
+    "link": "https://www.polygon.com/gta-6-side-activities/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Helen Mirren and Alden Ehrenreich on Playing Tom Ripley and His Creator Patricia Highsmith",
+    "source": "Polygon",
+    "summary": "Helen Mirren and Alden Ehrenreich join Polygon for an interview about their new film A Talent for Murder",
+    "date": "Sat, 31 Oct 2026 18:00:17 GMT",
+    "link": "https://www.polygon.com/helen-mirren-alden-ehrenreich-interview-a-talent-for-murder/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "Peter Jackson's Worst Lord of the Rings Sin Was Forgetting the Story's Fairy Tale Roots",
+    "source": "Polygon",
+    "summary": "Peter Jackson's The Hobbit should have taken inspiration from The Princess Bride on how to adapt a fairy tale into a movie.",
+    "date": "Sat, 31 Oct 2026 17:00:17 GMT",
+    "link": "https://www.polygon.com/the-hobbit-movies-lord-of-the-rings-fairy-tale-roots/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -1.0,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
     "title": "Phantom Blade Zero Just Killed Crimson Desert's Chances At a GOTY",
     "source": "Polygon",
     "summary": "Phantom Blade Zero has rave reviews, tons of buzz, and a preferential release date, effectively boxing Crimson Desert out of GOTY 2026.",
@@ -154,94 +209,40 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Skyblivion's Biggest Legal Challenge Yet Is Not Coming From Bethesda",
-    "source": "Polygon",
-    "summary": "As Skyblivion nears release, a former volunteer  is trying to sue those working on the mod bringing The Elder Scrolls 4: Oblivion to Skyrim",
-    "date": "Sat, 31 Oct 2026 15:57:49 GMT",
-    "link": "https://www.polygon.com/skyblivion-legal-threats-former-volunteer/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.13,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "'No Man's Sky' Players Pay Homage To Star Trek's Patrick Stewart",
-    "source": "Polygon",
-    "summary": "No Man's Sky players are honoring late Star Trek actor Patrick Stewart by naming planets and star systems after him.",
-    "date": "Sat, 31 Oct 2026 15:18:18 GMT",
-    "link": "https://www.polygon.com/no-mans-sky-players-patrick-stewart-memorial-star-systems/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.3,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Austin Abrams Was Grabbed by Tentacles in a 35-Foot Whale Head for the Thriller ‘Whalefall’",
-    "source": "Polygon",
-    "summary": "“Austin’s body is responding to real action in real time.”",
-    "date": "Sat, 31 Oct 2026 15:01:18 GMT",
-    "link": "https://www.polygon.com/whalefall-bts-interview/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.18,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "Dune: Awakening is getting a free DLC that adds a whole new map and swaps out sand for snow",
+    "title": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
     "source": "PC Gamer",
-    "summary": "Funcom will also \"continue expanding the game\" through 2027.",
-    "date": "Sat, 31 Oct 2026 16:20:31 +0000",
-    "link": "https://www.pcgamer.com/games/mmo/dune-awakening-is-getting-a-free-dlc-that-adds-a-whole-new-map-and-swaps-out-sand-for-snow/",
+    "summary": "The volunteer team is seeking pro bono legal aid.",
+    "date": "Sat, 31 Oct 2026 20:29:22 +0000",
+    "link": "https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "id Software co-director says the Doom developer is 'working more closely with MachineGames than ever' after Xbox laid off 'about half of our studio'",
+    "title": "Celeste and TowerFall have delisted from Xbox's digital storefronts to support BDS boycott",
     "source": "PC Gamer",
-    "summary": "MachineGames is rumoured to be working on a third Wolfenstein game.",
-    "date": "Sat, 31 Oct 2026 16:10:44 +0000",
-    "link": "https://www.pcgamer.com/games/fps/id-software-co-director-says-the-doom-developer-is-working-more-closely-with-machinegames-than-ever-after-xbox-laid-off-about-half-of-our-studio/",
+    "summary": "Director of both games, Maddy Thorson, confirmed the intent on BlueSky.",
+    "date": "Sat, 31 Oct 2026 18:57:47 +0000",
+    "link": "https://www.pcgamer.com/games/action/celeste-and-towerfall-have-delisted-from-xboxs-digital-storefronts-to-support-bds-boycott/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.02,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
     },
     "tags": [
       "Xbox"
@@ -250,37 +251,37 @@
   },
   {
     "id": 15,
-    "title": "How fast do you type, and has playing MMOs improved your typing in any way?",
+    "title": "Final Fantasy 14: Evercold delayed to February, preorders start next week",
     "source": "PC Gamer",
-    "summary": "On my touch-type, touch-type telephone.",
-    "date": "Sat, 31 Oct 2026 16:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/mmo/how-fast-do-you-type-and-has-playing-mmos-improved-your-typing-in-any-way/",
+    "summary": "Surely, one of these is the actual, no joke, FINAL fantasy?",
+    "date": "Sat, 31 Oct 2026 18:57:19 +0000",
+    "link": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-evercold-delayed-to-february-preorders-start-next-week/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop",
+    "title": "Yacht Club confirms Mina the Hollower was the shot in the arm it needed stay alive—'for now'",
     "source": "PC Gamer",
-    "summary": "Anthropic updates Claude to 'steer it away' from letting users clone other games.",
-    "date": "Sat, 31 Oct 2026 15:23:04 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/anthropic-updates-claude-to-steer-it-away-from-letting-users-clone-games-following-weeks-of-steam-being-inundated-with-ai-slop/",
+    "summary": "Randomizer and speedrunner settings are up next for the spooky Zelda-like.",
+    "date": "Sat, 31 Oct 2026 17:41:22 +0000",
+    "link": "https://www.pcgamer.com/games/adventure/yacht-club-confirms-mina-the-hollower-was-the-shot-in-the-arm-it-needed-stay-alive-for-now/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.06,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Steam",
-      "AI"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -297,8 +298,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -315,8 +316,8 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -333,8 +334,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -351,8 +352,8 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
