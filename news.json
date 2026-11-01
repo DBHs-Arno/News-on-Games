@@ -1,32 +1,33 @@
 [
   {
     "id": 1,
-    "title": "Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
+    "title": "Heat Director Michael Mann Hospitalized After Accidentally Shooting Himself in the Leg",
     "source": "IGN",
-    "summary": "If you’re playing Call of Duty: Modern Warfare 4 on Nintendo Switch 2, beware: you’re at a disadvantage in competitive Multiplayer due to crushing input lag that is much worse than the other platforms.",
-    "date": "Sat, 31 Oct 2026 23:32:09 +0000",
-    "link": "https://www.ign.com/articles/input-lag-is-so-bad-in-call-of-duty-modern-warfare-4-on-nintendo-switch-2-that-players-suffer-from-a-competitive-disadvantage",
+    "summary": "Heat director Michael Mann was hospitalized with minor injuries after accidentally shooting himself in the leg at a Los Angeles gun range on Halloween.",
+    "date": "Sun, 1 Nov 2026 19:02:24 +0000",
+    "link": "https://www.ign.com/articles/heat-director-michael-mann-hospitalized-after-accidentally-shooting-himself-in-the-leg",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.08,
+      "score": -0.05,
       "badge": "info"
     },
     "tags": [
-      "Nintendo"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Save Mass Effect Graffiti Reportedly Spray-Painted Outside EA Building",
+    "title": "Taika Waititi Blasts Critics as 'Irrelevant, Out of Touch, Obsolete' Following Klara and the Sun's Negative Reviews",
     "source": "IGN",
-    "summary": "An EA office building in Madrid was vandalized with the words \"Save Mass Effect\" just days after the company announced it had shuttered series developer BioWare.",
-    "date": "Sat, 31 Oct 2026 23:08:02 +0000",
-    "link": "https://www.ign.com/articles/save-mass-effect-graffiti-reportedly-spray-painted-outside-ea-building",
+    "summary": "Marvel filmmaker Taika Waititi has called critics \"sad lost souls who couldn't achieve their dreams\" after his latest film, Klara and the Sun, premiered with negative reviews.",
+    "date": "Sun, 1 Nov 2026 17:50:21 +0000",
+    "link": "https://www.ign.com/articles/taika-waititi-blasts-critics-as-irrelevant-out-of-touch-obsolete-following-klara-and-the-suns-negative-reviews",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.18,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -36,51 +37,15 @@
   },
   {
     "id": 3,
-    "title": "Star Wars Actor Hayden Christensen Says a Man Who Burgled His House Recognized Him Then Gave His Stuff Back Mid-Robbery",
+    "title": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
     "source": "IGN",
-    "summary": "Anakin Skywalker actor Hayden Christensen has revealed the strangest fan encounter he’s ever had.",
-    "date": "Sat, 31 Oct 2026 23:00:27 +0000",
-    "link": "https://www.ign.com/articles/star-wars-actor-hayden-christensen-says-a-man-who-burgled-his-house-recognized-him-then-gave-his-stuff-back-mid-robbery",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Anthropic Blocks AI Game Clones in Claude Opus Update",
-    "source": "IGN",
-    "summary": "Anthropic has issued an update for Claude Opus that puts a stop to the AI-generated game clones that have filled platforms like Steam.",
-    "date": "Sat, 31 Oct 2026 21:46:36 +0000",
-    "link": "https://www.ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update",
+    "summary": "",
+    "date": "Sun, 1 Nov 2026 17:38:30 +0000",
+    "link": "https://www.ign.com/articles/petit-planet-switch-2-release-date",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.13,
+      "score": -0.2,
       "badge": "danger"
-    },
-    "tags": [
-      "Steam",
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
-    "source": "Eurogamer",
-    "summary": "Pikmin 4 Nintendo Switch 2 Edition will launch on 12th November, bundled with a new mode called Dandori Academy. Read more...",
-    "date": "Sun, 01 Nov 2026 10:04:13 +0000",
-    "link": "https://www.eurogamer.net/pikmin-4-switch-2-edition-release-date-demo",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.32,
-      "badge": "success"
     },
     "tags": [
       "Nintendo"
@@ -88,52 +53,86 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "PUBG live-action series in the works at Netflix, with Donald Glover set to direct and star",
-    "source": "Eurogamer",
-    "summary": "PUBG is being turned into a live-action series for Netflix, with Donald Glover set to direct, write, executive produce, and star. Read more...",
-    "date": "Sat, 31 Oct 2026 17:35:36 +0000",
-    "link": "https://www.eurogamer.net/pubg-live-action-netflix-series-donald-glover",
+    "id": 4,
+    "title": "Robert Downey Jr. and Pedro Pascal Swap Places for Halloween With Mister Fantastic and Doctor Doom Costumes",
+    "source": "IGN",
+    "summary": "Halloween had no shortage of viral costumes, but Robert Downey Jr. and Pedro Pascal might have taken the crown by swapping places as Mister Fantastic and Doctor Doom.",
+    "date": "Sun, 1 Nov 2026 16:12:09 +0000",
+    "link": "https://www.ign.com/articles/robert-downey-jr-and-pedro-pascal-swap-places-for-halloween-with-mister-fantastic-and-doctor-doom-costumes",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.23,
+      "score": 0.4,
       "badge": "success"
     },
     "tags": [
       "Gaming",
       "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "At Dead of Night sequel The Great Hugo is coming \"(very) soon\"",
+    "source": "Eurogamer",
+    "summary": "Baggy Cat Games, the team behind viral FMV horror game At Dead Of Night, has confirmed that a sequel is \"coming (very) soon\". Read more...",
+    "date": "Sun, 01 Nov 2026 18:16:20 +0000",
+    "link": "https://www.eurogamer.net/at-dead-of-night-2-the-great-hugo-sequel-announced",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Modern Warfare 4 on Switch 2 has much worse input lag than PS5",
+    "source": "Eurogamer",
+    "summary": "Call of Duty: Modern Warfare 4 on Switch 2 has noticeably worse input lag than on PS5, which could put Nintendo players at a disadvantage in multiplayer. Read more...",
+    "date": "Sun, 01 Nov 2026 17:27:29 +0000",
+    "link": "https://www.eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 7,
-    "title": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families",
+    "title": "Footage of a Persona 1 remake has seemingly leaked online",
     "source": "Eurogamer",
-    "summary": "Activision has apologised to the bereaved families of the Itaewon crowd crush victims and confirmed it will remove real footage of the tragedy from Call of Duty: Modern Warfare 4. Read more...",
-    "date": "Sat, 31 Oct 2026 15:59:46 +0000",
-    "link": "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology",
+    "summary": "Almost two minutes of footage from what appears to be a remake of the original Persona has leaked online. Read more...",
+    "date": "Sun, 01 Nov 2026 16:35:17 +0000",
+    "link": "https://www.eurogamer.net/persona-1-remake-be-your-true-mind-leak",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.3,
+      "score": 0.44,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Remake"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 8,
-    "title": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week",
+    "title": "Dune: Awakening's free Blood and Ice expansion swaps sand for snow on 1st December",
     "source": "Eurogamer",
-    "summary": "Final Fantasy 14's next expansion, Evercold, will launch on 23rd February 2027, and its second new job is zephyr, a physical ranged DPS that fights with a crossbow and a bird. Read more...",
-    "date": "Sat, 31 Oct 2026 14:39:25 +0000",
-    "link": "https://www.eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date",
+    "summary": "Funcom's survival MMO Dune: Awakening is heading north with a free expansion that trades the deserts of Arrakis for a frozen new map. Read more...",
+    "date": "Sun, 01 Nov 2026 13:44:34 +0000",
+    "link": "https://www.eurogamer.net/dune-awakening-blood-and-ice-free-expansion",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.36,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -143,14 +142,32 @@
   },
   {
     "id": 9,
-    "title": "Dungeons & Dragons Turned Hansel and Gretel Into a Near-Perfect Adventure",
+    "title": "5 Classic Nintendo Games That Are So Good They Never Need a Remake",
     "source": "Polygon",
-    "summary": "A delicious one-shot sends players to a candy cottage",
-    "date": "Sun, 01 Nov 2026 12:31:50 GMT",
-    "link": "https://www.polygon.com/dragon-delves-hansel-gretel/",
+    "summary": "Remakes and remasters are all the rage, but five classics from Nintendo are good enough that no one ever needs to bother trying to improve them.",
+    "date": "Sun, 01 Nov 2026 21:00:17 GMT",
+    "link": "https://www.polygon.com/classic-nintendo-games-no-remake-needed/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 1.0,
+      "score": 0.39,
+      "badge": "success"
+    },
+    "tags": [
+      "Remake",
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "How to get the Pirate Shop Access Token in Fortnite Chapter 7 mini season",
+    "source": "Polygon",
+    "summary": "The Pirate Shop Access Token lets you get anything for free in Fortnite Chapter 7 mini season. Here's how to get it and what you can buy.",
+    "date": "Sun, 01 Nov 2026 20:18:04 GMT",
+    "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-pirate-shop-access-token-free-how-to-get/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
       "badge": "success"
     },
     "tags": [
@@ -160,33 +177,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "Netflix's Near-Perfect Thriller With 94% Rotten Tomatoes Score Is Getting Cut From Streaming",
-    "source": "Polygon",
-    "summary": "Two eccentric teenagers cross paths and embark on a road trip to remember.",
-    "date": "Sun, 01 Nov 2026 12:00:17 GMT",
-    "link": "https://www.polygon.com/best-dark-comedy-show-comic-book-adaptation/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 11,
-    "title": "7 Near-Perfect Prime Video Sci-Fi Shows that Hook You in the First Scene",
+    "title": "All map fragment locations in the Fortnite Chapter 7 mini season",
     "source": "Polygon",
-    "summary": "Sci-fi comes in all flavors, including ones that are addictive.",
-    "date": "Sun, 01 Nov 2026 12:00:17 GMT",
-    "link": "https://www.polygon.com/prime-video-sci-fi-near-perfect-first-scene/",
+    "summary": "Here's where to find all the currently available map fragments in Fortnite's Chapter 7 mini season.",
+    "date": "Sun, 01 Nov 2026 20:11:49 GMT",
+    "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.12,
+      "score": 0.4,
       "badge": "success"
     },
     "tags": [
@@ -197,29 +196,11 @@
   },
   {
     "id": 12,
-    "title": "6 Perfect 'Peanuts' Comics from the 1960s that Prove Charles Schulz is a Genius",
+    "title": "Pokémon Go 'Halloween 2026 Part 2' event guide",
     "source": "Polygon",
-    "summary": "The best decade for Charles Schulz's Peanuts comic strip was the 1960s — here are six perfect comics which prove it.",
-    "date": "Sun, 01 Nov 2026 11:00:17 GMT",
-    "link": "https://www.polygon.com/best-peanuts-comics-1960s/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.81,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Forza co-creator Dan Greenawalt is reportedly leaving Microsoft",
-    "source": "PC Gamer",
-    "summary": "Another nail in Motorsport's coffin.",
-    "date": "Sun, 01 Nov 2026 04:05:48 +0000",
-    "link": "https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft/",
+    "summary": "Here's all the bonuses and perks for Pokémon Go's \"Halloween 2026 Part 2\" event, which includes the debut of shiny Greavard.",
+    "date": "Sun, 01 Nov 2026 19:09:33 GMT",
+    "link": "https://www.polygon.com/pokemon-go-halloween-2026-part-2-event-shiny-greavard/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -232,15 +213,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
-    "title": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'",
+    "id": 13,
+    "title": "Jagex partnered with a RuneScape-inspired idle game to turn the sequel into an official spinoff",
     "source": "PC Gamer",
-    "summary": "Structural perfection.",
-    "date": "Sun, 01 Nov 2026 01:30:27 +0000",
-    "link": "https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more/",
+    "summary": "Melvor Idle 2 has gained a subtitle: A RuneScape Adventure.",
+    "date": "Sun, 01 Nov 2026 18:41:29 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/jagex-partnered-with-a-runescape-inspired-idle-game-to-turn-the-sequel-into-an-official-spinoff/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Grand Theft Auto 6 teased a handful of its upcoming radio stations and its music curation is as strong as ever",
+    "source": "PC Gamer",
+    "summary": "I can already picture my late-night Leonida drives to these bangers.",
+    "date": "Sun, 01 Nov 2026 18:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-teased-a-handful-of-its-upcoming-radio-stations-and-its-music-curation-is-as-strong-as-ever/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.2,
+      "score": 0.47,
       "badge": "success"
     },
     "tags": [
@@ -251,15 +250,15 @@
   },
   {
     "id": 15,
-    "title": "FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'",
+    "title": "GOG wants to bring back physical games, but it's 'a very, very complicated thing'",
     "source": "PC Gamer",
-    "summary": "The reason and timeline for restoration were not disclosed.",
-    "date": "Sat, 31 Oct 2026 21:40:23 +0000",
-    "link": "https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/",
+    "summary": "\"You click on the game that you would like to receive a physical copy of, you order it, and it gets to you. That would be a perfect scenario.\"",
+    "date": "Sun, 01 Nov 2026 17:45:12 +0000",
+    "link": "https://www.pcgamer.com/games/gog-wants-to-bring-back-physical-games-but-its-a-very-very-complicated-thing/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -269,15 +268,15 @@
   },
   {
     "id": 16,
-    "title": "Fanfiction Library of Alexandria AO3 down for up to a month following hack",
+    "title": "Valve's long-lost prototype Portal prequel appears online after nearly 20 years",
     "source": "PC Gamer",
-    "summary": "Just uncalled-for.",
-    "date": "Sat, 31 Oct 2026 21:11:46 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month-following-hack/",
+    "summary": "F-Stop was a result of a post-Orange Box, 2007 Valve game jam.",
+    "date": "Sun, 01 Nov 2026 17:44:47 +0000",
+    "link": "https://www.pcgamer.com/games/fps/valves-long-lost-prototype-portal-prequel-appears-online-after-nearly-20-years/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.08,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
