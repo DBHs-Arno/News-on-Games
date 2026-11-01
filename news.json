@@ -72,6 +72,23 @@
   },
   {
     "id": 5,
+    "title": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
+    "source": "Eurogamer",
+    "summary": "Pikmin 4 Nintendo Switch 2 Edition will launch on 12th November, bundled with a new mode called Dandori Academy. Read more...",
+    "date": "Sun, 01 Nov 2026 10:04:13 +0000",
+    "link": "https://www.eurogamer.net/pikmin-4-switch-2-edition-release-date-demo",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.32,
+      "badge": "success"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
     "title": "PUBG live-action series in the works at Netflix, with Donald Glover set to direct and star",
     "source": "Eurogamer",
     "summary": "PUBG is being turned into a live-action series for Netflix, with Donald Glover set to direct, write, executive produce, and star. Read more...",
@@ -89,7 +106,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families",
     "source": "Eurogamer",
     "summary": "Activision has apologised to the bereaved families of the Itaewon crowd crush victims and confirmed it will remove real footage of the tragedy from Call of Duty: Modern Warfare 4. Read more...",
@@ -107,7 +124,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week",
     "source": "Eurogamer",
     "summary": "Final Fantasy 14's next expansion, Evercold, will launch on 23rd February 2027, and its second new job is zephyr, a physical ranged DPS that fights with a crossbow and a bird. Read more...",
@@ -125,66 +142,12 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "Silent Hill: Townfall adds new Hard difficulty in latest update",
-    "source": "Eurogamer",
-    "summary": "Silent Hill: Townfall has added a new Hard difficulty mode and rebalanced every existing setting to make room for it. Read more...",
-    "date": "Sat, 31 Oct 2026 13:53:19 +0000",
-    "link": "https://www.eurogamer.net/silent-hill-townfall-hard-mode-update",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 9,
-    "title": "All 8 Dungeon Crawler Carl Books Ranked (by Their Goodreads Score)",
+    "title": "Dungeons & Dragons Turned Hansel and Gretel Into a Near-Perfect Adventure",
     "source": "Polygon",
-    "summary": "Matt Dinniman's hit LitRPG series keeps raising the stakes, but which Dungeon Crawler Carl book ranks highest?",
-    "date": "Sun, 01 Nov 2026 04:00:17 GMT",
-    "link": "https://www.polygon.com/every-dungeon-crawler-carl-book-ranked-by-their-goodreads-score/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Patrick Stewart's Perfect 'Simpsons' Episode Reveals the Beloved Actor's Secret Weapon",
-    "source": "Polygon",
-    "summary": "Sir Patrick Stewart is being remembered for Star Trek and X-Men, but he was also the perfect guest star on The Simpsons",
-    "date": "Sun, 01 Nov 2026 03:00:17 GMT",
-    "link": "https://www.polygon.com/patrick-stewart-the-simpsons-guest-star/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.57,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "10 Video Games With the Best Twist Endings Nobody Saw Coming",
-    "source": "Polygon",
-    "summary": "From Spec Ops: The Line to Link’s Awakening, these 10 video games have the best twist endings, with reveals that recast everything before them.",
-    "date": "Sun, 01 Nov 2026 01:00:17 GMT",
-    "link": "https://www.polygon.com/best-video-game-twist-endings/",
+    "summary": "A delicious one-shot sends players to a candy cottage",
+    "date": "Sun, 01 Nov 2026 12:31:50 GMT",
+    "link": "https://www.polygon.com/dragon-delves-hansel-gretel/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 1.0,
@@ -197,15 +160,51 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "Andy Weir's New Time-Travel Sci-fi Thriller Officially Arrives Nov. 5",
+    "id": 10,
+    "title": "Netflix's Near-Perfect Thriller With 94% Rotten Tomatoes Score Is Getting Cut From Streaming",
     "source": "Polygon",
-    "summary": "The Andy Weir-produced Audible Original story Exoplanet stars Anthony Mackie, Ariana DeBose, and John Leguizamo.",
-    "date": "Sat, 31 Oct 2026 23:09:24 GMT",
-    "link": "https://www.polygon.com/andy-weir-benjamin-percy-exoplanet-sci-fi-audiobook/",
+    "summary": "Two eccentric teenagers cross paths and embark on a road trip to remember.",
+    "date": "Sun, 01 Nov 2026 12:00:17 GMT",
+    "link": "https://www.polygon.com/best-dark-comedy-show-comic-book-adaptation/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "7 Near-Perfect Prime Video Sci-Fi Shows that Hook You in the First Scene",
+    "source": "Polygon",
+    "summary": "Sci-fi comes in all flavors, including ones that are addictive.",
+    "date": "Sun, 01 Nov 2026 12:00:17 GMT",
+    "link": "https://www.polygon.com/prime-video-sci-fi-near-perfect-first-scene/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.26,
+      "score": 0.12,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "6 Perfect 'Peanuts' Comics from the 1960s that Prove Charles Schulz is a Genius",
+    "source": "Polygon",
+    "summary": "The best decade for Charles Schulz's Peanuts comic strip was the 1960s — here are six perfect comics which prove it.",
+    "date": "Sun, 01 Nov 2026 11:00:17 GMT",
+    "link": "https://www.polygon.com/best-peanuts-comics-1960s/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.81,
       "badge": "success"
     },
     "tags": [
@@ -216,6 +215,24 @@
   },
   {
     "id": 13,
+    "title": "Forza co-creator Dan Greenawalt is reportedly leaving Microsoft",
+    "source": "PC Gamer",
+    "summary": "Another nail in Motorsport's coffin.",
+    "date": "Sun, 01 Nov 2026 04:05:48 +0000",
+    "link": "https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
     "title": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'",
     "source": "PC Gamer",
     "summary": "Structural perfection.",
@@ -233,7 +250,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'",
     "source": "PC Gamer",
     "summary": "The reason and timeline for restoration were not disclosed.",
@@ -251,7 +268,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "Fanfiction Library of Alexandria AO3 down for up to a month following hack",
     "source": "PC Gamer",
     "summary": "Just uncalled-for.",
@@ -261,24 +278,6 @@
       "label": "Neutral / Informative",
       "score": -0.08,
       "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
-    "source": "PC Gamer",
-    "summary": "The volunteer team is seeking pro bono legal aid.",
-    "date": "Sat, 31 Oct 2026 20:29:22 +0000",
-    "link": "https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
     },
     "tags": [
       "Gaming",
