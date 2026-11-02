@@ -1,244 +1,104 @@
 [
   {
     "id": 1,
-    "title": "Zach Cregger Was 'Frustrated' the Conversation Around Resident Evil 'Didn't Have Anything to Do With the Movie'",
+    "title": "Google Has a Cool The Legend of Zelda: Ocarina of Time Easter Egg That Transports Us Back to the 1998 Era of Search Results",
     "source": "IGN",
-    "summary": "Horror filmmaker Zach Cregger has explained why he was \"frustrated\" that much of the conversation around his Resident Evil film \"didn't have anything to do with the movie.\"",
-    "date": "Mon, 2 Nov 2026 03:05:35 +0000",
-    "link": "https://www.ign.com/articles/zach-cregger-was-frustrated-the-conversation-around-resident-evil-didnt-have-anything-to-do-with-the-movie",
+    "summary": "Google just got a The Legend of Zelda: Ocarina of Time Easter egg that transports you back to the 1998 version of the search engine — complete with blue links for results.",
+    "date": "Mon, 2 Nov 2026 12:35:13 +0000",
+    "link": "https://www.ign.com/articles/zelda-ocarina-of-time-google-easter-egg",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.64,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Clayface Comes in Second to You Can See Everything at the Domestic Box Office on Halloween Weekend",
+    "title": "Elon Musk Joins Growing Backlash Over OpenAI Sam Altman's RAM Comments",
     "source": "IGN",
-    "summary": "Clayface has come in second at the domestic box office on the Halloween weekend as audiences continue to show up for Elizabeth Holmes documentary You Can See Everything.",
-    "date": "Sun, 1 Nov 2026 23:27:45 +0000",
-    "link": "https://www.ign.com/articles/clayface-comes-in-second-to-you-can-see-everything-at-the-domestic-box-office-on-halloween-weekend",
+    "summary": "Elon Musk has joined the growing backlash over OpenAI CEO Sam Altman's recent comments on RAM.",
+    "date": "Mon, 2 Nov 2026 12:18:49 +0000",
+    "link": "https://www.ign.com/articles/elon-musk-joins-growing-backlash-over-openai-sam-altmans-ram-comments",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "The Best Deals Today: Gears of War: E-Day, Apple Watch Ultra 4, Star Wars Zero Company, and More",
+    "title": "Speedrunner Breaks Super Mario Bros. World Record While Dressed as the Italian Plumber, Now Just 2 Frames From Theoretical Perfect Run",
     "source": "IGN",
-    "summary": "",
-    "date": "Sun, 1 Nov 2026 23:24:23 +0000",
-    "link": "https://www.ign.com/articles/best-deals-for-november-1-2026",
+    "summary": "Niftski, the speedrunning world record holder for Super Mario Bros., beat his own record on a Halloween livestream while dressed as Mario. Speaking in character, he said: “Hopefully I don’t get this today because that would be very stupid.” Guess what?",
+    "date": "Mon, 2 Nov 2026 11:14:58 +0000",
+    "link": "https://www.ign.com/articles/niftski-breaks-super-mario-bros-world-record",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.75,
+      "score": 0.18,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Heat Director Michael Mann Hospitalized After Accidentally Shooting Himself in the Leg",
+    "title": "Film Company Wants to Hypnotize People So They Can Watch Classic Movies for the First Time Again",
     "source": "IGN",
-    "summary": "Heat director Michael Mann was hospitalized with minor injuries after accidentally shooting himself in the leg at a Los Angeles gun range on Halloween.",
-    "date": "Sun, 1 Nov 2026 19:02:24 +0000",
-    "link": "https://www.ign.com/articles/heat-director-michael-mann-hospitalized-after-accidentally-shooting-himself-in-the-leg",
+    "summary": "French film production and distribution company Pathé is performing an experiment to see if it can wipe classic movies from people’s minds and let them experience them afresh.",
+    "date": "Mon, 2 Nov 2026 10:48:08 +0000",
+    "link": "https://www.ign.com/articles/french-film-company-hypnotize-people-classic-movies-for-first-time",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
-    "title": "At Dead of Night sequel The Great Hugo is coming \"(very) soon\"",
+    "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities",
     "source": "Eurogamer",
-    "summary": "Baggy Cat Games, the team behind viral FMV horror game At Dead Of Night, has confirmed that a sequel is \"coming (very) soon\". Read more...",
-    "date": "Sun, 01 Nov 2026 18:16:20 +0000",
-    "link": "https://www.eurogamer.net/at-dead-of-night-2-the-great-hugo-sequel-announced",
+    "summary": "An update to Anthropic's Claude AI software has seemingly blocked the creation of outright clones or copies of existing games. Instead, Claude has been altered to only create \"original\" games. Read more...",
+    "date": "Mon, 02 Nov 2026 14:29:41 +0000",
+    "link": "https://www.eurogamer.net/anthropic-claude-generative-ai-game-clones-update",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 6,
-    "title": "Modern Warfare 4 on Switch 2 has much worse input lag than PS5",
+    "title": "Over a decade later, Bloodborne remains so popular it reportedly sold a quarter of a million copies this year alone",
     "source": "Eurogamer",
-    "summary": "Call of Duty: Modern Warfare 4 on Switch 2 has noticeably worse input lag than on PS5, which could put Nintendo players at a disadvantage in multiplayer. Read more...",
-    "date": "Sun, 01 Nov 2026 17:27:29 +0000",
-    "link": "https://www.eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Footage of a Persona 1 remake has seemingly leaked online",
-    "source": "Eurogamer",
-    "summary": "Almost two minutes of footage from what appears to be a remake of the original Persona has leaked online. Read more...",
-    "date": "Sun, 01 Nov 2026 16:35:17 +0000",
-    "link": "https://www.eurogamer.net/persona-1-remake-be-your-true-mind-leak",
+    "summary": "Bloodborne, FromSoftware's singular Lovecraftian action-RPG, has reportedly sold more than 251,000 copies this year alone. Read more...",
+    "date": "Mon, 02 Nov 2026 13:35:31 +0000",
+    "link": "https://www.eurogamer.net/bloodborne-251-000-sales-in-2016-ps4",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.44,
+      "score": 0.4,
       "badge": "success"
-    },
-    "tags": [
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Dune: Awakening's free Blood and Ice expansion swaps sand for snow on 1st December",
-    "source": "Eurogamer",
-    "summary": "Funcom's survival MMO Dune: Awakening is heading north with a free expansion that trades the deserts of Arrakis for a frozen new map. Read more...",
-    "date": "Sun, 01 Nov 2026 13:44:34 +0000",
-    "link": "https://www.eurogamer.net/dune-awakening-blood-and-ice-free-expansion",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.36,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "Quentin Tarantino’s First New Movie in 7 Years Officially Arrives in Theaters Next Month",
-    "source": "Polygon",
-    "summary": "The Once Upon a Time in Hollywood universe returns with a new crime thriller from David Fincher and Quentin Tarantino, arriving on Netflix next month.",
-    "date": "Mon, 02 Nov 2026 04:00:17 GMT",
-    "link": "https://www.polygon.com/quentin-tarantino-the-further-mis-adventures-of-cliff-booth-release-date/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.1,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "10 Best BG3 NPCs Fans Still Want To Join The Party All These Years Later",
-    "source": "Polygon",
-    "summary": "The best BG3 NPCs are still unable to join your Baldur's Gate 3 party, but fans have wanted them to be party members for years.",
-    "date": "Mon, 02 Nov 2026 03:44:35 GMT",
-    "link": "https://www.polygon.com/bg3-best-npcs/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.38,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "10 Best Classic Shooters That Are So Good They Never Need A Remake",
-    "source": "Polygon",
-    "summary": "The best classic shooters of the 2000s were perfect two decades ago, and don't need a remake in 2026.",
-    "date": "Mon, 02 Nov 2026 03:23:27 GMT",
-    "link": "https://www.polygon.com/best-classic-shooters/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.67,
-      "badge": "success"
-    },
-    "tags": [
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Penguin Colony was made to 'put the games industry on notice'",
-    "source": "Polygon",
-    "summary": "Why the Xbox boycott and Palestinian crisis fuel Penguin Colony, a penguin adventure game set among Lovecraft's horrors.",
-    "date": "Mon, 02 Nov 2026 01:00:17 GMT",
-    "link": "https://www.polygon.com/penguin-colony-interview-development/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Footage of what sure looks like a Persona 1 remake has leaked",
-    "source": "PC Gamer",
-    "summary": "Is that you, Boy With Earring?",
-    "date": "Mon, 02 Nov 2026 02:06:50 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/footage-of-what-sure-looks-like-a-persona-1-remake-has-leaked/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Obsidian's Josh Sawyer on RPG cities: 'Compared to a dungeon, generally speaking, a town is 4x the expense per square foot'",
-    "source": "PC Gamer",
-    "summary": "It's these freaking zoning laws, man.",
-    "date": "Mon, 02 Nov 2026 01:39:58 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/obsidians-josh-sawyer-on-rpg-cities-compared-to-a-dungeon-generally-speaking-a-town-is-4x-the-expense-per-square-foot/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
     },
     "tags": [
       "RPG"
@@ -246,110 +106,250 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "Here's one bit of good news for Mass Effect: modders are bringing the multiplayer mode to Mass Effect Legendary Edition",
-    "source": "PC Gamer",
-    "summary": "\"Enemies still active, stay alert.\"",
-    "date": "Mon, 02 Nov 2026 01:19:58 +0000",
-    "link": "https://www.pcgamer.com/games/mass-effect/heres-one-bit-of-good-news-for-mass-effect-modders-are-bringing-the-multiplayer-mode-to-mass-effect-legendary-edition/",
+    "id": 7,
+    "title": "\"We're doing great,\" says id Software boss, despite losing \"about half of our studio\" amid devastating Xbox cuts",
+    "source": "Eurogamer",
+    "summary": "Iconic Doom and Quake developer id Software was among the most heavily impacted Microsoft-owned studios during Xbox CEO Asha Sharma's devastating business \"reset\" earlier this year, with around 136 employees reportedly losing their jobs. Read more...",
+    "date": "Mon, 02 Nov 2026 12:12:11 +0000",
+    "link": "https://www.eurogamer.net/id-software-doing-great-losing-half-the-studio",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Soulframe to launch into free open beta this week, as Warframe devs go head-to-head with WoW: Forever",
+    "source": "Eurogamer",
+    "summary": "Soulframe's Preludes (its own version of a beta) is finally opening its doors to the whole world ahead of the Verse of the Veilands update. Starting this week, anyone who wants to can simply download the game and hop in, no invite required. Read more...",
+    "date": "Mon, 02 Nov 2026 11:17:46 +0000",
+    "link": "https://www.eurogamer.net/soulframe-open-prelude-date-verse-of-the-veillands",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.52,
+      "score": 0.15,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "Star Wars Zero Company’s Cast Talks About That Huge Order 66 Moment",
+    "source": "Polygon",
+    "summary": "Star Wars Zero Company has a huge Order 66 moment. Polygon chatted with three cast members about it as well as the game's director.",
+    "date": "Mon, 02 Nov 2026 14:00:17 GMT",
+    "link": "https://www.polygon.com/star-wars-zero-company-order-66-interview/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.13,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "BioWare Fan Creates a Graveyard of Shut Down Studios at EA Offices",
+    "source": "Polygon",
+    "summary": "This Halloween, the gaming community mourned the loss of beloved IPs and studios discontinued by EA.",
+    "date": "Mon, 02 Nov 2026 13:28:32 GMT",
+    "link": "https://www.polygon.com/bioware-ea-shut-down-studios-graveyard/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.27,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "23 Years Later, Gandalf’s Greatest Lord of the Rings Line Is Still the Wisest Quote in Fantasy History",
+    "source": "Polygon",
+    "summary": "Ian McKellen solidified Gandalf as a cinematic icon in Peter Jackson's 'The Lord of the Rings' trilogy. But what is the wizard's greatest line?",
+    "date": "Mon, 02 Nov 2026 12:00:18 GMT",
+    "link": "https://www.polygon.com/lord-of-the-ring-gandalf-greatest-quote/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Yakuza Creator's Studio Officially Shuts Down After Backers Desert It",
+    "source": "Polygon",
+    "summary": "Nagoshi Studio, founded by Like a Dragon/Ryu Ga Gotoku creator Toshihiro Nagoshi, and its game Gang of Dragon are no more",
+    "date": "Mon, 02 Nov 2026 11:25:24 GMT",
+    "link": "https://www.polygon.com/nagoshi-studio-shuts-down-yakuza-gang-of-dragon/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.27,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "After 500 hours in Monster Train 2, its final faction of bondage angels is teaching me new ways to win",
+    "source": "PC Gamer",
+    "summary": "The Punished, coming soon to the outstanding deckbuilder, draw their power from self-flagellation.",
+    "date": "Mon, 02 Nov 2026 14:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/card-games/monster-train-2-the-punished-review/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.36,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Ray tracing memory usage could be reduced by up to 90% thanks to 'most significant' DirectX update",
+    "source": "PC Gamer",
+    "summary": "Potentially getting much more out of existing hardware is nothing to sniff at.",
+    "date": "Mon, 02 Nov 2026 13:38:24 +0000",
+    "link": "https://www.pcgamer.com/hardware/memory/ray-tracing-memory-usage-could-be-reduced-by-up-to-90-percent-thanks-to-most-significant-directx-update/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.32,
+      "badge": "success"
+    },
+    "tags": [
+      "Ray Tracing"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Arc Raiders devs have used a music sample 'from a piano in Chernobyl' that someone had discovered in the Forbidden Zone",
+    "source": "PC Gamer",
+    "summary": "\"A lot of the sounds in the game are quite unique.\"",
+    "date": "Mon, 02 Nov 2026 13:35:31 +0000",
+    "link": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-devs-have-used-a-music-sample-from-a-piano-in-chernobyl-that-someone-had-discovered-in-the-forbidden-zone/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Jagex partnered with a RuneScape-inspired idle game to turn the sequel into an official spinoff",
+    "title": "Valve's Steam Frame has taken a spot in the top ten most popular VR headsets on Steam",
     "source": "PC Gamer",
-    "summary": "Melvor Idle 2 has gained a subtitle: A RuneScape Adventure.",
-    "date": "Sun, 01 Nov 2026 18:41:29 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/jagex-partnered-with-a-runescape-inspired-idle-game-to-turn-the-sequel-into-an-official-spinoff/",
+    "summary": "The Quest 3 still holds a significant lead, though.",
+    "date": "Mon, 02 Nov 2026 13:26:24 +0000",
+    "link": "https://www.pcgamer.com/hardware/vr-hardware/valves-steam-frame-has-taken-a-spot-in-the-top-ten-most-popular-vr-headsets-on-steam/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
-    "title": "EA Just Shelved A Mysterious Sims Project—That Could Be Good News For Players",
+    "title": "Resident Evil Director Reacts To Backlash: “I Should Have Known Better”",
     "source": "GameSpot",
-    "summary": "It's been another rough year for video games, with countless studio closures, staff layoffs, and projects that barely managed to even get off the ground before they were unceremoniously cut short. But things are feeling especially grim after EA trotted out two beloved franchises--Mass Effect and Dra...",
-    "date": "Fri, 30 Oct 2026 16:46:06 +0000",
-    "link": "https://www.gamespot.com/articles/ea-just-shelved-a-mysterious-sims-project-that-could-be-good-news-for-players/",
+    "summary": "Resident Evil is a huge success at the box office, recently surpassing $400 million globally. It's also received fantastic review scores. But hardcore fans of the game series took issue with the film and its direction because it did not contain any storylines or characters from the source material. ...",
+    "date": "Mon, 02 Nov 2026 14:06:33 +0000",
+    "link": "https://www.gamespot.com/articles/resident-evil-director-reacts-to-backlash-i-should-have-known-better/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.04,
+      "score": -0.09,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 18,
-    "title": "CoD: Modern Warfare To Cut Real-Life Korean Tragedy Segment After Backlash",
+    "title": "Here Are The Highest-Grossing Resident Evil Movies Ever, And The New One Is Now No. 1",
     "source": "GameSpot",
-    "summary": "Publisher Activision has responded to criticism over using a devastating tragedy in Call of Duty: Modern Warfare 4, saying that the incident will be removed from the military shooter in a November 12 update.\nThe Seoul Halloween crowd crush occurred in October 2022 in Itaewon. Approximately 100,000 p...",
-    "date": "Fri, 30 Oct 2026 16:42:23 +0000",
-    "link": "https://www.gamespot.com/articles/cod-modern-warfare-to-cut-real-life-korean-tragedy-segment-after-backlash/",
+    "summary": "Zach Cregger's Resident Evil movie got solid reviews and is making a lot of money at the box office, but where does it rank on the list of highest-grossing Resident Evil movies? Following its debut in China, it's now No. 1 overall with more than $399 million globally.\nDirector Paul W.S. Anderson mad...",
+    "date": "Thu, 08 Oct 2026 16:00:32 +0000",
+    "link": "https://www.gamespot.com/articles/here-are-the-highest-grossing-resident-evil-movies-ever-and-the-new-one-isnt-no-1/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.22,
+      "score": -0.34,
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 19,
-    "title": "Phantom Blade Zero’s Lead Voice Actor Was Seemingly Replaced At The Last Minute",
+    "title": "Dave Bautista Is Looking More Like Kratos After Packing On 20 Pounds Of Muscle",
     "source": "GameSpot",
-    "summary": "There's a new voice behind the protagonist of Soul in Phantom Blade Zero, and it's none other than Sonic the Hedgehog--or his longtime voice actor, Roger Craig Smith, to be precise.\nAs spotted by Game Informer, Smith has stepped in to replace Jay Maksenuk (V in Once Human). You can still hear the la...",
-    "date": "Fri, 30 Oct 2026 16:21:48 +0000",
-    "link": "https://www.gamespot.com/articles/phantom-blade-zero-lead-voice-actor-was-seemingly-replaced-at-the-last-minute/",
+    "summary": "With filming set to resume soon on Prime Video's God of War series, 55-year-old actor Dave Bautista revealed in an Instagram Story that he's packed on a beefy 20 pounds of muscle for the role of Kratos, bringing his weight to 250 pounds. While it's not the first time Bautista has bulked up for a rol...",
+    "date": "Mon, 02 Nov 2026 13:16:51 +0000",
+    "link": "https://www.gamespot.com/articles/dave-bautista-is-looking-more-like-kratos-after-packing-on-20-pounds-of-muscle/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.06,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.32,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "New Assassin’s Creed Game Is Out Now, If You Don’t Mind Being Board",
+    "title": "Xbox Game Pass Is Losing 14 Games In November",
     "source": "GameSpot",
-    "summary": "If you thought there wasn't going to be a new Assassin's Creed game this year, think again. It's not a video game, but Assassin's Creed: Animus is out today, turning the series into an adventure-style board game for 1-4 players. \nA competitive game that pits players against each other as they explor...",
-    "date": "Fri, 30 Oct 2026 15:54:30 +0000",
-    "link": "https://www.gamespot.com/articles/new-assassins-creed-game-is-out-now-if-you-dont-mind-being-board/",
+    "summary": "It's the start of a new month, which means new additions and departures on Xbox Game Pass. To kick off November, 14 games are being removed from the Game Pass library soon, including several simulators, one longrunning Dragon Ball game, and one of the greatest James Bond adventures of all time--at l...",
+    "date": "Mon, 02 Nov 2026 13:15:46 +0000",
+    "link": "https://www.gamespot.com/articles/xbox-game-pass-is-losing-14-games-in-november/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.23,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.04,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Xbox"
     ],
     "read_time": "1 min read"
   }
