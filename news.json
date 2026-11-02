@@ -1,6 +1,60 @@
 [
   {
     "id": 1,
+    "title": "Zach Cregger Was 'Frustrated' the Conversation Around Resident Evil 'Didn't Have Anything to Do With the Movie'",
+    "source": "IGN",
+    "summary": "Horror filmmaker Zach Cregger has explained why he was \"frustrated\" that much of the conversation around his Resident Evil film \"didn't have anything to do with the movie.\"",
+    "date": "Mon, 2 Nov 2026 03:05:35 +0000",
+    "link": "https://www.ign.com/articles/zach-cregger-was-frustrated-the-conversation-around-resident-evil-didnt-have-anything-to-do-with-the-movie",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.64,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Clayface Comes in Second to You Can See Everything at the Domestic Box Office on Halloween Weekend",
+    "source": "IGN",
+    "summary": "Clayface has come in second at the domestic box office on the Halloween weekend as audiences continue to show up for Elizabeth Holmes documentary You Can See Everything.",
+    "date": "Sun, 1 Nov 2026 23:27:45 +0000",
+    "link": "https://www.ign.com/articles/clayface-comes-in-second-to-you-can-see-everything-at-the-domestic-box-office-on-halloween-weekend",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "The Best Deals Today: Gears of War: E-Day, Apple Watch Ultra 4, Star Wars Zero Company, and More",
+    "source": "IGN",
+    "summary": "",
+    "date": "Sun, 1 Nov 2026 23:24:23 +0000",
+    "link": "https://www.ign.com/articles/best-deals-for-november-1-2026",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.75,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
     "title": "Heat Director Michael Mann Hospitalized After Accidentally Shooting Himself in the Leg",
     "source": "IGN",
     "summary": "Heat director Michael Mann was hospitalized with minor injuries after accidentally shooting himself in the leg at a Los Angeles gun range on Halloween.",
@@ -12,61 +66,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "Taika Waititi Blasts Critics as 'Irrelevant, Out of Touch, Obsolete' Following Klara and the Sun's Negative Reviews",
-    "source": "IGN",
-    "summary": "Marvel filmmaker Taika Waititi has called critics \"sad lost souls who couldn't achieve their dreams\" after his latest film, Klara and the Sun, premiered with negative reviews.",
-    "date": "Sun, 1 Nov 2026 17:50:21 +0000",
-    "link": "https://www.ign.com/articles/taika-waititi-blasts-critics-as-irrelevant-out-of-touch-obsolete-following-klara-and-the-suns-negative-reviews",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.18,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
-    "source": "IGN",
-    "summary": "",
-    "date": "Sun, 1 Nov 2026 17:38:30 +0000",
-    "link": "https://www.ign.com/articles/petit-planet-switch-2-release-date",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.2,
-      "badge": "danger"
-    },
-    "tags": [
-      "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Robert Downey Jr. and Pedro Pascal Swap Places for Halloween With Mister Fantastic and Doctor Doom Costumes",
-    "source": "IGN",
-    "summary": "Halloween had no shortage of viral costumes, but Robert Downey Jr. and Pedro Pascal might have taken the crown by swapping places as Mister Fantastic and Doctor Doom.",
-    "date": "Sun, 1 Nov 2026 16:12:09 +0000",
-    "link": "https://www.ign.com/articles/robert-downey-jr-and-pedro-pascal-swap-places-for-halloween-with-mister-fantastic-and-doctor-doom-costumes",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -83,8 +84,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -135,85 +136,135 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "5 Classic Nintendo Games That Are So Good They Never Need a Remake",
+    "title": "Quentin Tarantino’s First New Movie in 7 Years Officially Arrives in Theaters Next Month",
     "source": "Polygon",
-    "summary": "Remakes and remasters are all the rage, but five classics from Nintendo are good enough that no one ever needs to bother trying to improve them.",
-    "date": "Sun, 01 Nov 2026 21:00:17 GMT",
-    "link": "https://www.polygon.com/classic-nintendo-games-no-remake-needed/",
+    "summary": "The Once Upon a Time in Hollywood universe returns with a new crime thriller from David Fincher and Quentin Tarantino, arriving on Netflix next month.",
+    "date": "Mon, 02 Nov 2026 04:00:17 GMT",
+    "link": "https://www.polygon.com/quentin-tarantino-the-further-mis-adventures-of-cliff-booth-release-date/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.39,
+      "score": 0.1,
       "badge": "success"
     },
     "tags": [
-      "Remake",
-      "Nintendo"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "How to get the Pirate Shop Access Token in Fortnite Chapter 7 mini season",
+    "title": "10 Best BG3 NPCs Fans Still Want To Join The Party All These Years Later",
     "source": "Polygon",
-    "summary": "The Pirate Shop Access Token lets you get anything for free in Fortnite Chapter 7 mini season. Here's how to get it and what you can buy.",
-    "date": "Sun, 01 Nov 2026 20:18:04 GMT",
-    "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-pirate-shop-access-token-free-how-to-get/",
+    "summary": "The best BG3 NPCs are still unable to join your Baldur's Gate 3 party, but fans have wanted them to be party members for years.",
+    "date": "Mon, 02 Nov 2026 03:44:35 GMT",
+    "link": "https://www.polygon.com/bg3-best-npcs/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.4,
+      "score": 0.38,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "All map fragment locations in the Fortnite Chapter 7 mini season",
+    "title": "10 Best Classic Shooters That Are So Good They Never Need A Remake",
     "source": "Polygon",
-    "summary": "Here's where to find all the currently available map fragments in Fortnite's Chapter 7 mini season.",
-    "date": "Sun, 01 Nov 2026 20:11:49 GMT",
-    "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations/",
+    "summary": "The best classic shooters of the 2000s were perfect two decades ago, and don't need a remake in 2026.",
+    "date": "Mon, 02 Nov 2026 03:23:27 GMT",
+    "link": "https://www.polygon.com/best-classic-shooters/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.4,
+      "score": 0.67,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Remake"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "Pokémon Go 'Halloween 2026 Part 2' event guide",
+    "title": "Penguin Colony was made to 'put the games industry on notice'",
     "source": "Polygon",
-    "summary": "Here's all the bonuses and perks for Pokémon Go's \"Halloween 2026 Part 2\" event, which includes the debut of shiny Greavard.",
-    "date": "Sun, 01 Nov 2026 19:09:33 GMT",
-    "link": "https://www.polygon.com/pokemon-go-halloween-2026-part-2-event-shiny-greavard/",
+    "summary": "Why the Xbox boycott and Palestinian crisis fuel Penguin Colony, a penguin adventure game set among Lovecraft's horrors.",
+    "date": "Mon, 02 Nov 2026 01:00:17 GMT",
+    "link": "https://www.polygon.com/penguin-colony-interview-development/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
+    "title": "Footage of what sure looks like a Persona 1 remake has leaked",
+    "source": "PC Gamer",
+    "summary": "Is that you, Boy With Earring?",
+    "date": "Mon, 02 Nov 2026 02:06:50 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/footage-of-what-sure-looks-like-a-persona-1-remake-has-leaked/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Obsidian's Josh Sawyer on RPG cities: 'Compared to a dungeon, generally speaking, a town is 4x the expense per square foot'",
+    "source": "PC Gamer",
+    "summary": "It's these freaking zoning laws, man.",
+    "date": "Mon, 02 Nov 2026 01:39:58 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/obsidians-josh-sawyer-on-rpg-cities-compared-to-a-dungeon-generally-speaking-a-town-is-4x-the-expense-per-square-foot/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Here's one bit of good news for Mass Effect: modders are bringing the multiplayer mode to Mass Effect Legendary Edition",
+    "source": "PC Gamer",
+    "summary": "\"Enemies still active, stay alert.\"",
+    "date": "Mon, 02 Nov 2026 01:19:58 +0000",
+    "link": "https://www.pcgamer.com/games/mass-effect/heres-one-bit-of-good-news-for-mass-effect-modders-are-bringing-the-multiplayer-mode-to-mass-effect-legendary-edition/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.52,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
     "title": "Jagex partnered with a RuneScape-inspired idle game to turn the sequel into an official spinoff",
     "source": "PC Gamer",
     "summary": "Melvor Idle 2 has gained a subtitle: A RuneScape Adventure.",
@@ -225,62 +276,8 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Grand Theft Auto 6 teased a handful of its upcoming radio stations and its music curation is as strong as ever",
-    "source": "PC Gamer",
-    "summary": "I can already picture my late-night Leonida drives to these bangers.",
-    "date": "Sun, 01 Nov 2026 18:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-teased-a-handful-of-its-upcoming-radio-stations-and-its-music-curation-is-as-strong-as-ever/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.47,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "GOG wants to bring back physical games, but it's 'a very, very complicated thing'",
-    "source": "PC Gamer",
-    "summary": "\"You click on the game that you would like to receive a physical copy of, you order it, and it gets to you. That would be a perfect scenario.\"",
-    "date": "Sun, 01 Nov 2026 17:45:12 +0000",
-    "link": "https://www.pcgamer.com/games/gog-wants-to-bring-back-physical-games-but-its-a-very-very-complicated-thing/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Valve's long-lost prototype Portal prequel appears online after nearly 20 years",
-    "source": "PC Gamer",
-    "summary": "F-Stop was a result of a post-Orange Box, 2007 Valve game jam.",
-    "date": "Sun, 01 Nov 2026 17:44:47 +0000",
-    "link": "https://www.pcgamer.com/games/fps/valves-long-lost-prototype-portal-prequel-appears-online-after-nearly-20-years/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -297,8 +294,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -315,8 +312,8 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -333,8 +330,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -351,8 +348,8 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
