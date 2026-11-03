@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "'Friendslop' Added to the Collins Dictionary, Beaten to Word of the Year by 'Mogging'",
+    "title": "Get the Sony WH-1000XM5 Noise Canceling Wireless Headphones for Just $128 Ahead of Black Friday",
     "source": "IGN",
-    "summary": "Friendslop has been mogged hard by mogging. Friendslop is chopped, and mogging is sigma. It’s cooked, and mogging has been hard mewing in its looksmaxxing era. One is sus and the other is farming aura.",
-    "date": "Tue, 3 Nov 2026 11:42:36 +0000",
-    "link": "https://www.ign.com/articles/friendslop-added-to-collins-dictionary",
+    "summary": "The best noise canceling over-ear headphones under $150.",
+    "date": "Tue, 3 Nov 2026 21:50:00 +0000",
+    "link": "https://www.ign.com/articles/sony-wh1000xm5-noise-canceling-wireless-headphone-deal-november-2026",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.24,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.42,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -19,49 +19,15 @@
   },
   {
     "id": 2,
-    "title": "South of Midnight Creative Director Would Have Turned Off Xbox 'Money Tap' Earlier, Says Funding Was 'Unsustainable'",
+    "title": "Amazon's Black Friday Audible Deal Is Now Live: Pay $0.99 Per Month Plus Get $20 Credit",
     "source": "IGN",
-    "summary": "David Sears, creative director of South of Midnight, said in a recent interview that he was always worried about the previous era of Xbox's infamous development funding \"money tap,\" and admitted he would probably have turned it off earlier.",
-    "date": "Tue, 3 Nov 2026 11:36:08 +0000",
-    "link": "https://www.ign.com/articles/south-of-midnight-creative-director-wouldnt-have-funded-the-game",
+    "summary": "Both Amazon Prime and non-Prime members, new and previous subscribers are eligible.",
+    "date": "Tue, 3 Nov 2026 21:40:00 +0000",
+    "link": "https://www.ign.com/articles/amazon-early-black-friday-audible-deal-2026",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.05,
+      "score": -0.02,
       "badge": "info"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "The Legend of Zelda: Ocarina of Time Remake Global Release Times",
-    "source": "IGN",
-    "summary": "The Legend of Zelda: Ocarina of Time remake is just days away, and we have the global release times so you can plan for when you can play in your timezone.",
-    "date": "Tue, 3 Nov 2026 10:33:07 +0000",
-    "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-global-release-times",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Bass X Machina Episode 1 Review",
-    "source": "IGN",
-    "summary": "Review: Netflix's Bass X Machina revisits the legend of Deputy U.S. Marshal Bass Reeves, adding a steampunk twist to what is essentially an origin story for this version of the lawman.",
-    "date": "Tue, 3 Nov 2026 08:01:00 +0000",
-    "link": "https://www.ign.com/articles/bass-x-machina-episode-1-review-netflix",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.11,
-      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -70,34 +36,68 @@
     "read_time": "1 min read"
   },
   {
-    "id": 5,
-    "title": "Indie game website itch.io expands its AI disclosure filter as 'AI slop' continues to overwhelm Steam and other storefronts",
-    "source": "Eurogamer",
-    "summary": "Indie game storefront itch.io has expanded its AI disclosure filters, allowing its users to better separate games made with the controversial technology from those who don't. Read more...",
-    "date": "Tue, 03 Nov 2026 12:03:56 +0000",
-    "link": "https://www.eurogamer.net/itchio-generative-ai-filters-slop",
+    "id": 3,
+    "title": "Bride Goes Viral After Challenging Groom to Beat Her at Valorant Before Marrying Her",
+    "source": "IGN",
+    "summary": "A bride in China is going viral for giving her husband-to-be a wild challenge: making him beat her at Valorant before they could officially marry.",
+    "date": "Tue, 3 Nov 2026 21:38:03 +0000",
+    "link": "https://www.ign.com/articles/bride-goes-viral-after-challenging-groom-to-beat-her-at-valorant-before-marrying-her",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
     },
     "tags": [
-      "Steam",
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "The 2026 55\" LG Evo C6 4K OLED TV Drops to Black Friday Pricing Plus Get a Free Xbox Controller",
+    "source": "IGN",
+    "summary": "The best gaming TV paired with one of the best gaming controllers.",
+    "date": "Tue, 3 Nov 2026 21:35:00 +0000",
+    "link": "https://www.ign.com/articles/lg-evo-c6-4k-oled-tv-deal-free-xbox-controller-october-2026",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.56,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Arc Raiders devs say that using generative AI voice acting was necessary as actors \"would just go crazy if they had to read all of that\"",
+    "source": "Eurogamer",
+    "summary": "Developers at Embark Studios, the company behind Arc Raiders, have spoken on the use of generative AI voice acting in the extraction shooter. It's argued that the initial use of generative AI line reads was a benefit to the voice actors, as they: \"would just go crazy if they had to read all of that\"...",
+    "date": "Tue, 03 Nov 2026 15:34:03 +0000",
+    "link": "https://www.eurogamer.net/arc-raiders-ai-voice-acting-would-go-crazy",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.23,
+      "badge": "danger"
+    },
+    "tags": [
       "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 6,
-    "title": "It looks like Call of Duty: Modern Warfare 4 had fewer active players at launch in the US compared to last year's Black Ops 7",
+    "title": "Grand Theft Auto 6 pre-load begins on 10th November, file size and regional timings released",
     "source": "Eurogamer",
-    "summary": "It's been speculated for a while that Call of Duty may be losing its lustre. Although we don't have concrete data with detailed statistics for each game released in the last several years, there's an observable trend in player numbers that's hard to ignore. Read more...",
-    "date": "Tue, 03 Nov 2026 11:22:41 +0000",
-    "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-player-engagement-black-ops-7",
+    "summary": "Rockstar Games have revealed the pre-load date and time for Grand Theft Auto 6. You better be prepared to clear out some storage space, and burn the midnight oil. Read more...",
+    "date": "Tue, 03 Nov 2026 15:26:02 +0000",
+    "link": "https://www.eurogamer.net/grand-theft-auto-6-pre-load-date",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.42,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -107,81 +107,79 @@
   },
   {
     "id": 7,
-    "title": "Remedy revenue soars by 226% following release of Control Resonant, the developer's fastest-selling game ever",
+    "title": "The Elder Scrolls 6: Sentinel is confirmed, finally getting new trailer and full name, 8 years, 4 months, and 23 days after its reveal",
     "source": "Eurogamer",
-    "summary": "Remedy - the developer behind the recently released Control Resonant - has released a scorcher of a quarterly financial report. It shows that following Resonant's release in September, the company's revenue surged by 226 percent, bringing in €39.6m in Q3. Read more...",
-    "date": "Tue, 03 Nov 2026 09:56:48 +0000",
-    "link": "https://www.eurogamer.net/control-resonant-remedy-revenue-leaps",
+    "summary": "Today, Xbox and Bethesda have finally revealed the name and more information about The Elder Scrolls 6. The game, which we now know carries the subtitle Sentinel, was revealed in a special video that took place today, 3rd November 2026, almost exactly 15 years since the launch of The Elder Scrolls 5...",
+    "date": "Tue, 03 Nov 2026 15:08:07 +0000",
+    "link": "https://www.eurogamer.net/the-elder-scrolls-6-sentinel-revealed-bethesda-xbox",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.04,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 8,
-    "title": "Days Gone studio's next PlayStation exclusive to be revealed and released in 2027, according to new report",
+    "title": "COD: Modern Warfare 4 DMZ patch has nerfed UAV Towers so you're not immediately visible everywhere you go",
     "source": "Eurogamer",
-    "summary": "Sony's Bend Studio, perhaps one of its lesser discussed development houses, has apparently been deep in development on its next title. The game is reportedly set to be announced in 2027, and released in the same year. Read more...",
-    "date": "Tue, 03 Nov 2026 09:18:39 +0000",
-    "link": "https://www.eurogamer.net/sony-bend-studio-next-playstation-game-2027",
+    "summary": "The Call of Duty: Modern Warfare 4 patches continue, with the latest delivering some big changes to the game's extraction mode DMZ. The latest hotfix introduced a key balance change to one of DMZ's most controversial mechanics: UAV Towers. Read more...",
+    "date": "Tue, 03 Nov 2026 13:36:19 +0000",
+    "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-uav-tower-nerf",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.26,
+      "badge": "success"
     },
     "tags": [
-      "PlayStation"
+      "Patch"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "2026’s Best RPG Is Finally on Consoles Just in Time for GOTY Season",
+    "title": "Xbox Game Pass November 2026 Lineup Announced",
     "source": "Polygon",
-    "summary": "Zero Parades: For Dead Spies is now available on consoles, giving players a second chance to try ZA/UM's brilliant Disco Elysium follow-up.",
-    "date": "Tue, 03 Nov 2026 13:00:17 GMT",
-    "link": "https://www.polygon.com/zero-parades-directors-cut-switch-2-ps5-xbox-release/",
+    "summary": "Escape Academy 2 and Warhammer Survivors headline Microsoft's latest Xbox Game Pass additions arriving in November.",
+    "date": "Tue, 03 Nov 2026 22:28:30 GMT",
+    "link": "https://www.polygon.com/xbox-game-pass-escape-academy-2-warhammer-survivors-november-2026/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.35,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.1,
+      "badge": "danger"
     },
     "tags": [
-      "RPG"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Zach Cregger's Resident Evil Is Officially Coming Home",
+    "title": "Ubisoft Makes Bid to Purchase Xbox Studio on the Brink of Closure",
     "source": "Polygon",
-    "summary": "Whether you're looking to rent or buy, Cregger's gore-fest masterpiece Resident Evil has finally arrived.",
-    "date": "Tue, 03 Nov 2026 12:23:18 GMT",
-    "link": "https://www.polygon.com/zach-creggers-resident-evil-sci-fi-horror-thriller-vod-digital/",
+    "summary": "Ubisoft and other companies have reportedly made offers to buy Arkane from Xbox, which is looking to divest from the Marvel's Blade studio.",
+    "date": "Tue, 03 Nov 2026 22:26:18 GMT",
+    "link": "https://www.polygon.com/ubisoft-xbox-arkane-studios-dishonored-blade/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.67,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.01,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "'VisionQuest' Star Officially Breaks Silence on Her Character's Avengers Movie Future",
+    "title": "Mass Effect Fans Are Trying to Make This N7 Day the Biggest One Ever",
     "source": "Polygon",
-    "summary": "VisionQuest star Lauren Morais gives an interview about playing Coat of Arms / Lisa Molinari",
-    "date": "Tue, 03 Nov 2026 12:00:18 GMT",
-    "link": "https://www.polygon.com/visionquest-lauren-morais-interview/",
+    "summary": "Mass Effect fans are asking players on every platform to boot up the games together on Saturday, Nov. 7, from 2 to 5 p.m. ET, for N7 Day",
+    "date": "Tue, 03 Nov 2026 21:40:53 GMT",
+    "link": "https://www.polygon.com/mass-effect-n7-day-fans-play-together/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -195,31 +193,14 @@
   },
   {
     "id": 12,
-    "title": "WoW: Forever Makes Every Class More Powerful in Last-Minute Change",
+    "title": "DC Studios Has Officially Cast Its New Robin",
     "source": "Polygon",
-    "summary": "Blizzard has revealed the final patch notes for World of Warcraft: Forever before its Nov. 4 release date, based on beta feedback",
-    "date": "Tue, 03 Nov 2026 11:48:05 GMT",
-    "link": "https://www.polygon.com/wow-world-of-warcraft-forever-1-0-patch-class-changes/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.22,
-      "badge": "success"
-    },
-    "tags": [
-      "Patch"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Upcoming Final Fantasy 14 update should massively cut down on dungeon queue times",
-    "source": "PC Gamer",
-    "summary": "Region queueing's open for business.",
-    "date": "Tue, 03 Nov 2026 11:47:55 +0000",
-    "link": "https://www.pcgamer.com/games/mmo/upcoming-final-fantasy-14-update-should-massively-cut-down-on-dungeon-queue-times/",
+    "summary": "DC has cast Mason Thames (How to Train Your Dragon) as one of the Robins in its upcoming animated movie Dynamic Duo.",
+    "date": "Tue, 03 Nov 2026 21:13:45 GMT",
+    "link": "https://www.polygon.com/dc-studios-cast-robin-dynamic-duo-movie/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.04,
+      "score": 0.07,
       "badge": "info"
     },
     "tags": [
@@ -229,16 +210,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
-    "title": "Users pull $3.6 bn from Binance as it reopens following $6.3 billion mega-hack - FBI says North Korean hacking group 'TraderTraitor' to blame, North Korea says nuh-uh",
+    "id": 13,
+    "title": "Ubisoft reportedly wants to buy Arkane from Xbox",
     "source": "PC Gamer",
-    "summary": "Plenty of users still happy to deposit their funds into the cryptocurrency exchange nevertheless.",
-    "date": "Tue, 03 Nov 2026 10:54:30 +0000",
-    "link": "https://www.pcgamer.com/software/security/users-pull-usd3-6-bn-from-binance-as-it-reopens-following-usd6-3-billion-mega-hack-fbi-says-north-korean-hacking-group-tradertraitor-to-blame-north-korea-says-nuh-uh/",
+    "summary": "There might be hope for Arkane after all: A new report says multiple companies have made offers for it.",
+    "date": "Tue, 03 Nov 2026 22:12:35 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/ubisoft-reportedly-wants-to-buy-arkane-from-xbox/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.4,
+      "score": 0.11,
       "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Control Resonant is Remedy's fastest-selling game to date, tripling the studio's quarterly revenue",
+    "source": "PC Gamer",
+    "summary": "Countless sickos of a certain vintage just breathed sighs of relief.",
+    "date": "Tue, 03 Nov 2026 21:54:41 +0000",
+    "link": "https://www.pcgamer.com/games/action/control-resonant-is-remedys-fastest-selling-game-to-date-tripling-the-studios-quarterly-revenue/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.06,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -248,14 +246,31 @@
   },
   {
     "id": 15,
-    "title": "Queen's Domain might be the best game like Metroid Prime since Metroid Prime",
+    "title": "Crowning the greatest FPS mode of all time through 1v1 combat—SEMIFINALS!",
     "source": "PC Gamer",
-    "summary": "Immediate must-buy.",
-    "date": "Mon, 02 Nov 2026 22:41:29 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/queens-domain-might-be-the-best-game-like-metroid-prime-since-metroid-prime/",
+    "summary": "Battle royale is dead. Bomb be gone. It only gets harder from here...",
+    "date": "Tue, 03 Nov 2026 19:41:04 +0000",
+    "link": "https://www.pcgamer.com/games/fps/crowning-the-greatest-fps-mode-of-all-time-through-1v1-combat-semifinals/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.3,
+      "score": 0.18,
+      "badge": "success"
+    },
+    "tags": [
+      "FPS"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "The Elder Scrolls 6 is still a long way off, Bethesda warns: 'It'll be some time before we're ready to share more'",
+    "source": "PC Gamer",
+    "summary": "The waiting ain't over yet.",
+    "date": "Tue, 03 Nov 2026 19:27:07 +0000",
+    "link": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-still-a-long-way-off-bethesda-warns-itll-be-some-time-before-were-ready-to-share-more/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.22,
       "badge": "success"
     },
     "tags": [
@@ -265,52 +280,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "Enshrouded 1.0 review",
-    "source": "PC Gamer",
-    "summary": "The fog of war clears around Embervale, revealing a survival crafting masterpiece.",
-    "date": "Mon, 02 Nov 2026 21:47:58 +0000",
-    "link": "https://www.pcgamer.com/games/survival-crafting/enshrouded-1-0-review/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 17,
-    "title": "GOG Wants To Bring Back Physical PC Games, But There’s A Catch",
+    "title": "This Custom Xbox-Inside-An-Alligator Console Is Actually One Big Ad For GTA 6",
     "source": "GameSpot",
-    "summary": "While PlayStation 5 console owners are preparing for a discless future, PC gamers have been living in all-digital world for decades now. The advent of Steam and cheaper broadband internet helped end physical PC game sales in the early 2000s, but GOG is dreaming up a future where these games can thri...",
-    "date": "Tue, 03 Nov 2026 13:14:54 +0000",
-    "link": "https://www.gamespot.com/articles/gog-wants-to-bring-back-physical-pc-games-but-theres-a-catch/",
+    "summary": "Given that Sony holds the marketing rights for Grand Theft Auto 6, Microsoft has had to get creative to promote the open-world crime game for Xbox--and the company's latest effort in that department goes big.\nSay Hello to the X-Bite, a playable Xbox Series X console that was designed to look like it...",
+    "date": "Tue, 03 Nov 2026 21:22:30 +0000",
+    "link": "https://www.gamespot.com/articles/this-custom-xbox-inside-an-alligator-console-is-actually-one-big-ad-for-gta-6/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "Steam",
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "Former Xbox Exec Shares Her Side Of The Story After Mysterious Depature",
-    "source": "GameSpot",
-    "summary": "Helen Chiang, the veteran Xbox staffer who got promoted in July and left the company amid mysterious circumstances just recently, has shared her side of the story--but her response doesn't close the book on this saga.\nIn a LinkedIn post titled \"Clarity is Kindess,\" which itself is a reference to her...",
-    "date": "Mon, 02 Nov 2026 20:16:26 +0000",
-    "link": "https://www.gamespot.com/articles/former-xbox-exec-shares-her-side-of-the-story-after-mysterious-depature/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
     },
     "tags": [
       "Xbox"
@@ -318,37 +297,54 @@
     "read_time": "1 min read"
   },
   {
-    "id": 19,
-    "title": "When Is Resident Evil Coming To Home Video? It Could Be Very Soon",
+    "id": 18,
+    "title": "WoW: Forever Shamans Are Protesting Class Changes After Being “Completely Ignored”",
     "source": "GameSpot",
-    "summary": "Zach Cregger's Resident Evil movie crushed it at the box office, banking more than $400 million globally to become the most successful entry in the series ever. When will the film be available to watch at home, though? \nAccording to Fandango, the home video release is set for November 3. That's appa...",
-    "date": "Mon, 02 Nov 2026 17:26:02 +0000",
-    "link": "https://www.gamespot.com/articles/the-new-resident-evil-movie-will-be-available-to-watch-at-home-november-3-report/",
+    "summary": "World of Warcraft: Forever just received a massive batch of class-balance updates ahead of launch that have boosted power across the board, but one group of players isn't happy with the changes: Shamans.\nDeveloper Blizzard recently released Forever's launch patch notes based on feedback and data acc...",
+    "date": "Tue, 03 Nov 2026 19:54:31 +0000",
+    "link": "https://www.gamespot.com/articles/wow-forever-shamans-are-protesting-class-changes-after-being-completely-ignored/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Patch"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "WoW: Forever Won’t Get More Class Balance Changes Any Time Soon",
+    "source": "GameSpot",
+    "summary": "World of Warcraft: Forever is gearing up for launch with some major class balance changes, but don't expect any more for at least a month.\nAs detailed in Forever's launch patch notes, Blizzard is making some dramatic class changes, including major reworks to Rogue and Paladin talents, in time for re...",
+    "date": "Tue, 03 Nov 2026 19:31:30 +0000",
+    "link": "https://www.gamespot.com/articles/wow-forever-wont-get-more-class-balance-changes-any-time-soon/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "Patch"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "Phantom Blade Zero Put Up Some Massive Sales Numbers",
+    "title": "GTA 6 Is Getting A Physical Map–Here’s How To Get One For Free Or Very Cheap",
     "source": "GameSpot",
-    "summary": "Developer S-Game's action-RPG Phantom Blade Zero launched on October 29 and had a massive start across PC and PS5. \nThe game sold more than 4 million copies over its first 72 hours. That works out to 926 units sold per minute or about 15.4 per second over the first three days. \n\"Thank you everyone f...",
-    "date": "Mon, 02 Nov 2026 16:41:44 +0000",
-    "link": "https://www.gamespot.com/articles/phantom-blade-zero-put-up-some-massive-sales-numbers/",
+    "summary": "Rockstar Games has confirmed more details about Grand Theft Auto 6's impending release on November 19, including more information about physical goodies. While the game itself won't be available on a disc, Rockstar is offering a printable physical GTA 6 cover art poster and a map of the game's setti...",
+    "date": "Tue, 03 Nov 2026 19:28:46 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-is-getting-a-physical-map-heres-how-to-get-one-for-free-or-very-cheap/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
     },
     "tags": [
-      "RPG"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
