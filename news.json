@@ -1,72 +1,71 @@
 [
   {
     "id": 1,
-    "title": "Get the Sony WH-1000XM5 Noise Canceling Wireless Headphones for Just $128 Ahead of Black Friday",
+    "title": "Marvel's VisionQuest Episode 7 Review: 'Immolation'",
     "source": "IGN",
-    "summary": "The best noise canceling over-ear headphones under $150.",
-    "date": "Tue, 3 Nov 2026 21:50:00 +0000",
-    "link": "https://www.ign.com/articles/sony-wh1000xm5-noise-canceling-wireless-headphone-deal-november-2026",
+    "summary": "Paul Bettany proves he can chew scenery with the best of the MCU in the compelling penultimate episode of VisionQuest. Read our full review.",
+    "date": "Wed, 4 Nov 2026 02:00:00 +0000",
+    "link": "https://www.ign.com/articles/marvels-visionquest-episode-7-review-immolation",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.42,
+      "score": 0.49,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Amazon's Black Friday Audible Deal Is Now Live: Pay $0.99 Per Month Plus Get $20 Credit",
+    "title": "James Bond Casting History: How Media Covered Past 007 Reveals",
     "source": "IGN",
-    "summary": "Both Amazon Prime and non-Prime members, new and previous subscribers are eligible.",
-    "date": "Tue, 3 Nov 2026 21:40:00 +0000",
-    "link": "https://www.ign.com/articles/amazon-early-black-friday-audible-deal-2026",
+    "summary": "“Sean Connery, chosen to play Bond on the screen, had better be good.” November 3 marks the 65th anniversary of the announcement of Sean Connery’s casting as the big screen’s first James Bond – and it turns out people were complaining about Bond casting even back then.",
+    "date": "Wed, 4 Nov 2026 01:10:48 +0000",
+    "link": "https://www.ign.com/articles/how-media-covered-james-bond-casting-history",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.02,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Bride Goes Viral After Challenging Groom to Beat Her at Valorant Before Marrying Her",
+    "title": "SCUF Gaming's Early Black Friday Sale Takes Up to 25% Off Professional-Grade Xbox and PC Controllers",
     "source": "IGN",
-    "summary": "A bride in China is going viral for giving her husband-to-be a wild challenge: making him beat her at Valorant before they could officially marry.",
-    "date": "Tue, 3 Nov 2026 21:38:03 +0000",
-    "link": "https://www.ign.com/articles/bride-goes-viral-after-challenging-groom-to-beat-her-at-valorant-before-marrying-her",
+    "summary": "Elite in form AND function.",
+    "date": "Tue, 3 Nov 2026 23:30:00 +0000",
+    "link": "https://www.ign.com/articles/scuf-gaming-early-black-friday-sale-2026",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "The 2026 55\" LG Evo C6 4K OLED TV Drops to Black Friday Pricing Plus Get a Free Xbox Controller",
+    "title": "007 First Light Gets Free Trial For Select PlayStation Plus Subscribers",
     "source": "IGN",
-    "summary": "The best gaming TV paired with one of the best gaming controllers.",
-    "date": "Tue, 3 Nov 2026 21:35:00 +0000",
-    "link": "https://www.ign.com/articles/lg-evo-c6-4k-oled-tv-deal-free-xbox-controller-october-2026",
+    "summary": "Select PlayStation Plus subscribers can try 007 First Light for free via a new trial.",
+    "date": "Tue, 3 Nov 2026 23:24:08 +0000",
+    "link": "https://www.ign.com/articles/007-first-light-gets-free-trial-for-select-playstation-plus-subscribers",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.56,
+      "score": 0.32,
       "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
@@ -100,8 +99,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -141,6 +140,60 @@
   },
   {
     "id": 9,
+    "title": "GTA 5’s Unsolvable Mystery Broke Fans for Over a Decade, and GTA 6 Should Do It Again",
+    "source": "Polygon",
+    "summary": "GTA 5's Mount Chiliad holds a mystery that some fans think still hasn't been solved, and GTA 6 should include something similar.",
+    "date": "Wed, 04 Nov 2026 04:00:17 GMT",
+    "link": "https://www.polygon.com/gta-5-mount-chiliad-mystery-unsolvable-broke-fans/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "'It Follows' Star Officially Addresses Her Return to Another Iconic 2010s Thriller Franchise",
+    "source": "Polygon",
+    "summary": "In a new interview, Maika Monroe addressed whether or not she'd return for a sequel to one of her most beloved movies.",
+    "date": "Wed, 04 Nov 2026 01:00:17 GMT",
+    "link": "https://www.polygon.com/the-guest-2-maika-monroe-interview/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.46,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "The Wendy’s JRPG Is a Searing Anti-Capitalist Screed About Humans Making Real Art",
+    "source": "Polygon",
+    "summary": "WendyQuest, also known as the \"Wendy's JRPG,\" is developed by the very real humans at 81Monkeys, known for the in-progress World of Anterra.",
+    "date": "Tue, 03 Nov 2026 23:00:17 GMT",
+    "link": "https://www.polygon.com/wendyquest-81monkeys-interview-wendys-jrpg/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.19,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
     "title": "Xbox Game Pass November 2026 Lineup Announced",
     "source": "Polygon",
     "summary": "Escape Academy 2 and Warhammer Survivors headline Microsoft's latest Xbox Game Pass additions arriving in November.",
@@ -157,60 +210,60 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "Ubisoft Makes Bid to Purchase Xbox Studio on the Brink of Closure",
-    "source": "Polygon",
-    "summary": "Ubisoft and other companies have reportedly made offers to buy Arkane from Xbox, which is looking to divest from the Marvel's Blade studio.",
-    "date": "Tue, 03 Nov 2026 22:26:18 GMT",
-    "link": "https://www.polygon.com/ubisoft-xbox-arkane-studios-dishonored-blade/",
+    "id": 13,
+    "title": "Bethesda's associate art director really did try to fit 7,000 actual steps into Skyrim's 7,000 Steps: 'I take no responsibility for the Frost Troll'",
+    "source": "PC Gamer",
+    "summary": "\"See that mountain? You can overanalyze it.\"",
+    "date": "Wed, 04 Nov 2026 00:18:41 +0000",
+    "link": "https://www.pcgamer.com/games/the-elder-scrolls/bethesdas-associate-art-director-really-did-try-to-fit-7-000-actual-steps-into-skyrims-7-000-steps-i-take-no-responsibility-for-the-frost-troll/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.01,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 11,
-    "title": "Mass Effect Fans Are Trying to Make This N7 Day the Biggest One Ever",
-    "source": "Polygon",
-    "summary": "Mass Effect fans are asking players on every platform to boot up the games together on Saturday, Nov. 7, from 2 to 5 p.m. ET, for N7 Day",
-    "date": "Tue, 03 Nov 2026 21:40:53 GMT",
-    "link": "https://www.polygon.com/mass-effect-n7-day-fans-play-together/",
+    "id": 14,
+    "title": "Valve admits it's 'running behind' on approving Steam games because it has to keep re-reviewing them, which surely has nothing to do with AI",
+    "source": "PC Gamer",
+    "summary": "As wishlisted games miss their release dates, Valve creates a new checklist to help devs get it right the first time.",
+    "date": "Tue, 03 Nov 2026 23:51:13 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
+    },
+    "tags": [
+      "AI",
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Google criticized by NYC mayor Zohran Mamdani following AI policy change: 'Google is trying to use its monopoly power to force AI into our public schools'",
+    "source": "PC Gamer",
+    "summary": "Mamdani and others have called out Google's decision to disable search functionality for schools who opt out of its AI tools.",
+    "date": "Tue, 03 Nov 2026 22:58:03 +0000",
+    "link": "https://www.pcgamer.com/software/ai/google-criticized-by-nyc-mayor-zohran-mamdani-following-ai-policy-change-google-is-trying-to-use-its-monopoly-power-to-force-ai-into-our-public-schools/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "DC Studios Has Officially Cast Its New Robin",
-    "source": "Polygon",
-    "summary": "DC has cast Mason Thames (How to Train Your Dragon) as one of the Robins in its upcoming animated movie Dynamic Duo.",
-    "date": "Tue, 03 Nov 2026 21:13:45 GMT",
-    "link": "https://www.polygon.com/dc-studios-cast-robin-dynamic-duo-movie/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
+    "id": 16,
     "title": "Ubisoft reportedly wants to buy Arkane from Xbox",
     "source": "PC Gamer",
     "summary": "There might be hope for Arkane after all: A new report says multiple companies have made offers for it.",
@@ -223,59 +276,6 @@
     },
     "tags": [
       "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Control Resonant is Remedy's fastest-selling game to date, tripling the studio's quarterly revenue",
-    "source": "PC Gamer",
-    "summary": "Countless sickos of a certain vintage just breathed sighs of relief.",
-    "date": "Tue, 03 Nov 2026 21:54:41 +0000",
-    "link": "https://www.pcgamer.com/games/action/control-resonant-is-remedys-fastest-selling-game-to-date-tripling-the-studios-quarterly-revenue/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Crowning the greatest FPS mode of all time through 1v1 combat—SEMIFINALS!",
-    "source": "PC Gamer",
-    "summary": "Battle royale is dead. Bomb be gone. It only gets harder from here...",
-    "date": "Tue, 03 Nov 2026 19:41:04 +0000",
-    "link": "https://www.pcgamer.com/games/fps/crowning-the-greatest-fps-mode-of-all-time-through-1v1-combat-semifinals/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.18,
-      "badge": "success"
-    },
-    "tags": [
-      "FPS"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "The Elder Scrolls 6 is still a long way off, Bethesda warns: 'It'll be some time before we're ready to share more'",
-    "source": "PC Gamer",
-    "summary": "The waiting ain't over yet.",
-    "date": "Tue, 03 Nov 2026 19:27:07 +0000",
-    "link": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-still-a-long-way-off-bethesda-warns-itll-be-some-time-before-were-ready-to-share-more/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.22,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
     ],
     "read_time": "1 min read"
   },
@@ -343,8 +343,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
