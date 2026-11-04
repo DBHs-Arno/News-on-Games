@@ -1,85 +1,121 @@
 [
   {
     "id": 1,
-    "title": "Marvel's VisionQuest Episode 7 Review: 'Immolation'",
+    "title": "Rings of Power, Blade Runner 2099, and 8 More of Our Most Anticipated TV Shows and Movies Streaming in November",
     "source": "IGN",
-    "summary": "Paul Bettany proves he can chew scenery with the best of the MCU in the compelling penultimate episode of VisionQuest. Read our full review.",
-    "date": "Wed, 4 Nov 2026 02:00:00 +0000",
-    "link": "https://www.ign.com/articles/marvels-visionquest-episode-7-review-immolation",
+    "summary": "From a WWII football game to a Replicant revolt and the final season of Yellowjackets, here are our picks for what to stream this month.",
+    "date": "Wed, 4 Nov 2026 13:00:00 +0000",
+    "link": "https://www.ign.com/articles/rings-of-power-blade-runner-2099-most-anticipated-tv-shows-movies-streaming-in-november",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.49,
+      "score": 0.15,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "James Bond Casting History: How Media Covered Past 007 Reveals",
+    "title": "FromSoftware's Bloodborne Is Still Selling Hundreds of Thousands of Copies, Over a Decade After Launch",
     "source": "IGN",
-    "summary": "“Sean Connery, chosen to play Bond on the screen, had better be good.” November 3 marks the 65th anniversary of the announcement of Sean Connery’s casting as the big screen’s first James Bond – and it turns out people were complaining about Bond casting even back then.",
-    "date": "Wed, 4 Nov 2026 01:10:48 +0000",
-    "link": "https://www.ign.com/articles/how-media-covered-james-bond-casting-history",
+    "summary": "All FromSoftware games rule, but Bloodborne has the coolest vibes. Perhaps it shouldn't come as a surprise, then, that it's still selling hundreds of thousands of copies a year despite being over a decade old.",
+    "date": "Wed, 4 Nov 2026 12:41:38 +0000",
+    "link": "https://www.ign.com/articles/bloodborne-sold-250000-copies-2026",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "SCUF Gaming's Early Black Friday Sale Takes Up to 25% Off Professional-Grade Xbox and PC Controllers",
+    "title": "How Long Is The Legend of Zelda: Ocarina of Time Remake?",
     "source": "IGN",
-    "summary": "Elite in form AND function.",
-    "date": "Tue, 3 Nov 2026 23:30:00 +0000",
-    "link": "https://www.ign.com/articles/scuf-gaming-early-black-friday-sale-2026",
+    "summary": "You may think you know how long The Legend of Zelda: Ocarina of Time, but things have changed in the remake. Here's how many hours you'll need to spend with your Switch 2 to finish it.",
+    "date": "Wed, 4 Nov 2026 11:00:00 +0000",
+    "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-how-long-to-beat",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.13,
+      "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "Remake"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "007 First Light Gets Free Trial For Select PlayStation Plus Subscribers",
+    "title": "The Legend of Zelda: Ocarina of Time Review",
     "source": "IGN",
-    "summary": "Select PlayStation Plus subscribers can try 007 First Light for free via a new trial.",
-    "date": "Tue, 3 Nov 2026 23:24:08 +0000",
-    "link": "https://www.ign.com/articles/007-first-light-gets-free-trial-for-select-playstation-plus-subscribers",
+    "summary": "A beautiful retelling of a legend and a rich adventure that stands on its own.",
+    "date": "Wed, 4 Nov 2026 11:00:00 +0000",
+    "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-review-remake",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.32,
+      "score": 0.61,
       "badge": "success"
     },
     "tags": [
-      "PlayStation"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
-    "title": "Arc Raiders devs say that using generative AI voice acting was necessary as actors \"would just go crazy if they had to read all of that\"",
+    "title": "One of Nintendo's Switch and Switch 2 cartridge manufacturers is exiting the business, which could make physical games more expensive",
     "source": "Eurogamer",
-    "summary": "Developers at Embark Studios, the company behind Arc Raiders, have spoken on the use of generative AI voice acting in the extraction shooter. It's argued that the initial use of generative AI line reads was a benefit to the voice actors, as they: \"would just go crazy if they had to read all of that\"...",
-    "date": "Tue, 03 Nov 2026 15:34:03 +0000",
-    "link": "https://www.eurogamer.net/arc-raiders-ai-voice-acting-would-go-crazy",
+    "summary": "Macronix, longtime Nintendo hardware partner and one of the main producers of ROM memory, has announced it's leaving the business. ROM chips are key components in Switch and Switch 2 cartridges. Read more...",
+    "date": "Wed, 04 Nov 2026 13:34:57 +0000",
+    "link": "https://www.eurogamer.net/nintendo-switch-2-cartridge-macronix-ending-rom-manufacturing",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.23,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Halo and Destiny composer Marty O'Donnell loses his race for a seat in the US House of Representatives",
+    "source": "Eurogamer",
+    "summary": "Halo and Destiny composer Marty O'Donnell's political aspirations have hit a roadblock following last night's US mid-term elections. O'Donnell was campaigning for a seat in the US House of Representatives, running as a Republican candidate in Nevada's Third Congressional District, but is projected t...",
+    "date": "Wed, 04 Nov 2026 13:11:26 +0000",
+    "link": "https://www.eurogamer.net/halo-destiny-composer-martin-o-donnell-projected-lose-us-congress-race",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Nexus Mods introduces new AI disclosure rules, but won't ban AI mods outright",
+    "source": "Eurogamer",
+    "summary": "Nexus Mods, the largest website for finding and downloading PC mods, has revealed new guidelines aimed at properly identifying mods created entirely using gen-AI or those created with AI assistance. Read more...",
+    "date": "Wed, 04 Nov 2026 12:18:44 +0000",
+    "link": "https://www.eurogamer.net/nexus-mods-gen-ai-disclosure-rules",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
     },
     "tags": [
       "AI"
@@ -87,50 +123,122 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "Grand Theft Auto 6 pre-load begins on 10th November, file size and regional timings released",
+    "id": 8,
+    "title": "Dragon's Dogma 2 gets a timed collaboration with beloved anime and manga series Delicious in Dungeon, and it's out right now on PC, PlayStation and Xbox",
     "source": "Eurogamer",
-    "summary": "Rockstar Games have revealed the pre-load date and time for Grand Theft Auto 6. You better be prepared to clear out some storage space, and burn the midnight oil. Read more...",
-    "date": "Tue, 03 Nov 2026 15:26:02 +0000",
-    "link": "https://www.eurogamer.net/grand-theft-auto-6-pre-load-date",
+    "summary": "Have you ever seen - or read - the wonderful Dungeon Meshi (known in English as 'Delicious in Dungeon')? It's a phenomenal manga series written and illustrated by Ryoko Kui, which was adapted into an anime series produced by Trigger in 2024. Long story short, it's about a group of adventurers in a f...",
+    "date": "Wed, 04 Nov 2026 10:03:46 +0000",
+    "link": "https://www.eurogamer.net/dragons-dogma-2-dungeon-meshi-collaboration-out-now",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.42,
+      "score": 0.49,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "The Elder Scrolls 6: Sentinel is confirmed, finally getting new trailer and full name, 8 years, 4 months, and 23 days after its reveal",
-    "source": "Eurogamer",
-    "summary": "Today, Xbox and Bethesda have finally revealed the name and more information about The Elder Scrolls 6. The game, which we now know carries the subtitle Sentinel, was revealed in a special video that took place today, 3rd November 2026, almost exactly 15 years since the launch of The Elder Scrolls 5...",
-    "date": "Tue, 03 Nov 2026 15:08:07 +0000",
-    "link": "https://www.eurogamer.net/the-elder-scrolls-6-sentinel-revealed-bethesda-xbox",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
-    },
-    "tags": [
+      "PlayStation",
       "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "COD: Modern Warfare 4 DMZ patch has nerfed UAV Towers so you're not immediately visible everywhere you go",
-    "source": "Eurogamer",
-    "summary": "The Call of Duty: Modern Warfare 4 patches continue, with the latest delivering some big changes to the game's extraction mode DMZ. The latest hotfix introduced a key balance change to one of DMZ's most controversial mechanics: UAV Towers. Read more...",
-    "date": "Tue, 03 Nov 2026 13:36:19 +0000",
-    "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-uav-tower-nerf",
+    "id": 9,
+    "title": "D&D World of Warcraft Designer Learned From the Game’s Most Controversial Edition",
+    "source": "Polygon",
+    "summary": "D&D’s World of Warcraft expansion brings Azeroth to the tabletop without repeating 4th Edition’s mistakes, lead designer James Wyatt explains.",
+    "date": "Wed, 04 Nov 2026 12:59:50 GMT",
+    "link": "https://www.polygon.com/dungeons-dragons-world-warcraft-worldbuilding-interview/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.26,
+      "score": 0.22,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "The Zelda: Ocarina of Time Remake Is the Best-Reviewed Game of the Year by Far",
+    "source": "Polygon",
+    "summary": "Reviews for Nintendo's Switch 2 remake of Zelda: OoT are at 96 on Metacritic, with critics hailing the return of a masterpiece",
+    "date": "Wed, 04 Nov 2026 12:30:49 GMT",
+    "link": "https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake-switch-2-review-roundup/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
+    },
+    "tags": [
+      "Nintendo",
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "20 Years Later, Bong Joon-Ho Looks Back at His Sci-Fi Thriller Masterpiece: 'It Was a Very Tough Process'",
+    "source": "Polygon",
+    "summary": "The director of 'The Host' reveals the surprising influences behind his breakout monster movie",
+    "date": "Wed, 04 Nov 2026 12:00:18 GMT",
+    "link": "https://www.polygon.com/bong-joon-ho-the-host-4k-interview/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.04,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Netflix's Assassin's Creed Live-Action Series Officially Wraps Up Filming",
+    "source": "Polygon",
+    "summary": "Filming is now complete, and Assassin's Creed will soon return to screens in this upcoming Netflix production.",
+    "date": "Wed, 04 Nov 2026 11:13:13 GMT",
+    "link": "https://www.polygon.com/netflix-assassins-creed-live-action-filming-complete/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "AMD says it's going to beat Intel in total revenue for the very first time by the end of 2026",
+    "source": "PC Gamer",
+    "summary": "Intel's expecting to hit $15 - $16 billion for Q4 2026, while AMD is looking at an impressive $17 billion.",
+    "date": "Wed, 04 Nov 2026 12:40:51 +0000",
+    "link": "https://www.pcgamer.com/hardware/processors/amd-says-its-going-to-beat-intel-in-total-revenue-for-the-very-first-time-by-the-end-of-2026/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.44,
+      "badge": "success"
+    },
+    "tags": [
+      "AMD"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "WoW: Forever's massive pre-launch balance patch breaks from the chains Classic power, increasing 'the health of higher level creatures to compensate'",
+    "source": "PC Gamer",
+    "summary": "\"Those reductions left some iconic abilities feeling lackluster, and closed the door to other potentially exciting design options.\"",
+    "date": "Wed, 04 Nov 2026 11:45:45 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-massive-pre-launch-balance-patch-breaks-from-the-chains-classic-power-increasing-the-health-of-higher-level-creatures-to-compensate/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.12,
       "badge": "success"
     },
     "tags": [
@@ -139,78 +247,25 @@
     "read_time": "1 min read"
   },
   {
-    "id": 9,
-    "title": "GTA 5’s Unsolvable Mystery Broke Fans for Over a Decade, and GTA 6 Should Do It Again",
-    "source": "Polygon",
-    "summary": "GTA 5's Mount Chiliad holds a mystery that some fans think still hasn't been solved, and GTA 6 should include something similar.",
-    "date": "Wed, 04 Nov 2026 04:00:17 GMT",
-    "link": "https://www.polygon.com/gta-5-mount-chiliad-mystery-unsolvable-broke-fans/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "'It Follows' Star Officially Addresses Her Return to Another Iconic 2010s Thriller Franchise",
-    "source": "Polygon",
-    "summary": "In a new interview, Maika Monroe addressed whether or not she'd return for a sequel to one of her most beloved movies.",
-    "date": "Wed, 04 Nov 2026 01:00:17 GMT",
-    "link": "https://www.polygon.com/the-guest-2-maika-monroe-interview/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.46,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "The Wendy’s JRPG Is a Searing Anti-Capitalist Screed About Humans Making Real Art",
-    "source": "Polygon",
-    "summary": "WendyQuest, also known as the \"Wendy's JRPG,\" is developed by the very real humans at 81Monkeys, known for the in-progress World of Anterra.",
-    "date": "Tue, 03 Nov 2026 23:00:17 GMT",
-    "link": "https://www.polygon.com/wendyquest-81monkeys-interview-wendys-jrpg/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.19,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Xbox Game Pass November 2026 Lineup Announced",
-    "source": "Polygon",
-    "summary": "Escape Academy 2 and Warhammer Survivors headline Microsoft's latest Xbox Game Pass additions arriving in November.",
-    "date": "Tue, 03 Nov 2026 22:28:30 GMT",
-    "link": "https://www.polygon.com/xbox-game-pass-escape-academy-2-warhammer-survivors-november-2026/",
+    "id": 15,
+    "title": "Dodgy download and spoofed job ad led to $6.3 billion Binance hack: attacker offered fake software and fake job to infiltrate company wallets and steal billions",
+    "source": "PC Gamer",
+    "summary": "I'm feeling fresh appreciation for my company's mandatory cybersecurity awareness course.",
+    "date": "Wed, 04 Nov 2026 11:12:58 +0000",
+    "link": "https://www.pcgamer.com/software/security/dodgy-download-and-spoofed-job-ad-led-to-usd6-3-billion-binance-hack-attacker-offered-fake-software-and-fake-job-to-infiltrate-company-wallets-and-steal-billions/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.1,
+      "score": -0.23,
       "badge": "danger"
     },
     "tags": [
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 13,
+    "id": 16,
     "title": "Bethesda's associate art director really did try to fit 7,000 actual steps into Skyrim's 7,000 Steps: 'I take no responsibility for the Frost Troll'",
     "source": "PC Gamer",
     "summary": "\"See that mountain? You can overanalyze it.\"",
@@ -222,22 +277,56 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
-    "title": "Valve admits it's 'running behind' on approving Steam games because it has to keep re-reviewing them, which surely has nothing to do with AI",
-    "source": "PC Gamer",
-    "summary": "As wishlisted games miss their release dates, Valve creates a new checklist to help devs get it right the first time.",
-    "date": "Tue, 03 Nov 2026 23:51:13 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/",
+    "id": 17,
+    "title": "The Ocarina Of Time Remake Has Claimed 2026’s Review Crown, But GTA 6 Could Have Something To Say About It",
+    "source": "GameSpot",
+    "summary": "Reviews are in for The Legend of Zelda: Ocarina of Time remake, and they're pretty good so far. On GameSpot's sister site Metacritic, Ocarina of Time has a review aggregate score of 96 from 81 reviews, making it the highest-reviewed game of the year so far--and with only a few months to go, it might...",
+    "date": "Wed, 04 Nov 2026 13:26:05 +0000",
+    "link": "https://www.gamespot.com/articles/the-ocarina-of-time-remake-has-claimed-2026-review-crown-but-gta-6-could-have-something-to-say-about-it/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Ubisoft Could Be The Company That Keeps Marvel’s Blade Alive",
+    "source": "GameSpot",
+    "summary": "Time is running out for Arkane Lyon to find a buyer, but Ubisoft could acquire the Marvel's Blade developer, according to a new report. Arkane was one of several studios that Xbox divested itself of earlier this year, and while most of those developers have since gone on to become indie studios agai...",
+    "date": "Wed, 04 Nov 2026 13:21:14 +0000",
+    "link": "https://www.gamespot.com/articles/ubisoft-could-be-the-company-that-keeps-marvels-blade-alive/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.15,
+      "score": 0.12,
       "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "Steam Is Tightening Its Game Submission Rules As AI Slop Floods The Store",
+    "source": "GameSpot",
+    "summary": "Valve currently has a review backlog on Steam, as the mandatory QA check every game must pass before launch on the platform has reportedly seen wait times balloon from a few days to over two weeks. The problem appears to be a massive number of builds, thought to be AI slop, that fail basic technical...",
+    "date": "Wed, 04 Nov 2026 13:19:17 +0000",
+    "link": "https://www.gamespot.com/articles/steam-is-tightening-its-game-submission-rules-as-ai-slop-floods-the-store/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.19,
+      "badge": "danger"
     },
     "tags": [
       "AI",
@@ -246,105 +335,20 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "Google criticized by NYC mayor Zohran Mamdani following AI policy change: 'Google is trying to use its monopoly power to force AI into our public schools'",
-    "source": "PC Gamer",
-    "summary": "Mamdani and others have called out Google's decision to disable search functionality for schools who opt out of its AI tools.",
-    "date": "Tue, 03 Nov 2026 22:58:03 +0000",
-    "link": "https://www.pcgamer.com/software/ai/google-criticized-by-nyc-mayor-zohran-mamdani-following-ai-policy-change-google-is-trying-to-use-its-monopoly-power-to-force-ai-into-our-public-schools/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Ubisoft reportedly wants to buy Arkane from Xbox",
-    "source": "PC Gamer",
-    "summary": "There might be hope for Arkane after all: A new report says multiple companies have made offers for it.",
-    "date": "Tue, 03 Nov 2026 22:12:35 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/ubisoft-reportedly-wants-to-buy-arkane-from-xbox/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "This Custom Xbox-Inside-An-Alligator Console Is Actually One Big Ad For GTA 6",
-    "source": "GameSpot",
-    "summary": "Given that Sony holds the marketing rights for Grand Theft Auto 6, Microsoft has had to get creative to promote the open-world crime game for Xbox--and the company's latest effort in that department goes big.\nSay Hello to the X-Bite, a playable Xbox Series X console that was designed to look like it...",
-    "date": "Tue, 03 Nov 2026 21:22:30 +0000",
-    "link": "https://www.gamespot.com/articles/this-custom-xbox-inside-an-alligator-console-is-actually-one-big-ad-for-gta-6/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "WoW: Forever Shamans Are Protesting Class Changes After Being “Completely Ignored”",
-    "source": "GameSpot",
-    "summary": "World of Warcraft: Forever just received a massive batch of class-balance updates ahead of launch that have boosted power across the board, but one group of players isn't happy with the changes: Shamans.\nDeveloper Blizzard recently released Forever's launch patch notes based on feedback and data acc...",
-    "date": "Tue, 03 Nov 2026 19:54:31 +0000",
-    "link": "https://www.gamespot.com/articles/wow-forever-shamans-are-protesting-class-changes-after-being-completely-ignored/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "Patch"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "WoW: Forever Won’t Get More Class Balance Changes Any Time Soon",
-    "source": "GameSpot",
-    "summary": "World of Warcraft: Forever is gearing up for launch with some major class balance changes, but don't expect any more for at least a month.\nAs detailed in Forever's launch patch notes, Blizzard is making some dramatic class changes, including major reworks to Rogue and Paladin talents, in time for re...",
-    "date": "Tue, 03 Nov 2026 19:31:30 +0000",
-    "link": "https://www.gamespot.com/articles/wow-forever-wont-get-more-class-balance-changes-any-time-soon/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
-    },
-    "tags": [
-      "Patch"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 20,
-    "title": "GTA 6 Is Getting A Physical Map–Here’s How To Get One For Free Or Very Cheap",
+    "title": "Guild Wars Is Getting Its First New Expansion In Almost 20 Years",
     "source": "GameSpot",
-    "summary": "Rockstar Games has confirmed more details about Grand Theft Auto 6's impending release on November 19, including more information about physical goodies. While the game itself won't be available on a disc, Rockstar is offering a printable physical GTA 6 cover art poster and a map of the game's setti...",
-    "date": "Tue, 03 Nov 2026 19:28:46 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-is-getting-a-physical-map-heres-how-to-get-one-for-free-or-very-cheap/",
+    "summary": "ArenaNet may be hard at work on a new entry in the Guild Wars series, but it apparently won't stop it from releasing brand-new content for the 21-year-old original. Guild Wars Afterlife has just been announced, and it's a full paid expansion for Guild Wars arriving next January.\nExcitingly for old-s...",
+    "date": "Wed, 04 Nov 2026 10:39:48 +0000",
+    "link": "https://www.gamespot.com/articles/guild-wars-is-getting-its-first-new-expansion-in-almost-20-years/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.2,
+      "score": 0.15,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
