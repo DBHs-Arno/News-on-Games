@@ -1,31 +1,31 @@
 [
   {
     "id": 1,
-    "title": "Nintendo Rules Out Further Switch 2 Price Rises as Console Sales and Profit Fall",
+    "title": "G2 Esports Parts Ways With Head Coach Luka 'Perkz' Perković After His 'Tweet Bomb' Sparks Backlash",
     "source": "IGN",
-    "summary": "Nintendo has ruled out further Switch 2 price rises while reporting falling console sales and reduced profit.",
-    "date": "Thu, 5 Nov 2026 10:21:34 +0000",
-    "link": "https://www.ign.com/articles/nintendo-rules-out-further-switch-2-price-rises-as-console-sales-and-profit-fall",
+    "summary": "G2 Esports has parted ways with its head coach, Luka \"Perkz\" Perković, following divisive comments he made in a lengthy post on Twitter/X.",
+    "date": "Thu, 5 Nov 2026 20:57:48 +0000",
+    "link": "https://www.ign.com/articles/g2-esports-parts-ways-with-head-coach-luka-perkz-perkovi-after-his-tweet-bomb-sparks-backlash",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Nintendo"
+      "Esports"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Our Big Interview With Ocarina of Time Producers Eiji Aonuma and Hidemaro Fujibayashi",
+    "title": "There's a 'Fifty-Fifty' Chance Godzilla Minus Zero Director Takashi Yamazaki Would Make a Godzilla Threequel",
     "source": "IGN",
-    "summary": "The leaders of Zelda reflect on the series as they guide a new generation of developers.",
-    "date": "Thu, 5 Nov 2026 08:00:00 +0000",
-    "link": "https://www.ign.com/articles/our-big-interview-with-ocarina-of-time-producers-eiji-aonuma-and-hidemaro-fujibayashi",
+    "summary": "The ending of Godzilla Minus Zero leaves just enough room for a continuation of the story filmmaker Takashi Yamazaki has crafted, but the writer/director says he's split on whether or not he'd want to come back to it.",
+    "date": "Thu, 5 Nov 2026 20:54:53 +0000",
+    "link": "https://www.ign.com/articles/theres-a-fifty-fifty-chance-godzilla-minus-zero-director-takashi-yamazaki-would-make-a-godzilla-threequel",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.07,
+      "score": -0.05,
       "badge": "info"
     },
     "tags": [
@@ -36,32 +36,33 @@
   },
   {
     "id": 3,
-    "title": "The Legend of Zelda: Ocarina of Time Remake Full English Voice Cast Revealed",
+    "title": "Today’s Top Deals: The Blood of Dawnwalker for PS5, Apple AirPods 5,  SteelSeries Nova Pro Gaming Headset",
     "source": "IGN",
-    "summary": "The Legend of Zelda: Ocarina of Time remake is out now, and so we have confirmation of the full English voice cast for the first time.",
-    "date": "Thu, 5 Nov 2026 07:52:50 +0000",
-    "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-full-english-voice-cast-revealed",
+    "summary": "Plus, save on other gaming peripherals, Corsair DDR5 RAM, and more.",
+    "date": "Thu, 5 Nov 2026 20:50:00 +0000",
+    "link": "https://www.ign.com/articles/best-deals-for-november-5-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.19,
+      "score": 0.29,
       "badge": "success"
     },
     "tags": [
-      "Remake"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Adam Driver Confirms His Role in Heat 2, Comments on Recent Michael Mann Shooting",
+    "title": "It's Official: Marvel Has Finally Undone the Controversial Spider-Man - One More Day Storyline",
     "source": "IGN",
-    "summary": "Adam Driver Confirms His Role in Heat 2, Comments on Recent Michael Mann Shooting",
-    "date": "Thu, 5 Nov 2026 06:21:02 +0000",
-    "link": "https://www.ign.com/articles/adam-driver-confirms-his-role-in-heat-2-comments-on-recent-michael-mann-shooting",
+    "summary": "The day Spider-Man fans have been waiting 20 years for has finally arrived - Marvel Comics has undone the controversial Spider-Man: One More Day storyline.",
+    "date": "Thu, 5 Nov 2026 20:34:26 +0000",
+    "link": "https://www.ign.com/articles/marvel-controversial-spider-man-one-more-day-undone-mephisto",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.35,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -71,6 +72,59 @@
   },
   {
     "id": 5,
+    "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
+    "source": "Eurogamer",
+    "summary": "Rockstar Games have released 38 new screenshots of Grand Theft Auto 6, ahead of its release later this month. Read more...",
+    "date": "Thu, 05 Nov 2026 16:18:40 +0000",
+    "link": "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.32,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Nintendo says it isn't planning any more Switch 2 price hikes",
+    "source": "Eurogamer",
+    "summary": "Nintendo, which unveiled the results of the first half of its fiscal year 2027 earlier today, has now said it has access to enough quantities of memory to manufacture more Switch 2 consoles. Read more...",
+    "date": "Thu, 05 Nov 2026 14:59:30 +0000",
+    "link": "https://www.eurogamer.net/nintendo-switch-2-no-plans-for-more-price-hikes",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.23,
+      "badge": "success"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "World of Warcraft: Forever's seemingly stellar launch continues as it soars to the top of Twitch's most viewed games, beating out the likes of League of Legends and Zelda",
+    "source": "Eurogamer",
+    "summary": "World of Warcraft: Forever launched last night after a hugely successful beta, and it's not just players getting in on the fun. Blizzard's MMO is also proving quite the attraction for spectators, soaring all the way up to the top of Twitch's most viewed games. Read more...",
+    "date": "Thu, 05 Nov 2026 14:57:50 +0000",
+    "link": "https://www.eurogamer.net/world-of-warcraft-forever-launch-twitch-most-viewed",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.42,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
     "title": "Mass Effect petition has enough signatures for the Canadian Government to potentially save BioWare",
     "source": "Eurogamer",
     "summary": "Following news of EA's decision to shut down iconic RPG studio BioWare, Canadian fans of the studio have escalated their grievances to the governmental level, calling on the Canadian Government to step in and save the Canadian studio from closure, seemingly after Canada's New Democratic Party leader...",
@@ -87,135 +141,12 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "Nintendo game sales surge thanks to Tomodachi Life: Living the Dream, but Switch 2 hardware suffers big decline",
-    "source": "Eurogamer",
-    "summary": "Nintendo's latest financial earnings report is here, revealing healthy software sales thanks to the enormously popular Tomodachi Life: Living the Dream. Sales of Switch 2 hardware, however, are down. Read more...",
-    "date": "Thu, 05 Nov 2026 11:56:40 +0000",
-    "link": "https://www.eurogamer.net/nintendo-switch-2-hardware-decline-software-boom",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
-    },
-    "tags": [
-      "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "PlayStation sees record high player numbers and increased revenue for Q2 2026, and a lot of that success is down to Marvel's Wolverine",
-    "source": "Eurogamer",
-    "summary": "As part of today's (Thursday 5th November, 2026) financial results, Sony has confirmed that monthly active users, referred to as MAU, across both PlayStation 4 and 5, reached 127 million in September. This represents a seven percent growth year-on-year for the company, and sets a new record high. Re...",
-    "date": "Thu, 05 Nov 2026 10:24:40 +0000",
-    "link": "https://www.eurogamer.net/sony-playstation-fy-2026-wolverine-sales",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
-    },
-    "tags": [
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "World of Warcraft: Forever is off to a great start with Blizzard's smoothest launch in memory",
-    "source": "Eurogamer",
-    "summary": "World of Warcraft: Forever came out last night. Those who stayed up were prepared for the usual from major WoW releases: long queues, disconnects, and server lag. However, save for a few minor hiccups here and there, things went off without a hitch. Read more...",
-    "date": "Thu, 05 Nov 2026 09:52:30 +0000",
-    "link": "https://www.eurogamer.net/world-of-warcraft-forever-launch-smooth",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.1,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 9,
-    "title": "Constantine Movie Reportedly in the Works at DC Studios",
+    "title": "Classic Halo Trilogy Gets Brand-New Release on Nov. 10",
     "source": "Polygon",
-    "summary": "Reports indicate DC Studios is bringing Francis Galluppi on board to write a Constantine movie.",
-    "date": "Thu, 05 Nov 2026 13:05:01 GMT",
-    "link": "https://www.polygon.com/constantine-movie-reports-dc-studios/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Everything Is Dissapointing After Pokémon's Spectacular 30th Anniversary TCG Set",
-    "source": "Polygon",
-    "summary": "The Rayquaza-centric Delta Reign TCG set, which releases on Nov. 6, set never stood a chance against Pokémon's remarkable 30th Anniversary set",
-    "date": "Thu, 05 Nov 2026 13:00:18 GMT",
-    "link": "https://www.polygon.com/pokemon-tcg-delta-reign-review/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.68,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "WoW: Forever Had a Very Smooth Launch — Except for Horde PvP Players",
-    "source": "Polygon",
-    "summary": "Blizzard's new server structure for World of Warcraft: Forever made it hard for some players to create characters",
-    "date": "Thu, 05 Nov 2026 12:35:41 GMT",
-    "link": "https://www.polygon.com/wow-world-of-warcraft-forever-launch-problems-horde-pvp/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "The Legend of Zelda: Ocarina of Time’s Changes to the Infamous Water Temple Are Actually Brilliant",
-    "source": "Polygon",
-    "summary": "The Legend of Zelda: Ocarina of Time's Switch 2 remake makes some small, but impactful changes to Zelda's most hated dungeon.",
-    "date": "Thu, 05 Nov 2026 11:01:19 GMT",
-    "link": "https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake-water-temple-change/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "After all the queuing drama in beta, WoW: Forever's launch was buttery smooth",
-    "source": "PC Gamer",
-    "summary": "Big ups to Blizzard.",
-    "date": "Thu, 05 Nov 2026 13:25:12 +0000",
-    "link": "https://www.pcgamer.com/games/world-of-warcraft/after-all-the-queuing-drama-in-beta-wow-forevers-launch-was-buttery-smooth/",
+    "summary": "Halo’s Master Chief Omnibus arrives November 10, 2026, collecting three bestselling novels that expand the franchise’s lore.",
+    "date": "Thu, 05 Nov 2026 22:50:57 GMT",
+    "link": "https://www.polygon.com/halo-master-chief-omnibus-book-november-2026/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.17,
@@ -228,12 +159,12 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
-    "title": "Experimental project beats Intel in bringing 'real Intel XeSS super resolution' to SteamOS and Proton games on Linux",
-    "source": "PC Gamer",
-    "summary": "Intel has promised to do it itself, but Linux devs are an impatient bunch.",
-    "date": "Thu, 05 Nov 2026 12:26:37 +0000",
-    "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/experimental-project-beats-intel-in-bringing-real-intel-xess-super-resolution-to-steamos-and-proton-games-on-linux/",
+    "id": 10,
+    "title": "The brutal reality of making video games in 2026 | Point It Out!",
+    "source": "Polygon",
+    "summary": "This week on Point It Out, Patches assembled an all star roundtable of indie gaming creators to discuss the state of the industry, its future and what it takes to make successful games like Shovel Knight, Hyper Light Drifter, Mina and more. Plus, WoW Forever is officially coming out, and Arkane Lyon...",
+    "date": "Thu, 05 Nov 2026 22:34:23 GMT",
+    "link": "https://www.polygon.com/video/the-brutal-reality-of-making-video-games-in-2026-point-it-out/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.11,
@@ -246,84 +177,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game",
-    "source": "PC Gamer",
-    "summary": "Help me upscalers, you're my only hope.",
-    "date": "Thu, 05 Nov 2026 12:12:38 +0000",
-    "link": "https://www.pcgamer.com/hardware/fsr-4-1-2-now-on-xbox-and-xbox-handhelds-just-in-time-for-a-certain-big-gta-6-shaped-game/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Switch 2 sales dropped 37% this summer, mostly before the price hike hit; Nintendo now expects sales to slump 16.9% in console's second year",
-    "source": "PC Gamer",
-    "summary": "The Switch 2 is still comfortably ahead of the Switch in its first year, but it might not be ahead by its second.",
-    "date": "Thu, 05 Nov 2026 11:53:38 +0000",
-    "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/switch-2-sales-dropped-37-percent-this-summer-mostly-before-the-price-hike-hit-nintendo-now-expects-sales-to-slump-16-9-percent-in-consoles-second-year/",
+    "id": 11,
+    "title": "All Great Fairy's Fountain locations in Ocarina of Time",
+    "source": "Polygon",
+    "summary": "The Great Fairy's Fountains will provide you with magic and abilities in Ocarina of Time, as long as you have the funds. Here's where to find them.",
+    "date": "Thu, 05 Nov 2026 22:11:41 GMT",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-great-fairy-fountain-locations-rewards/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.23,
+      "score": 0.51,
       "badge": "success"
-    },
-    "tags": [
-      "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "The Legend of Zelda: Ocarina Of Time’s 2026 Remake Looks Stunning Next To The Original N64 Game",
-    "source": "GameSpot",
-    "summary": "Since its launch last year, the Switch 2 has proven itself to be a portable powerhouse, and The Legend of Zelda: Ocarina of Time remake may just be the best game to show off its capabilities. The upgraded version of the timeless adventure looks even better when compared to the original N64 game that...",
-    "date": "Thu, 05 Nov 2026 13:21:32 +0000",
-    "link": "https://www.gamespot.com/articles/the-legend-of-zelda-ocarina-of-time-2026-remake-looks-stunning-next-to-the-original-n64-game/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
-    },
-    "tags": [
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "This Handheld Gaming Hub Has A Lot More Going On Than You’d Expect",
-    "source": "GameSpot",
-    "summary": "There's no shortage of dedicated video capture devices on the market, but if you're looking for something that cuts down on cable clutter and adds some cyberpunk vibes to your setup, you'll want to check out the Chizha Mount Ling 2 Pro. GameSpot recently went hands-on with it, and while it's a great...",
-    "date": "Thu, 05 Nov 2026 13:20:23 +0000",
-    "link": "https://www.gamespot.com/articles/this-handheld-gaming-hub-has-a-lot-more-going-on-than-youd-expect/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.29,
-      "badge": "success"
-    },
-    "tags": [
-      "Cyberpunk"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "PS5 Is Closing In On 100 Million Sales, Despite Getting More Expensive",
-    "source": "GameSpot",
-    "summary": "During a briefing on its latest financial results, Sony revealed it sold 2.6 million PS5 consoles in its last quarter, which ended on September 30. This brings lifetime PS5 sales to 97.9 million, just months before the console enters its sixth year on the market. By comparison, the PS4 had shipped 1...",
-    "date": "Thu, 05 Nov 2026 13:18:07 +0000",
-    "link": "https://www.gamespot.com/articles/ps5-is-closing-in-on-100-million-sales-despite-getting-more-expensive/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -332,19 +195,161 @@
     "read_time": "1 min read"
   },
   {
-    "id": 20,
-    "title": "How Zelda: Ocarina Of Time Benefits From A Glaringly Obvious Tactic That Few Game Devs Follow",
-    "source": "GameSpot",
-    "summary": "The Legend of Zelda: Ocarina of Time has been regarded as one of the best games ever made for nearly 30 years, and its new Switch 2 remake is seeing similar levels of acclaim. Part of the reason for its critical success seems to be its deep understanding of the source material, and that shouldn't be...",
-    "date": "Thu, 05 Nov 2026 05:00:00 +0000",
-    "link": "https://www.gamespot.com/articles/how-zelda-ocarina-of-time-benefits-from-a-glaringly-obvious-tactic-that-few-game-devs-follow/",
+    "id": 12,
+    "title": "How to find Richard the dog in Ocarina of Time",
+    "source": "Polygon",
+    "summary": "Here's how to find Richard in The Legend of Zelda: Ocarina of Time remake and how to identify the white dog to complete the mission.",
+    "date": "Thu, 05 Nov 2026 22:10:14 GMT",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-richard-dog-location-how-to-find/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.09,
+      "score": 0.05,
       "badge": "info"
     },
     "tags": [
       "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Xbox enters the 'faster PC launcher' arms race, its app loads faster now too",
+    "source": "PC Gamer",
+    "summary": "An updated version of the Xbox PC app available to Xbox Insiders loads up to 60% faster, and it's got some other nice improvements too.",
+    "date": "Thu, 05 Nov 2026 22:32:22 +0000",
+    "link": "https://www.pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.29,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Warren Spector sounds even angrier about BioWare's closure as he recounts the massive salaries of EA execs: 'Is there ANY accountability left in this world?'",
+    "source": "PC Gamer",
+    "summary": "Two weeks after his uncharacteristically spicy comments on the demise of BioWare, Spector's anger clearly has not subsided.",
+    "date": "Thu, 05 Nov 2026 22:20:18 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/warren-spector-sounds-even-angrier-about-biowares-closure-as-he-recounts-the-massive-salaries-of-ea-execs-is-there-any-accountability-left-in-this-world/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Sam Altman is annoyed his DRAM comment was 'taken out of context'",
+    "source": "PC Gamer",
+    "summary": "Him being annoyed has not made DRAM cheaper, however.",
+    "date": "Thu, 05 Nov 2026 20:34:00 +0000",
+    "link": "https://www.pcgamer.com/software/ai/sam-altman-is-annoyed-his-dram-comment-was-taken-out-of-context/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Nvidia, Micron, and other AI stocks take a dive after elections",
+    "source": "PC Gamer",
+    "summary": "No loud popping sounds yet, but an AI market correction appears to be underway.",
+    "date": "Thu, 05 Nov 2026 19:32:47 +0000",
+    "link": "https://www.pcgamer.com/software/ai/nvidia-micron-and-other-ai-stocks-take-a-dive-after-elections/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.09,
+      "badge": "info"
+    },
+    "tags": [
+      "AI",
+      "Nvidia"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "EA Killed Mass Effect But Is Still Trying To Make Money On It",
+    "source": "GameSpot",
+    "summary": "Electronic Arts recently killed off Mass Effect and closed developer BioWare entirely, but the publisher is still trying to make money from the franchise's fanbase. \nAhead of the annual Mass Effect holiday of N7 Day on November 7, EA is promoting Mass Effect via posts about what fans can  buy on the...",
+    "date": "Thu, 05 Nov 2026 20:25:46 +0000",
+    "link": "https://www.gamespot.com/articles/ea-killed-mass-effect-but-is-still-trying-to-make-money-on-it/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.12,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Buy Games On Prime? Your Membership Now Gets You Free Uber Eats Delivery, Too",
+    "source": "GameSpot",
+    "summary": "If you're among the millions of Amazon Prime subscribers--maybe you use the platform to buy games--you're getting a new perk in the form of free delivery with Uber Eats. \nAmazon and Uber today announced a partnership where US Prime subscribers can get free delivery on orders of $25 or more. Orders c...",
+    "date": "Thu, 05 Nov 2026 20:03:32 +0000",
+    "link": "https://www.gamespot.com/articles/buy-games-on-prime-your-membership-now-gets-you-free-uber-eats-delivery-too/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.37,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "Switch 2 Won’t Get Another Price Hike, At Least Not Soon, Nintendo Says",
+    "source": "GameSpot",
+    "summary": "As part of Nintendo's latest earnings briefing, the company said it has no plans to increase the Switch 2 price again, or at least not anytime soon.\nVGC reported that management said Nintendo has enough memory stockpiled to shield itself and thus not need to implement another price hike.\nNintendo ra...",
+    "date": "Thu, 05 Nov 2026 18:08:03 +0000",
+    "link": "https://www.gamespot.com/articles/switch-2-wont-get-another-price-hike-at-least-not-soon-nintendo-says/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 20,
+    "title": "GTA 6 Looks Pretty Realistic, Until It Comes To Gym Etiquette",
+    "source": "GameSpot",
+    "summary": "Compared to previous games in the series, Grand Theft Auto 6 looks like it'll only be a few steps removed from reality when it launches this month. Actions have consequences, working on a relationship requires more than just hitting a few button prompts, and bulking up means that you'll have to visi...",
+    "date": "Thu, 05 Nov 2026 16:47:41 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-looks-pretty-realistic-until-it-comes-to-gym-etiquette/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
