@@ -1,334 +1,28 @@
 [
   {
     "id": 1,
-    "title": "Captain Price Actor Barry Sloane Says He's the Most Qualified Person to Star in the Call of Duty Movie",
+    "title": "Nintendo Rules Out Further Switch 2 Price Rises as Console Sales and Profit Fall",
     "source": "IGN",
-    "summary": "Captain Price actor Barry Sloane wants to be in the Call of Duty movie and believes he's the most qualified person for the job.",
-    "date": "Thu, 5 Nov 2026 00:49:28 +0000",
-    "link": "https://www.ign.com/articles/captain-price-actor-barry-sloane-says-hes-the-most-qualified-person-to-star-in-the-call-of-duty-movie",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "World of Warcraft Forever Launch Live Blog: It's Looking Like a Smooth Blizzard Launch",
-    "source": "IGN",
-    "summary": "World of Warcraft Forever launch day live blog.",
-    "date": "Thu, 5 Nov 2026 00:37:00 +0000",
-    "link": "https://www.ign.com/articles/world-of-warcraft-forever-launch-live-blog",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.22,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Scarlett Johansson Says The Batman: Part 2 Role Caused 'Existential Angst'",
-    "source": "IGN",
-    "summary": "While she didn’t disclose the character she’s playing, Scarlett Johansson says her role in The Batman: Part II has given her “a lot of existential angst” because it was “hard to crack.\"",
-    "date": "Thu, 5 Nov 2026 00:24:38 +0000",
-    "link": "https://www.ign.com/articles/scarlett-johansson-the-batman-2-existential-angst",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.29,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "You Can Get a 36V 350W Adult Electric Scooter With 19mph Top Speed for Less Than $80 for Black Friday",
-    "source": "IGN",
-    "summary": "Fast and free delivery (ships from the US) and sold by the official manufacturer.",
-    "date": "Thu, 5 Nov 2026 00:10:00 +0000",
-    "link": "https://www.ign.com/articles/best-ladped-lp60-electric-scooter-deal-november-2026",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "Arkane union says closing the studio \"would probably be more expensive\" for Xbox than simply finishing Marvel's Blade",
-    "source": "Eurogamer",
-    "summary": "Xbox would probably spend more money shutting down Arkane Lyon than it would trying to finish and release Marvel's Blade, according to a union representing workers from the beloved imsim studio. Read more...",
-    "date": "Wed, 04 Nov 2026 20:33:10 +0000",
-    "link": "https://www.eurogamer.net/arkane-union-xbox-more-expensive-marvels-blade",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.22,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "The Legend of Zelda: Ocarina of Time's Navi actor reprises her role after 28 years, but it was a total accident due to Nintendo's blind auditions",
-    "source": "Eurogamer",
-    "summary": "For The Legend of Zelda: Ocarina of Time's shiny new remake, Nintendo unintentionally cast the same actor twice - 28 years apart - to deliver Navi's infamous \"Heys!\" and \"Listens!\" Read more...",
-    "date": "Wed, 04 Nov 2026 19:15:40 +0000",
-    "link": "https://www.eurogamer.net/nintendo-cast-navi-actor-zelda-ocarina-of-time",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.11,
-      "badge": "danger"
-    },
-    "tags": [
-      "Remake",
-      "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "God of War Laufey delayed three months to May 2027, as Sony Santa Monica escapes a packed February",
-    "source": "Eurogamer",
-    "summary": "God of War Laufey has been delayed. Sony Santa Monica's PS5 exclusive is now dodging the crowded month of February and will instead come out on 20th May, 2027. Read more...",
-    "date": "Wed, 04 Nov 2026 17:32:10 +0000",
-    "link": "https://www.eurogamer.net/god-of-war-laufey-delayed-may-three-months",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "The Elder Scrolls 6: Sentinel fans ponder split timelines, alternative histories, and more as story speculation runs wild following latest teaser",
-    "source": "Eurogamer",
-    "summary": "Following the release of yesterday's brief new The Elder Scrolls 6: Sentinel teaser trailer, story speculation is running rampant  across communities dedicated to the fantasy series, with fans theorising everything from alternative histories to split timelines. Read more...",
-    "date": "Wed, 04 Nov 2026 16:00:00 +0000",
-    "link": "https://www.eurogamer.net/the-elder-scrolls-6-sentinel-story-speculation",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.22,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "Escape From Tarkov Creator Reveals New Hardcore Sci-Fi Shooter",
-    "source": "Polygon",
-    "summary": "Escape from Tarkov creator Nikita Buyanov reveals Fragmentary Order, a hardcore sci-fi shooter with 14 minutes of gameplay footage.",
-    "date": "Wed, 04 Nov 2026 22:32:32 GMT",
-    "link": "https://www.polygon.com/fragmentary-order-escape-from-tarkov-creator-new-sci-fi-shooter/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Best Buy's Midnight 'Zelda' Switch 2 Console Release Is Already Intense",
-    "source": "Polygon",
-    "summary": "Zelda fans who haven't pre-ordered the game or its Switch 2 console and Pro Controller will find much competition at Best Buy stores",
-    "date": "Wed, 04 Nov 2026 22:07:09 GMT",
-    "link": "https://www.polygon.com/best-buy-zelda-switch-2-preorder-midnight-launch-store-locator/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Magic: The Gathering Casts Stranger Things Star as Female Lead",
-    "source": "Polygon",
-    "summary": "Hasbro and Legendary's Magic: The Gathering movie will star Maya Hawke from Stranger things in a lead role, new reports reveal.",
-    "date": "Wed, 04 Nov 2026 21:22:34 GMT",
-    "link": "https://www.polygon.com/magic-the-gathering-movie-cast-maya-hawke-hasbro/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.43,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "New D&D Book Introduces Some of the Most Terrifying Boss Fights in the Game’s History",
-    "source": "Polygon",
-    "summary": "Dungeons & Dragons’ new World of Warcraft book turns Azeroth’s iconic characters into brutal bosses that could teach Vecna a thing or two.",
-    "date": "Wed, 04 Nov 2026 21:00:17 GMT",
-    "link": "https://www.polygon.com/dnd-world-of-warcraft-npc-stat-blocks-powerful-bosses/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.14,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Critical Role's upcoming series with Hololive gave Matt Mercer 'a deeper understanding and appreciation' for vtubers",
-    "source": "PC Gamer",
-    "summary": "Shattered Legends is a six-episode miniseries that will debut later this month.",
-    "date": "Thu, 05 Nov 2026 01:52:06 +0000",
-    "link": "https://www.pcgamer.com/games/board-games/critical-roles-upcoming-series-with-hololive-gave-matt-mercer-a-deeper-understanding-and-appreciation-for-vtubers/",
+    "summary": "Nintendo has ruled out further Switch 2 price rises while reporting falling console sales and reduced profit.",
+    "date": "Thu, 5 Nov 2026 10:21:34 +0000",
+    "link": "https://www.ign.com/articles/nintendo-rules-out-further-switch-2-price-rises-as-console-sales-and-profit-fall",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
-    "title": "The Elder Scrolls 6 is reportedly more than two years away, and some fans are not coping well",
-    "source": "PC Gamer",
-    "summary": "Theories that Bethesda is hinting at an earlier launch are already surfacing, and a few of them are pretty good.",
-    "date": "Thu, 05 Nov 2026 00:18:02 +0000",
-    "link": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-reportedly-more-than-two-years-away-and-some-fans-are-not-coping-well/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "No GTA 6 November: Here's what you can play on PC instead",
-    "source": "PC Gamer",
-    "summary": "World of Warcraft: Forever, Warhammer Survivors, and a batch of fresh updates.",
-    "date": "Wed, 04 Nov 2026 23:37:01 +0000",
-    "link": "https://www.pcgamer.com/games/november-games-2026/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Data centers were some of the biggest losers in last night's US midterm elections",
-    "source": "PC Gamer",
-    "summary": "Voters across the country opted for nearly every local ballot measure that would curb the rate of data center expansion.",
-    "date": "Wed, 04 Nov 2026 21:10:10 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/data-centers-were-some-of-the-biggest-losers-in-last-nights-us-midterm-elections/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "WoW: Forever’s Launch Is Going Surprisingly Smooth",
-    "source": "GameSpot",
-    "summary": "World of Warcraft: Forever's launch hit some minor hiccups immediately upon release, but overall is going surprisingly well, much to the surprise of players who anticipated the worst.\nAs soon as the countdown timer clicked to zero at 3 PM PT, players began to encounter short login queues. Sitting th...",
-    "date": "Thu, 05 Nov 2026 00:45:40 +0000",
-    "link": "https://www.gamespot.com/articles/wow-forevers-launch-is-going-surprisingly-smooth/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "WoW: Forever’s First New Legendary Weapon Revealed",
-    "source": "GameSpot",
-    "summary": "Update: Blizzard has officially revealed it is, in fact, a new legendary weapon: Taldramir, the Whispering Wood. Weta Workshop crafted a full-scale replica of the weapon in a video posted to the Warcraft Twitch stream. Original article is below.\n\nhttps://bsky.app/profile/worldofwarcraft.blizzard.com...",
-    "date": "Wed, 04 Nov 2026 21:39:49 +0000",
-    "link": "https://www.gamespot.com/articles/what-might-be-a-brand-new-wow-forever-legendary-weapon-is-being-teased/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.43,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "WoW: Forever May Have Just Sneakily Revealed New Class And Race Combos",
-    "source": "GameSpot",
-    "summary": "Developer Blizzard may have just revealed new World of Warcraft: Forever class and race combos less than a day before the game's launch.\nForever already features a number of new class and race combos not seen in WoW Classic, like troll Warlocks, human Hunters, and more. In a launch overview video di...",
-    "date": "Wed, 04 Nov 2026 21:03:35 +0000",
-    "link": "https://www.gamespot.com/articles/wow-forever-may-have-just-sneakily-revealed-new-class-and-race-combos/",
+    "id": 2,
+    "title": "Our Big Interview With Ocarina of Time Producers Eiji Aonuma and Hidemaro Fujibayashi",
+    "source": "IGN",
+    "summary": "The leaders of Zelda reflect on the series as they guide a new generation of developers.",
+    "date": "Thu, 5 Nov 2026 08:00:00 +0000",
+    "link": "https://www.ign.com/articles/our-big-interview-with-ocarina-of-time-producers-eiji-aonuma-and-hidemaro-fujibayashi",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.07,
@@ -341,20 +35,316 @@
     "read_time": "1 min read"
   },
   {
-    "id": 20,
-    "title": "GTA 6 Will Now Come To Stores Sooner, But It’s Not Playable Right Away",
+    "id": 3,
+    "title": "The Legend of Zelda: Ocarina of Time Remake Full English Voice Cast Revealed",
+    "source": "IGN",
+    "summary": "The Legend of Zelda: Ocarina of Time remake is out now, and so we have confirmation of the full English voice cast for the first time.",
+    "date": "Thu, 5 Nov 2026 07:52:50 +0000",
+    "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-full-english-voice-cast-revealed",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.19,
+      "badge": "success"
+    },
+    "tags": [
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "Adam Driver Confirms His Role in Heat 2, Comments on Recent Michael Mann Shooting",
+    "source": "IGN",
+    "summary": "Adam Driver Confirms His Role in Heat 2, Comments on Recent Michael Mann Shooting",
+    "date": "Thu, 5 Nov 2026 06:21:02 +0000",
+    "link": "https://www.ign.com/articles/adam-driver-confirms-his-role-in-heat-2-comments-on-recent-michael-mann-shooting",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Mass Effect petition has enough signatures for the Canadian Government to potentially save BioWare",
+    "source": "Eurogamer",
+    "summary": "Following news of EA's decision to shut down iconic RPG studio BioWare, Canadian fans of the studio have escalated their grievances to the governmental level, calling on the Canadian Government to step in and save the Canadian studio from closure, seemingly after Canada's New Democratic Party leader...",
+    "date": "Thu, 05 Nov 2026 12:48:40 +0000",
+    "link": "https://www.eurogamer.net/bioware-canada-house-of-commons-petition-save-mass-effect",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Nintendo game sales surge thanks to Tomodachi Life: Living the Dream, but Switch 2 hardware suffers big decline",
+    "source": "Eurogamer",
+    "summary": "Nintendo's latest financial earnings report is here, revealing healthy software sales thanks to the enormously popular Tomodachi Life: Living the Dream. Sales of Switch 2 hardware, however, are down. Read more...",
+    "date": "Thu, 05 Nov 2026 11:56:40 +0000",
+    "link": "https://www.eurogamer.net/nintendo-switch-2-hardware-decline-software-boom",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "PlayStation sees record high player numbers and increased revenue for Q2 2026, and a lot of that success is down to Marvel's Wolverine",
+    "source": "Eurogamer",
+    "summary": "As part of today's (Thursday 5th November, 2026) financial results, Sony has confirmed that monthly active users, referred to as MAU, across both PlayStation 4 and 5, reached 127 million in September. This represents a seven percent growth year-on-year for the company, and sets a new record high. Re...",
+    "date": "Thu, 05 Nov 2026 10:24:40 +0000",
+    "link": "https://www.eurogamer.net/sony-playstation-fy-2026-wolverine-sales",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "World of Warcraft: Forever is off to a great start with Blizzard's smoothest launch in memory",
+    "source": "Eurogamer",
+    "summary": "World of Warcraft: Forever came out last night. Those who stayed up were prepared for the usual from major WoW releases: long queues, disconnects, and server lag. However, save for a few minor hiccups here and there, things went off without a hitch. Read more...",
+    "date": "Thu, 05 Nov 2026 09:52:30 +0000",
+    "link": "https://www.eurogamer.net/world-of-warcraft-forever-launch-smooth",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.1,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "Constantine Movie Reportedly in the Works at DC Studios",
+    "source": "Polygon",
+    "summary": "Reports indicate DC Studios is bringing Francis Galluppi on board to write a Constantine movie.",
+    "date": "Thu, 05 Nov 2026 13:05:01 GMT",
+    "link": "https://www.polygon.com/constantine-movie-reports-dc-studios/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Everything Is Dissapointing After Pokémon's Spectacular 30th Anniversary TCG Set",
+    "source": "Polygon",
+    "summary": "The Rayquaza-centric Delta Reign TCG set, which releases on Nov. 6, set never stood a chance against Pokémon's remarkable 30th Anniversary set",
+    "date": "Thu, 05 Nov 2026 13:00:18 GMT",
+    "link": "https://www.polygon.com/pokemon-tcg-delta-reign-review/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.68,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "WoW: Forever Had a Very Smooth Launch — Except for Horde PvP Players",
+    "source": "Polygon",
+    "summary": "Blizzard's new server structure for World of Warcraft: Forever made it hard for some players to create characters",
+    "date": "Thu, 05 Nov 2026 12:35:41 GMT",
+    "link": "https://www.polygon.com/wow-world-of-warcraft-forever-launch-problems-horde-pvp/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "The Legend of Zelda: Ocarina of Time’s Changes to the Infamous Water Temple Are Actually Brilliant",
+    "source": "Polygon",
+    "summary": "The Legend of Zelda: Ocarina of Time's Switch 2 remake makes some small, but impactful changes to Zelda's most hated dungeon.",
+    "date": "Thu, 05 Nov 2026 11:01:19 GMT",
+    "link": "https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake-water-temple-change/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "After all the queuing drama in beta, WoW: Forever's launch was buttery smooth",
+    "source": "PC Gamer",
+    "summary": "Big ups to Blizzard.",
+    "date": "Thu, 05 Nov 2026 13:25:12 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/after-all-the-queuing-drama-in-beta-wow-forevers-launch-was-buttery-smooth/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Experimental project beats Intel in bringing 'real Intel XeSS super resolution' to SteamOS and Proton games on Linux",
+    "source": "PC Gamer",
+    "summary": "Intel has promised to do it itself, but Linux devs are an impatient bunch.",
+    "date": "Thu, 05 Nov 2026 12:26:37 +0000",
+    "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/experimental-project-beats-intel-in-bringing-real-intel-xess-super-resolution-to-steamos-and-proton-games-on-linux/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game",
+    "source": "PC Gamer",
+    "summary": "Help me upscalers, you're my only hope.",
+    "date": "Thu, 05 Nov 2026 12:12:38 +0000",
+    "link": "https://www.pcgamer.com/hardware/fsr-4-1-2-now-on-xbox-and-xbox-handhelds-just-in-time-for-a-certain-big-gta-6-shaped-game/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Switch 2 sales dropped 37% this summer, mostly before the price hike hit; Nintendo now expects sales to slump 16.9% in console's second year",
+    "source": "PC Gamer",
+    "summary": "The Switch 2 is still comfortably ahead of the Switch in its first year, but it might not be ahead by its second.",
+    "date": "Thu, 05 Nov 2026 11:53:38 +0000",
+    "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/switch-2-sales-dropped-37-percent-this-summer-mostly-before-the-price-hike-hit-nintendo-now-expects-sales-to-slump-16-9-percent-in-consoles-second-year/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.23,
+      "badge": "success"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "The Legend of Zelda: Ocarina Of Time’s 2026 Remake Looks Stunning Next To The Original N64 Game",
     "source": "GameSpot",
-    "summary": "Rockstar Games has announced that Grand Theft Auto 6 will now released in stores two days earlier than anticipated--but this doesn't change anything about when you'll actually be able to play the game.\nGTA 6's code-in-a-box physical edition will be available to purchase in stores starting on Novembe...",
-    "date": "Wed, 04 Nov 2026 20:26:20 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-will-now-come-to-stores-sooner-but-its-not-playable-right-away/",
+    "summary": "Since its launch last year, the Switch 2 has proven itself to be a portable powerhouse, and The Legend of Zelda: Ocarina of Time remake may just be the best game to show off its capabilities. The upgraded version of the timeless adventure looks even better when compared to the original N64 game that...",
+    "date": "Thu, 05 Nov 2026 13:21:32 +0000",
+    "link": "https://www.gamespot.com/articles/the-legend-of-zelda-ocarina-of-time-2026-remake-looks-stunning-next-to-the-original-n64-game/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.16,
       "badge": "success"
     },
     "tags": [
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "This Handheld Gaming Hub Has A Lot More Going On Than You’d Expect",
+    "source": "GameSpot",
+    "summary": "There's no shortage of dedicated video capture devices on the market, but if you're looking for something that cuts down on cable clutter and adds some cyberpunk vibes to your setup, you'll want to check out the Chizha Mount Ling 2 Pro. GameSpot recently went hands-on with it, and while it's a great...",
+    "date": "Thu, 05 Nov 2026 13:20:23 +0000",
+    "link": "https://www.gamespot.com/articles/this-handheld-gaming-hub-has-a-lot-more-going-on-than-youd-expect/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.29,
+      "badge": "success"
+    },
+    "tags": [
+      "Cyberpunk"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "PS5 Is Closing In On 100 Million Sales, Despite Getting More Expensive",
+    "source": "GameSpot",
+    "summary": "During a briefing on its latest financial results, Sony revealed it sold 2.6 million PS5 consoles in its last quarter, which ended on September 30. This brings lifetime PS5 sales to 97.9 million, just months before the console enters its sixth year on the market. By comparison, the PS4 had shipped 1...",
+    "date": "Thu, 05 Nov 2026 13:18:07 +0000",
+    "link": "https://www.gamespot.com/articles/ps5-is-closing-in-on-100-million-sales-despite-getting-more-expensive/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
       "Gaming",
       "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 20,
+    "title": "How Zelda: Ocarina Of Time Benefits From A Glaringly Obvious Tactic That Few Game Devs Follow",
+    "source": "GameSpot",
+    "summary": "The Legend of Zelda: Ocarina of Time has been regarded as one of the best games ever made for nearly 30 years, and its new Switch 2 remake is seeing similar levels of acclaim. Part of the reason for its critical success seems to be its deep understanding of the source material, and that shouldn't be...",
+    "date": "Thu, 05 Nov 2026 05:00:00 +0000",
+    "link": "https://www.gamespot.com/articles/how-zelda-ocarina-of-time-benefits-from-a-glaringly-obvious-tactic-that-few-game-devs-follow/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
+    },
+    "tags": [
+      "Remake"
     ],
     "read_time": "1 min read"
   }
