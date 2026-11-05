@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Save Over 50% Off the Sony WH-1000XX Stainless Steel Noise Canceling Headphones for Black Friday",
+    "title": "Captain Price Actor Barry Sloane Says He's the Most Qualified Person to Star in the Call of Duty Movie",
     "source": "IGN",
-    "summary": "Sony's highest end XM series noise canceling headphones that most people probably never heard of.",
-    "date": "Wed, 4 Nov 2026 21:10:00 +0000",
-    "link": "https://www.ign.com/articles/sony-wh-1000xx-the-collexion-noise-canceling-wireless-headphone-deal-november-2026",
+    "summary": "Captain Price actor Barry Sloane wants to be in the Call of Duty movie and believes he's the most qualified person for the job.",
+    "date": "Thu, 5 Nov 2026 00:49:28 +0000",
+    "link": "https://www.ign.com/articles/captain-price-actor-barry-sloane-says-hes-the-most-qualified-person-to-star-in-the-call-of-duty-movie",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.18,
+      "score": 0.4,
       "badge": "success"
     },
     "tags": [
@@ -19,14 +19,14 @@
   },
   {
     "id": 2,
-    "title": "Upcoming LEGO Sets: Release Dates for November 2026 and Beyond",
+    "title": "World of Warcraft Forever Launch Live Blog: It's Looking Like a Smooth Blizzard Launch",
     "source": "IGN",
-    "summary": "A frequently updated list of all the biggest upcoming LEGO sets, along with their release dates, pricing, and more.",
-    "date": "Wed, 4 Nov 2026 20:20:00 +0000",
-    "link": "https://www.ign.com/articles/upcoming-lego-set-release-dates",
+    "summary": "World of Warcraft Forever launch day live blog.",
+    "date": "Thu, 5 Nov 2026 00:37:00 +0000",
+    "link": "https://www.ign.com/articles/world-of-warcraft-forever-launch-live-blog",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.3,
+      "score": 0.22,
       "badge": "success"
     },
     "tags": [
@@ -37,15 +37,15 @@
   },
   {
     "id": 3,
-    "title": "PUBG: Battlegrounds Gets K-Pop Girl Group Collab",
+    "title": "Scarlett Johansson Says The Batman: Part 2 Role Caused 'Existential Angst'",
     "source": "IGN",
-    "summary": "K-pop girl group IVE is bringing its hit song \"Love Dive\" to the PUBG, complete with themed locations, character skins, choreography, and music videos.",
-    "date": "Wed, 4 Nov 2026 20:11:05 +0000",
-    "link": "https://www.ign.com/articles/pubg-battlegrounds-k-pop-girl-group-collab",
+    "summary": "While she didn’t disclose the character she’s playing, Scarlett Johansson says her role in The Batman: Part II has given her “a lot of existential angst” because it was “hard to crack.\"",
+    "date": "Thu, 5 Nov 2026 00:24:38 +0000",
+    "link": "https://www.ign.com/articles/scarlett-johansson-the-batman-2-existential-angst",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.29,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -55,14 +55,14 @@
   },
   {
     "id": 4,
-    "title": "Wicked Star Cynthia Erivo Will Play Tupac’s Mom in Snoop Dogg Biopic",
+    "title": "You Can Get a 36V 350W Adult Electric Scooter With 19mph Top Speed for Less Than $80 for Black Friday",
     "source": "IGN",
-    "summary": "Cynthia Erivo, who you probably know best as Elphaba from the movie adaptation of Wicked, will play Afeni Shakur in the upcoming Snoop Dogg bopic Snoop.",
-    "date": "Wed, 4 Nov 2026 20:04:26 +0000",
-    "link": "https://www.ign.com/articles/wicked-star-cynthia-erivo-will-play-tupacs-mom-in-snoop-dogg-biopic",
+    "summary": "Fast and free delivery (ships from the US) and sold by the official manufacturer.",
+    "date": "Thu, 5 Nov 2026 00:10:00 +0000",
+    "link": "https://www.ign.com/articles/best-ladped-lp60-electric-scooter-deal-november-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 1.0,
+      "score": 0.14,
       "badge": "success"
     },
     "tags": [
@@ -216,6 +216,60 @@
   },
   {
     "id": 13,
+    "title": "Critical Role's upcoming series with Hololive gave Matt Mercer 'a deeper understanding and appreciation' for vtubers",
+    "source": "PC Gamer",
+    "summary": "Shattered Legends is a six-episode miniseries that will debut later this month.",
+    "date": "Thu, 05 Nov 2026 01:52:06 +0000",
+    "link": "https://www.pcgamer.com/games/board-games/critical-roles-upcoming-series-with-hololive-gave-matt-mercer-a-deeper-understanding-and-appreciation-for-vtubers/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "The Elder Scrolls 6 is reportedly more than two years away, and some fans are not coping well",
+    "source": "PC Gamer",
+    "summary": "Theories that Bethesda is hinting at an earlier launch are already surfacing, and a few of them are pretty good.",
+    "date": "Thu, 05 Nov 2026 00:18:02 +0000",
+    "link": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-reportedly-more-than-two-years-away-and-some-fans-are-not-coping-well/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "No GTA 6 November: Here's what you can play on PC instead",
+    "source": "PC Gamer",
+    "summary": "World of Warcraft: Forever, Warhammer Survivors, and a batch of fresh updates.",
+    "date": "Wed, 04 Nov 2026 23:37:01 +0000",
+    "link": "https://www.pcgamer.com/games/november-games-2026/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
     "title": "Data centers were some of the biggest losers in last night's US midterm elections",
     "source": "PC Gamer",
     "summary": "Voters across the country opted for nearly every local ballot measure that would curb the rate of data center expansion.",
@@ -233,61 +287,25 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
-    "title": "French game union accuses Microsoft of 'sabotaging' Blade and then using the fallout to justify closing Arkane",
-    "source": "PC Gamer",
-    "summary": "The STJV union says Microsoft imposed hiring freezes at Arkane that resulted in delays and additional expenses, which it then cited as reasons for shutting it down.",
-    "date": "Wed, 04 Nov 2026 20:51:28 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/french-game-union-accuses-microsoft-of-sabotaging-blade-and-then-using-the-fallout-to-justify-closing-arkane/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.19,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Former Halo composer Marty O'Donnell loses election, then gets absolutely bodied by his opponent: 'The fight is finished'",
-    "source": "PC Gamer",
-    "summary": "Susie Lee has clearly been waiting for this moment.",
-    "date": "Wed, 04 Nov 2026 19:21:48 +0000",
-    "link": "https://www.pcgamer.com/games/former-halo-composer-marty-odonnell-loses-election-then-gets-absolutely-bodied-by-his-opponent-the-fight-is-finished/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "I am back modding GTA 5 and being chased by a billion furious, armed cougars",
-    "source": "PC Gamer",
-    "summary": "I missed this.",
-    "date": "Wed, 04 Nov 2026 18:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/i-am-back-modding-gta-5-and-being-chased-by-a-billion-furious-armed-cougars/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 17,
+    "title": "WoW: Forever’s Launch Is Going Surprisingly Smooth",
+    "source": "GameSpot",
+    "summary": "World of Warcraft: Forever's launch hit some minor hiccups immediately upon release, but overall is going surprisingly well, much to the surprise of players who anticipated the worst.\nAs soon as the countdown timer clicked to zero at 3 PM PT, players began to encounter short login queues. Sitting th...",
+    "date": "Thu, 05 Nov 2026 00:45:40 +0000",
+    "link": "https://www.gamespot.com/articles/wow-forevers-launch-is-going-surprisingly-smooth/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.04,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
     "title": "WoW: Forever’s First New Legendary Weapon Revealed",
     "source": "GameSpot",
     "summary": "Update: Blizzard has officially revealed it is, in fact, a new legendary weapon: Taldramir, the Whispering Wood. Weta Workshop crafted a full-scale replica of the weapon in a video posted to the Warcraft Twitch stream. Original article is below.\n\nhttps://bsky.app/profile/worldofwarcraft.blizzard.com...",
@@ -305,7 +323,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "WoW: Forever May Have Just Sneakily Revealed New Class And Race Combos",
     "source": "GameSpot",
     "summary": "Developer Blizzard may have just revealed new World of Warcraft: Forever class and race combos less than a day before the game's launch.\nForever already features a number of new class and race combos not seen in WoW Classic, like troll Warlocks, human Hunters, and more. In a launch overview video di...",
@@ -323,7 +341,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 19,
+    "id": 20,
     "title": "GTA 6 Will Now Come To Stores Sooner, But It’s Not Playable Right Away",
     "source": "GameSpot",
     "summary": "Rockstar Games has announced that Grand Theft Auto 6 will now released in stores two days earlier than anticipated--but this doesn't change anything about when you'll actually be able to play the game.\nGTA 6's code-in-a-box physical edition will be available to purchase in stores starting on Novembe...",
@@ -332,24 +350,6 @@
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.16,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "GTA 6 Is A Massive Download, But You May Qualify For A Free Speed Boost To Download It Faster",
-    "source": "GameSpot",
-    "summary": "Grand Theft Auto 6 launches on November 19, and the game's file size, 212GB, is truly massive. One internet company, Spectrum, is turning this into a marketing moment for its own services by offering members a \"free Gig Speed Lift\" in November to help download the game faster. \nAvailable November 9-...",
-    "date": "Wed, 04 Nov 2026 20:03:46 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-is-a-massive-download-but-you-may-qualify-for-a-free-speed-boost-to-download-it-faster/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
       "badge": "success"
     },
     "tags": [
