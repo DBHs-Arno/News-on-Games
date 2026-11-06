@@ -1,31 +1,32 @@
 [
   {
     "id": 1,
-    "title": "G2 Esports Parts Ways With Head Coach Luka 'Perkz' Perković After His 'Tweet Bomb' Sparks Backlash",
+    "title": "Save 50% Off the Wolfbox Cordless Car Jump Starter and 24,000mAh Power Bank Ahead of Black Friday",
     "source": "IGN",
-    "summary": "G2 Esports has parted ways with its head coach, Luka \"Perkz\" Perković, following divisive comments he made in a lengthy post on Twitter/X.",
-    "date": "Thu, 5 Nov 2026 20:57:48 +0000",
-    "link": "https://www.ign.com/articles/g2-esports-parts-ways-with-head-coach-luka-perkz-perkovi-after-his-tweet-bomb-sparks-backlash",
+    "summary": "Don't drive off without one.",
+    "date": "Fri, 6 Nov 2026 01:40:00 +0000",
+    "link": "https://www.ign.com/articles/wolfbox-cordless-car-jump-starter-deal-november-2026",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.17,
+      "badge": "danger"
     },
     "tags": [
-      "Esports"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "There's a 'Fifty-Fifty' Chance Godzilla Minus Zero Director Takashi Yamazaki Would Make a Godzilla Threequel",
+    "title": "Amazon's Black Friday Audible Deal Is Now Live: Pay $0.99 Per Month Plus Get $20 Credit",
     "source": "IGN",
-    "summary": "The ending of Godzilla Minus Zero leaves just enough room for a continuation of the story filmmaker Takashi Yamazaki has crafted, but the writer/director says he's split on whether or not he'd want to come back to it.",
-    "date": "Thu, 5 Nov 2026 20:54:53 +0000",
-    "link": "https://www.ign.com/articles/theres-a-fifty-fifty-chance-godzilla-minus-zero-director-takashi-yamazaki-would-make-a-godzilla-threequel",
+    "summary": "Both Amazon Prime and non-Prime members, new and previous subscribers are eligible.",
+    "date": "Thu, 5 Nov 2026 23:40:00 +0000",
+    "link": "https://www.ign.com/articles/amazon-early-black-friday-audible-deal-2026",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.05,
+      "score": -0.02,
       "badge": "info"
     },
     "tags": [
@@ -36,14 +37,14 @@
   },
   {
     "id": 3,
-    "title": "Today’s Top Deals: The Blood of Dawnwalker for PS5, Apple AirPods 5,  SteelSeries Nova Pro Gaming Headset",
+    "title": "Amazon Reveals Free Uber Eats Delivery for Prime Members, Plus $20 Off Your First Two Orders",
     "source": "IGN",
-    "summary": "Plus, save on other gaming peripherals, Corsair DDR5 RAM, and more.",
-    "date": "Thu, 5 Nov 2026 20:50:00 +0000",
-    "link": "https://www.ign.com/articles/best-deals-for-november-5-2026",
+    "summary": "",
+    "date": "Thu, 5 Nov 2026 23:33:49 +0000",
+    "link": "https://www.ign.com/articles/amazon-reveals-free-uber-eats-delivery-for-prime-members-plus-20-off-your-first-two-orders",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.29,
+      "score": 0.33,
       "badge": "success"
     },
     "tags": [
@@ -54,15 +55,15 @@
   },
   {
     "id": 4,
-    "title": "It's Official: Marvel Has Finally Undone the Controversial Spider-Man - One More Day Storyline",
+    "title": "Animated John Wick Prequel Film in the Works Starring Keanu Reeves",
     "source": "IGN",
-    "summary": "The day Spider-Man fans have been waiting 20 years for has finally arrived - Marvel Comics has undone the controversial Spider-Man: One More Day storyline.",
-    "date": "Thu, 5 Nov 2026 20:34:26 +0000",
-    "link": "https://www.ign.com/articles/marvel-controversial-spider-man-one-more-day-undone-mephisto",
+    "summary": "Keanu Reeves is returning as John Wick in an animated film that aims to tell the assassin’s story before the tragic events of the first movie.",
+    "date": "Thu, 5 Nov 2026 23:23:17 +0000",
+    "link": "https://www.ign.com/articles/animated-john-wick-prequel-film-in-the-works-starring-keanu-reeves",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.35,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.25,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -213,6 +214,24 @@
   },
   {
     "id": 13,
+    "title": "Richard Garriott on the state of the games industry: 'The bells and whistles are no longer what's important'",
+    "source": "PC Gamer",
+    "summary": "\"Pre-EA, we never cancelled a project.\"",
+    "date": "Fri, 06 Nov 2026 03:17:27 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/richard-garriott-on-the-state-of-the-games-industry-the-bells-and-whistles-are-no-longer-whats-important/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
     "title": "Xbox enters the 'faster PC launcher' arms race, its app loads faster now too",
     "source": "PC Gamer",
     "summary": "An updated version of the Xbox PC app available to Xbox Insiders loads up to 60% faster, and it's got some other nice improvements too.",
@@ -229,7 +248,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "Warren Spector sounds even angrier about BioWare's closure as he recounts the massive salaries of EA execs: 'Is there ANY accountability left in this world?'",
     "source": "PC Gamer",
     "summary": "Two weeks after his uncharacteristically spicy comments on the demise of BioWare, Spector's anger clearly has not subsided.",
@@ -247,7 +266,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "Sam Altman is annoyed his DRAM comment was 'taken out of context'",
     "source": "PC Gamer",
     "summary": "Him being annoyed has not made DRAM cheaper, however.",
@@ -261,24 +280,6 @@
     "tags": [
       "Gaming",
       "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Nvidia, Micron, and other AI stocks take a dive after elections",
-    "source": "PC Gamer",
-    "summary": "No loud popping sounds yet, but an AI market correction appears to be underway.",
-    "date": "Thu, 05 Nov 2026 19:32:47 +0000",
-    "link": "https://www.pcgamer.com/software/ai/nvidia-micron-and-other-ai-stocks-take-a-dive-after-elections/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "AI",
-      "Nvidia"
     ],
     "read_time": "1 min read"
   },
