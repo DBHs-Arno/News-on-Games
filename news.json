@@ -1,120 +1,32 @@
 [
   {
     "id": 1,
-    "title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
+    "title": "Missing Teen Saved From Alleged Kidnapper After Seeking Help in Among Us",
     "source": "IGN",
-    "summary": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
-    "date": "Sat, 7 Nov 2026 03:12:16 +0000",
-    "link": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
+    "summary": "A Utah teenager was rescued from an Oregon man's home after she successfully contacted help from another child in Among Us.",
+    "date": "Sat, 7 Nov 2026 20:06:52 +0000",
+    "link": "https://www.ign.com/articles/missing-teen-saved-from-alleged-kidnapper-after-seeking-help-in-among-us",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.25,
+      "score": 0.11,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Robert Pattinson Reportedly Screen-Tested for 007 in James Bond 26",
+    "title": "Sony Announces Indefinite Delay for PlayStation's Pulse Elevate Wireless Speakers Days Before Launch",
     "source": "IGN",
-    "summary": "Robert Pattinson reportedly screen-tested for the role of 007 in James Bond 26. Lex Luthor actor Nicholas Hoult has also emerged as a contender for the role of Bond.",
-    "date": "Sat, 7 Nov 2026 03:07:58 +0000",
-    "link": "https://www.ign.com/articles/robert-pattinson-bond-26-007-screen-test-nicholas-hoult",
+    "summary": "Sony has announced an indefinite delay for PlayStation's Pulse Elevate wireless speakers just days before their global launch.",
+    "date": "Sat, 7 Nov 2026 18:26:15 +0000",
+    "link": "https://www.ign.com/articles/sony-announces-indefinite-delay-for-playstations-pulse-elevate-wireless-speakers-days-before-launch",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Avengers: Doomsday Car Commercial Features New Look at Nightcrawler, Sparks Theories About Unannounced Heroes",
-    "source": "IGN",
-    "summary": "An Avengers: Doomsday car commercial just revealed a first look at Alan Cumming's Nightcrawler in motion – and it may have teased a surprising cameo, too.",
-    "date": "Sat, 7 Nov 2026 01:14:21 +0000",
-    "link": "https://www.ign.com/articles/avengers-doomsday-car-commercial-features-new-look-at-nightcrawler-sparks-theories-about-unannounced-heroes",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.22,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "I Just Found an Actual Deal on Corsair DDR5 Desktop Memory Ahead of Black Friday",
-    "source": "IGN",
-    "summary": "Caveat: deal-worthiness is relative.",
-    "date": "Fri, 6 Nov 2026 23:30:00 +0000",
-    "link": "https://www.ign.com/articles/corsair-ddr5-desktop-memory-ram-deal-november-2026",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's \"plenty more to do\"",
-    "source": "Eurogamer",
-    "summary": "The Xbox PC app hasn't had the best track record in recent years, but Microsoft is promising that it's now much faster and easier to use than before. Read more...",
-    "date": "Fri, 06 Nov 2026 19:58:20 +0000",
-    "link": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Mass Effect-like RPG The Expanse: Osiris Reborn ropes in David Gaider, the original lead writer of Bioware's Dragon Age series",
-    "source": "Eurogamer",
-    "summary": "The Expanse: Osiris Reborn looks like it's carrying the best bits of Mass Effect forward, and in an encouraging move, the developers have been collaborating with David Gaider. Read more...",
-    "date": "Fri, 06 Nov 2026 18:40:40 +0000",
-    "link": "https://www.eurogamer.net/mass-effect-expanse-rpg-david-gaider",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.62,
-      "badge": "success"
-    },
-    "tags": [
-      "RPG"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Bringing Bloodborne back is tricky because \"there's a lot of involved rights associated,\" according to former PlayStation boss",
-    "source": "Eurogamer",
-    "summary": "Every year, Bloodborne fans pray for the birth of another game set in FromSoftware's Lovecraftian world. Every year, we're no closer to a Bloodborne 2 or even a Bloodborne Remastered. But why? PlayStation's former head honcho, Shawn Layden, blames it on the tricky situation of rights ownership. Read...",
-    "date": "Fri, 06 Nov 2026 17:49:40 +0000",
-    "link": "https://www.eurogamer.net/bloodborne-involved-rights-former-playstation-boss",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.1,
       "badge": "info"
     },
     "tags": [
@@ -123,163 +35,251 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "World of Warcraft: Forever hotfix puts a stop to super speedy flag carriers that were dominating PvP battlegrounds",
-    "source": "Eurogamer",
-    "summary": "World of Warcraft: Forever has received its first major hotfix patch, which among other things has put an end to an especially powerful bug that made PvP battlegrounds like Warsong Gulch favoured to the Horde's advantage. Read more...",
-    "date": "Fri, 06 Nov 2026 14:38:20 +0000",
-    "link": "https://www.eurogamer.net/world-of-warcraft-forever-hotfix-flag-carrier-plainsrunning",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.27,
-      "badge": "success"
-    },
-    "tags": [
-      "Patch"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "10 Funniest 'Far Side' Comics About Cows",
-    "source": "Polygon",
-    "summary": "Gary Larson's The Far Side often featured cows in funny situations. Here are the 10 funniest examples",
-    "date": "Sat, 07 Nov 2026 12:14:17 GMT",
-    "link": "https://www.polygon.com/funniest-far-side-comics-cows/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Mass Effect’s Cruelest Moral Choice Remains Gaming's Most Haunting Mission 19 Years Later",
-    "source": "Polygon",
-    "summary": "Mass Effect’s Homecoming quest asks you to hand a widower his wife’s body or keep it for research. Neither ending feels clean, but one is better",
-    "date": "Sat, 07 Nov 2026 12:00:17 GMT",
-    "link": "https://www.polygon.com/mass-effect-homecoming-samesh-bhatia-choice/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.27,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Sydney Sweeney's New Netflix Sci-Fi Epic Is Mandatory Viewing For Transformers Fans",
-    "source": "Polygon",
-    "summary": "Robots (not) in disguise.",
-    "date": "Sat, 07 Nov 2026 11:30:17 GMT",
-    "link": "https://www.polygon.com/sydney-sweeney-gundam-netflix-transformers-sci-fi-epic/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Magic: The Gathering Star Trek Perfectly Captures the Sci-Fi Show’s Most Brutal Running Joke",
-    "source": "Polygon",
-    "summary": "Lots of Redshirts are going to die",
-    "date": "Sat, 07 Nov 2026 11:00:17 GMT",
-    "link": "https://www.polygon.com/star-trek-redshirts-tokens-explainer/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.28,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff",
-    "source": "PC Gamer",
-    "summary": "\"While it stings, I'm really proud of what we built together.\"",
-    "date": "Sat, 07 Nov 2026 12:18:55 +0000",
-    "link": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB",
-    "source": "PC Gamer",
-    "summary": "Square Enix is 'working to resolve the issue'.",
-    "date": "Sat, 07 Nov 2026 11:15:54 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
+    "id": 3,
+    "title": "Mass Effect Cast Celebrates N7 Day With Video Asking Fans to Help Save the Franchise",
+    "source": "IGN",
+    "summary": "Without BioWare, N7 Day is quieter this year, but that didn't stop the Normandy cast and crew from teaming up for a video message asking fans to help save Mass Effect.",
+    "date": "Sat, 7 Nov 2026 17:28:09 +0000",
+    "link": "https://www.ign.com/articles/mass-effect-cast-celebrates-n7-day-with-video-asking-fans-to-help-save-the-franchise",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "Here's what's in Path of Exile 2’s huge 1.0 release, coming in December",
-    "source": "PC Gamer",
-    "summary": "The full release will feature new classes, finished campaign, a new league, and more.",
-    "date": "Fri, 06 Nov 2026 23:36:21 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/",
+    "id": 4,
+    "title": "BioWare May Be Dead, But a Modder Has Rebuilt Mass Effect 3's Multiplayer Into the Legendary Edition",
+    "source": "IGN",
+    "summary": "When the Mass Effect Legendary Edition came out in 2021, it included the single player campaign of all three original games, along with all the DLC. But while all the story content you could ever want was included, Mass Effect 3's multiplayer mode was conspicuously absent, despite having a dedicated...",
+    "date": "Sat, 7 Nov 2026 17:00:00 +0000",
+    "link": "https://www.ign.com/articles/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.42,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Star Wars Zero Company studio Bit Reactor lays off staff, a month after bringing furloughed developers back",
+    "source": "Eurogamer",
+    "summary": "Star Wars Zero Company developer Bit Reactor has laid off an unspecified number of staff, a month after bringing some of its furloughed team back to work. Read more...",
+    "date": "Sat, 07 Nov 2026 20:06:10 +0000",
+    "link": "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Sony delays PlayStation's Pulse Elevate speakers indefinitely, less than a week before launch",
+    "source": "Eurogamer",
+    "summary": "Sony has delayed its Pulse Elevate wireless speakers indefinitely, less than a week before they were due to launch. Read more...",
+    "date": "Sat, 07 Nov 2026 19:36:10 +0000",
+    "link": "https://www.eurogamer.net/playstation-pulse-elevate-speakers-delayed-indefinitely-production-issue",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem",
+    "source": "Eurogamer",
+    "summary": "Ubisoft is reportedly working on two new Assassin's Creed games, and one of them is set in ancient Rome. Read more...",
+    "date": "Sat, 07 Nov 2026 19:16:50 +0000",
+    "link": "https://www.eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.32,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Wardogs Season 3 brings an urban map, Limited Mode, and a 185,000-account ban wave",
+    "source": "Eurogamer",
+    "summary": "Wardogs' Season 3 will launch on 12th November, complete with a new urban map, a new Limited Mode, and a ban wave targeting 185,000 accounts. Read more...",
+    "date": "Sat, 07 Nov 2026 16:55:30 +0000",
+    "link": "https://www.eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "5 Incredible Anime Arcs That Are 10/10, No Notes",
+    "source": "Polygon",
+    "summary": "These anime storylines elevate these five series with thrilling character developments and satisfying resolutions.",
+    "date": "Sat, 07 Nov 2026 21:04:17 GMT",
+    "link": "https://www.polygon.com/perfect-anime-arcs-everyone-needs-to-watch/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.55,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Commander Shepard’s Actor Accidentally Immortalized One Mass Effect Race as Steve Buscemi",
+    "source": "Polygon",
+    "summary": "Polygon spoke to Mass Effect's Mark Meer about how he joined the series and how he and fellow Shepard Jennifer Hale defined the character.",
+    "date": "Sat, 07 Nov 2026 21:00:17 GMT",
+    "link": "https://www.polygon.com/mass-effect-commander-shepard-mark-meer-interview/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "The No. 1 Horror Movie of 2026 Is Officially Leaving Peacock",
+    "source": "Polygon",
+    "summary": "Unless you have a One Wish Willow handy, you'll want to get in a final watch soon.",
+    "date": "Sat, 07 Nov 2026 20:34:48 GMT",
+    "link": "https://www.polygon.com/obsession-horror-hit-streaming-peacock-november-2026/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.3,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Dropout’s Vic Michaelis Wants to Toss Their Star Wars Character Out a Window",
+    "source": "Polygon",
+    "summary": "Polygon spoke with Dropout's Vic Michaelis about their Star Wars Zero Company character Runa, one of the game's fan-favorite characters.",
+    "date": "Sat, 07 Nov 2026 19:00:18 GMT",
+    "link": "https://www.polygon.com/dropout-vic-michaelis-interview-star-wars-zero-company/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "AMD CEO Lisa Su: 'We are a data center-first company'",
+    "source": "PC Gamer",
+    "summary": "Congratulations.",
+    "date": "Sat, 07 Nov 2026 18:10:16 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "AMD"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "After seeing them myself, I'm convinced WoW: Forever's RP servers don't need to be this separate, and I say that as a decorated veteran of MMO roleplay",
+    "source": "PC Gamer",
+    "summary": "I'm kinda just playing chiller PvE, here.",
+    "date": "Sat, 07 Nov 2026 18:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/after-seeing-them-myself-im-convinced-wow-forevers-rp-servers-dont-need-to-be-this-separate-and-i-say-that-as-a-decorated-veteran-of-mmo-roleplay/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "What's the toughest choice you've made in an RPG?",
+    "source": "PC Gamer",
+    "summary": "Unburden yourself.",
+    "date": "Sat, 07 Nov 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/whats-the-toughest-choice-youve-made-in-an-rpg/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "RPG"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)",
+    "title": "Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice",
     "source": "PC Gamer",
-    "summary": "Are we being trolled here?",
-    "date": "Fri, 06 Nov 2026 23:11:50 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/",
+    "summary": "I recommend openSUSE Tumbleweed, personally.",
+    "date": "Sat, 07 Nov 2026 15:00:00 +0000",
+    "link": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -296,8 +296,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -314,8 +314,8 @@
       "badge": "info"
     },
     "tags": [
-      "AI",
-      "Nvidia"
+      "Nvidia",
+      "AI"
     ],
     "read_time": "1 min read"
   },
@@ -332,8 +332,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -350,8 +350,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
