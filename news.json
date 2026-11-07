@@ -1,6 +1,42 @@
 [
   {
     "id": 1,
+    "title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
+    "source": "IGN",
+    "summary": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
+    "date": "Sat, 7 Nov 2026 03:12:16 +0000",
+    "link": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Robert Pattinson Reportedly Screen-Tested for 007 in James Bond 26",
+    "source": "IGN",
+    "summary": "Robert Pattinson reportedly screen-tested for the role of 007 in James Bond 26. Lex Luthor actor Nicholas Hoult has also emerged as a contender for the role of Bond.",
+    "date": "Sat, 7 Nov 2026 03:07:58 +0000",
+    "link": "https://www.ign.com/articles/robert-pattinson-bond-26-007-screen-test-nicholas-hoult",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
     "title": "Avengers: Doomsday Car Commercial Features New Look at Nightcrawler, Sparks Theories About Unannounced Heroes",
     "source": "IGN",
     "summary": "An Avengers: Doomsday car commercial just revealed a first look at Alan Cumming's Nightcrawler in motion – and it may have teased a surprising cameo, too.",
@@ -18,7 +54,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "I Just Found an Actual Deal on Corsair DDR5 Desktop Memory Ahead of Black Friday",
     "source": "IGN",
     "summary": "Caveat: deal-worthiness is relative.",
@@ -32,41 +68,6 @@
     "tags": [
       "Gaming",
       "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "The Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to a Mere $131 Ahead of Black Friday",
-    "source": "IGN",
-    "summary": "The best entry-level 3D printer deal so far heading into the holiday season.",
-    "date": "Fri, 6 Nov 2026 23:30:00 +0000",
-    "link": "https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-november-2026",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Get a Nintendo Switch 2 Console (USA Model) for $448 During the AliExpress Early Black Friday Sale",
-    "source": "IGN",
-    "summary": "Just in time to play The Legend of Zelda: Ocarina of Time which comes out this week.",
-    "date": "Fri, 6 Nov 2026 23:25:00 +0000",
-    "link": "https://www.ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Nintendo"
     ],
     "read_time": "1 min read"
   },
@@ -140,14 +141,14 @@
   },
   {
     "id": 9,
-    "title": "The 8 Best Castlevania Games Of All Time, Ranked",
+    "title": "10 Funniest 'Far Side' Comics About Cows",
     "source": "Polygon",
-    "summary": "The finest Castlevania games of all time come from multiple decades. Together, they built a franchise that is better than ever.",
-    "date": "Sat, 07 Nov 2026 03:52:17 GMT",
-    "link": "https://www.polygon.com/best-castlevania-games/",
+    "summary": "Gary Larson's The Far Side often featured cows in funny situations. Here are the 10 funniest examples",
+    "date": "Sat, 07 Nov 2026 12:14:17 GMT",
+    "link": "https://www.polygon.com/funniest-far-side-comics-cows/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.5,
+      "score": 0.15,
       "badge": "success"
     },
     "tags": [
@@ -158,32 +159,33 @@
   },
   {
     "id": 10,
-    "title": "10 Essential GBA Games Still Disappointingly Missing From Nintendo Switch Online",
+    "title": "Mass Effect’s Cruelest Moral Choice Remains Gaming's Most Haunting Mission 19 Years Later",
     "source": "Polygon",
-    "summary": "Loads of GBA classics are already available on Switch Online, but 10 more terrific games need to join the service.",
-    "date": "Sat, 07 Nov 2026 03:29:33 GMT",
-    "link": "https://www.polygon.com/game-boy-advance-games-missing-nintendo-switch-online/",
+    "summary": "Mass Effect’s Homecoming quest asks you to hand a widower his wife’s body or keep it for research. Neither ending feels clean, but one is better",
+    "date": "Sat, 07 Nov 2026 12:00:17 GMT",
+    "link": "https://www.polygon.com/mass-effect-homecoming-samesh-bhatia-choice/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.14,
+      "score": 0.27,
       "badge": "success"
     },
     "tags": [
-      "Nintendo"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "10 Devastating Game Cancellations That Are Still Disappointing Years Later",
+    "title": "Sydney Sweeney's New Netflix Sci-Fi Epic Is Mandatory Viewing For Transformers Fans",
     "source": "Polygon",
-    "summary": "Canceled games are nothing new, but 10 exciting games were taken out of action before they could deliver on their promise.",
-    "date": "Sat, 07 Nov 2026 03:03:27 GMT",
-    "link": "https://www.polygon.com/game-cancellations/",
+    "summary": "Robots (not) in disguise.",
+    "date": "Sat, 07 Nov 2026 11:30:17 GMT",
+    "link": "https://www.polygon.com/sydney-sweeney-gundam-netflix-transformers-sci-fi-epic/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.21,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -193,15 +195,15 @@
   },
   {
     "id": 12,
-    "title": "GTA 6's Biggest Competition Officially Arrives on PC in 2027",
+    "title": "Magic: The Gathering Star Trek Perfectly Captures the Sci-Fi Show’s Most Brutal Running Joke",
     "source": "Polygon",
-    "summary": "Ananta, the \"anime GTA\" game from NetEase, has an early 2027 release date, steering clear of Rockstar Games' Grand Theft Auto 6.",
-    "date": "Sat, 07 Nov 2026 02:43:17 GMT",
-    "link": "https://www.polygon.com/ananta-anime-gta-pc-ps5-release-date-2027-netease-games/",
+    "summary": "Lots of Redshirts are going to die",
+    "date": "Sat, 07 Nov 2026 11:00:17 GMT",
+    "link": "https://www.polygon.com/star-trek-redshirts-tokens-explainer/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.28,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -211,6 +213,42 @@
   },
   {
     "id": 13,
+    "title": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff",
+    "source": "PC Gamer",
+    "summary": "\"While it stings, I'm really proud of what we built together.\"",
+    "date": "Sat, 07 Nov 2026 12:18:55 +0000",
+    "link": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB",
+    "source": "PC Gamer",
+    "summary": "Square Enix is 'working to resolve the issue'.",
+    "date": "Sat, 07 Nov 2026 11:15:54 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
     "title": "Here's what's in Path of Exile 2’s huge 1.0 release, coming in December",
     "source": "PC Gamer",
     "summary": "The full release will feature new classes, finished campaign, a new league, and more.",
@@ -228,7 +266,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)",
     "source": "PC Gamer",
     "summary": "Are we being trolled here?",
@@ -238,41 +276,6 @@
       "label": "Positive / Hype",
       "score": 0.2,
       "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "The AI posting war is heating up: 'Please, leave me behind,' says artist who got into it with Epic CEO Tim Sweeney on X",
-    "source": "PC Gamer",
-    "summary": "Two factions of gamers and game developers are at an impasse.",
-    "date": "Fri, 06 Nov 2026 22:21:50 +0000",
-    "link": "https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.23,
-      "badge": "danger"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Path of Exile 2 announces a second new class, the Shadow, for its December 1.0 release",
-    "source": "PC Gamer",
-    "summary": "Two classes two furious.",
-    "date": "Fri, 06 Nov 2026 21:50:58 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/path-of-exile-2-announces-a-second-new-class-the-shadow-for-its-december-1-0-release/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -311,8 +314,8 @@
       "badge": "info"
     },
     "tags": [
-      "Nvidia",
-      "AI"
+      "AI",
+      "Nvidia"
     ],
     "read_time": "1 min read"
   },
