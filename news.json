@@ -1,6 +1,24 @@
 [
   {
     "id": 1,
+    "title": "Epic Reveals Drop Rate for Fortnite's Pirate Token Following Pressure From Fans",
+    "source": "IGN",
+    "summary": "Epic Games has revealed the drop rate for Fortnite's Pirate Token after backlash surrounding the infamous in-game pickup saw fans try to report the studio to the FTC.",
+    "date": "Sun, 8 Nov 2026 06:37:04 +0000",
+    "link": "https://www.ign.com/articles/epic-reveals-drop-rate-for-fortnites-pirate-token-following-pressure-from-fans",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
     "title": "LEGO Black Friday 2026 Sales: What to Expect",
     "source": "IGN",
     "summary": "You can expect to see plenty of deals on LEGO sets during Black Friday 2026. I've covered LEGO deals for years, and here's what I expect to see this year.",
@@ -12,13 +30,13 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "The Best Deals Today: Frakenstein 4K UHD Blu-ray, Dragon Ball Super Complete Series, Gears of War: E-Day, and More",
     "source": "IGN",
     "summary": "",
@@ -30,13 +48,13 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Missing Teen Saved From Alleged Kidnapper After Seeking Help in Among Us",
     "source": "IGN",
     "summary": "A Utah teenager was rescued from an Oregon man's home after she successfully contacted help from another child in Among Us.",
@@ -48,25 +66,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Sony Announces Indefinite Delay for PlayStation's Pulse Elevate Wireless Speakers Days Before Launch",
-    "source": "IGN",
-    "summary": "Sony has announced an indefinite delay for PlayStation's Pulse Elevate wireless speakers just days before their global launch.",
-    "date": "Sat, 7 Nov 2026 18:26:15 +0000",
-    "link": "https://www.ign.com/articles/sony-announces-indefinite-delay-for-playstations-pulse-elevate-wireless-speakers-days-before-launch",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "PlayStation"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -83,8 +84,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -118,8 +119,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -136,84 +137,102 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "Paramount’s 4-Part Action Fantasy Epic Has One of the Best Seasons in TV History",
+    "title": "Zelda: Ocarina of Time Beats The Elder Scrolls 5: Skyrim in One Major Way",
     "source": "Polygon",
-    "summary": "In its third season, a beloved animated hero grows up the hard way, living with the fallout of her biggest choice and facing a chilling new villain.",
-    "date": "Sun, 08 Nov 2026 04:00:17 GMT",
-    "link": "https://www.polygon.com/the-legend-of-korra-season-3-best-season/",
+    "summary": "Ocarina of Time and The Elder Scrolls 5: Skyrim are two of the industry's biggest games, but their publishers have deployed them very differently.",
+    "date": "Sun, 08 Nov 2026 12:00:17 GMT",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-better-than-elder-scrolls-skyrim/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "9 Near-Perfect Dragon Age Replacements For Fans of Fantasy RPGs",
+    "title": "Matt Mercer's Best Critical Role Quote Is Still the Most Inspiring Line in D&D History",
     "source": "Polygon",
-    "summary": "If you're looking for the best games like Dragon Age, these Dragon Age replacement fantasy RPGs have you covered.",
-    "date": "Sun, 08 Nov 2026 03:40:49 GMT",
-    "link": "https://www.polygon.com/best-dragon-age-replacements/",
+    "summary": "If you're looking to become a Dungeon Master, Matthew Mercer's advice is all you need.",
+    "date": "Sun, 08 Nov 2026 11:00:17 GMT",
+    "link": "https://www.polygon.com/matthew-mercer-dungeon-master-advice-dungeons-and-dragons/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 1.0,
+      "score": 0.5,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "How to Play Every GTA Game in 2026",
+    "title": "68 Years Later, Peanuts’ Most Mysterious Character Is Finally Making Her Official Debut — But There's a Catch",
     "source": "Polygon",
-    "summary": "GTA might be the most popular video game franchise of all time, but a lot of it is hard to play. Here's a guide on how to play every GTA game.",
-    "date": "Sun, 08 Nov 2026 02:54:13 GMT",
-    "link": "https://www.polygon.com/gta-games-all-2026-where-to-play/",
+    "summary": "\"Yeah, but Morag--\" Hang on, we're covering that",
+    "date": "Sun, 08 Nov 2026 10:30:17 GMT",
+    "link": "https://www.polygon.com/charlie-brown-pencil-pal-history-peanuts/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "8 Near-Perfect BioWare Games That Aged Like Fine Wine",
+    "title": "Bethesda's Most Reviled Game Becomes a 10/10 If You Ignore the Story",
     "source": "Polygon",
-    "summary": "From Baldur's Gate to a surprisingly good Sonic RPG, these 8 BioWare games still hold up decades later",
-    "date": "Sun, 08 Nov 2026 02:43:33 GMT",
-    "link": "https://www.polygon.com/top-bioware-games/",
+    "summary": "If you bounced from one of Bethesda's biggest releases because the plot didn't spark interest, you missed out.",
+    "date": "Sun, 08 Nov 2026 10:00:17 GMT",
+    "link": "https://www.polygon.com/starfield-retrospective-bethesda-story/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
     },
     "tags": [
-      "RPG"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
+    "title": "As Wardogs Season 3 looms, Bulkhead claims to have built 'one of the world's most sophisticated anti-cheat systems', assisted by 'machine learning and AI'",
+    "source": "PC Gamer",
+    "summary": "Season 3 also brings a new map and multi-path unlocks.",
+    "date": "Sun, 08 Nov 2026 12:16:51 +0000",
+    "link": "https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.38,
+      "badge": "success"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
     "title": "Path of Exile 2's game director thinks a death recap will finally allow us players to complain about the right things",
     "source": "PC Gamer",
     "summary": "Sometimes it's you, sometimes it's the crab",
@@ -225,13 +244,13 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "A BioWare documentary was already in the works when the shutdown was announced: 'With the studio's recent closure, the film is now a profound valediction'",
     "source": "PC Gamer",
     "summary": "\"The best stories never really end.\"",
@@ -243,13 +262,13 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "Chess is immediately more fun if you jettison most of the rules and replace them with weapons-grade Game Boy Advance",
     "source": "PC Gamer",
     "summary": "\"Pawn Chess\" is whatever you want it to be in Rulehouse.",
@@ -261,26 +280,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "One of the buggiest D&D games ever released, Pool of Radiance: Ruins of Myth Drannor, is back and actually playable again",
-    "source": "PC Gamer",
-    "summary": "But did anyone ask for this?",
-    "date": "Sat, 07 Nov 2026 23:22:07 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/one-of-the-buggiest-d-and-d-games-ever-released-pool-of-radiance-ruins-of-myth-drannor-is-back-and-actually-playable-again/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -297,8 +298,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -315,8 +316,8 @@
       "badge": "info"
     },
     "tags": [
-      "Nvidia",
-      "AI"
+      "AI",
+      "Nvidia"
     ],
     "read_time": "1 min read"
   },
@@ -333,8 +334,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -351,8 +352,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
