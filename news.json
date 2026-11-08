@@ -1,6 +1,58 @@
 [
   {
     "id": 1,
+    "title": "Former PlayStation Boss Says Sony Doesn't Need a 'PS6 for $1,200,' It Needs a 'PS5 for $300'",
+    "source": "IGN",
+    "summary": "Former PlayStation boss Shawn Layden said he thinks innovation at Sony shouldn't come \"from making a PS6 for $1,200\" but from making \"another PS5 for $300.\"",
+    "date": "Sun, 8 Nov 2026 20:11:55 +0000",
+    "link": "https://www.ign.com/articles/former-playstation-boss-says-sony-doesnt-need-a-ps6-for-1200-it-needs-a-ps5-for-300",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Godzilla Minus Zero Stomps on Expectations With $63 Million Box Office Opening Weekend",
+    "source": "IGN",
+    "summary": "Godzilla Minus Zero crushed expectations with a strong $63 million in its opening weekend at the global box office.",
+    "date": "Sun, 8 Nov 2026 18:47:03 +0000",
+    "link": "https://www.ign.com/articles/godzilla-minus-zero-stomps-on-expectations-with-63-million-box-office-opening-weekend",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "The Legend of Zelda: Ocarina of Time Speedrunners Have Already Found New Ways to Break the Remake",
+    "source": "IGN",
+    "summary": "From quicker movement to sending Link to space, The Legend of Zelda: Ocarina of Time speedrunners have already found a few ways to break the remake.",
+    "date": "Sun, 8 Nov 2026 17:04:56 +0000",
+    "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-speedrunners-have-already-found-new-ways-to-break-the-remake",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
     "title": "Epic Reveals Drop Rate for Fortnite's Pirate Token Following Pressure From Fans",
     "source": "IGN",
     "summary": "Epic Games has revealed the drop rate for Fortnite's Pirate Token after backlash surrounding the infamous in-game pickup saw fans try to report the studio to the FTC.",
@@ -12,276 +64,223 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "LEGO Black Friday 2026 Sales: What to Expect",
-    "source": "IGN",
-    "summary": "You can expect to see plenty of deals on LEGO sets during Black Friday 2026. I've covered LEGO deals for years, and here's what I expect to see this year.",
-    "date": "Sun, 8 Nov 2026 00:10:28 +0000",
-    "link": "https://www.ign.com/articles/lego-black-friday-2026-sales-what-to-expect",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.17,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "The Best Deals Today: Frakenstein 4K UHD Blu-ray, Dragon Ball Super Complete Series, Gears of War: E-Day, and More",
-    "source": "IGN",
-    "summary": "",
-    "date": "Sat, 7 Nov 2026 21:52:49 +0000",
-    "link": "https://www.ign.com/articles/best-deals-for-november-7-2026",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.48,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Missing Teen Saved From Alleged Kidnapper After Seeking Help in Among Us",
-    "source": "IGN",
-    "summary": "A Utah teenager was rescued from an Oregon man's home after she successfully contacted help from another child in Among Us.",
-    "date": "Sat, 7 Nov 2026 20:06:52 +0000",
-    "link": "https://www.ign.com/articles/missing-teen-saved-from-alleged-kidnapper-after-seeking-help-in-among-us",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
-    "title": "Star Wars Zero Company studio Bit Reactor lays off staff, a month after bringing furloughed developers back",
+    "title": "Ocarina of Time remake datamine suggests Master Quest is on the way",
     "source": "Eurogamer",
-    "summary": "Star Wars Zero Company developer Bit Reactor has laid off an unspecified number of staff, a month after bringing some of its furloughed team back to work. Read more...",
-    "date": "Sat, 07 Nov 2026 20:06:10 +0000",
-    "link": "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Sony delays PlayStation's Pulse Elevate speakers indefinitely, less than a week before launch",
-    "source": "Eurogamer",
-    "summary": "Sony has delayed its Pulse Elevate wireless speakers indefinitely, less than a week before they were due to launch. Read more...",
-    "date": "Sat, 07 Nov 2026 19:36:10 +0000",
-    "link": "https://www.eurogamer.net/playstation-pulse-elevate-speakers-delayed-indefinitely-production-issue",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem",
-    "source": "Eurogamer",
-    "summary": "Ubisoft is reportedly working on two new Assassin's Creed games, and one of them is set in ancient Rome. Read more...",
-    "date": "Sat, 07 Nov 2026 19:16:50 +0000",
-    "link": "https://www.eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour",
+    "summary": "Ocarina of Time's notoriously tricky Master Quest mode could be making a comeback in the new remake. Read more...",
+    "date": "Sun, 08 Nov 2026 17:39:10 +0000",
+    "link": "https://www.eurogamer.net/zelda-ocarina-of-time-remake-master-quest-dlc-datamine",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.32,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Remake"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "Wardogs Season 3 brings an urban map, Limited Mode, and a 185,000-account ban wave",
+    "id": 6,
+    "title": "Phasmophobia players raise over $230,000 for heart charity, more than double last year's total",
     "source": "Eurogamer",
-    "summary": "Wardogs' Season 3 will launch on 12th November, complete with a new urban map, a new Limited Mode, and a ban wave targeting 185,000 accounts. Read more...",
-    "date": "Sat, 07 Nov 2026 16:55:30 +0000",
-    "link": "https://www.eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "Zelda: Ocarina of Time Beats The Elder Scrolls 5: Skyrim in One Major Way",
-    "source": "Polygon",
-    "summary": "Ocarina of Time and The Elder Scrolls 5: Skyrim are two of the industry's biggest games, but their publishers have deployed them very differently.",
-    "date": "Sun, 08 Nov 2026 12:00:17 GMT",
-    "link": "https://www.polygon.com/zelda-ocarina-of-time-better-than-elder-scrolls-skyrim/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Matt Mercer's Best Critical Role Quote Is Still the Most Inspiring Line in D&D History",
-    "source": "Polygon",
-    "summary": "If you're looking to become a Dungeon Master, Matthew Mercer's advice is all you need.",
-    "date": "Sun, 08 Nov 2026 11:00:17 GMT",
-    "link": "https://www.polygon.com/matthew-mercer-dungeon-master-advice-dungeons-and-dragons/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "68 Years Later, Peanuts’ Most Mysterious Character Is Finally Making Her Official Debut — But There's a Catch",
-    "source": "Polygon",
-    "summary": "\"Yeah, but Morag--\" Hang on, we're covering that",
-    "date": "Sun, 08 Nov 2026 10:30:17 GMT",
-    "link": "https://www.polygon.com/charlie-brown-pencil-pal-history-peanuts/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Bethesda's Most Reviled Game Becomes a 10/10 If You Ignore the Story",
-    "source": "Polygon",
-    "summary": "If you bounced from one of Bethesda's biggest releases because the plot didn't spark interest, you missed out.",
-    "date": "Sun, 08 Nov 2026 10:00:17 GMT",
-    "link": "https://www.polygon.com/starfield-retrospective-bethesda-story/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "As Wardogs Season 3 looms, Bulkhead claims to have built 'one of the world's most sophisticated anti-cheat systems', assisted by 'machine learning and AI'",
-    "source": "PC Gamer",
-    "summary": "Season 3 also brings a new map and multi-path unlocks.",
-    "date": "Sun, 08 Nov 2026 12:16:51 +0000",
-    "link": "https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.38,
-      "badge": "success"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Path of Exile 2's game director thinks a death recap will finally allow us players to complain about the right things",
-    "source": "PC Gamer",
-    "summary": "Sometimes it's you, sometimes it's the crab",
-    "date": "Sun, 08 Nov 2026 02:13:27 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/path-of-exile-2s-game-director-thinks-a-death-recap-will-finally-allow-us-players-to-complain-about-the-right-things/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "A BioWare documentary was already in the works when the shutdown was announced: 'With the studio's recent closure, the film is now a profound valediction'",
-    "source": "PC Gamer",
-    "summary": "\"The best stories never really end.\"",
-    "date": "Sun, 08 Nov 2026 01:31:13 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/a-bioware-documentary-was-already-in-the-works-when-the-shutdown-was-announced-with-the-studios-recent-closure-the-film-is-now-a-profound-valediction/",
+    "summary": "The Phasmophobia community has raised more than $230,000 (around £173,000) for the American Heart Association, more than doubling last year's total. Read more...",
+    "date": "Sun, 08 Nov 2026 16:41:10 +0000",
+    "link": "https://www.eurogamer.net/phasmophobia-ghost-hunts-for-hearts-230000-american-heart-association",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.2,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Saving Mass Effect would take $200m+, says BioWare co-founder",
+    "source": "Eurogamer",
+    "summary": "Anyone hoping to buy Mass Effect from EA and finish what BioWare started needs to get saving now, as it could cost over $200 million (£150m). Read more...",
+    "date": "Sun, 08 Nov 2026 14:31:00 +0000",
+    "link": "https://www.eurogamer.net/mass-effect-5-save-cost-200m-bioware-co-founder-trent-oster",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Missing teenager rescued after reaching out to another player in Among Us",
+    "source": "Eurogamer",
+    "summary": "A teenager who went missing in Utah more than 17 months ago has been rescued from a home in Oregon after she got in touch with another young player in Among Us. Read more...",
+    "date": "Sun, 08 Nov 2026 13:28:20 +0000",
+    "link": "https://www.eurogamer.net/among-us-missing-teen-rescued-utah-oregon",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "25 Years Later, ‘Buffy the Vampire Slayer’s Best Quote Is Still the Most Inspiring Line in TV History",
+    "source": "Polygon",
+    "summary": "Buffy’s sacrifice for Dawn in the season 5 finale gave us one of the show’s best quotes and an ending that could have closed the series for good.",
+    "date": "Sun, 08 Nov 2026 21:00:17 GMT",
+    "link": "https://www.polygon.com/buffy-the-vampire-slayer-best-buffy-quote/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.51,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "All vault locations in the Fortnite Chapter 7 mini season",
+    "source": "Polygon",
+    "summary": "Vaults are full of valuable loot in Fortnite Chapter 7's mini season. Here's where to find them all and how to open them.",
+    "date": "Sun, 08 Nov 2026 18:39:47 GMT",
+    "link": "https://www.polygon.com/fortnite-chapter-7-vault-locations-c7ms/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "All map fragment locations in the Fortnite Chapter 7 mini season",
+    "source": "Polygon",
+    "summary": "Here's where to find all the currently available map fragments in Fortnite's Chapter 7 mini season.",
+    "date": "Sun, 08 Nov 2026 17:33:11 GMT",
+    "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "All sprites in the Fortnite Chapter 7 mini season",
+    "source": "Polygon",
+    "summary": "Here's a list of the currently available sprite in Fortnite's Chapter 7 \"Treasure Hunters\" mini season, along with what they do.",
+    "date": "Sun, 08 Nov 2026 17:26:26 GMT",
+    "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-all-sprites-list-abilities/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Skyrim lead designer Bruce Nesmith loved that Baldur's Gate 3 closed off story paths based on your decisions, but defends Bethesda's approach: 'They were both fun, they're just fun in different ways'",
+    "source": "PC Gamer",
+    "summary": "I love being Cyrodiil's one-man deep state in charge of all major economic, social, criminal, and paramilitary organizations.",
+    "date": "Sun, 08 Nov 2026 18:33:45 +0000",
+    "link": "https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-bruce-nesmith-loved-that-baldurs-gate-3-closed-off-story-paths-based-on-your-decisions-but-defends-bethesdas-approach-they-were-both-fun-theyre-just-fun-in-different-ways/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "My apologies Deadlock, I wasn't familiar with your (musical) game",
+    "source": "PC Gamer",
+    "summary": "Yeah, yeah, I'm the Hidden King.",
+    "date": "Sun, 08 Nov 2026 18:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/moba/my-apologies-deadlock-i-wasnt-familiar-with-your-musical-game/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Ichorous is the bloody platformer I've been waiting for ever since I finished Blasphemous 2",
+    "source": "PC Gamer",
+    "summary": "I impale myself with a sword to heal? I'm sold!",
+    "date": "Sun, 08 Nov 2026 18:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/roguelike/ichorous-is-the-bloody-platformer-ive-been-waiting-for-ever-since-i-finished-blasphemous-2/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -1.0,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Chess is immediately more fun if you jettison most of the rules and replace them with weapons-grade Game Boy Advance",
+    "title": "Dominic Armato, voice of Guybrush Threepwood, has always loved LucasArts' adventure games, but there's one he still can't get into: 'I get 10 minutes in and I'm like, oh, this is tedious, man'",
     "source": "PC Gamer",
-    "summary": "\"Pawn Chess\" is whatever you want it to be in Rulehouse.",
-    "date": "Sun, 08 Nov 2026 00:40:53 +0000",
-    "link": "https://www.pcgamer.com/games/puzzle/chess-is-immediately-more-fun-if-you-jettison-most-of-the-rules-and-replace-them-with-weapons-grade-game-boy-advance/",
+    "summary": "The actor and food critic guides us through the games on his PC.",
+    "date": "Sun, 08 Nov 2026 16:00:00 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/dominic-armato-voice-of-guybrush-threepwood-has-always-loved-lucasarts-adventure-games-but-theres-one-he-still-cant-get-into-i-get-10-minutes-in-and-im-like-oh-this-is-tedious-man/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.23,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -298,8 +297,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -316,8 +315,8 @@
       "badge": "info"
     },
     "tags": [
-      "AI",
-      "Nvidia"
+      "Nvidia",
+      "AI"
     ],
     "read_time": "1 min read"
   },
@@ -334,8 +333,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -352,8 +351,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
