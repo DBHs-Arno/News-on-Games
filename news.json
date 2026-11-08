@@ -1,6 +1,42 @@
 [
   {
     "id": 1,
+    "title": "LEGO Black Friday 2026 Sales: What to Expect",
+    "source": "IGN",
+    "summary": "You can expect to see plenty of deals on LEGO sets during Black Friday 2026. I've covered LEGO deals for years, and here's what I expect to see this year.",
+    "date": "Sun, 8 Nov 2026 00:10:28 +0000",
+    "link": "https://www.ign.com/articles/lego-black-friday-2026-sales-what-to-expect",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.17,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "The Best Deals Today: Frakenstein 4K UHD Blu-ray, Dragon Ball Super Complete Series, Gears of War: E-Day, and More",
+    "source": "IGN",
+    "summary": "",
+    "date": "Sat, 7 Nov 2026 21:52:49 +0000",
+    "link": "https://www.ign.com/articles/best-deals-for-november-7-2026",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.48,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
     "title": "Missing Teen Saved From Alleged Kidnapper After Seeking Help in Among Us",
     "source": "IGN",
     "summary": "A Utah teenager was rescued from an Oregon man's home after she successfully contacted help from another child in Among Us.",
@@ -18,7 +54,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "Sony Announces Indefinite Delay for PlayStation's Pulse Elevate Wireless Speakers Days Before Launch",
     "source": "IGN",
     "summary": "Sony has announced an indefinite delay for PlayStation's Pulse Elevate wireless speakers just days before their global launch.",
@@ -31,42 +67,6 @@
     },
     "tags": [
       "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Mass Effect Cast Celebrates N7 Day With Video Asking Fans to Help Save the Franchise",
-    "source": "IGN",
-    "summary": "Without BioWare, N7 Day is quieter this year, but that didn't stop the Normandy cast and crew from teaming up for a video message asking fans to help save Mass Effect.",
-    "date": "Sat, 7 Nov 2026 17:28:09 +0000",
-    "link": "https://www.ign.com/articles/mass-effect-cast-celebrates-n7-day-with-video-asking-fans-to-help-save-the-franchise",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "BioWare May Be Dead, But a Modder Has Rebuilt Mass Effect 3's Multiplayer Into the Legendary Edition",
-    "source": "IGN",
-    "summary": "When the Mass Effect Legendary Edition came out in 2021, it included the single player campaign of all three original games, along with all the DLC. But while all the story content you could ever want was included, Mass Effect 3's multiplayer mode was conspicuously absent, despite having a dedicated...",
-    "date": "Sat, 7 Nov 2026 17:00:00 +0000",
-    "link": "https://www.ign.com/articles/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.42,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -143,14 +143,14 @@
   },
   {
     "id": 9,
-    "title": "5 Incredible Anime Arcs That Are 10/10, No Notes",
+    "title": "Paramount’s 4-Part Action Fantasy Epic Has One of the Best Seasons in TV History",
     "source": "Polygon",
-    "summary": "These anime storylines elevate these five series with thrilling character developments and satisfying resolutions.",
-    "date": "Sat, 07 Nov 2026 21:04:17 GMT",
-    "link": "https://www.polygon.com/perfect-anime-arcs-everyone-needs-to-watch/",
+    "summary": "In its third season, a beloved animated hero grows up the hard way, living with the fallout of her biggest choice and facing a chilling new villain.",
+    "date": "Sun, 08 Nov 2026 04:00:17 GMT",
+    "link": "https://www.polygon.com/the-legend-of-korra-season-3-best-season/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.55,
+      "score": 0.16,
       "badge": "success"
     },
     "tags": [
@@ -161,32 +161,14 @@
   },
   {
     "id": 10,
-    "title": "Commander Shepard’s Actor Accidentally Immortalized One Mass Effect Race as Steve Buscemi",
+    "title": "9 Near-Perfect Dragon Age Replacements For Fans of Fantasy RPGs",
     "source": "Polygon",
-    "summary": "Polygon spoke to Mass Effect's Mark Meer about how he joined the series and how he and fellow Shepard Jennifer Hale defined the character.",
-    "date": "Sat, 07 Nov 2026 21:00:17 GMT",
-    "link": "https://www.polygon.com/mass-effect-commander-shepard-mark-meer-interview/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "The No. 1 Horror Movie of 2026 Is Officially Leaving Peacock",
-    "source": "Polygon",
-    "summary": "Unless you have a One Wish Willow handy, you'll want to get in a final watch soon.",
-    "date": "Sat, 07 Nov 2026 20:34:48 GMT",
-    "link": "https://www.polygon.com/obsession-horror-hit-streaming-peacock-november-2026/",
+    "summary": "If you're looking for the best games like Dragon Age, these Dragon Age replacement fantasy RPGs have you covered.",
+    "date": "Sun, 08 Nov 2026 03:40:49 GMT",
+    "link": "https://www.polygon.com/best-dragon-age-replacements/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.3,
+      "score": 1.0,
       "badge": "success"
     },
     "tags": [
@@ -196,15 +178,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "Dropout’s Vic Michaelis Wants to Toss Their Star Wars Character Out a Window",
+    "id": 11,
+    "title": "How to Play Every GTA Game in 2026",
     "source": "Polygon",
-    "summary": "Polygon spoke with Dropout's Vic Michaelis about their Star Wars Zero Company character Runa, one of the game's fan-favorite characters.",
-    "date": "Sat, 07 Nov 2026 19:00:18 GMT",
-    "link": "https://www.polygon.com/dropout-vic-michaelis-interview-star-wars-zero-company/",
+    "summary": "GTA might be the most popular video game franchise of all time, but a lot of it is hard to play. Here's a guide on how to play every GTA game.",
+    "date": "Sun, 08 Nov 2026 02:54:13 GMT",
+    "link": "https://www.polygon.com/gta-games-all-2026-where-to-play/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.1,
+      "score": -0.07,
       "badge": "info"
     },
     "tags": [
@@ -214,33 +196,51 @@
     "read_time": "1 min read"
   },
   {
+    "id": 12,
+    "title": "8 Near-Perfect BioWare Games That Aged Like Fine Wine",
+    "source": "Polygon",
+    "summary": "From Baldur's Gate to a surprisingly good Sonic RPG, these 8 BioWare games still hold up decades later",
+    "date": "Sun, 08 Nov 2026 02:43:33 GMT",
+    "link": "https://www.polygon.com/top-bioware-games/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
     "id": 13,
-    "title": "AMD CEO Lisa Su: 'We are a data center-first company'",
+    "title": "Path of Exile 2's game director thinks a death recap will finally allow us players to complain about the right things",
     "source": "PC Gamer",
-    "summary": "Congratulations.",
-    "date": "Sat, 07 Nov 2026 18:10:16 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company/",
+    "summary": "Sometimes it's you, sometimes it's the crab",
+    "date": "Sun, 08 Nov 2026 02:13:27 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/path-of-exile-2s-game-director-thinks-a-death-recap-will-finally-allow-us-players-to-complain-about-the-right-things/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": -0.04,
       "badge": "info"
     },
     "tags": [
-      "AMD"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "After seeing them myself, I'm convinced WoW: Forever's RP servers don't need to be this separate, and I say that as a decorated veteran of MMO roleplay",
+    "title": "A BioWare documentary was already in the works when the shutdown was announced: 'With the studio's recent closure, the film is now a profound valediction'",
     "source": "PC Gamer",
-    "summary": "I'm kinda just playing chiller PvE, here.",
-    "date": "Sat, 07 Nov 2026 18:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/world-of-warcraft/after-seeing-them-myself-im-convinced-wow-forevers-rp-servers-dont-need-to-be-this-separate-and-i-say-that-as-a-decorated-veteran-of-mmo-roleplay/",
+    "summary": "\"The best stories never really end.\"",
+    "date": "Sun, 08 Nov 2026 01:31:13 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/a-bioware-documentary-was-already-in-the-works-when-the-shutdown-was-announced-with-the-studios-recent-closure-the-film-is-now-a-profound-valediction/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -250,31 +250,32 @@
   },
   {
     "id": 15,
-    "title": "What's the toughest choice you've made in an RPG?",
+    "title": "Chess is immediately more fun if you jettison most of the rules and replace them with weapons-grade Game Boy Advance",
     "source": "PC Gamer",
-    "summary": "Unburden yourself.",
-    "date": "Sat, 07 Nov 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/whats-the-toughest-choice-youve-made-in-an-rpg/",
+    "summary": "\"Pawn Chess\" is whatever you want it to be in Rulehouse.",
+    "date": "Sun, 08 Nov 2026 00:40:53 +0000",
+    "link": "https://www.pcgamer.com/games/puzzle/chess-is-immediately-more-fun-if-you-jettison-most-of-the-rules-and-replace-them-with-weapons-grade-game-boy-advance/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.23,
+      "badge": "success"
     },
     "tags": [
-      "RPG"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice",
+    "title": "One of the buggiest D&D games ever released, Pool of Radiance: Ruins of Myth Drannor, is back and actually playable again",
     "source": "PC Gamer",
-    "summary": "I recommend openSUSE Tumbleweed, personally.",
-    "date": "Sat, 07 Nov 2026 15:00:00 +0000",
-    "link": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/",
+    "summary": "But did anyone ask for this?",
+    "date": "Sat, 07 Nov 2026 23:22:07 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/one-of-the-buggiest-d-and-d-games-ever-released-pool-of-radiance-ruins-of-myth-drannor-is-back-and-actually-playable-again/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": -0.05,
       "badge": "info"
     },
     "tags": [
