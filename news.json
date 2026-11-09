@@ -1,354 +1,358 @@
 [
   {
     "id": 1,
-    "title": "Denis Villeneuve Praises Human Creativity Over AI Prompts, Almost Announces New Bond",
+    "title": "Exterminauts Turns You and 2 Friends Into Intergalactic Pest Control Techs With Some Really Spicy Secondary Weapons | IGN Preview",
     "source": "IGN",
-    "summary": "Denis Villeneuve Praises Human Creativity Over AI Prompts, Almost Announces New Bond",
-    "date": "Mon, 9 Nov 2026 02:28:29 +0000",
-    "link": "https://www.ign.com/articles/denis-villeneuve-praises-human-creativity-over-ai-prompts-almost-announces-new-bond",
+    "summary": "I've played about five hours of the blue-collar bug-squasher so far, and admittedly it’s grown on me. The special launcher weapons and diverse array of weird-ass bugs keeps skirmishes interesting, and I'm still in the process of finding new jobs to do and new biomes to do them on, so the sense of di...",
+    "date": "Mon, 9 Nov 2026 14:00:00 +0000",
+    "link": "https://www.ign.com/articles/exterminauts-turns-you-and-2-friends-into-intergalactic-pest-control-techs-with-some-really-spicy-secondary-weapons-ign-preview",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
     },
     "tags": [
-      "AI"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Petit Planet, aka HoYoverse's Take on Animal Crossing, Is Packed With Charm and Attention to Detail | IGN Preview",
+    "title": "As GTA 6 Preload Goes Live, Fans Dig Into the Data to Try to Unearth Unannounced Information Ahead of Launch",
     "source": "IGN",
-    "summary": "2026 has been an incredibly crowded year for cozy life simulation games. Ironically, a genre that people usually turn to when they need a break from intense action games has started to wear me out. After playing Animal Crossing: New Horizons' latest update, Starsand Island; Pokémon Pokopia; Tomodach...",
-    "date": "Mon, 9 Nov 2026 01:00:00 +0000",
-    "link": "https://www.ign.com/articles/petit-planet-aka-hoyoverses-take-on-animal-crossing-is-packed-with-charm-and-attention-to-detail-ign-preview",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Nvidia Launches Investigation Into CEO Jensen Huang Following Affair With Alleged Chinese Spy",
-    "source": "IGN",
-    "summary": "Nvidia has launched an independent investigation into CEO Jensen Huang after he admitted to having an affair with a suspected Chinese spy.",
-    "date": "Sun, 8 Nov 2026 22:34:01 +0000",
-    "link": "https://www.ign.com/articles/nvidia-launches-investigation-into-ceo-jensen-huang-following-affair-with-alleged-chinese-spy",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "Nvidia"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Why Austin Butler Cannot Drive the Iconic Black Ferrari in Miami Vice '85",
-    "source": "IGN",
-    "summary": "New videos from the set of Miami Vice ‘85 reveal Austin Butler’s Sonny Crockett and Michael B. Jordan's Ricardo Tubbs driving a white Ferrari Testarossa, the wrong car for the period of the TV series that director Joseph Kosinski’s film is retelling. And there’s likely a legal reason for that.",
-    "date": "Sun, 8 Nov 2026 21:41:08 +0000",
-    "link": "https://www.ign.com/articles/austin-butler-miami-vice-85-black-ferrari-legal-reason",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "Ocarina of Time remake datamine suggests Master Quest is on the way",
-    "source": "Eurogamer",
-    "summary": "Ocarina of Time's notoriously tricky Master Quest mode could be making a comeback in the new remake. Read more...",
-    "date": "Sun, 08 Nov 2026 17:39:10 +0000",
-    "link": "https://www.eurogamer.net/zelda-ocarina-of-time-remake-master-quest-dlc-datamine",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.32,
-      "badge": "success"
-    },
-    "tags": [
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Phasmophobia players raise over $230,000 for heart charity, more than double last year's total",
-    "source": "Eurogamer",
-    "summary": "The Phasmophobia community has raised more than $230,000 (around £173,000) for the American Heart Association, more than doubling last year's total. Read more...",
-    "date": "Sun, 08 Nov 2026 16:41:10 +0000",
-    "link": "https://www.eurogamer.net/phasmophobia-ghost-hunts-for-hearts-230000-american-heart-association",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Saving Mass Effect would take $200m+, says BioWare co-founder",
-    "source": "Eurogamer",
-    "summary": "Anyone hoping to buy Mass Effect from EA and finish what BioWare started needs to get saving now, as it could cost over $200 million (£150m). Read more...",
-    "date": "Sun, 08 Nov 2026 14:31:00 +0000",
-    "link": "https://www.eurogamer.net/mass-effect-5-save-cost-200m-bioware-co-founder-trent-oster",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Missing teenager rescued after reaching out to another player in Among Us",
-    "source": "Eurogamer",
-    "summary": "A teenager who went missing in Utah more than 17 months ago has been rescued from a home in Oregon after she got in touch with another young player in Among Us. Read more...",
-    "date": "Sun, 08 Nov 2026 13:28:20 +0000",
-    "link": "https://www.eurogamer.net/among-us-missing-teen-rescued-utah-oregon",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "27 Years Later, Science-Fiction's Groundbreaking 4-Part Saga Is Free to Watch on Streaming",
-    "source": "Polygon",
-    "summary": "Rediscover the groundbreaking sci-fi saga that changed action cinema forever, now streaming free on Pluto TV.",
-    "date": "Mon, 09 Nov 2026 04:00:17 GMT",
-    "link": "https://www.polygon.com/the-matrix-movies-streaming-free-pluto-tv-november-2026/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.23,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Mike Flanagan’s 10-Episode Netflix Thriller Masterpiece Is Everything ‘Carrie’ Should Have Been",
-    "source": "Polygon",
-    "summary": "Mike Flanagan’s Carrie is missing one thing: fear. Luckily, his ghost-packed Netflix series has it in spades.",
-    "date": "Mon, 09 Nov 2026 02:01:17 GMT",
-    "link": "https://www.polygon.com/mike-flanagan-netflix-the-haunting-of-hill-house-carrie/",
+    "summary": "GTA 6 preloads are live for those who live in New Zealand (or are pretending to live in New Zealand to play early) and fans are scanning the game files for new information.",
+    "date": "Mon, 9 Nov 2026 12:33:05 +0000",
+    "link": "https://www.ign.com/articles/gta-6-metadata-ray-tracing-improvements-on-ps5-pro",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.07,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 11,
-    "title": "Zelda: Ocarina of Time and WoW: Forever Are the Good Kind of Remakes",
-    "source": "Polygon",
-    "summary": "Nintendo and Blizzard's new versions of The Legend of Zelda: OoT and World of Warcraft are different from other remakes",
-    "date": "Mon, 09 Nov 2026 01:00:17 GMT",
-    "link": "https://www.polygon.com/patch-notes-remakes-zelda-ocarina-of-time-wow-forever/",
+    "id": 3,
+    "title": "Internal Mass Effect 2 Trailer Gives Us the Earliest Look at the Game Yet",
+    "source": "IGN",
+    "summary": "The lead animator for Mass Effect 2 has shared a previously unreleased trailer for the game, only ever seen by the developers at BioWare.",
+    "date": "Mon, 9 Nov 2026 11:48:55 +0000",
+    "link": "https://www.ign.com/articles/internal-mass-effect-2-trailer-gives-us-the-earliest-look-at-the-game-yet",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.19,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "Iconic British Retail Store Gets GTA 6 Takeover Featuring Exclusive $3,355 Varsity Jacket",
+    "source": "IGN",
+    "summary": "Luxury British department store Selfridges has had the ground floor of its flagship London store overtaken by GTA 6 ahead of its November 19 release date. It’s not just a little display, either; Rockstar and the retailer have gone all-out.",
+    "date": "Mon, 9 Nov 2026 11:30:49 +0000",
+    "link": "https://www.ign.com/articles/selfridges-gta-6-takeover-varsity-jacket",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Nintendo's legendary Kirby designer Masahiro Sakurai weighs in on gen-AI, saying \"it has yet to gain my trust\" but not to reject it completely",
+    "source": "Eurogamer",
+    "summary": "Masahiro Sakurai, the designer behind many iconic Nintendo franchises such as Super Smash Bros. and several Kirby titles, has weighed in on the ongoing discussion of generative-AI use in game development. Read more...",
+    "date": "Mon, 09 Nov 2026 14:35:20 +0000",
+    "link": "https://www.eurogamer.net/masahiro-sakurai-generative-ai-famitsu",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.24,
+      "score": 0.21,
       "badge": "success"
     },
     "tags": [
+      "AI",
       "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "Sega’s Most Influential Platformer Deserves Its Big Remake Moment Next",
-    "source": "Polygon",
-    "summary": "Not every remake has to be for a huge game. Some quicker plays from yesteryear could also benefit, like one all-time great from Sega.",
-    "date": "Mon, 09 Nov 2026 00:00:17 GMT",
-    "link": "https://www.polygon.com/super-monkey-ball-retrospective-25-years-sega/",
+    "id": 6,
+    "title": "Skyrim lead designer hopes Sentinel will finally solve The Elder Scrolls' ladder problem",
+    "source": "Eurogamer",
+    "summary": "For such a simple, straightforward real-world object, ladders have been the bane of game developers' existence since the early days of the industry. And Bethesda's The Elder Scrolls Series is certainly no stranger to that struggle. Read more...",
+    "date": "Mon, 09 Nov 2026 12:46:20 +0000",
+    "link": "https://www.eurogamer.net/the-elder-scrolls-6-sentinel-ladders-skyrim-bethesda-designer",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.22,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
     },
     "tags": [
-      "Remake"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 13,
-    "title": "Warhammer Blood Bowl has been delayed into early 2027",
-    "source": "PC Gamer",
-    "summary": "One more turn.",
-    "date": "Mon, 09 Nov 2026 00:45:39 +0000",
-    "link": "https://www.pcgamer.com/games/sports/warhammer-blood-bowl-has-been-delayed-into-2027/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Jackbox Games isn't interested in AI development: 'All that is done by people, and we have no intention of changing that'",
-    "source": "PC Gamer",
-    "summary": "CEO Mike Bilder doesn't see AI as having much to offer Jackbox.",
-    "date": "Sun, 08 Nov 2026 22:06:56 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.23,
-      "badge": "success"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Nvidia CEO Jensen Huang admits to affair with alleged Chinese spy as company board launches investigation",
-    "source": "PC Gamer",
-    "summary": "Good lord what is happening in there.",
-    "date": "Sun, 08 Nov 2026 21:38:31 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "Nvidia"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Skyrim lead designer Bruce Nesmith loved that Baldur's Gate 3 closed off story paths based on your decisions, but defends Bethesda's approach: 'They were both fun, they're just fun in different ways'",
-    "source": "PC Gamer",
-    "summary": "I love being Cyrodiil's one-man deep state in charge of all major economic, social, criminal, and paramilitary organizations.",
-    "date": "Sun, 08 Nov 2026 18:33:45 +0000",
-    "link": "https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-bruce-nesmith-loved-that-baldurs-gate-3-closed-off-story-paths-based-on-your-decisions-but-defends-bethesdas-approach-they-were-both-fun-theyre-just-fun-in-different-ways/",
+    "id": 7,
+    "title": "\"Art, including characters, terrain, animations, cutscenes and UI\" Bandai Namco and Monolith Soft helped out with Ocarina of Time on Switch 2",
+    "source": "Eurogamer",
+    "summary": "Xenoblade series developer Monolith Soft and Bandai Namco Studios have been listed as support studios for the Switch 2 version of Ocarina of Time, working on elements of the title such as \"art, including characters, terrain, animations, cutscenes and UI\". Special thanks to both companies appear in t...",
+    "date": "Mon, 09 Nov 2026 12:45:50 +0000",
+    "link": "https://www.eurogamer.net/ocarina-of-time-support-studios-confirmed-switch-2",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.15,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 17,
-    "title": "Can You Upgrade To GTA 6’s $100 Edition? Yes, And It’s Easy–Here’s How",
-    "source": "GameSpot",
-    "summary": "Rockstar's Grand Theft Auto 6 launches on November 19. If you're planning to buy the $80 edition but want to upgrade later to the $100 version, you might be interested to know if such a thing is possible.\nThankfully, yes, it is-and it's very easy to do.\nRockstar will offer an \"Ultimate Edition Upgra...",
-    "date": "Fri, 06 Nov 2026 20:23:39 +0000",
-    "link": "https://www.gamespot.com/articles/can-you-upgrade-to-gta-6s-100-edition-yes-and-its-easy-heres-how/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.19,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "Donuts Beat AI: Nvidia Has Lost $1 Trillion+ In The Past Month, While Krispy Kreme Surges",
-    "source": "GameSpot",
-    "summary": "Following the US midterm elections this week, shares of Nvidia--the world's No. 2 most valuable company by market cap behind Apple--slid downhill in a big way. In fact, more than $1 trillion has been wiped out from Nvidia's market cap since its peak in October. \nNvidia stock rebounded today, Novembe...",
-    "date": "Fri, 06 Nov 2026 18:50:58 +0000",
-    "link": "https://www.gamespot.com/articles/donuts-beat-ai-nvidia-has-lost-1-trillion-in-the-past-month-while-krispy-kreme-surges/",
+    "id": 8,
+    "title": "London department store Selfridges launches sizeable GTA 6 takeover, featuring a varsity jacket that costs an eye-watering £2,500",
+    "source": "Eurogamer",
+    "summary": "Expensive British department store Selfridges has launched a sizeable Grand Theft Auto 6 takeover, completely making-over its Oxford Street London Corner Shop store and offering a considerable line of clothing, which includes an exclusive varsity jacket that costs a bank-melting £2,500. Note, you ca...",
+    "date": "Mon, 09 Nov 2026 12:18:50 +0000",
+    "link": "https://www.eurogamer.net/selfridges-gta-6-collab-takeover",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.07,
+      "score": 0.04,
       "badge": "info"
     },
     "tags": [
-      "Nvidia",
-      "AI"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 19,
-    "title": "You Can Finally Drive A Dreamcast, Thanks To Sonic",
-    "source": "GameSpot",
-    "summary": "Sonic Racing: CrossWorlds is gearing up for a second year of action, and while you can expect new courses, modes, and characters to join the game, the real headline act here is the new cars coming to it. As part of the Sega Consoles Pack, players will be able to tear around courses while driving a f...",
-    "date": "Fri, 06 Nov 2026 18:42:41 +0000",
-    "link": "https://www.gamespot.com/articles/you-can-finally-drive-a-dreamcast-thanks-to-sonic/",
+    "id": 9,
+    "title": "How Wuthering Waves Drives the Next Evolution of Anime Action RPGs",
+    "source": "Polygon",
+    "summary": "Fast combat, fluid traversal and Resonators who fight like themselves: how Wuthering Waves keeps raising the bar for anime action RPGs.",
+    "date": "Mon, 09 Nov 2026 12:30:17 GMT",
+    "link": "https://www.polygon.com/wuthering-waves-wuwa-pushing-boundaries-next-evolution-anime-action-rpgs/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Mass Effect Creator Is ‘Optimistic’ the Series Will Live On",
+    "source": "Polygon",
+    "summary": "Despite the closure of BioWare, series creator Casey Hudson expresses optimism regarding the future of Mass Effect.",
+    "date": "Mon, 09 Nov 2026 12:00:14 GMT",
+    "link": "https://www.polygon.com/mass-effect-future-casey-hudson-optimistic/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "WoW: Forever Boosts Dungeon XP As Blizzard Struggles to Get Leveling Balance Right",
+    "source": "Polygon",
+    "summary": "Blizzard has increased experience from killing monsters in dungeons in World of Warcraft: Forever as it tries to balance leveling",
+    "date": "Mon, 09 Nov 2026 10:59:17 GMT",
+    "link": "https://www.polygon.com/wow-forever-dungeon-xp-boost-leveling/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.1,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Fortnite Officially Reveals Pirate Shop Access Token Odds",
+    "source": "Polygon",
+    "summary": "The odds of finding Fortnite's most-wanted items, like the Pirate Shop Access token and the limited-time golden skin, have been revealed.",
+    "date": "Mon, 09 Nov 2026 10:41:27 GMT",
+    "link": "https://www.polygon.com/fortnite-pirate-shop-access-token-treasure-odds-revealed/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "The pillars of AI are shaking beneath our feet",
+    "source": "PC Gamer",
+    "summary": "Strap yourselves in, whatever happens next isn't going to be pretty.",
+    "date": "Mon, 09 Nov 2026 14:52:38 +0000",
+    "link": "https://www.pcgamer.com/software/ai/the-pillars-of-ai-are-shaking-beneath-our-feet/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Great news! Nier: Automata's install size is no longer 7x bigger than it should be (it was 366 GB)",
+    "source": "PC Gamer",
+    "summary": "2B, times 183, plus G.",
+    "date": "Mon, 09 Nov 2026 14:51:27 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/great-news-nier-automatas-install-size-is-no-longer-7x-bigger-than-it-should-be-it-was-366-gb/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Skyrim lead designer gives the most succinct summary of Bethesda's design I've ever heard: 'You're not playing my game, I'm making your game'",
+    "source": "PC Gamer",
+    "summary": "Though, to be honest, sometimes I want to play someone else's game.",
+    "date": "Mon, 09 Nov 2026 12:28:31 +0000",
+    "link": "https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-gives-the-most-succinct-summary-of-bethesdas-design-ive-ever-heard-youre-not-playing-my-game-im-making-your-game/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Consider this blackened plug your weekly reminder to check your RTX 50-series GPU cables",
+    "source": "PC Gamer",
+    "summary": "And maybe buy a cable monitor, too.",
+    "date": "Mon, 09 Nov 2026 12:24:38 +0000",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/consider-this-blackened-plug-your-weekly-reminder-to-check-your-rtx-50-series-gpu-cables/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "GPU"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "GTA 6 Music Festival Announced For Miami With A Stacked Lineup Of Artists",
+    "source": "GameSpot",
+    "summary": "Rockstar Games has announced Grand Theft Auto 6: The Festival, a concert coming to the Mana Wynwood in Miami on November 21. \nThe festival features a lineup of artists from the game and the official soundtrack, including Cardi B, Travis Scott, Kodak Black, and Justice. The event is sponsored in part...",
+    "date": "Mon, 09 Nov 2026 14:32:17 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-music-festival-announced-for-miami-with-a-stacked-lineup-of-artists/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Former PlayStation Boss Thinks Sony Is Solving The Wrong Problem With PS6",
+    "source": "GameSpot",
+    "summary": "Sony confirmed last week that development on its \"next-generation\" PlayStation platform will pick up speed in 2027, but not everyone is convinced the world needs a PS6 right now. In an interview with The Trophy Room, former PlayStation boss Shawn Layden said true innovation would come from finding a...",
+    "date": "Mon, 09 Nov 2026 13:55:47 +0000",
+    "link": "https://www.gamespot.com/articles/former-playstation-boss-thinks-sony-is-solving-the-wrong-problem-with-ps6/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "GTA 6 Preloading Is Officially Live, Files Mention Multiplayer And PS5 Pro Features",
+    "source": "GameSpot",
+    "summary": "At long last, you can now install Grand Theft Auto 6 on your console via preloading, or at least you can if you live in Australia or New Zealand. Preloading begins in all regions at midnight local time, so people in the US are almost there.\nWith preloading now live, people have dug through the files...",
+    "date": "Mon, 09 Nov 2026 13:40:44 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-preloading-is-officially-live-files-mention-multiplayer-and-ps5-pro-features/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "Mass Effect Is Getting A New Art Collection At A Difficult Time For Its Fans",
+    "title": "Mortal Kombat 2 Is Winning The Race To Become Mortal Kombat 2",
     "source": "GameSpot",
-    "summary": "This year's annual Mass Effect Day looks to be somber in light of the studio behind the games, BioWare, being shut down last month. But while no new Mass Effect games are currently on the horizon, you can celebrate its legacy through some classy art prints that are going up for sale ahead of N7 Day....",
-    "date": "Fri, 06 Nov 2026 18:00:00 +0000",
-    "link": "https://www.gamespot.com/articles/mass-effect-is-getting-a-new-art-collection-at-a-difficult-time-for-its-fans/",
+    "summary": "What's in a name? That's the question that Mortal Kombat studio CCO Ed Boon is asking, as he recently set up a few polls asking for opinions on what the next Mortal Kombat game should be called. According to Boon, three possible names were on the table: Mortal Kombat 12, Mortal Kombat 13, or Mortal ...",
+    "date": "Mon, 09 Nov 2026 12:58:56 +0000",
+    "link": "https://www.gamespot.com/articles/mortal-kombat-2-is-winning-the-race-to-become-mortal-kombat-2/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.05,
+      "score": -0.02,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
