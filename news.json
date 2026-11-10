@@ -1,118 +1,11 @@
 [
   {
     "id": 1,
-    "title": "'I’ve Been In a Lot of Harry Potter Already' — Daniel Radcliffe Isn't Sure If He'll Watch HBO's Harry Potter TV Series",
+    "title": "What DC Movies and Shows Could Get Batgirl'd Next?",
     "source": "IGN",
-    "summary": "Former Harry Potter actor Daniel Radcliffe isn't sure if he's going to watch HBO's TV adaptation of the Wizarding World.",
-    "date": "Mon, 9 Nov 2026 22:58:23 +0000",
-    "link": "https://www.ign.com/articles/ive-been-in-a-lot-of-harry-potter-already-daniel-radcliffe-isnt-sure-if-hell-watch-hbos-harry-potter-tv-series",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.33,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "Skydance Reveals HBO Max and Paramount Plus Streaming Bundle Coming Early 2027",
-    "source": "IGN",
-    "summary": "Skydance has announced a subscription bundle for both Paramount+ and HBO Max is coming to viewers as soon as early 2027.",
-    "date": "Mon, 9 Nov 2026 22:50:22 +0000",
-    "link": "https://www.ign.com/articles/skydance-reveals-hbo-max-and-paramount-plus-streaming-bundle-coming-early-2027",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "This 1,000W 48V Electric Bike With 28mph Top Speed and 80-Mile Range Drops Below $250 for Black Friday",
-    "source": "IGN",
-    "summary": "A super affordable yet powerful ebike that will satisfy most of your commuter needs.",
-    "date": "Mon, 9 Nov 2026 22:00:00 +0000",
-    "link": "https://www.ign.com/articles/urlife-e20-1000w-48v-adult-electric-bike-deal-aliexpress-black-friday-deal",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.29,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Here Are Some Movies to Watch Before GTA 6 (Including Some You Can Watch in Theaters)",
-    "source": "IGN",
-    "summary": "We've compiled a list of movies to watch before GTA 6, including some classics that will be shown at Regal Cinemas over the course of the next week.",
-    "date": "Mon, 9 Nov 2026 21:57:28 +0000",
-    "link": "https://www.ign.com/articles/here-are-some-movies-to-watch-before-gta-6-including-some-you-can-watch-in-theaters",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "As investors ask about GTA 6 and AI, Take-Two CEO once again puts faith in dev creativity, states making hit games \"remains the purview of human beings\"",
-    "source": "Eurogamer",
-    "summary": "Today, as part of Take-Two Interactive Software's Q2 2027 earnings call, Strauss Zelnick fielded questions from investors after presenting the financial results of the company. One caller was concerned about AI - specifically about the proliferation of AI-powered compilations and decompilations that...",
-    "date": "Mon, 09 Nov 2026 22:47:40 +0000",
-    "link": "https://www.eurogamer.net/gta-6-ai-strauss-zelnick-earnings-call-purview",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "GTA 6 pre-orders are tracking \"well above expectations\" and the game will \"set a new baseline\" for Take-Two, says CEO Strauss Zelnick",
-    "source": "Eurogamer",
-    "summary": "Today, as part of Take-Two Interactive Software's Q2 2027 earnings call, Strauss Zelnick noted that pre-orders for Grand Theft Auto 6 are tracking \"far above expectations\", and is certain that soon \"numbers will speak for themselves\" when it comes to the game. Read more...",
-    "date": "Mon, 09 Nov 2026 22:02:50 +0000",
-    "link": "https://www.eurogamer.net/gta-6-preorders-tracking-take-two-earnings-call",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "\"Something's really possible\" - Mass Effect cast rally around efforts to save the franchise on the first N7 Day after BioWare's closure",
-    "source": "Eurogamer",
-    "summary": "This N7 Day was the first without developer BioWare around, but fans of the Mass Effect series didn't let 7th November go by quietly. The community managed to get several notable Mass Effect actors to lend their voice to the increasingly loud 'SaveMassEffect' movement. Read more...",
-    "date": "Mon, 09 Nov 2026 20:09:50 +0000",
-    "link": "https://www.eurogamer.net/mass-effect-cast-save-bioware-n7-day",
+    "summary": "Don’t assume everything James Gunn and Peter Safran had planned at DC Studios will see the light of day.",
+    "date": "Tue, 10 Nov 2026 13:00:00 +0000",
+    "link": "https://www.ign.com/articles/what-dc-movies-and-shows-could-get-batgirld-next",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.2,
@@ -125,50 +18,157 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "God of War: Ragnarok is reportedly the highest-earning PlayStation Studios game this generation, but Marvel's Spider-Man 2 isn't far behind",
-    "source": "Eurogamer",
-    "summary": "God of War: Ragnarok is the generation's best-selling and highest-earning PlayStation Studios game, according to a new report, but the full top 10 list has a few nice surprises. Read more...",
-    "date": "Mon, 09 Nov 2026 19:02:00 +0000",
-    "link": "https://www.eurogamer.net/god-of-war-ragnarok-highest-earning-playstation-game",
+    "id": 2,
+    "title": "James Gunn Reportedly Had Big Plans for Multiple Superman Movies and a Potential Justice League Franchise Before DC Studios Exit",
+    "source": "IGN",
+    "summary": "James Gunn reportedly had big plans for Superman movies that may have led to the creation of a Justice League franchise, before his shock exit from DC Studios.",
+    "date": "Tue, 10 Nov 2026 09:36:39 +0000",
+    "link": "https://www.ign.com/articles/james-gunn-reportedly-had-big-plans-for-multiple-superman-movies-and-a-potential-justice-league-franchise-before-dc-studios-exit",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.08,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "PlayStation"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "Nintendo Switch and Switch 2 Update Adds Support for eShop Game Gifting, Just in Time for Christmas — but There's a Catch",
+    "source": "IGN",
+    "summary": "Nintendo has released an update for the Switch and Switch 2 to support gifting eShop products, but there’s a catch.",
+    "date": "Tue, 10 Nov 2026 08:47:41 +0000",
+    "link": "https://www.ign.com/articles/nintendo-switch-and-switch-2-update-adds-support-for-eshop-game-gifting-just-in-time-for-christmas-but-theres-a-catch",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "Chainsaw Man Box Set Drops to Lowest Price of the Year — Less Than $6 Per Volume",
+    "source": "IGN",
+    "summary": "",
+    "date": "Tue, 10 Nov 2026 08:02:18 +0000",
+    "link": "https://www.ign.com/articles/chainsaw-man-box-set-drops-to-lowest-price-of-the-year-amazon-early-black-friday-2026",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.17,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Steam now shows average Steam Deck framerates when browsing games, but Valve says it's considering expanding the feature to other hardware",
+    "source": "Eurogamer",
+    "summary": "Valve has released a new Steam update that adds Steam Deck framerate data to a game's store page, giving potential buyers an indication of how well a game runs on the handheld. Read more...",
+    "date": "Tue, 10 Nov 2026 13:53:30 +0000",
+    "link": "https://www.eurogamer.net/steam-deck-framerate-average-data-store-widget",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "As Arc Raiders celebrates its first birthday, publisher Nexon reveals the extraction shooter has topped 17 million sales, but revenue is set to decline",
+    "source": "Eurogamer",
+    "summary": "Arc Raiders, Embark Studios' popular extraction shooter, has exceeded 17m copies sold, according to publisher Nexon. Read more...",
+    "date": "Tue, 10 Nov 2026 12:28:00 +0000",
+    "link": "https://www.eurogamer.net/arc-raiders-17-million-sales-nexon-decline",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.45,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "World of Warcraft: Forever might live officially on PC, but people are playing it on phones and handhelds already",
+    "source": "Eurogamer",
+    "summary": "If you're a World of Warcraft: Forever player you're almost certainly having your free time drained as you chain yourself to your desktop PC to play the game, or maybe a laptop. But for a small selection of true enthusiasts, the game is already working on mobile and handheld devices. Read more...",
+    "date": "Tue, 10 Nov 2026 10:55:40 +0000",
+    "link": "https://www.eurogamer.net/world-of-warcraft-forever-ipad-handheld",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Under pressure, Big Walk studio reveals it used generative AI \"sparingly\" while making its hit 2026 game",
+    "source": "Eurogamer",
+    "summary": "Australian developer House House has revealed it used generative AI \"sparingly\" to help make celebrated, indie, multiplayer puzzle game Big Walk. Read more...",
+    "date": "Tue, 10 Nov 2026 10:51:40 +0000",
+    "link": "https://www.eurogamer.net/house-house-big-walk-generative-ai-development",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "Zelda: Ocarina of Time Remake Gives Its Best Boy the Happy Ending He Deserved Decades Ago",
+    "title": "We Need More Games Like Murals",
     "source": "Polygon",
-    "summary": "The Legend of Zelda: Ocarina of Time remake on Switch 2 makes a small, but welcome change to the fate of Richard the dog",
-    "date": "Mon, 09 Nov 2026 23:00:17 GMT",
-    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-richard-lives/",
+    "summary": "Dlala Studios, maker of Battletoads and Disney Illusion Island, is pouring its heart and soul into this fairytale action game",
+    "date": "Tue, 10 Nov 2026 14:00:18 GMT",
+    "link": "https://www.polygon.com/murals-hands-on-dlala-studios/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.59,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
     },
     "tags": [
-      "Remake"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Game Awards 2026: All Game of the Year Front-Runners and Predictions",
+    "title": "'Avatar' Officially Unveils a Very Different Version of Zuko in New Book",
     "source": "Polygon",
-    "summary": "We rank the contenders for GOTY 2026 at TGAs, including Resident Evil Requiem and Zelda: Ocarina of Time",
-    "date": "Mon, 09 Nov 2026 21:51:34 GMT",
-    "link": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
+    "summary": "Team Avatar got quite the glow-up, but one member in particular was supposed to look very different in 'Avatar: Aang: The Last Airbender.'",
+    "date": "Tue, 10 Nov 2026 13:00:18 GMT",
+    "link": "https://www.polygon.com/avatar-aang-artbook-exclusive-zuko-kpop/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.65,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -178,68 +178,14 @@
   },
   {
     "id": 11,
-    "title": "How to get the Biggoron Sword in Ocarina of Time",
+    "title": "All active Escape From Tarkov codes and rewards",
     "source": "Polygon",
-    "summary": "The Biggoron Sword is the reward for the \"From a Pocket Egg Comes...\" quest in Ocarina of Time. Here's how to complete the quest and get the sword.",
-    "date": "Mon, 09 Nov 2026 21:50:25 GMT",
-    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-biggorons-sword-how-to-get/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "HBO Max-Paramount Plus Bundle Officially Confirmed for 2027",
-    "source": "Polygon",
-    "summary": "HBO Max and Paramount+ are launching a streaming bundle in early 2027, bringing two major services together for subscribers.",
-    "date": "Mon, 09 Nov 2026 21:49:51 GMT",
-    "link": "https://www.polygon.com/hbo-max-paramount-plus-streaming-bundle-launching-2027/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.19,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "'The experiences on console and PC tend to be roughly the same,' says Take-Two CEO in response to question about GTA roleplaying",
-    "source": "PC Gamer",
-    "summary": "Of course, in the case of Grand Theft Auto 6, the PC experience at launch will be a blank screen.",
-    "date": "Tue, 10 Nov 2026 00:24:43 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/the-experiences-on-console-and-pc-tend-to-be-roughly-the-same-says-take-two-ceo-in-response-to-question-about-gta-roleplaying/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "A month after Paramount acquired Warner Bros. Discovery, its merged game division is laying people off",
-    "source": "PC Gamer",
-    "summary": "Skydance Games has \"made the difficult decision to scale down some of our projects.\"",
-    "date": "Mon, 09 Nov 2026 22:33:41 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/a-month-after-paramount-acquired-warner-bros-discovery-its-merged-game-division-is-laying-people-off/",
+    "summary": "A guide listing all currently active promo codes for Escape From Tarkov and how to redeem them.",
+    "date": "Tue, 10 Nov 2026 12:37:35 GMT",
+    "link": "https://www.polygon.com/escape-from-tarkov-promo-codes-list-active-expired/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.35,
+      "score": -0.13,
       "badge": "danger"
     },
     "tags": [
@@ -249,15 +195,50 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "Take-Two expects to make as much as $3.5 billion during the GTA 6 launch period",
+    "id": 12,
+    "title": "GTA 6 Presales Are 'Running Far in Excess of Our Expectations,' Take-Two Interactive CEO Says",
+    "source": "Polygon",
+    "summary": "Take-Two boss reveals that GTA 6 pre-orders surpassed expectations but might've hindered its other releases.",
+    "date": "Tue, 10 Nov 2026 12:24:51 GMT",
+    "link": "https://www.polygon.com/gta-6-grand-theft-auto-preorders-nba-2k27/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Trump calls his pal Jensen Huang an ‘honourable guy’ and says he ‘probably has an excuse’ for Nvidia CEO’s affair with alleged spy",
     "source": "PC Gamer",
-    "summary": "Pre-orders for GTA 6 are still \"unprecedented,\" says the publisher.",
-    "date": "Mon, 09 Nov 2026 22:06:34 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/take-two-expects-to-make-as-much-as-usd3-5-billion-during-the-gta-6-launch-period/",
+    "summary": "It's been a tough week for Team Green.",
+    "date": "Tue, 10 Nov 2026 14:01:26 +0000",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/trump-calls-his-pal-jensen-huang-an-honourable-guy-and-says-he-probably-has-an-excuse-for-nvidia-ceos-affair-with-alleged-spy/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.18,
+      "badge": "danger"
+    },
+    "tags": [
+      "Nvidia"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Fallout and Elder Scrolls actor Stephen Russell returns as Garrett in Thief: The Tarnished Mirror: 'Great to be back with the old guy'",
+    "source": "PC Gamer",
+    "summary": "Return of the King.",
+    "date": "Tue, 10 Nov 2026 14:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/fps/fallout-and-elder-scrolls-actor-stephen-russell-returns-as-garrett-in-thief-the-tarnished-mirror-great-to-be-back-with-the-old-guy/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.4,
+      "score": 0.3,
       "badge": "success"
     },
     "tags": [
@@ -267,20 +248,37 @@
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "A week after expanding its publishing division, Killing Floor studio Tripwire Interactive lays off 36 people",
+    "id": 15,
+    "title": "Steam now lets you see exactly what frame rate you should get in games using a Steam Deck",
     "source": "PC Gamer",
-    "summary": "Tripwire said the decision to put people out of work was \"a necessary one for the organization.\"",
-    "date": "Mon, 09 Nov 2026 19:32:33 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/a-week-after-expanding-its-publishing-division-killing-floor-studio-tripwire-interactive-lays-off-36-people/",
+    "summary": "Valve opens up the doors to the data it's been collecting.",
+    "date": "Tue, 10 Nov 2026 13:31:56 +0000",
+    "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/steam-now-lets-you-see-exactly-what-frame-rate-you-should-get-in-games-using-a-steam-deck/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "AMD's next-gen GPU architecture has appeared in new Linux kernel patches as GFX13 updates roll out",
+    "source": "PC Gamer",
+    "summary": "The suite of GFX13 patches aren't particularly exciting in themselves, but they do suggest there might actually be some new GPUs next year.",
+    "date": "Tue, 10 Nov 2026 13:06:31 +0000",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/amds-next-gen-gpu-architecture-has-appeared-in-new-linux-kernel-patches-as-gfx13-updates-roll-out/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "AMD",
+      "GPU"
     ],
     "read_time": "1 min read"
   },
@@ -297,8 +295,8 @@
       "badge": "success"
     },
     "tags": [
-      "Nintendo",
-      "Remake"
+      "Remake",
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
