@@ -1,356 +1,354 @@
 [
   {
     "id": 1,
-    "title": "What DC Movies and Shows Could Get Batgirl'd Next?",
+    "title": "World of Warcraft Forever Hotfix Will Thin Out Overcrowded Zones and Help Faction Balance",
     "source": "IGN",
-    "summary": "Don’t assume everything James Gunn and Peter Safran had planned at DC Studios will see the light of day.",
-    "date": "Tue, 10 Nov 2026 13:00:00 +0000",
-    "link": "https://www.ign.com/articles/what-dc-movies-and-shows-could-get-batgirld-next",
+    "summary": "World of Warcraft Forever has been incredibly popular, and has gone down as the biggest WoW launch in history. It's little wonder then, that some zones are absolutely packed with players. And, Blizzard has implemented a fix.",
+    "date": "Tue, 10 Nov 2026 21:08:36 +0000",
+    "link": "https://www.ign.com/articles/world-of-warcraft-forever-hotfix-will-thin-out-overcrowded-zones-and-help-faction-balance",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "James Gunn Reportedly Had Big Plans for Multiple Superman Movies and a Potential Justice League Franchise Before DC Studios Exit",
+    "title": "PlayStation Cancels Live-Service Heist Shooter, Fairgames",
     "source": "IGN",
-    "summary": "James Gunn reportedly had big plans for Superman movies that may have led to the creation of a Justice League franchise, before his shock exit from DC Studios.",
-    "date": "Tue, 10 Nov 2026 09:36:39 +0000",
-    "link": "https://www.ign.com/articles/james-gunn-reportedly-had-big-plans-for-multiple-superman-movies-and-a-potential-justice-league-franchise-before-dc-studios-exit",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Nintendo Switch and Switch 2 Update Adds Support for eShop Game Gifting, Just in Time for Christmas — but There's a Catch",
-    "source": "IGN",
-    "summary": "Nintendo has released an update for the Switch and Switch 2 to support gifting eShop products, but there’s a catch.",
-    "date": "Tue, 10 Nov 2026 08:47:41 +0000",
-    "link": "https://www.ign.com/articles/nintendo-switch-and-switch-2-update-adds-support-for-eshop-game-gifting-just-in-time-for-christmas-but-theres-a-catch",
+    "summary": "Fairgames, a live-service heist game from PlayStation's Haven Studios, has been canceled by Sony.",
+    "date": "Tue, 10 Nov 2026 21:00:21 +0000",
+    "link": "https://www.ign.com/articles/playstation-cancels-live-service-heist-shooter-fairgames",
     "sentiment": {
       "label": "Critical / Mixed",
       "score": -0.4,
       "badge": "danger"
     },
     "tags": [
-      "Nintendo"
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 4,
-    "title": "Chainsaw Man Box Set Drops to Lowest Price of the Year — Less Than $6 Per Volume",
+    "id": 3,
+    "title": "Save Over 50% Off One of the Coolest Desktop Charging Stations for Black Friday",
     "source": "IGN",
-    "summary": "",
-    "date": "Tue, 10 Nov 2026 08:02:18 +0000",
-    "link": "https://www.ign.com/articles/chainsaw-man-box-set-drops-to-lowest-price-of-the-year-amazon-early-black-friday-2026",
+    "summary": "Features three AC outlets and four USB ports.",
+    "date": "Tue, 10 Nov 2026 20:10:00 +0000",
+    "link": "https://www.ign.com/articles/save-over-50-off-one-of-the-coolest-desktop-charging-stations-for-black-friday",
     "sentiment": {
       "label": "Critical / Mixed",
       "score": -0.17,
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "We Build LEGO Downton Abbey, a Stately Set That's Worthy of the Crawley Name",
+    "source": "IGN",
+    "summary": "We build LEGO Ideas Downton Abbey, a big, heavy, stately set that comes with 13 minifigures.",
+    "date": "Tue, 10 Nov 2026 20:08:45 +0000",
+    "link": "https://www.ign.com/articles/lego-downton-abbey-review-21373",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.04,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
-    "title": "Steam now shows average Steam Deck framerates when browsing games, but Valve says it's considering expanding the feature to other hardware",
+    "title": "Here's our second wave of PS Plus games for November 2026 - and Sony's scrapping its barely used PC app",
     "source": "Eurogamer",
-    "summary": "Valve has released a new Steam update that adds Steam Deck framerate data to a game's store page, giving potential buyers an indication of how well a game runs on the handheld. Read more...",
-    "date": "Tue, 10 Nov 2026 13:53:30 +0000",
-    "link": "https://www.eurogamer.net/steam-deck-framerate-average-data-store-widget",
+    "summary": "Sony's revealed the second wave of games coming to PlayStation Plus Premium and Extra this month, and there are some genuine big-name attractions, led by Hideo Kojima's futuristic delivery man showstopper Death Stranding 2: On the Beach. Read more...",
+    "date": "Tue, 10 Nov 2026 17:10:00 +0000",
+    "link": "https://www.eurogamer.net/ps-plus-games-november-2026-pc-app",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.06,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
     },
     "tags": [
-      "Steam"
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 6,
-    "title": "As Arc Raiders celebrates its first birthday, publisher Nexon reveals the extraction shooter has topped 17 million sales, but revenue is set to decline",
+    "title": "Grand Theft Auto 6 becomes the most pre-ordered game in PlayStation Store history",
     "source": "Eurogamer",
-    "summary": "Arc Raiders, Embark Studios' popular extraction shooter, has exceeded 17m copies sold, according to publisher Nexon. Read more...",
-    "date": "Tue, 10 Nov 2026 12:28:00 +0000",
-    "link": "https://www.eurogamer.net/arc-raiders-17-million-sales-nexon-decline",
+    "summary": "Sony has just announced that Grand Theft Auto 6 has become \"the most pre-ordered game in the history of PlayStation Store\". Note, it's not the most pre-ordered game in PlayStation history, just on its digital PlayStation Store. Read more...",
+    "date": "Tue, 10 Nov 2026 16:31:30 +0000",
+    "link": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.45,
+      "score": 0.18,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 7,
-    "title": "World of Warcraft: Forever might live officially on PC, but people are playing it on phones and handhelds already",
+    "title": "Rockstar details Grand Theft Auto 6 PS5 Pro enhancements, but it'll still only run at 30FPS",
     "source": "Eurogamer",
-    "summary": "If you're a World of Warcraft: Forever player you're almost certainly having your free time drained as you chain yourself to your desktop PC to play the game, or maybe a laptop. But for a small selection of true enthusiasts, the game is already working on mobile and handheld devices. Read more...",
-    "date": "Tue, 10 Nov 2026 10:55:40 +0000",
-    "link": "https://www.eurogamer.net/world-of-warcraft-forever-ipad-handheld",
+    "summary": "As Grand Theft Auto 6 preloads go live, developer Rockstar has detailed the enhancements coming to the PS5 Pro version of the game, confirming these won't include framerates above the 30 FPS its targeting for consoles. Read more...",
+    "date": "Tue, 10 Nov 2026 15:01:10 +0000",
+    "link": "https://www.eurogamer.net/gta-6-30-fps-platforms-absolute-limit",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "FPS"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 8,
-    "title": "Under pressure, Big Walk studio reveals it used generative AI \"sparingly\" while making its hit 2026 game",
+    "title": "Europe is about to get very tough on loot boxes in games, according to a leaked draft of the landmark Digital Fairness Act",
     "source": "Eurogamer",
-    "summary": "Australian developer House House has revealed it used generative AI \"sparingly\" to help make celebrated, indie, multiplayer puzzle game Big Walk. Read more...",
-    "date": "Tue, 10 Nov 2026 10:51:40 +0000",
-    "link": "https://www.eurogamer.net/house-house-big-walk-generative-ai-development",
+    "summary": "An alleged draft of the potentially game-changing Digital Fairness Act has leaked ahead of its scheduled publication tomorrow (11th November), containing proposals that could dramatically affect the way games operate and are monetised within the European Union. Read more...",
+    "date": "Tue, 10 Nov 2026 14:46:50 +0000",
+    "link": "https://www.eurogamer.net/digital-fairness-act-eu-europe-loot-boxes-regulation",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "10 Best Fire Emblem: Fortune's Weave Replacements",
+    "source": "Polygon",
+    "summary": "If Fire Emblem: Fortune's Weave has got you craving more tactical battles and plenty of allies to recruit, here are a few of our favorites",
+    "date": "Tue, 10 Nov 2026 22:18:49 GMT",
+    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-best-games-replacements/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.43,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "PlayStation Officially Cancels Live-service Shooter Fairgames",
+    "source": "Polygon",
+    "summary": "Sony has canceled Haven's Fairgames, a live-service shooter revealed in 2023. The studio will now become a support team.",
+    "date": "Tue, 10 Nov 2026 21:27:49 GMT",
+    "link": "https://www.polygon.com/sony-cancels-fairgames-live-service-shooter-ps5/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "4 Upcoming Fantasy RPGs Better Than Waiting for a New Dragon Age",
+    "source": "Polygon",
+    "summary": "Want more Dragon Age? These four upcoming RPGs, one playable today, deliver the companions, tactical fights, and choices that follow you around.",
+    "date": "Tue, 10 Nov 2026 21:00:17 GMT",
+    "link": "https://www.polygon.com/dragon-age-alternatives-upcoming-rpgs/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.38,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "How to get the Sinking Lure in Zelda Ocarina of Time",
+    "source": "Polygon",
+    "summary": "The Sinking Lure makes fishing easier in Ocarina of Time, but also helps hook the Hylian loach. Here's where it's located and how to get it.",
+    "date": "Tue, 10 Nov 2026 20:23:51 GMT",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-oot-remake-sinking-lure-location/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Capcom quietly updates the Monster Hunter Wilds beta listing on Steam, indicating a possible expansion playtest",
+    "source": "PC Gamer",
+    "summary": "We might get an early taste of Ascendance before long.",
+    "date": "Tue, 10 Nov 2026 22:22:30 +0000",
+    "link": "https://www.pcgamer.com/games/action/capcom-quietly-updates-the-monster-hunter-wilds-beta-listing-on-steam-indicating-a-possible-expansion-playtest/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.01,
       "badge": "info"
     },
     "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "We Need More Games Like Murals",
-    "source": "Polygon",
-    "summary": "Dlala Studios, maker of Battletoads and Disney Illusion Island, is pouring its heart and soul into this fairytale action game",
-    "date": "Tue, 10 Nov 2026 14:00:18 GMT",
-    "link": "https://www.polygon.com/murals-hands-on-dlala-studios/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "'Avatar' Officially Unveils a Very Different Version of Zuko in New Book",
-    "source": "Polygon",
-    "summary": "Team Avatar got quite the glow-up, but one member in particular was supposed to look very different in 'Avatar: Aang: The Last Airbender.'",
-    "date": "Tue, 10 Nov 2026 13:00:18 GMT",
-    "link": "https://www.polygon.com/avatar-aang-artbook-exclusive-zuko-kpop/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "All active Escape From Tarkov codes and rewards",
-    "source": "Polygon",
-    "summary": "A guide listing all currently active promo codes for Escape From Tarkov and how to redeem them.",
-    "date": "Tue, 10 Nov 2026 12:37:35 GMT",
-    "link": "https://www.polygon.com/escape-from-tarkov-promo-codes-list-active-expired/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.13,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "GTA 6 Presales Are 'Running Far in Excess of Our Expectations,' Take-Two Interactive CEO Says",
-    "source": "Polygon",
-    "summary": "Take-Two boss reveals that GTA 6 pre-orders surpassed expectations but might've hindered its other releases.",
-    "date": "Tue, 10 Nov 2026 12:24:51 GMT",
-    "link": "https://www.polygon.com/gta-6-grand-theft-auto-preorders-nba-2k27/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Trump calls his pal Jensen Huang an ‘honourable guy’ and says he ‘probably has an excuse’ for Nvidia CEO’s affair with alleged spy",
-    "source": "PC Gamer",
-    "summary": "It's been a tough week for Team Green.",
-    "date": "Tue, 10 Nov 2026 14:01:26 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/trump-calls-his-pal-jensen-huang-an-honourable-guy-and-says-he-probably-has-an-excuse-for-nvidia-ceos-affair-with-alleged-spy/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.18,
-      "badge": "danger"
-    },
-    "tags": [
-      "Nvidia"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Fallout and Elder Scrolls actor Stephen Russell returns as Garrett in Thief: The Tarnished Mirror: 'Great to be back with the old guy'",
-    "source": "PC Gamer",
-    "summary": "Return of the King.",
-    "date": "Tue, 10 Nov 2026 14:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/fps/fallout-and-elder-scrolls-actor-stephen-russell-returns-as-garrett-in-thief-the-tarnished-mirror-great-to-be-back-with-the-old-guy/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Steam now lets you see exactly what frame rate you should get in games using a Steam Deck",
-    "source": "PC Gamer",
-    "summary": "Valve opens up the doors to the data it's been collecting.",
-    "date": "Tue, 10 Nov 2026 13:31:56 +0000",
-    "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/steam-now-lets-you-see-exactly-what-frame-rate-you-should-get-in-games-using-a-steam-deck/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
       "Steam"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "AMD's next-gen GPU architecture has appeared in new Linux kernel patches as GFX13 updates roll out",
+    "id": 14,
+    "title": "Bungie drops gameplay trailer for Marathon's 'co-op PvE roguelite' mode and swanky new social space",
     "source": "PC Gamer",
-    "summary": "The suite of GFX13 patches aren't particularly exciting in themselves, but they do suggest there might actually be some new GPUs next year.",
-    "date": "Tue, 10 Nov 2026 13:06:31 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/amds-next-gen-gpu-architecture-has-appeared-in-new-linux-kernel-patches-as-gfx13-updates-roll-out/",
+    "summary": "The Symbiosis update, which will also kick off a beta for a new Team Deathmatch mode, will launch on December 8 with a free-play week.",
+    "date": "Tue, 10 Nov 2026 21:16:59 +0000",
+    "link": "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.11,
+      "score": 0.1,
       "badge": "success"
     },
     "tags": [
-      "AMD",
-      "GPU"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "2 years after Unknown 9: Awakening bombed, Bandai Namco is closing the studio that made it",
+    "source": "PC Gamer",
+    "summary": "Reflector Entertainment had a new game in pre-production, but Bandai decided it wasn't worth the time or money to pursue.",
+    "date": "Tue, 10 Nov 2026 19:55:36 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/2-years-after-unknown-9-awakening-bombed-bandai-namco-is-closing-the-studio-that-made-it/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "PlayStation Plus PC app is being shut down in December because less than 0.4% of eligible subscribers are using it",
+    "source": "PC Gamer",
+    "summary": "Yes, this fits with Sony's broader pullback from PC, but the real reason the app is \"retiring\" is a simple lack of interest.",
+    "date": "Tue, 10 Nov 2026 18:57:18 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/playstation-plus-pc-app-is-being-shut-down-in-december-because-less-than-0-4-percent-of-eligible-subscribers-are-using-it/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
-    "title": "Switch 2 Just Had Its Best Sales Week Of 2026, And It’s All Because Of Zelda",
+    "title": "GTA 6: What Will Review Scores Be? You Can Win A $500 Gift Card For Getting It Right",
     "source": "GameSpot",
-    "summary": "Nintendo just released The Legend of Zelda: Ocarina of Time's remake for Switch 2, and the themed console that Nintendo debuted with the game has, perhaps unsurprisingly, sold incredibly well.\nCircana's Mat Piscatella shared new data that confirms the Switch 2 just had its best sales week of 2026 so...",
-    "date": "Mon, 09 Nov 2026 21:47:49 +0000",
-    "link": "https://www.gamespot.com/articles/switch-2-just-had-its-best-sales-week-of-2026-and-its-all-because-of-zelda/",
+    "summary": "Rockstar's long-awaited open-world action game Grand Theft Auto 6 finally releases on November 19, and among the many things people are excited to find out is how the game will score with reviewers. \nNintendo's The Legend of Zelda: Ocarina of Time remake is currently the No. 1 most highly rated game...",
+    "date": "Tue, 10 Nov 2026 20:55:32 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-what-will-review-scores-be-you-can-win-a-500-gift-card-for-getting-it-right/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.53,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
     },
     "tags": [
-      "Remake",
-      "Nintendo"
+      "Nintendo",
+      "Remake"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 18,
-    "title": "GTA 5’s Trevor Should Be In GTA 6 Sitting On The Toilet To “Pass The Torch,” Actor Says",
+    "title": "Sony Cancels Live-Service PS5 Game Fairgames, But No Layoffs",
     "source": "GameSpot",
-    "summary": "Steven Ogg famously portrayed the wildcard character Trevor in Rockstar's Grand Theft Auto 5, and he wishes Rockstar brought the character back for GTA 6. \nSpeaking to Principle Magazine, Ogg said it would have been a nice moment to \"pass the torch\" to have Trevor show up at the beginning of GTA 6 \"...",
-    "date": "Mon, 09 Nov 2026 19:30:17 +0000",
-    "link": "https://www.gamespot.com/articles/gta-5s-trevor-should-be-in-gta-6-sitting-on-the-toilet-to-pass-the-torch-actor-says/",
+    "summary": "Sony has canceled the upcoming live-service shooter Fairgame$, but there will be no job cuts connected to the game's closure. This is according to a report from Bloomberg today.\nThe game was in the works at Haven Studios in Montreal, a team founded by former Assassin's Creed veteran Jade Raymond. Sh...",
+    "date": "Tue, 10 Nov 2026 20:43:00 +0000",
+    "link": "https://www.gamespot.com/articles/sony-cancels-live-service-ps5-game-fairgames-but-no-layoffs/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.31,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.24,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 19,
-    "title": "DC Studios Is Getting A Marvel Veteran To Replace James Gunn And Peter Safran",
+    "title": "GTA 6 Backflips Look Good Now, But There Could Be More To The Story",
     "source": "GameSpot",
-    "summary": "DC Studios co-presidents James Gunn and Peter Safran have officially announced they'll step down, and Marvel veteran Jeremy Latcham will replace them. Gunn and Safran architected the new DC Universe of films and TV series, and they also had ambitious plans to expand the DCU into video games. Latcham...",
-    "date": "Mon, 09 Nov 2026 18:15:39 +0000",
-    "link": "https://www.gamespot.com/articles/dc-studios-is-getting-a-marvel-veteran-to-replace-james-gunn-and-peter-safran/",
+    "summary": "A new Grand Theft Auto 6 trailer debuted today, November 10, and the video showed off a race car driver doing a backflip. The animation looks smoooth.\nThat's notable because the Extended Look trailer that debuted back in August showed Jason doing a backflip and people online quickly roasted it for l...",
+    "date": "Tue, 10 Nov 2026 20:26:18 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-backflips-look-good-now-but-there-could-be-more-to-the-story/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.38,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "Zelda: Ocarina Of Time Players Are Creating Incredible Cover Songs In The Game",
+    "title": "Amid Higher Gas And Grocery Prices, GTA 6 Is A “Bargain” At $80, Take-Two CEO Says",
     "source": "GameSpot",
-    "summary": "For fantasy nerds, it's hard to top The Legend of Zelda video game series and Lord of the Rings film trilogy. If that's you, like it is me, then X user Seven will probably give you goosebumps with his cover of \"Concerning Hobbits\" in-game with The Legend of Zelda: Ocarina of Time. Watching young Lin...",
-    "date": "Mon, 09 Nov 2026 18:00:46 +0000",
-    "link": "https://www.gamespot.com/articles/zelda-ocarina-of-time-players-are-creating-incredible-cover-songs-in-the-game/",
+    "summary": "It's no secret that life is expensive. Gas and grocery prices are up, in particular, and against that backdrop, Take-Two CEO Strauss Zelnick believes GTA 6 at $80 is a \"bargain\" due to how many hours people can play it. \n\"I think the consumer is under pressure. these are challenging times. Inflation...",
+    "date": "Tue, 10 Nov 2026 20:14:55 +0000",
+    "link": "https://www.gamespot.com/articles/amid-higher-gas-and-grocery-prices-gta-6-is-a-bargain-at-80-take-two-ceo-says/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
