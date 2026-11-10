@@ -1,231 +1,87 @@
 [
   {
     "id": 1,
-    "title": "Exterminauts Turns You and 2 Friends Into Intergalactic Pest Control Techs With Some Really Spicy Secondary Weapons | IGN Preview",
+    "title": "'I’ve Been In a Lot of Harry Potter Already' — Daniel Radcliffe Isn't Sure If He'll Watch HBO's Harry Potter TV Series",
     "source": "IGN",
-    "summary": "I've played about five hours of the blue-collar bug-squasher so far, and admittedly it’s grown on me. The special launcher weapons and diverse array of weird-ass bugs keeps skirmishes interesting, and I'm still in the process of finding new jobs to do and new biomes to do them on, so the sense of di...",
-    "date": "Mon, 9 Nov 2026 14:00:00 +0000",
-    "link": "https://www.ign.com/articles/exterminauts-turns-you-and-2-friends-into-intergalactic-pest-control-techs-with-some-really-spicy-secondary-weapons-ign-preview",
+    "summary": "Former Harry Potter actor Daniel Radcliffe isn't sure if he's going to watch HBO's TV adaptation of the Wizarding World.",
+    "date": "Mon, 9 Nov 2026 22:58:23 +0000",
+    "link": "https://www.ign.com/articles/ive-been-in-a-lot-of-harry-potter-already-daniel-radcliffe-isnt-sure-if-hell-watch-hbos-harry-potter-tv-series",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.16,
+      "score": 0.33,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "As GTA 6 Preload Goes Live, Fans Dig Into the Data to Try to Unearth Unannounced Information Ahead of Launch",
+    "title": "Skydance Reveals HBO Max and Paramount Plus Streaming Bundle Coming Early 2027",
     "source": "IGN",
-    "summary": "GTA 6 preloads are live for those who live in New Zealand (or are pretending to live in New Zealand to play early) and fans are scanning the game files for new information.",
-    "date": "Mon, 9 Nov 2026 12:33:05 +0000",
-    "link": "https://www.ign.com/articles/gta-6-metadata-ray-tracing-improvements-on-ps5-pro",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Internal Mass Effect 2 Trailer Gives Us the Earliest Look at the Game Yet",
-    "source": "IGN",
-    "summary": "The lead animator for Mass Effect 2 has shared a previously unreleased trailer for the game, only ever seen by the developers at BioWare.",
-    "date": "Mon, 9 Nov 2026 11:48:55 +0000",
-    "link": "https://www.ign.com/articles/internal-mass-effect-2-trailer-gives-us-the-earliest-look-at-the-game-yet",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.19,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Iconic British Retail Store Gets GTA 6 Takeover Featuring Exclusive $3,355 Varsity Jacket",
-    "source": "IGN",
-    "summary": "Luxury British department store Selfridges has had the ground floor of its flagship London store overtaken by GTA 6 ahead of its November 19 release date. It’s not just a little display, either; Rockstar and the retailer have gone all-out.",
-    "date": "Mon, 9 Nov 2026 11:30:49 +0000",
-    "link": "https://www.ign.com/articles/selfridges-gta-6-takeover-varsity-jacket",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "Nintendo's legendary Kirby designer Masahiro Sakurai weighs in on gen-AI, saying \"it has yet to gain my trust\" but not to reject it completely",
-    "source": "Eurogamer",
-    "summary": "Masahiro Sakurai, the designer behind many iconic Nintendo franchises such as Super Smash Bros. and several Kirby titles, has weighed in on the ongoing discussion of generative-AI use in game development. Read more...",
-    "date": "Mon, 09 Nov 2026 14:35:20 +0000",
-    "link": "https://www.eurogamer.net/masahiro-sakurai-generative-ai-famitsu",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.21,
-      "badge": "success"
-    },
-    "tags": [
-      "AI",
-      "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Skyrim lead designer hopes Sentinel will finally solve The Elder Scrolls' ladder problem",
-    "source": "Eurogamer",
-    "summary": "For such a simple, straightforward real-world object, ladders have been the bane of game developers' existence since the early days of the industry. And Bethesda's The Elder Scrolls Series is certainly no stranger to that struggle. Read more...",
-    "date": "Mon, 09 Nov 2026 12:46:20 +0000",
-    "link": "https://www.eurogamer.net/the-elder-scrolls-6-sentinel-ladders-skyrim-bethesda-designer",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "\"Art, including characters, terrain, animations, cutscenes and UI\" Bandai Namco and Monolith Soft helped out with Ocarina of Time on Switch 2",
-    "source": "Eurogamer",
-    "summary": "Xenoblade series developer Monolith Soft and Bandai Namco Studios have been listed as support studios for the Switch 2 version of Ocarina of Time, working on elements of the title such as \"art, including characters, terrain, animations, cutscenes and UI\". Special thanks to both companies appear in t...",
-    "date": "Mon, 09 Nov 2026 12:45:50 +0000",
-    "link": "https://www.eurogamer.net/ocarina-of-time-support-studios-confirmed-switch-2",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "London department store Selfridges launches sizeable GTA 6 takeover, featuring a varsity jacket that costs an eye-watering £2,500",
-    "source": "Eurogamer",
-    "summary": "Expensive British department store Selfridges has launched a sizeable Grand Theft Auto 6 takeover, completely making-over its Oxford Street London Corner Shop store and offering a considerable line of clothing, which includes an exclusive varsity jacket that costs a bank-melting £2,500. Note, you ca...",
-    "date": "Mon, 09 Nov 2026 12:18:50 +0000",
-    "link": "https://www.eurogamer.net/selfridges-gta-6-collab-takeover",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "How Wuthering Waves Drives the Next Evolution of Anime Action RPGs",
-    "source": "Polygon",
-    "summary": "Fast combat, fluid traversal and Resonators who fight like themselves: how Wuthering Waves keeps raising the bar for anime action RPGs.",
-    "date": "Mon, 09 Nov 2026 12:30:17 GMT",
-    "link": "https://www.polygon.com/wuthering-waves-wuwa-pushing-boundaries-next-evolution-anime-action-rpgs/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Mass Effect Creator Is ‘Optimistic’ the Series Will Live On",
-    "source": "Polygon",
-    "summary": "Despite the closure of BioWare, series creator Casey Hudson expresses optimism regarding the future of Mass Effect.",
-    "date": "Mon, 09 Nov 2026 12:00:14 GMT",
-    "link": "https://www.polygon.com/mass-effect-future-casey-hudson-optimistic/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "WoW: Forever Boosts Dungeon XP As Blizzard Struggles to Get Leveling Balance Right",
-    "source": "Polygon",
-    "summary": "Blizzard has increased experience from killing monsters in dungeons in World of Warcraft: Forever as it tries to balance leveling",
-    "date": "Mon, 09 Nov 2026 10:59:17 GMT",
-    "link": "https://www.polygon.com/wow-forever-dungeon-xp-boost-leveling/",
+    "summary": "Skydance has announced a subscription bundle for both Paramount+ and HBO Max is coming to viewers as soon as early 2027.",
+    "date": "Mon, 9 Nov 2026 22:50:22 +0000",
+    "link": "https://www.ign.com/articles/skydance-reveals-hbo-max-and-paramount-plus-streaming-bundle-coming-early-2027",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.1,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "Fortnite Officially Reveals Pirate Shop Access Token Odds",
-    "source": "Polygon",
-    "summary": "The odds of finding Fortnite's most-wanted items, like the Pirate Shop Access token and the limited-time golden skin, have been revealed.",
-    "date": "Mon, 09 Nov 2026 10:41:27 GMT",
-    "link": "https://www.polygon.com/fortnite-pirate-shop-access-token-treasure-odds-revealed/",
+    "id": 3,
+    "title": "This 1,000W 48V Electric Bike With 28mph Top Speed and 80-Mile Range Drops Below $250 for Black Friday",
+    "source": "IGN",
+    "summary": "A super affordable yet powerful ebike that will satisfy most of your commuter needs.",
+    "date": "Mon, 9 Nov 2026 22:00:00 +0000",
+    "link": "https://www.ign.com/articles/urlife-e20-1000w-48v-adult-electric-bike-deal-aliexpress-black-friday-deal",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.3,
+      "score": 0.29,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 13,
-    "title": "The pillars of AI are shaking beneath our feet",
-    "source": "PC Gamer",
-    "summary": "Strap yourselves in, whatever happens next isn't going to be pretty.",
-    "date": "Mon, 09 Nov 2026 14:52:38 +0000",
-    "link": "https://www.pcgamer.com/software/ai/the-pillars-of-ai-are-shaking-beneath-our-feet/",
+    "id": 4,
+    "title": "Here Are Some Movies to Watch Before GTA 6 (Including Some You Can Watch in Theaters)",
+    "source": "IGN",
+    "summary": "We've compiled a list of movies to watch before GTA 6, including some classics that will be shown at Regal Cinemas over the course of the next week.",
+    "date": "Mon, 9 Nov 2026 21:57:28 +0000",
+    "link": "https://www.ign.com/articles/here-are-some-movies-to-watch-before-gta-6-including-some-you-can-watch-in-theaters",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "As investors ask about GTA 6 and AI, Take-Two CEO once again puts faith in dev creativity, states making hit games \"remains the purview of human beings\"",
+    "source": "Eurogamer",
+    "summary": "Today, as part of Take-Two Interactive Software's Q2 2027 earnings call, Strauss Zelnick fielded questions from investors after presenting the financial results of the company. One caller was concerned about AI - specifically about the proliferation of AI-powered compilations and decompilations that...",
+    "date": "Mon, 09 Nov 2026 22:47:40 +0000",
+    "link": "https://www.eurogamer.net/gta-6-ai-strauss-zelnick-earnings-call-purview",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
       "AI"
@@ -233,83 +89,48 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
-    "title": "Great news! Nier: Automata's install size is no longer 7x bigger than it should be (it was 366 GB)",
-    "source": "PC Gamer",
-    "summary": "2B, times 183, plus G.",
-    "date": "Mon, 09 Nov 2026 14:51:27 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/great-news-nier-automatas-install-size-is-no-longer-7x-bigger-than-it-should-be-it-was-366-gb/",
+    "id": 6,
+    "title": "GTA 6 pre-orders are tracking \"well above expectations\" and the game will \"set a new baseline\" for Take-Two, says CEO Strauss Zelnick",
+    "source": "Eurogamer",
+    "summary": "Today, as part of Take-Two Interactive Software's Q2 2027 earnings call, Strauss Zelnick noted that pre-orders for Grand Theft Auto 6 are tracking \"far above expectations\", and is certain that soon \"numbers will speak for themselves\" when it comes to the game. Read more...",
+    "date": "Mon, 09 Nov 2026 22:02:50 +0000",
+    "link": "https://www.eurogamer.net/gta-6-preorders-tracking-take-two-earnings-call",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "\"Something's really possible\" - Mass Effect cast rally around efforts to save the franchise on the first N7 Day after BioWare's closure",
+    "source": "Eurogamer",
+    "summary": "This N7 Day was the first without developer BioWare around, but fans of the Mass Effect series didn't let 7th November go by quietly. The community managed to get several notable Mass Effect actors to lend their voice to the increasingly loud 'SaveMassEffect' movement. Read more...",
+    "date": "Mon, 09 Nov 2026 20:09:50 +0000",
+    "link": "https://www.eurogamer.net/mass-effect-cast-save-bioware-n7-day",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.5,
+      "score": 0.2,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "Skyrim lead designer gives the most succinct summary of Bethesda's design I've ever heard: 'You're not playing my game, I'm making your game'",
-    "source": "PC Gamer",
-    "summary": "Though, to be honest, sometimes I want to play someone else's game.",
-    "date": "Mon, 09 Nov 2026 12:28:31 +0000",
-    "link": "https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-gives-the-most-succinct-summary-of-bethesdas-design-ive-ever-heard-youre-not-playing-my-game-im-making-your-game/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Consider this blackened plug your weekly reminder to check your RTX 50-series GPU cables",
-    "source": "PC Gamer",
-    "summary": "And maybe buy a cable monitor, too.",
-    "date": "Mon, 09 Nov 2026 12:24:38 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/consider-this-blackened-plug-your-weekly-reminder-to-check-your-rtx-50-series-gpu-cables/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "GPU"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "GTA 6 Music Festival Announced For Miami With A Stacked Lineup Of Artists",
-    "source": "GameSpot",
-    "summary": "Rockstar Games has announced Grand Theft Auto 6: The Festival, a concert coming to the Mana Wynwood in Miami on November 21. \nThe festival features a lineup of artists from the game and the official soundtrack, including Cardi B, Travis Scott, Kodak Black, and Justice. The event is sponsored in part...",
-    "date": "Mon, 09 Nov 2026 14:32:17 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-music-festival-announced-for-miami-with-a-stacked-lineup-of-artists/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "Former PlayStation Boss Thinks Sony Is Solving The Wrong Problem With PS6",
-    "source": "GameSpot",
-    "summary": "Sony confirmed last week that development on its \"next-generation\" PlayStation platform will pick up speed in 2027, but not everyone is convinced the world needs a PS6 right now. In an interview with The Trophy Room, former PlayStation boss Shawn Layden said true innovation would come from finding a...",
-    "date": "Mon, 09 Nov 2026 13:55:47 +0000",
-    "link": "https://www.gamespot.com/articles/former-playstation-boss-thinks-sony-is-solving-the-wrong-problem-with-ps6/",
+    "id": 8,
+    "title": "God of War: Ragnarok is reportedly the highest-earning PlayStation Studios game this generation, but Marvel's Spider-Man 2 isn't far behind",
+    "source": "Eurogamer",
+    "summary": "God of War: Ragnarok is the generation's best-selling and highest-earning PlayStation Studios game, according to a new report, but the full top 10 list has a few nice surprises. Read more...",
+    "date": "Mon, 09 Nov 2026 19:02:00 +0000",
+    "link": "https://www.eurogamer.net/god-of-war-ragnarok-highest-earning-playstation-game",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.08,
@@ -321,38 +142,217 @@
     "read_time": "1 min read"
   },
   {
-    "id": 19,
-    "title": "GTA 6 Preloading Is Officially Live, Files Mention Multiplayer And PS5 Pro Features",
-    "source": "GameSpot",
-    "summary": "At long last, you can now install Grand Theft Auto 6 on your console via preloading, or at least you can if you live in Australia or New Zealand. Preloading begins in all regions at midnight local time, so people in the US are almost there.\nWith preloading now live, people have dug through the files...",
-    "date": "Mon, 09 Nov 2026 13:40:44 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-preloading-is-officially-live-files-mention-multiplayer-and-ps5-pro-features/",
+    "id": 9,
+    "title": "Zelda: Ocarina of Time Remake Gives Its Best Boy the Happy Ending He Deserved Decades Ago",
+    "source": "Polygon",
+    "summary": "The Legend of Zelda: Ocarina of Time remake on Switch 2 makes a small, but welcome change to the fate of Richard the dog",
+    "date": "Mon, 09 Nov 2026 23:00:17 GMT",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-richard-lives/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.59,
+      "badge": "success"
+    },
+    "tags": [
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Game Awards 2026: All Game of the Year Front-Runners and Predictions",
+    "source": "Polygon",
+    "summary": "We rank the contenders for GOTY 2026 at TGAs, including Resident Evil Requiem and Zelda: Ocarina of Time",
+    "date": "Mon, 09 Nov 2026 21:51:34 GMT",
+    "link": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.65,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "How to get the Biggoron Sword in Ocarina of Time",
+    "source": "Polygon",
+    "summary": "The Biggoron Sword is the reward for the \"From a Pocket Egg Comes...\" quest in Ocarina of Time. Here's how to complete the quest and get the sword.",
+    "date": "Mon, 09 Nov 2026 21:50:25 GMT",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-biggorons-sword-how-to-get/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.08,
+      "score": 0.1,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "HBO Max-Paramount Plus Bundle Officially Confirmed for 2027",
+    "source": "Polygon",
+    "summary": "HBO Max and Paramount+ are launching a streaming bundle in early 2027, bringing two major services together for subscribers.",
+    "date": "Mon, 09 Nov 2026 21:49:51 GMT",
+    "link": "https://www.polygon.com/hbo-max-paramount-plus-streaming-bundle-launching-2027/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.19,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "'The experiences on console and PC tend to be roughly the same,' says Take-Two CEO in response to question about GTA roleplaying",
+    "source": "PC Gamer",
+    "summary": "Of course, in the case of Grand Theft Auto 6, the PC experience at launch will be a blank screen.",
+    "date": "Tue, 10 Nov 2026 00:24:43 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/the-experiences-on-console-and-pc-tend-to-be-roughly-the-same-says-take-two-ceo-in-response-to-question-about-gta-roleplaying/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "A month after Paramount acquired Warner Bros. Discovery, its merged game division is laying people off",
+    "source": "PC Gamer",
+    "summary": "Skydance Games has \"made the difficult decision to scale down some of our projects.\"",
+    "date": "Mon, 09 Nov 2026 22:33:41 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/a-month-after-paramount-acquired-warner-bros-discovery-its-merged-game-division-is-laying-people-off/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.35,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Take-Two expects to make as much as $3.5 billion during the GTA 6 launch period",
+    "source": "PC Gamer",
+    "summary": "Pre-orders for GTA 6 are still \"unprecedented,\" says the publisher.",
+    "date": "Mon, 09 Nov 2026 22:06:34 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/take-two-expects-to-make-as-much-as-usd3-5-billion-during-the-gta-6-launch-period/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "A week after expanding its publishing division, Killing Floor studio Tripwire Interactive lays off 36 people",
+    "source": "PC Gamer",
+    "summary": "Tripwire said the decision to put people out of work was \"a necessary one for the organization.\"",
+    "date": "Mon, 09 Nov 2026 19:32:33 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/a-week-after-expanding-its-publishing-division-killing-floor-studio-tripwire-interactive-lays-off-36-people/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "Switch 2 Just Had Its Best Sales Week Of 2026, And It’s All Because Of Zelda",
+    "source": "GameSpot",
+    "summary": "Nintendo just released The Legend of Zelda: Ocarina of Time's remake for Switch 2, and the themed console that Nintendo debuted with the game has, perhaps unsurprisingly, sold incredibly well.\nCircana's Mat Piscatella shared new data that confirms the Switch 2 just had its best sales week of 2026 so...",
+    "date": "Mon, 09 Nov 2026 21:47:49 +0000",
+    "link": "https://www.gamespot.com/articles/switch-2-just-had-its-best-sales-week-of-2026-and-its-all-because-of-zelda/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.53,
+      "badge": "success"
+    },
+    "tags": [
+      "Nintendo",
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "GTA 5’s Trevor Should Be In GTA 6 Sitting On The Toilet To “Pass The Torch,” Actor Says",
+    "source": "GameSpot",
+    "summary": "Steven Ogg famously portrayed the wildcard character Trevor in Rockstar's Grand Theft Auto 5, and he wishes Rockstar brought the character back for GTA 6. \nSpeaking to Principle Magazine, Ogg said it would have been a nice moment to \"pass the torch\" to have Trevor show up at the beginning of GTA 6 \"...",
+    "date": "Mon, 09 Nov 2026 19:30:17 +0000",
+    "link": "https://www.gamespot.com/articles/gta-5s-trevor-should-be-in-gta-6-sitting-on-the-toilet-to-pass-the-torch-actor-says/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.31,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "DC Studios Is Getting A Marvel Veteran To Replace James Gunn And Peter Safran",
+    "source": "GameSpot",
+    "summary": "DC Studios co-presidents James Gunn and Peter Safran have officially announced they'll step down, and Marvel veteran Jeremy Latcham will replace them. Gunn and Safran architected the new DC Universe of films and TV series, and they also had ambitious plans to expand the DCU into video games. Latcham...",
+    "date": "Mon, 09 Nov 2026 18:15:39 +0000",
+    "link": "https://www.gamespot.com/articles/dc-studios-is-getting-a-marvel-veteran-to-replace-james-gunn-and-peter-safran/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "Mortal Kombat 2 Is Winning The Race To Become Mortal Kombat 2",
+    "title": "Zelda: Ocarina Of Time Players Are Creating Incredible Cover Songs In The Game",
     "source": "GameSpot",
-    "summary": "What's in a name? That's the question that Mortal Kombat studio CCO Ed Boon is asking, as he recently set up a few polls asking for opinions on what the next Mortal Kombat game should be called. According to Boon, three possible names were on the table: Mortal Kombat 12, Mortal Kombat 13, or Mortal ...",
-    "date": "Mon, 09 Nov 2026 12:58:56 +0000",
-    "link": "https://www.gamespot.com/articles/mortal-kombat-2-is-winning-the-race-to-become-mortal-kombat-2/",
+    "summary": "For fantasy nerds, it's hard to top The Legend of Zelda video game series and Lord of the Rings film trilogy. If that's you, like it is me, then X user Seven will probably give you goosebumps with his cover of \"Concerning Hobbits\" in-game with The Legend of Zelda: Ocarina of Time. Watching young Lin...",
+    "date": "Mon, 09 Nov 2026 18:00:46 +0000",
+    "link": "https://www.gamespot.com/articles/zelda-ocarina-of-time-players-are-creating-incredible-cover-songs-in-the-game/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.02,
+      "score": 0.07,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
