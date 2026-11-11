@@ -1,86 +1,85 @@
 [
   {
     "id": 1,
-    "title": "Marvel's VisionQuest Series Finale Review: 'Forever'",
+    "title": "Avengers Endgame: Encore Finally Gets a Disney+ Release Date, And It's Real Soon",
     "source": "IGN",
-    "summary": "The last-minute addition of a new villain derails the finale of VisionQuest somewhat, but the series still succeeds where Vision and Ultron are concerned.",
-    "date": "Wed, 11 Nov 2026 02:00:00 +0000",
-    "link": "https://www.ign.com/articles/marvels-visionquest-series-finale-review-forever",
+    "summary": "Avengers Endgame: Encore will get an imminent Disney+ launch, it's been confirmed.",
+    "date": "Wed, 11 Nov 2026 11:52:42 +0000",
+    "link": "https://www.ign.com/articles/avengers-endgame-encore-finally-gets-a-disney-release-date-and-its-real-soon",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.42,
+      "score": 0.2,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Fortis Games Closes With Over 400 Jobs Impacted",
+    "title": "Best New Books to Read in November 2026: 9 Must-Read Sci-Fi, Fantasy and Romance Releases",
     "source": "IGN",
-    "summary": "Fortis Games, a studio behind mobile titles like Twilight Towers and Bloom & Breakfast, has closed its doors, impacting around 440 jobs.",
-    "date": "Wed, 11 Nov 2026 01:09:39 +0000",
-    "link": "https://www.ign.com/articles/fortis-games-closes-with-over-400-jobs-impacted",
+    "summary": "Discover the best new books releasing in November 2026, featuring anticipated releases from Rebecca Yarros, John Scalzi, Jason Pargin and Nick Harkaway.",
+    "date": "Wed, 11 Nov 2026 11:00:38 +0000",
+    "link": "https://www.ign.com/articles/best-new-books-november-2026",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.25,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.57,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "The DCU Regime Change Threatens to Turn Man of Tomorrow Into 2027’s Answer to The Flash",
+    "title": "Nintendo Defends Decision to Cut Mario and Yoshi Easter Eggs From The Legend of Zelda: Ocarina of Time Remake",
     "source": "IGN",
-    "summary": "It’s been four years since James Gunn and Peter Safran were announced as the co-bosses of DC Studios, and just a day since their ouster was revealed, and we're having a serious case of déjà vu.",
-    "date": "Wed, 11 Nov 2026 00:55:02 +0000",
-    "link": "https://www.ign.com/articles/dcu-man-of-tomorrow-leadership-flash-comparison",
+    "summary": "Nintendo has defended its decision to scrub the secret appearance of Mario characters from its The Legend of Zelda: Ocarina of Time remake.",
+    "date": "Wed, 11 Nov 2026 10:51:26 +0000",
+    "link": "https://www.ign.com/articles/nintendo-defends-decision-to-cut-mario-and-yoshi-easter-eggs-from-the-legend-of-zelda-ocarina-of-time-remake",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.33,
+      "score": -0.4,
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Remake",
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Lanterns Not Renewed for Season 2, Says DC Studios Insider",
+    "title": "The Legend of Zelda: Ocarina of Time Remake Players Use In-Game Ocarina to Play Everything From Linkin Park, Titanic, and Japanese Supermarket Themes",
     "source": "IGN",
-    "summary": "An insider at DC Studios claims that HBO’s Lanterns was not renewed for a second season in spite of rave reviews and audience interest, as told in a report from Variety.",
-    "date": "Wed, 11 Nov 2026 00:18:08 +0000",
-    "link": "https://www.ign.com/articles/lanterns-not-renewed-for-season-2-says-dc-studios-insider",
+    "summary": "The much anticipated remake of The Legend of Zelda: Ocarina of Time launched on November 5, and one feature has fast become a big hit: the fact that you can now play any tune you like on Link’s ocarina. Now, social media has become awash with players sharing the results.",
+    "date": "Wed, 11 Nov 2026 10:37:33 +0000",
+    "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-players-use-in-game-ocarina-to-play-everything-from-linkin-park-titanic-and-japanese-supermarket-themes",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.09,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Remake"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
-    "title": "Here's our second wave of PS Plus games for November 2026 - and Sony's scrapping its barely used PC app",
+    "title": "As of this week, PlayStation 5 has surpassed 100 million consoles sold",
     "source": "Eurogamer",
-    "summary": "Sony's revealed the second wave of games coming to PlayStation Plus Premium and Extra this month, and there are some genuine big-name attractions, led by Hideo Kojima's futuristic delivery man showstopper Death Stranding 2: On the Beach. Read more...",
-    "date": "Tue, 10 Nov 2026 17:10:00 +0000",
-    "link": "https://www.eurogamer.net/ps-plus-games-november-2026-pc-app",
+    "summary": "PlayStation 5 has officially surpassed 100m consoles sold, Sony's updated sales data revealed. The milestone was reached on 10th November, almost exactly six years on from the console's launch. Read more...",
+    "date": "Wed, 11 Nov 2026 12:49:10 +0000",
+    "link": "https://www.eurogamer.net/playstation-5-100-million-sales-november-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.16,
+      "score": 0.38,
       "badge": "success"
     },
     "tags": [
@@ -90,193 +89,196 @@
   },
   {
     "id": 6,
-    "title": "Grand Theft Auto 6 becomes the most pre-ordered game in PlayStation Store history",
+    "title": "World of Warcraft: Forever secret hunters have found the MMO's first hidden treasure",
     "source": "Eurogamer",
-    "summary": "Sony has just announced that Grand Theft Auto 6 has become \"the most pre-ordered game in the history of PlayStation Store\". Note, it's not the most pre-ordered game in PlayStation history, just on its digital PlayStation Store. Read more...",
-    "date": "Tue, 10 Nov 2026 16:31:30 +0000",
-    "link": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history",
+    "summary": "World of Warcraft secret hunters are a noble breed, known for scouring the MMO for years for hidden trinkets and treasures. With World of Warcraft: Forever's launch, they've uncovered a quest chain for an especially fancy sword. Read more...",
+    "date": "Wed, 11 Nov 2026 12:15:50 +0000",
+    "link": "https://www.eurogamer.net/world-of-warcraft-forever-secret-dawn-walker-sword",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.18,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
     },
     "tags": [
-      "PlayStation"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 7,
-    "title": "Rockstar details Grand Theft Auto 6 PS5 Pro enhancements, but it'll still only run at 30FPS",
+    "title": "Monster Hunter Wilds' upcoming Ascendance expansion may be getting a beta, some curious Steam backend updates suggest",
     "source": "Eurogamer",
-    "summary": "As Grand Theft Auto 6 preloads go live, developer Rockstar has detailed the enhancements coming to the PS5 Pro version of the game, confirming these won't include framerates above the 30 FPS its targeting for consoles. Read more...",
-    "date": "Tue, 10 Nov 2026 15:01:10 +0000",
-    "link": "https://www.eurogamer.net/gta-6-30-fps-platforms-absolute-limit",
+    "summary": "Monster Hunter Wilds's first expansion, Ascendance, is set for release sometime next year. But, judging by some very suspect recent changes to the Wilds beta app on Steam, we may be playing some of the new stuff earlier than we thought. Read more...",
+    "date": "Wed, 11 Nov 2026 11:16:50 +0000",
+    "link": "https://www.eurogamer.net/monster-hunter-wilds-ascendance-beta-steam-backend",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.2,
+      "score": 0.12,
       "badge": "success"
     },
     "tags": [
-      "FPS"
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 8,
-    "title": "Europe is about to get very tough on loot boxes in games, according to a leaked draft of the landmark Digital Fairness Act",
+    "title": "The Legend of Zelda: Ocarina of Time remake sells in huge numbers, becoming the fastest-selling Switch 2 game",
     "source": "Eurogamer",
-    "summary": "An alleged draft of the potentially game-changing Digital Fairness Act has leaked ahead of its scheduled publication tomorrow (11th November), containing proposals that could dramatically affect the way games operate and are monetised within the European Union. Read more...",
-    "date": "Tue, 10 Nov 2026 14:46:50 +0000",
-    "link": "https://www.eurogamer.net/digital-fairness-act-eu-europe-loot-boxes-regulation",
+    "summary": "The Legend of Zelda: Ocarina of Time remake has been a huge success for Nintendo, becoming the fastest-selling Switch 2 game ever, shifting more than 5.2 million copies in four days. Read more...",
+    "date": "Wed, 11 Nov 2026 09:56:10 +0000",
+    "link": "https://www.eurogamer.net/zelda-ocarina-of-time-switch-2-sales-nintendo",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.02,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.24,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Remake",
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "5 Years Later, 'VisionQuest' Officially Fixes 'WandaVision's Disappointing Ending",
+    "title": "All Zelda: Ocarina of Time Dungeons, Ranked From Worst to Best",
     "source": "Polygon",
-    "summary": "The finale of VisionQuest featured a sitcom-inspired sequence that would have saved WandaVision",
-    "date": "Wed, 11 Nov 2026 03:30:17 GMT",
-    "link": "https://www.polygon.com/visionquest-fixes-wandavision-ending/",
+    "summary": "The Legend of Zelda: Ocarina of Time's Switch 2 remake is a great reminder of Nintendo's excellent dungeon design.",
+    "date": "Wed, 11 Nov 2026 13:00:17 GMT",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-dungeons-ranked/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.3,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.45,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Remake",
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Christopher Nolan's The Odyssey Officially Sets Home Release Date",
+    "title": "Tom Morello Joins Critical Role for New Bard-Themed Adventure",
     "source": "Polygon",
-    "summary": "The Odyssey, Christopher Nolan's historical epic, is coming home to VOD and Blu-ray/DVD on Nov. 19.",
-    "date": "Tue, 10 Nov 2026 22:52:17 GMT",
-    "link": "https://www.polygon.com/the-odyssey-christopher-nolan-home-release-date/",
+    "summary": "A new Critical Role charity one-shot featuring Rage Against the Machine's Tom Morello, with Matthew Mercer as Game Master, is scheduled for Nov. 17.",
+    "date": "Wed, 11 Nov 2026 12:58:41 GMT",
+    "link": "https://www.polygon.com/critical-role-battle-of-the-bards-tom-morello/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.05,
+      "score": -0.03,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "10 Best Fire Emblem: Fortune's Weave Replacements",
+    "title": "Where are all the rings in The Lord of the Rings: The Rings of Power season 3?",
     "source": "Polygon",
-    "summary": "If Fire Emblem: Fortune's Weave has got you craving more tactical battles and plenty of allies to recruit, here are a few of our favorites",
-    "date": "Tue, 10 Nov 2026 22:18:49 GMT",
-    "link": "https://www.polygon.com/fire-emblem-fortunes-weave-best-games-replacements/",
+    "summary": "One ring to find them",
+    "date": "Wed, 11 Nov 2026 12:30:18 GMT",
+    "link": "https://www.polygon.com/rings-of-power-rings-explained/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.43,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "PlayStation Officially Cancels Live-service Shooter Fairgames",
+    "title": "Dragon Quest Creator Says New Game Will Capture the Series' 'Unmistakable Feeling'",
     "source": "Polygon",
-    "summary": "Sony has canceled Haven's Fairgames, a live-service shooter revealed in 2023. The studio will now become a support team.",
-    "date": "Tue, 10 Nov 2026 21:27:49 GMT",
-    "link": "https://www.polygon.com/sony-cancels-fairgames-live-service-shooter-ps5/",
+    "summary": "A turn-based Dragon Quest RPG is set to launch on smartphones next year, allowing fans to enjoy a classic adventure anywhere they go.",
+    "date": "Wed, 11 Nov 2026 12:02:52 GMT",
+    "link": "https://www.polygon.com/dragon-quest-rpg-mobile-game-announcement/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.06,
       "badge": "info"
     },
     "tags": [
-      "PlayStation"
+      "RPG"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "Steam's age verification in Australia now takes your account's age into consideration",
+    "title": "Apparently now we *won’t* see a 24 GB RTX 5080, which is probably actually good for our wallets",
     "source": "PC Gamer",
-    "summary": "If your Steam account is at least nine years old, you should be good. Maybe.",
-    "date": "Wed, 11 Nov 2026 01:34:31 +0000",
-    "link": "https://www.pcgamer.com/software/platforms/steams-age-verification-in-australia-now-takes-your-accounts-age-into-consideration/",
+    "summary": "Though it might not matter for most gamers either way, with how expensive the RTX 5080 is.",
+    "date": "Wed, 11 Nov 2026 13:09:01 +0000",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/apparently-now-we-wont-see-a-24-gb-rtx-5080-which-is-probably-actually-good-for-our-wallets/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.17,
+      "score": 0.19,
       "badge": "success"
     },
     "tags": [
-      "Steam"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "One Elder Scrolls fan is reviving and upgrading (with AI) a lost spin-off for the Nokia N-Gage and porting it to PC",
+    "title": "Microsoft’s own upscaler and alternative to FSR just landed on Xbox Ally X handhelds - actually uses an NPU for something useful",
     "source": "PC Gamer",
-    "summary": "Anyone remember Shadowkey?",
-    "date": "Wed, 11 Nov 2026 00:00:19 +0000",
-    "link": "https://www.pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc/",
+    "summary": "FSR is still preferred, when available and well-implemented, though.",
+    "date": "Wed, 11 Nov 2026 12:11:36 +0000",
+    "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/microsofts-own-upscaler-and-alternative-to-fsr-just-landed-on-xbox-ally-x-handhelds-actually-uses-an-npu-for-something-useful/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.32,
+      "badge": "success"
     },
     "tags": [
-      "AI"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "Sony cancels another live service game ahead of release, but at least there won't be any layoffs this time",
+    "title": "WoW: Forever to add extra gold to high-level quests, since it turns out you don't get extra cash at 60",
     "source": "PC Gamer",
-    "summary": "Fairgames was revealed in 2023, but nothing more was ever seen of it.",
-    "date": "Tue, 10 Nov 2026 23:15:38 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/sony-cancels-another-live-service-game-ahead-of-release-but-at-least-there-wont-be-any-layoffs-this-time/",
+    "summary": "Money, money, money.",
+    "date": "Wed, 11 Nov 2026 11:41:45 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-to-add-extra-gold-to-high-level-quests-since-it-turns-out-you-dont-get-extra-cash-at-60/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.02,
+      "score": 0.03,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Capcom quietly updates the Monster Hunter Wilds beta listing on Steam, indicating a possible expansion playtest",
+    "title": "'We're kind of friendslop': CEO of Jackbox Games sees the link between party games and this new trend but doesn't think it's necessarily 'a negative moniker'",
     "source": "PC Gamer",
-    "summary": "We might get an early taste of Ascendance before long.",
-    "date": "Tue, 10 Nov 2026 22:22:30 +0000",
-    "link": "https://www.pcgamer.com/games/action/capcom-quietly-updates-the-monster-hunter-wilds-beta-listing-on-steam-indicating-a-possible-expansion-playtest/",
+    "summary": "\"It means that our kind of genre that we play in is popular.\"",
+    "date": "Wed, 11 Nov 2026 11:22:49 +0000",
+    "link": "https://www.pcgamer.com/games/were-kind-of-friendslop-ceo-of-jackbox-games-sees-the-link-between-party-games-and-this-new-trend-but-doesnt-think-its-necessarily-a-negative-moniker/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.33,
+      "badge": "success"
     },
     "tags": [
-      "Steam"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -311,8 +313,8 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -329,8 +331,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -347,8 +349,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
