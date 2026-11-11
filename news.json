@@ -1,72 +1,73 @@
 [
   {
     "id": 1,
-    "title": "World of Warcraft Forever Hotfix Will Thin Out Overcrowded Zones and Help Faction Balance",
+    "title": "Marvel's VisionQuest Series Finale Review: 'Forever'",
     "source": "IGN",
-    "summary": "World of Warcraft Forever has been incredibly popular, and has gone down as the biggest WoW launch in history. It's little wonder then, that some zones are absolutely packed with players. And, Blizzard has implemented a fix.",
-    "date": "Tue, 10 Nov 2026 21:08:36 +0000",
-    "link": "https://www.ign.com/articles/world-of-warcraft-forever-hotfix-will-thin-out-overcrowded-zones-and-help-faction-balance",
+    "summary": "The last-minute addition of a new villain derails the finale of VisionQuest somewhat, but the series still succeeds where Vision and Ultron are concerned.",
+    "date": "Wed, 11 Nov 2026 02:00:00 +0000",
+    "link": "https://www.ign.com/articles/marvels-visionquest-series-finale-review-forever",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.42,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "PlayStation Cancels Live-Service Heist Shooter, Fairgames",
+    "title": "Fortis Games Closes With Over 400 Jobs Impacted",
     "source": "IGN",
-    "summary": "Fairgames, a live-service heist game from PlayStation's Haven Studios, has been canceled by Sony.",
-    "date": "Tue, 10 Nov 2026 21:00:21 +0000",
-    "link": "https://www.ign.com/articles/playstation-cancels-live-service-heist-shooter-fairgames",
+    "summary": "Fortis Games, a studio behind mobile titles like Twilight Towers and Bloom & Breakfast, has closed its doors, impacting around 440 jobs.",
+    "date": "Wed, 11 Nov 2026 01:09:39 +0000",
+    "link": "https://www.ign.com/articles/fortis-games-closes-with-over-400-jobs-impacted",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.4,
+      "score": -0.25,
       "badge": "danger"
     },
     "tags": [
-      "PlayStation"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Save Over 50% Off One of the Coolest Desktop Charging Stations for Black Friday",
+    "title": "The DCU Regime Change Threatens to Turn Man of Tomorrow Into 2027’s Answer to The Flash",
     "source": "IGN",
-    "summary": "Features three AC outlets and four USB ports.",
-    "date": "Tue, 10 Nov 2026 20:10:00 +0000",
-    "link": "https://www.ign.com/articles/save-over-50-off-one-of-the-coolest-desktop-charging-stations-for-black-friday",
+    "summary": "It’s been four years since James Gunn and Peter Safran were announced as the co-bosses of DC Studios, and just a day since their ouster was revealed, and we're having a serious case of déjà vu.",
+    "date": "Wed, 11 Nov 2026 00:55:02 +0000",
+    "link": "https://www.ign.com/articles/dcu-man-of-tomorrow-leadership-flash-comparison",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.17,
+      "score": -0.33,
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "We Build LEGO Downton Abbey, a Stately Set That's Worthy of the Crawley Name",
+    "title": "Lanterns Not Renewed for Season 2, Says DC Studios Insider",
     "source": "IGN",
-    "summary": "We build LEGO Ideas Downton Abbey, a big, heavy, stately set that comes with 13 minifigures.",
-    "date": "Tue, 10 Nov 2026 20:08:45 +0000",
-    "link": "https://www.ign.com/articles/lego-downton-abbey-review-21373",
+    "summary": "An insider at DC Studios claims that HBO’s Lanterns was not renewed for a second season in spite of rave reviews and audience interest, as told in a report from Variety.",
+    "date": "Wed, 11 Nov 2026 00:18:08 +0000",
+    "link": "https://www.ign.com/articles/lanterns-not-renewed-for-season-2-says-dc-studios-insider",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.04,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -134,13 +135,49 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
+    "title": "5 Years Later, 'VisionQuest' Officially Fixes 'WandaVision's Disappointing Ending",
+    "source": "Polygon",
+    "summary": "The finale of VisionQuest featured a sitcom-inspired sequence that would have saved WandaVision",
+    "date": "Wed, 11 Nov 2026 03:30:17 GMT",
+    "link": "https://www.polygon.com/visionquest-fixes-wandavision-ending/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.3,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Christopher Nolan's The Odyssey Officially Sets Home Release Date",
+    "source": "Polygon",
+    "summary": "The Odyssey, Christopher Nolan's historical epic, is coming home to VOD and Blu-ray/DVD on Nov. 19.",
+    "date": "Tue, 10 Nov 2026 22:52:17 GMT",
+    "link": "https://www.polygon.com/the-odyssey-christopher-nolan-home-release-date/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
     "title": "10 Best Fire Emblem: Fortune's Weave Replacements",
     "source": "Polygon",
     "summary": "If Fire Emblem: Fortune's Weave has got you craving more tactical battles and plenty of allies to recruit, here are a few of our favorites",
@@ -152,13 +189,13 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 10,
+    "id": 12,
     "title": "PlayStation Officially Cancels Live-service Shooter Fairgames",
     "source": "Polygon",
     "summary": "Sony has canceled Haven's Fairgames, a live-service shooter revealed in 2023. The studio will now become a support team.",
@@ -175,43 +212,59 @@
     "read_time": "1 min read"
   },
   {
-    "id": 11,
-    "title": "4 Upcoming Fantasy RPGs Better Than Waiting for a New Dragon Age",
-    "source": "Polygon",
-    "summary": "Want more Dragon Age? These four upcoming RPGs, one playable today, deliver the companions, tactical fights, and choices that follow you around.",
-    "date": "Tue, 10 Nov 2026 21:00:17 GMT",
-    "link": "https://www.polygon.com/dragon-age-alternatives-upcoming-rpgs/",
+    "id": 13,
+    "title": "Steam's age verification in Australia now takes your account's age into consideration",
+    "source": "PC Gamer",
+    "summary": "If your Steam account is at least nine years old, you should be good. Maybe.",
+    "date": "Wed, 11 Nov 2026 01:34:31 +0000",
+    "link": "https://www.pcgamer.com/software/platforms/steams-age-verification-in-australia-now-takes-your-accounts-age-into-consideration/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.38,
+      "score": 0.17,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "How to get the Sinking Lure in Zelda Ocarina of Time",
-    "source": "Polygon",
-    "summary": "The Sinking Lure makes fishing easier in Ocarina of Time, but also helps hook the Hylian loach. Here's where it's located and how to get it.",
-    "date": "Tue, 10 Nov 2026 20:23:51 GMT",
-    "link": "https://www.polygon.com/zelda-ocarina-of-time-oot-remake-sinking-lure-location/",
+    "id": 14,
+    "title": "One Elder Scrolls fan is reviving and upgrading (with AI) a lost spin-off for the Nokia N-Gage and porting it to PC",
+    "source": "PC Gamer",
+    "summary": "Anyone remember Shadowkey?",
+    "date": "Wed, 11 Nov 2026 00:00:19 +0000",
+    "link": "https://www.pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 13,
+    "id": 15,
+    "title": "Sony cancels another live service game ahead of release, but at least there won't be any layoffs this time",
+    "source": "PC Gamer",
+    "summary": "Fairgames was revealed in 2023, but nothing more was ever seen of it.",
+    "date": "Tue, 10 Nov 2026 23:15:38 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/sony-cancels-another-live-service-game-ahead-of-release-but-at-least-there-wont-be-any-layoffs-this-time/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
     "title": "Capcom quietly updates the Monster Hunter Wilds beta listing on Steam, indicating a possible expansion playtest",
     "source": "PC Gamer",
     "summary": "We might get an early taste of Ascendance before long.",
@@ -228,59 +281,6 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
-    "title": "Bungie drops gameplay trailer for Marathon's 'co-op PvE roguelite' mode and swanky new social space",
-    "source": "PC Gamer",
-    "summary": "The Symbiosis update, which will also kick off a beta for a new Team Deathmatch mode, will launch on December 8 with a free-play week.",
-    "date": "Tue, 10 Nov 2026 21:16:59 +0000",
-    "link": "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.1,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "2 years after Unknown 9: Awakening bombed, Bandai Namco is closing the studio that made it",
-    "source": "PC Gamer",
-    "summary": "Reflector Entertainment had a new game in pre-production, but Bandai decided it wasn't worth the time or money to pursue.",
-    "date": "Tue, 10 Nov 2026 19:55:36 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/2-years-after-unknown-9-awakening-bombed-bandai-namco-is-closing-the-studio-that-made-it/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "PlayStation Plus PC app is being shut down in December because less than 0.4% of eligible subscribers are using it",
-    "source": "PC Gamer",
-    "summary": "Yes, this fits with Sony's broader pullback from PC, but the real reason the app is \"retiring\" is a simple lack of interest.",
-    "date": "Tue, 10 Nov 2026 18:57:18 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/playstation-plus-pc-app-is-being-shut-down-in-december-because-less-than-0-4-percent-of-eligible-subscribers-are-using-it/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 17,
     "title": "GTA 6: What Will Review Scores Be? You Can Win A $500 Gift Card For Getting It Right",
     "source": "GameSpot",
@@ -293,8 +293,8 @@
       "badge": "info"
     },
     "tags": [
-      "Nintendo",
-      "Remake"
+      "Remake",
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
@@ -311,8 +311,8 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -329,8 +329,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -347,8 +347,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
