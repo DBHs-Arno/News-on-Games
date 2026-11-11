@@ -1,68 +1,85 @@
 [
   {
     "id": 1,
-    "title": "Avengers Endgame: Encore Finally Gets a Disney+ Release Date, And It's Real Soon",
+    "title": "Henry Cavill Is Open to Returning as Superman Once Again",
     "source": "IGN",
-    "summary": "Avengers Endgame: Encore will get an imminent Disney+ launch, it's been confirmed.",
-    "date": "Wed, 11 Nov 2026 11:52:42 +0000",
-    "link": "https://www.ign.com/articles/avengers-endgame-encore-finally-gets-a-disney-release-date-and-its-real-soon",
+    "summary": "Henry Cavill has stated that he's still open to the idea of playing Superman following all the shake-ups at DC Studios.",
+    "date": "Wed, 11 Nov 2026 22:46:53 +0000",
+    "link": "https://www.ign.com/articles/henry-cavill-is-open-to-returning-as-superman-once-again",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Best New Books to Read in November 2026: 9 Must-Read Sci-Fi, Fantasy and Romance Releases",
+    "title": "A Death Metal Guitarist Is So Into WoW Forever, He Took it Onstage With a Steam Deck",
     "source": "IGN",
-    "summary": "Discover the best new books releasing in November 2026, featuring anticipated releases from Rebecca Yarros, John Scalzi, Jason Pargin and Nick Harkaway.",
-    "date": "Wed, 11 Nov 2026 11:00:38 +0000",
-    "link": "https://www.ign.com/articles/best-new-books-november-2026",
+    "summary": "World of Warcraft Forever is off to a monumental start, with more players wandering Azeroth than ever before. And at least one death metal guitarist can't put it down long enough to watch his opener play.",
+    "date": "Wed, 11 Nov 2026 22:46:28 +0000",
+    "link": "https://www.ign.com/articles/a-death-metal-guitarist-is-so-into-wow-forever-he-took-it-onstage-with-a-steam-deck",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.57,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Nintendo Defends Decision to Cut Mario and Yoshi Easter Eggs From The Legend of Zelda: Ocarina of Time Remake",
+    "title": "New Mega Man Legends Game, Movie, or TV Series Possibly In the Works After Fans Spot 'New Media' Listing",
     "source": "IGN",
-    "summary": "Nintendo has defended its decision to scrub the secret appearance of Mario characters from its The Legend of Zelda: Ocarina of Time remake.",
-    "date": "Wed, 11 Nov 2026 10:51:26 +0000",
-    "link": "https://www.ign.com/articles/nintendo-defends-decision-to-cut-mario-and-yoshi-easter-eggs-from-the-legend-of-zelda-ocarina-of-time-remake",
+    "summary": "A now-deleted listing for ‘Mega Man Legends — New Media’ was spotted on a ‘What’s Shooting’ page for ACTRA Toronto, hinting that a new game, film, or TV series in the franchise's 'Legends' series is in the works.",
+    "date": "Wed, 11 Nov 2026 22:45:42 +0000",
+    "link": "https://www.ign.com/articles/new-mega-man-legends-game-movie-or-tv-series-possibly-in-the-works-after-fans-spot-new-media-listing",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.04,
+      "badge": "info"
     },
     "tags": [
-      "Remake",
-      "Nintendo"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "The Legend of Zelda: Ocarina of Time Remake Players Use In-Game Ocarina to Play Everything From Linkin Park, Titanic, and Japanese Supermarket Themes",
+    "title": "Jamie Campbell Bower Calls Rings of Power Season 3 the 'Perfect Kind of Antidote' After Stranger Things",
     "source": "IGN",
-    "summary": "The much anticipated remake of The Legend of Zelda: Ocarina of Time launched on November 5, and one feature has fast become a big hit: the fact that you can now play any tune you like on Link’s ocarina. Now, social media has become awash with players sharing the results.",
-    "date": "Wed, 11 Nov 2026 10:37:33 +0000",
-    "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-players-use-in-game-ocarina-to-play-everything-from-linkin-park-titanic-and-japanese-supermarket-themes",
+    "summary": "The character of Celeborn -- Jamie Campbell Bower's first role after playing Vecna, et al, in Seasons 4 and 5 of Stranger Things -- helped the actor move on from those persistently dark characters.",
+    "date": "Wed, 11 Nov 2026 22:37:23 +0000",
+    "link": "https://www.ign.com/articles/jamie-campbell-bower-calls-rings-of-power-season-3-the-perfect-kind-of-antidote-after-stranger-things",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.43,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Destroy All Humans remake developer goes independent, splits from THQ Nordic and parent company Embracer Group",
+    "source": "Eurogamer",
+    "summary": "Black Forest Games - the studio that remade the first two cult-classic Destroy All Humans games - has spun out from under former owners THQ Nordic and Embracer Group. Read more...",
+    "date": "Wed, 11 Nov 2026 20:37:20 +0000",
+    "link": "https://www.eurogamer.net/destroy-all-humans-independent-thq-embracer",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.09,
+      "score": 0.03,
       "badge": "info"
     },
     "tags": [
@@ -71,50 +88,139 @@
     "read_time": "1 min read"
   },
   {
-    "id": 5,
-    "title": "As of this week, PlayStation 5 has surpassed 100 million consoles sold",
+    "id": 6,
+    "title": "Don't expect more information on The Elder Scrolls 6: Sentinel \"for some time,\" Bethesda says",
     "source": "Eurogamer",
-    "summary": "PlayStation 5 has officially surpassed 100m consoles sold, Sony's updated sales data revealed. The milestone was reached on 10th November, almost exactly six years on from the console's launch. Read more...",
-    "date": "Wed, 11 Nov 2026 12:49:10 +0000",
-    "link": "https://www.eurogamer.net/playstation-5-100-million-sales-november-2026",
+    "summary": "After Bethesda formally named The Elder Scrolls 6: Sentinel earlier this month, some series fans were hopeful that more news wasn't far behind. Skyrim is 15 years old today (11th November) after all, but Bethesda Game Studios has since dashed those hopes into oblivion. Read more...",
+    "date": "Wed, 11 Nov 2026 19:36:50 +0000",
+    "link": "https://www.eurogamer.net/dont-expect-elder-scrolls-6-sentinel-for-some-time-bethesda",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.38,
+      "score": 0.11,
       "badge": "success"
     },
     "tags": [
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "World of Warcraft: Forever secret hunters have found the MMO's first hidden treasure",
-    "source": "Eurogamer",
-    "summary": "World of Warcraft secret hunters are a noble breed, known for scouring the MMO for years for hidden trinkets and treasures. With World of Warcraft: Forever's launch, they've uncovered a quest chain for an especially fancy sword. Read more...",
-    "date": "Wed, 11 Nov 2026 12:15:50 +0000",
-    "link": "https://www.eurogamer.net/world-of-warcraft-forever-secret-dawn-walker-sword",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 7,
-    "title": "Monster Hunter Wilds' upcoming Ascendance expansion may be getting a beta, some curious Steam backend updates suggest",
+    "title": "GTA 6 might be censored in Japan, if the game's smaller install size and lack of \"strong sexual content\" warning is anything to go by",
     "source": "Eurogamer",
-    "summary": "Monster Hunter Wilds's first expansion, Ascendance, is set for release sometime next year. But, judging by some very suspect recent changes to the Wilds beta app on Steam, we may be playing some of the new stuff earlier than we thought. Read more...",
-    "date": "Wed, 11 Nov 2026 11:16:50 +0000",
-    "link": "https://www.eurogamer.net/monster-hunter-wilds-ascendance-beta-steam-backend",
+    "summary": "GTA 6 is finally coming out worldwide next week, putting an end to a 13-year wait and at least one popular meme format, but the highly-anticipated game might look a bit different in Japan. Read more...",
+    "date": "Wed, 11 Nov 2026 18:17:10 +0000",
+    "link": "https://www.eurogamer.net/gta-6-censored-japan-smaller-install-size",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Hell Let Loose's original developers' Napoleonic-era extraction game, Hunger, gets December early access release, and an open beta this month",
+    "source": "Eurogamer",
+    "summary": "Good Fun Corp, the studio made up of the original developers behind Hell Let Loose, has finally announced a release date for its anticipated next project: Hunger. The extraction shooter-slasher game enters early access on Steam on 3rd December, and there's good news if you're eager to try it out bef...",
+    "date": "Wed, 11 Nov 2026 15:41:50 +0000",
+    "link": "https://www.eurogamer.net/hunger-extraction-napoleonic-era-early-access-date",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "Netflix's Hit Spy Thriller Returns and Takes Over Streaming Charts",
+    "source": "Polygon",
+    "summary": "Netflix’s Black Doves is back with new episodes, and Keira Knightley’s spy thriller is climbing the streaming charts.",
+    "date": "Wed, 11 Nov 2026 22:42:56 GMT",
+    "link": "https://www.polygon.com/keira-knightley-black-doves-netflix-streaming-hit-season-2/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "New 'GTA 6' Gameplay Leaves Fans Stunned",
+    "source": "Polygon",
+    "summary": "GTA 6 fans are doing a double-take on a new gameplay clip shared by Rockstar that almost looks too good to be true",
+    "date": "Wed, 11 Nov 2026 22:39:52 GMT",
+    "link": "https://www.polygon.com/gta-6-new-gameplay-onlyindade-ai-real-fake-rockstar-instagram/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.12,
+      "score": 0.33,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "All Bomb Bag upgrade locations in Ocarina of Time",
+    "source": "Polygon",
+    "summary": "Here's where you can find the two Bomb Bag upgrades in The Legend of Zelda: Ocarina of Time remake.",
+    "date": "Wed, 11 Nov 2026 21:55:48 GMT",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-bomb-bag-upgrade-location/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Marvel Makes VisionQuest’s First Episode Free To Stream",
+    "source": "Polygon",
+    "summary": "Marvel and Disney have uploaded the first episode of VisionQuest to YouTube, meaning you can now check it out for free.",
+    "date": "Wed, 11 Nov 2026 21:44:17 GMT",
+    "link": "https://www.polygon.com/visionquest-first-episode-free-streaming-youtube/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.33,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "After cracking down on 'cheat' mods in Helldivers 2 and taking another Steam review beating, Arrowhead plans hotfix that should allow harmless cosmetics",
+    "source": "PC Gamer",
+    "summary": "The move to a better anti-cheat has not been wholly embraced by players.",
+    "date": "Wed, 11 Nov 2026 23:29:59 +0000",
+    "link": "https://www.pcgamer.com/games/third-person-shooter/after-cracking-down-on-cheat-mods-in-helldivers-2-and-taking-another-steam-review-beating-arrowhead-plans-hotfix-that-should-allow-harmless-cosmetics/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.17,
       "badge": "success"
     },
     "tags": [
@@ -123,167 +229,113 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "The Legend of Zelda: Ocarina of Time remake sells in huge numbers, becoming the fastest-selling Switch 2 game",
-    "source": "Eurogamer",
-    "summary": "The Legend of Zelda: Ocarina of Time remake has been a huge success for Nintendo, becoming the fastest-selling Switch 2 game ever, shifting more than 5.2 million copies in four days. Read more...",
-    "date": "Wed, 11 Nov 2026 09:56:10 +0000",
-    "link": "https://www.eurogamer.net/zelda-ocarina-of-time-switch-2-sales-nintendo",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.24,
-      "badge": "success"
-    },
-    "tags": [
-      "Remake",
-      "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "All Zelda: Ocarina of Time Dungeons, Ranked From Worst to Best",
-    "source": "Polygon",
-    "summary": "The Legend of Zelda: Ocarina of Time's Switch 2 remake is a great reminder of Nintendo's excellent dungeon design.",
-    "date": "Wed, 11 Nov 2026 13:00:17 GMT",
-    "link": "https://www.polygon.com/zelda-ocarina-of-time-dungeons-ranked/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.45,
-      "badge": "success"
-    },
-    "tags": [
-      "Remake",
-      "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Tom Morello Joins Critical Role for New Bard-Themed Adventure",
-    "source": "Polygon",
-    "summary": "A new Critical Role charity one-shot featuring Rage Against the Machine's Tom Morello, with Matthew Mercer as Game Master, is scheduled for Nov. 17.",
-    "date": "Wed, 11 Nov 2026 12:58:41 GMT",
-    "link": "https://www.polygon.com/critical-role-battle-of-the-bards-tom-morello/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Where are all the rings in The Lord of the Rings: The Rings of Power season 3?",
-    "source": "Polygon",
-    "summary": "One ring to find them",
-    "date": "Wed, 11 Nov 2026 12:30:18 GMT",
-    "link": "https://www.polygon.com/rings-of-power-rings-explained/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Dragon Quest Creator Says New Game Will Capture the Series' 'Unmistakable Feeling'",
-    "source": "Polygon",
-    "summary": "A turn-based Dragon Quest RPG is set to launch on smartphones next year, allowing fans to enjoy a classic adventure anywhere they go.",
-    "date": "Wed, 11 Nov 2026 12:02:52 GMT",
-    "link": "https://www.polygon.com/dragon-quest-rpg-mobile-game-announcement/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "RPG"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Apparently now we *won’t* see a 24 GB RTX 5080, which is probably actually good for our wallets",
-    "source": "PC Gamer",
-    "summary": "Though it might not matter for most gamers either way, with how expensive the RTX 5080 is.",
-    "date": "Wed, 11 Nov 2026 13:09:01 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/apparently-now-we-wont-see-a-24-gb-rtx-5080-which-is-probably-actually-good-for-our-wallets/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.19,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 14,
-    "title": "Microsoft’s own upscaler and alternative to FSR just landed on Xbox Ally X handhelds - actually uses an NPU for something useful",
+    "title": "Nvidia CEO Jensen Huang allegedly had a second affair with another Nvidia exec",
     "source": "PC Gamer",
-    "summary": "FSR is still preferred, when available and well-implemented, though.",
-    "date": "Wed, 11 Nov 2026 12:11:36 +0000",
-    "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/microsofts-own-upscaler-and-alternative-to-fsr-just-landed-on-xbox-ally-x-handhelds-actually-uses-an-npu-for-something-useful/",
+    "summary": "A new report says that video evidence of the affair exists, but was swept under the rug.",
+    "date": "Wed, 11 Nov 2026 23:25:39 +0000",
+    "link": "https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-allegedly-had-a-second-affair-with-another-nvidia-exec/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.32,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
     },
     "tags": [
-      "Xbox"
+      "Nvidia"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "WoW: Forever to add extra gold to high-level quests, since it turns out you don't get extra cash at 60",
+    "title": "Giana Sisters developer Black Forest Games buys itself out of Embracer: 'Some of the best games of the last decade came from teams of fifty, not five hundred'",
     "source": "PC Gamer",
-    "summary": "Money, money, money.",
-    "date": "Wed, 11 Nov 2026 11:41:45 +0000",
-    "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-to-add-extra-gold-to-high-level-quests-since-it-turns-out-you-dont-get-extra-cash-at-60/",
+    "summary": "According to the press release, \"THQ Nordic and Black Forest Games continue to collaborate on game development tasks.\"",
+    "date": "Wed, 11 Nov 2026 22:57:44 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/giana-sisters-developer-black-forest-games-buys-itself-out-of-embracer-some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-not-five-hundred/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.03,
+      "score": 0.05,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "'We're kind of friendslop': CEO of Jackbox Games sees the link between party games and this new trend but doesn't think it's necessarily 'a negative moniker'",
+    "title": "This solo dev is building 'the most violent cozy farming game ever made' and lumberjacking has never looked cooler",
     "source": "PC Gamer",
-    "summary": "\"It means that our kind of genre that we play in is popular.\"",
-    "date": "Wed, 11 Nov 2026 11:22:49 +0000",
-    "link": "https://www.pcgamer.com/games/were-kind-of-friendslop-ceo-of-jackbox-games-sees-the-link-between-party-games-and-this-new-trend-but-doesnt-think-its-necessarily-a-negative-moniker/",
+    "summary": "New type of wizard just dropped.",
+    "date": "Wed, 11 Nov 2026 22:38:37 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/this-solo-dev-is-building-the-most-violent-cozy-farming-game-ever-made-and-lumberjacking-has-never-looked-cooler/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.33,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
+    "title": "Steam’s Growing Review Backlog Has Cost Another Game Its Launch Date",
+    "source": "GameSpot",
+    "summary": "Steam's growing backlog for approving game builds appears to be getting worse, as yet another studio's game is stuck in the purgatory of the platform's review program. Australia Did It: End-of-the-World Railway Defense Business, a post-apocalyptic game about keeping a cargo railway running after soc...",
+    "date": "Wed, 11 Nov 2026 17:09:14 +0000",
+    "link": "https://www.gamespot.com/articles/steam-growing-review-backlog-has-cost-another-game-its-launch-date/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Ocarina Of Time Remake Blasts Off With 5 Million Sales In Four Days; Nintendo’s Top-Selling Switch 2 Games Revealed",
+    "source": "GameSpot",
+    "summary": "Top titles\nNintendo has 10 Switch 2 games that have sold more than 1 million units, and you can likely guess which game sold the best: Mario Kart World.\nThe game sold 16.48 million copies through September 30, 2026, and this includes copies sold in the $500 Switch bundle (which has since been discon...",
+    "date": "Fri, 08 May 2026 14:37:00 +0000",
+    "link": "https://www.gamespot.com/gallery/nintendos-top-selling-switch-2-games-of-all-time/2900-7694/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "Remake",
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "GTA 6 Passes 10 Million Copies Sold And $1 Billion In Revenue, And The Game Isn’t Even Out Yet",
+    "source": "GameSpot",
+    "summary": "The video game research company Sensor Tower has updated its GTA 6 sales tracker to reveal the latest, albeit unofficial, sales data for the open-world crime game. According to Sensor Tower, GTA 6 has now sold 10.31 million total units via pre-purchases, which works out to about $1 billion in gross ...",
+    "date": "Wed, 04 Nov 2026 14:15:31 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.12,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 20,
     "title": "GTA 6: What Will Review Scores Be? You Can Win A $500 Gift Card For Getting It Right",
     "source": "GameSpot",
     "summary": "Rockstar's long-awaited open-world action game Grand Theft Auto 6 finally releases on November 19, and among the many things people are excited to find out is how the game will score with reviewers. \nNintendo's The Legend of Zelda: Ocarina of Time remake is currently the No. 1 most highly rated game...",
@@ -297,60 +349,6 @@
     "tags": [
       "Remake",
       "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "Sony Cancels Live-Service PS5 Game Fairgames, But No Layoffs",
-    "source": "GameSpot",
-    "summary": "Sony has canceled the upcoming live-service shooter Fairgame$, but there will be no job cuts connected to the game's closure. This is according to a report from Bloomberg today.\nThe game was in the works at Haven Studios in Montreal, a team founded by former Assassin's Creed veteran Jade Raymond. Sh...",
-    "date": "Tue, 10 Nov 2026 20:43:00 +0000",
-    "link": "https://www.gamespot.com/articles/sony-cancels-live-service-ps5-game-fairgames-but-no-layoffs/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.24,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "GTA 6 Backflips Look Good Now, But There Could Be More To The Story",
-    "source": "GameSpot",
-    "summary": "A new Grand Theft Auto 6 trailer debuted today, November 10, and the video showed off a race car driver doing a backflip. The animation looks smoooth.\nThat's notable because the Extended Look trailer that debuted back in August showed Jason doing a backflip and people online quickly roasted it for l...",
-    "date": "Tue, 10 Nov 2026 20:26:18 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-backflips-look-good-now-but-there-could-be-more-to-the-story/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.38,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "Amid Higher Gas And Grocery Prices, GTA 6 Is A “Bargain” At $80, Take-Two CEO Says",
-    "source": "GameSpot",
-    "summary": "It's no secret that life is expensive. Gas and grocery prices are up, in particular, and against that backdrop, Take-Two CEO Strauss Zelnick believes GTA 6 at $80 is a \"bargain\" due to how many hours people can play it. \n\"I think the consumer is under pressure. these are challenging times. Inflation...",
-    "date": "Tue, 10 Nov 2026 20:14:55 +0000",
-    "link": "https://www.gamespot.com/articles/amid-higher-gas-and-grocery-prices-gta-6-is-a-bargain-at-80-take-two-ceo-says/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
     ],
     "read_time": "1 min read"
   }
