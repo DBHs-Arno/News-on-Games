@@ -1,262 +1,282 @@
 [
   {
     "id": 1,
-    "title": "Constantine Director 'Hopeful' for Sequel After DC Studios Shakeup",
+    "title": "Get a 20,000mAh 45W Power Bank With Integrated USB Cable for Under $20 Ahead of Black Friday",
     "source": "IGN",
-    "summary": "The director of Constantine, Francis Lawrence, opened up about the movie's long-awaited sequel now that DC Studios has had a changing of the guard.",
-    "date": "Thu, 12 Nov 2026 00:11:19 +0000",
-    "link": "https://www.ign.com/articles/constantine-director-hopeful-for-sequel-after-dc-studios-shakeup",
+    "summary": "Fast charges your Nintendo Switch 2 or Steam Deck multiple times over.",
+    "date": "Thu, 12 Nov 2026 17:05:00 +0000",
+    "link": "https://www.ign.com/articles/cuktech-power-bank-deal-november-2026",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.01,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "Monster Hunter Outlanders Review",
-    "source": "IGN",
-    "summary": "This mobile spin-off maintains the gameplay loop and visuals of its console counterparts, with the caveat of how progress gates push microtransactions.",
-    "date": "Thu, 12 Nov 2026 00:00:00 +0000",
-    "link": "https://www.ign.com/articles/monster-hunter-outlanders-review",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "The 2026 LEGO Star Wars Advent Calendar Is Discounted at Target After Amazon Sells Out",
-    "source": "IGN",
-    "summary": "",
-    "date": "Wed, 11 Nov 2026 23:44:11 +0000",
-    "link": "https://www.ign.com/articles/2026-lego-star-wars-advent-stock-update-black-friday",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Marvel 1943: Rise of Hydra Is Reportedly 'Close to Done,' Though at the Cost of Cutting Back on Content and Length",
-    "source": "IGN",
-    "summary": "Marvel 1943: Rise of Hydra, Amy Hennig's Captain America/Black Panther game, is reportedly close to being finished, but it sounds like it may be extremely compromised.",
-    "date": "Wed, 11 Nov 2026 23:27:23 +0000",
-    "link": "https://www.ign.com/articles/marvel-1943-rise-of-hydra-is-reportedly-close-to-done-though-at-the-cost-of-cutting-back-on-content-and-length",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.28,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "Destroy All Humans remake developer goes independent, splits from THQ Nordic and parent company Embracer Group",
-    "source": "Eurogamer",
-    "summary": "Black Forest Games - the studio that remade the first two cult-classic Destroy All Humans games - has spun out from under former owners THQ Nordic and Embracer Group. Read more...",
-    "date": "Wed, 11 Nov 2026 20:37:20 +0000",
-    "link": "https://www.eurogamer.net/destroy-all-humans-independent-thq-embracer",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Don't expect more information on The Elder Scrolls 6: Sentinel \"for some time,\" Bethesda says",
-    "source": "Eurogamer",
-    "summary": "After Bethesda formally named The Elder Scrolls 6: Sentinel earlier this month, some series fans were hopeful that more news wasn't far behind. Skyrim is 15 years old today (11th November) after all, but Bethesda Game Studios has since dashed those hopes into oblivion. Read more...",
-    "date": "Wed, 11 Nov 2026 19:36:50 +0000",
-    "link": "https://www.eurogamer.net/dont-expect-elder-scrolls-6-sentinel-for-some-time-bethesda",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "GTA 6 might be censored in Japan, if the game's smaller install size and lack of \"strong sexual content\" warning is anything to go by",
-    "source": "Eurogamer",
-    "summary": "GTA 6 is finally coming out worldwide next week, putting an end to a 13-year wait and at least one popular meme format, but the highly-anticipated game might look a bit different in Japan. Read more...",
-    "date": "Wed, 11 Nov 2026 18:17:10 +0000",
-    "link": "https://www.eurogamer.net/gta-6-censored-japan-smaller-install-size",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Hell Let Loose's original developers' Napoleonic-era extraction game, Hunger, gets December early access release, and an open beta this month",
-    "source": "Eurogamer",
-    "summary": "Good Fun Corp, the studio made up of the original developers behind Hell Let Loose, has finally announced a release date for its anticipated next project: Hunger. The extraction shooter-slasher game enters early access on Steam on 3rd December, and there's good news if you're eager to try it out bef...",
-    "date": "Wed, 11 Nov 2026 15:41:50 +0000",
-    "link": "https://www.eurogamer.net/hunger-extraction-napoleonic-era-early-access-date",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
+      "Nintendo",
       "Steam"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 9,
-    "title": "Clint Eastwood's Legendary Western Sequel Is Waiting to Be Discovered on Streaming",
-    "source": "Polygon",
-    "summary": "The second film in Clint Eastwood's \"The Man with No Name Trilogy,\" For a Few Dollars More, is free on youtube, making this perfect time to watch",
-    "date": "Thu, 12 Nov 2026 06:53:17 GMT",
-    "link": "https://www.polygon.com/for-a-few-dollars-more-clint-eastwood-streaming-november-2026/",
+    "id": 2,
+    "title": "Ebenezer Review",
+    "source": "IGN",
+    "summary": "Ti West’s Ebenezer does a respectable enough job taking a more horror-forward approach to A Christmas Carol, but the busy Johnny Depp performance at the heart of the film pulls more focus than is necessary.",
+    "date": "Thu, 12 Nov 2026 17:00:00 +0000",
+    "link": "https://www.ign.com/articles/ebenezer-review",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.39,
+      "score": 0.27,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "What We Know About Every Assassin’s Creed Project in Active Development",
-    "source": "Polygon",
-    "summary": "The latest news and release dates for every known Assassin’s Creed project, like Jade and Codename Hexe.",
-    "date": "Thu, 12 Nov 2026 03:37:51 GMT",
-    "link": "https://www.polygon.com/assassins-creed-games-all-updates/",
+    "id": 3,
+    "title": "Disney Marking Star Wars 50th Anniversary With Fresh A New Hope Making Of Documentary",
+    "source": "IGN",
+    "summary": "Disney has announced its plans for the 50th anniversary of Star Wars, which will include a fresh documentary detailing the making of A New Hope.",
+    "date": "Thu, 12 Nov 2026 16:51:20 +0000",
+    "link": "https://www.ign.com/articles/disney-marking-star-wars-50th-anniversary-with-fresh-a-new-hope-making-of-documentary",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "Get a Nintendo Switch 2 Console for as Low as $395 During the AliExpress Black Friday Sale",
+    "source": "IGN",
+    "summary": "Just in time to play the recently released The Legend of Zelda: Ocarina of Time.",
+    "date": "Thu, 12 Nov 2026 16:50:00 +0000",
+    "link": "https://www.ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale-updated",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Xbox boss seemingly champions gen-AI development as she celebrates 25 years of Xbox: \"A small team will be able to build worlds that today demand hundreds of developers\"",
+    "source": "Eurogamer",
+    "summary": "Xbox leader Asha Sharma has alluded to harnessing the power of generative AI when making games, in a memo published this afternoon. Read more...",
+    "date": "Thu, 12 Nov 2026 17:32:20 +0000",
+    "link": "https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "AI",
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "World of Warcraft: Forever players in Australia and New Zealand are struggling to get sunlight, and not for the usual MMO reasons",
+    "source": "Eurogamer",
+    "summary": "World of Warcraft: Forever players are having a blast in the new MMO, but not everyone is basking in the rays of its successful launch.  Players located in Australia, New Zealand, and other Oceania countries are having a bit of a sunlight problem. Read more...",
+    "date": "Thu, 12 Nov 2026 16:30:00 +0000",
+    "link": "https://www.eurogamer.net/world-of-warcraft-forever-oceania-sunlight",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.18,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 11,
-    "title": "Queen’s Domain Review: The Perfect Skyrim Replacement for Right Now",
-    "source": "Polygon",
-    "summary": "Queen's Domain is a brutal first-person Soulslike that borrows all the right things from Dark Souls and Elder Scrolls.",
-    "date": "Thu, 12 Nov 2026 01:00:17 GMT",
-    "link": "https://www.polygon.com/queens-domain-review/",
+    "id": 7,
+    "title": "As low-effort AI slop continues to flood Steam, yet more developers announce game delays caused by Valve's growing approval backlog",
+    "source": "Eurogamer",
+    "summary": "More indie developers say they've been forced to delay the impending release of their games as a result of Steam's growing approvals backlog - a relatively recent problem that's believed to stem from an influx of AI slop on the platform. Read more...",
+    "date": "Thu, 12 Nov 2026 16:06:20 +0000",
+    "link": "https://www.eurogamer.net/steam-game-submission-review-backlog-ai-slop-approval-delays",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.11,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Netflix's Hit Spy Thriller Returns and Takes Over Streaming Charts",
-    "source": "Polygon",
-    "summary": "Netflix’s Black Doves is back with new episodes, and Keira Knightley’s spy thriller is climbing the streaming charts.",
-    "date": "Wed, 11 Nov 2026 22:42:56 GMT",
-    "link": "https://www.polygon.com/keira-knightley-black-doves-netflix-streaming-hit-season-2/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "CD Projekt used AI to modify the voice of Geralt's Polish actor after a stroke left it significantly changed: 'This was a special case'",
-    "source": "PC Gamer",
-    "summary": "Jacek Rozenek was  the voice of Geralt in all previous Polish-language Witcher releases, and CD Projekt wanted to work with him again—but his voice is no longer a match.",
-    "date": "Thu, 12 Nov 2026 00:02:47 +0000",
-    "link": "https://www.pcgamer.com/games/the-witcher/cd-projekt-used-ai-to-modify-the-voice-of-geralts-polish-actor-after-a-stroke-left-it-significantly-changed-this-was-a-special-case/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "After cracking down on 'cheat' mods in Helldivers 2 and taking another Steam review beating, Arrowhead plans hotfix that should allow harmless cosmetics",
-    "source": "PC Gamer",
-    "summary": "The move to a better anti-cheat has not been wholly embraced by players.",
-    "date": "Wed, 11 Nov 2026 23:29:59 +0000",
-    "link": "https://www.pcgamer.com/games/third-person-shooter/after-cracking-down-on-cheat-mods-in-helldivers-2-and-taking-another-steam-review-beating-arrowhead-plans-hotfix-that-should-allow-harmless-cosmetics/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
+      "AI",
       "Steam"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "Nvidia CEO Jensen Huang allegedly had a second affair with another Nvidia exec",
-    "source": "PC Gamer",
-    "summary": "A new report says that video evidence of the affair exists, but was swept under the rug.",
-    "date": "Wed, 11 Nov 2026 23:25:39 +0000",
-    "link": "https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-allegedly-had-a-second-affair-with-another-nvidia-exec/",
+    "id": 8,
+    "title": "After days of controversy, Nvidia CEO Jensen Huang has resigned",
+    "source": "Eurogamer",
+    "summary": "Nvidia's founder and CEO Jensen Huang has resigned from his position as leader of one of the most valuable companies in the world. Read more...",
+    "date": "Thu, 12 Nov 2026 15:07:20 +0000",
+    "link": "https://www.eurogamer.net/nvidia-ceo-jensen-huang-resigns",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "Nvidia"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "Cursed treasure hours schedule in the Fortnite Chapter 7 mini season",
+    "source": "Polygon",
+    "summary": "Here's what time you can expect the next batch of Fortnite treasure hours, as well as what bonuses are coming with them.",
+    "date": "Thu, 12 Nov 2026 19:21:18 GMT",
+    "link": "https://www.polygon.com/fornite-treasure-hours-chapter-7-mini-season-c7ms/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.01,
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Xbox CEO Hints Its Studios Will Heavily Use AI to Make Future Games",
+    "source": "Polygon",
+    "summary": "Xbox CEO Asha Sharma wrote a post implying the company will lean into using AI to develop its games.",
+    "date": "Thu, 12 Nov 2026 19:02:53 GMT",
+    "link": "https://www.polygon.com/xbox-ceo-asha-sharma-ai-use-games/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "AI",
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "All 22 Call of Duty Campaigns, Ranked From Worst to Best",
+    "source": "Polygon",
+    "summary": "Every campaign in the Call of Duty series ranked from worst to best, including Modern Warfare, Black Ops, and every other game.",
+    "date": "Thu, 12 Nov 2026 19:00:17 GMT",
+    "link": "https://www.polygon.com/call-of-duty-campaigns-ranked/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Disney Plus Is Officially the New Streaming Home of the Game Awards",
+    "source": "Polygon",
+    "summary": "Disney Plus has announced it will stream the 2026 Game Awards, hosted by Geoff Keighley",
+    "date": "Thu, 12 Nov 2026 18:41:41 GMT",
+    "link": "https://www.polygon.com/game-awards-2026-disney-plus-streaming-announced-geoff-keighley-goty/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.22,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'",
+    "source": "PC Gamer",
+    "summary": "GTA 6 required a total of three ratings reviews by South Korea's GCRB—and Cyberleek might have had something to do with it.",
+    "date": "Thu, 12 Nov 2026 19:06:41 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.12,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Xbox CEO looks to the future as Microsoft's console turns 25: 'A single person will soon be able to wield capabilities that once required entire nations'",
+    "source": "PC Gamer",
+    "summary": "Asha Sharma doesn't specifically mention AI in her 25th anniversary message,  but I'm pretty sure that's what she's talking about.",
+    "date": "Thu, 12 Nov 2026 18:29:49 +0000",
+    "link": "https://www.pcgamer.com/software/ai/xbox-ceo-looks-to-the-future-as-microsofts-console-turns-25-a-single-person-will-soon-be-able-to-wield-capabilities-that-once-required-entire-nations/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "AI",
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Everyone is Franklin in GTA 5 now",
+    "source": "PC Gamer",
+    "summary": "To be Frank.",
+    "date": "Thu, 12 Nov 2026 18:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/everyone-is-franklin-in-gta-5-now/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Now Jensen's gone, Intel’s trouble finding a steady CEO should serve as cautionary tale to Nvidia’s board",
+    "source": "PC Gamer",
+    "summary": "Huang's permanent replacement will have some massive shoes to fill.",
+    "date": "Thu, 12 Nov 2026 17:50:22 +0000",
+    "link": "https://www.pcgamer.com/hardware/now-jensens-gone-intels-trouble-finding-a-steady-ceo-should-serve-as-cautionary-tale-to-nvidias-board/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.01,
       "badge": "info"
     },
     "tags": [
@@ -265,91 +285,73 @@
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "Giana Sisters developer Black Forest Games buys itself out of Embracer: 'Some of the best games of the last decade came from teams of fifty, not five hundred'",
-    "source": "PC Gamer",
-    "summary": "According to the press release, \"THQ Nordic and Black Forest Games continue to collaborate on game development tasks.\"",
-    "date": "Wed, 11 Nov 2026 22:57:44 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/giana-sisters-developer-black-forest-games-buys-itself-out-of-embracer-some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-not-five-hundred/",
+    "id": 17,
+    "title": "Disney Teases “Major Announcements” For The Game Awards",
+    "source": "GameSpot",
+    "summary": "The Game Awards will air on Disney+ this year, and along with that, Disney has teased \"major announcements and surprises\" for its own games at the event. To be sure, The Game Awards will stream in other places, too, like YouTube and Twitch, so you won't need to sign up for Disney+ to watch.\n\"As the ...",
+    "date": "Thu, 12 Nov 2026 19:10:03 +0000",
+    "link": "https://www.gamespot.com/articles/disney-teases-major-announcements-for-the-game-awards/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.05,
+      "score": -0.01,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "Steam’s Growing Review Backlog Has Cost Another Game Its Launch Date",
-    "source": "GameSpot",
-    "summary": "Steam's growing backlog for approving game builds appears to be getting worse, as yet another studio's game is stuck in the purgatory of the platform's review program. Australia Did It: End-of-the-World Railway Defense Business, a post-apocalyptic game about keeping a cargo railway running after soc...",
-    "date": "Wed, 11 Nov 2026 17:09:14 +0000",
-    "link": "https://www.gamespot.com/articles/steam-growing-review-backlog-has-cost-another-game-its-launch-date/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
-    },
-    "tags": [
-      "Steam"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 18,
-    "title": "Ocarina Of Time Remake Blasts Off With 5 Million Sales In Four Days; Nintendo’s Top-Selling Switch 2 Games Revealed",
+    "title": "Xbox Has Spent 25 Years Tracking Your Gaming Habits; Now You Can See The Damage",
     "source": "GameSpot",
-    "summary": "Top titles\nNintendo has 10 Switch 2 games that have sold more than 1 million units, and you can likely guess which game sold the best: Mario Kart World.\nThe game sold 16.48 million copies through September 30, 2026, and this includes copies sold in the $500 Switch bundle (which has since been discon...",
-    "date": "Fri, 08 May 2026 14:37:00 +0000",
-    "link": "https://www.gamespot.com/gallery/nintendos-top-selling-switch-2-games-of-all-time/2900-7694/",
+    "summary": "It's the 25th anniversary of Xbox, and to celebrate, you can see how much time you've spent--or wasted, according to my parents--playing games on Xbox hardware over the years. Not to be confused with the end-of-year wrap-up that Xbox usually offers, Xbox Playback looks at your entire history, from w...",
+    "date": "Thu, 12 Nov 2026 18:34:06 +0000",
+    "link": "https://www.gamespot.com/articles/xbox-has-spent-25-years-tracking-your-gaming-habits-now-you-can-see-the-damage/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.07,
+      "badge": "info"
     },
     "tags": [
-      "Nintendo",
-      "Remake"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 19,
-    "title": "GTA 6 Passes 10 Million Copies Sold And $1 Billion In Revenue, And The Game Isn’t Even Out Yet",
+    "title": "Final Fantasy 14 Players Are Mourning The Loss Of The Game’s Legendary Bassist",
     "source": "GameSpot",
-    "summary": "The video game research company Sensor Tower has updated its GTA 6 sales tracker to reveal the latest, albeit unofficial, sales data for the open-world crime game. According to Sensor Tower, GTA 6 has now sold 10.31 million total units via pre-purchases, which works out to about $1 billion in gross ...",
-    "date": "Wed, 04 Nov 2026 14:15:31 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.12,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "GTA 6: What Will Review Scores Be? You Can Win A $500 Gift Card For Getting It Right",
-    "source": "GameSpot",
-    "summary": "Rockstar's long-awaited open-world action game Grand Theft Auto 6 finally releases on November 19, and among the many things people are excited to find out is how the game will score with reviewers. \nNintendo's The Legend of Zelda: Ocarina of Time remake is currently the No. 1 most highly rated game...",
-    "date": "Tue, 10 Nov 2026 20:55:32 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-what-will-review-scores-be-you-can-win-a-500-gift-card-for-getting-it-right/",
+    "summary": "The Final Fantasy 14 community is in mourning following news that Eikichi Iwai, the bassist for the game's house band, The Primals, has died at the age of 57, and is taking to the MMORPG's main hub cities to honor his legacy.\nAn \"Important Announcement\" post on the official FF14 website from develop...",
+    "date": "Thu, 12 Nov 2026 18:32:19 +0000",
+    "link": "https://www.gamespot.com/articles/final-fantasy-14-players-are-mourning-the-loss-of-the-games-legendary-bassist/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.1,
       "badge": "info"
     },
     "tags": [
-      "Nintendo",
-      "Remake"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 20,
+    "title": "Xbox CEO’s 25th Anniversary Message Is About AI, Even If She Won’t Say It",
+    "source": "GameSpot",
+    "summary": "As Xbox celebrates its 25th anniversary, Xbox CEO Asha Sharma has shared her thoughts on where gaming is going over the next 25 years, and people are saying her message is really more about pushing AI.\nSharma said modern games demonstrate the \"heights of human craft in ways unimaginable just decades...",
+    "date": "Thu, 12 Nov 2026 17:11:42 +0000",
+    "link": "https://www.gamespot.com/articles/xbox-ceos-25th-anniversary-message-is-about-ai-even-if-she-wont-say-it/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
+    },
+    "tags": [
+      "AI",
+      "Xbox"
     ],
     "read_time": "1 min read"
   }
