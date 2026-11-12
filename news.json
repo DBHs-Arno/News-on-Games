@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "Henry Cavill Is Open to Returning as Superman Once Again",
+    "title": "Constantine Director 'Hopeful' for Sequel After DC Studios Shakeup",
     "source": "IGN",
-    "summary": "Henry Cavill has stated that he's still open to the idea of playing Superman following all the shake-ups at DC Studios.",
-    "date": "Wed, 11 Nov 2026 22:46:53 +0000",
-    "link": "https://www.ign.com/articles/henry-cavill-is-open-to-returning-as-superman-once-again",
+    "summary": "The director of Constantine, Francis Lawrence, opened up about the movie's long-awaited sequel now that DC Studios has had a changing of the guard.",
+    "date": "Thu, 12 Nov 2026 00:11:19 +0000",
+    "link": "https://www.ign.com/articles/constantine-director-hopeful-for-sequel-after-dc-studios-shakeup",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -19,31 +19,32 @@
   },
   {
     "id": 2,
-    "title": "A Death Metal Guitarist Is So Into WoW Forever, He Took it Onstage With a Steam Deck",
+    "title": "Monster Hunter Outlanders Review",
     "source": "IGN",
-    "summary": "World of Warcraft Forever is off to a monumental start, with more players wandering Azeroth than ever before. And at least one death metal guitarist can't put it down long enough to watch his opener play.",
-    "date": "Wed, 11 Nov 2026 22:46:28 +0000",
-    "link": "https://www.ign.com/articles/a-death-metal-guitarist-is-so-into-wow-forever-he-took-it-onstage-with-a-steam-deck",
+    "summary": "This mobile spin-off maintains the gameplay loop and visuals of its console counterparts, with the caveat of how progress gates push microtransactions.",
+    "date": "Thu, 12 Nov 2026 00:00:00 +0000",
+    "link": "https://www.ign.com/articles/monster-hunter-outlanders-review",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.02,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Steam"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "New Mega Man Legends Game, Movie, or TV Series Possibly In the Works After Fans Spot 'New Media' Listing",
+    "title": "The 2026 LEGO Star Wars Advent Calendar Is Discounted at Target After Amazon Sells Out",
     "source": "IGN",
-    "summary": "A now-deleted listing for ‘Mega Man Legends — New Media’ was spotted on a ‘What’s Shooting’ page for ACTRA Toronto, hinting that a new game, film, or TV series in the franchise's 'Legends' series is in the works.",
-    "date": "Wed, 11 Nov 2026 22:45:42 +0000",
-    "link": "https://www.ign.com/articles/new-mega-man-legends-game-movie-or-tv-series-possibly-in-the-works-after-fans-spot-new-media-listing",
+    "summary": "",
+    "date": "Wed, 11 Nov 2026 23:44:11 +0000",
+    "link": "https://www.ign.com/articles/2026-lego-star-wars-advent-stock-update-black-friday",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.04,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
@@ -54,15 +55,15 @@
   },
   {
     "id": 4,
-    "title": "Jamie Campbell Bower Calls Rings of Power Season 3 the 'Perfect Kind of Antidote' After Stranger Things",
+    "title": "Marvel 1943: Rise of Hydra Is Reportedly 'Close to Done,' Though at the Cost of Cutting Back on Content and Length",
     "source": "IGN",
-    "summary": "The character of Celeborn -- Jamie Campbell Bower's first role after playing Vecna, et al, in Seasons 4 and 5 of Stranger Things -- helped the actor move on from those persistently dark characters.",
-    "date": "Wed, 11 Nov 2026 22:37:23 +0000",
-    "link": "https://www.ign.com/articles/jamie-campbell-bower-calls-rings-of-power-season-3-the-perfect-kind-of-antidote-after-stranger-things",
+    "summary": "Marvel 1943: Rise of Hydra, Amy Hennig's Captain America/Black Panther game, is reportedly close to being finished, but it sounds like it may be extremely compromised.",
+    "date": "Wed, 11 Nov 2026 23:27:23 +0000",
+    "link": "https://www.ign.com/articles/marvel-1943-rise-of-hydra-is-reportedly-close-to-done-though-at-the-cost-of-cutting-back-on-content-and-length",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.43,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.28,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -142,6 +143,60 @@
   },
   {
     "id": 9,
+    "title": "Clint Eastwood's Legendary Western Sequel Is Waiting to Be Discovered on Streaming",
+    "source": "Polygon",
+    "summary": "The second film in Clint Eastwood's \"The Man with No Name Trilogy,\" For a Few Dollars More, is free on youtube, making this perfect time to watch",
+    "date": "Thu, 12 Nov 2026 06:53:17 GMT",
+    "link": "https://www.polygon.com/for-a-few-dollars-more-clint-eastwood-streaming-november-2026/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.39,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "What We Know About Every Assassin’s Creed Project in Active Development",
+    "source": "Polygon",
+    "summary": "The latest news and release dates for every known Assassin’s Creed project, like Jade and Codename Hexe.",
+    "date": "Thu, 12 Nov 2026 03:37:51 GMT",
+    "link": "https://www.polygon.com/assassins-creed-games-all-updates/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.18,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "Queen’s Domain Review: The Perfect Skyrim Replacement for Right Now",
+    "source": "Polygon",
+    "summary": "Queen's Domain is a brutal first-person Soulslike that borrows all the right things from Dark Souls and Elder Scrolls.",
+    "date": "Thu, 12 Nov 2026 01:00:17 GMT",
+    "link": "https://www.polygon.com/queens-domain-review/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
     "title": "Netflix's Hit Spy Thriller Returns and Takes Over Streaming Charts",
     "source": "Polygon",
     "summary": "Netflix’s Black Doves is back with new episodes, and Keira Knightley’s spy thriller is climbing the streaming charts.",
@@ -159,60 +214,24 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "New 'GTA 6' Gameplay Leaves Fans Stunned",
-    "source": "Polygon",
-    "summary": "GTA 6 fans are doing a double-take on a new gameplay clip shared by Rockstar that almost looks too good to be true",
-    "date": "Wed, 11 Nov 2026 22:39:52 GMT",
-    "link": "https://www.polygon.com/gta-6-new-gameplay-onlyindade-ai-real-fake-rockstar-instagram/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.33,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "All Bomb Bag upgrade locations in Ocarina of Time",
-    "source": "Polygon",
-    "summary": "Here's where you can find the two Bomb Bag upgrades in The Legend of Zelda: Ocarina of Time remake.",
-    "date": "Wed, 11 Nov 2026 21:55:48 GMT",
-    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-bomb-bag-upgrade-location/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Marvel Makes VisionQuest’s First Episode Free To Stream",
-    "source": "Polygon",
-    "summary": "Marvel and Disney have uploaded the first episode of VisionQuest to YouTube, meaning you can now check it out for free.",
-    "date": "Wed, 11 Nov 2026 21:44:17 GMT",
-    "link": "https://www.polygon.com/visionquest-first-episode-free-streaming-youtube/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.33,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 13,
+    "title": "CD Projekt used AI to modify the voice of Geralt's Polish actor after a stroke left it significantly changed: 'This was a special case'",
+    "source": "PC Gamer",
+    "summary": "Jacek Rozenek was  the voice of Geralt in all previous Polish-language Witcher releases, and CD Projekt wanted to work with him again—but his voice is no longer a match.",
+    "date": "Thu, 12 Nov 2026 00:02:47 +0000",
+    "link": "https://www.pcgamer.com/games/the-witcher/cd-projekt-used-ai-to-modify-the-voice-of-geralts-polish-actor-after-a-stroke-left-it-significantly-changed-this-was-a-special-case/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
     "title": "After cracking down on 'cheat' mods in Helldivers 2 and taking another Steam review beating, Arrowhead plans hotfix that should allow harmless cosmetics",
     "source": "PC Gamer",
     "summary": "The move to a better anti-cheat has not been wholly embraced by players.",
@@ -229,7 +248,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "Nvidia CEO Jensen Huang allegedly had a second affair with another Nvidia exec",
     "source": "PC Gamer",
     "summary": "A new report says that video evidence of the affair exists, but was swept under the rug.",
@@ -246,7 +265,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "Giana Sisters developer Black Forest Games buys itself out of Embracer: 'Some of the best games of the last decade came from teams of fifty, not five hundred'",
     "source": "PC Gamer",
     "summary": "According to the press release, \"THQ Nordic and Black Forest Games continue to collaborate on game development tasks.\"",
@@ -256,24 +275,6 @@
       "label": "Neutral / Informative",
       "score": 0.05,
       "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "This solo dev is building 'the most violent cozy farming game ever made' and lumberjacking has never looked cooler",
-    "source": "PC Gamer",
-    "summary": "New type of wizard just dropped.",
-    "date": "Wed, 11 Nov 2026 22:38:37 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/this-solo-dev-is-building-the-most-violent-cozy-farming-game-ever-made-and-lumberjacking-has-never-looked-cooler/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -311,8 +312,8 @@
       "badge": "success"
     },
     "tags": [
-      "Remake",
-      "Nintendo"
+      "Nintendo",
+      "Remake"
     ],
     "read_time": "1 min read"
   },
@@ -347,8 +348,8 @@
       "badge": "info"
     },
     "tags": [
-      "Remake",
-      "Nintendo"
+      "Nintendo",
+      "Remake"
     ],
     "read_time": "1 min read"
   }
