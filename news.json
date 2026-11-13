@@ -1,33 +1,33 @@
 [
   {
     "id": 1,
-    "title": "Get a 20,000mAh 45W Power Bank With Integrated USB Cable for Under $20 Ahead of Black Friday",
+    "title": "GTA 6's Burger Shot Restaurant Is Expanding Across Florida With Real Meals Inspired by the Game",
     "source": "IGN",
-    "summary": "Fast charges your Nintendo Switch 2 or Steam Deck multiple times over.",
-    "date": "Thu, 12 Nov 2026 17:05:00 +0000",
-    "link": "https://www.ign.com/articles/cuktech-power-bank-deal-november-2026",
+    "summary": "GTA 6's fast-food hamburger chain, Burger Shot, is expanding with new locations across Florida starting this weekend thanks to a collaboration with Skinny Louie.",
+    "date": "Fri, 13 Nov 2026 00:44:45 +0000",
+    "link": "https://www.ign.com/articles/gta-6s-burger-shot-restaurant-is-expanding-across-florida-with-real-meals-inspired-by-the-game",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.01,
+      "score": 0.03,
       "badge": "info"
     },
     "tags": [
-      "Nintendo",
-      "Steam"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Ebenezer Review",
+    "title": "The He Who Fights With Monsters Hardcover Books Are on Sale Before Black Friday",
     "source": "IGN",
-    "summary": "Ti West’s Ebenezer does a respectable enough job taking a more horror-forward approach to A Christmas Carol, but the busy Johnny Depp performance at the heart of the film pulls more focus than is necessary.",
-    "date": "Thu, 12 Nov 2026 17:00:00 +0000",
-    "link": "https://www.ign.com/articles/ebenezer-review",
+    "summary": "",
+    "date": "Fri, 13 Nov 2026 00:38:21 +0000",
+    "link": "https://www.ign.com/articles/the-he-who-fights-with-monsters-hardcover-book-sale-black-friday-2026",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.27,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.17,
+      "badge": "danger"
     },
     "tags": [
       "News",
@@ -37,36 +37,36 @@
   },
   {
     "id": 3,
-    "title": "Disney Marking Star Wars 50th Anniversary With Fresh A New Hope Making Of Documentary",
+    "title": "Wolfenstein 3 Confirmed to Be in Development at MachineGames",
     "source": "IGN",
-    "summary": "Disney has announced its plans for the 50th anniversary of Star Wars, which will include a fresh documentary detailing the making of A New Hope.",
-    "date": "Thu, 12 Nov 2026 16:51:20 +0000",
-    "link": "https://www.ign.com/articles/disney-marking-star-wars-50th-anniversary-with-fresh-a-new-hope-making-of-documentary",
+    "summary": "As part of the Xbox's 25th anniversary celebration at Xbox Fanfest in Seattle today, developer MachineGames confirmed what had long been rumored: that Wolfenstein 3 is in development.",
+    "date": "Fri, 13 Nov 2026 00:01:13 +0000",
+    "link": "https://www.ign.com/articles/wolfenstein-3-confirmed-to-be-in-development-at-machinegames",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.15,
+      "score": 0.25,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Get a Nintendo Switch 2 Console for as Low as $395 During the AliExpress Black Friday Sale",
+    "title": "The Dungeon Crawler Carl Books and Graphic Novels Are on Sale Before Black Friday",
     "source": "IGN",
-    "summary": "Just in time to play the recently released The Legend of Zelda: Ocarina of Time.",
-    "date": "Thu, 12 Nov 2026 16:50:00 +0000",
-    "link": "https://www.ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale-updated",
+    "summary": "",
+    "date": "Thu, 12 Nov 2026 23:31:07 +0000",
+    "link": "https://www.ign.com/articles/the-dungeon-crawler-carl-books-sale-black-friday-2026",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.06,
+      "score": -0.08,
       "badge": "info"
     },
     "tags": [
-      "Nintendo"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -83,8 +83,8 @@
       "badge": "success"
     },
     "tags": [
-      "AI",
-      "Xbox"
+      "Xbox",
+      "AI"
     ],
     "read_time": "1 min read"
   },
@@ -119,8 +119,8 @@
       "badge": "success"
     },
     "tags": [
-      "AI",
-      "Steam"
+      "Steam",
+      "AI"
     ],
     "read_time": "1 min read"
   },
@@ -143,11 +143,80 @@
   },
   {
     "id": 9,
-    "title": "Cursed treasure hours schedule in the Fortnite Chapter 7 mini season",
+    "title": "8 Near-Perfect Xbox 360 Games That Are Forgotten Masterpieces",
     "source": "Polygon",
-    "summary": "Here's what time you can expect the next batch of Fortnite treasure hours, as well as what bonuses are coming with them.",
-    "date": "Thu, 12 Nov 2026 19:21:18 GMT",
-    "link": "https://www.polygon.com/fornite-treasure-hours-chapter-7-mini-season-c7ms/",
+    "summary": "From Viva Piñata to The Saboteur, these forgotten Xbox 360 masterpieces deserve another shot today.",
+    "date": "Fri, 13 Nov 2026 04:00:17 GMT",
+    "link": "https://www.polygon.com/xbox-360-forgotten-masterpieces/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "44 Years Later, Star Trek’s Best Quote About Grief Is Still a Near-Perfect Sci-Fi Moment",
+    "source": "Polygon",
+    "summary": "Star Trek has some of the best moments in science fiction. And its best quote about grief is part of that.",
+    "date": "Fri, 13 Nov 2026 02:45:17 GMT",
+    "link": "https://www.polygon.com/star-trek-wrath-of-khan-best-quote-grief/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.23,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "The 25 Best Nintendo Switch 2 Games in 2026",
+    "source": "Polygon",
+    "summary": "What are the best Nintendo Switch 2 games? From Zelda: Ocarina of Time to Mario Kart World, here are our favorites",
+    "date": "Fri, 13 Nov 2026 00:25:53 GMT",
+    "link": "https://www.polygon.com/best-nintendo-switch-2-games/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 1.0,
+      "badge": "success"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Steam Makes Popular World War II Strategy Game Free to Play This Weekend",
+    "source": "Polygon",
+    "summary": "Steam players can try Company of Heroes 3 for free this weekend before picking up the World War II strategy game at a discount.",
+    "date": "Thu, 12 Nov 2026 22:33:32 GMT",
+    "link": "https://www.polygon.com/company-of-heroes-3-free-steam-weekend-sale-november-2026/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Wolfenstein 3 is in production at MachineGames",
+    "source": "PC Gamer",
+    "summary": "Blazkowicz is backscowicz.",
+    "date": "Fri, 13 Nov 2026 01:35:32 +0000",
+    "link": "https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -160,30 +229,100 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "Xbox CEO Hints Its Studios Will Heavily Use AI to Make Future Games",
-    "source": "Polygon",
-    "summary": "Xbox CEO Asha Sharma wrote a post implying the company will lean into using AI to develop its games.",
-    "date": "Thu, 12 Nov 2026 19:02:53 GMT",
-    "link": "https://www.polygon.com/xbox-ceo-asha-sharma-ai-use-games/",
+    "id": 14,
+    "title": "New 4-minute Fable gameplay trailer shows a game that doesn't look much like Fable",
+    "source": "PC Gamer",
+    "summary": "Maybe it's just me. Is it just me?",
+    "date": "Thu, 12 Nov 2026 22:43:21 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.1,
+      "score": -0.02,
       "badge": "info"
     },
     "tags": [
-      "AI",
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Palworld developer Pocketpair gives employees time off for 'a 5-day business trip in Vice City when GTA 6 launches'",
+    "source": "PC Gamer",
+    "summary": "Must be nice.",
+    "date": "Thu, 12 Nov 2026 22:08:48 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/palworld-developer-pocketpair-gives-employees-time-off-for-a-5-day-business-trip-in-vice-city-when-gta-6-launches/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.6,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Doom studio id Software confirms it's working on a new game",
+    "source": "PC Gamer",
+    "summary": "But, just as with the next Elder Scrolls game, \"it'll be some time\" before it's ready to share more.",
+    "date": "Thu, 12 Nov 2026 21:10:04 +0000",
+    "link": "https://www.pcgamer.com/games/fps/doom-studio-id-software-confirms-its-working-on-a-new-game/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "Candy Crush Is Celebrating Xbox’s 25th Anniversary With Halo, Fallout, And Doom Crossovers, Including Remixed Music",
+    "source": "GameSpot",
+    "summary": "2026 is the 25th anniversary of Xbox, and it's been a tough year for the brand with mass layoffs, studio closures/divestitures, and game cancellations. But the celebrations are still going ahead, including an event from the Xbox-owned Candy Crush mobile game juggernaut. \nAnnounced today, Candy Crush...",
+    "date": "Thu, 12 Nov 2026 22:00:00 +0000",
+    "link": "https://www.gamespot.com/articles/candy-crush-is-celebrating-xboxs-25th-anniversary-with-halo-fallout-and-doom-crossovers-including-remixed-music/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
+    },
+    "tags": [
       "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 11,
-    "title": "All 22 Call of Duty Campaigns, Ranked From Worst to Best",
-    "source": "Polygon",
-    "summary": "Every campaign in the Call of Duty series ranked from worst to best, including Modern Warfare, Black Ops, and every other game.",
-    "date": "Thu, 12 Nov 2026 19:00:17 GMT",
-    "link": "https://www.polygon.com/call-of-duty-campaigns-ranked/",
+    "id": 18,
+    "title": "New Doom Game Seemingly Announced In The Weirdest Way After Half The Studio Was Laid Off",
+    "source": "GameSpot",
+    "summary": "Xbox CEO Asha Sharma has announced that id Software is officially working on a new game, believed to be another Doom title. This is happening after Sharma oversaw id Software losing half of its staff to layoffs that were part of the Xbox \"reset.\"\nId Software replied to Sharma's post on Twitter to pr...",
+    "date": "Thu, 12 Nov 2026 21:07:28 +0000",
+    "link": "https://www.gamespot.com/articles/new-doom-game-seemingly-announced-in-the-weirdest-way-after-half-the-studio-was-laid-off/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.14,
+      "badge": "danger"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "Games Will Have A Physical Footprint Forever, Take-Two Boss Says, But It’ll Be “Very Small”",
+    "source": "GameSpot",
+    "summary": "It's no secret that the market for physical video games is drying up, but don't expect physical media for gaming to go away entirely anytime soon, or ever, according to Take-Two's Strauss Zelnick.\nHe told The Game Business that it \"may not be the end\" for physical media entirely in games, even with ...",
+    "date": "Thu, 12 Nov 2026 20:12:18 +0000",
+    "link": "https://www.gamespot.com/articles/games-will-have-a-physical-footprint-forever-take-two-boss-says-but-itll-be-very-small/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": -0.06,
@@ -196,162 +335,19 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "Disney Plus Is Officially the New Streaming Home of the Game Awards",
-    "source": "Polygon",
-    "summary": "Disney Plus has announced it will stream the 2026 Game Awards, hosted by Geoff Keighley",
-    "date": "Thu, 12 Nov 2026 18:41:41 GMT",
-    "link": "https://www.polygon.com/game-awards-2026-disney-plus-streaming-announced-geoff-keighley-goty/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.22,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'",
-    "source": "PC Gamer",
-    "summary": "GTA 6 required a total of three ratings reviews by South Korea's GCRB—and Cyberleek might have had something to do with it.",
-    "date": "Thu, 12 Nov 2026 19:06:41 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.12,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Xbox CEO looks to the future as Microsoft's console turns 25: 'A single person will soon be able to wield capabilities that once required entire nations'",
-    "source": "PC Gamer",
-    "summary": "Asha Sharma doesn't specifically mention AI in her 25th anniversary message,  but I'm pretty sure that's what she's talking about.",
-    "date": "Thu, 12 Nov 2026 18:29:49 +0000",
-    "link": "https://www.pcgamer.com/software/ai/xbox-ceo-looks-to-the-future-as-microsofts-console-turns-25-a-single-person-will-soon-be-able-to-wield-capabilities-that-once-required-entire-nations/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "AI",
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Everyone is Franklin in GTA 5 now",
-    "source": "PC Gamer",
-    "summary": "To be Frank.",
-    "date": "Thu, 12 Nov 2026 18:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/everyone-is-franklin-in-gta-5-now/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Now Jensen's gone, Intel’s trouble finding a steady CEO should serve as cautionary tale to Nvidia’s board",
-    "source": "PC Gamer",
-    "summary": "Huang's permanent replacement will have some massive shoes to fill.",
-    "date": "Thu, 12 Nov 2026 17:50:22 +0000",
-    "link": "https://www.pcgamer.com/hardware/now-jensens-gone-intels-trouble-finding-a-steady-ceo-should-serve-as-cautionary-tale-to-nvidias-board/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "Nvidia"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "Disney Teases “Major Announcements” For The Game Awards",
-    "source": "GameSpot",
-    "summary": "The Game Awards will air on Disney+ this year, and along with that, Disney has teased \"major announcements and surprises\" for its own games at the event. To be sure, The Game Awards will stream in other places, too, like YouTube and Twitch, so you won't need to sign up for Disney+ to watch.\n\"As the ...",
-    "date": "Thu, 12 Nov 2026 19:10:03 +0000",
-    "link": "https://www.gamespot.com/articles/disney-teases-major-announcements-for-the-game-awards/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "Xbox Has Spent 25 Years Tracking Your Gaming Habits; Now You Can See The Damage",
-    "source": "GameSpot",
-    "summary": "It's the 25th anniversary of Xbox, and to celebrate, you can see how much time you've spent--or wasted, according to my parents--playing games on Xbox hardware over the years. Not to be confused with the end-of-year wrap-up that Xbox usually offers, Xbox Playback looks at your entire history, from w...",
-    "date": "Thu, 12 Nov 2026 18:34:06 +0000",
-    "link": "https://www.gamespot.com/articles/xbox-has-spent-25-years-tracking-your-gaming-habits-now-you-can-see-the-damage/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "Final Fantasy 14 Players Are Mourning The Loss Of The Game’s Legendary Bassist",
-    "source": "GameSpot",
-    "summary": "The Final Fantasy 14 community is in mourning following news that Eikichi Iwai, the bassist for the game's house band, The Primals, has died at the age of 57, and is taking to the MMORPG's main hub cities to honor his legacy.\nAn \"Important Announcement\" post on the official FF14 website from develop...",
-    "date": "Thu, 12 Nov 2026 18:32:19 +0000",
-    "link": "https://www.gamespot.com/articles/final-fantasy-14-players-are-mourning-the-loss-of-the-games-legendary-bassist/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 20,
-    "title": "Xbox CEO’s 25th Anniversary Message Is About AI, Even If She Won’t Say It",
+    "title": "This Happy Ending For Two Games With Identical Names Was A Headache For Nintendo",
     "source": "GameSpot",
-    "summary": "As Xbox celebrates its 25th anniversary, Xbox CEO Asha Sharma has shared her thoughts on where gaming is going over the next 25 years, and people are saying her message is really more about pushing AI.\nSharma said modern games demonstrate the \"heights of human craft in ways unimaginable just decades...",
-    "date": "Thu, 12 Nov 2026 17:11:42 +0000",
-    "link": "https://www.gamespot.com/articles/xbox-ceos-25th-anniversary-message-is-about-ai-even-if-she-wont-say-it/",
+    "summary": "On November 25, two entirely separate games called Piece by Piece are releasing on Nintendo Switch. It's no coincidence, but the circumstances that led to this unusual situation certainly stem from a coincidence.\nPublisher No More Robots launched Piece by Piece, a cozy sim game full of cute animal c...",
+    "date": "Thu, 12 Nov 2026 19:17:26 +0000",
+    "link": "https://www.gamespot.com/articles/this-happy-ending-for-two-games-with-identical-names-was-a-headache-for-nintendo/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.17,
+      "score": 0.13,
       "badge": "success"
     },
     "tags": [
-      "AI",
-      "Xbox"
+      "Nintendo"
     ],
     "read_time": "1 min read"
   }
