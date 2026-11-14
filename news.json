@@ -1,6 +1,24 @@
 [
   {
     "id": 1,
+    "title": "Breaking Down Theo's Shock Moment in The Lord of the Rings: The Rings of Power Season 3 and the Mystery of His Father With Actor Tyroe Muhafidin",
+    "source": "IGN",
+    "summary": "A spoiler-filled The Lord of the Rings: The Rings of Power Season 3 interview with Theo actor Tyroe Muhafidin.",
+    "date": "Sat, 14 Nov 2026 10:02:14 +0000",
+    "link": "https://www.ign.com/articles/breaking-down-theos-shock-moment-in-the-lord-of-the-rings-the-rings-of-power-season-3-and-the-mystery-of-his-father-with-actor-tyroe-muhafidin",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.16,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
     "title": "James Gunn Shuts Down Rumors That Skydance Is Meddling With Man of Tomorrow",
     "source": "IGN",
     "summary": "James Gunn has shut down rumors that the new DC overseers at Skydance have meddled with his cut of Man of Tomorrow following his shocking DC Studios exit.",
@@ -18,7 +36,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Sunrise on the Reaping Is Getting Multiple Black Friday Deals Before Its Theatrical Release",
     "source": "IGN",
     "summary": "",
@@ -36,7 +54,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "After Another Year of Price Hikes, What Streaming Deals Will We Get for Black Friday 2026?",
     "source": "IGN",
     "summary": "",
@@ -54,24 +72,61 @@
     "read_time": "1 min read"
   },
   {
-    "id": 4,
-    "title": "Blade Runner 2099 Executive Producers Confirm Franchise Owners Are in Talks for AAA Video Game Adaptation",
-    "source": "IGN",
-    "summary": "Andrew Kosove and Broderick Johnson, executive producers for Blade Runner 2099 and co-CEOs of Alcon Entertainment, have confirmed that they are in discussions to create a AAA video game based on the iconic cyberpunk franchise.",
-    "date": "Fri, 13 Nov 2026 23:49:32 +0000",
-    "link": "https://www.ign.com/articles/blade-runner-2099-executive-producers-confirm-franchise-owners-are-in-talks-for-aaa-video-game-adaptation",
+    "id": 5,
+    "title": "Ubisoft is reportedly making a new Rainbow Six Vegas game, nearly two decades after Vegas 2",
+    "source": "Eurogamer",
+    "summary": "Ubisoft is reportedly working on a new Rainbow Six Vegas game 18 years after the last entry in the series. Read more...",
+    "date": "Sat, 14 Nov 2026 12:19:50 +0000",
+    "link": "https://www.eurogamer.net/rainbow-six-vegas-new-game-ubisoft-spades-report",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.02,
+      "score": 0.01,
       "badge": "info"
     },
     "tags": [
-      "Cyberpunk"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 5,
+    "id": 6,
+    "title": "Call of Duty Endowment marks Remembrance Day with veterans' Valor Pack push",
+    "source": "Eurogamer",
+    "summary": "The Call of Duty Endowment is marking Remembrance Day and its 17th anniversary by encouraging Modern Warfare 4 and Warzone players to pick up its Valor Pack, with all of Activision's net proceeds going towards helping veterans find jobs. Read more...",
+    "date": "Sat, 14 Nov 2026 11:15:00 +0000",
+    "link": "https://www.eurogamer.net/call-of-duty-endowment-valor-pack-remembrance-day-veterans",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.23,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Magic: The Gathering animated series Planeswalker is coming to Netflix in 2027",
+    "source": "Eurogamer",
+    "summary": "Netflix's long-gestating Magic: The Gathering animated series is called Planeswalker, and it's coming in 2027. Read more...",
+    "date": "Sat, 14 Nov 2026 10:39:50 +0000",
+    "link": "https://www.eurogamer.net/magic-the-gathering-planeswalker-netflix-animated-series-2027",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
     "title": "The Blood of Dawnwalker is getting a New Game Plus mode in next week's update",
     "source": "Eurogamer",
     "summary": "A New Game Plus mode is coming to vampiric RPG The Blood of Dawnwalker next week. Read more...",
@@ -88,119 +143,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
-    "title": "Interest in The Legend of Zelda was \"getting smaller and smaller\" before Breath of the Wild, according to former Nintendo marketing leads",
-    "source": "Eurogamer",
-    "summary": "The Legend of Zelda was in \"dire straits\" before Breath of the Wild gave the beloved series a massive second wind, according to two former Nintendo marketing leads. Read more...",
-    "date": "Fri, 13 Nov 2026 19:52:50 +0000",
-    "link": "https://www.eurogamer.net/legend-of-zelda-smaller-before-breath-of-the-wild",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Crimson Desert studio is implementing AI \"throughout our entire development pipeline,\" and expects DokeV to launch in 2028",
-    "source": "Eurogamer",
-    "summary": "Crimson Desert and DokeV developer Pearl Abyss is planning to further integrate generative AI into its workflow. Read more...",
-    "date": "Fri, 13 Nov 2026 18:29:00 +0000",
-    "link": "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "A new report reckons 40% of developers in the video games industry are using generative AI - but even more think it's harmful",
-    "source": "Eurogamer",
-    "summary": "Despite all the outrage and criticism around game developers and publishers using generative AI in gaming, a new report from the Game Developers Conference (GDC) calculates that as many as 40 percent of developers active in the industry use the controversial tools in their work. This is up four perc...",
-    "date": "Fri, 13 Nov 2026 15:34:20 +0000",
-    "link": "https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai",
+    "id": 9,
+    "title": "Every GTA 6 Actor Rumored and Confirmed by Rockstar Ahead of Launch",
+    "source": "Polygon",
+    "summary": "Who will play Jason, Lucia, and other major characters in GTA 6? Rockstar hasn't made an official reveal yet, but the internet has plenty of ideas.",
+    "date": "Sat, 14 Nov 2026 12:30:17 GMT",
+    "link": "https://www.polygon.com/gta-6-cast-rumors-speculation-confirmed-actors/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.11,
       "badge": "success"
     },
     "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "20 Years Later, A Classic Nintendo DS Puzzle Game Officially Returns",
-    "source": "Polygon",
-    "summary": "Level-5 is remaking the classic Nintendo DS puzzle game Professor Layton and the Curious Village and it's due out in 2027",
-    "date": "Sat, 14 Nov 2026 02:25:17 GMT",
-    "link": "https://www.polygon.com/professor-layton-nintendo-ds-remake-release-date-2027/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "Nintendo"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "HBO’s 5-Part Crime Drama Has One of the Best Seasons in TV History",
+    "title": "Rings of Power Just Changed the Nazgul in 1 Terrifying Way: ‘They Still Have a Human Side’",
     "source": "Polygon",
-    "summary": "The Wire’s fourth season provided a far deeper look at Baltimore’s problems",
-    "date": "Sat, 14 Nov 2026 00:20:17 GMT",
-    "link": "https://www.polygon.com/the-wire-season-4-recommendation/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.37,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Fallout 5 and Fallout Remasters Officially Announced",
-    "source": "Polygon",
-    "summary": "Bethesda Softworks updates fans on the future of Fallout, which includes new Fallout 3 and New Vegas releases and Fallout 5.",
-    "date": "Sat, 14 Nov 2026 00:16:18 GMT",
-    "link": "https://www.polygon.com/fallout-5-fo3-remaster-new-games-bethesda-softworks/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Blizzard Officially Responds to Disappointed Overwatch Fans Over Hero 55",
-    "source": "Polygon",
-    "summary": "Overwatch's next hero, Hudson, will be a Damage (DPS) character, not a support. Fans are disappointed by the switch and Blizzard is responding.",
-    "date": "Fri, 13 Nov 2026 22:53:10 GMT",
-    "link": "https://www.polygon.com/overwatch-new-hero-55-hudson-damage-dps-blizzard/",
+    "summary": "Rings of Power season 3 shows how Sauron creates the Nazgûl. Showrunner Patrick McKay explains why the new Ring-servants haven't lost their humanity.",
+    "date": "Sat, 14 Nov 2026 12:00:18 GMT",
+    "link": "https://www.polygon.com/rings-of-power-season-3-nazgnagol-vs-nazgul-explained/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.5,
+      "score": -0.29,
       "badge": "danger"
     },
     "tags": [
@@ -210,7 +179,60 @@
     "read_time": "1 min read"
   },
   {
+    "id": 11,
+    "title": "GTA 6 Release Day: Everything To Know To Be Ready On Day One",
+    "source": "Polygon",
+    "summary": "What you need to know about GTA 6's release day, pre-order bonuses, preload sizes, updates, PS5 and Xbox differences and much more",
+    "date": "Sat, 14 Nov 2026 11:30:17 GMT",
+    "link": "https://www.polygon.com/gta-6-when-does-it-come-out-ps5-pro-crossplay-countdown-preorder-preload/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.35,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "This 3D Pet SIM You Never Played Has Over 12,000 ‘Overwhelmingly Positive’ Reviews",
+    "source": "Polygon",
+    "summary": "Wobbledogs launched in 2022 and despite receiving almost universal acclaim, flew under the radar for a lot of people.",
+    "date": "Sat, 14 Nov 2026 11:00:17 GMT",
+    "link": "https://www.polygon.com/wobbledogs-3d-pet-sim-steam-overwhelmingly-positive/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
     "id": 13,
+    "title": "Indiana Jones and the Great Circle once had a Grand Theft Auto inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'",
+    "source": "PC Gamer",
+    "summary": "\"We penalised shooting so much in that game,\" says design director Jens Andersson.",
+    "date": "Sat, 14 Nov 2026 11:26:04 +0000",
+    "link": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.1,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
     "title": "Yes, some brave games are still launching on Steam during GTA 6 week",
     "source": "PC Gamer",
     "summary": "Roundabouts, merchant republics, and dark fantasy roguelikes aren't budging their release plans.",
@@ -227,7 +249,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "Don't like AI in games? Crimson Desert studio Pearl Abyss ain't care: it's expanding AI use 'throughout our entire development pipeline'",
     "source": "PC Gamer",
     "summary": "Pearl Abyss apologized for the presence of AI-generated art in Crimson Desert earlier this year, but it's not slowing down.",
@@ -244,7 +266,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "A survival game we once called 'Stalker and Tarkov's alien baby' is closing down less than a year after launch",
     "source": "PC Gamer",
     "summary": "Pioner seemed headed in the right direction when it went into early access in late 2025, but it all went wrong just a few months later.",
@@ -258,23 +280,6 @@
     "tags": [
       "News",
       "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Microsoft ‘deeply’ apologizes for global service outage, says no AI or hackers are to blame",
-    "source": "PC Gamer",
-    "summary": "Presumably none of the roughly 30,000 Microsoft employees laid off in the last four years could have prevented this.",
-    "date": "Fri, 13 Nov 2026 19:54:20 +0000",
-    "link": "https://www.pcgamer.com/software/microsoft-deeply-apologizes-for-global-service-outage-says-no-ai-or-hackers-are-to-blame/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "AI"
     ],
     "read_time": "1 min read"
   },
