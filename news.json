@@ -1,49 +1,51 @@
 [
   {
     "id": 1,
-    "title": "Some of These GTA 6 Clips Look So Good That I Don't Care If It's Running at 30 fps",
+    "title": "James Gunn Shuts Down Rumors That Skydance Is Meddling With Man of Tomorrow",
     "source": "IGN",
-    "summary": "Earlier this week, Rockstar confirmed that GTA 6 would be running at 30 fps on all of the consoles, including the PS5 Pro. And while I wasn't surprised, I've been watching some of the clips that have been trickling out this week, and I can't say I'm not excited to play it, even at 30 fps.",
-    "date": "Fri, 13 Nov 2026 22:10:22 +0000",
-    "link": "https://www.ign.com/articles/some-of-these-gta-6-clips-look-so-good-that-i-dont-care-if-its-running-at-30-fps",
+    "summary": "James Gunn has shut down rumors that the new DC overseers at Skydance have meddled with his cut of Man of Tomorrow following his shocking DC Studios exit.",
+    "date": "Sat, 14 Nov 2026 02:36:04 +0000",
+    "link": "https://www.ign.com/articles/james-gunn-shuts-down-rumors-that-skydance-is-meddling-with-man-of-tomorrow",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.23,
+      "badge": "danger"
     },
     "tags": [
-      "FPS"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Save $500 Off the 42\" LG C6 4K OLED TV for Black Friday, Doubles as a Gaming Monitor, Plus Get an Xbox Controller",
+    "title": "Sunrise on the Reaping Is Getting Multiple Black Friday Deals Before Its Theatrical Release",
     "source": "IGN",
-    "summary": "LG calls this \"guaranteed Black Friday pricing\".",
-    "date": "Fri, 13 Nov 2026 21:45:00 +0000",
-    "link": "https://www.ign.com/articles/lg-evo-c6-4k-oled-tv-pc-monitor-deal-free-xbox-controller-november-2026",
+    "summary": "",
+    "date": "Sat, 14 Nov 2026 01:15:00 +0000",
+    "link": "https://www.ign.com/articles/sunrise-on-the-reaping-book-and-audiobook-black-friday-deal-2026",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.17,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.06,
+      "badge": "info"
     },
     "tags": [
-      "Xbox"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Magic: The Gathering’s Star Trek Commander Precons Ranked: Why We Are the Borg Takes the Top Spot",
+    "title": "After Another Year of Price Hikes, What Streaming Deals Will We Get for Black Friday 2026?",
     "source": "IGN",
-    "summary": "We ranked all four Magic: The Gathering Star Trek Commander precons—from Picard’s Federation Fleet to We Are the Borg—by gameplay, value, and key reprints.",
-    "date": "Fri, 13 Nov 2026 21:30:00 +0000",
-    "link": "https://www.ign.com/articles/magic-the-gathering-star-trek-commander-decks-ranked",
+    "summary": "",
+    "date": "Sat, 14 Nov 2026 01:00:00 +0000",
+    "link": "https://www.ign.com/articles/black-friday-streaming-deal-predictions-2026",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.38,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.17,
+      "badge": "danger"
     },
     "tags": [
       "News",
@@ -53,19 +55,18 @@
   },
   {
     "id": 4,
-    "title": "LEGO Shrek, Donkey, and Puss in Boots Gets Its First Discount for Black Friday",
+    "title": "Blade Runner 2099 Executive Producers Confirm Franchise Owners Are in Talks for AAA Video Game Adaptation",
     "source": "IGN",
-    "summary": "",
-    "date": "Fri, 13 Nov 2026 20:57:06 +0000",
-    "link": "https://www.ign.com/articles/lego-shrek-donkey-and-puss-in-boots-gets-its-first-discount-for-black-friday",
+    "summary": "Andrew Kosove and Broderick Johnson, executive producers for Blade Runner 2099 and co-CEOs of Alcon Entertainment, have confirmed that they are in discussions to create a AAA video game based on the iconic cyberpunk franchise.",
+    "date": "Fri, 13 Nov 2026 23:49:32 +0000",
+    "link": "https://www.ign.com/articles/blade-runner-2099-executive-producers-confirm-franchise-owners-are-in-talks-for-aaa-video-game-adaptation",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.04,
+      "score": 0.02,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Cyberpunk"
     ],
     "read_time": "1 min read"
   },
@@ -139,32 +140,31 @@
   },
   {
     "id": 9,
-    "title": "Blizzard Officially Responds to Disappointed Overwatch Fans Over Hero 55",
+    "title": "20 Years Later, A Classic Nintendo DS Puzzle Game Officially Returns",
     "source": "Polygon",
-    "summary": "Overwatch's next hero, Hudson, will be a Damage (DPS) character, not a support. Fans are disappointed by the switch and Blizzard is responding.",
-    "date": "Fri, 13 Nov 2026 22:53:10 GMT",
-    "link": "https://www.polygon.com/overwatch-new-hero-55-hudson-damage-dps-blizzard/",
+    "summary": "Level-5 is remaking the classic Nintendo DS puzzle game Professor Layton and the Curious Village and it's due out in 2027",
+    "date": "Sat, 14 Nov 2026 02:25:17 GMT",
+    "link": "https://www.polygon.com/professor-layton-nintendo-ds-remake-release-date-2027/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.5,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "10 New Movies to Watch This Weekend on Netflix, Prime Video, and HBO Max (November 13 - 15)",
+    "title": "HBO’s 5-Part Crime Drama Has One of the Best Seasons in TV History",
     "source": "Polygon",
-    "summary": "On this week's streaming column, there's one of the biggest dinosaur blockbusters of the year, a big horror movie, and much more.",
-    "date": "Fri, 13 Nov 2026 22:00:18 GMT",
-    "link": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-november-13-15/",
+    "summary": "The Wire’s fourth season provided a far deeper look at Baltimore’s problems",
+    "date": "Sat, 14 Nov 2026 00:20:17 GMT",
+    "link": "https://www.polygon.com/the-wire-season-4-recommendation/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.21,
+      "score": 0.37,
       "badge": "success"
     },
     "tags": [
@@ -175,33 +175,33 @@
   },
   {
     "id": 11,
-    "title": "6 Most-Anticipated Steam Games You Should Add to Your Wishlist Right Now",
+    "title": "Fallout 5 and Fallout Remasters Officially Announced",
     "source": "Polygon",
-    "summary": "The best upcoming Steam games to add to your Wishlist include an open-world RPG, a narrative adventure, and... a game about slaps?",
-    "date": "Fri, 13 Nov 2026 21:30:26 GMT",
-    "link": "https://www.polygon.com/wishlister-nov-13/",
+    "summary": "Bethesda Softworks updates fans on the future of Fallout, which includes new Fallout 3 and New Vegas releases and Fallout 5.",
+    "date": "Sat, 14 Nov 2026 00:16:18 GMT",
+    "link": "https://www.polygon.com/fallout-5-fo3-remaster-new-games-bethesda-softworks/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
     },
     "tags": [
-      "Steam",
-      "RPG"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "Marvel Officially Confirms New Avengers Team for Doomsday",
+    "title": "Blizzard Officially Responds to Disappointed Overwatch Fans Over Hero 55",
     "source": "Polygon",
-    "summary": "Marvel has confirmed what superheroes are apart of the newest Avengers team in Doomsday, which will also feature the Fantastic Four and X-Men.",
-    "date": "Fri, 13 Nov 2026 21:02:48 GMT",
-    "link": "https://www.polygon.com/avengers-doomsday-marvel-confirms-new-team-lineup/",
+    "summary": "Overwatch's next hero, Hudson, will be a Damage (DPS) character, not a support. Fans are disappointed by the switch and Blizzard is responding.",
+    "date": "Fri, 13 Nov 2026 22:53:10 GMT",
+    "link": "https://www.polygon.com/overwatch-new-hero-55-hudson-damage-dps-blizzard/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.31,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.5,
+      "badge": "danger"
     },
     "tags": [
       "News",
