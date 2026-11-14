@@ -1,29 +1,11 @@
 [
   {
     "id": 1,
-    "title": "Breaking Down Theo's Shock Moment in The Lord of the Rings: The Rings of Power Season 3 and the Mystery of His Father With Actor Tyroe Muhafidin",
+    "title": "'It Felt Criminal' — Adam Driver Still Can't Believe How Disney Handled Canceled Star Wars Movie The Hunt for Ben Solo",
     "source": "IGN",
-    "summary": "A spoiler-filled The Lord of the Rings: The Rings of Power Season 3 interview with Theo actor Tyroe Muhafidin.",
-    "date": "Sat, 14 Nov 2026 10:02:14 +0000",
-    "link": "https://www.ign.com/articles/breaking-down-theos-shock-moment-in-the-lord-of-the-rings-the-rings-of-power-season-3-and-the-mystery-of-his-father-with-actor-tyroe-muhafidin",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.16,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "James Gunn Shuts Down Rumors That Skydance Is Meddling With Man of Tomorrow",
-    "source": "IGN",
-    "summary": "James Gunn has shut down rumors that the new DC overseers at Skydance have meddled with his cut of Man of Tomorrow following his shocking DC Studios exit.",
-    "date": "Sat, 14 Nov 2026 02:36:04 +0000",
-    "link": "https://www.ign.com/articles/james-gunn-shuts-down-rumors-that-skydance-is-meddling-with-man-of-tomorrow",
+    "summary": "Adam Driver still can't believe Disney killed his Star Wars movie, The Hunt for Ben Solo, and has now gone so far as to say that the move \"felt criminal.\"",
+    "date": "Sat, 14 Nov 2026 20:09:39 +0000",
+    "link": "https://www.ign.com/articles/it-felt-criminal-adam-driver-still-cant-believe-how-disney-handled-canceled-star-wars-movie-the-hunt-for-ben-solo",
     "sentiment": {
       "label": "Critical / Mixed",
       "score": -0.23,
@@ -36,16 +18,34 @@
     "read_time": "1 min read"
   },
   {
-    "id": 3,
-    "title": "Sunrise on the Reaping Is Getting Multiple Black Friday Deals Before Its Theatrical Release",
+    "id": 2,
+    "title": "Chris Pratt Says He 'Would Love' James Gunn to Return for Guardians of the Galaxy Vol. 4 After Leaving DC",
     "source": "IGN",
-    "summary": "",
-    "date": "Sat, 14 Nov 2026 01:15:00 +0000",
-    "link": "https://www.ign.com/articles/sunrise-on-the-reaping-book-and-audiobook-black-friday-deal-2026",
+    "summary": "Chris Pratt said he would love to reunite with James Gunn for Guardians of the Galaxy Vol. 4 after the director abruptly announced he would be leaving DC Studios earlier this week.",
+    "date": "Sat, 14 Nov 2026 18:27:44 +0000",
+    "link": "https://www.ign.com/articles/chris-pratt-says-he-would-love-james-gunn-to-return-for-guardians-of-the-galaxy-vol-4-after-leaving-dc",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.06,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.22,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "GTA 6 Will Do Something the Franchise Has Never Done Before: Encourage Empathy",
+    "source": "IGN",
+    "summary": "Rockstar has confirmed GTA 6 features something the franchise has never had before: mechanisms that encourage empathy.",
+    "date": "Sat, 14 Nov 2026 17:19:13 +0000",
+    "link": "https://www.ign.com/articles/gta-6-will-do-something-the-franchise-has-never-done-before-encourage-empathy",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -55,15 +55,15 @@
   },
   {
     "id": 4,
-    "title": "After Another Year of Price Hikes, What Streaming Deals Will We Get for Black Friday 2026?",
+    "title": "Daggerheart: Hope & Fear Expansion Review",
     "source": "IGN",
     "summary": "",
-    "date": "Sat, 14 Nov 2026 01:00:00 +0000",
-    "link": "https://www.ign.com/articles/black-friday-streaming-deal-predictions-2026",
+    "date": "Sat, 14 Nov 2026 16:30:00 +0000",
+    "link": "https://www.ign.com/articles/daggerheart-hope-fear-expansion-ttrpg-review",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.17,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -144,14 +144,14 @@
   },
   {
     "id": 9,
-    "title": "Every GTA 6 Actor Rumored and Confirmed by Rockstar Ahead of Launch",
+    "title": "32 Years Later, Star Trek's Most Important Movie Is Officially Free on Streaming",
     "source": "Polygon",
-    "summary": "Who will play Jason, Lucia, and other major characters in GTA 6? Rockstar hasn't made an official reveal yet, but the internet has plenty of ideas.",
-    "date": "Sat, 14 Nov 2026 12:30:17 GMT",
-    "link": "https://www.polygon.com/gta-6-cast-rumors-speculation-confirmed-actors/",
+    "summary": "Star Trek: Generations is streaming free on Pluto TV. Here's why the underrated Kirk and Picard crossover deserves another look.",
+    "date": "Sat, 14 Nov 2026 21:00:17 GMT",
+    "link": "https://www.polygon.com/star-trek-generations-streaming-free-november-2026/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.11,
+      "score": 0.34,
       "badge": "success"
     },
     "tags": [
@@ -162,15 +162,33 @@
   },
   {
     "id": 10,
-    "title": "Rings of Power Just Changed the Nazgul in 1 Terrifying Way: ‘They Still Have a Human Side’",
+    "title": "Zelda: Ocarina of Time Is Actually the Perfect Way to Introduce Kids to Nintendo",
     "source": "Polygon",
-    "summary": "Rings of Power season 3 shows how Sauron creates the Nazgûl. Showrunner Patrick McKay explains why the new Ring-servants haven't lost their humanity.",
-    "date": "Sat, 14 Nov 2026 12:00:18 GMT",
-    "link": "https://www.polygon.com/rings-of-power-season-3-nazgnagol-vs-nazgul-explained/",
+    "summary": "Parents are debating whether the Ocarina of Time remake is too scary for kids. Here’s the case for the child-era half as a first Nintendo game.",
+    "date": "Sat, 14 Nov 2026 20:00:17 GMT",
+    "link": "https://www.polygon.com/zelda-ocarina-time-first-nintendo-kids-game/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.29,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "Nintendo",
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "Fortnite Player Gets Screwed Out of Extremely Rare Pirate Shop Token",
+    "source": "Polygon",
+    "summary": "Epic Games has reportedly proved unhelpful after a user lost the Pirate Shop Access token in Fortnite after losing connection mid-match.",
+    "date": "Sat, 14 Nov 2026 19:47:17 GMT",
+    "link": "https://www.polygon.com/fortnite-player-loses-pirate-shop-access-token-game-crash/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -179,33 +197,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 11,
-    "title": "GTA 6 Release Day: Everything To Know To Be Ready On Day One",
-    "source": "Polygon",
-    "summary": "What you need to know about GTA 6's release day, pre-order bonuses, preload sizes, updates, PS5 and Xbox differences and much more",
-    "date": "Sat, 14 Nov 2026 11:30:17 GMT",
-    "link": "https://www.polygon.com/gta-6-when-does-it-come-out-ps5-pro-crossplay-countdown-preorder-preload/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.35,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 12,
-    "title": "This 3D Pet SIM You Never Played Has Over 12,000 ‘Overwhelmingly Positive’ Reviews",
+    "title": "'The Body' Ending Explained: Is Grace Possessed? Netflix Showrunners Talk Season 2",
     "source": "Polygon",
-    "summary": "Wobbledogs launched in 2022 and despite receiving almost universal acclaim, flew under the radar for a lot of people.",
-    "date": "Sat, 14 Nov 2026 11:00:17 GMT",
-    "link": "https://www.polygon.com/wobbledogs-3d-pet-sim-steam-overwhelmingly-positive/",
+    "summary": "Is Grace possessed? The Body’s showrunners explain why the Netflix series’ ending has no single answer and what’s next in season 2.",
+    "date": "Sat, 14 Nov 2026 19:00:17 GMT",
+    "link": "https://www.polygon.com/the-body-ending-explained/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -215,15 +216,15 @@
   },
   {
     "id": 13,
-    "title": "Indiana Jones and the Great Circle once had a Grand Theft Auto inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'",
+    "title": "Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a staff of comedy writers",
     "source": "PC Gamer",
-    "summary": "\"We penalised shooting so much in that game,\" says design director Jens Andersson.",
-    "date": "Sat, 14 Nov 2026 11:26:04 +0000",
-    "link": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/",
+    "summary": "Testing comedy games comes with a unique challenge.",
+    "date": "Sat, 14 Nov 2026 20:45:44 +0000",
+    "link": "https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.1,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.04,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -233,49 +234,51 @@
   },
   {
     "id": 14,
-    "title": "Yes, some brave games are still launching on Steam during GTA 6 week",
+    "title": "Do you like mob tagging in oldschool MMOs, or are you done with fighting for quest credit?",
     "source": "PC Gamer",
-    "summary": "Roundabouts, merchant republics, and dark fantasy roguelikes aren't budging their release plans.",
-    "date": "Fri, 13 Nov 2026 22:28:10 +0000",
-    "link": "https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week/",
+    "summary": "Tag, you're it.",
+    "date": "Sat, 14 Nov 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-with-fighting-for-quest-credit/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.33,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Steam"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "Don't like AI in games? Crimson Desert studio Pearl Abyss ain't care: it's expanding AI use 'throughout our entire development pipeline'",
+    "title": "I summoned 1 blood demon, stitched 2 of my disciples together, and seduced 3 snails in this excellent cult simulator in the spirit of Dwarf Fortress",
     "source": "PC Gamer",
-    "summary": "Pearl Abyss apologized for the presence of AI-generated art in Crimson Desert earlier this year, but it's not slowing down.",
-    "date": "Fri, 13 Nov 2026 22:17:06 +0000",
-    "link": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/",
+    "summary": "World's Best Grandpa Cup be praised.",
+    "date": "Sat, 14 Nov 2026 16:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/sim/i-summoned-1-blood-demon-stitched-2-of-my-disciples-together-and-seduced-3-snails-in-this-excellent-cult-simulator-in-the-spirit-of-dwarf-fortress/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 1.0,
+      "badge": "success"
     },
     "tags": [
-      "AI"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "A survival game we once called 'Stalker and Tarkov's alien baby' is closing down less than a year after launch",
+    "title": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding news ways to surprise fans: 'That's the two wolves inside me'",
     "source": "PC Gamer",
-    "summary": "Pioner seemed headed in the right direction when it went into early access in late 2025, but it all went wrong just a few months later.",
-    "date": "Fri, 13 Nov 2026 20:37:35 +0000",
-    "link": "https://www.pcgamer.com/games/fps/a-survival-game-we-once-called-stalker-and-tarkovs-alien-baby-is-closing-down-less-than-a-year-after-launch/",
+    "summary": "\"On one hand, I want to pay off those expectations. On the other hand, I want to exceed them.\"",
+    "date": "Sat, 14 Nov 2026 15:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/sim/dishonored-2-director-harvey-smith-wants-to-honour-sacred-imsim-texts-while-finding-news-ways-to-surprise-fans-thats-the-two-wolves-inside-me/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.16,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.04,
+      "badge": "info"
     },
     "tags": [
       "News",
