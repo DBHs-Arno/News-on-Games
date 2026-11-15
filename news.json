@@ -12,8 +12,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -30,8 +30,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -48,8 +48,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -66,8 +66,8 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -84,8 +84,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -102,8 +102,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -120,8 +120,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -144,145 +144,144 @@
   },
   {
     "id": 9,
-    "title": "Tomb Raider Remake Gameplay Changes Are Dividing Fans",
+    "title": "7 Best Things About the Original Xbox That Aren't Halo, Ranked",
     "source": "Polygon",
-    "summary": "The latest Tomb Raider remake gameplay deep dive gives a look at controversial RPG elements in Legacy of Atlantis",
-    "date": "Sun, 15 Nov 2026 03:14:17 GMT",
-    "link": "https://www.polygon.com/tomb-raider-remake-changes-legacy-of-atlantis/",
+    "summary": "We celebrate the original Xbox for introducing Halo, but the hardware and its software library offered plenty of other attractions worth remembering.",
+    "date": "Sun, 15 Nov 2026 13:00:18 GMT",
+    "link": "https://www.polygon.com/xbox-retrospective-best-things-besides-halo/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.35,
+      "score": 0.39,
       "badge": "success"
     },
     "tags": [
-      "Remake",
-      "RPG"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Forget Ganon, Zelda: Ocarina of Time’s Most Overlooked Boss Finally Gets Its Due",
+    "title": "Stardew Valley Meets Night in the Woods in One of 2026's Scariest New Games",
     "source": "Polygon",
-    "summary": "The Legend of Zelda: Ocarina of Time is a good reminder that the Zelda universe has more great villains than Ganon.",
-    "date": "Sun, 15 Nov 2026 03:00:27 GMT",
-    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-twinrova/",
+    "summary": "Village in the Shade is a horror farm sim that digs deep into the horrors of community life",
+    "date": "Sun, 15 Nov 2026 12:00:17 GMT",
+    "link": "https://www.polygon.com/village-in-the-shade-new-farm-sim-horror-game/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "9 Giant-Sized Changes Marvel Made to Ant-Man After Edgar Wright Left",
+    "title": "15 Years Later, Jamie Lannister’s Best Game of Thrones Quote Is an All-Time Fantasy Hit",
     "source": "Polygon",
-    "summary": "Wright left Ant-Man in 2015, citing differences with Marvel. Here’s how his film would have been different",
-    "date": "Sun, 15 Nov 2026 02:00:17 GMT",
-    "link": "https://www.polygon.com/edgar-wright-ant-man-script-differences/",
+    "summary": "'Game of Thrones' has plenty of iconic quotes. But Jamie Lannister's best sums up his downfall.",
+    "date": "Sun, 15 Nov 2026 11:00:17 GMT",
+    "link": "https://www.polygon.com/jamie-lannisters-best-game-of-thrones-quote-is-an-all-time-fantasy-hit/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.28,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "Stephen King’s Underrated 1980 Horror Thriller Gets New Prime Video Adaptation",
+    "title": "7 Decades Later, the Most Satisfying Movie of All Time Is Free on YouTube",
     "source": "Polygon",
-    "summary": "Stephen King fans rejoice: a Lovecraftian crime-thriller epic is on the way with Crouch End, a new miniseries from Prime Video.",
-    "date": "Sun, 15 Nov 2026 01:36:17 GMT",
-    "link": "https://www.polygon.com/stephen-king-prime-video-crouch-end-tv-show/",
+    "summary": "Sidney Lumet’s 12 Angry Men is one of the best, simplest films ever made and its free to stream on YouTube",
+    "date": "Sun, 15 Nov 2026 10:00:17 GMT",
+    "link": "https://www.polygon.com/12-angry-men-free-youtube/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.12,
+      "score": 0.33,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane",
+    "title": "Former survival MMO Dune: Awakening can now be played 'without requiring an Internet connection at any point' as its much requested offline mode arrives",
     "source": "PC Gamer",
-    "summary": "\"Each one of these cards is this window into this incredible world. It's not just world building—it's worlds building.\"",
-    "date": "Sat, 14 Nov 2026 23:50:31 +0000",
-    "link": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
+    "summary": "Everything including 'creating and deleting single-player characters' can be done without touching the web.",
+    "date": "Sun, 15 Nov 2026 12:33:46 +0000",
+    "link": "https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.47,
+      "score": 0.23,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "WoW: Forever dungeon mobs no longer give EXP if they're trivial for anyone in the party",
+    "title": "Chronicles: Medieval developer declared bankruptcy on the day it announced it was in trouble, but development will continue after a $5 million reprieve from Coffee Stain",
     "source": "PC Gamer",
-    "summary": "No more calling on your high-level buddy for a boost.",
-    "date": "Sat, 14 Nov 2026 22:17:19 +0000",
-    "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/",
+    "summary": "A new studio overseen by \"key members\" of the Chronicles team will finish the historical strategy.",
+    "date": "Sun, 15 Nov 2026 11:27:41 +0000",
+    "link": "https://www.pcgamer.com/games/strategy/chronicles-medieval-developer-declared-bankruptcy-on-the-day-it-announced-it-was-in-trouble-but-development-will-continue-after-a-usd5-million-reprieve-from-coffee-stain/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.07,
+      "score": -0.01,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a staff of comedy writers",
+    "title": "The most annoying questgivers in PC games",
     "source": "PC Gamer",
-    "summary": "Testing comedy games comes with a unique challenge.",
-    "date": "Sat, 14 Nov 2026 20:45:44 +0000",
-    "link": "https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers/",
+    "summary": "The XP isn't worth it.",
+    "date": "Sun, 15 Nov 2026 07:21:40 +0000",
+    "link": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.04,
+      "score": -0.0,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Do you like mob tagging in oldschool MMOs, or are you done with fighting for quest credit?",
+    "title": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
     "source": "PC Gamer",
-    "summary": "Tag, you're it.",
-    "date": "Sat, 14 Nov 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/world-of-warcraft/do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-with-fighting-for-quest-credit/",
+    "summary": "What, no Sideways Hank O'Mally?",
+    "date": "Sun, 15 Nov 2026 04:52:26 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.31,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -299,8 +298,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -317,8 +316,8 @@
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -335,8 +334,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -353,8 +352,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
