@@ -1,157 +1,67 @@
 [
   {
     "id": 1,
-    "title": "The Best Deals Today: Asus TUF Gaming Laptop, Saros, 4K Blu-ray Sale, and More",
+    "title": "Xbox Reveals Original and 360 Boot-Up Options for 25th Anniversary",
     "source": "IGN",
-    "summary": "",
-    "date": "Sat, 14 Nov 2026 23:01:45 +0000",
-    "link": "https://www.ign.com/articles/best-deals-for-november-14-2026",
+    "summary": "Microsoft has revealed three new nostalgic Xbox console boot-up options for Xbox Series X/S and Xbox One as part of a new update for the brand's 25th anniversary.",
+    "date": "Sun, 15 Nov 2026 20:31:38 +0000",
+    "link": "https://www.ign.com/articles/xbox-reveals-original-and-360-boot-up-options-for-25th-anniversary",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.75,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.04,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "GTA 6 Leak Seemingly Reveals Official Album's Full Track List Days Before Launch",
+    "title": "GTA 6's Jason and Lucia Will Start as Small-Time Criminals Who Have to Work Up to High-Value Jobs",
     "source": "IGN",
-    "summary": "The full track list for Grand Theft Auto VI: The Album seems to have leaked online just days before GTA 6's launch.",
-    "date": "Sat, 14 Nov 2026 23:00:09 +0000",
-    "link": "https://www.ign.com/articles/gta-6-leak-seemingly-reveals-full-track-list-days-before-launch",
+    "summary": "GTA 6 will let Jason and Lucia pull off high-value jobs, but Rockstar Games asks players to work up from being small-time criminals first.",
+    "date": "Sun, 15 Nov 2026 19:41:28 +0000",
+    "link": "https://www.ign.com/articles/gta-6s-jason-and-lucia-will-start-as-small-time-criminals-who-have-to-work-up-to-high-value-jobs",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.4,
+      "score": 0.25,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "League of Legends: New Dawn Unveiled With Debut Trailer, Riot Announces Major Overhaul Coming in 2027",
+    "title": "EA Adds 'Don't Delete' Message to Madden NFL 27 in Bid to Keep Players From Making Room Ahead of GTA 6",
     "source": "IGN",
-    "summary": "At the 2026 League of Legends World Championship Finals, Riot Games officially unveiled League of Legends: New Dawn. The large-scale update is scheduled for 2027 and will bring changes to the game's client, Summoner's Rift, visuals, and gameplay, marking the beginning of a new chapter for one of the...",
-    "date": "Sat, 14 Nov 2026 22:05:38 +0000",
-    "link": "https://www.ign.com/articles/league-of-legends-new-dawn-unveiled-with-debut-trailer-riot-announces-major-overhaul-coming-in-2027",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Resident Evil Requiem Star Hopes Grace Ashcroft Has 'a Long Way to Go' Even if She Won't 'Ever Be a Leon Character'",
-    "source": "IGN",
-    "summary": "Grace Ashcroft actress Angela Sant'Albano doesn't think her Resident Evil Requiem hero will \"ever be a Leon character,\" but she's still hoping \"there's a long way to go with her.\"",
-    "date": "Sat, 14 Nov 2026 21:31:21 +0000",
-    "link": "https://www.ign.com/articles/resident-evil-requiem-star-hopes-grace-ashcroft-has-a-long-way-to-go-even-if-she-wont-ever-be-a-leon-character",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.52,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "Ubisoft is reportedly making a new Rainbow Six Vegas game, nearly two decades after Vegas 2",
-    "source": "Eurogamer",
-    "summary": "Ubisoft is reportedly working on a new Rainbow Six Vegas game 18 years after the last entry in the series. Read more...",
-    "date": "Sat, 14 Nov 2026 12:19:50 +0000",
-    "link": "https://www.eurogamer.net/rainbow-six-vegas-new-game-ubisoft-spades-report",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Call of Duty Endowment marks Remembrance Day with veterans' Valor Pack push",
-    "source": "Eurogamer",
-    "summary": "The Call of Duty Endowment is marking Remembrance Day and its 17th anniversary by encouraging Modern Warfare 4 and Warzone players to pick up its Valor Pack, with all of Activision's net proceeds going towards helping veterans find jobs. Read more...",
-    "date": "Sat, 14 Nov 2026 11:15:00 +0000",
-    "link": "https://www.eurogamer.net/call-of-duty-endowment-valor-pack-remembrance-day-veterans",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.23,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Magic: The Gathering animated series Planeswalker is coming to Netflix in 2027",
-    "source": "Eurogamer",
-    "summary": "Netflix's long-gestating Magic: The Gathering animated series is called Planeswalker, and it's coming in 2027. Read more...",
-    "date": "Sat, 14 Nov 2026 10:39:50 +0000",
-    "link": "https://www.eurogamer.net/magic-the-gathering-planeswalker-netflix-animated-series-2027",
+    "summary": "EA has added a \"don't delete\" pop-up message to Madden NFL 27, and players can't help but feel the company is begging them not to make room for Grand Theft Auto 6.",
+    "date": "Sun, 15 Nov 2026 17:22:20 +0000",
+    "link": "https://www.ign.com/articles/ea-adds-dont-delete-message-to-madden-nfl-27-in-bid-to-keep-players-from-making-room-ahead-of-gta-6",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.5,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "The Blood of Dawnwalker is getting a New Game Plus mode in next week's update",
-    "source": "Eurogamer",
-    "summary": "A New Game Plus mode is coming to vampiric RPG The Blood of Dawnwalker next week. Read more...",
-    "date": "Fri, 13 Nov 2026 20:49:20 +0000",
-    "link": "https://www.eurogamer.net/blood-of-dawnwalker-new-game-plus",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "RPG"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "7 Best Things About the Original Xbox That Aren't Halo, Ranked",
-    "source": "Polygon",
-    "summary": "We celebrate the original Xbox for introducing Halo, but the hardware and its software library offered plenty of other attractions worth remembering.",
-    "date": "Sun, 15 Nov 2026 13:00:18 GMT",
-    "link": "https://www.polygon.com/xbox-retrospective-best-things-besides-halo/",
+    "id": 4,
+    "title": "Xbox at 25: My Memories From Across Xbox’s Entire (and Quite Incredible) History",
+    "source": "IGN",
+    "summary": "I’ve been lucky enough to have a front-row seat for most of the Xbox’s 25 years, covering the high highs and low lows of Microsoft’s pivot into the living room. It’s been quite a ride since November 15, 2001, and I wanted to mark the occasion by sharing some of my biggest memories with you. And, lik...",
+    "date": "Sun, 15 Nov 2026 15:15:00 +0000",
+    "link": "https://www.ign.com/articles/xbox-at-25-my-memories-from-across-xboxs-entire-and-quite-incredible-history",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.39,
+      "score": 0.27,
       "badge": "success"
     },
     "tags": [
@@ -160,128 +70,213 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "Stardew Valley Meets Night in the Woods in One of 2026's Scariest New Games",
-    "source": "Polygon",
-    "summary": "Village in the Shade is a horror farm sim that digs deep into the horrors of community life",
-    "date": "Sun, 15 Nov 2026 12:00:17 GMT",
-    "link": "https://www.polygon.com/village-in-the-shade-new-farm-sim-horror-game/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "15 Years Later, Jamie Lannister’s Best Game of Thrones Quote Is an All-Time Fantasy Hit",
-    "source": "Polygon",
-    "summary": "'Game of Thrones' has plenty of iconic quotes. But Jamie Lannister's best sums up his downfall.",
-    "date": "Sun, 15 Nov 2026 11:00:17 GMT",
-    "link": "https://www.polygon.com/jamie-lannisters-best-game-of-thrones-quote-is-an-all-time-fantasy-hit/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.28,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "7 Decades Later, the Most Satisfying Movie of All Time Is Free on YouTube",
-    "source": "Polygon",
-    "summary": "Sidney Lumet’s 12 Angry Men is one of the best, simplest films ever made and its free to stream on YouTube",
-    "date": "Sun, 15 Nov 2026 10:00:17 GMT",
-    "link": "https://www.polygon.com/12-angry-men-free-youtube/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.33,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Former survival MMO Dune: Awakening can now be played 'without requiring an Internet connection at any point' as its much requested offline mode arrives",
-    "source": "PC Gamer",
-    "summary": "Everything including 'creating and deleting single-player characters' can be done without touching the web.",
-    "date": "Sun, 15 Nov 2026 12:33:46 +0000",
-    "link": "https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives/",
+    "id": 5,
+    "title": "Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile",
+    "source": "Eurogamer",
+    "summary": "Police have arrested a suspect after a drive-by shooting at an office campus in Tustin, California, which is home to Xbox-owned studio inXile Entertainment. Read more...",
+    "date": "Sun, 15 Nov 2026 17:47:40 +0000",
+    "link": "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.23,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Cyberpunk 2077 mod Torrent adds 3D rain, lightning storms, and tyre spray to Night City",
+    "source": "Eurogamer",
+    "summary": "A new Cyberpunk 2077 mod has overhauled Night City's rain, swapping the game's flat wet weather effects for individual 3D drops and adding lightning storms. Read more...",
+    "date": "Sun, 15 Nov 2026 17:39:20 +0000",
+    "link": "https://www.eurogamer.net/cyberpunk-2077-torrent-rain-weather-mod",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "Cyberpunk"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Treyarch lays off lead Call of Duty writer and Zombies veteran after \"approximately 20 years\" of service",
+    "source": "Eurogamer",
+    "summary": "Treyarch's former Senior lead writer, Craig Houston, has been laid off after approximately 20 years of service with the developer. In a post made to both his Twitter/X account and LinkedIn, the developer thanked fans for their support during his two decades with the company and confirmed he was impa...",
+    "date": "Sun, 15 Nov 2026 15:14:10 +0000",
+    "link": "https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Blade Runner 2099 bosses hint at a possible \"triple-A\" Blade Runner game in the future - just don't expect it any time soon",
+    "source": "Eurogamer",
+    "summary": "Blade Runner 2099 - an upcoming TV miniseries coming to Amazon Prime Video, acting as a sequel to Blade Runner (1982) and Blade Runner 2049 (2017) - might be getting a video game. And a 'triple-A' video game, at that. At least that's according to Andrew Kosove and Broderick Johnson, executive produc...",
+    "date": "Sun, 15 Nov 2026 14:43:00 +0000",
+    "link": "https://www.eurogamer.net/blade-runner-2099-triple-a-talks",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.21,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "Prime Video's Near-Perfect Game of Thrones Replacement Officially Arrives in 2 Months",
+    "source": "Polygon",
+    "summary": "Time to start sharpening your bloodaxe...",
+    "date": "Sun, 15 Nov 2026 21:25:25 GMT",
+    "link": "https://www.polygon.com/blood-axe-prime-video-episode-1-review/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Zelda: Ocarina of Time’s No. 1 cause of death officially revealed",
+    "source": "Polygon",
+    "summary": "The most modern thing about the Zelda remake might just be its mobile app.",
+    "date": "Sun, 15 Nov 2026 20:20:50 GMT",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-mobile-app-deaths/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.35,
+      "badge": "success"
+    },
+    "tags": [
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "17 Years Ago, the Longest Running Sci-Fi Show Flipped Its Core Concept On Its Head",
+    "source": "Polygon",
+    "summary": "David Tennant is king when it comes to giving complex performances. His best is in the Doctor Who episode 'The Water of Mars.'",
+    "date": "Sun, 15 Nov 2026 20:00:18 GMT",
+    "link": "https://www.polygon.com/doctor-who-the-waters-of-mars-17th-anniversary-retrospective/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.35,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Nintendo Switch 2 Is Finally Getting Capcom’s Fastest-Selling Game Ever",
+    "source": "Polygon",
+    "summary": "Monster Hunter Wilds is coming to Switch 2, just in time for the holiday season. And it's also a cool 25% off ahead of launch.",
+    "date": "Sun, 15 Nov 2026 19:00:17 GMT",
+    "link": "https://www.polygon.com/monster-hunter-wilds-nintendo-switch-2-release-date/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?",
+    "source": "PC Gamer",
+    "summary": "Quiet and unassuming, or loud and proud?",
+    "date": "Sun, 15 Nov 2026 18:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/are-you-more-of-an-ambient-music-enjoyer-or-theatrical-atmosphere-appreciator/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.28,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "Chronicles: Medieval developer declared bankruptcy on the day it announced it was in trouble, but development will continue after a $5 million reprieve from Coffee Stain",
+    "title": "League of Legends will get an overhaul called New Dawn with new visuals, build options, and an updated client",
     "source": "PC Gamer",
-    "summary": "A new studio overseen by \"key members\" of the Chronicles team will finish the historical strategy.",
-    "date": "Sun, 15 Nov 2026 11:27:41 +0000",
-    "link": "https://www.pcgamer.com/games/strategy/chronicles-medieval-developer-declared-bankruptcy-on-the-day-it-announced-it-was-in-trouble-but-development-will-continue-after-a-usd5-million-reprieve-from-coffee-stain/",
+    "summary": "\"We want League to stand the test of time.\"",
+    "date": "Sun, 15 Nov 2026 17:45:48 +0000",
+    "link": "https://www.pcgamer.com/games/moba/league-of-legends-will-get-an-overhaul-called-new-dawn-with-new-visuals-build-options-and-an-updated-client/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.01,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "The most annoying questgivers in PC games",
+    "title": "The pandemic was transformative for Jackbox: 'We went from a gamer name to a household name'",
     "source": "PC Gamer",
-    "summary": "The XP isn't worth it.",
-    "date": "Sun, 15 Nov 2026 07:21:40 +0000",
-    "link": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/",
+    "summary": "\"People realized how easy it was to just share the screen over a Zoom call and everyone's playing.\"",
+    "date": "Sun, 15 Nov 2026 17:30:00 +0000",
+    "link": "https://www.pcgamer.com/games/the-pandemic-was-transformative-for-jackbox-we-went-from-a-gamer-name-to-a-household-name/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.43,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
+    "title": "YouTuber and comedian Ashens has 1,000 hours in Baldur's Gate 3 and reveals the worst retro game he's ever played: 'By the time you've hacked it to work, it's just no fun whatsoever'",
     "source": "PC Gamer",
-    "summary": "What, no Sideways Hank O'Mally?",
-    "date": "Sun, 15 Nov 2026 04:52:26 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/",
+    "summary": "The filmmaker and author of Terrible Old Games You've Probably Never Heard Of gives us a tour of his Steam library.",
+    "date": "Sun, 15 Nov 2026 17:00:00 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/youtuber-and-comedian-ashens-has-1-000-hours-in-baldurs-gate-3-and-reveals-the-worst-retro-game-hes-ever-played-by-the-time-youve-hacked-it-to-work-its-just-no-fun-whatsoever/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.31,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.49,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Steam"
     ],
     "read_time": "1 min read"
   },
@@ -298,8 +293,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -316,8 +311,8 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -334,8 +329,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -352,8 +347,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
