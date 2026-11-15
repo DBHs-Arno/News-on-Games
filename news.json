@@ -1,73 +1,73 @@
 [
   {
     "id": 1,
-    "title": "'It Felt Criminal' — Adam Driver Still Can't Believe How Disney Handled Canceled Star Wars Movie The Hunt for Ben Solo",
+    "title": "The Best Deals Today: Asus TUF Gaming Laptop, Saros, 4K Blu-ray Sale, and More",
     "source": "IGN",
-    "summary": "Adam Driver still can't believe Disney killed his Star Wars movie, The Hunt for Ben Solo, and has now gone so far as to say that the move \"felt criminal.\"",
-    "date": "Sat, 14 Nov 2026 20:09:39 +0000",
-    "link": "https://www.ign.com/articles/it-felt-criminal-adam-driver-still-cant-believe-how-disney-handled-canceled-star-wars-movie-the-hunt-for-ben-solo",
+    "summary": "",
+    "date": "Sat, 14 Nov 2026 23:01:45 +0000",
+    "link": "https://www.ign.com/articles/best-deals-for-november-14-2026",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.23,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.75,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Chris Pratt Says He 'Would Love' James Gunn to Return for Guardians of the Galaxy Vol. 4 After Leaving DC",
+    "title": "GTA 6 Leak Seemingly Reveals Official Album's Full Track List Days Before Launch",
     "source": "IGN",
-    "summary": "Chris Pratt said he would love to reunite with James Gunn for Guardians of the Galaxy Vol. 4 after the director abruptly announced he would be leaving DC Studios earlier this week.",
-    "date": "Sat, 14 Nov 2026 18:27:44 +0000",
-    "link": "https://www.ign.com/articles/chris-pratt-says-he-would-love-james-gunn-to-return-for-guardians-of-the-galaxy-vol-4-after-leaving-dc",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.22,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "GTA 6 Will Do Something the Franchise Has Never Done Before: Encourage Empathy",
-    "source": "IGN",
-    "summary": "Rockstar has confirmed GTA 6 features something the franchise has never had before: mechanisms that encourage empathy.",
-    "date": "Sat, 14 Nov 2026 17:19:13 +0000",
-    "link": "https://www.ign.com/articles/gta-6-will-do-something-the-franchise-has-never-done-before-encourage-empathy",
+    "summary": "The full track list for Grand Theft Auto VI: The Album seems to have leaked online just days before GTA 6's launch.",
+    "date": "Sat, 14 Nov 2026 23:00:09 +0000",
+    "link": "https://www.ign.com/articles/gta-6-leak-seemingly-reveals-full-track-list-days-before-launch",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.4,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "League of Legends: New Dawn Unveiled With Debut Trailer, Riot Announces Major Overhaul Coming in 2027",
+    "source": "IGN",
+    "summary": "At the 2026 League of Legends World Championship Finals, Riot Games officially unveiled League of Legends: New Dawn. The large-scale update is scheduled for 2027 and will bring changes to the game's client, Summoner's Rift, visuals, and gameplay, marking the beginning of a new chapter for one of the...",
+    "date": "Sat, 14 Nov 2026 22:05:38 +0000",
+    "link": "https://www.ign.com/articles/league-of-legends-new-dawn-unveiled-with-debut-trailer-riot-announces-major-overhaul-coming-in-2027",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Daggerheart: Hope & Fear Expansion Review",
+    "title": "Resident Evil Requiem Star Hopes Grace Ashcroft Has 'a Long Way to Go' Even if She Won't 'Ever Be a Leon Character'",
     "source": "IGN",
-    "summary": "",
-    "date": "Sat, 14 Nov 2026 16:30:00 +0000",
-    "link": "https://www.ign.com/articles/daggerheart-hope-fear-expansion-ttrpg-review",
+    "summary": "Grace Ashcroft actress Angela Sant'Albano doesn't think her Resident Evil Requiem hero will \"ever be a Leon character,\" but she's still hoping \"there's a long way to go with her.\"",
+    "date": "Sat, 14 Nov 2026 21:31:21 +0000",
+    "link": "https://www.ign.com/articles/resident-evil-requiem-star-hopes-grace-ashcroft-has-a-long-way-to-go-even-if-she-wont-ever-be-a-leon-character",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.52,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -84,8 +84,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -102,8 +102,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -120,8 +120,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -144,78 +144,114 @@
   },
   {
     "id": 9,
-    "title": "32 Years Later, Star Trek's Most Important Movie Is Officially Free on Streaming",
+    "title": "Tomb Raider Remake Gameplay Changes Are Dividing Fans",
     "source": "Polygon",
-    "summary": "Star Trek: Generations is streaming free on Pluto TV. Here's why the underrated Kirk and Picard crossover deserves another look.",
-    "date": "Sat, 14 Nov 2026 21:00:17 GMT",
-    "link": "https://www.polygon.com/star-trek-generations-streaming-free-november-2026/",
+    "summary": "The latest Tomb Raider remake gameplay deep dive gives a look at controversial RPG elements in Legacy of Atlantis",
+    "date": "Sun, 15 Nov 2026 03:14:17 GMT",
+    "link": "https://www.polygon.com/tomb-raider-remake-changes-legacy-of-atlantis/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.34,
+      "score": 0.35,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Remake",
+      "RPG"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Zelda: Ocarina of Time Is Actually the Perfect Way to Introduce Kids to Nintendo",
+    "title": "Forget Ganon, Zelda: Ocarina of Time’s Most Overlooked Boss Finally Gets Its Due",
     "source": "Polygon",
-    "summary": "Parents are debating whether the Ocarina of Time remake is too scary for kids. Here’s the case for the child-era half as a first Nintendo game.",
-    "date": "Sat, 14 Nov 2026 20:00:17 GMT",
-    "link": "https://www.polygon.com/zelda-ocarina-time-first-nintendo-kids-game/",
+    "summary": "The Legend of Zelda: Ocarina of Time is a good reminder that the Zelda universe has more great villains than Ganon.",
+    "date": "Sun, 15 Nov 2026 03:00:27 GMT",
+    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-twinrova/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
     },
     "tags": [
-      "Nintendo",
-      "Remake"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Fortnite Player Gets Screwed Out of Extremely Rare Pirate Shop Token",
+    "title": "9 Giant-Sized Changes Marvel Made to Ant-Man After Edgar Wright Left",
     "source": "Polygon",
-    "summary": "Epic Games has reportedly proved unhelpful after a user lost the Pirate Shop Access token in Fortnite after losing connection mid-match.",
-    "date": "Sat, 14 Nov 2026 19:47:17 GMT",
-    "link": "https://www.polygon.com/fortnite-player-loses-pirate-shop-access-token-game-crash/",
+    "summary": "Wright left Ant-Man in 2015, citing differences with Marvel. Here’s how his film would have been different",
+    "date": "Sun, 15 Nov 2026 02:00:17 GMT",
+    "link": "https://www.polygon.com/edgar-wright-ant-man-script-differences/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "'The Body' Ending Explained: Is Grace Possessed? Netflix Showrunners Talk Season 2",
+    "title": "Stephen King’s Underrated 1980 Horror Thriller Gets New Prime Video Adaptation",
     "source": "Polygon",
-    "summary": "Is Grace possessed? The Body’s showrunners explain why the Netflix series’ ending has no single answer and what’s next in season 2.",
-    "date": "Sat, 14 Nov 2026 19:00:17 GMT",
-    "link": "https://www.polygon.com/the-body-ending-explained/",
+    "summary": "Stephen King fans rejoice: a Lovecraftian crime-thriller epic is on the way with Crouch End, a new miniseries from Prime Video.",
+    "date": "Sun, 15 Nov 2026 01:36:17 GMT",
+    "link": "https://www.polygon.com/stephen-king-prime-video-crouch-end-tv-show/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
+    "title": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane",
+    "source": "PC Gamer",
+    "summary": "\"Each one of these cards is this window into this incredible world. It's not just world building—it's worlds building.\"",
+    "date": "Sat, 14 Nov 2026 23:50:31 +0000",
+    "link": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.47,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "WoW: Forever dungeon mobs no longer give EXP if they're trivial for anyone in the party",
+    "source": "PC Gamer",
+    "summary": "No more calling on your high-level buddy for a boost.",
+    "date": "Sat, 14 Nov 2026 22:17:19 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
     "title": "Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a staff of comedy writers",
     "source": "PC Gamer",
     "summary": "Testing comedy games comes with a unique challenge.",
@@ -227,13 +263,13 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "Do you like mob tagging in oldschool MMOs, or are you done with fighting for quest credit?",
     "source": "PC Gamer",
     "summary": "Tag, you're it.",
@@ -245,49 +281,31 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "I summoned 1 blood demon, stitched 2 of my disciples together, and seduced 3 snails in this excellent cult simulator in the spirit of Dwarf Fortress",
-    "source": "PC Gamer",
-    "summary": "World's Best Grandpa Cup be praised.",
-    "date": "Sat, 14 Nov 2026 16:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/sim/i-summoned-1-blood-demon-stitched-2-of-my-disciples-together-and-seduced-3-snails-in-this-excellent-cult-simulator-in-the-spirit-of-dwarf-fortress/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 1.0,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding news ways to surprise fans: 'That's the two wolves inside me'",
-    "source": "PC Gamer",
-    "summary": "\"On one hand, I want to pay off those expectations. On the other hand, I want to exceed them.\"",
-    "date": "Sat, 14 Nov 2026 15:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/sim/dishonored-2-director-harvey-smith-wants-to-honour-sacred-imsim-texts-while-finding-news-ways-to-surprise-fans-thats-the-two-wolves-inside-me/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
+    "title": "GTA 6 Is Like The Olympics – “A Rare Cultural Moment” With Massive Ripple Effects",
+    "source": "GameSpot",
+    "summary": "After years of development, multiple delays, and what can only be assumed to be one of the biggest production budgets ever, Rockstar's Grand Theft Auto 6 launches on November 19. The game is poised to \"blot out the sun,\" some experts believe, and its release looms so large that other gaming companie...",
+    "date": "Sun, 15 Nov 2026 03:00:00 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
     "title": "“Physical” GTA 6 Copies Might Be Vulnerable To A Very Stupid But Serious Trick",
     "source": "GameSpot",
     "summary": "Grand Theft Auto 6 ditched traditional discs for its \"physical\" launch, with Rockstar's game being sold as a digital code-in-box at retailers beginning this week. However, it appears a packaging choice may have accidentally left the game vulnerable to thieves--assuming they have a flashlight.\nAs sha...",
@@ -299,13 +317,13 @@
       "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "GTA 6 Owner Take-Two Is Not Interested In Selling Itself After EA Goes Private For $55 Billion",
     "source": "GameSpot",
     "summary": "Recently, the gaming giant Electronic Arts was taken private in a $55 billion sale to an investor consortium led by Saudi Arabia's Public Investment Fund. Could GTA 6 owner Take-Two be the next big company that gets acquired? Don't bet on it, CEO Strauss Zelnick says. \nSpeaking to David Rubenstein, ...",
@@ -317,13 +335,13 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 19,
+    "id": 20,
     "title": "GTA 6 Could Sell 55 Million Copies By Early Next Year, Report Says, And Average Selling Price Could Be $90",
     "source": "GameSpot",
     "summary": "Rockstar's Grand Theft Auto 6 launches on November 19, and it's expected to be a gigantic commercial success, but just how big will the launch be? Investor's Business Daily compiled data from a series of analyst reports about the game and its owner, Take-Two, and the consensus is that it's going to ...",
@@ -335,26 +353,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "You Can Probably Guess WoW: Forever’s Most Popular Race, Class, And Faction",
-    "source": "GameSpot",
-    "summary": "World of Warcraft: Forever has been in the wild for one week, and now we have all kinds of stats to sink our teeth into as they relate to the most popular races, classes, and faction in the latest version of developer Blizzard's MMORPG.\nForever launched November 4, becoming the biggest launch in WoW...",
-    "date": "Fri, 13 Nov 2026 19:15:27 +0000",
-    "link": "https://www.gamespot.com/articles/you-can-probably-guess-wow-forevers-most-popular-race-class-and-faction/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.38,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
