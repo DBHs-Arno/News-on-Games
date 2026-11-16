@@ -1,101 +1,86 @@
 [
   {
     "id": 1,
-    "title": "Jensen Huang Reportedly Weighing Return as Nvidia CEO With Allies",
+    "title": "Fable Reveals First Look At Bowerstone's New Map, And It's Huge",
     "source": "IGN",
-    "summary": "Jensen Huang has reportedly had discussions with his allies about a potential return as Nvidia's CEO just days after reports of affairs with an alleged Chinese spy and multiple employees led to his resignation.",
-    "date": "Sun, 15 Nov 2026 23:53:35 +0000",
-    "link": "https://www.ign.com/articles/jensen-huang-reportedly-weighing-return-as-nvidia-ceo-with-allies",
+    "summary": "The latest deep dive into Fable goes over the returning capital city of Albion: Bowerstone.",
+    "date": "Mon, 16 Nov 2026 12:27:58 +0000",
+    "link": "https://www.ign.com/articles/fable-reveals-first-look-at-bowerstones-new-map-and-its-huge",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.26,
+      "badge": "success"
     },
     "tags": [
-      "Nvidia"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Xbox Confirms Project Helix Is 'a Console Capable of Playing Games From Your PC'",
+    "title": "GTA 6 Gets Another Day One Patch, and It's 1GB Bigger on Xbox",
     "source": "IGN",
-    "summary": "Xbox has confirmed Project Helix is \"designed to be a console capable of playing games from your PC.\"",
-    "date": "Sun, 15 Nov 2026 22:18:57 +0000",
-    "link": "https://www.ign.com/articles/xbox-confirms-project-helix-is-a-console-capable-of-playing-games-from-your-pc",
+    "summary": "GTA 6 is finally almost here. With the November 19 launch date just around the corner, Rockstar is preparing the game for its public showing.",
+    "date": "Mon, 16 Nov 2026 12:26:44 +0000",
+    "link": "https://www.ign.com/articles/gta-6-gets-another-day-one-patch-bigger-on-xbox",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.27,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
     },
     "tags": [
-      "Xbox"
+      "Xbox",
+      "Patch"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "The Best Deals Today: Control Resonant, Apple AirPods Pro 3, 4K Blu-ray Sales, and More",
+    "title": "Anthony Mackie Insists He Didn't Spoil Avengers: Doomsday by Revealing an Unannounced Character",
     "source": "IGN",
-    "summary": "",
-    "date": "Sun, 15 Nov 2026 21:59:44 +0000",
-    "link": "https://www.ign.com/articles/best-deals-for-november-15-2026",
+    "summary": "Marvel star Anthony Mackie has insisted he did not drop a big Avengers: Doomsday spoiler last week, when he appeared to reveal an unannounced character.",
+    "date": "Mon, 16 Nov 2026 12:22:05 +0000",
+    "link": "https://www.ign.com/articles/anthony-mackie-insists-he-didnt-spoil-avengers-doomsday-by-revealing-an-unannounced-character",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.75,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Xbox Reveals Original and 360 Boot-Up Options for 25th Anniversary",
+    "title": "PS5 DualSense Edge Controller Drops to $169 in PlayStation’s Black Friday Sale",
     "source": "IGN",
-    "summary": "Microsoft has revealed three new nostalgic Xbox console boot-up options for Xbox Series X/S and Xbox One as part of a new update for the brand's 25th anniversary.",
-    "date": "Sun, 15 Nov 2026 20:31:38 +0000",
-    "link": "https://www.ign.com/articles/xbox-reveals-original-and-360-boot-up-options-for-25th-anniversary",
+    "summary": "PlayStation's Black Friday sale is officially live and includes a $30 price cut on the DualSense Edge controller (in both black and white). Grab it for $169 before the sale comes to an ends.",
+    "date": "Mon, 16 Nov 2026 11:48:37 +0000",
+    "link": "https://www.ign.com/articles/ps5-dualsense-edge-controller-deal-playstation-black-friday-sale-2026",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.04,
+      "score": -0.07,
       "badge": "info"
     },
     "tags": [
-      "Xbox"
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
-    "title": "Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile",
+    "title": "Ever wanted to play a multiplayer version of Cyberpunk 2077 with your friends? Well, thanks to a mod now in beta, you can",
     "source": "Eurogamer",
-    "summary": "Police have arrested a suspect after a drive-by shooting at an office campus in Tustin, California, which is home to Xbox-owned studio inXile Entertainment. Read more...",
-    "date": "Sun, 15 Nov 2026 17:47:40 +0000",
-    "link": "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested",
+    "summary": "You may have recently read that CD Projekt Red's in-development Cyberpunk 2 may be trying to revive the original game's online ambitions. But, if you don't want to wait the many years it'll likely be before the Cyberpunk 2077 sequel arrives, then I've got good news for you: Cyberpunk 2077 multiplaye...",
+    "date": "Mon, 16 Nov 2026 14:19:10 +0000",
+    "link": "https://www.eurogamer.net/cyberpunk-2077-multiplayer-mod-open-beta",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.23,
+      "score": 0.17,
       "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Cyberpunk 2077 mod Torrent adds 3D rain, lightning storms, and tyre spray to Night City",
-    "source": "Eurogamer",
-    "summary": "A new Cyberpunk 2077 mod has overhauled Night City's rain, swapping the game's flat wet weather effects for individual 3D drops and adding lightning storms. Read more...",
-    "date": "Sun, 15 Nov 2026 17:39:20 +0000",
-    "link": "https://www.eurogamer.net/cyberpunk-2077-torrent-rain-weather-mod",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
     },
     "tags": [
       "Cyberpunk"
@@ -103,253 +88,267 @@
     "read_time": "1 min read"
   },
   {
+    "id": 6,
+    "title": "Can GTA 6 make $2 billion in its opening weekend? One industry analyst has run the numbers, and seems to think so",
+    "source": "Eurogamer",
+    "summary": "We all know the story of GTA 5 making more than $1 billion in the first three days it was on sale, right? At the time, Take-Two believed this to be the fastest any entertainment property had achieved the impressive milestone - music and films included. It made history, and with ease. And it looks li...",
+    "date": "Mon, 16 Nov 2026 13:20:30 +0000",
+    "link": "https://www.eurogamer.net/can-gta-6-make-2-billion-in-its-opening-weekend-one-industry-analyst-has-run-the-numbers-and-seems-to-think-so",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.51,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
     "id": 7,
-    "title": "Treyarch lays off lead Call of Duty writer and Zombies veteran after \"approximately 20 years\" of service",
+    "title": "The next Xbox, Project Helix, is a console and \"not a PC\" says Microsoft, as it clarifies that computational power isn't sole focus this time",
     "source": "Eurogamer",
-    "summary": "Treyarch's former Senior lead writer, Craig Houston, has been laid off after approximately 20 years of service with the developer. In a post made to both his Twitter/X account and LinkedIn, the developer thanked fans for their support during his two decades with the company and confirmed he was impa...",
-    "date": "Sun, 15 Nov 2026 15:14:10 +0000",
-    "link": "https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Blade Runner 2099 bosses hint at a possible \"triple-A\" Blade Runner game in the future - just don't expect it any time soon",
-    "source": "Eurogamer",
-    "summary": "Blade Runner 2099 - an upcoming TV miniseries coming to Amazon Prime Video, acting as a sequel to Blade Runner (1982) and Blade Runner 2049 (2017) - might be getting a video game. And a 'triple-A' video game, at that. At least that's according to Andrew Kosove and Broderick Johnson, executive produc...",
-    "date": "Sun, 15 Nov 2026 14:43:00 +0000",
-    "link": "https://www.eurogamer.net/blade-runner-2099-triple-a-talks",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.21,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "Netflix's Award-winning Dark Sci-fi Series is Officially Returning",
-    "source": "Polygon",
-    "summary": "Black Mirror's eighth season is currently in production for Netflix, with series creator Charlie Brooker returning to write and produce.",
-    "date": "Mon, 16 Nov 2026 04:20:17 GMT",
-    "link": "https://www.polygon.com/black-mirror-season-8-update-netflix/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.11,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "6 Upcoming Sci-Fi Movies, Ranked by Hype",
-    "source": "Polygon",
-    "summary": "Dune, Doom, and all the other theatrical sci-fi blockbusters headed to the big screen.",
-    "date": "Mon, 16 Nov 2026 04:00:17 GMT",
-    "link": "https://www.polygon.com/upcoming-sci-fi-movies-ranked-by-hype/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Marvel's Official Avengers: Doomsday Prep Launches on Nov. 18",
-    "source": "Polygon",
-    "summary": "Marvel revisits the Secret Wars event in new Incursion series with the X-Men and Fantastic Four ahead of Avengers: Doomsday",
-    "date": "Mon, 16 Nov 2026 03:09:17 GMT",
-    "link": "https://www.polygon.com/avengers-doomsday-marvel-comics-to-read-incursions-secret-wars/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "All 10 Zelda: Ocarina of Time Bosses, Ranked From Worst to Best",
-    "source": "Polygon",
-    "summary": "Not all The Legend of Zelda: Ocarina of Time bosses are equal. We've ranked all boss fights by challenge, design, and excitement.",
-    "date": "Mon, 16 Nov 2026 02:49:38 GMT",
-    "link": "https://www.polygon.com/legend-zelda-ocarina-time-bosses-ranked/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?",
-    "source": "PC Gamer",
-    "summary": "Quiet and unassuming, or loud and proud?",
-    "date": "Sun, 15 Nov 2026 18:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/world-of-warcraft/are-you-more-of-an-ambient-music-enjoyer-or-theatrical-atmosphere-appreciator/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.28,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "League of Legends will get an overhaul called New Dawn with new visuals, build options, and an updated client",
-    "source": "PC Gamer",
-    "summary": "\"We want League to stand the test of time.\"",
-    "date": "Sun, 15 Nov 2026 17:45:48 +0000",
-    "link": "https://www.pcgamer.com/games/moba/league-of-legends-will-get-an-overhaul-called-new-dawn-with-new-visuals-build-options-and-an-updated-client/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "The pandemic was transformative for Jackbox: 'We went from a gamer name to a household name'",
-    "source": "PC Gamer",
-    "summary": "\"People realized how easy it was to just share the screen over a Zoom call and everyone's playing.\"",
-    "date": "Sun, 15 Nov 2026 17:30:00 +0000",
-    "link": "https://www.pcgamer.com/games/the-pandemic-was-transformative-for-jackbox-we-went-from-a-gamer-name-to-a-household-name/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.43,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "YouTuber and comedian Ashens has 1,000 hours in Baldur's Gate 3 and reveals the worst retro game he's ever played: 'By the time you've hacked it to work, it's just no fun whatsoever'",
-    "source": "PC Gamer",
-    "summary": "The filmmaker and author of Terrible Old Games You've Probably Never Heard Of gives us a tour of his Steam library.",
-    "date": "Sun, 15 Nov 2026 17:00:00 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/youtuber-and-comedian-ashens-has-1-000-hours-in-baldurs-gate-3-and-reveals-the-worst-retro-game-hes-ever-played-by-the-time-youve-hacked-it-to-work-its-just-no-fun-whatsoever/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.49,
-      "badge": "danger"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "GTA 6 Is Like The Olympics – “A Rare Cultural Moment” With Massive Ripple Effects",
-    "source": "GameSpot",
-    "summary": "After years of development, multiple delays, and what can only be assumed to be one of the biggest production budgets ever, Rockstar's Grand Theft Auto 6 launches on November 19. The game is poised to \"blot out the sun,\" some experts believe, and its release looms so large that other gaming companie...",
-    "date": "Sun, 15 Nov 2026 03:00:00 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/",
+    "summary": "Microsoft has stressed that its next-generation Xbox console, Project Helix, \"is not a PC that can also play console games\", but rather \"a console that is also capable of playing games from your PC\". The company has also underlined the importance of using gen-AI-adjacent \"neural rendering\" technolog...",
+    "date": "Mon, 16 Nov 2026 12:08:40 +0000",
+    "link": "https://www.eurogamer.net/microsoft-project-helix-interview-details",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.07,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox",
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 18,
-    "title": "“Physical” GTA 6 Copies Might Be Vulnerable To A Very Stupid But Serious Trick",
-    "source": "GameSpot",
-    "summary": "Grand Theft Auto 6 ditched traditional discs for its \"physical\" launch, with Rockstar's game being sold as a digital code-in-box at retailers beginning this week. However, it appears a packaging choice may have accidentally left the game vulnerable to thieves--assuming they have a flashlight.\nAs sha...",
-    "date": "Fri, 13 Nov 2026 21:03:51 +0000",
-    "link": "https://www.gamespot.com/articles/physical-gta-6-copies-might-be-vulnerable-to-a-very-stupid-but-serious-trick/",
+    "id": 8,
+    "title": "Umamusume: Pretty Derby parent company plans to release seven new games by 2030 as it boasts an \"88 percent hit rate\" on its mobile titles",
+    "source": "Eurogamer",
+    "summary": "Cyberagent - the parent company of Umamusume: Pretty Derby developer Cygames - has boasted its recent successes in the mobile gaming sphere in a recent quarterly earnings presentation. Read more...",
+    "date": "Mon, 16 Nov 2026 11:20:50 +0000",
+    "link": "https://www.eurogamer.net/umamusume-dev-seven-new-games-2030",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.22,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.19,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 19,
-    "title": "GTA 6 Owner Take-Two Is Not Interested In Selling Itself After EA Goes Private For $55 Billion",
-    "source": "GameSpot",
-    "summary": "Recently, the gaming giant Electronic Arts was taken private in a $55 billion sale to an investor consortium led by Saudi Arabia's Public Investment Fund. Could GTA 6 owner Take-Two be the next big company that gets acquired? Don't bet on it, CEO Strauss Zelnick says. \nSpeaking to David Rubenstein, ...",
-    "date": "Fri, 13 Nov 2026 21:02:34 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-owner-take-two-is-not-interested-in-selling-itself-after-ea-goes-private-for-55-billion/",
+    "id": 9,
+    "title": "D&D’s World of Warcraft Book Fixes the RPG’s Biggest Endgame Issue",
+    "source": "Polygon",
+    "summary": "The WoW D&D book is full of high-level foes that show big design improvements in monster design.",
+    "date": "Mon, 16 Nov 2026 14:00:17 GMT",
+    "link": "https://www.polygon.com/dnd-world-of-warcraft-dungeons-dragons-monsters-high-cr-design-bosses/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Johnny Depp Tops the Box Office Again With Ebenezer's Opening Weekend",
+    "source": "Polygon",
+    "summary": "Despite mixed reviews from critics, Ebenezer's box office earnings reached $42 million during its opening weekend.",
+    "date": "Mon, 16 Nov 2026 13:36:00 GMT",
+    "link": "https://www.polygon.com/ebenezer-johnny-depp-box-office-opening-weekend/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.02,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 20,
-    "title": "GTA 6 Could Sell 55 Million Copies By Early Next Year, Report Says, And Average Selling Price Could Be $90",
-    "source": "GameSpot",
-    "summary": "Rockstar's Grand Theft Auto 6 launches on November 19, and it's expected to be a gigantic commercial success, but just how big will the launch be? Investor's Business Daily compiled data from a series of analyst reports about the game and its owner, Take-Two, and the consensus is that it's going to ...",
-    "date": "Fri, 13 Nov 2026 19:36:04 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-could-sell-55-million-copies-by-early-next-year-report-says-and-average-selling-price-could-be-90/",
+    "id": 11,
+    "title": "Final Fantasy 7 Remake Director Confirms He Doesn’t Let Fans’ Reactions Shape His Games",
+    "source": "Polygon",
+    "summary": "Director Naoki Hamaguchi reinforces the creative direction of 'Final Fantasy 7: Revelation' ahead of the game's launch in April 2027.",
+    "date": "Mon, 16 Nov 2026 13:24:55 GMT",
+    "link": "https://www.polygon.com/final-fantasy-7-director-naoki-hamaguchi/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.02,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Xbox Head of Next Gen Finally Explains What Project Helix Is: ‘It Is Not a PC’",
+    "source": "Polygon",
+    "summary": "Head of next gen at Xbox wants to add ROG Ally features, such as a unified library, multiple storefronts, and Xbox Mode to Project Helix.",
+    "date": "Mon, 16 Nov 2026 12:26:06 GMT",
+    "link": "https://www.polygon.com/xbox-project-helix-play-pc-games-library/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "World of Warcraft: Forever player turns their paladin into a near-unkillable healbot, solos a level 60 monster at level 30, and swims into the ocean",
+    "source": "PC Gamer",
+    "summary": "It took 20 minutes, though.",
+    "date": "Mon, 16 Nov 2026 14:34:01 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-player-turns-their-paladin-into-a-near-unkillable-healbot-solos-a-level-60-monster-at-level-30-and-swims-into-the-ocean/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Ashes of the Singularity 2 review: Some neat ideas undermined by a rubbish campaign and obtrusive generative AI",
+    "source": "PC Gamer",
+    "summary": "Ashes of the Singularity 2 delivers on gigantic battles, but not much else.",
+    "date": "Mon, 16 Nov 2026 14:01:32 +0000",
+    "link": "https://www.pcgamer.com/games/rts/ashes-of-the-singularity-2-review/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "'Game dev isn't always straightforward': Overwatch's director responds to players upset about season 6's hero being a DPS",
+    "source": "PC Gamer",
+    "summary": "We don't need any more supports right now.",
+    "date": "Mon, 16 Nov 2026 13:35:19 +0000",
+    "link": "https://www.pcgamer.com/games/fps/game-dev-isnt-always-straightforward-overwatchs-director-responds-to-players-upset-about-season-6s-hero-being-a-dps/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.19,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Intel hit with class action alleging it 'misled investors' – company's recent downturn due in part to how darn expensive PCs are right now",
+    "source": "PC Gamer",
+    "summary": "The company saw a large stock price decline just last week.",
+    "date": "Mon, 16 Nov 2026 13:28:40 +0000",
+    "link": "https://www.pcgamer.com/hardware/processors/intel-hit-with-class-action-alleging-it-misled-investors-companys-recent-downturn-due-in-part-to-how-darn-expensive-pcs-are-right-now/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "GTA 6 Promo At KFC Is A Fake Funeral So You Can Take The Day Off To Play",
+    "source": "GameSpot",
+    "summary": "The popular fried chicken chain KFC has announced a frankly absurd GTA 6 promotion: a fake funeral so people have a “legitimate” excuse to take the day off to play Rockstar’s latest.\nThe fake funeral for a woman, \"Ann Alibi,\" will take place Thursday, November 19 at 11 AM at KFC Robina in Queensland...",
+    "date": "Mon, 16 Nov 2026 13:42:12 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-promo-at-kfc-is-a-fake-funeral-so-you-can-take-the-day-off-to-play/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.19,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Xbox Is Looking For Smarter Ways To Stop Its Next Console From Costing A Fortune",
+    "source": "GameSpot",
+    "summary": "No one knows yet exactly what the next-gen Xbox console, Project Helix, will be, but most people are convinced it won't be cheap. The ongoing memory shortage has driven current-gen console prices skyward since 2024, with the Xbox Series X rising from $500 in 2020 to $800 in 2026. Project Helix is pr...",
+    "date": "Mon, 16 Nov 2026 13:40:05 +0000",
+    "link": "https://www.gamespot.com/articles/xbox-is-hoping-ai-can-stop-its-next-console-from-costing-a-fortune/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.29,
+      "badge": "success"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "GTA 6 Nearing 15 Million Copies Sold And $1.5 Billion In Revenue, And The Game Isn’t Even Out Yet",
+    "source": "GameSpot",
+    "summary": "The video game research company Sensor Tower has updated its GTA 6 sales tracker to reveal the latest, albeit unofficial, sales data for the open-world crime game. According to Sensor Tower, GTA 6 has now sold 14.94 million total units via pre-purchases, which works out to about $1.45 billion in gro...",
+    "date": "Wed, 04 Nov 2026 14:15:31 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.14,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 20,
+    "title": "GTA 6 Twitch Drops Are Coming Soon, Here’s How To Get Your Free Rewards",
+    "source": "GameSpot",
+    "summary": "While you might be tempted to take a spin through Grand Theft Auto 6 right now, you might want to hold your horses and watch some gameplay instead. Over on Twitch, the streaming platform is hosting a GTA 6 promotion that can earn you some cool Twitch cosmetics and goodies ahead of your trip to Vice ...",
+    "date": "Mon, 16 Nov 2026 12:14:18 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-twitch-drops/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.38,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
