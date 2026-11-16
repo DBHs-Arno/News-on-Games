@@ -1,15 +1,32 @@
 [
   {
     "id": 1,
-    "title": "Xbox Reveals Original and 360 Boot-Up Options for 25th Anniversary",
+    "title": "Jensen Huang Reportedly Weighing Return as Nvidia CEO With Allies",
     "source": "IGN",
-    "summary": "Microsoft has revealed three new nostalgic Xbox console boot-up options for Xbox Series X/S and Xbox One as part of a new update for the brand's 25th anniversary.",
-    "date": "Sun, 15 Nov 2026 20:31:38 +0000",
-    "link": "https://www.ign.com/articles/xbox-reveals-original-and-360-boot-up-options-for-25th-anniversary",
+    "summary": "Jensen Huang has reportedly had discussions with his allies about a potential return as Nvidia's CEO just days after reports of affairs with an alleged Chinese spy and multiple employees led to his resignation.",
+    "date": "Sun, 15 Nov 2026 23:53:35 +0000",
+    "link": "https://www.ign.com/articles/jensen-huang-reportedly-weighing-return-as-nvidia-ceo-with-allies",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.04,
+      "score": -0.03,
       "badge": "info"
+    },
+    "tags": [
+      "Nvidia"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Xbox Confirms Project Helix Is 'a Console Capable of Playing Games From Your PC'",
+    "source": "IGN",
+    "summary": "Xbox has confirmed Project Helix is \"designed to be a console capable of playing games from your PC.\"",
+    "date": "Sun, 15 Nov 2026 22:18:57 +0000",
+    "link": "https://www.ign.com/articles/xbox-confirms-project-helix-is-a-console-capable-of-playing-games-from-your-pc",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.27,
+      "badge": "success"
     },
     "tags": [
       "Xbox"
@@ -17,33 +34,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
-    "title": "GTA 6's Jason and Lucia Will Start as Small-Time Criminals Who Have to Work Up to High-Value Jobs",
-    "source": "IGN",
-    "summary": "GTA 6 will let Jason and Lucia pull off high-value jobs, but Rockstar Games asks players to work up from being small-time criminals first.",
-    "date": "Sun, 15 Nov 2026 19:41:28 +0000",
-    "link": "https://www.ign.com/articles/gta-6s-jason-and-lucia-will-start-as-small-time-criminals-who-have-to-work-up-to-high-value-jobs",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 3,
-    "title": "EA Adds 'Don't Delete' Message to Madden NFL 27 in Bid to Keep Players From Making Room Ahead of GTA 6",
+    "title": "The Best Deals Today: Control Resonant, Apple AirPods Pro 3, 4K Blu-ray Sales, and More",
     "source": "IGN",
-    "summary": "EA has added a \"don't delete\" pop-up message to Madden NFL 27, and players can't help but feel the company is begging them not to make room for Grand Theft Auto 6.",
-    "date": "Sun, 15 Nov 2026 17:22:20 +0000",
-    "link": "https://www.ign.com/articles/ea-adds-dont-delete-message-to-madden-nfl-27-in-bid-to-keep-players-from-making-room-ahead-of-gta-6",
+    "summary": "",
+    "date": "Sun, 15 Nov 2026 21:59:44 +0000",
+    "link": "https://www.ign.com/articles/best-deals-for-november-15-2026",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.5,
+      "score": 0.75,
       "badge": "success"
     },
     "tags": [
@@ -54,15 +53,15 @@
   },
   {
     "id": 4,
-    "title": "Xbox at 25: My Memories From Across Xbox’s Entire (and Quite Incredible) History",
+    "title": "Xbox Reveals Original and 360 Boot-Up Options for 25th Anniversary",
     "source": "IGN",
-    "summary": "I’ve been lucky enough to have a front-row seat for most of the Xbox’s 25 years, covering the high highs and low lows of Microsoft’s pivot into the living room. It’s been quite a ride since November 15, 2001, and I wanted to mark the occasion by sharing some of my biggest memories with you. And, lik...",
-    "date": "Sun, 15 Nov 2026 15:15:00 +0000",
-    "link": "https://www.ign.com/articles/xbox-at-25-my-memories-from-across-xboxs-entire-and-quite-incredible-history",
+    "summary": "Microsoft has revealed three new nostalgic Xbox console boot-up options for Xbox Series X/S and Xbox One as part of a new update for the brand's 25th anniversary.",
+    "date": "Sun, 15 Nov 2026 20:31:38 +0000",
+    "link": "https://www.ign.com/articles/xbox-reveals-original-and-360-boot-up-options-for-25th-anniversary",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.27,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.04,
+      "badge": "info"
     },
     "tags": [
       "Xbox"
@@ -141,14 +140,14 @@
   },
   {
     "id": 9,
-    "title": "Prime Video's Near-Perfect Game of Thrones Replacement Officially Arrives in 2 Months",
+    "title": "Netflix's Award-winning Dark Sci-fi Series is Officially Returning",
     "source": "Polygon",
-    "summary": "Time to start sharpening your bloodaxe...",
-    "date": "Sun, 15 Nov 2026 21:25:25 GMT",
-    "link": "https://www.polygon.com/blood-axe-prime-video-episode-1-review/",
+    "summary": "Black Mirror's eighth season is currently in production for Netflix, with series creator Charlie Brooker returning to write and produce.",
+    "date": "Mon, 16 Nov 2026 04:20:17 GMT",
+    "link": "https://www.polygon.com/black-mirror-season-8-update-netflix/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.4,
+      "score": -0.11,
       "badge": "danger"
     },
     "tags": [
@@ -159,32 +158,33 @@
   },
   {
     "id": 10,
-    "title": "Zelda: Ocarina of Time’s No. 1 cause of death officially revealed",
+    "title": "6 Upcoming Sci-Fi Movies, Ranked by Hype",
     "source": "Polygon",
-    "summary": "The most modern thing about the Zelda remake might just be its mobile app.",
-    "date": "Sun, 15 Nov 2026 20:20:50 GMT",
-    "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-mobile-app-deaths/",
+    "summary": "Dune, Doom, and all the other theatrical sci-fi blockbusters headed to the big screen.",
+    "date": "Mon, 16 Nov 2026 04:00:17 GMT",
+    "link": "https://www.polygon.com/upcoming-sci-fi-movies-ranked-by-hype/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.35,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.04,
+      "badge": "info"
     },
     "tags": [
-      "Remake"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "17 Years Ago, the Longest Running Sci-Fi Show Flipped Its Core Concept On Its Head",
+    "title": "Marvel's Official Avengers: Doomsday Prep Launches on Nov. 18",
     "source": "Polygon",
-    "summary": "David Tennant is king when it comes to giving complex performances. His best is in the Doctor Who episode 'The Water of Mars.'",
-    "date": "Sun, 15 Nov 2026 20:00:18 GMT",
-    "link": "https://www.polygon.com/doctor-who-the-waters-of-mars-17th-anniversary-retrospective/",
+    "summary": "Marvel revisits the Secret Wars event in new Incursion series with the X-Men and Fantastic Four ahead of Avengers: Doomsday",
+    "date": "Mon, 16 Nov 2026 03:09:17 GMT",
+    "link": "https://www.polygon.com/avengers-doomsday-marvel-comics-to-read-incursions-secret-wars/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.35,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -194,18 +194,19 @@
   },
   {
     "id": 12,
-    "title": "Nintendo Switch 2 Is Finally Getting Capcom’s Fastest-Selling Game Ever",
+    "title": "All 10 Zelda: Ocarina of Time Bosses, Ranked From Worst to Best",
     "source": "Polygon",
-    "summary": "Monster Hunter Wilds is coming to Switch 2, just in time for the holiday season. And it's also a cool 25% off ahead of launch.",
-    "date": "Sun, 15 Nov 2026 19:00:17 GMT",
-    "link": "https://www.polygon.com/monster-hunter-wilds-nintendo-switch-2-release-date/",
+    "summary": "Not all The Legend of Zelda: Ocarina of Time bosses are equal. We've ranked all boss fights by challenge, design, and excitement.",
+    "date": "Mon, 16 Nov 2026 02:49:38 GMT",
+    "link": "https://www.polygon.com/legend-zelda-ocarina-time-bosses-ranked/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.02,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Nintendo"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
