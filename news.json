@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Spider-Man: Brand New Day Re-Release With New Footage Sets December Release Date, Tickets on Sale This Week",
+    "title": "Warnings, Encouragement, and Gift Cards: How Schools Are Preparing for Mass Absences on GTA 6 Launch Day",
     "source": "IGN",
-    "summary": "Marvel Studios has revealed the release date for its Spider-Man: Brand New Day re-release, promising to bring new footage \"and a couple more surprises\" to theaters this December.",
-    "date": "Tue, 17 Nov 2026 00:18:08 +0000",
-    "link": "https://www.ign.com/articles/spider-man-brand-new-day-re-release-with-new-footage-sets-december-release-date-tickets-on-sale-this-week",
+    "summary": "As GTA 6 launch day nears, schools are preparing for mass absences among pupils by issuing warnings to parents — and offering children the chance to win gift cards just for turning up.",
+    "date": "Tue, 17 Nov 2026 13:32:25 +0000",
+    "link": "https://www.ign.com/articles/warnings-encouragement-and-gift-cards-how-schools-are-preparing-for-mass-absences-on-gta-6-launch-day",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.21,
+      "score": 0.8,
       "badge": "success"
     },
     "tags": [
@@ -19,15 +19,15 @@
   },
   {
     "id": 2,
-    "title": "The \"Next James Bond\" Actors Who Never Played James Bond",
+    "title": "Elsinore Review",
     "source": "IGN",
-    "summary": "While there have only been seven actors to have been officially cast as 007, there have been dozens the media has erroneously labeled as “the next James Bond.”",
-    "date": "Mon, 16 Nov 2026 23:42:00 +0000",
-    "link": "https://www.ign.com/articles/next-james-bond-actors-idris-elba-tom-hardy-callum-turner-jack-lowden-007",
+    "summary": "Elsinore review: A hollow quest for an award for star Andrew Scott.",
+    "date": "Tue, 17 Nov 2026 13:00:00 +0000",
+    "link": "https://www.ign.com/articles/elsinore-review",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.12,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -37,69 +37,66 @@
   },
   {
     "id": 3,
-    "title": "Former James Bond Actor George Lazenby Gives Robert Pattinson Advice After Batman Star Scores Iconic Role",
+    "title": "Nintendo Suffers Rare Review Bombing For Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy",
     "source": "IGN",
-    "summary": "George Lazenby, who formerly portrayed James Bond, is giving Robert Pattinson some sage advice after the Batman actor scored the historic and highly coveted role.",
-    "date": "Mon, 16 Nov 2026 23:38:10 +0000",
-    "link": "https://www.ign.com/articles/former-james-bond-actor-george-lazenby-gives-robert-pattinson-advice-after-batman-star-scores-iconic-role",
+    "summary": "Nintendo fans are hitting the company with a rare review bombing campaign, to register their dissatisfaction with Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy.",
+    "date": "Tue, 17 Nov 2026 12:29:05 +0000",
+    "link": "https://www.ign.com/articles/nintendo-suffers-rare-review-bombing-for-pikmin-4-nintendo-switch-2-edition-dandori-academy",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.13,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Subway Is Releasing a GTA 6-Themed Sandwich, but There's a Catch",
+    "title": "The Impossible Mission of Getting GTA 5's Seamless Character Switching Working on PS3 and Xbox 360",
     "source": "IGN",
-    "summary": "Subway is getting on the GTA 6 hype train with a sandwich themed after the highly anticipated game.",
-    "date": "Mon, 16 Nov 2026 23:30:01 +0000",
-    "link": "https://www.ign.com/articles/subway-is-releasing-a-gta-6-themed-sandwich-but-theres-a-catch",
+    "summary": "How a former Rockstar developer made GTA 5's seamless character switching work on PS3 and Xbox 360.",
+    "date": "Tue, 17 Nov 2026 12:14:00 +0000",
+    "link": "https://www.ign.com/articles/gta-5s-seamless-character-switching-working-ps3-xbox-360",
     "sentiment": {
       "label": "Critical / Mixed",
       "score": -0.12,
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
-    "title": "Star Wars: Galactic Racer is getting much-requested split-screen multiplayer and new mode in 2027",
+    "title": "The Legend of Zelda: Ocarina of Time on Switch 2 is the US' best-selling physical game so far this year",
     "source": "Eurogamer",
-    "summary": "The surprisingly awesome arcade podracing game Star Wars: Galactic Racer is getting split-screen multiplayer next year after loud fan requests, developer Fuse Games has announced. Read more...",
-    "date": "Mon, 16 Nov 2026 19:38:20 +0000",
-    "link": "https://www.eurogamer.net/star-wars-galactic-racer-split-screen-multiplayer",
+    "summary": "The very popular and critically-acclaimed The Legend of Zelda: Ocarina of Time remake has set another record. After selling 5.2m copies in four days and becoming the Switch 2's fastest-selling game, Ocarina of Time has now been revealed to also be a major seller at retail. Read more...",
+    "date": "Tue, 17 Nov 2026 14:20:30 +0000",
+    "link": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.22,
+      "score": 0.14,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Remake"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 6,
-    "title": "Original GTA 6 leaker pleads guilty to hacking Rockstar Games, years after first revealing Lucia",
+    "title": "Call of Duty might have swapped guns and tanks for knights and swords if an Infinity Ward experiment had panned out",
     "source": "Eurogamer",
-    "summary": "The 21-year-old responsible for hacking Rockstar Games and leaking in-development GTA 6 footage in 2022 has pleaded guilty to a number of offenses. Read more...",
-    "date": "Mon, 16 Nov 2026 18:51:40 +0000",
-    "link": "https://www.eurogamer.net/gta-6-leaker-pleads-guilty",
+    "summary": "As much as Call of Duty is criticised for delivering the same thing every year, reports occasionally surface of attempts to take the series in bold new directions, even if none of these experiments have so far seen the light of day. And it turns out a medieval Call of Duty was also explored at one t...",
+    "date": "Tue, 17 Nov 2026 12:49:20 +0000",
+    "link": "https://www.eurogamer.net/call-of-duty-medieval-prototype-infinity-ward",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -109,33 +106,32 @@
   },
   {
     "id": 7,
-    "title": "UK Conservative leader Kemi Badenoch is more worried \"about the amount of time\" people will spend on GTA 6 than the game's violent content",
+    "title": "Is it time to retire Dragon Quest as a series? Chrono Trigger composer Yasunori Mitsuda thinks it might be",
     "source": "Eurogamer",
-    "summary": "Leader of the UK Conservative Party (and former Mortal Kombat player) Kemi Badenoch is more worried about the amount of time people will spend playing GTA 6 rather than the game itself. Read more...",
-    "date": "Mon, 16 Nov 2026 17:48:40 +0000",
-    "link": "https://www.eurogamer.net/uk-conservative-kemi-badenoch-gta-6",
+    "summary": "Chrono Trigger composer Yasunori Mitsuda thinks it may be time for Square Enix to retire Dragon Quest, while reflecting on the direction of the popular RPG series after Akira Toriyama's death. The mangaka, whose art and distinct style were foundational to Chrono Trigger and Chrono Cross - and are st...",
+    "date": "Tue, 17 Nov 2026 12:27:00 +0000",
+    "link": "https://www.eurogamer.net/dragon-quest-series-composer-akira-toriyama",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.01,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.3,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "RPG"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 8,
-    "title": "World of Warcraft: Forever completionists push back as Blizzard gives them a powerful toy and then prepares to take it away",
+    "title": "\"Encouraging players to return is no mean feat\" - Square Enix tempts Final Fantasy 14 players back with free game-time to fill void before new expansion",
     "source": "Eurogamer",
-    "summary": "With the launch of World of Warcraft: Forever there's a whole new world filled with niche gear and strange baubles to collect. But one item in particular has drawn the ire of the creators of a popular completionist add-on. Read more...",
-    "date": "Mon, 16 Nov 2026 16:43:10 +0000",
-    "link": "https://www.eurogamer.net/world-of-warcraft-forever-toy-pouch-of-violent-dust",
+    "summary": "Final Fantasy 14 is between expansions at the moment, with Evercold preparing for release in February. So, in order to keep the game populated for the next few months, Square Enix is running a special promotion in hopes of tempting players back in. Read more...",
+    "date": "Tue, 17 Nov 2026 11:48:50 +0000",
+    "link": "https://www.eurogamer.net/final-fantasy-14-free--game-time-expansion-evercold",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
     },
     "tags": [
       "Gaming",
@@ -145,50 +141,14 @@
   },
   {
     "id": 9,
-    "title": "'Avengers: Doomsday' Star Says He Was Lied to About His Next Big Role",
+    "title": "Lord of the Rings Returns to Theaters Next Week to Reveal an Iconic Moment",
     "source": "Polygon",
-    "summary": "\"I would have never taken this job\"",
-    "date": "Tue, 17 Nov 2026 00:00:17 GMT",
-    "link": "https://www.polygon.com/anthony-mackie-jamie-dornan-interview-12-12-12/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "How 2026's Best Video Games Were Made",
-    "source": "Polygon",
-    "summary": "Ahead of The Game Awards Game of the Year nominees, creatives behind Resident Evil, Control, Star Wars, and Pragmata pull back the curtain",
-    "date": "Mon, 16 Nov 2026 23:00:19 GMT",
-    "link": "https://www.polygon.com/2026-games-of-the-year-how-were-made/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.2,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "Anne Hathaway's 100-Minute Sci-Fi Thriller Takes Over Streaming After HBO Max Debut",
-    "source": "Polygon",
-    "summary": "The End of Oak Street has become an HBO Max streaming hit, giving Anne Hathaway another 2026 success.",
-    "date": "Mon, 16 Nov 2026 20:55:24 GMT",
-    "link": "https://www.polygon.com/end-of-oak-street-streaming-hbo-max-november-2026/",
+    "summary": "Amazon’s Rings of Power season 3 will come to the big screen to show the forging of the One Ring",
+    "date": "Tue, 17 Nov 2026 15:13:43 GMT",
+    "link": "https://www.polygon.com/amazon-rings-of-power-season-3-one-ring-episode-theatrical-release/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.3,
+      "score": 0.17,
       "badge": "success"
     },
     "tags": [
@@ -198,12 +158,30 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "Netflix Officially Confirms 3 Body Problem Returns in 2027",
+    "id": 10,
+    "title": "Magic: The Gathering’s New Commander Decks Offer Less for the Same Price",
     "source": "Polygon",
-    "summary": "Season 2 of 3 Body Problem finally has a release date, nearly three years after the Netflix hard sci-fi thriller series debuted.",
-    "date": "Mon, 16 Nov 2026 20:46:55 GMT",
-    "link": "https://www.polygon.com/netflix-3-body-problem-season-2-release-date-2027/",
+    "summary": "MTG Nauctis Commander decks will no longer feature borderless cards, but one of these Commanders is a powerhouse.",
+    "date": "Tue, 17 Nov 2026 15:08:28 GMT",
+    "link": "https://www.polygon.com/mtg-nauctis-sunken-realm-commander-deck-leaks-ignoble-serpent/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "The Witcher 3 Is About to Get a Big Change to the Series’ Formula",
+    "source": "Polygon",
+    "summary": "The Witcher 3: Songs of the Past will have a very different atmosphere, according to CD Projekt Red.",
+    "date": "Tue, 17 Nov 2026 15:05:49 GMT",
+    "link": "https://www.polygon.com/the-witcher-3-songs-of-the-past-changes/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": -0.06,
@@ -216,33 +194,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 13,
-    "title": "That 007 First Light theme song I didn't like is up for a Grammy Award",
-    "source": "PC Gamer",
-    "summary": "Well, there's no accounting for taste.",
-    "date": "Mon, 16 Nov 2026 22:34:55 +0000",
-    "link": "https://www.pcgamer.com/games/action/that-007-first-light-theme-song-i-didnt-like-is-up-for-a-grammy-award/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.33,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Gabe Newell stuns superyacht enthusiasts by treating crew like human beings: 'That is something we've never really seen before in our industry'",
-    "source": "PC Gamer",
-    "summary": "The crew retention on Newell's boats is six times the average on other superyachts.",
-    "date": "Mon, 16 Nov 2026 22:05:57 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/gabe-newell-stuns-superyacht-enthusiasts-by-treating-crew-like-human-beings-that-is-something-weve-never-really-seen-before-in-our-industry/",
+    "id": 12,
+    "title": "Star Wars Showrunner Officially Challenges Disney to Continue His Story: \"I Left Them with a Baby\"",
+    "source": "Polygon",
+    "summary": "Tony Gilroy won't be returning to Star Wars anytime soon, but sees a future for 'Andor' to continue under Lucasfilm.",
+    "date": "Tue, 17 Nov 2026 14:44:34 GMT",
+    "link": "https://www.polygon.com/star-wars-andor-could-continue-tony-gilroy-interview/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.09,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
@@ -252,15 +212,68 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "Trump supports Jensen Huang's return as Nvidia CEO, but it doesn't sound like the board is interested",
+    "id": 13,
+    "title": "TCL CSOT's new OLED panels might not only be cheaper, but also have high refresh rates and hassle-free pixel burn-in compensation",
     "source": "PC Gamer",
-    "summary": "The US president doesn't seem too concerned about the potential risks to US national security: \"I think he learned a big lesson, I guess.\"",
-    "date": "Mon, 16 Nov 2026 21:13:07 +0000",
-    "link": "https://www.pcgamer.com/software/ai/trump-supports-jensen-huangs-return-as-nvidia-ceo-but-it-doesnt-sound-like-the-board-is-interested/",
+    "summary": "They might not even need you to wait for pixel compensation cycles.",
+    "date": "Tue, 17 Nov 2026 15:22:45 +0000",
+    "link": "https://www.pcgamer.com/hardware/gaming-monitors/tcl-csots-new-oled-panels-might-not-only-be-cheaper-but-also-have-high-refresh-rates-and-hassle-free-pixel-burn-in-compensation/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Twitchers rejoice: GTA 6 will have 62 different species of birds, though that falls a bit short of the over 500 native species found in Florida",
+    "source": "PC Gamer",
+    "summary": "They better have a Snowy Plover.",
+    "date": "Tue, 17 Nov 2026 14:35:57 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/twitchers-rejoice-gta-6-will-have-62-different-species-of-birds-though-that-falls-a-bit-short-of-the-over-500-native-species-found-in-florida/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.16,
+      "score": 0.17,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "AMD introduces Capacity Aware Scheduling to the Linux kernel, which sure is the thing I'd do if I were introducing Zen 6 LP cores next year",
+    "source": "PC Gamer",
+    "summary": "Any way that more efficiently uses cores has the thumbs up from me.",
+    "date": "Tue, 17 Nov 2026 13:12:39 +0000",
+    "link": "https://www.pcgamer.com/hardware/processors/amd-introduces-capacity-aware-scheduling-to-the-linux-kernel-which-sure-is-the-thing-id-do-if-i-were-introducing-zen-6-lp-cores-next-year/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.31,
+      "badge": "success"
+    },
+    "tags": [
+      "AMD"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Nvidia tightens up control of its own national security policies as it cozies up to US government with new board-controlled committee",
+    "source": "PC Gamer",
+    "summary": "Another committee for the committee pile.",
+    "date": "Tue, 17 Nov 2026 12:55:30 +0000",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-tightens-up-control-of-its-own-national-security-policies-as-it-cozies-up-to-us-government-with-new-board-controlled-committee/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.37,
       "badge": "success"
     },
     "tags": [
@@ -269,12 +282,48 @@
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "GTA 6 online rumors: When might the inevitable multiplayer launch happen?",
-    "source": "PC Gamer",
-    "summary": "Despite no official word on the subject, we aren't buying that there's no GTA 6 online.",
-    "date": "Mon, 16 Nov 2026 20:57:03 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-online-multiplayer/",
+    "id": 17,
+    "title": "New Ubisoft Boss Wants Studio To Become “A24 Of Video Games”",
+    "source": "GameSpot",
+    "summary": "Ubisoft recently hired games industry veteran Christoph Hartmann to become the general manager of Creative House 2. In a new interview, Hartmann talked about his hopes for the unit, saying his dream would be for it to become \"like the A24 of video games.\"\nHe told Variety that what he means by this i...",
+    "date": "Tue, 17 Nov 2026 14:28:18 +0000",
+    "link": "https://www.gamespot.com/articles/new-ubisoft-boss-wants-studio-to-become-a24-of-video-games/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Ocarina Of Time Is 2026’s Best-Selling Physical Game In The US, But GTA 6 Is Coming",
+    "source": "GameSpot",
+    "summary": "Nintendo's The Legend of Zelda: Ocarina of Time remake for Switch 2 is the best-selling physical game of 2026, according to Circana, but GTA 6 is coming out soon and could topple that record.\nCircana's Mat Piscatella said the Ocarina of Time remake for Switch 2 was the first game to surpass 1 millio...",
+    "date": "Tue, 17 Nov 2026 14:22:55 +0000",
+    "link": "https://www.gamespot.com/articles/ocarina-of-time-is-2026s-best-selling-physical-game-in-the-us-but-gta-6-is-coming/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.16,
+      "badge": "danger"
+    },
+    "tags": [
+      "Nintendo",
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "GTA 6 Nearing 16 Million Copies Sold And Passes $1.5 Billion In Revenue",
+    "source": "GameSpot",
+    "summary": "The video game research company Sensor Tower has updated its GTA 6 sales tracker to reveal the latest, albeit unofficial, sales data for the open-world crime game. According to Sensor Tower, GTA 6 has now sold 15.88 million total units via pre-purchases, which works out to about $1.54 billion in gro...",
+    "date": "Wed, 04 Nov 2026 14:15:31 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": -0.08,
@@ -287,73 +336,20 @@
     "read_time": "1 min read"
   },
   {
-    "id": 17,
-    "title": "Delete GTA 6 For A Chance To Win Another Game",
-    "source": "GameSpot",
-    "summary": "Rockstar's Grand Theft Auto 6 finally releases this week. The game looms so large that other companies are using it to market their own games, including Devolver Digital. \nThe publisher has announced that people can enter for a chance to win their upcoming game, Volvy's Adventure: Reslimed, by repos...",
-    "date": "Mon, 16 Nov 2026 20:27:02 +0000",
-    "link": "https://www.gamespot.com/articles/delete-gta-6-for-a-chance-to-win-another-game/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "The Head Of GTA 6’s Parent Company Helped Make One Of The Best Christmas Movies Of All Time",
-    "source": "GameSpot",
-    "summary": "One of the most memorable and beloved Christmas movies is 1990's Home Alone, but it almost didn't happen, and the head of GTA 6's parent company played a role in bringing the movie to market.\nStrauss Zelnick, the current CEO of Rockstar Games owner Take-Two, was the president and COO of 20th Century...",
-    "date": "Mon, 16 Nov 2026 19:35:04 +0000",
-    "link": "https://www.gamespot.com/articles/the-head-of-gta-6s-parent-company-helped-make-one-of-the-best-christmas-movies-of-all-time/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.45,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "WoW: Forever’s Dungeons Have Gotten Yet Another Big Change",
-    "source": "GameSpot",
-    "summary": "World of Warcraft: Forever's dungeons have changed once again, with developer Blizzard's most recent adjustment requiring an emergency hotfix to address players' outcry.\nDungeons, specifically how much experience points players earn from them, have been one of Forever's most debated topics going bac...",
-    "date": "Mon, 16 Nov 2026 18:56:57 +0000",
-    "link": "https://www.gamespot.com/articles/wow-forevers-dungeons-have-gotten-yet-another-big-change/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.22,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 20,
-    "title": "GTA 6 Should Help Boost PS5 And Xbox Sales, But Their Astronomical Prices Could Hurt",
+    "title": "Sony Is Updating The PS5 Again, And It Might Have GTA 6 Pirates In Mind",
     "source": "GameSpot",
-    "summary": "Rockstar's Grand Theft Auto 6 launches on November 19, and it's expected to help boost console sales for PS5 and Xbox Series X|S. But the uptick in hardware sales might not be as dramatic as you might think--and there is a good reason why. \nAccording to Circana's Mat Piscatella, there will be \"proba...",
-    "date": "Mon, 16 Nov 2026 17:23:51 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-should-help-boost-ps5-and-xbox-sales-but-their-astronomical-prices-could-hurt/",
+    "summary": "A new PS5 firmware update has dropped, but even at a chunky 1.2GB download, version 26.07-14.23.00 doesn't include a comprehensive list of notes.\n\"We've made some security fixes to the system software,\" the very short update notes read. Notably, this is the fourth PS5 firmware update since October 1...",
+    "date": "Tue, 17 Nov 2026 13:01:53 +0000",
+    "link": "https://www.gamespot.com/articles/sony-is-updating-the-ps5-again-and-it-might-have-gta-6-pirates-in-mind/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.17,
+      "score": 0.16,
       "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
