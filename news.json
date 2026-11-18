@@ -1,32 +1,159 @@
 [
   {
     "id": 1,
-    "title": "Amazon Slashes $10 off Control Resonant in Early Black Friday Sale, Dropping to Its Lowest Price Yet",
+    "title": "Alienware's 39\" 5K Monitor With RGB Stripe Tandem OLED Technology Hits a New Price Low for Black Friday",
     "source": "IGN",
-    "summary": "Control Resonant (on PS5 and Xbox Series X) has been discounted to $50 at Amazon in early Black Friday sales. That's $10 off its MSRP and marks its lowest price yet.",
-    "date": "Wed, 18 Nov 2026 13:01:17 +0000",
-    "link": "https://www.ign.com/articles/amazon-slashes-10-off-control-resonant-in-early-black-friday-sale-dropping-to-its-lowest-price-yet",
+    "summary": "A monitor that excels at both gaming and workstation productivity.",
+    "date": "Wed, 18 Nov 2026 22:05:00 +0000",
+    "link": "https://www.ign.com/articles/alienware-aw3926qw-39-5k-oled-gaming-monitor-deal-november-2026",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.03,
+      "score": -0.01,
       "badge": "info"
     },
     "tags": [
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "GTA 6 Will Never Get a 60fps Update on PlayStation Pro as It's 'Not Powerful Enough'",
+    "title": "A GTA 6 Location Was Teased by Rockstar All the Way Back in 2021 — And What's Inside Was Worth the Wait",
     "source": "IGN",
-    "summary": "There's bad news for any GTA 6 fans still hoping for a 60fps option on PlayStation 5 Pro.",
-    "date": "Wed, 18 Nov 2026 12:50:38 +0000",
-    "link": "https://www.ign.com/articles/gta-6-will-never-get-a-60fps-update-on-playstation-pro-as-its-not-powerful-enough",
+    "summary": "In 2021, Rockstar fans believed that a GTA 6 screenshot was snuck into the GTA trilogy collection, but there's more to this theory than meets the eye.",
+    "date": "Wed, 18 Nov 2026 20:56:31 +0000",
+    "link": "https://www.ign.com/articles/a-gta-6-location-was-teased-by-rockstar-all-the-way-back-in-2021-and-whats-inside-was-worth-the-wait",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.28,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.27,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "Burger King’s Chocolate Whopper Prank Is Being Turned Into a Real Burger",
+    "source": "IGN",
+    "summary": "",
+    "date": "Wed, 18 Nov 2026 20:22:04 +0000",
+    "link": "https://www.ign.com/articles/burger-kings-chocolate-whopper-prank-is-being-turned-into-a-real-burger",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "DevGamm Awards 2026 Winners Revealed",
+    "source": "IGN",
+    "summary": "The 3rd annual DevGAMM Awards took place today, November 18, in Lisbon, Portugal, and celebrated 70 nominated games from 25 countries across 17 award categories. You can check out all of the winners right here, including Phonopolis, the game that led the way by securing both the Grand Prize and Exce...",
+    "date": "Wed, 18 Nov 2026 20:00:00 +0000",
+    "link": "https://www.ign.com/articles/devgamm-awards-2026-winners-revealed",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "GTA 6's Japanese version only partially obscures male nudity by putting Jason in a thong, seemingly due to regional censorship",
+    "source": "Eurogamer",
+    "summary": "GTA 6 is slowly rolling out across the globe. The crime epic's already available to play in countries such as South Korea and New Zealand, but Japanese players are finding out that male nudity is only partially obscured by a thin black thong that covers Jason and the other men in Leonida. Read more...",
+    "date": "Wed, 18 Nov 2026 20:40:20 +0000",
+    "link": "https://www.eurogamer.net/gta-6-japanese-jason-thong-regional-censorship",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.01,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Delete GTA 6 from your hard drive and indie publisher Devolver Digital might give you a free game",
+    "source": "Eurogamer",
+    "summary": "GTA 6 is out at midnight everywhere (19th November), but it's far from the only game in town. Indie publisher Devolver Digital is taking on the open-world behemoth with its very own Volvy's Adventure: Reslimed, out the same day, and you can win a free copy of the platformer by proving you've deleted...",
+    "date": "Wed, 18 Nov 2026 19:08:20 +0000",
+    "link": "https://www.eurogamer.net/delete-gta-6-free-game-devolver-digital",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "GTA 6 won't let you use cheats until you complete the main story, and locks progression when you do",
+    "source": "Eurogamer",
+    "summary": "Here's a twist: you can't use cheats in Grand Theft Auto 6 until you complete the entire game's main story. Read more...",
+    "date": "Wed, 18 Nov 2026 18:42:20 +0000",
+    "link": "https://www.eurogamer.net/gta-6-no-cheats-until-completing-main-story",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Even the PS5 Pro is \"not powerful enough\" to run GTA 6 at 60FPS or 40FPS, Rockstar says",
+    "source": "Eurogamer",
+    "summary": "Don't expect GTA 6 to get an update supporting higher framerate modes, at least, not on current-generation consoles. Rockstar has explained that even the most powerful console of the bunch, the PS5 Pro, isn't powerful enough to run the lavish game at 40FPS or 60FPS. Read more...",
+    "date": "Wed, 18 Nov 2026 18:17:50 +0000",
+    "link": "https://www.eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "PlayStation Network Outage Hits On GTA 6 Release Day Eve",
+    "source": "Polygon",
+    "summary": "PS5 users are reporting widespread technical issues during GTA 6's window as millions try and download Rockstar's open-world shooter.",
+    "date": "Wed, 18 Nov 2026 21:03:51 GMT",
+    "link": "https://www.polygon.com/gta-6-is-psn-down-detector-account-services-busy-server-connection-error/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
       "PlayStation"
@@ -34,322 +161,196 @@
     "read_time": "1 min read"
   },
   {
-    "id": 3,
-    "title": "GTA 6 Uses FSR 4.1 on Xbox Series S to Upscale From 720p to 1080p",
-    "source": "IGN",
-    "summary": "GTA 6 is finally here, and it's genuinely a technical marvel on all of the consoles it's running on. It's particularly impressive that the Xbox Series S can even run the thing, and now we know a bit more about how Rockstar was able to pull it off.",
-    "date": "Wed, 18 Nov 2026 12:24:45 +0000",
-    "link": "https://www.ign.com/articles/gta-6-uses-fsr-41-on-xbox-series-s-to-upscale-from-720p-to-1080p",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "GTA 6 Xbox Series S Performance: How Does the Weakest Console Handle the Biggest Game of All Time?",
-    "source": "IGN",
-    "summary": "GTA 6 is finally here, and one of the biggest questions heading up to launch is how well the Xbox Series S would handle the game – well, I've finally had the chance to play the game on the tiny Xbox.",
-    "date": "Wed, 18 Nov 2026 12:20:39 +0000",
-    "link": "https://www.ign.com/articles/gta-6-xbox-series-s-performance",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.2,
-      "badge": "danger"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "You cannot replay missions in GTA 6, but you can use multiple save files, as Rockstar explains how it made missions \"harder to fail\"",
-    "source": "Eurogamer",
-    "summary": "You cannot replay GTA 6 missions again once you've completed them. This might be a shock to some people, since the option to do so was included in Rockstar games as recently as GTA 5, but here once you've made progress in the story, that's it. Our reviewer confirmed this in his 100+ hour playthrough...",
-    "date": "Wed, 18 Nov 2026 14:24:00 +0000",
-    "link": "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Infinity Nikki fans threaten to boycott game after promotion by Elon Musk's mother, but there may be a genuine reason for her involvement",
-    "source": "Eurogamer",
-    "summary": "Infinity Nikki, the free-to-play, cozy, open-world dress-up game, is at the centre of controversy again, though this time not because fans disliked one of the game's updates. Instead, it's because of… Elon Musk's mother. Read more...",
-    "date": "Wed, 18 Nov 2026 14:14:50 +0000",
-    "link": "https://www.eurogamer.net/infinity-nikki-elon-musk-maye-mother-fan-reaction",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.1,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Mindseye developer Build a Rocket Boy - founded by ex-GTA veteran - has a mountain of debt, and the main plan for paying it back is litigation",
-    "source": "Eurogamer",
-    "summary": "Beleaguered Mindseye developer Build a Rocket Boy - the company created by former Rockstar and Grand Theft Auto producer Leslie Benzies - apparently owes approximately £62 million in debt. And a huge chunk of that appears to be owed to Chinese gaming company NetEase (£36.5m), though more than £1m ap...",
-    "date": "Wed, 18 Nov 2026 14:05:30 +0000",
-    "link": "https://www.eurogamer.net/build-a-rocket-boy-mindseye-debt-administration-litigation",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Clair Obscur's narrative lead has left developer Sandfall Interactive after \"wrapping up some final stuff for Expedition\"",
-    "source": "Eurogamer",
-    "summary": "Last night, it was revealed that Clair Obscur: Expedition 33's lead narrative designer, Jennifer Svedberg-Yen, won a BAFTA Breakthrough US award for her contribution to the hit 2025 game, which made history after winning 12 Game Award nominations last year. In the aftermath of her win, Svedberg-Yen ...",
-    "date": "Wed, 18 Nov 2026 12:18:10 +0000",
-    "link": "https://www.eurogamer.net/clair-obscur-jennifer-svedberg-yen-bafta-fund-new-talent",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "GTA 6 Sets New Record As Highest-Rated Video Game of All Time",
-    "source": "Polygon",
-    "summary": "Grand Theft Auto 6 is here and critics say it's one of the best games of all time, based on its 99 Metacritic score.",
-    "date": "Wed, 18 Nov 2026 15:00:27 GMT",
-    "link": "https://www.polygon.com/gta-6-highest-rated-game-all-time-metacritic-review-score/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.31,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 10,
-    "title": "GTA 6 Really Is Better On PS5 Than Xbox",
+    "title": "2026's Most Viral Movie with 97 Rotten Tomatoes Score Sets Streaming Date",
     "source": "Polygon",
-    "summary": "Sony's aggressive Grand Theft Auto 6 marketing campaign wasn't without merit. GTA 6's DualSense integration makes it feel like a PS5 exclusive.",
-    "date": "Wed, 18 Nov 2026 15:00:18 GMT",
-    "link": "https://www.polygon.com/gta-6-ps5-vs-xbox/",
+    "summary": "One of 2026's most-talked-about movies is arriving on streaming next week.",
+    "date": "Wed, 18 Nov 2026 20:48:03 GMT",
+    "link": "https://www.polygon.com/you-can-see-everything-streaming-date-nov-24-2026/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.5,
+      "score": 0.25,
       "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Ridley Scott's Sci-Fi Masterpiece Could Return to Theaters in a Shocking Way, Producers Reveal",
+    "title": "GTA 6's Completely Unrealistic Mountains Had to Be in the Game, Rockstar Says",
     "source": "Polygon",
-    "summary": "The producers of Blade Runner 2099 want to carefully expand the franchise",
-    "date": "Wed, 18 Nov 2026 14:00:18 GMT",
-    "link": "https://www.polygon.com/blade-runner-2099-franchise-interview/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.55,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "GTA 6 Hits 99 on Metacritic, Crowned Best Game Ever in a Wave of Rave Reviews",
-    "source": "Polygon",
-    "summary": "Rockstar's Grand Theft Auto 6 beats the original Legend of Zelda: Ocarina of Time amid massive critical acclaim",
-    "date": "Wed, 18 Nov 2026 12:17:52 GMT",
-    "link": "https://www.polygon.com/gta-6-review-roundup/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "GTA 6 guide: A full walkthrough of all our tips and advice on Vice City systems",
-    "source": "PC Gamer",
-    "summary": "Everything we've learned after digging into GTA 6 for over 100 hours.",
-    "date": "Wed, 18 Nov 2026 14:34:08 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.35,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "'AAA is under the most amount of threat': Ex-Take Two boss explains why making big games is unsustainable—except for GTA 6",
-    "source": "PC Gamer",
-    "summary": "\"They may come out five years from now, and the world may not care.\"",
-    "date": "Wed, 18 Nov 2026 14:10:54 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/aaa-is-under-the-most-amount-of-threat-ex-take-two-boss-explains-why-making-big-games-is-unsustainable-except-for-gta-6/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "AMD says it 'loves gamers' only weeks after proclaiming it is a datacenter-first company",
-    "source": "PC Gamer",
-    "summary": "Someone, please, think of the gamers.",
-    "date": "Wed, 18 Nov 2026 12:57:35 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-it-loves-gamers-only-weeks-after-proclaiming-it-is-a-datacenter-first-company/",
+    "summary": "Much of Grand Theft Auto 6's Leonida is an accurate representation of Florida, except for one big geographical change.",
+    "date": "Wed, 18 Nov 2026 19:28:46 GMT",
+    "link": "https://www.polygon.com/gta-6-rockstar-lummox-county/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "AMD"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Switch 2 Is Getting an All-new Gamecube Controller",
+    "source": "Polygon",
+    "summary": "8BitDo is releasing a new wireless gamepad for the Switch 2 and PC modeled after the GameCube controller.",
+    "date": "Wed, 18 Nov 2026 19:15:29 GMT",
+    "link": "https://www.polygon.com/nintendo-switch-2-wireless-game-cube-controller-8bitdo/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Set phasers to stun (the contents of my wallet): Magic's Star Trek crossover is one of the good ones",
+    "source": "PC Gamer",
+    "summary": "Magic: The Gathering's Universes Beyond line goes beyond the final frontier.",
+    "date": "Wed, 18 Nov 2026 22:53:00 +0000",
+    "link": "https://www.pcgamer.com/games/card-games/set-phasers-to-stun-the-contents-of-my-wallet-magics-star-trek-crossover-is-one-of-the-good-ones/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.42,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "GTA 6: Where to find your first plane and helicopter right away",
+    "source": "PC Gamer",
+    "summary": "Steal your first aircraft close to your GTA 6 starting point.",
+    "date": "Wed, 18 Nov 2026 22:51:08 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Clair Obscur: Expedition 33 lead writer left Sandfall Interactive last summer: 'We've parted ways'",
+    "source": "PC Gamer",
+    "summary": "Jennifer Svedberg-Yen says she left the studio in July after finishing up work on the studio's hit RPG.",
+    "date": "Wed, 18 Nov 2026 22:29:32 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-lead-writer-left-sandfall-interactive-last-summer-weve-parted-ways/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "RPG"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Grand Theft Auto 6 review roundup: Rockstar's 'magnum opus', a great love story, and a new bar for open worlds",
+    "title": "Devolver's not just launching a game on the same day as GTA 6, it's using a shot-by-shot remake of the GTA 6 launch trailer too",
     "source": "PC Gamer",
-    "summary": "Only 62 bird varieties, though.",
-    "date": "Wed, 18 Nov 2026 12:16:29 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-review-roundup-rockstars-magnum-opus-a-great-love-story-and-a-new-bar-for-open-worlds/",
+    "summary": "Ever see cartoon rodents get it on in the shower? Do you want to?",
+    "date": "Wed, 18 Nov 2026 22:12:08 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/devolvers-not-just-launching-a-game-on-the-same-day-as-gta-6-its-using-a-shot-by-shot-remake-of-the-gta-6-launch-trailer-too/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.32,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Remake"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
-    "title": "GTA 6 Isn’t Worth Buying A Fancy Controller For",
+    "title": "GTA 6’s Best Song Is A Nelly Furtado Cover From Azerbaijan",
     "source": "GameSpot",
-    "summary": "In all the excitement surrounding Grand Theft Auto VI (check out our 10/10 review), it might be tempting to upgrade your setup. For a game 13 years in the making, is now the time to upgrade my TV? Maybe a PS5 Pro is in order? It's a coincidence I finally upgraded my speaker system after 18 years, I ...",
-    "date": "Wed, 18 Nov 2026 14:37:59 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-isnt-worth-buying-a-fancy-controller-for/",
+    "summary": "One of the mainstay features in Rockstar's Grand Theft Auto series is radio stations that can be listened to while driving in cars or, as in GTA 6, on the go if you acquire headphones. As a music-discovery vehicle, GTA: Vice City introduced me to many '80s classics across a variety of genres. With G...",
+    "date": "Wed, 18 Nov 2026 20:58:49 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6s-best-song-is-a-nelly-furtado-cover-from-azerbaijan/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.67,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 18,
-    "title": "GTA 6 Is Apparently Everything Rockstar Promised And Then Some",
+    "title": "PSN Went Down Sorta On GTA 6 Eve",
     "source": "GameSpot",
-    "summary": "At long last, Grand Theft Auto 6 launch day has come. With Rockstar's latest project steadily unlocking as the clock strikes midnight worldwide, GTA 6 reviews have gone live, and the praise has been overwhelmingly positive so far. In fact, GTA 6 is reviewing so well that it's currently tied with the...",
-    "date": "Wed, 18 Nov 2026 14:27:01 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-is-apparently-everything-rockstar-promised-and-then-some/",
+    "summary": "On the eve of GTA 6's official launch on November 19, Sony's PlayStation Network appears to be facing some issues, at least for some people, at some point, today.\nReports have emerged that the PSN is borked, and although the PlayStation Status website says everything is fine, that might not be true ...",
+    "date": "Wed, 18 Nov 2026 20:55:37 +0000",
+    "link": "https://www.gamespot.com/articles/psn-went-down-sorta-on-gta-6-eve/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 19,
-    "title": "The GTA 6 Map Is Truly, Truly Massive (Of Course)",
+    "title": "KFC Announces GTA 6 Promo Where You Get A Disc-Shaped Piece Of Chicken",
     "source": "GameSpot",
-    "summary": "Grand Theft Auto 6 has finally arrived--at least in New Zealand and Australia. Lots of people are playing the game already and have made a number of discoveries, including just how massive the map is. \nEven though we knew the GTA 6 map would be big--it has more playable space than GT4, GTA 5, and Re...",
-    "date": "Wed, 18 Nov 2026 14:08:31 +0000",
-    "link": "https://www.gamespot.com/articles/the-gta-6-map-is-truly-truly-massive-of-course/",
+    "summary": "A lot of people are upset that they can't get GTA 6 on a physical disc, and KFC is now stepping up to do what Rockstar isn't. \nKFC Spain has announced a \"Replace the Disc\" campaign where customers can get a free disc-shaped piece of fried chicken when they bring in their GTA 6 box. The promotion tak...",
+    "date": "Wed, 18 Nov 2026 20:22:30 +0000",
+    "link": "https://www.gamespot.com/articles/kfc-announces-gta-6-promo-where-you-get-a-disc-shaped-piece-of-chicken/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "Want A Custom GTA 6 PS5 Pro? Just Play In The NBA",
+    "title": "How Xbox’s Streaming Deal For GTA 6 Could Expand Its Marketshare By 30%",
     "source": "GameSpot",
-    "summary": "PS5 Pro consoles have been hard to find lately, but there is a trick to getting one: All you need is superb basketball skills and membership on an NBA team based in the state that inspired Grand Theft Auto 6's location. Easy! While it's a little too late to take advantage of this life hack now, thin...",
-    "date": "Wed, 18 Nov 2026 13:59:21 +0000",
-    "link": "https://www.gamespot.com/articles/want-a-custom-gta-6-ps5-pro-just-play-in-the-nba/",
+    "summary": "Microsoft and Take-Two recently announced a deal to allow people to stream Rockstar's GTA 6, and that significantly increases the game's addressable market on Xbox and means people can play the game for as little as $92. \nThis is according to a newly issued report from Ampere Analysis, which said th...",
+    "date": "Wed, 18 Nov 2026 19:53:58 +0000",
+    "link": "https://www.gamespot.com/articles/how-xboxs-streaming-deal-for-gta-6-could-expand-its-marketshare-by-30/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.07,
+      "score": -0.08,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Xbox"
     ],
     "read_time": "1 min read"
   }
