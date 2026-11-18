@@ -1,280 +1,265 @@
 [
   {
     "id": 1,
-    "title": "Warnings, Encouragement, and Gift Cards: How Schools Are Preparing for Mass Absences on GTA 6 Launch Day",
+    "title": "Amazon's Black Friday Audible Deal Is Now Live: Pay $0.99 Per Month Plus Get $20 Credit",
     "source": "IGN",
-    "summary": "As GTA 6 launch day nears, schools are preparing for mass absences among pupils by issuing warnings to parents — and offering children the chance to win gift cards just for turning up.",
-    "date": "Tue, 17 Nov 2026 13:32:25 +0000",
-    "link": "https://www.ign.com/articles/warnings-encouragement-and-gift-cards-how-schools-are-preparing-for-mass-absences-on-gta-6-launch-day",
+    "summary": "Both Amazon Prime and non-Prime members, new and previous subscribers are eligible.",
+    "date": "Tue, 17 Nov 2026 22:00:00 +0000",
+    "link": "https://www.ign.com/articles/amazon-early-black-friday-audible-deal-2026",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.8,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Elsinore Review",
+    "title": "Gabe Newell Praised by Fans for 'Special' Way He Treats the Crew on His $500 Million Superyacht",
     "source": "IGN",
-    "summary": "Elsinore review: A hollow quest for an award for star Andrew Scott.",
-    "date": "Tue, 17 Nov 2026 13:00:00 +0000",
-    "link": "https://www.ign.com/articles/elsinore-review",
+    "summary": "Gabe Newell, the co-founder and CEO of Valve, is being praised by fans after a yacht expert took a tour of his $500 million vessel and remarked on the “special” way he treats its crew, saying it rivals anything she’s “ever seen before.”",
+    "date": "Tue, 17 Nov 2026 21:28:06 +0000",
+    "link": "https://www.ign.com/articles/gabe-newell-praised-by-fans-for-special-way-he-treats-the-crew-on-his-500-million-superyacht",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.36,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "Save 40% Off the PlayStation Pulse Explore Planar Magnetic Gaming Earbuds for Black Friday",
+    "source": "IGN",
+    "summary": "Now you can play GTA 6 through the wee hours of the night without waking anyone up.",
+    "date": "Tue, 17 Nov 2026 21:00:00 +0000",
+    "link": "https://www.ign.com/articles/sony-pulse-playstation-gaming-earbuds-deal-november-2026",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.17,
+      "badge": "danger"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "The Alienware Aurora RTX 5080 Gaming PC Drops to $2,800 at Amazon for Black Friday",
+    "source": "IGN",
+    "summary": "The best Alienware computer deal in months.",
+    "date": "Tue, 17 Nov 2026 20:55:00 +0000",
+    "link": "https://www.ign.com/articles/the-alienware-aurora-rtx-5080-gaming-pc-drops-to-2800-at-amazon-for-black-friday",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.42,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "The Game Awards 2026 nominees announced, and GTA 6 leads with eight nods before it's even out",
+    "source": "Eurogamer",
+    "summary": "The Game Awards 2026 nominees have been revealed, and Grand Theft Auto 6 leads the pack with eight nominations, two days before it even launches. Read more...",
+    "date": "Tue, 17 Nov 2026 19:01:20 +0000",
+    "link": "https://www.eurogamer.net/game-awards-2026-nominees-full-list-gta-6",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Firaxis reportedly cuts a third of its staff as studio head departs and new XCOM struggles",
+    "source": "Eurogamer",
+    "summary": "Civilization and XCOM developer Firaxis Games has laid off around 60 people. Read more...",
+    "date": "Tue, 17 Nov 2026 18:13:20 +0000",
+    "link": "https://www.eurogamer.net/firaxis-layoffs-civilization-xcom-heather-hazen",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.21,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "The Game Awards just confirmed who plays GTA 6's Lucia",
+    "source": "Eurogamer",
+    "summary": "Manni L. Perez has been confirmed as the actress behind Grand Theft Auto 6's Lucia Caminos, just days before the game launches. Read more...",
+    "date": "Tue, 17 Nov 2026 17:42:20 +0000",
+    "link": "https://www.eurogamer.net/gta-6-lucia-actress-manni-l-perez-confirmed",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "PlayStation defeats £2 billion UK lawsuit that alleged Sony forced consumers into \"excessive and unfair prices\"",
+    "source": "Eurogamer",
+    "summary": "Sony has defeated a major £2 billion UK class action lawsuit concerning the price of games on the PlayStation Store (thanks, TheGameBusiness). The judgment came after a 30-day Competition Appeal Tribunal that took place in London, where PlayStation users claimed Sony had removed \"all actual and pote...",
+    "date": "Tue, 17 Nov 2026 16:25:20 +0000",
+    "link": "https://www.eurogamer.net/playstation-store-pricing-uk-class-action-lawsuit-result",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": -0.1,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 3,
-    "title": "Nintendo Suffers Rare Review Bombing For Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy",
-    "source": "IGN",
-    "summary": "Nintendo fans are hitting the company with a rare review bombing campaign, to register their dissatisfaction with Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy.",
-    "date": "Tue, 17 Nov 2026 12:29:05 +0000",
-    "link": "https://www.ign.com/articles/nintendo-suffers-rare-review-bombing-for-pikmin-4-nintendo-switch-2-edition-dandori-academy",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "The Impossible Mission of Getting GTA 5's Seamless Character Switching Working on PS3 and Xbox 360",
-    "source": "IGN",
-    "summary": "How a former Rockstar developer made GTA 5's seamless character switching work on PS3 and Xbox 360.",
-    "date": "Tue, 17 Nov 2026 12:14:00 +0000",
-    "link": "https://www.ign.com/articles/gta-5s-seamless-character-switching-working-ps3-xbox-360",
+    "id": 9,
+    "title": "5 Big Takeaways From the 2026 Game Awards Nominations",
+    "source": "Polygon",
+    "summary": "From GTA 6 to Control and Crimson Desert, these are the conclusions for the GOTY Race and TGA 2026",
+    "date": "Wed, 18 Nov 2026 00:00:16 GMT",
+    "link": "https://www.polygon.com/2026-game-awards-nominations-goty-gta-analysis/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.12,
+      "score": -0.2,
       "badge": "danger"
     },
     "tags": [
-      "Xbox"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 5,
-    "title": "The Legend of Zelda: Ocarina of Time on Switch 2 is the US' best-selling physical game so far this year",
-    "source": "Eurogamer",
-    "summary": "The very popular and critically-acclaimed The Legend of Zelda: Ocarina of Time remake has set another record. After selling 5.2m copies in four days and becoming the Switch 2's fastest-selling game, Ocarina of Time has now been revealed to also be a major seller at retail. Read more...",
-    "date": "Tue, 17 Nov 2026 14:20:30 +0000",
-    "link": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million",
+    "id": 10,
+    "title": "Resident Evil Requiem’s Game Awards Nominee Is Ready for Resident Evil 10",
+    "source": "Polygon",
+    "summary": "Resident Evil Requiem was nominated for a number of TGA awards, including for Angela Sant'Albano. The actor thinks Grace could be in a sequel.",
+    "date": "Tue, 17 Nov 2026 23:00:17 GMT",
+    "link": "https://www.polygon.com/resident-evil-requiem-grace-angela-santalbano-actor-game-awards-nomination-2026/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.64,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "When Are The Game Awards 2026: Date, Time, and How to Watch",
+    "source": "Polygon",
+    "summary": "Everything you need to know about where and when to watch The Game Awards 2026, including date, start time, and how long The Game Awards are.",
+    "date": "Tue, 17 Nov 2026 21:20:01 GMT",
+    "link": "https://www.polygon.com/game-awards-2026-how-to-watch-when-date-time/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.31,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Magic: The Gathering Boss Reveals the Next Marvel Set’s Surprising Origin Story",
+    "source": "Polygon",
+    "summary": "Aaron Forsythe said Magic’s original narrative got ‘total buy-in’ from Marvel",
+    "date": "Tue, 17 Nov 2026 21:00:17 GMT",
+    "link": "https://www.polygon.com/mtg-marvels-darkhold-destiny-story-interview/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.35,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Miami Heat shows off its 'Vice City hardwood' ahead of the big Grand Theft Auto 6 basketball game",
+    "source": "PC Gamer",
+    "summary": "They've got new uniforms, too. They're pretty cool.",
+    "date": "Tue, 17 Nov 2026 23:08:11 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/miami-heat-shows-off-its-vice-city-hardwood-ahead-of-the-big-grand-theft-auto-6-basketball-game/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.14,
       "badge": "success"
     },
     "tags": [
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Call of Duty might have swapped guns and tanks for knights and swords if an Infinity Ward experiment had panned out",
-    "source": "Eurogamer",
-    "summary": "As much as Call of Duty is criticised for delivering the same thing every year, reports occasionally surface of attempts to take the series in bold new directions, even if none of these experiments have so far seen the light of day. And it turns out a medieval Call of Duty was also explored at one t...",
-    "date": "Tue, 17 Nov 2026 12:49:20 +0000",
-    "link": "https://www.eurogamer.net/call-of-duty-medieval-prototype-infinity-ward",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Is it time to retire Dragon Quest as a series? Chrono Trigger composer Yasunori Mitsuda thinks it might be",
-    "source": "Eurogamer",
-    "summary": "Chrono Trigger composer Yasunori Mitsuda thinks it may be time for Square Enix to retire Dragon Quest, while reflecting on the direction of the popular RPG series after Akira Toriyama's death. The mangaka, whose art and distinct style were foundational to Chrono Trigger and Chrono Cross - and are st...",
-    "date": "Tue, 17 Nov 2026 12:27:00 +0000",
-    "link": "https://www.eurogamer.net/dragon-quest-series-composer-akira-toriyama",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.3,
-      "badge": "success"
-    },
-    "tags": [
-      "RPG"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "\"Encouraging players to return is no mean feat\" - Square Enix tempts Final Fantasy 14 players back with free game-time to fill void before new expansion",
-    "source": "Eurogamer",
-    "summary": "Final Fantasy 14 is between expansions at the moment, with Evercold preparing for release in February. So, in order to keep the game populated for the next few months, Square Enix is running a special promotion in hopes of tempting players back in. Read more...",
-    "date": "Tue, 17 Nov 2026 11:48:50 +0000",
-    "link": "https://www.eurogamer.net/final-fantasy-14-free--game-time-expansion-evercold",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "Lord of the Rings Returns to Theaters Next Week to Reveal an Iconic Moment",
-    "source": "Polygon",
-    "summary": "Amazon’s Rings of Power season 3 will come to the big screen to show the forging of the One Ring",
-    "date": "Tue, 17 Nov 2026 15:13:43 GMT",
-    "link": "https://www.polygon.com/amazon-rings-of-power-season-3-one-ring-episode-theatrical-release/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Magic: The Gathering’s New Commander Decks Offer Less for the Same Price",
-    "source": "Polygon",
-    "summary": "MTG Nauctis Commander decks will no longer feature borderless cards, but one of these Commanders is a powerhouse.",
-    "date": "Tue, 17 Nov 2026 15:08:28 GMT",
-    "link": "https://www.polygon.com/mtg-nauctis-sunken-realm-commander-deck-leaks-ignoble-serpent/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "The Witcher 3 Is About to Get a Big Change to the Series’ Formula",
-    "source": "Polygon",
-    "summary": "The Witcher 3: Songs of the Past will have a very different atmosphere, according to CD Projekt Red.",
-    "date": "Tue, 17 Nov 2026 15:05:49 GMT",
-    "link": "https://www.polygon.com/the-witcher-3-songs-of-the-past-changes/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Star Wars Showrunner Officially Challenges Disney to Continue His Story: \"I Left Them with a Baby\"",
-    "source": "Polygon",
-    "summary": "Tony Gilroy won't be returning to Star Wars anytime soon, but sees a future for 'Andor' to continue under Lucasfilm.",
-    "date": "Tue, 17 Nov 2026 14:44:34 GMT",
-    "link": "https://www.polygon.com/star-wars-andor-could-continue-tony-gilroy-interview/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "TCL CSOT's new OLED panels might not only be cheaper, but also have high refresh rates and hassle-free pixel burn-in compensation",
-    "source": "PC Gamer",
-    "summary": "They might not even need you to wait for pixel compensation cycles.",
-    "date": "Tue, 17 Nov 2026 15:22:45 +0000",
-    "link": "https://www.pcgamer.com/hardware/gaming-monitors/tcl-csots-new-oled-panels-might-not-only-be-cheaper-but-also-have-high-refresh-rates-and-hassle-free-pixel-burn-in-compensation/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "Twitchers rejoice: GTA 6 will have 62 different species of birds, though that falls a bit short of the over 500 native species found in Florida",
+    "title": "Caves of Qud's first DLC is forcing its devs to ask important questions: 'How does a crab get high?'",
     "source": "PC Gamer",
-    "summary": "They better have a Snowy Plover.",
-    "date": "Tue, 17 Nov 2026 14:35:57 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/twitchers-rejoice-gta-6-will-have-62-different-species-of-birds-though-that-falls-a-bit-short-of-the-over-500-native-species-found-in-florida/",
+    "summary": "Qud's co-creators discuss dogs with guns, handless tattooing, and the tragedy of a sinning tree.",
+    "date": "Tue, 17 Nov 2026 22:35:14 +0000",
+    "link": "https://www.pcgamer.com/games/roguelike/caves-of-quds-first-dlc-is-forcing-its-devs-to-ask-important-questions-how-does-a-crab-get-high/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.17,
+      "score": 0.27,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "AMD introduces Capacity Aware Scheduling to the Linux kernel, which sure is the thing I'd do if I were introducing Zen 6 LP cores next year",
+    "title": "Jensen Huang isn't coming back, says Nvidia board",
     "source": "PC Gamer",
-    "summary": "Any way that more efficiently uses cores has the thumbs up from me.",
-    "date": "Tue, 17 Nov 2026 13:12:39 +0000",
-    "link": "https://www.pcgamer.com/hardware/processors/amd-introduces-capacity-aware-scheduling-to-the-linux-kernel-which-sure-is-the-thing-id-do-if-i-were-introducing-zen-6-lp-cores-next-year/",
+    "summary": "Huang announced that he would accept reinstatement, but Nvidia isn't offering it.",
+    "date": "Tue, 17 Nov 2026 22:33:32 +0000",
+    "link": "https://www.pcgamer.com/software/ai/jensen-huang-isnt-coming-back-says-nvidia-board/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.31,
-      "badge": "success"
-    },
-    "tags": [
-      "AMD"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Nvidia tightens up control of its own national security policies as it cozies up to US government with new board-controlled committee",
-    "source": "PC Gamer",
-    "summary": "Another committee for the committee pile.",
-    "date": "Tue, 17 Nov 2026 12:55:30 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-tightens-up-control-of-its-own-national-security-policies-as-it-cozies-up-to-us-government-with-new-board-controlled-committee/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.37,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
       "Nvidia"
@@ -282,74 +267,91 @@
     "read_time": "1 min read"
   },
   {
-    "id": 17,
-    "title": "New Ubisoft Boss Wants Studio To Become “A24 Of Video Games”",
-    "source": "GameSpot",
-    "summary": "Ubisoft recently hired games industry veteran Christoph Hartmann to become the general manager of Creative House 2. In a new interview, Hartmann talked about his hopes for the unit, saying his dream would be for it to become \"like the A24 of video games.\"\nHe told Variety that what he means by this i...",
-    "date": "Tue, 17 Nov 2026 14:28:18 +0000",
-    "link": "https://www.gamespot.com/articles/new-ubisoft-boss-wants-studio-to-become-a24-of-video-games/",
+    "id": 16,
+    "title": "Tomb Raider developer makes fifth round of layoffs in less than 2 years",
+    "source": "PC Gamer",
+    "summary": "Crystal Dynamics confirmed that eight people have been let go in a \"necessary business decision.\"",
+    "date": "Tue, 17 Nov 2026 20:57:44 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/tomb-raider-developer-makes-fifth-round-of-layoffs-in-less-than-2-years/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "BioWare Is Dead, But Mass Effect’s Spiritual Successor Exodus Just Gave Us A Glimpse of A Spicy Romance",
+    "source": "GameSpot",
+    "summary": "For the first time since its announcement during December 2023's The Game Awards, players are getting a look at the female player-character from its upcoming sci-fi RPG Exodus--which was full of Mass Effect DNA back when we previewed it in September.\nThe default female version of main character Jun ...",
+    "date": "Tue, 17 Nov 2026 23:46:24 +0000",
+    "link": "https://www.gamespot.com/articles/bioware-is-dead-but-mass-effects-spiritual-successor-exodus-just-gave-us-a-glimpse-of-a-spicy-romance/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "RPG"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 18,
-    "title": "Ocarina Of Time Is 2026’s Best-Selling Physical Game In The US, But GTA 6 Is Coming",
+    "title": "This Fighting Game Is Nominated For A TGA Despite Development Shutting Down",
     "source": "GameSpot",
-    "summary": "Nintendo's The Legend of Zelda: Ocarina of Time remake for Switch 2 is the best-selling physical game of 2026, according to Circana, but GTA 6 is coming out soon and could topple that record.\nCircana's Mat Piscatella said the Ocarina of Time remake for Switch 2 was the first game to surpass 1 millio...",
-    "date": "Tue, 17 Nov 2026 14:22:55 +0000",
-    "link": "https://www.gamespot.com/articles/ocarina-of-time-is-2026s-best-selling-physical-game-in-the-us-but-gta-6-is-coming/",
+    "summary": "Earlier today, Geoff Keighley announced all of the nominees for The Game Awards 2026, the annual celebration of gaming held in Los Angeles. Among expected nominees Grand Theft Auto VI, The Legend of Zelda: Ocarina of Time, and Control Resonant was one surprising name: 2XKO has been nominated for Bes...",
+    "date": "Tue, 17 Nov 2026 20:59:17 +0000",
+    "link": "https://www.gamespot.com/articles/this-fighting-game-is-nominated-for-a-tga-despite-development-shutting-down/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.16,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
     },
     "tags": [
-      "Nintendo",
-      "Remake"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 19,
-    "title": "GTA 6 Nearing 16 Million Copies Sold And Passes $1.5 Billion In Revenue",
+    "title": "How GTA 6 Is Eligible For The Game Awards This Year",
     "source": "GameSpot",
-    "summary": "The video game research company Sensor Tower has updated its GTA 6 sales tracker to reveal the latest, albeit unofficial, sales data for the open-world crime game. According to Sensor Tower, GTA 6 has now sold 15.88 million total units via pre-purchases, which works out to about $1.54 billion in gro...",
-    "date": "Wed, 04 Nov 2026 14:15:31 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+    "summary": "We've known for some time that Grand Theft Auto 6 was likely to be eligible for The Game Awards, and now that 2026's TGA nominees are live, it's official: Not only is GTA eligible, but it actually has the most nominations of any game.\nThat's somewhat of an unusual situation, given that GTA 6 reviews...",
+    "date": "Thu, 15 Oct 2026 13:09:58 +0000",
+    "link": "https://www.gamespot.com/articles/put-down-your-pitchforks-gta-vi-was-always-eligible-for-the-game-awards-this-year/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.08,
+      "score": 0.01,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "Sony Is Updating The PS5 Again, And It Might Have GTA 6 Pirates In Mind",
+    "title": "Civilization Dev Lays Off 1/3 Of  Staff, New XCOM Game Facing “Development Struggles” – Report",
     "source": "GameSpot",
-    "summary": "A new PS5 firmware update has dropped, but even at a chunky 1.2GB download, version 26.07-14.23.00 doesn't include a comprehensive list of notes.\n\"We've made some security fixes to the system software,\" the very short update notes read. Notably, this is the fourth PS5 firmware update since October 1...",
-    "date": "Tue, 17 Nov 2026 13:01:53 +0000",
-    "link": "https://www.gamespot.com/articles/sony-is-updating-the-ps5-again-and-it-might-have-gta-6-pirates-in-mind/",
+    "summary": "The video game industry's woes continue as Take-Two's 2K division has confirmed that one third of the staff at Civilization and XCOM developer Firaxis Games is being laid off. \nBloomberg confirmed the cuts, which will impact around 60 people. As part of the downsizing, Firaxis studio head Heather Ha...",
+    "date": "Tue, 17 Nov 2026 20:05:42 +0000",
+    "link": "https://www.gamespot.com/articles/civilization-dev-lays-off-1-3-of-staff-new-xcom-game-facing-development-struggles-report/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
