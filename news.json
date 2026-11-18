@@ -1,50 +1,31 @@
 [
   {
     "id": 1,
-    "title": "Amazon's Black Friday Audible Deal Is Now Live: Pay $0.99 Per Month Plus Get $20 Credit",
+    "title": "Amazon Slashes $10 off Control Resonant in Early Black Friday Sale, Dropping to Its Lowest Price Yet",
     "source": "IGN",
-    "summary": "Both Amazon Prime and non-Prime members, new and previous subscribers are eligible.",
-    "date": "Tue, 17 Nov 2026 22:00:00 +0000",
-    "link": "https://www.ign.com/articles/amazon-early-black-friday-audible-deal-2026",
+    "summary": "Control Resonant (on PS5 and Xbox Series X) has been discounted to $50 at Amazon in early Black Friday sales. That's $10 off its MSRP and marks its lowest price yet.",
+    "date": "Wed, 18 Nov 2026 13:01:17 +0000",
+    "link": "https://www.ign.com/articles/amazon-slashes-10-off-control-resonant-in-early-black-friday-sale-dropping-to-its-lowest-price-yet",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.02,
+      "score": -0.03,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Gabe Newell Praised by Fans for 'Special' Way He Treats the Crew on His $500 Million Superyacht",
+    "title": "GTA 6 Will Never Get a 60fps Update on PlayStation Pro as It's 'Not Powerful Enough'",
     "source": "IGN",
-    "summary": "Gabe Newell, the co-founder and CEO of Valve, is being praised by fans after a yacht expert took a tour of his $500 million vessel and remarked on the “special” way he treats its crew, saying it rivals anything she’s “ever seen before.”",
-    "date": "Tue, 17 Nov 2026 21:28:06 +0000",
-    "link": "https://www.ign.com/articles/gabe-newell-praised-by-fans-for-special-way-he-treats-the-crew-on-his-500-million-superyacht",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.36,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Save 40% Off the PlayStation Pulse Explore Planar Magnetic Gaming Earbuds for Black Friday",
-    "source": "IGN",
-    "summary": "Now you can play GTA 6 through the wee hours of the night without waking anyone up.",
-    "date": "Tue, 17 Nov 2026 21:00:00 +0000",
-    "link": "https://www.ign.com/articles/sony-pulse-playstation-gaming-earbuds-deal-november-2026",
+    "summary": "There's bad news for any GTA 6 fans still hoping for a 60fps option on PlayStation 5 Pro.",
+    "date": "Wed, 18 Nov 2026 12:50:38 +0000",
+    "link": "https://www.ign.com/articles/gta-6-will-never-get-a-60fps-update-on-playstation-pro-as-its-not-powerful-enough",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.17,
+      "score": -0.28,
       "badge": "danger"
     },
     "tags": [
@@ -53,33 +34,49 @@
     "read_time": "1 min read"
   },
   {
-    "id": 4,
-    "title": "The Alienware Aurora RTX 5080 Gaming PC Drops to $2,800 at Amazon for Black Friday",
+    "id": 3,
+    "title": "GTA 6 Uses FSR 4.1 on Xbox Series S to Upscale From 720p to 1080p",
     "source": "IGN",
-    "summary": "The best Alienware computer deal in months.",
-    "date": "Tue, 17 Nov 2026 20:55:00 +0000",
-    "link": "https://www.ign.com/articles/the-alienware-aurora-rtx-5080-gaming-pc-drops-to-2800-at-amazon-for-black-friday",
+    "summary": "GTA 6 is finally here, and it's genuinely a technical marvel on all of the consoles it's running on. It's particularly impressive that the Xbox Series S can even run the thing, and now we know a bit more about how Rockstar was able to pull it off.",
+    "date": "Wed, 18 Nov 2026 12:24:45 +0000",
+    "link": "https://www.ign.com/articles/gta-6-uses-fsr-41-on-xbox-series-s-to-upscale-from-720p-to-1080p",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.42,
+      "score": 0.4,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "GTA 6 Xbox Series S Performance: How Does the Weakest Console Handle the Biggest Game of All Time?",
+    "source": "IGN",
+    "summary": "GTA 6 is finally here, and one of the biggest questions heading up to launch is how well the Xbox Series S would handle the game – well, I've finally had the chance to play the game on the tiny Xbox.",
+    "date": "Wed, 18 Nov 2026 12:20:39 +0000",
+    "link": "https://www.ign.com/articles/gta-6-xbox-series-s-performance",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
+    },
+    "tags": [
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
-    "title": "The Game Awards 2026 nominees announced, and GTA 6 leads with eight nods before it's even out",
+    "title": "You cannot replay missions in GTA 6, but you can use multiple save files, as Rockstar explains how it made missions \"harder to fail\"",
     "source": "Eurogamer",
-    "summary": "The Game Awards 2026 nominees have been revealed, and Grand Theft Auto 6 leads the pack with eight nominations, two days before it even launches. Read more...",
-    "date": "Tue, 17 Nov 2026 19:01:20 +0000",
-    "link": "https://www.eurogamer.net/game-awards-2026-nominees-full-list-gta-6",
+    "summary": "You cannot replay GTA 6 missions again once you've completed them. This might be a shock to some people, since the option to do so was included in Rockstar games as recently as GTA 5, but here once you've made progress in the story, that's it. Our reviewer confirmed this in his 100+ hour playthrough...",
+    "date": "Wed, 18 Nov 2026 14:24:00 +0000",
+    "link": "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.05,
+      "score": -0.04,
       "badge": "info"
     },
     "tags": [
@@ -90,15 +87,15 @@
   },
   {
     "id": 6,
-    "title": "Firaxis reportedly cuts a third of its staff as studio head departs and new XCOM struggles",
+    "title": "Infinity Nikki fans threaten to boycott game after promotion by Elon Musk's mother, but there may be a genuine reason for her involvement",
     "source": "Eurogamer",
-    "summary": "Civilization and XCOM developer Firaxis Games has laid off around 60 people. Read more...",
-    "date": "Tue, 17 Nov 2026 18:13:20 +0000",
-    "link": "https://www.eurogamer.net/firaxis-layoffs-civilization-xcom-heather-hazen",
+    "summary": "Infinity Nikki, the free-to-play, cozy, open-world dress-up game, is at the centre of controversy again, though this time not because fans disliked one of the game's updates. Instead, it's because of… Elon Musk's mother. Read more...",
+    "date": "Wed, 18 Nov 2026 14:14:50 +0000",
+    "link": "https://www.eurogamer.net/infinity-nikki-elon-musk-maye-mother-fan-reaction",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.21,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.1,
+      "badge": "danger"
     },
     "tags": [
       "News",
@@ -108,15 +105,15 @@
   },
   {
     "id": 7,
-    "title": "The Game Awards just confirmed who plays GTA 6's Lucia",
+    "title": "Mindseye developer Build a Rocket Boy - founded by ex-GTA veteran - has a mountain of debt, and the main plan for paying it back is litigation",
     "source": "Eurogamer",
-    "summary": "Manni L. Perez has been confirmed as the actress behind Grand Theft Auto 6's Lucia Caminos, just days before the game launches. Read more...",
-    "date": "Tue, 17 Nov 2026 17:42:20 +0000",
-    "link": "https://www.eurogamer.net/gta-6-lucia-actress-manni-l-perez-confirmed",
+    "summary": "Beleaguered Mindseye developer Build a Rocket Boy - the company created by former Rockstar and Grand Theft Auto producer Leslie Benzies - apparently owes approximately £62 million in debt. And a huge chunk of that appears to be owed to Chinese gaming company NetEase (£36.5m), though more than £1m ap...",
+    "date": "Wed, 18 Nov 2026 14:05:30 +0000",
+    "link": "https://www.eurogamer.net/build-a-rocket-boy-mindseye-debt-administration-litigation",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -126,32 +123,33 @@
   },
   {
     "id": 8,
-    "title": "PlayStation defeats £2 billion UK lawsuit that alleged Sony forced consumers into \"excessive and unfair prices\"",
+    "title": "Clair Obscur's narrative lead has left developer Sandfall Interactive after \"wrapping up some final stuff for Expedition\"",
     "source": "Eurogamer",
-    "summary": "Sony has defeated a major £2 billion UK class action lawsuit concerning the price of games on the PlayStation Store (thanks, TheGameBusiness). The judgment came after a 30-day Competition Appeal Tribunal that took place in London, where PlayStation users claimed Sony had removed \"all actual and pote...",
-    "date": "Tue, 17 Nov 2026 16:25:20 +0000",
-    "link": "https://www.eurogamer.net/playstation-store-pricing-uk-class-action-lawsuit-result",
+    "summary": "Last night, it was revealed that Clair Obscur: Expedition 33's lead narrative designer, Jennifer Svedberg-Yen, won a BAFTA Breakthrough US award for her contribution to the hit 2025 game, which made history after winning 12 Game Award nominations last year. In the aftermath of her win, Svedberg-Yen ...",
+    "date": "Wed, 18 Nov 2026 12:18:10 +0000",
+    "link": "https://www.eurogamer.net/clair-obscur-jennifer-svedberg-yen-bafta-fund-new-talent",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.1,
+      "score": 0.06,
       "badge": "info"
     },
     "tags": [
-      "PlayStation"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "5 Big Takeaways From the 2026 Game Awards Nominations",
+    "title": "GTA 6 Sets New Record As Highest-Rated Video Game of All Time",
     "source": "Polygon",
-    "summary": "From GTA 6 to Control and Crimson Desert, these are the conclusions for the GOTY Race and TGA 2026",
-    "date": "Wed, 18 Nov 2026 00:00:16 GMT",
-    "link": "https://www.polygon.com/2026-game-awards-nominations-goty-gta-analysis/",
+    "summary": "Grand Theft Auto 6 is here and critics say it's one of the best games of all time, based on its 99 Metacritic score.",
+    "date": "Wed, 18 Nov 2026 15:00:27 GMT",
+    "link": "https://www.polygon.com/gta-6-highest-rated-game-all-time-metacritic-review-score/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.2,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.31,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -161,32 +159,31 @@
   },
   {
     "id": 10,
-    "title": "Resident Evil Requiem’s Game Awards Nominee Is Ready for Resident Evil 10",
+    "title": "GTA 6 Really Is Better On PS5 Than Xbox",
     "source": "Polygon",
-    "summary": "Resident Evil Requiem was nominated for a number of TGA awards, including for Angela Sant'Albano. The actor thinks Grace could be in a sequel.",
-    "date": "Tue, 17 Nov 2026 23:00:17 GMT",
-    "link": "https://www.polygon.com/resident-evil-requiem-grace-angela-santalbano-actor-game-awards-nomination-2026/",
+    "summary": "Sony's aggressive Grand Theft Auto 6 marketing campaign wasn't without merit. GTA 6's DualSense integration makes it feel like a PS5 exclusive.",
+    "date": "Wed, 18 Nov 2026 15:00:18 GMT",
+    "link": "https://www.polygon.com/gta-6-ps5-vs-xbox/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.64,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "When Are The Game Awards 2026: Date, Time, and How to Watch",
+    "title": "Ridley Scott's Sci-Fi Masterpiece Could Return to Theaters in a Shocking Way, Producers Reveal",
     "source": "Polygon",
-    "summary": "Everything you need to know about where and when to watch The Game Awards 2026, including date, start time, and how long The Game Awards are.",
-    "date": "Tue, 17 Nov 2026 21:20:01 GMT",
-    "link": "https://www.polygon.com/game-awards-2026-how-to-watch-when-date-time/",
+    "summary": "The producers of Blade Runner 2099 want to carefully expand the franchise",
+    "date": "Wed, 18 Nov 2026 14:00:18 GMT",
+    "link": "https://www.polygon.com/blade-runner-2099-franchise-interview/",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.31,
+      "score": -0.55,
       "badge": "danger"
     },
     "tags": [
@@ -197,11 +194,29 @@
   },
   {
     "id": 12,
-    "title": "Magic: The Gathering Boss Reveals the Next Marvel Set’s Surprising Origin Story",
+    "title": "GTA 6 Hits 99 on Metacritic, Crowned Best Game Ever in a Wave of Rave Reviews",
     "source": "Polygon",
-    "summary": "Aaron Forsythe said Magic’s original narrative got ‘total buy-in’ from Marvel",
-    "date": "Tue, 17 Nov 2026 21:00:17 GMT",
-    "link": "https://www.polygon.com/mtg-marvels-darkhold-destiny-story-interview/",
+    "summary": "Rockstar's Grand Theft Auto 6 beats the original Legend of Zelda: Ocarina of Time amid massive critical acclaim",
+    "date": "Wed, 18 Nov 2026 12:17:52 GMT",
+    "link": "https://www.polygon.com/gta-6-review-roundup/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "GTA 6 guide: A full walkthrough of all our tips and advice on Vice City systems",
+    "source": "PC Gamer",
+    "summary": "Everything we've learned after digging into GTA 6 for over 100 hours.",
+    "date": "Wed, 18 Nov 2026 14:34:08 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.35,
@@ -214,33 +229,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 13,
-    "title": "Miami Heat shows off its 'Vice City hardwood' ahead of the big Grand Theft Auto 6 basketball game",
-    "source": "PC Gamer",
-    "summary": "They've got new uniforms, too. They're pretty cool.",
-    "date": "Tue, 17 Nov 2026 23:08:11 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/miami-heat-shows-off-its-vice-city-hardwood-ahead-of-the-big-grand-theft-auto-6-basketball-game/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 14,
-    "title": "Caves of Qud's first DLC is forcing its devs to ask important questions: 'How does a crab get high?'",
+    "title": "'AAA is under the most amount of threat': Ex-Take Two boss explains why making big games is unsustainable—except for GTA 6",
     "source": "PC Gamer",
-    "summary": "Qud's co-creators discuss dogs with guns, handless tattooing, and the tragedy of a sinning tree.",
-    "date": "Tue, 17 Nov 2026 22:35:14 +0000",
-    "link": "https://www.pcgamer.com/games/roguelike/caves-of-quds-first-dlc-is-forcing-its-devs-to-ask-important-questions-how-does-a-crab-get-high/",
+    "summary": "\"They may come out five years from now, and the world may not care.\"",
+    "date": "Wed, 18 Nov 2026 14:10:54 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/aaa-is-under-the-most-amount-of-threat-ex-take-two-boss-explains-why-making-big-games-is-unsustainable-except-for-gta-6/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.27,
+      "score": 0.25,
       "badge": "success"
     },
     "tags": [
@@ -251,32 +248,32 @@
   },
   {
     "id": 15,
-    "title": "Jensen Huang isn't coming back, says Nvidia board",
+    "title": "AMD says it 'loves gamers' only weeks after proclaiming it is a datacenter-first company",
     "source": "PC Gamer",
-    "summary": "Huang announced that he would accept reinstatement, but Nvidia isn't offering it.",
-    "date": "Tue, 17 Nov 2026 22:33:32 +0000",
-    "link": "https://www.pcgamer.com/software/ai/jensen-huang-isnt-coming-back-says-nvidia-board/",
+    "summary": "Someone, please, think of the gamers.",
+    "date": "Wed, 18 Nov 2026 12:57:35 +0000",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-it-loves-gamers-only-weeks-after-proclaiming-it-is-a-datacenter-first-company/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "Nvidia"
+      "AMD"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Tomb Raider developer makes fifth round of layoffs in less than 2 years",
+    "title": "Grand Theft Auto 6 review roundup: Rockstar's 'magnum opus', a great love story, and a new bar for open worlds",
     "source": "PC Gamer",
-    "summary": "Crystal Dynamics confirmed that eight people have been let go in a \"necessary business decision.\"",
-    "date": "Tue, 17 Nov 2026 20:57:44 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/tomb-raider-developer-makes-fifth-round-of-layoffs-in-less-than-2-years/",
+    "summary": "Only 62 bird varieties, though.",
+    "date": "Wed, 18 Nov 2026 12:16:29 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-review-roundup-rockstars-magnum-opus-a-great-love-story-and-a-new-bar-for-open-worlds/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.32,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -286,31 +283,14 @@
   },
   {
     "id": 17,
-    "title": "BioWare Is Dead, But Mass Effect’s Spiritual Successor Exodus Just Gave Us A Glimpse of A Spicy Romance",
+    "title": "GTA 6 Isn’t Worth Buying A Fancy Controller For",
     "source": "GameSpot",
-    "summary": "For the first time since its announcement during December 2023's The Game Awards, players are getting a look at the female player-character from its upcoming sci-fi RPG Exodus--which was full of Mass Effect DNA back when we previewed it in September.\nThe default female version of main character Jun ...",
-    "date": "Tue, 17 Nov 2026 23:46:24 +0000",
-    "link": "https://www.gamespot.com/articles/bioware-is-dead-but-mass-effects-spiritual-successor-exodus-just-gave-us-a-glimpse-of-a-spicy-romance/",
+    "summary": "In all the excitement surrounding Grand Theft Auto VI (check out our 10/10 review), it might be tempting to upgrade your setup. For a game 13 years in the making, is now the time to upgrade my TV? Maybe a PS5 Pro is in order? It's a coincidence I finally upgraded my speaker system after 18 years, I ...",
+    "date": "Wed, 18 Nov 2026 14:37:59 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-isnt-worth-buying-a-fancy-controller-for/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "RPG"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "This Fighting Game Is Nominated For A TGA Despite Development Shutting Down",
-    "source": "GameSpot",
-    "summary": "Earlier today, Geoff Keighley announced all of the nominees for The Game Awards 2026, the annual celebration of gaming held in Los Angeles. Among expected nominees Grand Theft Auto VI, The Legend of Zelda: Ocarina of Time, and Control Resonant was one surprising name: 2XKO has been nominated for Bes...",
-    "date": "Tue, 17 Nov 2026 20:59:17 +0000",
-    "link": "https://www.gamespot.com/articles/this-fighting-game-is-nominated-for-a-tga-despite-development-shutting-down/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
+      "score": 0.1,
       "badge": "info"
     },
     "tags": [
@@ -320,15 +300,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 19,
-    "title": "How GTA 6 Is Eligible For The Game Awards This Year",
+    "id": 18,
+    "title": "GTA 6 Is Apparently Everything Rockstar Promised And Then Some",
     "source": "GameSpot",
-    "summary": "We've known for some time that Grand Theft Auto 6 was likely to be eligible for The Game Awards, and now that 2026's TGA nominees are live, it's official: Not only is GTA eligible, but it actually has the most nominations of any game.\nThat's somewhat of an unusual situation, given that GTA 6 reviews...",
-    "date": "Thu, 15 Oct 2026 13:09:58 +0000",
-    "link": "https://www.gamespot.com/articles/put-down-your-pitchforks-gta-vi-was-always-eligible-for-the-game-awards-this-year/",
+    "summary": "At long last, Grand Theft Auto 6 launch day has come. With Rockstar's latest project steadily unlocking as the clock strikes midnight worldwide, GTA 6 reviews have gone live, and the praise has been overwhelmingly positive so far. In fact, GTA 6 is reviewing so well that it's currently tied with the...",
+    "date": "Wed, 18 Nov 2026 14:27:01 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-is-apparently-everything-rockstar-promised-and-then-some/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "The GTA 6 Map Is Truly, Truly Massive (Of Course)",
+    "source": "GameSpot",
+    "summary": "Grand Theft Auto 6 has finally arrived--at least in New Zealand and Australia. Lots of people are playing the game already and have made a number of discoveries, including just how massive the map is. \nEven though we knew the GTA 6 map would be big--it has more playable space than GT4, GTA 5, and Re...",
+    "date": "Wed, 18 Nov 2026 14:08:31 +0000",
+    "link": "https://www.gamespot.com/articles/the-gta-6-map-is-truly-truly-massive-of-course/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.01,
+      "score": 0.05,
       "badge": "info"
     },
     "tags": [
@@ -339,14 +337,14 @@
   },
   {
     "id": 20,
-    "title": "Civilization Dev Lays Off 1/3 Of  Staff, New XCOM Game Facing “Development Struggles” – Report",
+    "title": "Want A Custom GTA 6 PS5 Pro? Just Play In The NBA",
     "source": "GameSpot",
-    "summary": "The video game industry's woes continue as Take-Two's 2K division has confirmed that one third of the staff at Civilization and XCOM developer Firaxis Games is being laid off. \nBloomberg confirmed the cuts, which will impact around 60 people. As part of the downsizing, Firaxis studio head Heather Ha...",
-    "date": "Tue, 17 Nov 2026 20:05:42 +0000",
-    "link": "https://www.gamespot.com/articles/civilization-dev-lays-off-1-3-of-staff-new-xcom-game-facing-development-struggles-report/",
+    "summary": "PS5 Pro consoles have been hard to find lately, but there is a trick to getting one: All you need is superb basketball skills and membership on an NBA team based in the state that inspired Grand Theft Auto 6's location. Easy! While it's a little too late to take advantage of this life hack now, thin...",
+    "date": "Wed, 18 Nov 2026 13:59:21 +0000",
+    "link": "https://www.gamespot.com/articles/want-a-custom-gta-6-ps5-pro-just-play-in-the-nba/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.02,
+      "score": 0.07,
       "badge": "info"
     },
     "tags": [
