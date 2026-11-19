@@ -1,358 +1,360 @@
 [
   {
     "id": 1,
-    "title": "GTA 6 Launch Causes Massive Spike in Traffic for Internet Provider Xfinity",
+    "title": "As GTA 6 Skips Discs, GameStop CEO Says Digital-Only 'Has Hurt Consumers' and Retailers",
     "source": "IGN",
-    "summary": "Internet provider Xfinity has reported a massive spike in traffic on Xbox consoles for GTA 6's New Zealand launch.",
-    "date": "Wed, 18 Nov 2026 23:31:24 +0000",
-    "link": "https://www.ign.com/articles/gta-6-launch-causes-massive-spike-in-traffic-for-internet-provider-xfinity",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "The Mac Mini Sized Acemagic Ryzen 7 Micro PC With 24GB RAM and 512GB SSD Is on Sale for Black Friday",
-    "source": "IGN",
-    "summary": "Rare mini PC deal that comes with a generous amount of RAM, memory, and a capable iGPU.",
-    "date": "Wed, 18 Nov 2026 23:10:00 +0000",
-    "link": "https://www.ign.com/articles/acemagic-mini-pc-deal-november-2026",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "GTA 6 Doesn't Let Players Pick Up Prostitutes, but Rockstar Has a Logical Reason for It",
-    "source": "IGN",
-    "summary": "Rockstar Games has revealed why they chose to forego the ability to pick up prostitutes in GTA 6.",
-    "date": "Wed, 18 Nov 2026 23:07:23 +0000",
-    "link": "https://www.ign.com/articles/gta-6-doesnt-let-players-pick-up-prostitutes-but-rockstar-has-a-logical-reason-for-it",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "The LEGO Poké Ball Set Gets Its First Discount Ahead of Amazon's Black Friday Sale",
-    "source": "IGN",
-    "summary": "",
-    "date": "Wed, 18 Nov 2026 23:04:54 +0000",
-    "link": "https://www.ign.com/articles/the-lego-poke-ball-set-gets-its-first-discount-amazon-black-friday-2026",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.04,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "GTA 6's Japanese version only partially obscures male nudity by putting Jason in a thong, seemingly due to regional censorship",
-    "source": "Eurogamer",
-    "summary": "GTA 6 is slowly rolling out across the globe. The crime epic's already available to play in countries such as South Korea and New Zealand, but Japanese players are finding out that male nudity is only partially obscured by a thin black thong that covers Jason and the other men in Leonida. Read more...",
-    "date": "Wed, 18 Nov 2026 20:40:20 +0000",
-    "link": "https://www.eurogamer.net/gta-6-japanese-jason-thong-regional-censorship",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Delete GTA 6 from your hard drive and indie publisher Devolver Digital might give you a free game",
-    "source": "Eurogamer",
-    "summary": "GTA 6 is out at midnight everywhere (19th November), but it's far from the only game in town. Indie publisher Devolver Digital is taking on the open-world behemoth with its very own Volvy's Adventure: Reslimed, out the same day, and you can win a free copy of the platformer by proving you've deleted...",
-    "date": "Wed, 18 Nov 2026 19:08:20 +0000",
-    "link": "https://www.eurogamer.net/delete-gta-6-free-game-devolver-digital",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "GTA 6 won't let you use cheats until you complete the main story, and locks progression when you do",
-    "source": "Eurogamer",
-    "summary": "Here's a twist: you can't use cheats in Grand Theft Auto 6 until you complete the entire game's main story. Read more...",
-    "date": "Wed, 18 Nov 2026 18:42:20 +0000",
-    "link": "https://www.eurogamer.net/gta-6-no-cheats-until-completing-main-story",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Even the PS5 Pro is \"not powerful enough\" to run GTA 6 at 60FPS or 40FPS, Rockstar says",
-    "source": "Eurogamer",
-    "summary": "Don't expect GTA 6 to get an update supporting higher framerate modes, at least, not on current-generation consoles. Rockstar has explained that even the most powerful console of the bunch, the PS5 Pro, isn't powerful enough to run the lavish game at 40FPS or 60FPS. Read more...",
-    "date": "Wed, 18 Nov 2026 18:17:50 +0000",
-    "link": "https://www.eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "All Cheat Codes in GTA 6",
-    "source": "Polygon",
-    "summary": "Grand Theft Auto 6 features a huge list of cheats. Here's how to unlock them all, and what each one does.",
-    "date": "Thu, 19 Nov 2026 05:01:18 GMT",
-    "link": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.45,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "GTA 6 Cast List: Who plays Jason, Lucia and More",
-    "source": "Polygon",
-    "summary": "Grand Theft Auto 6 features an enormous cast of characters. Here's who plays Jason, Lucia, and the rest of the major players.",
-    "date": "Thu, 19 Nov 2026 05:01:18 GMT",
-    "link": "https://www.polygon.com/gta-6-cast-list-actors-cameos-grand-theft-auto/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.27,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "How Long Does It Take To Beat GTA 6?",
-    "source": "Polygon",
-    "summary": "GTA 6 has the biggest story in the series' history. Here's how long it will take you to beat it.",
-    "date": "Thu, 19 Nov 2026 05:01:18 GMT",
-    "link": "https://www.polygon.com/gta-6-how-long-to-beat-grand-theft-auto/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "'Calvin and Hobbes' Best Miss Wormwood Quote Is Still Among the Smartest in Comic Strip History",
-    "source": "Polygon",
-    "summary": "Looking back at Miss Wormwood's best moments in Calvin and Hobbes",
-    "date": "Thu, 19 Nov 2026 05:00:17 GMT",
-    "link": "https://www.polygon.com/miss-wormwood-calvin-hobbes/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.56,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Not even Walton Goggins knows if Fallout will have a Season 4: 'if we get the opportunity to come back for season four, that would continue to honor how sacred this is to people'",
-    "source": "PC Gamer",
-    "summary": "Let's ride into the sunset together.",
-    "date": "Thu, 19 Nov 2026 03:30:59 +0000",
-    "link": "https://www.pcgamer.com/movies-tv/not-even-walton-goggins-knows-if-fallout-will-have-a-season-4-if-we-get-the-opportunity-to-come-back-for-season-four-that-would-continue-to-honor-how-sacred-this-is-to-people/",
+    "summary": "As GTA 6 launches without a physical disc, GameStop CEO Ryan Cohen warns that the industry's shift to digital-only games has hurt both consumers and retail.",
+    "date": "Thu, 19 Nov 2026 12:46:36 +0000",
+    "link": "https://www.ign.com/articles/gamestop-ceo-blasts-digital-only-gta-6-no-disc",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
-    "title": "Over an hour of new Total War: Warhammer 40,000 campaign footage shows gear customization, fleet mechanics, and emphasizes space marines are not always trusted and hard to replace",
-    "source": "PC Gamer",
-    "summary": "Every space marine is sacred, every space marine is good / every space marine is needed in your neighborhood.",
-    "date": "Thu, 19 Nov 2026 03:09:13 +0000",
-    "link": "https://www.pcgamer.com/games/strategy/over-an-hour-of-new-total-war-warhammer-40-000-campaign-footage-shows-gear-customization-fleet-mechanics-and-emphasizes-space-marines-are-not-always-trusted-and-hard-to-replace/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Set phasers to stun (the contents of my wallet): Magic's Star Trek crossover is one of the good ones",
-    "source": "PC Gamer",
-    "summary": "Magic: The Gathering's Universes Beyond line goes beyond the final frontier.",
-    "date": "Wed, 18 Nov 2026 22:53:00 +0000",
-    "link": "https://www.pcgamer.com/games/card-games/set-phasers-to-stun-the-contents-of-my-wallet-magics-star-trek-crossover-is-one-of-the-good-ones/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.42,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "GTA 6: Where to find your first plane and helicopter right away",
-    "source": "PC Gamer",
-    "summary": "Steal your first aircraft close to your GTA 6 starting point.",
-    "date": "Wed, 18 Nov 2026 22:51:08 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "GTA 6’s Best Song Is A Nelly Furtado Cover From Azerbaijan",
-    "source": "GameSpot",
-    "summary": "One of the mainstay features in Rockstar's Grand Theft Auto series is radio stations that can be listened to while driving in cars or, as in GTA 6, on the go if you acquire headphones. As a music-discovery vehicle, GTA: Vice City introduced me to many '80s classics across a variety of genres. With G...",
-    "date": "Wed, 18 Nov 2026 20:58:49 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6s-best-song-is-a-nelly-furtado-cover-from-azerbaijan/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.67,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "PSN Went Down Sorta On GTA 6 Eve",
-    "source": "GameSpot",
-    "summary": "On the eve of GTA 6's official launch on November 19, Sony's PlayStation Network appears to be facing some issues, at least for some people, at some point, today.\nReports have emerged that the PSN is borked, and although the PlayStation Status website says everything is fine, that might not be true ...",
-    "date": "Wed, 18 Nov 2026 20:55:37 +0000",
-    "link": "https://www.gamespot.com/articles/psn-went-down-sorta-on-gta-6-eve/",
+    "id": 2,
+    "title": "Could This Be the Start of GTA 6's Version of the Mount Chiliad Mystery?",
+    "source": "IGN",
+    "summary": "GTA 6 player spots what they think may be the start of the next Mount Chiliad mystery.",
+    "date": "Thu, 19 Nov 2026 12:02:43 +0000",
+    "link": "https://www.ign.com/articles/gta-6-mount-chiliad-mystery",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.08,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "PlayStation"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 19,
-    "title": "KFC Announces GTA 6 Promo Where You Get A Disc-Shaped Piece Of Chicken",
-    "source": "GameSpot",
-    "summary": "A lot of people are upset that they can't get GTA 6 on a physical disc, and KFC is now stepping up to do what Rockstar isn't. \nKFC Spain has announced a \"Replace the Disc\" campaign where customers can get a free disc-shaped piece of fried chicken when they bring in their GTA 6 box. The promotion tak...",
-    "date": "Wed, 18 Nov 2026 20:22:30 +0000",
-    "link": "https://www.gamespot.com/articles/kfc-announces-gta-6-promo-where-you-get-a-disc-shaped-piece-of-chicken/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.2,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "How Xbox’s Streaming Deal For GTA 6 Could Expand Its Marketshare By 30%",
-    "source": "GameSpot",
-    "summary": "Microsoft and Take-Two recently announced a deal to allow people to stream Rockstar's GTA 6, and that significantly increases the game's addressable market on Xbox and means people can play the game for as little as $92. \nThis is according to a newly issued report from Ampere Analysis, which said th...",
-    "date": "Wed, 18 Nov 2026 19:53:58 +0000",
-    "link": "https://www.gamespot.com/articles/how-xboxs-streaming-deal-for-gta-6-could-expand-its-marketshare-by-30/",
+    "id": 3,
+    "title": "Get Both Prime Video's Fallout 4K SteelBooks for Only $30 Each During Amazon's Black Friday Sale",
+    "source": "IGN",
+    "summary": "",
+    "date": "Thu, 19 Nov 2026 12:01:00 +0000",
+    "link": "https://www.ign.com/articles/get-both-prime-videos-fallout-4k-steelbooks-for-30-each-for-black-friday-2026",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": -0.08,
       "badge": "info"
     },
     "tags": [
-      "Xbox"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "You Have to Become a Complete Psychopath to Get A 6 Star Wanted Level in GTA 6",
+    "source": "IGN",
+    "summary": "GTA 6 sees the return of the classic six-star wanted system, but gaining the highest level demands much more outrageous criminal behaviour than you might expect.",
+    "date": "Thu, 19 Nov 2026 12:00:00 +0000",
+    "link": "https://www.ign.com/articles/you-have-to-become-a-complete-psychopath-to-get-a-6-star-wanted-level-in-gta-6",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.13,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Rockstar reveals full GTA 6 cast list, finally ending speculation about who plays Jason Duval in the game",
+    "source": "Eurogamer",
+    "summary": "Rockstar has finally announced the full cast list for Grand Theft Auto 6, having left fans speculating right up to the game's release about which actors play the game's leads. Read more...",
+    "date": "Thu, 19 Nov 2026 15:07:00 +0000",
+    "link": "https://www.eurogamer.net/gta-6-full-cast-list-jason-duval-actor",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Does GTA 6 have an 'easy mode'? Not officially, but there are two very important settings you can change to make the game less difficult",
+    "source": "Eurogamer",
+    "summary": "By now, you've probably heard that you cannot use cheats in GTA 6 until you complete the main story. Not only that, but enabling cheat codes also locks story progression and deactivates the ability to save. Basically, you can use cheats to have a quick crime spree and blow off some steam, then it's ...",
+    "date": "Thu, 19 Nov 2026 14:42:20 +0000",
+    "link": "https://www.eurogamer.net/gta-6-easy-mode-accessibility-options",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Warren Spector lambasts GTA 6's \"billion dollar\" development - 'I just hope it's is the last of its kind even if it's the best we have to offer'",
+    "source": "Eurogamer",
+    "summary": "As GTA 6 finally arrives, increasingly outspoken games industry legend Warren Spector - known for seminal immersive sims including Deus Ex - has offered both praise for the game's achievements and lambasted its \"billion dollar\" development model, writing, \"I just hope GTA 6 is the last of its kind e...",
+    "date": "Thu, 19 Nov 2026 14:08:40 +0000",
+    "link": "https://www.eurogamer.net/gta-6-warren-spector-lambasts-billion-dollar-development",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.26,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "As Rockstar's alleged \"union busting\" tribunal hearing comes to a close amid GTA 6 launch, judge pledges to deliver verdict \"as quickly as I possibly can\"",
+    "source": "Eurogamer",
+    "summary": "Closing statements in Rockstar and IWGB's employment tribunal case - revolving around the GTA 6 developer's alleged 'union busting' and the firing of 34 employees - have now been read, bringing the hearing to an end. There's currently no timeline for a verdict, however, with one commentator suggesti...",
+    "date": "Thu, 19 Nov 2026 14:08:10 +0000",
+    "link": "https://www.eurogamer.net/gta-6-rockstar-tribunal-awaits-verdict",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "GTA 6 Just Brought Back the Best E3 Meme of All Time",
+    "source": "Polygon",
+    "summary": "GTA 6 includes a sly reference to a cringe-worthy moment from Sony's E3 conference in 2006.",
+    "date": "Thu, 19 Nov 2026 15:00:15 GMT",
+    "link": "https://www.polygon.com/gta-6-giant-enemy-crab-e3/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "Should you defuse or provoke Mandy in GTA 6?",
+    "source": "Polygon",
+    "summary": "In this guide, we explain if you should defuse or provoke Mandy in GTA 6 during the \"Pipework\" quest in Chapter 1.",
+    "date": "Thu, 19 Nov 2026 14:52:16 GMT",
+    "link": "https://www.polygon.com/gta-6-mandy-scene-defuse-provoke-pipework-grand-theft-auto/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "Where to find strip clubs in GTA 6",
+    "source": "Polygon",
+    "summary": "Here's where to find strip clubs and how to pay for a private dance in GTA 6.",
+    "date": "Thu, 19 Nov 2026 14:33:19 GMT",
+    "link": "https://www.polygon.com/gta-6-strip-club-locations-private-dances/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Fortnite Adds New Way to Get the Pirate Shop Token",
+    "source": "Polygon",
+    "summary": "Epic Games has made the Pirate Shop Access token available in Respawn Rumble, easing players' searches.",
+    "date": "Thu, 19 Nov 2026 12:07:40 GMT",
+    "link": "https://www.polygon.com/fortnite-pirate-shop-access-token-respawn-rumble/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.21,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Should you kill or spare Arnold in GTA 6?",
+    "source": "PC Gamer",
+    "summary": "Let him leave or put an end to him.",
+    "date": "Thu, 19 Nov 2026 13:48:23 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-arnold-kill-or-spare/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "You can't cheat on Lucia in GTA 6 with Mandy or strippers because Rockstar doesn't believe that's 'complementary to the feeling and motivations' of Jason and Lucia's story",
+    "source": "PC Gamer",
+    "summary": "God forbid you experience a happy and healthy relationship.",
+    "date": "Thu, 19 Nov 2026 13:44:38 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/you-cant-cheat-on-lucia-in-gta-6-with-mandy-or-strippers-because-rockstar-doesnt-believe-thats-complementary-to-the-feeling-and-motivations-of-jason-and-lucias-story/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.65,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "OLED monitor shipments have doubled from last year, and all I can say is it's well deserved",
+    "source": "PC Gamer",
+    "summary": "It's nice to see OLED get even more love.",
+    "date": "Thu, 19 Nov 2026 13:19:30 +0000",
+    "link": "https://www.pcgamer.com/hardware/gaming-monitors/oled-monitor-shipments-have-doubled-from-last-year-and-all-i-can-say-is-its-well-deserved/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "If you're fed up of GTA 6 at 30 fps, this tool gets it up to 60 and injects DLSS 5 if you have a powerful enough gaming PC",
+    "source": "PC Gamer",
+    "summary": "Though we've struggled to get it working over here.",
+    "date": "Thu, 19 Nov 2026 12:59:29 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/if-youre-fed-up-of-gta-6-at-30-fps-this-tool-gets-it-up-to-60-and-injects-dlss-5-if-you-have-a-powerful-enough-gaming-pc/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
+    },
+    "tags": [
+      "FPS",
+      "DLSS"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "The GTA 6 Map Is Truly, Truly Massive (Of Course)",
+    "source": "GameSpot",
+    "summary": "Grand Theft Auto 6 has finally arrived, and Rockstar Games has released the game's official map. It is absolutely gigantic. \nEven though we knew the GTA 6 map would be big--it has more playable space than GT4, GTA 5, and Red Dead Redemption 2 combined--seeing the map for yourself shows off its truly...",
+    "date": "Wed, 18 Nov 2026 14:08:31 +0000",
+    "link": "https://www.gamespot.com/articles/the-gta-6-map-is-truly-truly-massive-of-course/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Why GTA 6 Doesn’t Include Disney World",
+    "source": "GameSpot",
+    "summary": "Walt Disney World is synonymous with Florida, but the iconic theme park doesn't show up in Rockstar's GTA 6, which takes place in a fictional Florida called Leonida. Many are wondering why, especially when GTA: Vice City had its own parody of the theme park--Fun World--many years ago.\nRockstar North...",
+    "date": "Thu, 19 Nov 2026 14:46:06 +0000",
+    "link": "https://www.gamespot.com/articles/why-gta-6-doesnt-include-disney-world/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.32,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "GTA 6’s Digital Release Has GameStop CEO Defending Physical Games, For Obvious Reasons",
+    "source": "GameSpot",
+    "summary": "The GTA 6 launch looks set to break several records, as the digital-only game appears on track to be a major critical and commercial hit. Right on cue, GameStop CEO Ryan Cohen has criticized publishers that forgo a traditional physical release as a business strategy that hurts consumers and GameStop...",
+    "date": "Thu, 19 Nov 2026 14:15:21 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-digital-release-has-gamestop-ceo-defending-physical-games-for-obvious-reasons/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 20,
+    "title": "Despite The Pricing Hellscape, Console Sales Grew In October",
+    "source": "GameSpot",
+    "summary": "Video game consoles are more expensive than ever, but sales are growing regardless, at least in the US. \nCircana has released its report for US video game industry sales in October, confirming that PS5 unit sales increased by 5% compared to October 2025. That's despite the average selling price of a...",
+    "date": "Thu, 19 Nov 2026 14:07:46 +0000",
+    "link": "https://www.gamespot.com/articles/despite-the-pricing-hellscape-console-sales-grew-in-october/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.21,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
