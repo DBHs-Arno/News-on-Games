@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "As GTA 6 Skips Discs, GameStop CEO Says Digital-Only 'Has Hurt Consumers' and Retailers",
+    "title": "Save 33% Off the Shokz OpenRun Pro 2 Sport Headphone With Bone Conduction Tech for Black Friday",
     "source": "IGN",
-    "summary": "As GTA 6 launches without a physical disc, GameStop CEO Ryan Cohen warns that the industry's shift to digital-only games has hurt both consumers and retail.",
-    "date": "Thu, 19 Nov 2026 12:46:36 +0000",
-    "link": "https://www.ign.com/articles/gamestop-ceo-blasts-digital-only-gta-6-no-disc",
+    "summary": "The best headphones for runners.",
+    "date": "Thu, 19 Nov 2026 22:40:00 +0000",
+    "link": "https://www.ign.com/articles/shokz-openrun-pro-2-sport-headphone-deal-november-2026",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.42,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -19,15 +19,15 @@
   },
   {
     "id": 2,
-    "title": "Could This Be the Start of GTA 6's Version of the Mount Chiliad Mystery?",
+    "title": "GTA 6's Viral NPC May Actually Have a Dark Secret",
     "source": "IGN",
-    "summary": "GTA 6 player spots what they think may be the start of the next Mount Chiliad mystery.",
-    "date": "Thu, 19 Nov 2026 12:02:43 +0000",
-    "link": "https://www.ign.com/articles/gta-6-mount-chiliad-mystery",
+    "summary": "A character in GTA 6 named Mandy has been going viral since the game's launch for being a total smokeshow, but she also seems to have a dark secret.",
+    "date": "Thu, 19 Nov 2026 22:38:34 +0000",
+    "link": "https://www.ign.com/articles/gta-6-mandy-serial-killer",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.21,
+      "badge": "danger"
     },
     "tags": [
       "Gaming",
@@ -37,32 +37,31 @@
   },
   {
     "id": 3,
-    "title": "Get Both Prime Video's Fallout 4K SteelBooks for Only $30 Each During Amazon's Black Friday Sale",
+    "title": "You Can Now Buy the Steam Machine Without a Reservation – But Supplies Are Limited",
     "source": "IGN",
-    "summary": "",
-    "date": "Thu, 19 Nov 2026 12:01:00 +0000",
-    "link": "https://www.ign.com/articles/get-both-prime-videos-fallout-4k-steelbooks-for-30-each-for-black-friday-2026",
+    "summary": "Back when the Steam Machine first came out in June, it was in short supply, due to the limited amount of hardware Valve was able to get its hands on (thanks, RAM crisis). But now, about 5 months after launch, you can finally just buy a Steam Machine.",
+    "date": "Thu, 19 Nov 2026 22:34:28 +0000",
+    "link": "https://www.ign.com/articles/you-can-now-buy-the-steam-machine-without-a-reservation-but-supplies-are-limited",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.08,
+      "score": 0.08,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Steam"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "You Have to Become a Complete Psychopath to Get A 6 Star Wanted Level in GTA 6",
+    "title": "Video Game Spending Dropped 14% This October, Possibly Because Everyone Was Preparing for GTA 6",
     "source": "IGN",
-    "summary": "GTA 6 sees the return of the classic six-star wanted system, but gaining the highest level demands much more outrageous criminal behaviour than you might expect.",
-    "date": "Thu, 19 Nov 2026 12:00:00 +0000",
-    "link": "https://www.ign.com/articles/you-have-to-become-a-complete-psychopath-to-get-a-6-star-wanted-level-in-gta-6",
+    "summary": "The amount of money that players spent on video games this October fell 14%, and it’s little surprise that this coincided with the release of GTA 6 in November.",
+    "date": "Thu, 19 Nov 2026 22:20:09 +0000",
+    "link": "https://www.ign.com/articles/video-game-spending-dropped-14-percent-this-october-possibly-because-everyone-was-preparing-for-gta-6",
     "sentiment": {
       "label": "Critical / Mixed",
-      "score": -0.13,
+      "score": -0.17,
       "badge": "danger"
     },
     "tags": [
@@ -73,15 +72,15 @@
   },
   {
     "id": 5,
-    "title": "Rockstar reveals full GTA 6 cast list, finally ending speculation about who plays Jason Duval in the game",
+    "title": "Ubisoft says Assassin's Creed Jade is still alive as it merges two of its Creative Houses",
     "source": "Eurogamer",
-    "summary": "Rockstar has finally announced the full cast list for Grand Theft Auto 6, having left fans speculating right up to the game's release about which actors play the game's leads. Read more...",
-    "date": "Thu, 19 Nov 2026 15:07:00 +0000",
-    "link": "https://www.eurogamer.net/gta-6-full-cast-list-jason-duval-actor",
+    "summary": "Ubisoft has confirmed that while Assassin's Creed Jade - its mobile entry in the series - is still in development, its focus remains with console and PC. Read more...",
+    "date": "Thu, 19 Nov 2026 21:09:40 +0000",
+    "link": "https://www.eurogamer.net/ubisoft-assassins-creed-jade-still-in-development-creative-houses-merge",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.38,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -91,31 +90,32 @@
   },
   {
     "id": 6,
-    "title": "Does GTA 6 have an 'easy mode'? Not officially, but there are two very important settings you can change to make the game less difficult",
+    "title": "Infamous GTA 6 leaker CyberLeek is back, and this time the group claims to have leaked a full development build of the game",
     "source": "Eurogamer",
-    "summary": "By now, you've probably heard that you cannot use cheats in GTA 6 until you complete the main story. Not only that, but enabling cheat codes also locks story progression and deactivates the ability to save. Basically, you can use cheats to have a quick crime spree and blow off some steam, then it's ...",
-    "date": "Thu, 19 Nov 2026 14:42:20 +0000",
-    "link": "https://www.eurogamer.net/gta-6-easy-mode-accessibility-options",
+    "summary": "CyberLeek, the persona of a hacker group that was responsible for leaking GTA 6 gameplay before the game launched, has reappeared today, claiming to have released a development build of the final version of the game on its site. This new leak appears to be making good on a threat posted back in Octo...",
+    "date": "Thu, 19 Nov 2026 21:08:50 +0000",
+    "link": "https://www.eurogamer.net/cyberleek-gta-6-dev-build",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.05,
+      "score": -0.03,
       "badge": "info"
     },
     "tags": [
-      "Steam"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 7,
-    "title": "Warren Spector lambasts GTA 6's \"billion dollar\" development - 'I just hope it's is the last of its kind even if it's the best we have to offer'",
+    "title": "World of Warcraft: Forever has more weekly players than WoW has seen in 15 years, says Blizzard",
     "source": "Eurogamer",
-    "summary": "As GTA 6 finally arrives, increasingly outspoken games industry legend Warren Spector - known for seminal immersive sims including Deus Ex - has offered both praise for the game's achievements and lambasted its \"billion dollar\" development model, writing, \"I just hope GTA 6 is the last of its kind e...",
-    "date": "Thu, 19 Nov 2026 14:08:40 +0000",
-    "link": "https://www.eurogamer.net/gta-6-warren-spector-lambasts-billion-dollar-development",
+    "summary": "World of Warcraft: Forever now has more people playing each week than World of Warcraft has seen in 15 years, according to Blizzard. Read more...",
+    "date": "Thu, 19 Nov 2026 18:52:50 +0000",
+    "link": "https://www.eurogamer.net/wow-forever-weekly-players-15-years",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.26,
+      "score": 0.4,
       "badge": "success"
     },
     "tags": [
@@ -126,32 +126,14 @@
   },
   {
     "id": 8,
-    "title": "As Rockstar's alleged \"union busting\" tribunal hearing comes to a close amid GTA 6 launch, judge pledges to deliver verdict \"as quickly as I possibly can\"",
+    "title": "GTA 6 players are being abducted by aliens and knocked out by Bigfoot",
     "source": "Eurogamer",
-    "summary": "Closing statements in Rockstar and IWGB's employment tribunal case - revolving around the GTA 6 developer's alleged 'union busting' and the firing of 34 employees - have now been read, bringing the hearing to an end. There's currently no timeline for a verdict, however, with one commentator suggesti...",
-    "date": "Thu, 19 Nov 2026 14:08:10 +0000",
-    "link": "https://www.eurogamer.net/gta-6-rockstar-tribunal-awaits-verdict",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "GTA 6 Just Brought Back the Best E3 Meme of All Time",
-    "source": "Polygon",
-    "summary": "GTA 6 includes a sly reference to a cringe-worthy moment from Sony's E3 conference in 2006.",
-    "date": "Thu, 19 Nov 2026 15:00:15 GMT",
-    "link": "https://www.polygon.com/gta-6-giant-enemy-crab-e3/",
+    "summary": "Grand Theft Auto 6 has only been out for a matter of hours, and players have already tracked down a UFO in the woods and a Bigfoot in the swamps. Read more...",
+    "date": "Thu, 19 Nov 2026 17:48:50 +0000",
+    "link": "https://www.eurogamer.net/gta-6-ufo-bigfoot-easter-eggs",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.5,
+      "score": 0.21,
       "badge": "success"
     },
     "tags": [
@@ -161,12 +143,29 @@
     "read_time": "1 min read"
   },
   {
-    "id": 10,
-    "title": "Should you defuse or provoke Mandy in GTA 6?",
+    "id": 9,
+    "title": "Valve Warns of a Possible Steam Machine Price Hike",
     "source": "Polygon",
-    "summary": "In this guide, we explain if you should defuse or provoke Mandy in GTA 6 during the \"Pipework\" quest in Chapter 1.",
-    "date": "Thu, 19 Nov 2026 14:52:16 GMT",
-    "link": "https://www.polygon.com/gta-6-mandy-scene-defuse-provoke-pipework-grand-theft-auto/",
+    "summary": "As computer components get more expensive, Valve warns its Steam Machine might get more expensive as it struggles to meet demand for the 2TB model.",
+    "date": "Thu, 19 Nov 2026 23:07:46 GMT",
+    "link": "https://www.polygon.com/steam-machine-possible-price-hike/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "GTA 6 Gamble to Get Army Soldiers to Reenlist Actually Worked",
+    "source": "Polygon",
+    "summary": "The US Army offered soldiers a four-day GTA 6 weekend as a reenlistment incentive. Here’s why 43 soldiers signed up.",
+    "date": "Thu, 19 Nov 2026 21:30:55 GMT",
+    "link": "https://www.polygon.com/gta-6-us-army-soldiers-reenlist-four-day-weekend/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -180,32 +179,32 @@
   },
   {
     "id": 11,
-    "title": "Where to find strip clubs in GTA 6",
+    "title": "Steam Makes Strategy RPG Masterpiece Free For a Limited Time",
     "source": "Polygon",
-    "summary": "Here's where to find strip clubs and how to pay for a private dance in GTA 6.",
-    "date": "Thu, 19 Nov 2026 14:33:19 GMT",
-    "link": "https://www.polygon.com/gta-6-strip-club-locations-private-dances/",
+    "summary": "Crusader Kings 3 is free to play on Steam until Nov. 23, with a 70% discount available for players who want to keep it.",
+    "date": "Thu, 19 Nov 2026 21:19:33 GMT",
+    "link": "https://www.polygon.com/free-games-on-steam-november-2026-crusader-kings-3/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.28,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Steam",
+      "RPG"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "Fortnite Adds New Way to Get the Pirate Shop Token",
+    "title": "GTA 6 Shows Why You Should Never, Ever, Ever Text and Drive (Ever)",
     "source": "Polygon",
-    "summary": "Epic Games has made the Pirate Shop Access token available in Respawn Rumble, easing players' searches.",
-    "date": "Thu, 19 Nov 2026 12:07:40 GMT",
-    "link": "https://www.polygon.com/fortnite-pirate-shop-access-token-respawn-rumble/",
+    "summary": "You can pull off a lot of crimes in Grand Theft Auto 6, but texting and driving might be the most dangerous one of all.",
+    "date": "Thu, 19 Nov 2026 21:00:18 GMT",
+    "link": "https://www.polygon.com/gta-6-texting-and-driving/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.21,
+      "score": 0.13,
       "badge": "success"
     },
     "tags": [
@@ -216,11 +215,28 @@
   },
   {
     "id": 13,
-    "title": "Should you kill or spare Arnold in GTA 6?",
+    "title": "Cyberleek drops what they claim is a near-complete GTA 6 Xbox build online",
     "source": "PC Gamer",
-    "summary": "Let him leave or put an end to him.",
-    "date": "Thu, 19 Nov 2026 13:48:23 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-arnold-kill-or-spare/",
+    "summary": "The leaked file is apparently around 200 GB.",
+    "date": "Thu, 19 Nov 2026 23:17:00 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-drops-what-they-claim-is-a-near-complete-gta-6-xbox-build-online/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Help: I can't stop obeying traffic laws in GTA 6",
+    "source": "PC Gamer",
+    "summary": "What's happening to me!?",
+    "date": "Thu, 19 Nov 2026 22:46:37 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/help-i-cant-stop-obeying-traffic-laws-in-gta-6/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -233,33 +249,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
-    "title": "You can't cheat on Lucia in GTA 6 with Mandy or strippers because Rockstar doesn't believe that's 'complementary to the feeling and motivations' of Jason and Lucia's story",
-    "source": "PC Gamer",
-    "summary": "God forbid you experience a happy and healthy relationship.",
-    "date": "Thu, 19 Nov 2026 13:44:38 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/you-cant-cheat-on-lucia-in-gta-6-with-mandy-or-strippers-because-rockstar-doesnt-believe-thats-complementary-to-the-feeling-and-motivations-of-jason-and-lucias-story/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.65,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 15,
-    "title": "OLED monitor shipments have doubled from last year, and all I can say is it's well deserved",
+    "title": "GTA 6 has the best use of the PS5 controller I've ever seen",
     "source": "PC Gamer",
-    "summary": "It's nice to see OLED get even more love.",
-    "date": "Thu, 19 Nov 2026 13:19:30 +0000",
-    "link": "https://www.pcgamer.com/hardware/gaming-monitors/oled-monitor-shipments-have-doubled-from-last-year-and-all-i-can-say-is-its-well-deserved/",
+    "summary": "The PS5 triggers are changing how I drive in GTA.",
+    "date": "Thu, 19 Nov 2026 22:28:33 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-the-best-use-of-the-ps5-controller-ive-ever-seen/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.4,
+      "score": 1.0,
       "badge": "success"
     },
     "tags": [
@@ -270,33 +268,33 @@
   },
   {
     "id": 16,
-    "title": "If you're fed up of GTA 6 at 30 fps, this tool gets it up to 60 and injects DLSS 5 if you have a powerful enough gaming PC",
+    "title": "Don't stress about collectathon completionism in Queen's Domain: It eventually gives you tools to help find hidden treasures",
     "source": "PC Gamer",
-    "summary": "Though we've struggled to get it working over here.",
-    "date": "Thu, 19 Nov 2026 12:59:29 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/if-youre-fed-up-of-gta-6-at-30-fps-this-tool-gets-it-up-to-60-and-injects-dlss-5-if-you-have-a-powerful-enough-gaming-pc/",
+    "summary": "Collect 'em all, eventually.",
+    "date": "Thu, 19 Nov 2026 22:20:56 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/dont-stress-about-collectathon-completionism-in-queens-domain-it-eventually-gives-you-tools-to-help-find-hidden-treasures/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.17,
+      "badge": "danger"
     },
     "tags": [
-      "FPS",
-      "DLSS"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
-    "title": "The GTA 6 Map Is Truly, Truly Massive (Of Course)",
+    "title": "GTA 6 Dog Who Saves You Is Seemingly Based On A Very Cool Real-Life Dog",
     "source": "GameSpot",
-    "summary": "Grand Theft Auto 6 has finally arrived, and Rockstar Games has released the game's official map. It is absolutely gigantic. \nEven though we knew the GTA 6 map would be big--it has more playable space than GT4, GTA 5, and Red Dead Redemption 2 combined--seeing the map for yourself shows off its truly...",
-    "date": "Wed, 18 Nov 2026 14:08:31 +0000",
-    "link": "https://www.gamespot.com/articles/the-gta-6-map-is-truly-truly-massive-of-course/",
+    "summary": "One of the first cool things that people discovered in Grand Theft Auto 6 is that if you swim out into the ocean too far, you'll find a dog riding a jetski who coaxes you back to shore. \nAs it turns out, the dog looks to be based on a real-life dog named Loosy who does neat stunts in Florida. In rea...",
+    "date": "Thu, 19 Nov 2026 20:40:11 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-dog-who-saves-you-is-seemingly-based-on-a-very-cool-real-life-dog/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.28,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -306,14 +304,14 @@
   },
   {
     "id": 18,
-    "title": "Why GTA 6 Doesn’t Include Disney World",
+    "title": "WoW: Forever Wants To Get Rid Of The Idea Of “BiS” Gear",
     "source": "GameSpot",
-    "summary": "Walt Disney World is synonymous with Florida, but the iconic theme park doesn't show up in Rockstar's GTA 6, which takes place in a fictional Florida called Leonida. Many are wondering why, especially when GTA: Vice City had its own parody of the theme park--Fun World--many years ago.\nRockstar North...",
-    "date": "Thu, 19 Nov 2026 14:46:06 +0000",
-    "link": "https://www.gamespot.com/articles/why-gta-6-doesnt-include-disney-world/",
+    "summary": "World of Warcraft: Forever is approaching itemization and \"best-in-slot\" (BiS) gear differently, with developer Blizzard instead wanting players to have more boss- or biome-specific choices.\nIn the latest episode of the WoW: Forever Podcast, Blizzard dove deep on the MMORPG's itemization changes, ho...",
+    "date": "Thu, 19 Nov 2026 20:30:51 +0000",
+    "link": "https://www.gamespot.com/articles/wow-forever-wants-to-get-rid-of-the-idea-of-bis-gear/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.32,
+      "score": 0.18,
       "badge": "success"
     },
     "tags": [
@@ -324,14 +322,14 @@
   },
   {
     "id": 19,
-    "title": "GTA 6’s Digital Release Has GameStop CEO Defending Physical Games, For Obvious Reasons",
+    "title": "More Mass Layoffs At Ubisoft Underway, Affecting Two Of Its Biggest Studios",
     "source": "GameSpot",
-    "summary": "The GTA 6 launch looks set to break several records, as the digital-only game appears on track to be a major critical and commercial hit. Right on cue, GameStop CEO Ryan Cohen has criticized publishers that forgo a traditional physical release as a business strategy that hurts consumers and GameStop...",
-    "date": "Thu, 19 Nov 2026 14:15:21 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-digital-release-has-gamestop-ceo-defending-physical-games-for-obvious-reasons/",
+    "summary": "Ubisoft has enacted another round of mass layoffs, affecting 166 additional jobs as the French gaming giant continues its cost-cutting program. \nThe job cuts are happening at two of Ubisoft's biggest development hubs in Montreal and Quebec. A spokesperson for Ubisoft said the job cuts are coming to ...",
+    "date": "Thu, 19 Nov 2026 20:15:37 +0000",
+    "link": "https://www.gamespot.com/articles/more-mass-layoffs-at-ubisoft-underway-affecting-two-of-its-biggest-studios/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.0,
+      "score": 0.07,
       "badge": "info"
     },
     "tags": [
@@ -342,15 +340,15 @@
   },
   {
     "id": 20,
-    "title": "Despite The Pricing Hellscape, Console Sales Grew In October",
+    "title": "Want To Start Lifting Effectively? GTA 6 Is A Good Teacher",
     "source": "GameSpot",
-    "summary": "Video game consoles are more expensive than ever, but sales are growing regardless, at least in the US. \nCircana has released its report for US video game industry sales in October, confirming that PS5 unit sales increased by 5% compared to October 2025. That's despite the average selling price of a...",
-    "date": "Thu, 19 Nov 2026 14:07:46 +0000",
-    "link": "https://www.gamespot.com/articles/despite-the-pricing-hellscape-console-sales-grew-in-october/",
+    "summary": "Rockstar's Grand Theft Auto 6 is finally here, and people are discovering all manner of little details in the game that speak to the developer's commitment to realism. One such detail is the game's weightlifting and general fitness systems, and they seem to be pretty great, so much so that if you're...",
+    "date": "Thu, 19 Nov 2026 19:21:27 +0000",
+    "link": "https://www.gamespot.com/articles/want-to-start-lifting-effectively-gta-6-is-a-good-teacher/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.21,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.18,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
