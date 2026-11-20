@@ -1,172 +1,11 @@
 [
   {
     "id": 1,
-    "title": "Some GTA 6 Players Think Max Weight Jason and Lucia Aren't Big Enough",
+    "title": "Eureka Ergonomic Has Black Friday Deals to Give Your Space the Upgrade It Needs",
     "source": "IGN",
-    "summary": "Some GTA 6 players really want Jason and Lucia to be able to get as fat as CJ from GTA: San Andreas.",
-    "date": "Fri, 20 Nov 2026 13:13:39 +0000",
-    "link": "https://www.ign.com/articles/some-gta-6-players-think-max-weight-jason-and-lucia-arent-big-enough",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "'Cousin! We Should Hang Out!' GTA Secret Quests Referencing Roman Bellic Added to Fortnite",
-    "source": "IGN",
-    "summary": "Fortnite has added a series of secret GTA quests referencing GTA 4's Roman Bellic and the game's memorable \"Cousin! We should hang out!\" meme.",
-    "date": "Fri, 20 Nov 2026 12:54:25 +0000",
-    "link": "https://www.ign.com/articles/fortnite-secret-gta-quests-roman-bellic",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.1,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Can Jason and Lucia Get Naked in GTA 6?",
-    "source": "IGN",
-    "summary": "Let’s settle this once and for all. Can Jason and Lucia get naked in GTA 6?",
-    "date": "Fri, 20 Nov 2026 12:53:10 +0000",
-    "link": "https://www.ign.com/articles/can-jason-and-lucia-get-naked-in-gta-6",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Surprise PS5 Console Black Friday Deals Means You Can Buy a GTA 6-Ready Console for Less Than £430",
-    "source": "IGN",
-    "summary": "PlayStation has unexpectedly cut PS5 console prices for Black Friday, with refurbished models from £427.49 and up to £30.50 off brand-new consoles",
-    "date": "Fri, 20 Nov 2026 12:28:49 +0000",
-    "link": "https://www.ign.com/articles/ps5-console-black-friday-discounts-playstation-store",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.1,
-      "badge": "info"
-    },
-    "tags": [
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "UK Prime Minister won't be playing GTA 6, government says, while hailing Rockstar Games a \"British success story\"",
-    "source": "Eurogamer",
-    "summary": "Grand Theft Auto 6's seismic launch has registered on a governmental level. A spokesperson for UK Prime Minister Andy Burnham has hailed the game as a \"British success story\", but confirmed Burnham himself won't be playing it. His diary is apparently \"very full\". Read more...",
-    "date": "Fri, 20 Nov 2026 13:08:30 +0000",
-    "link": "https://www.eurogamer.net/gta-6-uk-prime-minister-andy-burnham",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.23,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Total War: Warhammer 40,000 breaks the game into star system mini-campaigns, each with their own stories and objectives",
-    "source": "Eurogamer",
-    "summary": "There is perhaps nothing so brutal in a Total War game than getting an army full of elite units wiped out, and it appears that pain remains a factor in the upcoming Total War conversion of : Warhammer 40,000. Creative Assembly also has some nifty ideas around breaking the game into mini-campaigns fo...",
-    "date": "Fri, 20 Nov 2026 12:12:10 +0000",
-    "link": "https://www.eurogamer.net/total-war-warhammer-40000-campaign-space-marines",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "GTA 6 day-one sales are enormous, estimates suggest, making previous $2 billion opening weekend predictions seem conservative",
-    "source": "Eurogamer",
-    "summary": "Grand Theft Auto 6 is estimated to have sold nearly 25 million copies in one day, generating approximately $2.5bn in sales revenue - a staggering result that's beyond even what even observers were predicting. Read more...",
-    "date": "Fri, 20 Nov 2026 11:40:30 +0000",
-    "link": "https://www.eurogamer.net/gta-6-sales-estimate-rockstar-grand-theft-auto",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "\"You broke my heart\" - popular artist Doja Cat gutted to not have her music in Grand Theft Auto 6",
-    "source": "Eurogamer",
-    "summary": "As countless people flock to Grand Theft Auto 6 following its launch earlier this week, a common highlight gamers have been highlighting are the many radio stations present in the game. While packed with songs, one artist has expressed her frustration with not being included among the list of featur...",
-    "date": "Fri, 20 Nov 2026 09:58:10 +0000",
-    "link": "https://www.eurogamer.net/grand-theft-auto-6-doja-cat-gutted-not-in-soundtrack",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "GTA 6 Learned All the Right Lessons From Zelda: Breath of the Wild",
-    "source": "Polygon",
-    "summary": "Grand Theft Auto 6 nails one thing The Legend of Zelda: Breath of the Wild got right in 2017: the perfect introduction.",
-    "date": "Fri, 20 Nov 2026 14:00:17 GMT",
-    "link": "https://www.polygon.com/gta-6leonida-keys-breath-of-the-wild/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.38,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Matt Damon Reveals the Surprising Secret Behind 'The Odyssey's Epic Final Battle",
-    "source": "Polygon",
-    "summary": "Hundreds of choreographed moves, veteran stunt performers, and a little improvisation helped bring the film's climactic scene to life.",
-    "date": "Fri, 20 Nov 2026 13:00:18 GMT",
-    "link": "https://www.polygon.com/the-odyssey-matt-damon-final-fight-stunt-team/",
+    "summary": "Professional office or gamer vibes? The choice is yours.",
+    "date": "Fri, 20 Nov 2026 22:20:00 +0000",
+    "link": "https://www.ign.com/articles/eureka-ergonomic-has-black-friday-deals-to-give-your-space-the-upgrade-it-needs",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": -0.03,
@@ -179,15 +18,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 11,
-    "title": "GTA 6 Caused a Mass 'Migration' of Over 2 Million People",
-    "source": "Polygon",
-    "summary": "Stats reveal that millions of players followed the 'New Zealand trick' to play GTA 6 early.",
-    "date": "Fri, 20 Nov 2026 12:47:30 GMT",
-    "link": "https://www.polygon.com/gta-6-grand-theft-auto-new-zealand-trick-stats/",
+    "id": 2,
+    "title": "GTA 6 Players React After Exclusive Shops Greet Non-Ultimate Edition Buyers With Locked Doors",
+    "source": "IGN",
+    "summary": "GTA 6 players are being locked out of in-game stores because they don't own the Ultimate Edition, and they've got some thoughts about how Rockstar handled it.",
+    "date": "Fri, 20 Nov 2026 22:19:52 +0000",
+    "link": "https://www.ign.com/articles/gta-6-players-react-after-exclusive-shops-greet-non-ultimate-edition-buyers-with-locked-doors",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.12,
+      "score": 0.3,
       "badge": "success"
     },
     "tags": [
@@ -197,15 +36,50 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "GTA 6 Actor Says Rockstar Made Their Non-Binary Character Unkillable",
-    "source": "Polygon",
-    "summary": "Jesse James Rose, who played the first non-binary character in Grand Theft Auto, shares their positive experience on the GTA 6 set.",
-    "date": "Fri, 20 Nov 2026 12:00:36 GMT",
-    "link": "https://www.polygon.com/gta-6-grand-theft-auto-cygnus-non-binary-character-actor/",
+    "id": 3,
+    "title": "Fallout-Themed AriZona Iced Tea Gets Black Friday Discount, Including New 'Apocalyptic Orange' Flavor",
+    "source": "IGN",
+    "summary": "",
+    "date": "Fri, 20 Nov 2026 22:08:55 +0000",
+    "link": "https://www.ign.com/articles/fallout-themed-arizona-iced-tea-gets-black-friday-discount-2026",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "Jensen Huang Allegedly Threatened Nvidia Workers and Told Employee He Would Rip Off the Top of Their Head and 'Pee on Your Brain'",
+    "source": "IGN",
+    "summary": "Former Nvidia CEO Jensen Huang allegedly threatened employees with violence and \"humiliated\" them for decades.",
+    "date": "Fri, 20 Nov 2026 22:06:55 +0000",
+    "link": "https://www.ign.com/articles/jensen-huang-verbal-abuse-allegations",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Nvidia"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "GTA 6 is officially the biggest entertainment launch of all time, selling 32.5 million pre-sale copies and a bonkers $3.79 billion in its first day",
+    "source": "Eurogamer",
+    "summary": "Surprise, surprise - GTA 6 is officially the biggest entertainment launch of all time, surpassing its predecessor's 13-year-long record and the already optimistic analyst estimates. Read more...",
+    "date": "Fri, 20 Nov 2026 20:00:40 +0000",
+    "link": "https://www.eurogamer.net/gta-6-biggest-entertainment-launch",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.39,
+      "score": 0.38,
       "badge": "success"
     },
     "tags": [
@@ -215,16 +89,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 13,
-    "title": "A 'GTA 6 PC scam kit' using a fake PC port as bait is available for $200 on the dark web, says NordVPN, so watch what you click",
-    "source": "PC Gamer",
-    "summary": "There are other PC games to play, you know.",
-    "date": "Fri, 20 Nov 2026 14:29:35 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/a-gta-6-pc-scam-kit-using-a-fake-pc-port-as-bait-is-available-for-usd200-on-the-dark-web-says-nordvpn-so-watch-what-you-click/",
+    "id": 6,
+    "title": "After taking seven years to make Persona 6 and four years to make Persona 5, Atlus promises future games will come quicker",
+    "source": "Eurogamer",
+    "summary": "Persona 6 is still slowly chugging in the background, but developer Atlus is promising that future games in its beloved RPG series won't take quite as long as they used to. Read more...",
+    "date": "Fri, 20 Nov 2026 19:23:00 +0000",
+    "link": "https://www.eurogamer.net/persona-6-games-come-quicker-atlus",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.09,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "GTA 6 credits actually include 'Florida Joker', the viral internet personality who once demanded $10 million from Rockstar Games",
+    "source": "Eurogamer",
+    "summary": "Lawrence Sullivan, better known to the online world as the 'Florida Joker', is in GTA 6. After accusing Rockstar Games of using his likeness without consent and then demanding a $10m payout, the two parties have seemingly settled their differences. Read more...",
+    "date": "Fri, 20 Nov 2026 18:23:50 +0000",
+    "link": "https://www.eurogamer.net/gta-6-credits-florida-joker-rockstar",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.33,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -233,48 +124,29 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
-    "title": "Is Niko Bellic in GTA 6?",
-    "source": "PC Gamer",
-    "summary": "And can you go bowling with him if so?",
-    "date": "Fri, 20 Nov 2026 12:44:35 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-niko-bellic/",
+    "id": 8,
+    "title": "Nvidia co-founder Jensen Huang accused of decades of bullying and workplace abuse in new investigation",
+    "source": "Eurogamer",
+    "summary": "An investigation into the workplace behavior of Nvidia co-founder Jensen Huang, who resigned recently after a series of extramarital affairs came to light, has uncovered decades of harassment, verbal employee abuse and \"cultish\" behaviour at the company which has long played a major role in PC gamin...",
+    "date": "Fri, 20 Nov 2026 17:19:50 +0000",
+    "link": "https://www.eurogamer.net/jensen-huang-nvidia-investigation-harassment",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Nvidia"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "OpenAI says it redesigned an AMD GPU and AMD is using some of those tweaks ‘for use in future products’",
-    "source": "PC Gamer",
-    "summary": "Let's hope we actually see some performance gains from it.",
-    "date": "Fri, 20 Nov 2026 12:40:28 +0000",
-    "link": "https://www.pcgamer.com/hardware/openai-says-it-redesigned-an-amd-gpu-and-amd-is-using-some-of-those-tweaks-for-use-in-future-products/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "GPU",
-      "AMD"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "The actress who plays Mandy in GTA 6 has revealed herself: 'If you play the game, let me know if you find me'",
-    "source": "PC Gamer",
-    "summary": "I think most players will find Mandy.",
-    "date": "Fri, 20 Nov 2026 12:26:52 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/the-actress-who-plays-mandy-in-gta-6-has-revealed-herself-if-you-play-the-game-let-me-know-if-you-find-me/",
+    "id": 9,
+    "title": "Who is Johannes Zuch supposed to be in GTA 6?",
+    "source": "Polygon",
+    "summary": "Grand Theft Auto 6 includes an arthouse game parody called Tenebrae Lux that lampoons The Witness creator Jonathan Blow.",
+    "date": "Fri, 20 Nov 2026 22:00:17 GMT",
+    "link": "https://www.polygon.com/gta-6-tenebrae-lux-jonathan-blow/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.05,
@@ -287,50 +159,105 @@
     "read_time": "1 min read"
   },
   {
-    "id": 17,
-    "title": "Hacker Threatens To Leak Free Version Of GTA 6 In Crypto Grift",
-    "source": "GameSpot",
-    "summary": "Somehow, Cyberleek, the notorious hacker behind multiple Grand Theft Auto 6 leaks, has returned. This time, the infamous leaker is threatening to release the executable file for a working build of the Xbox version of the game hosted on their site, provided the public helps raise their meme coin to a...",
-    "date": "Fri, 20 Nov 2026 14:07:35 +0000",
-    "link": "https://www.gamespot.com/articles/a-playable-gta-6-build-could-leak-but-theres-a-15-million-catch/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "GTA 6’s Console Wars Are Already Over, And Xbox Lost",
-    "source": "GameSpot",
-    "summary": "Grand Theft Auto games have never shied away from satirizing life, and GTA 6 has plenty of digs at famous brands, trends, and people. Not even gaming is immune to GTA's patented satire, especially if you're playing on Xbox, because there's no escape from PlayStation — or its legally distinct cousin,...",
-    "date": "Fri, 20 Nov 2026 12:35:47 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-console-wars-are-already-over-and-xbox-lost/",
+    "id": 10,
+    "title": "10 New Movies to Watch This Weekend on Netflix, Prime Video, and HBO Max (November 20 - 22)",
+    "source": "Polygon",
+    "summary": "On this weekend's movie streaming and VOD column, there's the biggest movie of the year, Netflix's new animated movie, and more",
+    "date": "Fri, 20 Nov 2026 22:00:17 GMT",
+    "link": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-november-20-22/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.33,
+      "score": 0.26,
       "badge": "success"
     },
     "tags": [
-      "PlayStation",
-      "Xbox"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 19,
-    "title": "GTA 6 Nearing 25 Million Copies Sold And $2.4 Billion In Revenue On Day 1, Report Says; Take-Two To Reveal Official Sales Data Soon",
-    "source": "GameSpot",
-    "summary": "The video game research company Sensor Tower has updated its GTA 6 sales tracker to reveal the latest, albeit unofficial, sales data for the open-world crime game. According to Sensor Tower, GTA 6 reached 24.58 million total units via pre-purchases and copies sold at launch today--this works out to ...",
-    "date": "Wed, 04 Nov 2026 14:15:31 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+    "id": 11,
+    "title": "GTA 6 Players Are Officially Spending an ‘Absolutely Bonkers’ Amount of Time with the Game",
+    "source": "Polygon",
+    "summary": "Grand Theft Auto 6 players enjoyed GTA 6 for an average of eight hours on its launch day, an \"absolutely bonkers\" number.",
+    "date": "Fri, 20 Nov 2026 21:28:55 GMT",
+    "link": "https://www.polygon.com/gta-6-playtime-stats-launch-day-ps5-xbox-series-x/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.14,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Every Free Game This Week on Steam, Epic, and Xbox (Nov. 20-26)",
+    "source": "Polygon",
+    "summary": "Check out the free games you can try out this week across all digital platforms.",
+    "date": "Fri, 20 Nov 2026 21:21:08 GMT",
+    "link": "https://www.polygon.com/free-games-right-now-steam-epic-ps-plus-nov-20-26/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.08,
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "Xbox",
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Despite GTA 6's huge map, it only takes about 4 minutes to fly across it in a plane",
+    "source": "PC Gamer",
+    "summary": "Someone had to do it.",
+    "date": "Fri, 20 Nov 2026 22:34:25 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-long-to-fly-across-map/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Florida Joker gets his wish: He's a 'special voice actor' in Grand Theft Auto 6",
+    "source": "PC Gamer",
+    "summary": "Looks like Lawrence Sullivan settled his differences with Rockstar.",
+    "date": "Fri, 20 Nov 2026 22:02:48 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/florida-joker-gets-his-wish-hes-a-special-voice-actor-in-grand-theft-auto-6/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.43,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Try this GTA 6 movement speed setting to make Jason and Lucia walk faster",
+    "source": "PC Gamer",
+    "summary": "Pep up their step.",
+    "date": "Fri, 20 Nov 2026 21:52:04 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-movement-speed-setting-walk-faster/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
@@ -340,15 +267,86 @@
     "read_time": "1 min read"
   },
   {
-    "id": 20,
-    "title": "GTA 6 Dog Who Saves You Is Seemingly Based On A Very Cool Real-Life Dog",
-    "source": "GameSpot",
-    "summary": "One of the first cool things that people discovered in Grand Theft Auto 6 is that if you swim out into the ocean too far, you'll find a dog riding a jetski who coaxes you back to shore. \nAs it turns out, the dog looks to be based on a real-life dog named Loosy who does neat stunts in Florida. In rea...",
-    "date": "Thu, 19 Nov 2026 20:40:11 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-dog-who-saves-you-is-seemingly-based-on-a-very-cool-real-life-dog/",
+    "id": 16,
+    "title": "21% of Rockstar staff have been employed by the company for over 10 years, which explains a lot about GTA 6's record-breaking launch",
+    "source": "PC Gamer",
+    "summary": "It's easier to make successful games when you hold onto the people who know how.",
+    "date": "Fri, 20 Nov 2026 20:41:34 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/21-percent-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-years-which-explains-a-lot-about-gta-6s-record-breaking-launch/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.28,
+      "score": 0.75,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "GTA 6 Players Captivated By Mandy Apparently Include A Former Nintendo President",
+    "source": "GameSpot",
+    "summary": "A character named Mandy has the attention of many Grand Theft Auto 6 players--and that appears to include Reggie Fils-Aimé, the man who used to run Nintendo of America.\nPer GamesRadar, former Nintendo marketing and public relations manager Krysta Yang joked on social media that GTA 6, which is front...",
+    "date": "Fri, 20 Nov 2026 23:33:14 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-players-captivated-by-mandy-apparently-include-a-former-nintendo-president/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.15,
+      "badge": "success"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "GTA 6 Has Dexter References, And Now Dexter Himself Has Reacted",
+    "source": "GameSpot",
+    "summary": "Actor Michael C. Hall has reacted to how GTA 6 features references to his Miami-set TV show Dexter, in which he famously played the serial killer Dexter.\nAppearing on the Barstool Movies show, Hall said he was \"informed\" of the Easter eggs in GTA 6 about his character. \"I wasn't consulted,\" he said ...",
+    "date": "Fri, 20 Nov 2026 20:50:55 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-has-dexter-references-and-now-dexter-himself-has-reacted/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
+    "title": "GTA 6 Sets Even More Records",
+    "source": "GameSpot",
+    "summary": "Rockstar's Grand Theft Auto 6 has finally arrived, and, to the surprise of no one, it's putting up some big numbers that speak to the pent-up demand. GTA 6 sold more than 30 million copies and hit almost $4 billion on day one, but that's just the start of understanding the impact of the game's relea...",
+    "date": "Fri, 20 Nov 2026 19:52:51 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-sets-even-more-records/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.18,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 20,
+    "title": "GTA 6’s Astonishing $4 Billion Day One Includes 32.5 Million Copies Sold",
+    "source": "GameSpot",
+    "summary": "GTA 6 is an enormous hit--it's the biggest gaming release ever. Take-Two just announced that GTA 6 reach 32.5 million copies sold before release, with revenue reaching $3.79 billion through the end of the first day on sale on November 19. This makes it the biggest entertainment release--for any medi...",
+    "date": "Fri, 20 Nov 2026 19:30:17 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-hit-32-5-million-copies-sold-and-almost-4-billion-on-day-one/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
       "badge": "success"
     },
     "tags": [
