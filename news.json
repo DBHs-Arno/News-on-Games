@@ -1,11 +1,29 @@
 [
   {
     "id": 1,
-    "title": "The Official Lord of the Rings Pizza Cutter Drops to a New Low Price at Amazon",
+    "title": "GTA 6 Players Are Running Into NPCs Who Fight Back So Hard You Probably Should Just Leave Them Alone",
     "source": "IGN",
-    "summary": "",
-    "date": "Sat, 21 Nov 2026 00:00:00 +0000",
-    "link": "https://www.ign.com/articles/the-official-lord-of-the-rings-pizza-cutter-drops-to-a-new-low-price-at-amazon-black-friday-2026",
+    "summary": "Just like in real life, there are some people you really shouldn’t mess with in GTA 6. It’s not always easy to tell at a glance either. Books, covers, and all that.",
+    "date": "Sat, 21 Nov 2026 12:17:40 +0000",
+    "link": "https://www.ign.com/articles/gta-6-players-are-running-into-npcs-who-fight-back-so-hard-you-probably-should-just-leave-them-alone",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "How Rockstar Made Every NPC Feel Alive in GTA 6",
+    "source": "IGN",
+    "summary": "Rockstar made NPCs feel alive in GTA 6 by \"establishing deep backstories for almost everything\" throughout Leonida.",
+    "date": "Sat, 21 Nov 2026 11:54:24 +0000",
+    "link": "https://www.ign.com/articles/how-rockstar-made-every-npc-feel-alive-in-gta-6",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.07,
@@ -18,48 +36,29 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
-    "title": "RayNeo's Black Friday Sale Includes Discounts on AR Glasses, Plus a New Release of GT Max Call of Duty: Modern Warfare 4 Limited Edition AR Glasses",
-    "source": "IGN",
-    "summary": "Save $94 on RayNeo GT Max AR Glasses and more.",
-    "date": "Fri, 20 Nov 2026 23:32:00 +0000",
-    "link": "https://www.ign.com/articles/rayneos-black-friday-sale-includes-discounts-on-ar-glasses-and-more",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 3,
-    "title": "Actor Who Plays Mandy in GTA 6 Excitedly Speaks Out After Character Goes Viral",
+    "title": "The Nitro Deck 2 for the Nintendo Switch 2 Is Getting a Black Friday Discount at Amazon",
     "source": "IGN",
-    "summary": "Lexie Shoaibi, the actor who plays Mandy in GTA 6, is speaking out now that the game has been officially released worldwide.",
-    "date": "Fri, 20 Nov 2026 23:31:35 +0000",
-    "link": "https://www.ign.com/articles/actor-who-plays-mandy-in-gta-6-excitedly-speaks-out-after-character-goes-viral",
+    "summary": "",
+    "date": "Sat, 21 Nov 2026 06:07:53 +0000",
+    "link": "https://www.ign.com/articles/nitro-deck-2-controller-deal-black-friday-2026",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.01,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.17,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "GTA 6 Triggers Busiest Traffic Day in Comcast History",
+    "title": "How a $6 Beer in GTA 6 Sent Me Into a Spiral of Crime and Anxiety",
     "source": "IGN",
-    "summary": "Comcast has said GTA 6's launch triggered the busiest traffic day the company has seen since it was founded in 1963.",
-    "date": "Fri, 20 Nov 2026 23:30:15 +0000",
-    "link": "https://www.ign.com/articles/gta-6-triggers-busiest-traffic-day-in-comcast-history",
+    "summary": "",
+    "date": "Sat, 21 Nov 2026 06:00:00 +0000",
+    "link": "https://www.ign.com/articles/how-a-6-beer-in-gta-6-sent-me-into-a-spiral-of-crime-and-anxiety",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
@@ -73,6 +72,24 @@
   },
   {
     "id": 5,
+    "title": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them",
+    "source": "Eurogamer",
+    "summary": "Grand Theft Auto 6 features the first non-binary character in the series' history, according to actor Jesse James Rose, who plays the role of a museum curator in the game. Read more...",
+    "date": "Sat, 21 Nov 2026 12:50:00 +0000",
+    "link": "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.33,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
     "title": "GTA 6 is officially the biggest entertainment launch of all time, selling 32.5 million pre-sale copies and a bonkers $3.79 billion in its first day",
     "source": "Eurogamer",
     "summary": "Surprise, surprise - GTA 6 is officially the biggest entertainment launch of all time, surpassing its predecessor's 13-year-long record and the already optimistic analyst estimates. Read more...",
@@ -90,7 +107,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "After taking seven years to make Persona 6 and four years to make Persona 5, Atlus promises future games will come quicker",
     "source": "Eurogamer",
     "summary": "Persona 6 is still slowly chugging in the background, but developer Atlus is promising that future games in its beloved RPG series won't take quite as long as they used to. Read more...",
@@ -107,7 +124,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "GTA 6 credits actually include 'Florida Joker', the viral internet personality who once demanded $10 million from Rockstar Games",
     "source": "Eurogamer",
     "summary": "Lawrence Sullivan, better known to the online world as the 'Florida Joker', is in GTA 6. After accusing Rockstar Games of using his likeness without consent and then demanding a $10m payout, the two parties have seemingly settled their differences. Read more...",
@@ -125,33 +142,16 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "Nvidia co-founder Jensen Huang accused of decades of bullying and workplace abuse in new investigation",
-    "source": "Eurogamer",
-    "summary": "An investigation into the workplace behavior of Nvidia co-founder Jensen Huang, who resigned recently after a series of extramarital affairs came to light, has uncovered decades of harassment, verbal employee abuse and \"cultish\" behaviour at the company which has long played a major role in PC gamin...",
-    "date": "Fri, 20 Nov 2026 17:19:50 +0000",
-    "link": "https://www.eurogamer.net/jensen-huang-nvidia-investigation-harassment",
+    "id": 9,
+    "title": "'The Odyssey' Cast Debunks a Major Misconception About Working with Christopher Nolan",
+    "source": "Polygon",
+    "summary": "Matt Damon, Himesh Patel, and Emma Thomas reveal Christopher Nolan's unexpected sense of humor and what he's really like on set.",
+    "date": "Sat, 21 Nov 2026 14:00:17 GMT",
+    "link": "https://www.polygon.com/christopher-nolan-isnt-nearly-as-serious-as-you-might-think-according-to-the-odysseys-cast-and-crew/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.11,
+      "score": 0.12,
       "badge": "success"
-    },
-    "tags": [
-      "Nvidia"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "9 Calvin and Hobbes Comics from the 1990s that Prove Bill Watterson is a Genius",
-    "source": "Polygon",
-    "summary": "Calvin and Hobbes creator Bill Watterson is a genius. Here are nine comics which prove it.",
-    "date": "Sat, 21 Nov 2026 05:00:18 GMT",
-    "link": "https://www.polygon.com/9-perfect-calvin-and-hobbes-1990s-comics/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
     },
     "tags": [
       "News",
@@ -161,33 +161,32 @@
   },
   {
     "id": 10,
-    "title": "Pokémon's 24-Part $399 Collection Officially Launches Next Week",
+    "title": "Nintendo’s Long History with GTA Seems to Have Met Its End",
     "source": "Polygon",
-    "summary": "All 24 Pokémon animated movies are coming in one Blu-ray collection, thanks to Viz Media and Amazon.com.",
-    "date": "Sat, 21 Nov 2026 02:15:17 GMT",
-    "link": "https://www.polygon.com/pokemon-movie-collection-amazon-blu-ray-november-2026/",
+    "summary": "There's no sign of GTA 6 on Switch 2, or even GTA 5, yet Rockstar has brought L.A. Noire and Red Dead Redemption to Switch",
+    "date": "Sat, 21 Nov 2026 13:00:17 GMT",
+    "link": "https://www.polygon.com/switchboard-nintendo-switch-2-gta-6-rockstar/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.1,
+      "score": -0.08,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Pokémon Go Pawniard Community Day event guide",
+    "title": "Quentin Tarantino's Western Thriller Masterpiece Is Officially Free on Streaming",
     "source": "Polygon",
-    "summary": "Here's all you need to know for Pokémon Go's Pawniard Community Day event, including how to find a shiny Pawniard and evolve Bisharp into Kingambit.",
-    "date": "Sat, 21 Nov 2026 02:01:17 GMT",
-    "link": "https://www.polygon.com/pokemon-go-pawniward-community-day-shiny-bisharp-moveset/",
+    "summary": "Hateful Eight, Quentin Tarantino’s satisfying western thriller mystery is currently free to stream",
+    "date": "Sat, 21 Nov 2026 12:01:18 GMT",
+    "link": "https://www.polygon.com/hateful-eight-free-to-stream-tubi/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.26,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -197,32 +196,33 @@
   },
   {
     "id": 12,
-    "title": "The Witcher 4 Gets Official Update on Physical Release",
+    "title": "5 Years Later, 'Yellowjackets' Officially Solves One of Its Last Huge Mysteries",
     "source": "Polygon",
-    "summary": "CD Projekt Red is planning a The Witcher 4 physical release, even though it admits it has \"no influence\" over PS5 and Xbox disc production",
-    "date": "Sat, 21 Nov 2026 01:28:17 GMT",
-    "link": "https://www.polygon.com/the-witcher-4-physical-release-cd-projekt-red-ps5/",
+    "summary": "The location where the Yellowjackets crash-landed has been a hot topic of discussion for years. 'Yellowjackets' season 4 has the answers.",
+    "date": "Sat, 21 Nov 2026 11:00:18 GMT",
+    "link": "https://www.polygon.com/yellowjackets-season-4-plane-crash-location/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
     },
     "tags": [
-      "Xbox"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "GTA 6 has secret playlists, and all you have to do is scan a few posters to unlock them",
+    "title": "GTA 6 Bowling Alley safe code",
     "source": "PC Gamer",
-    "summary": "Kodak Black and The Vault nightclub each have their own unique playlist.",
-    "date": "Sat, 21 Nov 2026 00:46:24 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/",
+    "summary": "Crack this safe during the Hit Kingpin Bowling mission.",
+    "date": "Sat, 21 Nov 2026 13:49:37 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bowling-alley-safe-code-location/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.04,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
     },
     "tags": [
       "News",
@@ -232,31 +232,14 @@
   },
   {
     "id": 14,
-    "title": "I didn't realize Etsy was selling bridges now",
+    "title": "GTA 6 is a cozy game",
     "source": "PC Gamer",
-    "summary": "The company says its new generative AI training agreement will only be used for good. Why would anyone believe that?",
-    "date": "Sat, 21 Nov 2026 00:00:36 +0000",
-    "link": "https://www.pcgamer.com/software/ai/i-didnt-realize-etsy-was-selling-bridges-now/",
+    "summary": "The best parts of GTA 6 happen when everyone puts their guns away.",
+    "date": "Sat, 21 Nov 2026 13:45:50 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-a-cozy-game/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.28,
-      "badge": "success"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Despite GTA 6's huge map, it only takes about 4 minutes to fly across it in a plane",
-    "source": "PC Gamer",
-    "summary": "Someone had to do it.",
-    "date": "Fri, 20 Nov 2026 22:34:25 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-long-to-fly-across-map/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
+      "score": 0.13,
       "badge": "success"
     },
     "tags": [
@@ -266,15 +249,32 @@
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "Florida Joker gets his wish: He's a 'special voice actor' in Grand Theft Auto 6",
+    "id": 15,
+    "title": "Deltarune chapter 6 is 'structurally complete' while development has begun on chapter 7, according to Toby Fox",
     "source": "PC Gamer",
-    "summary": "Looks like Lawrence Sullivan settled his differences with Rockstar.",
-    "date": "Fri, 20 Nov 2026 22:02:48 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/florida-joker-gets-his-wish-hes-a-special-voice-actor-in-grand-theft-auto-6/",
+    "summary": "\"All the maps, events and battles exist\" for the next slice of the RPG.",
+    "date": "Sat, 21 Nov 2026 13:09:55 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/deltarune-chapter-6-is-structurally-complete-while-development-has-begun-on-chapter-7-according-to-toby-fox/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Expedition 33 lead writer says Grand Theft Auto 6 layoff concerns show that 'people creating the value do not receive a proportionate amount of that value'",
+    "source": "PC Gamer",
+    "summary": "\"I sincerely hope the Rockstar team is successful in unionizing\".",
+    "date": "Sat, 21 Nov 2026 11:51:01 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.43,
+      "score": 0.58,
       "badge": "success"
     },
     "tags": [
