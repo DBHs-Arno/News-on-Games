@@ -1,15 +1,83 @@
 [
   {
     "id": 1,
-    "title": "The Binding of Isaac Dev Removes Undisclosed AI-Generated Music From Repentance+ Following Creator Response, Review-Bombing",
+    "title": "Nintendo Knocks $20 off Physical Switch 2 Copies of Donkey Kong Bananza for Black Friday",
     "source": "IGN",
-    "summary": "The Binding of Isaac developer Nicalis has removed undisclosed AI-generated music included in Repentance+ after backlash led to a review-bombing campaign on Steam and a response from the game's creator, Edmund McMillen.",
-    "date": "Sat, 21 Nov 2026 23:42:05 +0000",
-    "link": "https://www.ign.com/articles/the-binding-of-isaac-dev-removes-undisclosed-ai-generated-music-from-repentance-following-creator-response-review-bombing",
+    "summary": "Physical copies of Donkey Kong Bananza have received a $20 discount in Nintendo's Black Friday sale, bringing its price down to $49.99.",
+    "date": "Sun, 22 Nov 2026 09:51:05 +0000",
+    "link": "https://www.ign.com/articles/donkey-kong-bananza-black-friday-deal",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.2,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Nintendo Switch 2 Gets First-Ever Official Black Friday Discount, Dropping Mario Kart World Bundle to $499",
+    "source": "IGN",
+    "summary": "Nintendo's first official Switch 2 Black Friday deal is live for a limited time, bundling a flagship game and free bonus perks while undoing September's price hike.",
+    "date": "Sun, 22 Nov 2026 09:31:35 +0000",
+    "link": "https://www.ign.com/articles/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "Nintendo's 2026 Black Friday Sale is Officially Live",
+    "source": "IGN",
+    "summary": "Nintendo's official Black Friday sale is now live and includes a rare Switch 2 bundle discount, up to 50% off Switch 2 games, MicroSD Express cards, and more. Here's where to find all the top discounts to ensure you're saving as much as you can.",
+    "date": "Sun, 22 Nov 2026 08:15:18 +0000",
+    "link": "https://www.ign.com/articles/nintendo-black-friday-sale-is-officially-live-2026",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.18,
+      "badge": "success"
+    },
+    "tags": [
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "The Cosmere RPG Core Rulebook for The Stormlight Archive Is 50% Off Today",
+    "source": "IGN",
+    "summary": "",
+    "date": "Sun, 22 Nov 2026 07:23:48 +0000",
+    "link": "https://www.ign.com/articles/the-cosmere-rpg-core-rulebook-for-the-stormlight-archive-is-50-off-for-black-friday-2026",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it",
+    "source": "Eurogamer",
+    "summary": "Nicalis has removed AI-generated music from The Binding of Isaac: Repentance+ after players discovered it in the game's latest update, prompting a wave of negative reviews on Steam. Read more...",
+    "date": "Sun, 22 Nov 2026 13:19:20 +0000",
+    "link": "https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
     },
     "tags": [
       "Steam",
@@ -18,51 +86,33 @@
     "read_time": "1 min read"
   },
   {
-    "id": 2,
-    "title": "The Ecovacs Deebot T90 Pro Omni Robot Vacuum Delivers Incredible 30,000Pa Suction and More High-End Features for $549 During Black Friday",
-    "source": "IGN",
-    "summary": "Give the gift of clean floors with this innovative robot vacuum.",
-    "date": "Sat, 21 Nov 2026 22:05:00 +0000",
-    "link": "https://www.ign.com/articles/the-ecovacs-deebot-t90-pro-omni-robot-vacuum-delivers-incredible-30000pa-suction-and-more-high-end-features-for-549-during-black-friday",
+    "id": 6,
+    "title": "Over half of all console players active on GTA 6's launch day played it, says Circana",
+    "source": "Eurogamer",
+    "summary": "On Grand Theft Auto 6's launch day, more than half of everyone playing on PS5 and Xbox was playing GTA 6. Read more...",
+    "date": "Sun, 22 Nov 2026 12:02:30 +0000",
+    "link": "https://www.eurogamer.net/gta-6-launch-day-engagement-circana",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.3,
+      "score": 0.17,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 3,
-    "title": "The Best Deals Today: Silent Hill Townfall, Ocarina of Time Remake, Control Resonant, and More",
-    "source": "IGN",
-    "summary": "",
-    "date": "Sat, 21 Nov 2026 21:38:09 +0000",
-    "link": "https://www.ign.com/articles/best-deals-for-november-21-2026",
+    "id": 7,
+    "title": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend",
+    "source": "Eurogamer",
+    "summary": "A Grand Theft Auto 6 player says they've been hit with a 30-day PlayStation Network ban after sending a friend a photo they took in the game's nudist resort. Read more...",
+    "date": "Sun, 22 Nov 2026 11:22:10 +0000",
+    "link": "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.5,
+      "score": 0.2,
       "badge": "success"
-    },
-    "tags": [
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "GTA 6 Players Report Crashes on PS5 With Error CE-108255-1",
-    "source": "IGN",
-    "summary": "GTA 6 players on PlayStation 5 have reported frequent crashes tied to error code CE-108255-1, and it looks like it's blocking them from progressing through the story while they wait for Sony and Rockstar to send out a fix.",
-    "date": "Sat, 21 Nov 2026 21:36:26 +0000",
-    "link": "https://www.ign.com/articles/gta-6-players-report-crashes-on-ps5-with-error-ce-108255-1",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
     },
     "tags": [
       "PlayStation"
@@ -70,7 +120,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 5,
+    "id": 8,
     "title": "Unannounced Nioh 3 Complete Edition has been rated in Korea",
     "source": "Eurogamer",
     "summary": "A rating for the unannounced Nioh 3 Complete Edition has popped up on Korea's Game Rating and Administration Committee (GRAC). Read more...",
@@ -82,204 +132,151 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Phasmophobia's next update lets you ask ghosts to throw things and it's out next week",
-    "source": "Eurogamer",
-    "summary": "Phasmophobia's next update, Resonance, arrives on 24th November, bringing a brand-new piece of ghost-hunting kit, more voice commands, and a move to the Unity 6 engine. Read more...",
-    "date": "Sat, 21 Nov 2026 15:56:10 +0000",
-    "link": "https://www.eurogamer.net/phasmophobia-resonance-update-release-date-dowsing-rods-unity-6",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "GTA 6 is crashing on some PS5s with error CE-108255-1 - here's what you can try",
-    "source": "Eurogamer",
-    "summary": "Some Grand Theft Auto 6 players on PS5 say the game keeps crashing with error code CE-108255-1, and in some cases, it's stopping them from progressing through the story. Read more...",
-    "date": "Sat, 21 Nov 2026 15:03:50 +0000",
-    "link": "https://www.eurogamer.net/gta-6-ps5-crashing-ce-108255-1-error-fix",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "GTA 6 has a 99 Metascore from critics, but players are review bombing it",
-    "source": "Eurogamer",
-    "summary": "Grand Theft Auto 6 might be one of the best-reviewed games of all time, but you wouldn't know it from its Metacritic user score. Read more...",
-    "date": "Sat, 21 Nov 2026 14:19:40 +0000",
-    "link": "https://www.eurogamer.net/gta-6-review-bombed-metacritic-user-score",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "46 Years Later, the Most Influential Thriller of All Time Is Officially Free on YouTube",
+    "title": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
     "source": "Polygon",
-    "summary": "The start of Jason Voorhees's story, 'Friday the 13th,' is now available to watch for free.",
-    "date": "Sun, 22 Nov 2026 04:00:17 GMT",
-    "link": "https://www.polygon.com/friday-the-13th-youtube-watch-free-november-2026/",
+    "summary": "I tried not to kill anyone in Grand Theft Auto 6 and failed. However, it changed the way I thought about and approached the game's violence.",
+    "date": "Sun, 22 Nov 2026 13:00:17 GMT",
+    "link": "https://www.polygon.com/gta-6-no-kill-playthrough-fail/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.28,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.27,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "58 Years Later, Captain Kirk's Best Star Trek Quote Is the Greatest Line in Sci-Fi History",
+    "title": "30 Years Later, Sean Connery's Secret James Bond Thriller Is Officially Free on Streaming",
     "source": "Polygon",
-    "summary": "Captain Kirk's speech in 'Return to Tomorrow' says more about what Star Trek stands for than any other line in the original series.",
-    "date": "Sun, 22 Nov 2026 03:59:17 GMT",
-    "link": "https://www.polygon.com/best-captain-kirk-quote-star-trek-original-series/",
+    "summary": "Michael Bay’s 1996 thriller The Rock is currently free to stream. 30 years later, its still an exciting ride.",
+    "date": "Sun, 22 Nov 2026 12:00:18 GMT",
+    "link": "https://www.polygon.com/the-rock-sean-connery-free-to-stream/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.46,
+      "score": 0.12,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "61 Years Later, Charlie Brown's Greatest Enemy Is Still an Undefeated 'Peanuts' Icon",
+    "title": "Star Wars’ 2-Part Sci-Fi War Thriller Has One of the Best Seasons in TV History",
     "source": "Polygon",
-    "summary": "Charlie Brown's only real arch-rival was a malevolent tree. Chomp chomp chomp.",
-    "date": "Sun, 22 Nov 2026 03:00:28 GMT",
-    "link": "https://www.polygon.com/kite-eating-tree-peanuts/",
+    "summary": "Disney needed a win for one specific franchise, and Tony Gilroy gave Star Wars just that with the first season of 'Andor.'",
+    "date": "Sun, 22 Nov 2026 10:00:18 GMT",
+    "link": "https://www.polygon.com/disney-sci-fi-thriller-star-wars-andor/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.51,
+      "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "8 Must-Play JRPGs for People With Real-Life Schedules",
+    "title": "8 Best Science Fantasy Books of the 21st Century",
     "source": "Polygon",
-    "summary": "Busy schedule, long JRPG backlog? These eight games fit short sessions with chapter breaks, adjustable battles, and easy saves.",
-    "date": "Sun, 22 Nov 2026 01:00:17 GMT",
-    "link": "https://www.polygon.com/jrpgs-real-life-schedules/",
+    "summary": "Break genre barriers with spacefaring necromancers and aliens employing goblins. Here are some of the best sci-fi fantasy books.",
+    "date": "Sun, 22 Nov 2026 09:04:17 GMT",
+    "link": "https://www.polygon.com/best-science-fantasy-books-of-the-century/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.18,
+      "score": 0.67,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn",
+    "title": "GTA 6 Riata locations: How to restore the second car for Wyman",
     "source": "PC Gamer",
-    "summary": "Her book's being written by award-winning author Tasha Suri.",
-    "date": "Sun, 22 Nov 2026 03:03:45 +0000",
-    "link": "https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/",
+    "summary": "Fix the '70 Riata by tracking down some wrecked cars.",
+    "date": "Sun, 22 Nov 2026 13:48:06 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-riata-locations/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": -0.08,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "Wizards of the Coast to pass full AI copyright payout to D&D writers",
+    "title": "Grand Theft Auto 6 has a 'complex drug network' that tracks everything from where drugs come from to 'how they eventually reach the street-level buyer'",
     "source": "PC Gamer",
-    "summary": "You gotta hand it to them, but the payout sounds like it would have been small potatoes to the company.",
-    "date": "Sat, 21 Nov 2026 23:40:42 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/",
+    "summary": "\"Having that structure in the background as something we consistently refer to helps everything feel more real.\"",
+    "date": "Sun, 22 Nov 2026 13:25:42 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-has-a-complex-drug-network-that-tracks-everything-from-where-drugs-come-from-to-how-they-eventually-reach-the-street-level-buyer/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.23,
+      "badge": "success"
     },
     "tags": [
-      "AI"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
+    "title": "The designer of Atari's notorious E.T. likens the deluge of AI games to events that preceded the '80s industry crash: 'There was a glut of crap on the market'",
     "source": "PC Gamer",
-    "summary": "November 19 marked the highest-traffic day in the ISP's history.",
-    "date": "Sat, 21 Nov 2026 21:42:29 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/comcast-at-peak-gta6-accounted-for-nearly-a-quarter-of-all-internet-traffic/",
+    "summary": "Despite this, Howard Scott Warshaw thinks AI will be a \"super positive thing\" for the industry.",
+    "date": "Sun, 22 Nov 2026 12:44:48 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/game-development/the-designer-of-ataris-notorious-e-t-likens-the-deluge-of-ai-games-to-events-that-preceded-the-80s-industry-crash-there-was-a-glut-of-crap-on-the-market/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.1,
+      "score": -0.08,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "The team behind Ubisoft's 'first playable AI-based R&D project' has been established as its own subsidiary called Motherbrain",
+    "title": "Jason's stoic character in Grand Theft Auto 6 was inspired by Steve McQueen and research into Army veterans: 'These guys typically aren't running their mouths'",
     "source": "PC Gamer",
-    "summary": "In the name of \"more immersive and engaging player experiences,\" of course.",
-    "date": "Sat, 21 Nov 2026 21:16:16 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/the-team-behind-ubisofts-first-playable-ai-based-r-and-d-project-has-been-established-as-its-own-subsidiary-called-motherbrain/",
+    "summary": "Rockstar made a point of creating \"authentic characters that didn't stray too far from reality.\"",
+    "date": "Sun, 22 Nov 2026 10:54:09 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.27,
+      "score": 0.23,
       "badge": "success"
     },
     "tags": [
-      "AI"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -296,8 +293,8 @@
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -331,8 +328,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
@@ -349,8 +346,8 @@
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
