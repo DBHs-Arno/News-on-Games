@@ -1,74 +1,96 @@
 [
   {
     "id": 1,
-    "title": "Nintendo Knocks $20 off Physical Switch 2 Copies of Donkey Kong Bananza for Black Friday",
+    "title": "The Apple AirPods Pro 3 Wireless Noise Canceling Earbuds Drops to Its Final Black Friday Price on Amazon",
     "source": "IGN",
-    "summary": "Physical copies of Donkey Kong Bananza have received a $20 discount in Nintendo's Black Friday sale, bringing its price down to $49.99.",
-    "date": "Sun, 22 Nov 2026 09:51:05 +0000",
-    "link": "https://www.ign.com/articles/donkey-kong-bananza-black-friday-deal",
+    "summary": "New price low.",
+    "date": "Sun, 22 Nov 2026 22:15:00 +0000",
+    "link": "https://www.ign.com/articles/apple-airpods-pro-3-deal-black-friday-sale-2026",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.1,
+      "score": -0.01,
       "badge": "info"
     },
     "tags": [
-      "Nintendo"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Nintendo Switch 2 Gets First-Ever Official Black Friday Discount, Dropping Mario Kart World Bundle to $499",
+    "title": "Save $400 on Ecovacs' Flagship Robot Vacuum, the Deebot X12S OmniCyclone, for Black Friday",
     "source": "IGN",
-    "summary": "Nintendo's first official Switch 2 Black Friday deal is live for a limited time, bundling a flagship game and free bonus perks while undoing September's price hike.",
-    "date": "Sun, 22 Nov 2026 09:31:35 +0000",
-    "link": "https://www.ign.com/articles/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle",
+    "summary": "Continuously self-cleaning mops, a self-sufficient base, and more leave floors sparkling while you enjoy the holiday season.",
+    "date": "Sun, 22 Nov 2026 22:05:00 +0000",
+    "link": "https://www.ign.com/articles/ecovacs-deebot-x12s-omnicyclone-black-friday-2026",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.0,
+      "score": -0.02,
       "badge": "info"
     },
     "tags": [
-      "Nintendo"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Nintendo's 2026 Black Friday Sale is Officially Live",
+    "title": "Rockstar Says Darts Were Cut From GTA 6 Because It Didn't Have 'Unlimited Money or Time' to Make It 'Feel Proper'",
     "source": "IGN",
-    "summary": "Nintendo's official Black Friday sale is now live and includes a rare Switch 2 bundle discount, up to 50% off Switch 2 games, MicroSD Express cards, and more. Here's where to find all the top discounts to ensure you're saving as much as you can.",
-    "date": "Sun, 22 Nov 2026 08:15:18 +0000",
-    "link": "https://www.ign.com/articles/nintendo-black-friday-sale-is-officially-live-2026",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.18,
-      "badge": "success"
-    },
-    "tags": [
-      "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "The Cosmere RPG Core Rulebook for The Stormlight Archive Is 50% Off Today",
-    "source": "IGN",
-    "summary": "",
-    "date": "Sun, 22 Nov 2026 07:23:48 +0000",
-    "link": "https://www.ign.com/articles/the-cosmere-rpg-core-rulebook-for-the-stormlight-archive-is-50-off-for-black-friday-2026",
+    "summary": "Rockstar Games crammed a lot of content into GTA 6, but fan-favorite mini-games like darts and bowling didn't make the cut because the team didn't have \"unlimited money or unlimited time\" to do those activities justice.",
+    "date": "Sun, 22 Nov 2026 20:37:59 +0000",
+    "link": "https://www.ign.com/articles/rockstar-says-darts-were-cut-from-gta-6-because-it-didnt-have-unlimited-money-or-time-to-make-it-feel-proper",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "RPG"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "Amazon and Target Launch '3 for 2' Sales on Books, Box Sets, and Vinyl for Black Friday",
+    "source": "IGN",
+    "summary": "",
+    "date": "Sun, 22 Nov 2026 20:34:06 +0000",
+    "link": "https://www.ign.com/articles/black-friday-buy-2-get-1-free-deal-on-books-and-music-2026",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.17,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
+    "title": "GTA 6's strong and silent Jason was inspired by Steve McQueen and former Army Rangers, says Rockstar",
+    "source": "Eurogamer",
+    "summary": "If you've noticed that Grand Theft Auto 6's Jason Duval isn't much of a talker, that's by design, as his quiet nature was inspired by Steve McQueen and the studio's research into former Army Rangers. Read more...",
+    "date": "Sun, 22 Nov 2026 16:11:00 +0000",
+    "link": "https://www.eurogamer.net/gta-6-jason-steve-mcqueen-army-rangers",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
     "title": "Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it",
     "source": "Eurogamer",
     "summary": "Nicalis has removed AI-generated music from The Binding of Isaac: Repentance+ after players discovered it in the game's latest update, prompting a wave of negative reviews on Steam. Read more...",
@@ -86,7 +108,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Over half of all console players active on GTA 6's launch day played it, says Circana",
     "source": "Eurogamer",
     "summary": "On Grand Theft Auto 6's launch day, more than half of everyone playing on PS5 and Xbox was playing GTA 6. Read more...",
@@ -103,15 +125,15 @@
     "read_time": "1 min read"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend",
     "source": "Eurogamer",
-    "summary": "A Grand Theft Auto 6 player says they've been hit with a 30-day PlayStation Network ban after sending a friend a photo they took in the game's nudist resort. Read more...",
+    "summary": "A Grand Theft Auto 6 player says they've been hit with a 30-day PlayStation Network social features ban after sending a friend a photo they took in the game's nudist resort. Read more...",
     "date": "Sun, 22 Nov 2026 11:22:10 +0000",
     "link": "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.2,
+      "score": 0.16,
       "badge": "success"
     },
     "tags": [
@@ -120,163 +142,146 @@
     "read_time": "1 min read"
   },
   {
-    "id": 8,
-    "title": "Unannounced Nioh 3 Complete Edition has been rated in Korea",
-    "source": "Eurogamer",
-    "summary": "A rating for the unannounced Nioh 3 Complete Edition has popped up on Korea's Game Rating and Administration Committee (GRAC). Read more...",
-    "date": "Sat, 21 Nov 2026 17:19:50 +0000",
-    "link": "https://www.eurogamer.net/nioh-3-complete-edition-rated-korea",
+    "id": 9,
+    "title": "25 Years Later, Dragon Quest’s Island-Hopping Epic Gets Better in Every Port",
+    "source": "Polygon",
+    "summary": "The years have been kind to one classic Dragon Quest game, even if it got a slow start.",
+    "date": "Sun, 22 Nov 2026 23:00:17 GMT",
+    "link": "https://www.polygon.com/dragon-quest-7-25th-anniversary/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.07,
+      "score": 0.1,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
-    "source": "Polygon",
-    "summary": "I tried not to kill anyone in Grand Theft Auto 6 and failed. However, it changed the way I thought about and approached the game's violence.",
-    "date": "Sun, 22 Nov 2026 13:00:17 GMT",
-    "link": "https://www.polygon.com/gta-6-no-kill-playthrough-fail/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.27,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "30 Years Later, Sean Connery's Secret James Bond Thriller Is Officially Free on Streaming",
+    "title": "Sorry, Vice City, but You’re the Most Boring Part of GTA 6",
     "source": "Polygon",
-    "summary": "Michael Bay’s 1996 thriller The Rock is currently free to stream. 30 years later, its still an exciting ride.",
-    "date": "Sun, 22 Nov 2026 12:00:18 GMT",
-    "link": "https://www.polygon.com/the-rock-sean-connery-free-to-stream/",
+    "summary": "Grand Theft Auto 6's map is so well-designed that Vice City just might be the least exciting thing about Leonida.",
+    "date": "Sun, 22 Nov 2026 21:00:17 GMT",
+    "link": "https://www.polygon.com/gta-6-vice-city-boring/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.08,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Star Wars’ 2-Part Sci-Fi War Thriller Has One of the Best Seasons in TV History",
+    "title": "GTA 6's T-shirts Are True Works of Art",
     "source": "Polygon",
-    "summary": "Disney needed a win for one specific franchise, and Tony Gilroy gave Star Wars just that with the first season of 'Andor.'",
-    "date": "Sun, 22 Nov 2026 10:00:18 GMT",
-    "link": "https://www.polygon.com/disney-sci-fi-thriller-star-wars-andor/",
+    "summary": "Fashion can help you evade police in GTA 6, and Rockstar's design team has crafted some seriously covetable threads for the game.",
+    "date": "Sun, 22 Nov 2026 20:30:17 GMT",
+    "link": "https://www.polygon.com/gta-6-t-shirts/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.51,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.13,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "8 Best Science Fantasy Books of the 21st Century",
+    "title": "How to steal the BF Bandito in GTA 6",
     "source": "Polygon",
-    "summary": "Break genre barriers with spacefaring necromancers and aliens employing goblins. Here are some of the best sci-fi fantasy books.",
-    "date": "Sun, 22 Nov 2026 09:04:17 GMT",
-    "link": "https://www.polygon.com/best-science-fantasy-books-of-the-century/",
+    "summary": "Here's what you need to do to steal the BF Bandito in GTA 6 and complete one of Moses's requests",
+    "date": "Sun, 22 Nov 2026 20:29:44 GMT",
+    "link": "https://www.polygon.com/gta-6-bf-bandito-steal-how-to-moses-grand-theft-auto/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.67,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
-    "title": "GTA 6 Riata locations: How to restore the second car for Wyman",
+    "title": "Nvidia released a hotfix for its driver hammering your SSD, but it doesn't actually work",
     "source": "PC Gamer",
-    "summary": "Fix the '70 Riata by tracking down some wrecked cars.",
-    "date": "Sun, 22 Nov 2026 13:48:06 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-riata-locations/",
+    "summary": "AI isn't great at fixing problems AI created.",
+    "date": "Sun, 22 Nov 2026 22:31:50 +0000",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-released-a-hotfix-for-its-driver-hammering-your-ssd-but-it-doesnt-actually-work/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.08,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "AI",
+      "Nvidia"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 14,
-    "title": "Grand Theft Auto 6 has a 'complex drug network' that tracks everything from where drugs come from to 'how they eventually reach the street-level buyer'",
+    "title": "GTA 6 The End of the Road: Should you swim for it, or choose no surrender?",
     "source": "PC Gamer",
-    "summary": "\"Having that structure in the background as something we consistently refer to helps everything feel more real.\"",
-    "date": "Sun, 22 Nov 2026 13:25:42 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-has-a-complex-drug-network-that-tracks-everything-from-where-drugs-come-from-to-how-they-eventually-reach-the-street-level-buyer/",
+    "summary": "A choice (or two!) can lead to drastically different endings.",
+    "date": "Sun, 22 Nov 2026 21:58:17 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-endings-end-of-the-road-swim-for-it-no-surrender/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.23,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 15,
-    "title": "The designer of Atari's notorious E.T. likens the deluge of AI games to events that preceded the '80s industry crash: 'There was a glut of crap on the market'",
+    "title": "Unreal Engine 6 to jettison key scripting feature earlier than planned in favor of AI coding",
     "source": "PC Gamer",
-    "summary": "Despite this, Howard Scott Warshaw thinks AI will be a \"super positive thing\" for the industry.",
-    "date": "Sun, 22 Nov 2026 12:44:48 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/game-development/the-designer-of-ataris-notorious-e-t-likens-the-deluge-of-ai-games-to-events-that-preceded-the-80s-industry-crash-there-was-a-glut-of-crap-on-the-market/",
+    "summary": "Bye-bye, Blueprints.",
+    "date": "Sun, 22 Nov 2026 20:33:57 +0000",
+    "link": "https://www.pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.08,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
+      "Unreal Engine",
       "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 16,
-    "title": "Jason's stoic character in Grand Theft Auto 6 was inspired by Steve McQueen and research into Army veterans: 'These guys typically aren't running their mouths'",
+    "title": "GTA 6 needed a dedicated team to make sure all its different body types could share animations: 'It was a huge team effort'",
     "source": "PC Gamer",
-    "summary": "Rockstar made a point of creating \"authentic characters that didn't stray too far from reality.\"",
-    "date": "Sun, 22 Nov 2026 10:54:09 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths/",
+    "summary": "Making sure your animations don't break while you're cultivating mass.",
+    "date": "Sun, 22 Nov 2026 20:16:21 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needed-a-dedicated-team-to-make-sure-all-its-different-body-types-could-share-animations-it-was-a-huge-team-effort/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.23,
+      "score": 0.35,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -293,8 +298,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -328,8 +333,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -346,8 +351,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
