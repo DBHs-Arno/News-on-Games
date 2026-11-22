@@ -1,6 +1,24 @@
 [
   {
     "id": 1,
+    "title": "The Binding of Isaac Dev Removes Undisclosed AI-Generated Music From Repentance+ Following Creator Response, Review-Bombing",
+    "source": "IGN",
+    "summary": "The Binding of Isaac developer Nicalis has removed undisclosed AI-generated music included in Repentance+ after backlash led to a review-bombing campaign on Steam and a response from the game's creator, Edmund McMillen.",
+    "date": "Sat, 21 Nov 2026 23:42:05 +0000",
+    "link": "https://www.ign.com/articles/the-binding-of-isaac-dev-removes-undisclosed-ai-generated-music-from-repentance-following-creator-response-review-bombing",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
+    },
+    "tags": [
+      "Steam",
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
     "title": "The Ecovacs Deebot T90 Pro Omni Robot Vacuum Delivers Incredible 30,000Pa Suction and More High-End Features for $549 During Black Friday",
     "source": "IGN",
     "summary": "Give the gift of clean floors with this innovative robot vacuum.",
@@ -12,13 +30,13 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "The Best Deals Today: Silent Hill Townfall, Ocarina of Time Remake, Control Resonant, and More",
     "source": "IGN",
     "summary": "",
@@ -35,7 +53,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "GTA 6 Players Report Crashes on PS5 With Error CE-108255-1",
     "source": "IGN",
     "summary": "GTA 6 players on PlayStation 5 have reported frequent crashes tied to error code CE-108255-1, and it looks like it's blocking them from progressing through the story while they wait for Sony and Rockstar to send out a fix.",
@@ -52,24 +70,6 @@
     "read_time": "1 min read"
   },
   {
-    "id": 4,
-    "title": "Avengers: Doomsday Star Hayley Atwell Teases New Trailer for Monday",
-    "source": "IGN",
-    "summary": "Avengers: Doomsday star and Captain Carter actor Hayley Atwell appears to have let it slip that a new Avengers: Doomsday trailer is set to premiere Monday.",
-    "date": "Sat, 21 Nov 2026 20:29:10 +0000",
-    "link": "https://www.ign.com/articles/avengers-doomsday-star-hayley-atwell-teases-new-trailer-for-monday",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 5,
     "title": "Unannounced Nioh 3 Complete Edition has been rated in Korea",
     "source": "Eurogamer",
@@ -82,8 +82,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -100,8 +100,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -118,8 +118,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -136,85 +136,120 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "Star Wars' New Jedi Order Era is Officially Moving Forward",
+    "title": "46 Years Later, the Most Influential Thriller of All Time Is Officially Free on YouTube",
     "source": "Polygon",
-    "summary": "Two upcoming Star Wars films, New Jedi Order and Lucasfilm head Dave Filoni's untitled project, are making progress.",
-    "date": "Sat, 21 Nov 2026 22:18:17 GMT",
-    "link": "https://www.polygon.com/star-wars-new-jedi-order-era-update/",
+    "summary": "The start of Jason Voorhees's story, 'Friday the 13th,' is now available to watch for free.",
+    "date": "Sun, 22 Nov 2026 04:00:17 GMT",
+    "link": "https://www.polygon.com/friday-the-13th-youtube-watch-free-november-2026/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.14,
+      "score": 0.28,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "GTA 6 Players Are Obsessed With Finding IRL Florida in Vice City",
+    "title": "58 Years Later, Captain Kirk's Best Star Trek Quote Is the Greatest Line in Sci-Fi History",
     "source": "Polygon",
-    "summary": "GTA 6 fans have spent time tracking down remarkably faithful recreations of Miami locations beyond just the popular landmarks.",
-    "date": "Sat, 21 Nov 2026 22:00:17 GMT",
-    "link": "https://www.polygon.com/gta-6-players-irl-vice-city-locations/",
+    "summary": "Captain Kirk's speech in 'Return to Tomorrow' says more about what Star Trek stands for than any other line in the original series.",
+    "date": "Sun, 22 Nov 2026 03:59:17 GMT",
+    "link": "https://www.polygon.com/best-captain-kirk-quote-star-trek-original-series/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.12,
+      "score": 0.46,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Where to find the giant crab safe code and Crabshack VF5 SMG in GTA 6",
+    "title": "61 Years Later, Charlie Brown's Greatest Enemy Is Still an Undefeated 'Peanuts' Icon",
     "source": "Polygon",
-    "summary": "GTA 6's giant crab event takes you through Pelican Valley Outpost and rewards you with the Crabshack VF5 SMG standout weapon.",
-    "date": "Sat, 21 Nov 2026 21:48:35 GMT",
-    "link": "https://www.polygon.com/gta-6-giant-crab-safe-code-crabshack-vf5-smg-how-to-get-pelican-valley-outpost/",
+    "summary": "Charlie Brown's only real arch-rival was a malevolent tree. Chomp chomp chomp.",
+    "date": "Sun, 22 Nov 2026 03:00:28 GMT",
+    "link": "https://www.polygon.com/kite-eating-tree-peanuts/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "All Cheat Codes in GTA 6",
+    "title": "8 Must-Play JRPGs for People With Real-Life Schedules",
     "source": "Polygon",
-    "summary": "Grand Theft Auto 6 features a huge list of cheats. Here's how to unlock them all, and what each one does.",
-    "date": "Sat, 21 Nov 2026 21:02:19 GMT",
-    "link": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
+    "summary": "Busy schedule, long JRPG backlog? These eight games fit short sessions with chapter breaks, adjustable battles, and easy saves.",
+    "date": "Sun, 22 Nov 2026 01:00:17 GMT",
+    "link": "https://www.polygon.com/jrpgs-real-life-schedules/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.45,
+      "score": 0.18,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 13,
+    "title": "Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn",
+    "source": "PC Gamer",
+    "summary": "Her book's being written by award-winning author Tasha Suri.",
+    "date": "Sun, 22 Nov 2026 03:03:45 +0000",
+    "link": "https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Wizards of the Coast to pass full AI copyright payout to D&D writers",
+    "source": "PC Gamer",
+    "summary": "You gotta hand it to them, but the payout sounds like it would have been small potatoes to the company.",
+    "date": "Sat, 21 Nov 2026 23:40:42 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
     "title": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
     "source": "PC Gamer",
     "summary": "November 19 marked the highest-traffic day in the ISP's history.",
@@ -226,13 +261,13 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "The team behind Ubisoft's 'first playable AI-based R&D project' has been established as its own subsidiary called Motherbrain",
     "source": "PC Gamer",
     "summary": "In the name of \"more immersive and engaging player experiences,\" of course.",
@@ -249,42 +284,6 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "Should you proceed or postpone when you meet Abe in the Protective Custody mission in GTA 6?",
-    "source": "PC Gamer",
-    "summary": "In the Chapter 5 mission, should you meet with your lawyer now or wait and do it later?",
-    "date": "Sat, 21 Nov 2026 20:32:43 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-protective-custody-choice-proceed-or-postpone-meet-abe/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Skyrim lead chats about the Fallout diehards who hated that Bethesda got the series: 'We had to prove them wrong, and fortunately we did'",
-    "source": "PC Gamer",
-    "summary": "\"You can't help but take it a little bit personally\".",
-    "date": "Sat, 21 Nov 2026 18:00:00 +0000",
-    "link": "https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.24,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
     "id": 17,
     "title": "Cheeky Malware Linked To Popular Gacha Game Cracks City Security",
     "source": "GameSpot",
@@ -297,8 +296,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -332,8 +331,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
@@ -350,8 +349,8 @@
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
