@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "The Apple AirPods Pro 3 Wireless Noise Canceling Earbuds Drops to Its Final Black Friday Price on Amazon",
+    "title": "Kate Bishop Actress Hailee Steinfeld Confirmed for Avengers: Doomsday",
     "source": "IGN",
-    "summary": "New price low.",
-    "date": "Sun, 22 Nov 2026 22:15:00 +0000",
-    "link": "https://www.ign.com/articles/apple-airpods-pro-3-deal-black-friday-sale-2026",
+    "summary": "Marvel Studios has confirmed Kate Bishop actress Hailee Steinfeld as a last-minute addition to the cast of Avengers: Doomsday.",
+    "date": "Mon, 23 Nov 2026 01:50:13 +0000",
+    "link": "https://www.ign.com/articles/kate-bishop-actress-hailee-steinfeld-confirmed-for-avengers-doomsday",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.01,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -19,15 +19,15 @@
   },
   {
     "id": 2,
-    "title": "Save $400 on Ecovacs' Flagship Robot Vacuum, the Deebot X12S OmniCyclone, for Black Friday",
+    "title": "Alienware's OLED Gaming Monitors Drop to New Price Lows for Black Friday, Starting From Just $280",
     "source": "IGN",
-    "summary": "Continuously self-cleaning mops, a self-sufficient base, and more leave floors sparkling while you enjoy the holiday season.",
-    "date": "Sun, 22 Nov 2026 22:05:00 +0000",
-    "link": "https://www.ign.com/articles/ecovacs-deebot-x12s-omnicyclone-black-friday-2026",
+    "summary": "What good is a powerful gaming PC without a monitor capable of showcasing its glory?",
+    "date": "Mon, 23 Nov 2026 00:45:00 +0000",
+    "link": "https://www.ign.com/articles/alienware-black-friday-sale-gaming-monitor-deals-2026",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.02,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.19,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -37,37 +37,35 @@
   },
   {
     "id": 3,
-    "title": "Rockstar Says Darts Were Cut From GTA 6 Because It Didn't Have 'Unlimited Money or Time' to Make It 'Feel Proper'",
+    "title": "Samsung Nintendo Switch 2 MicroSD Express Memory Cards Are on Sale for Black Friday",
     "source": "IGN",
-    "summary": "Rockstar Games crammed a lot of content into GTA 6, but fan-favorite mini-games like darts and bowling didn't make the cut because the team didn't have \"unlimited money or unlimited time\" to do those activities justice.",
-    "date": "Sun, 22 Nov 2026 20:37:59 +0000",
-    "link": "https://www.ign.com/articles/rockstar-says-darts-were-cut-from-gta-6-because-it-didnt-have-unlimited-money-or-time-to-make-it-feel-proper",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Amazon and Target Launch '3 for 2' Sales on Books, Box Sets, and Vinyl for Black Friday",
-    "source": "IGN",
-    "summary": "",
-    "date": "Sun, 22 Nov 2026 20:34:06 +0000",
-    "link": "https://www.ign.com/articles/black-friday-buy-2-get-1-free-deal-on-books-and-music-2026",
+    "summary": "Tested and vetted at IGN.",
+    "date": "Mon, 23 Nov 2026 00:45:00 +0000",
+    "link": "https://www.ign.com/articles/samsung-nintendo-switch-2-memory-cards-are-on-sale-for-black-friday",
     "sentiment": {
       "label": "Critical / Mixed",
       "score": -0.17,
       "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Nintendo"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "The PlayStation 5 Pro Console Is Going In and Out of Stock at Amazon",
+    "source": "IGN",
+    "summary": "You'll need a combination of perseverance and luck to score one.",
+    "date": "Mon, 23 Nov 2026 00:45:00 +0000",
+    "link": "https://www.ign.com/articles/the-playstation-5-pro-console-is-going-in-and-out-of-stock-at-amazon",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
@@ -102,8 +100,8 @@
       "badge": "info"
     },
     "tags": [
-      "Steam",
-      "AI"
+      "AI",
+      "Steam"
     ],
     "read_time": "1 min read"
   },
@@ -143,14 +141,14 @@
   },
   {
     "id": 9,
-    "title": "25 Years Later, Dragon Quest’s Island-Hopping Epic Gets Better in Every Port",
+    "title": "Clair Obscur: Expedition 33 ‘A Painted Symphony’ Officially Returns in 2027",
     "source": "Polygon",
-    "summary": "The years have been kind to one classic Dragon Quest game, even if it got a slow start.",
-    "date": "Sun, 22 Nov 2026 23:00:17 GMT",
-    "link": "https://www.polygon.com/dragon-quest-7-25th-anniversary/",
+    "summary": "Clair Obscur: Expedition 33's acclaimed Painted Symphony concert series is getting a world tour in 2027",
+    "date": "Mon, 23 Nov 2026 04:06:17 GMT",
+    "link": "https://www.polygon.com/clair-obscur-expedition-33-painted-symphony-2027-dates-locations/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.1,
+      "score": 0.0,
       "badge": "info"
     },
     "tags": [
@@ -161,15 +159,15 @@
   },
   {
     "id": 10,
-    "title": "Sorry, Vice City, but You’re the Most Boring Part of GTA 6",
+    "title": "Robert Pattinson's Forgotten Dark Fantasy Thriller Proves He's a Perfect James Bond",
     "source": "Polygon",
-    "summary": "Grand Theft Auto 6's map is so well-designed that Vice City just might be the least exciting thing about Leonida.",
-    "date": "Sun, 22 Nov 2026 21:00:17 GMT",
-    "link": "https://www.polygon.com/gta-6-vice-city-boring/",
+    "summary": "The Lighthouse, which is available on HBO Max, is the perfect film for the Robert Pattinson skeptic",
+    "date": "Mon, 23 Nov 2026 03:00:27 GMT",
+    "link": "https://www.polygon.com/the-lighthouse-robert-pattinson-james-bond/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.08,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.51,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -179,15 +177,15 @@
   },
   {
     "id": 11,
-    "title": "GTA 6's T-shirts Are True Works of Art",
+    "title": "34 Years Later, the Best 'Far Side' Quote Will Still Leave You Speechless",
     "source": "Polygon",
-    "summary": "Fashion can help you evade police in GTA 6, and Rockstar's design team has crafted some seriously covetable threads for the game.",
-    "date": "Sun, 22 Nov 2026 20:30:17 GMT",
-    "link": "https://www.polygon.com/gta-6-t-shirts/",
+    "summary": "Gary Larson's comic strip The Far Side was known for its visual humor, but this is the best-ever quote from the series",
+    "date": "Mon, 23 Nov 2026 02:34:17 GMT",
+    "link": "https://www.polygon.com/best-far-side-quote/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.13,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.24,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -197,15 +195,15 @@
   },
   {
     "id": 12,
-    "title": "How to steal the BF Bandito in GTA 6",
+    "title": "Star Wars Is Getting an Official IMAX 70mm Release for the First Time",
     "source": "Polygon",
-    "summary": "Here's what you need to do to steal the BF Bandito in GTA 6 and complete one of Moses's requests",
-    "date": "Sun, 22 Nov 2026 20:29:44 GMT",
-    "link": "https://www.polygon.com/gta-6-bf-bandito-steal-how-to-moses-grand-theft-auto/",
+    "summary": "In 2027, the original untouched Star Wars will return to movie theaters — and in IMAX 70mm screenings for the first time, Lucasfilm confirms.",
+    "date": "Mon, 23 Nov 2026 02:13:17 GMT",
+    "link": "https://www.polygon.com/star-wars-50th-anniversary-imax-release-2027/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.29,
+      "badge": "success"
     },
     "tags": [
       "Gaming",
@@ -215,6 +213,42 @@
   },
   {
     "id": 13,
+    "title": "Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled",
+    "source": "PC Gamer",
+    "summary": "\"Woke up to a shit show,\" Edmund McMillen wrote.",
+    "date": "Mon, 23 Nov 2026 01:11:23 +0000",
+    "link": "https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.25,
+      "badge": "danger"
+    },
+    "tags": [
+      "AI",
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "SNEG has re-released three more venerable PC strategy games including Warlords 4: Heroes of Etheria",
+    "source": "PC Gamer",
+    "summary": "Let the war begin.",
+    "date": "Mon, 23 Nov 2026 00:07:24 +0000",
+    "link": "https://www.pcgamer.com/games/strategy/sneg-has-re-released-three-more-venerable-pc-strategy-games-including-warlords-4-heroes-of-etheria/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
     "title": "Nvidia released a hotfix for its driver hammering your SSD, but it doesn't actually work",
     "source": "PC Gamer",
     "summary": "AI isn't great at fixing problems AI created.",
@@ -232,7 +266,7 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "GTA 6 The End of the Road: Should you swim for it, or choose no surrender?",
     "source": "PC Gamer",
     "summary": "A choice (or two!) can lead to drastically different endings.",
@@ -242,42 +276,6 @@
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Unreal Engine 6 to jettison key scripting feature earlier than planned in favor of AI coding",
-    "source": "PC Gamer",
-    "summary": "Bye-bye, Blueprints.",
-    "date": "Sun, 22 Nov 2026 20:33:57 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Unreal Engine",
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "GTA 6 needed a dedicated team to make sure all its different body types could share animations: 'It was a huge team effort'",
-    "source": "PC Gamer",
-    "summary": "Making sure your animations don't break while you're cultivating mass.",
-    "date": "Sun, 22 Nov 2026 20:16:21 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needed-a-dedicated-team-to-make-sure-all-its-different-body-types-could-share-animations-it-was-a-huge-team-effort/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.35,
-      "badge": "success"
     },
     "tags": [
       "Gaming",
