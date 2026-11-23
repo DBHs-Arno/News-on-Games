@@ -1,356 +1,358 @@
 [
   {
     "id": 1,
-    "title": "Kate Bishop Actress Hailee Steinfeld Confirmed for Avengers: Doomsday",
+    "title": "Judge Lets Hacker Behind Massive GTA 6 Leak of 2022 Go Free With a Warning: 'Don't Let This Happen Again'",
     "source": "IGN",
-    "summary": "Marvel Studios has confirmed Kate Bishop actress Hailee Steinfeld as a last-minute addition to the cast of Avengers: Doomsday.",
-    "date": "Mon, 23 Nov 2026 01:50:13 +0000",
-    "link": "https://www.ign.com/articles/kate-bishop-actress-hailee-steinfeld-confirmed-for-avengers-doomsday",
+    "summary": "The hacker behind the massive GTA 6 leak in September 2022 has been released on license with a strong warning from the judge.",
+    "date": "Mon, 23 Nov 2026 16:19:33 +0000",
+    "link": "https://www.ign.com/articles/gta-6-hacker-free-after-time-served-over-2022-cyber-attack",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.01,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Alienware's OLED Gaming Monitors Drop to New Price Lows for Black Friday, Starting From Just $280",
+    "title": "Final Fantasy 7 Rebirth and a Ton More Square Enix Games Are on Sale for Black Friday",
     "source": "IGN",
-    "summary": "What good is a powerful gaming PC without a monitor capable of showcasing its glory?",
-    "date": "Mon, 23 Nov 2026 00:45:00 +0000",
-    "link": "https://www.ign.com/articles/alienware-black-friday-sale-gaming-monitor-deals-2026",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.19,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Samsung Nintendo Switch 2 MicroSD Express Memory Cards Are on Sale for Black Friday",
-    "source": "IGN",
-    "summary": "Tested and vetted at IGN.",
-    "date": "Mon, 23 Nov 2026 00:45:00 +0000",
-    "link": "https://www.ign.com/articles/samsung-nintendo-switch-2-memory-cards-are-on-sale-for-black-friday",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.17,
-      "badge": "danger"
-    },
-    "tags": [
-      "Nintendo"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "The PlayStation 5 Pro Console Is Going In and Out of Stock at Amazon",
-    "source": "IGN",
-    "summary": "You'll need a combination of perseverance and luck to score one.",
-    "date": "Mon, 23 Nov 2026 00:45:00 +0000",
-    "link": "https://www.ign.com/articles/the-playstation-5-pro-console-is-going-in-and-out-of-stock-at-amazon",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "GTA 6's strong and silent Jason was inspired by Steve McQueen and former Army Rangers, says Rockstar",
-    "source": "Eurogamer",
-    "summary": "If you've noticed that Grand Theft Auto 6's Jason Duval isn't much of a talker, that's by design, as his quiet nature was inspired by Steve McQueen and the studio's research into former Army Rangers. Read more...",
-    "date": "Sun, 22 Nov 2026 16:11:00 +0000",
-    "link": "https://www.eurogamer.net/gta-6-jason-steve-mcqueen-army-rangers",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it",
-    "source": "Eurogamer",
-    "summary": "Nicalis has removed AI-generated music from The Binding of Isaac: Repentance+ after players discovered it in the game's latest update, prompting a wave of negative reviews on Steam. Read more...",
-    "date": "Sun, 22 Nov 2026 13:19:20 +0000",
-    "link": "https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.07,
-      "badge": "info"
-    },
-    "tags": [
-      "AI",
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Over half of all console players active on GTA 6's launch day played it, says Circana",
-    "source": "Eurogamer",
-    "summary": "On Grand Theft Auto 6's launch day, more than half of everyone playing on PS5 and Xbox was playing GTA 6. Read more...",
-    "date": "Sun, 22 Nov 2026 12:02:30 +0000",
-    "link": "https://www.eurogamer.net/gta-6-launch-day-engagement-circana",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.17,
-      "badge": "success"
-    },
-    "tags": [
-      "Xbox"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend",
-    "source": "Eurogamer",
-    "summary": "A Grand Theft Auto 6 player says they've been hit with a 30-day PlayStation Network social features ban after sending a friend a photo they took in the game's nudist resort. Read more...",
-    "date": "Sun, 22 Nov 2026 11:22:10 +0000",
-    "link": "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
-    },
-    "tags": [
-      "PlayStation"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "Clair Obscur: Expedition 33 ‘A Painted Symphony’ Officially Returns in 2027",
-    "source": "Polygon",
-    "summary": "Clair Obscur: Expedition 33's acclaimed Painted Symphony concert series is getting a world tour in 2027",
-    "date": "Mon, 23 Nov 2026 04:06:17 GMT",
-    "link": "https://www.polygon.com/clair-obscur-expedition-33-painted-symphony-2027-dates-locations/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "Robert Pattinson's Forgotten Dark Fantasy Thriller Proves He's a Perfect James Bond",
-    "source": "Polygon",
-    "summary": "The Lighthouse, which is available on HBO Max, is the perfect film for the Robert Pattinson skeptic",
-    "date": "Mon, 23 Nov 2026 03:00:27 GMT",
-    "link": "https://www.polygon.com/the-lighthouse-robert-pattinson-james-bond/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.51,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "34 Years Later, the Best 'Far Side' Quote Will Still Leave You Speechless",
-    "source": "Polygon",
-    "summary": "Gary Larson's comic strip The Far Side was known for its visual humor, but this is the best-ever quote from the series",
-    "date": "Mon, 23 Nov 2026 02:34:17 GMT",
-    "link": "https://www.polygon.com/best-far-side-quote/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.24,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "Star Wars Is Getting an Official IMAX 70mm Release for the First Time",
-    "source": "Polygon",
-    "summary": "In 2027, the original untouched Star Wars will return to movie theaters — and in IMAX 70mm screenings for the first time, Lucasfilm confirms.",
-    "date": "Mon, 23 Nov 2026 02:13:17 GMT",
-    "link": "https://www.polygon.com/star-wars-50th-anniversary-imax-release-2027/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.29,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled",
-    "source": "PC Gamer",
-    "summary": "\"Woke up to a shit show,\" Edmund McMillen wrote.",
-    "date": "Mon, 23 Nov 2026 01:11:23 +0000",
-    "link": "https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.25,
-      "badge": "danger"
-    },
-    "tags": [
-      "AI",
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "SNEG has re-released three more venerable PC strategy games including Warlords 4: Heroes of Etheria",
-    "source": "PC Gamer",
-    "summary": "Let the war begin.",
-    "date": "Mon, 23 Nov 2026 00:07:24 +0000",
-    "link": "https://www.pcgamer.com/games/strategy/sneg-has-re-released-three-more-venerable-pc-strategy-games-including-warlords-4-heroes-of-etheria/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "Nvidia released a hotfix for its driver hammering your SSD, but it doesn't actually work",
-    "source": "PC Gamer",
-    "summary": "AI isn't great at fixing problems AI created.",
-    "date": "Sun, 22 Nov 2026 22:31:50 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-released-a-hotfix-for-its-driver-hammering-your-ssd-but-it-doesnt-actually-work/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.4,
-      "badge": "success"
-    },
-    "tags": [
-      "AI",
-      "Nvidia"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "GTA 6 The End of the Road: Should you swim for it, or choose no surrender?",
-    "source": "PC Gamer",
-    "summary": "A choice (or two!) can lead to drastically different endings.",
-    "date": "Sun, 22 Nov 2026 21:58:17 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-endings-end-of-the-road-swim-for-it-no-surrender/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "Cheeky Malware Linked To Popular Gacha Game Cracks City Security",
-    "source": "GameSpot",
-    "summary": "East Asia--and particularly Japan--has been suffering a rash of cybersecurity incidents as of late, affecting everything from major banks and cellphone service providers to city governments and small businesses. Gaming has been one of many areas targeted: between arcade games on Sega's network going...",
-    "date": "Fri, 20 Nov 2026 23:54:45 +0000",
-    "link": "https://www.gamespot.com/articles/cheeky-malware-linked-to-popular-gacha-game-cracks-city-security/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 18,
-    "title": "GTA 6 Players Captivated By Mandy Apparently Include A Former Nintendo President",
-    "source": "GameSpot",
-    "summary": "A character named Mandy has the attention of many Grand Theft Auto 6 players--and that appears to include Reggie Fils-Aimé, the man who used to run Nintendo of America.\nPer GamesRadar, former Nintendo marketing and public relations manager Krysta Yang joked on social media that GTA 6, which is front...",
-    "date": "Fri, 20 Nov 2026 23:33:14 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-players-captivated-by-mandy-apparently-include-a-former-nintendo-president/",
+    "summary": "A selection of Square Enix games have received huge discounts in Black Friday sales, including Final Fantasy 7 Rebirth, the Kingdom Hearts Collection [I–III], and more.",
+    "date": "Mon, 23 Nov 2026 16:08:03 +0000",
+    "link": "https://www.ign.com/articles/final-fantasy-7-rebirth-and-a-ton-more-square-enix-games-are-on-sale-for-black-friday",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.15,
       "badge": "success"
     },
     "tags": [
-      "Nintendo"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "Do You Need the Key Cloner to Steal All of GTA 6's Cars?",
+    "source": "IGN",
+    "summary": "You've probably noticed that many of GTA 6's more expensive cars require a key cloner to steal. Here's how to get it and how it works.",
+    "date": "Mon, 23 Nov 2026 16:00:00 +0000",
+    "link": "https://www.ign.com/articles/key-cloner-gta-6",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "Daredevil Star Charlie Cox Asked for a James Bond Audition but Was Told He Was 'Too Old'",
+    "source": "IGN",
+    "summary": "Daredevil star Charlie Cox says he was denied a James Bond audition after being told he was already \"too old\" to play 007.",
+    "date": "Mon, 23 Nov 2026 15:54:26 +0000",
+    "link": "https://www.ign.com/articles/daredevil-charlie-cox-too-old-james-bond-audition",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Dawn of War 4's newest trailer teases the appearance of a fan-favourite character in the game's post-launch DLC",
+    "source": "Eurogamer",
+    "summary": "As Dawn of War 4's December release date inches ever closer, a new trailer appears to have teased a fan-favourite character's inclusion in the RTS's first post-launch DLC. Read more...",
+    "date": "Mon, 23 Nov 2026 17:06:40 +0000",
+    "link": "https://www.eurogamer.net/dawn-of-war-4-trailer-vashtorr-chaos-tease",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.12,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "GTA 6 just got a patch that fixed a progression bug on PS5 and Xbox Series X/S",
+    "source": "Eurogamer",
+    "summary": "Rockstar just issued a new patch for GTA 6 on PlayStation 5 and Xbox Series X/S, targeting a few issues players have been reporting since the game launched last Thursday (19th November). Read more...",
+    "date": "Mon, 23 Nov 2026 15:22:30 +0000",
+    "link": "https://www.eurogamer.net/gta-6-xbox-playstation-patch-autosave-vignette",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "Xbox",
+      "Patch",
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Nvidia makes stunning decision to reinstate Jensen Huang as CEO",
+    "source": "Eurogamer",
+    "summary": "Gaming tech giant Nvidia has decided to reinstate Jensen Huang as its president and CEO, despite allegedly saying it wouldn't, and despite a string of extramarital affairs and investigations into alleged bullying, workplace harassment, and humiliation. Read more...",
+    "date": "Mon, 23 Nov 2026 15:01:00 +0000",
+    "link": "https://www.eurogamer.net/nvidia-jensen-huang-ceo-reinstated-affair",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.16,
+      "badge": "success"
+    },
+    "tags": [
+      "Nvidia"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Has Rockstar taken the \"Grand Theft Auto\" out of GTA 6? Or has it just gamified car-jacking properly for the first time?",
+    "source": "Eurogamer",
+    "summary": "It's impossible to have a big game launch these days without some section of the internet, somewhere, finding grievances with the final product because it does not align with the expectations they had pre-release. Read more...",
+    "date": "Mon, 23 Nov 2026 14:58:20 +0000",
+    "link": "https://www.eurogamer.net/gta-6-car-theft-gamified",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "WoW: Forever’s Secretly Best Item Changes Everything",
+    "source": "Polygon",
+    "summary": "The Cozy Sleeping Bag, a quest reward in Blizzard's new version of World of Warcraft, is a game-changer",
+    "date": "Mon, 23 Nov 2026 17:00:18 GMT",
+    "link": "https://www.polygon.com/wow-forever-cozy-sleeping-bag/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.26,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 10,
+    "title": "9 Years Later, Smosh’s Best Event Makes an Epic Comeback",
+    "source": "Polygon",
+    "summary": "In an exclusive reveal with Polygon, Smosh announced its upcoming winter bonanza: the 2026 Winter Games.",
+    "date": "Mon, 23 Nov 2026 17:00:18 GMT",
+    "link": "https://www.polygon.com/smosh-winter-games-2026/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.37,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 11,
+    "title": "Nvidia Board Reinstates CEO Jensen Huang Less than 2 Weeks after He Resigned",
+    "source": "Polygon",
+    "summary": "Nvidia is reinstating Jensen Huang as CEO shortly after he stepped down once his affair with a Chinese spy came to light.",
+    "date": "Mon, 23 Nov 2026 16:13:15 GMT",
+    "link": "https://www.polygon.com/nvidia-reinstates-ceo-jensen-huang-spy-scandal/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.02,
+      "badge": "info"
+    },
+    "tags": [
+      "Nvidia"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Percy Jackson Star Reveals Encouraging Season 4 News Amid Cancellation Fears",
+    "source": "Polygon",
+    "summary": "Percy Jackson star Walker Scobell may have just confirmed Disney’s Rick Riordan adaptation will get a season 4.",
+    "date": "Mon, 23 Nov 2026 15:59:20 GMT",
+    "link": "https://www.polygon.com/disney-percy-jackson-series-season-4-teased-walker-scobell/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "This fan-made map shows why Queen's Domain is the true GOTY, and you can even upload your save to it to track the things you have left to find",
+    "source": "PC Gamer",
+    "summary": "Cartographic miracles.",
+    "date": "Mon, 23 Nov 2026 16:11:47 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/this-fan-made-map-shows-why-queens-domain-is-the-true-goty-and-you-can-even-upload-your-save-to-it-to-track-the-things-you-have-left-to-find/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "60 hours in GTA 6 has me yearning for an online Leonida",
+    "source": "PC Gamer",
+    "summary": "Leonida deserves to be explored with friends.",
+    "date": "Mon, 23 Nov 2026 16:02:42 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/60-hours-in-gta-6-has-me-yearning-for-an-online-leonida/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "World of Warcraft: Forever review: The first proper MMO adventure I've been on in years",
+    "source": "PC Gamer",
+    "summary": "A second wind for old-school MMOs that has me hooked.",
+    "date": "Mon, 23 Nov 2026 15:36:34 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-review/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Trump praises Jensen Huang's reinstatement as Nvidia CEO, calls him a 'great patriot and national treasure,' while Musk says 'the mistake has been corrected'",
+    "source": "PC Gamer",
+    "summary": "\"The Nvidia Board of Directors has made the correct and proper decision,\" says the US president.",
+    "date": "Mon, 23 Nov 2026 15:09:09 +0000",
+    "link": "https://www.pcgamer.com/hardware/graphics-cards/trump-praises-jensen-huangs-reinstatement-as-nvidia-ceo-calls-him-a-great-patriot-and-national-treasure-while-musk-says-the-mistake-has-been-corrected/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.4,
+      "badge": "success"
+    },
+    "tags": [
+      "Nvidia"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "This Terrifying GTA 6 Easter Egg Will Give You Nightmares",
+    "source": "GameSpot",
+    "summary": "Rockstar's GTA 6 features a massive open world to explore, and people continue to make new discoveries, including a terrifying killer clown Easter egg. \nIt's been discovered that the Haymarket building in Vice Beach County features an elevator filled with balloons. That's creepy, but not the worst. ...",
+    "date": "Mon, 23 Nov 2026 16:27:12 +0000",
+    "link": "https://www.gamespot.com/articles/this-terrifying-gta-6-easter-egg-will-give-you-nightmares/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.37,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "GTA 6’s Preorder DLC Is Now Available By Itself For $5",
+    "source": "GameSpot",
+    "summary": "Rockstar Games is now selling GTA 6's preorder DLC as a standalone purchase. The Vintage Vice City Pack is now available to buy for $5.\nThe DLC includes '80s-inspired content, including the '55 Vapid Stanier sedan, along with a garage for it on Ocean Beach. The DLC also comes with outfits and hairst...",
+    "date": "Mon, 23 Nov 2026 15:53:44 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6s-preorder-dlc-is-now-available-by-itself-for-5/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 19,
-    "title": "GTA 6 Has Dexter References, And Now Dexter Himself Has Reacted",
+    "title": "GTA 6’s First Patch Is Rolling Out, Here’s What It Does",
     "source": "GameSpot",
-    "summary": "Actor Michael C. Hall has reacted to how GTA 6 features references to his Miami-set TV show Dexter, in which he famously played the serial killer Dexter.\nAppearing on the Barstool Movies show, Hall said he was \"informed\" of the Easter eggs in GTA 6 about his character. \"I wasn't consulted,\" he said ...",
-    "date": "Fri, 20 Nov 2026 20:50:55 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-has-dexter-references-and-now-dexter-himself-has-reacted/",
+    "summary": "Grand Theft Auto 6 has gotten off to a relatively smooth start, which is rare for an open-world game of this scale. It looks like the first GTA 6 patch is also rolling out, and fortunately, it won’t be a mammoth download compared to grabbing the 211 GB game--internet service providers are probably b...",
+    "date": "Mon, 23 Nov 2026 13:46:31 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-first-patch-is-rolling-out/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.5,
+      "score": 0.24,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "Patch"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "GTA 6 Sets Even More Records",
+    "title": "New Hunger Games Movie Blows Past Expectations After Some Feared GTA 6 Could Limit Its Reach",
     "source": "GameSpot",
-    "summary": "Rockstar's Grand Theft Auto 6 has finally arrived, and, to the surprise of no one, it's putting up some big numbers that speak to the pent-up demand. GTA 6 sold more than 30 million copies and hit almost $4 billion on day one, but that's just the start of understanding the impact of the game's relea...",
-    "date": "Fri, 20 Nov 2026 19:52:51 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-sets-even-more-records/",
+    "summary": "The newest Hunger Games movie, Sunrise on the Reaping, had a gigantic opening weekend that exceeded expectations. Some theorized it could struggle as people stayed home to playGTA 6, which released one day prior, but that doesn't appear to have been the case.\nAt the domestic box office, Sunrise on t...",
+    "date": "Mon, 23 Nov 2026 14:52:04 +0000",
+    "link": "https://www.gamespot.com/articles/new-hunger-games-movie-blows-past-expectations-after-some-feared-gta-6-could-limit-its-reach/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.18,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
