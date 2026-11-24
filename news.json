@@ -1,247 +1,157 @@
 [
   {
     "id": 1,
-    "title": "A Ton of Magic: The Gathering Final Fantasy Playmats Are on Sale for Black Friday",
+    "title": "Every Team We'll See in Avengers: Doomsday",
     "source": "IGN",
-    "summary": "It's no Queen's Blood.",
-    "date": "Tue, 24 Nov 2026 01:52:00 +0000",
-    "link": "https://www.ign.com/articles/magic-the-gathering-final-fantasy-playmats-are-on-sale-for-black-friday",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 2,
-    "title": "Proton’s Powerful Password Manager is 60% Off for Black Friday",
-    "source": "IGN",
-    "summary": "Boost your security for less than half the usual price",
-    "date": "Tue, 24 Nov 2026 01:15:00 +0000",
-    "link": "https://www.ign.com/articles/proton-pass-black-friday-deal-2026",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Here Are All of the Best Clips From the World's First Weekend With GTA 6",
-    "source": "IGN",
-    "summary": "GTA 6 is here, and IGN has gathered all of the best (spoiler-free) clips from the world's first weekend with the game.",
-    "date": "Tue, 24 Nov 2026 00:35:56 +0000",
-    "link": "https://www.ign.com/articles/here-are-all-of-the-best-clips-from-the-worlds-first-weekend-with-gta-6",
+    "summary": "How many super teams will be in Avengers: Doomsday? A lot...",
+    "date": "Tue, 24 Nov 2026 15:06:19 +0000",
+    "link": "https://www.ign.com/articles/every-team-well-see-in-avengers-doomsday",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.42,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 2,
+    "title": "Scott Pilgrim and Ramona Flowers Join Fortnite This Week",
+    "source": "IGN",
+    "summary": "Scott Pilgrim takes on the world of Fortnite later this week, with the battle royale's next crossover. Check out this first look.",
+    "date": "Tue, 24 Nov 2026 14:53:31 +0000",
+    "link": "https://www.ign.com/articles/scott-pilgrim-and-ramona-flowers-join-fortnite-this-week",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "GTA 6 Players Are Optimizing the Money Glitch to Within an Inch of Its Life to Make $100,000 in Just 10 Minutes",
+    "source": "IGN",
+    "summary": "We’ve already covered players using infinite money glitches to get rich quickly in GTA 6, but people are taking it to the next level. New money-making optimization strategies are seeing players become millionaires in a couple of hours, while still in the early game.",
+    "date": "Tue, 24 Nov 2026 14:15:37 +0000",
+    "link": "https://www.ign.com/articles/gta-6-teddy-bear-van-money-glitch",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Save Up to $1,100 Off the 2026 65\" Hisense UR8 RGB Mini-LED Ultimate Gaming TVs for Black Friday",
+    "title": "I Watched GTA 6's In-Game TV Shows For Hours, They're Absolutely Wild",
     "source": "IGN",
-    "summary": "RGB Mini-LED tech boasts richer colors, a brighter picture, and wider viewing angles than ever before.",
-    "date": "Tue, 24 Nov 2026 00:35:00 +0000",
-    "link": "https://www.ign.com/articles/hisense-ur8-rgb-mini-led-tv-deal-black-friday-sale-2026",
+    "summary": "Rockstar's satire has reached new levels with in-game cartoons like Barnyard Blue and the dark comedy The Tyrone Show.",
+    "date": "Tue, 24 Nov 2026 14:00:00 +0000",
+    "link": "https://www.ign.com/articles/i-watched-gta-6s-in-game-tv-shows-for-hours-theyre-absolutely-wild",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": -0.08,
+      "score": 0.02,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
-    "title": "Deltarune Chapter 6 is playable \"from the beginning to the end,\" Toby Fox says, but the RPG's final part has \"only just started\"",
+    "title": "GTA 6 players are discovering, who needs a gun when it's easier to rob a store with a crate of beer?",
     "source": "Eurogamer",
-    "summary": "Toby Fox has given eager fans an update on the development of Deltarune Chapter 6 and Chapter 7 - the Undertale follow-up's final two episodes. Read more...",
-    "date": "Mon, 23 Nov 2026 20:04:50 +0000",
-    "link": "https://www.eurogamer.net/deltarune-chapter-6-playable-toby-fox",
+    "summary": "Guns might be the weapon of choice for most Grand Theft Auto 6 players, but it turns out some enterprising digital criminals are taking a more inventive approach to robberies. Who needs a gun by their side when you've got a crate of beer? Read more...",
+    "date": "Tue, 24 Nov 2026 16:33:50 +0000",
+    "link": "https://www.eurogamer.net/grand-theft-auto-6-beer-robberies",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.12,
+      "score": 0.42,
       "badge": "success"
     },
     "tags": [
-      "RPG"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 6,
-    "title": "Activision calls Banjo-Kazooie one of its \"iconic gaming franchises,\" raising hopes for long-awaited new game",
+    "title": "Remedy CEO praises Rockstar's support for the Max Payne 1 & 2 remake and respecting Remedy's creative vision",
     "source": "Eurogamer",
-    "summary": "Banjo-Kazooie - the iconic Rare platformer starring an absent-minded bear and the sassy red bird he carries in a backpack - has been on hiatus for years, but a new Activision job listing has raised hopes for a new game. Read more...",
-    "date": "Mon, 23 Nov 2026 19:22:30 +0000",
-    "link": "https://www.eurogamer.net/activision-banjo-kazooie-iconic-gaming-franchise",
+    "summary": "Alan Wake and Control studio Remedy Entertainment is currently developing a highly-anticipated Max Payne 1 & 2 remake. The Finnish studio is doing so in partnership with Grand Theft Auto 6 studio Rockstar, which owns the IP and is funding the remake's development. Read more...",
+    "date": "Tue, 24 Nov 2026 15:09:20 +0000",
+    "link": "https://www.eurogamer.net/remedy-max-payne-1-2-remake-rockstar-relationship",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.38,
+      "badge": "success"
+    },
+    "tags": [
+      "Remake"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "As Blizzard whacks one World of Warcraft: Forever gold farming exploit, it struggles to contain all of the alternatives popping up",
+    "source": "Eurogamer",
+    "summary": "World of Warcraft: Forever is in the grip of a gold-farming bonanza, as Blizzard's attempts to curb them are met with a seemingly endless wave of alternative money-making methods. Read more...",
+    "date": "Tue, 24 Nov 2026 14:38:30 +0000",
+    "link": "https://www.eurogamer.net/blizzard-world-of-warcraft-forever-gold-exploits",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.19,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Today's Nintendo Switch Online update finally introduces a feature players have been asking for since 2018",
+    "source": "Eurogamer",
+    "summary": "There's been an exciting addition to the Nintendo Classics GameCube app today, as users have discovered a small - but oft-requested - change in the software's Version 2.2.0.\n Read more...",
+    "date": "Tue, 24 Nov 2026 14:02:00 +0000",
+    "link": "https://www.eurogamer.net/nintendo-switch-update-version-2-2-0-borders",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.14,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "God of War Laufey's Faye actor jumps from games to live-action, as Amazon casts Deborah Ann Woll in upcoming series",
-    "source": "Eurogamer",
-    "summary": "After appearing in both God of War Ragnarok and next year's God of War Laufey, Deborah Ann Woll is about to reprise her role as Faye in Amazon Prime Video's upcoming live-action series. Read more...",
-    "date": "Mon, 23 Nov 2026 18:09:50 +0000",
-    "link": "https://www.eurogamer.net/god-of-war-laufey-faye-amazon-series",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "Dawn of War 4's newest trailer teases the appearance of a fan-favourite character in the game's post-launch DLC",
-    "source": "Eurogamer",
-    "summary": "As Dawn of War 4's December release date inches ever closer, a new trailer appears to have teased a fan-favourite character's inclusion in the RTS's first post-launch DLC. Read more...",
-    "date": "Mon, 23 Nov 2026 17:06:40 +0000",
-    "link": "https://www.eurogamer.net/dawn-of-war-4-trailer-vashtorr-chaos-tease",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.12,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Nintendo"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "GTA 6's Best Easter Egg Is a Classic Tom Cruise Crime-Thriller You Can Stream For Free",
+    "title": "Bungie Officially Shows Off Marathon’s Most Exciting Update Feature",
     "source": "Polygon",
-    "summary": "A GTA 6 taxi encounter echoes Michael Mann’s Collateral, starring Tom Cruise and Jamie Foxx. Watch it free on Pluto TV or stream it on Paramount Plus.",
-    "date": "Tue, 24 Nov 2026 02:30:17 GMT",
-    "link": "https://www.polygon.com/gta-6-collateral-easter-egg-streaming-for-free/",
+    "summary": "PlayStation’s extraction shooter, Marathon shows off Bishop shell coming in massive Symbiosis update",
+    "date": "Tue, 24 Nov 2026 16:43:52 GMT",
+    "link": "https://www.polygon.com/playstation-marathon-symbiosis-update-bishop-shell-trailer/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.49,
+      "score": 0.27,
       "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "25 Years Later, GTA 3 Is Still the Most Fascinating Open-World Experiment",
-    "source": "Polygon",
-    "summary": "Rockstar's 2001 GTA 3 changed the open-world game forever with its urban playground of Liberty City.",
-    "date": "Tue, 24 Nov 2026 00:35:58 GMT",
-    "link": "https://www.polygon.com/gta-3-retrospective-rockstar-games/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.16,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 11,
-    "title": "GTA 6 Is So Unstoppable It's Even Made Nickelback Go Viral",
-    "source": "Polygon",
-    "summary": "GTA 6 features a radio station with alternate-language covers of pop songs, the best of which is the Greek Nickelback \"How You Remind Me\" cover.",
-    "date": "Tue, 24 Nov 2026 00:00:18 GMT",
-    "link": "https://www.polygon.com/gta-6-nickelback-cover/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.5,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 12,
-    "title": "The 6 Most Outrageous GTA 6 Myths, Debunked",
-    "source": "Polygon",
-    "summary": "Grand Theft Auto 6 has sparked a flurry of misinformation, as players keep sharing false details about Rockstar's new game.",
-    "date": "Mon, 23 Nov 2026 23:01:27 GMT",
-    "link": "https://www.polygon.com/gta-6-myths-debunked/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.11,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Trump claims credit for Jensen Huang's return to Nvidia, posts meme depicting Huang holding up a bra victoriously",
-    "source": "PC Gamer",
-    "summary": "US politicians on both sides of the aisle are reeling.",
-    "date": "Tue, 24 Nov 2026 01:06:57 +0000",
-    "link": "https://www.pcgamer.com/software/ai/trump-claims-credit-for-jensen-huangs-return-to-nvidia-posts-meme-depicting-huang-holding-up-a-bra-victoriously/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Nvidia"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Sony: GTA 6 set record for 'highest number of concurrent players for any game on PlayStation' ever",
-    "source": "PC Gamer",
-    "summary": "The industry is finding new milestones to measure GTA 6's success.",
-    "date": "Tue, 24 Nov 2026 00:14:36 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/sony-gta-6-set-record-for-highest-number-of-concurrent-players-for-any-game-on-playstation-ever/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
     },
     "tags": [
       "PlayStation"
@@ -249,109 +159,198 @@
     "read_time": "1 min read"
   },
   {
-    "id": 15,
-    "title": "GTA 6 players found a '60 fps glitch', but it’s too unstable to stop me from wishing it was on PC already",
-    "source": "PC Gamer",
-    "summary": "Spoiler: It doesn't actually run at 60 fps.",
-    "date": "Mon, 23 Nov 2026 22:47:08 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-players-found-a-60-fps-glitch-but-its-too-unstable-to-stop-me-from-wishing-it-was-on-pc-already/",
+    "id": 10,
+    "title": "Pokémon Go 'Twilight Wishes' event guide",
+    "source": "Polygon",
+    "summary": "Here's everything you need to know about Pokémon Go's \"Twilight Wishes\" event, including how to get the sun and moon crown Pikachu.",
+    "date": "Tue, 24 Nov 2026 16:21:31 GMT",
+    "link": "https://www.polygon.com/pokemon-go-twilight-wishes-pass-sun-moon-umbreon-espeon/",
     "sentiment": {
       "label": "Neutral / Informative",
       "score": 0.0,
       "badge": "info"
     },
     "tags": [
-      "FPS"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 16,
-    "title": "God of War: Laufey star Deborah Ann Woll will reprise the role in Amazon's God of War show",
-    "source": "PC Gamer",
-    "summary": "Woll will portray Faye, the \"mysterious\" wife of Kratos and mother of Atreus.",
-    "date": "Mon, 23 Nov 2026 22:20:08 +0000",
-    "link": "https://www.pcgamer.com/movies-tv/god-of-war-laufey-star-deborah-ann-woll-will-reprise-the-role-in-amazons-god-of-war-show/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 17,
-    "title": "This GTA 6 Glitch (Almost) Ruined The Game’s Most Iconic Scene",
-    "source": "GameSpot",
-    "summary": "Note: This story will discuss a pivotal mission in Chapter 2 of Grand Theft Auto 6.\nA powerful sequence in Grand Theft Auto 6 is quickly becoming a favorite among the game's many players, but a technical mishap made my experience of this scene very different--hilariously different.\nChapter 2 of GTA ...",
-    "date": "Mon, 23 Nov 2026 21:23:41 +0000",
-    "link": "https://www.gamespot.com/articles/this-gta-6-glitch-almost-ruined-the-games-most-iconic-scene/",
+    "id": 11,
+    "title": "New Xbox Was Originally Planned to Ditch Paid Multiplayer",
+    "source": "Polygon",
+    "summary": "The new Xbox was reportedly originally planned as a device without subscription fees, but Microsoft is now reconsidering.",
+    "date": "Tue, 24 Nov 2026 16:17:39 GMT",
+    "link": "https://www.polygon.com/xbox-project-helix-ditching-paid-multiplayer/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.26,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Xbox"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "Pokémon’s Hyped Countdown Might Be Leading to a Letdown",
+    "source": "Polygon",
+    "summary": "Pokémon's social media has counting down toward something happening on Nov. 30, and it looks like the announcement will just be a music video.",
+    "date": "Tue, 24 Nov 2026 16:02:36 GMT",
+    "link": "https://www.polygon.com/pokemon-november-countdown-music-video/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.06,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "GTA 6 is great because of all its murderous NPCs, not in spite of them",
+    "source": "PC Gamer",
+    "summary": "Nobody wants to work for their crimes anymore, smh.",
+    "date": "Tue, 24 Nov 2026 16:40:04 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-great-because-of-all-its-murderous-npcs-not-in-spite-of-them/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "All GTA 6 Kitty Litter lab locations",
+    "source": "PC Gamer",
+    "summary": "Take Out Kitty Litter for Tyrone across the Vice City.",
+    "date": "Tue, 24 Nov 2026 16:29:48 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kitty-litter-lab-locations/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "GTA 6 might play best when it hits PC, but it'll be best played with a controller",
+    "source": "PC Gamer",
+    "summary": "I cannot get over all the ways Rockstar has turned a controller into an immersion tool.",
+    "date": "Tue, 24 Nov 2026 15:52:10 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-might-play-best-when-it-hits-pc-but-itll-be-best-played-with-a-controller/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 1.0,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "US and EU players will be able to play together in Final Fantasy 14 soon, with Square Enix considering 'the possibility of permanently enabling travel' in the future",
+    "source": "PC Gamer",
+    "summary": "It's a temporary congestion measure, but it might be around to stay.",
+    "date": "Tue, 24 Nov 2026 15:18:57 +0000",
+    "link": "https://www.pcgamer.com/games/mmo/na-and-eu-players-will-be-able-to-play-together-in-final-fantasy-14-soon-with-square-enix-considering-the-possibility-of-permanently-enabling-travel-in-the-future/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 17,
+    "title": "Thursday Night Football Had Lowest Viewership All Season On GTA 6 Launch Day",
+    "source": "GameSpot",
+    "summary": "The Thursday Night Football matchup on November 19, the day that GTA 6 came out, had the lowest viewership of the entire season so far for a TNF game, but the low ratings might not be due entirely to competition with GTA 6.\nThe data shows that 12.23 million people, on average, watched the November 1...",
+    "date": "Tue, 24 Nov 2026 15:46:40 +0000",
+    "link": "https://www.gamespot.com/articles/thursday-night-football-had-lowest-viewership-all-season-on-gta-6-launch-day/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 18,
-    "title": "GTA 6 Online Could Be Bigger Than Fortnite, Bank Of America Stock Analyst Says",
+    "title": "GTA 6 Has A Secret Mission That Feels Like Hard Target Meets Saw",
     "source": "GameSpot",
-    "summary": "Rockstar Games and parent company Take-Two are riding high currently from the success of Grand Theft Auto 6 with a reported 45 million copies sold and $4 billion in revenue already, but this could just the beginning of how much money GTA 6 could bring in. According to Bank of America stock analyst O...",
-    "date": "Mon, 23 Nov 2026 20:28:38 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6-online-could-be-bigger-than-fortnite-bank-of-america-stock-analyst-says/",
+    "summary": "In the mood for a little bloodsport? In GTA 6, you can teach one loud-mouthed hunter that Lucia (or Jason) is the deadliest game, as this secret mission will require cunning and sharp shooting to survive. It's Hard Target meets SAW, and the victor gets a pretty sizable stack of cash. Here's how you ...",
+    "date": "Tue, 24 Nov 2026 15:33:03 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-has-a-secret-mission-that-feels-like-hard-target-meets-saw/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.19,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.21,
+      "badge": "danger"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 19,
-    "title": "GTA 6’s Donnie Actor Underwent Brain Surgery While He Was Awake And Playing Guitar",
+    "title": "GTA 6 Players On PS5 Averaged 17+ Hours During First Weekend",
     "source": "GameSpot",
-    "summary": "Grand Theft Auto 6 features a big cast of characters with fascinating, memorable storylines, and one such character is the drug-smuggler Donnie. He's played by actor Brad Carter, and he has a captivating life story of his own\nSome 13 years ago, Carter underwent brain surgery to address tremors in hi...",
-    "date": "Mon, 23 Nov 2026 19:31:15 +0000",
-    "link": "https://www.gamespot.com/articles/gta-6s-donnie-actor-underwent-brain-surgery-while-he-was-awake-and-playing-guitar/",
+    "summary": "Rockstar's Grand Theft Auto 6 is finally here, and it's breaking records everywhere, including at PlayStation.\nThe gaming giant has announced that GTA 6 is the \"biggest launch in PlayStation history, a record that goes back 30+ years and five console generations. According to the gaming giant, more ...",
+    "date": "Tue, 24 Nov 2026 14:52:26 +0000",
+    "link": "https://www.gamespot.com/articles/gta-6-players-on-ps5-averaged-17-hours-during-first-weekend/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.4,
+      "score": 0.18,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "PlayStation"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "Grand Theft Auto 6’s HDR Is Broken, But These Tweaks Can Fix It",
+    "title": "Lego’s First Marvel Rivals Set Is A 495-Piece Tribute To The Game’s Most Adorable Terror",
     "source": "GameSpot",
-    "summary": "Grand Theft Auto VI is a visual and audial treat, and is easily one of the most technically impressive games on the current generation of consoles. But it isn't without issues, especially if you're trying to experience the sights and sounds of Vice City with all the moody contrast and bright highlig...",
-    "date": "Mon, 23 Nov 2026 18:16:01 +0000",
-    "link": "https://www.gamespot.com/articles/grand-theft-auto-6s-hdr-is-broken-but-these-tweaks-can-fix-it/",
+    "summary": "Next month marks the second anniversary of Marvel Rivals, and to celebrate, a new Lego set is on the way that lets you build the game's unofficial mascot, Jeff the Land Shark. While we regularly see Lego Marvel sets roll out, this is the first-ever Marvel Rivals kit, and it'll go on sale starting Ja...",
+    "date": "Tue, 24 Nov 2026 14:00:00 +0000",
+    "link": "https://www.gamespot.com/articles/lego-first-marvel-rivals-set-is-a-495-piece-tribute-to-the-games-most-adorable-terror/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.32,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
