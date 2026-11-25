@@ -1,320 +1,318 @@
 [
   {
     "id": 1,
-    "title": "Hisense 55-Inch 4K ULED TV Gets a GTA 6-Ready Black Friday Discount at Amazon",
+    "title": "Cassette Beasts 2002 Preview: An Unmistakably British – and Impressive – Creature-Collecting RPG",
     "source": "IGN",
-    "summary": "Amazon has discounted a 55-inch Hisense 4K ULED TV for Black Friday, offering a 165Hz display and anti-glare screen ideal for GTA 6.",
-    "date": "Wed, 25 Nov 2026 00:00:00 +0000",
-    "link": "https://www.ign.com/articles/hisense-55-inch-4k-uled-tv-gets-a-gta-6-ready-black-friday-discount-at-amazon",
+    "summary": "After playing through Cassette Beasts 2002’s opening hours for this preview, I kept playing. While I can’t talk about what I’ve seen since wrapping up the first chunk of my adventure, its opening hours made a strong first impression. I’m charmed by Bytten Studio’s beast design, writing, and distinct...",
+    "date": "Wed, 25 Nov 2026 15:00:00 +0000",
+    "link": "https://www.ign.com/articles/cassette-beasts-2002-preview-an-unmistakably-british-and-impressive-creature-collecting-rpg",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.19,
+      "score": 0.37,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "RPG"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Max Verstappen Spent 40 Hours Playing GTA 6 and Still Won the Las Vegas Grand Prix",
+    "title": "The Witcher 4 and All CD Projekt's Upcoming Games Remain Multiplatform Despite PlayStation Marketing Deal, CD Projekt Boss Reassures",
     "source": "IGN",
-    "summary": "Famous Dutch-Belgian race driver Max Verstappen revealed that he’d spent the weekend of the Las Vegas Grand Prix locked in to GTA 6, saying he played over 40 hours of the game.",
-    "date": "Tue, 24 Nov 2026 23:49:50 +0000",
-    "link": "https://www.ign.com/articles/max-verstappen-spent-40-hours-playing-gta-6-and-still-won-the-las-vegas-grand-prix",
+    "summary": "CD Projekt co-CEO Michał Nowakowski has reassured fans that The Witcher 4 remains a multiplatform game despite its PlayStation marketing deal with Sony.",
+    "date": "Wed, 25 Nov 2026 14:24:02 +0000",
+    "link": "https://www.ign.com/articles/the-witcher-4-and-all-cd-projekts-upcoming-games-remain-multiplatform-despite-playstation-marketing-deal-cd-projekt-boss-reassures",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.4,
+      "badge": "danger"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 3,
+    "title": "Hershey Chocolate Bars Drop Back Down to Their Original Price of 5 Cents for Today Only",
+    "source": "IGN",
+    "summary": "",
+    "date": "Wed, 25 Nov 2026 14:01:00 +0000",
+    "link": "https://www.ign.com/articles/chocolate-bars-are-just-5-cents-for-the-release-of-the-hershey-movie",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 4,
+    "title": "Blade Runner 2099 Ending Explained and Biggest Burning Questions",
+    "source": "IGN",
+    "summary": "Blade Runner 2099 ending explained and burning questions: We break down the details on the latest addition to the future noir sci-fi franchise.",
+    "date": "Wed, 25 Nov 2026 14:00:00 +0000",
+    "link": "https://www.ign.com/articles/blade-runner-2099-ending-explained-biggest-burning-questions",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "Why did Rockstar Games make empathy a key mechanic in GTA 6? \"Because it's fun\" says head of development Rob Nelson",
+    "source": "Eurogamer",
+    "summary": "There's been plenty of chatter about Grand Theft Auto 6's 'honour system', so to speak, implemented here via what the game calls your Criminal Profile. Read more...",
+    "date": "Wed, 25 Nov 2026 16:42:30 +0000",
+    "link": "https://www.eurogamer.net/gta-6-empathy-criminal-profile-why-rockstar-added-it-rob-nelson",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.08,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "World of Warcraft: Forever's best new enchantment has been quietly changed, leaving some casters on the back foot",
+    "source": "Eurogamer",
+    "summary": "As World of Warcraft: Forever players dived into the game, they quickly discovered a specific weapon enchant that took area of effect spells to a whole other level. Sadly, with a sudden hotfix last night, this particular use case for the enchant has been removed. Read more...",
+    "date": "Wed, 25 Nov 2026 16:13:50 +0000",
+    "link": "https://www.eurogamer.net/world-of-warcraft-forever-revelation-enchantment-nerfed",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.09,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 7,
+    "title": "Hollow Knight: Silksong devs announce a livestream for Friday, promise updates on the hotly-anticipated Sea of Sorrow DLC",
+    "source": "Eurogamer",
+    "summary": "Hollow Knight: Silksong developer Team Cherry has announced it will host a 'Cherry Time Special Presentation' on 27th November, bringing more information to light about the game's first big DLC offering, Sea of Sorrows. We know that the free update will be nautically-themed - hence the eponymous 'se...",
+    "date": "Wed, 25 Nov 2026 15:32:40 +0000",
+    "link": "https://www.eurogamer.net/hollow-knight-silksong-dlc-livestream-sea-of-sorrows-update",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.15,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 3,
-    "title": "Black Friday Streaming Deals: Everything You Need to Know Before You Subscribe",
-    "source": "IGN",
-    "summary": "Pretty much every service (other than good ol' Netflix) has announced a Black Friday deal for 2026, offering a rare respite from the onslaught of price hikes.",
-    "date": "Tue, 24 Nov 2026 23:30:00 +0000",
-    "link": "https://www.ign.com/articles/black-friday-streaming-deals-explained-2026",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Some GTA 6 Fans Love Chapter 1 for Its Slower Pace and Are Spending Dozens of Hours Roleplaying in It",
-    "source": "IGN",
-    "summary": "GTA 6's first chapter has been somewhat divisive due to its slower pace, but it's also a part of the game that some fans have spent dozens of hours playing due to it highly immersive slice-of-life elements.",
-    "date": "Tue, 24 Nov 2026 22:50:25 +0000",
-    "link": "https://www.ign.com/articles/some-gta-6-fans-love-chapter-1-for-its-slower-pace-and-are-spending-dozens-of-hours-roleplaying-in-it",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.02,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "Lords of the Fallen 2 delayed to April 2027, exact release date coming next month",
-    "source": "Eurogamer",
-    "summary": "Lords of the Fallen 2 will now launch in April 2027, and we'll find out exactly when next month. Read more...",
-    "date": "Tue, 24 Nov 2026 20:30:00 +0000",
-    "link": "https://www.eurogamer.net/lords-of-the-fallen-2-delayed-april-2027",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.2,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "The Steam Awards turn 10 with throwback categories and a Game of the Year Hall of Fame",
-    "source": "Eurogamer",
-    "summary": "Nominations for the 2026 Steam Awards are now open, and to mark the event's 10th anniversary, Valve has brought back some categories from years past and added a Hall of Fame. Read more...",
-    "date": "Tue, 24 Nov 2026 18:38:30 +0000",
-    "link": "https://www.eurogamer.net/steam-awards-2026-nominations-open-hall-of-fame",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.03,
-      "badge": "info"
-    },
-    "tags": [
-      "Steam"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "You can expect a similar leap between The Witcher 3 and The Witcher 4 as there is between GTA 5 and GTA 6, CD Projekt Red says",
-    "source": "Eurogamer",
-    "summary": "CD Projekt Red has said people can expect a similar qualitative and technological leap from The Witcher 3 to The Witcher 4 as has been witnessed between Grand Theft Auto 5 and Grand Theft Auto 6. Read more...",
-    "date": "Tue, 24 Nov 2026 18:13:30 +0000",
-    "link": "https://www.eurogamer.net/cd-projekt-red-cdpr-witcher-3-4-gta-5-6",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.21,
-      "badge": "success"
-    },
-    "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 8,
-    "title": "GTA 6 launch knocked Call of Duty's daily players down 42 percent, Alinea estimates",
+    "title": "GTA 6 recompilers and vibe-coders implore AI chatbots to 'work faster' and 'make no mistakes' as they race to get the game running on PC",
     "source": "Eurogamer",
-    "summary": "Grand Theft Auto 6's launch took a big bite out of Call of Duty’s player base, according to new estimates from Alinea Analytics, and four days on, it still hasn't recovered. Read more...",
-    "date": "Tue, 24 Nov 2026 17:59:50 +0000",
-    "link": "https://www.eurogamer.net/gta-6-call-of-duty-fortnite-fc-27-daily-players-alinea",
+    "summary": "Things continue to get messy in the community of players working on getting Grand Theft Auto 6 working on PC. The previous frontrunner, Project Leonida, got their Discord server and GitHub repository taken down by Rockstar, but others have seemingly stepped in to finish the job. Read more...",
+    "date": "Wed, 25 Nov 2026 15:19:10 +0000",
+    "link": "https://www.eurogamer.net/grand-theft-auto-6-gen-ai-chatbots-work-faster-prompts",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.03,
+      "score": 0.01,
       "badge": "info"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "GTA 6's Most Heartbreaking Scene Is Exactly Why You Had To Do All Those Chores",
+    "title": "Mario Kart World Officially Adds New Courses, Fan Requested Features",
     "source": "Polygon",
-    "summary": "Grand Theft Auto 6 features an exhilarating and heartbreaking sequence to end its first chapter as Lucia and Jason start a life on the run.",
-    "date": "Wed, 25 Nov 2026 00:00:17 GMT",
-    "link": "https://www.polygon.com/gta-6-chapter-1-tragic-ending-home-sweet-home/",
+    "summary": "Mario Kart World just got a free update with new courses and more.",
+    "date": "Wed, 25 Nov 2026 16:33:26 GMT",
+    "link": "https://www.polygon.com/mario-kart-world-1-9-0-update-new-courses-new-features/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.44,
+      "score": 0.29,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "How to flip your car in GTA 6",
+    "title": "3 Reasons Why Console Prices Aren’t Going Down Anytime Soon",
     "source": "Polygon",
-    "summary": "Flipping your car in GTA 6 works differently from previous games. Here's how to flip your car so you don't have to pay Scooter Bros for delivery",
-    "date": "Tue, 24 Nov 2026 22:27:23 GMT",
-    "link": "https://www.polygon.com/gta-6-flip-car-how-to/",
+    "summary": "According to analysts, game console prices will remain high until at least 2028.",
+    "date": "Wed, 25 Nov 2026 15:47:12 GMT",
+    "link": "https://www.polygon.com/ps5-xbox-switch-prices-game-consoles-trump-tariffs/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.08,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.17,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "Vice City portal Easter egg location in GTA 6",
+    "title": "Game Awards 2026: All Game of the Year Nominees and Predictions",
     "source": "Polygon",
-    "summary": "Here's how to start and complete the Vice City portal easter egg in GTA 6 and the rewards you receive from it.",
-    "date": "Tue, 24 Nov 2026 22:11:43 GMT",
-    "link": "https://www.polygon.com/gta-6-vice-city-portal-easter-egg-location-walkthrough-how-to-open/",
+    "summary": "We rank the contenders for GOTY 2026 at TGAs, including GTA 6 and Zelda: Ocarina of Time",
+    "date": "Wed, 25 Nov 2026 15:43:27 GMT",
+    "link": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.53,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "How to get your car out of the impound in GTA 6",
+    "title": "Save $600 On The XGIMI HORIZON 30 Pro This Black Friday So You Can Play GTA 6 In Style",
     "source": "Polygon",
-    "summary": "In this guide, you learn how to get your car out of the police impound in GTA 6",
-    "date": "Tue, 24 Nov 2026 22:00:58 GMT",
-    "link": "https://www.polygon.com/gta-6-impound-car-how-to-get-back/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "The difference between The Witcher 3 and Witcher 4 will be 'comparable' to that of GTA 5 and GTA 6, CD Projekt boss says: 'I mean, it's been 11 years'",
-    "source": "PC Gamer",
-    "summary": "CD Projekt Red reported its Q3 earnings today, but all anyone wanted to talk about was GTA 6.",
-    "date": "Tue, 24 Nov 2026 23:03:45 +0000",
-    "link": "https://www.pcgamer.com/games/the-witcher/the-difference-between-the-witcher-3-and-witcher-4-will-be-comparable-to-that-of-gta-5-and-gta-6-cd-projekt-boss-says-i-mean-its-been-11-years/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.16,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "Nvidia patch finally eradicates the SSD-hammering bug its last hotfix didn't actually fix",
-    "source": "PC Gamer",
-    "summary": "\"The evil is defeated.\"",
-    "date": "Tue, 24 Nov 2026 22:04:28 +0000",
-    "link": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-patch-finally-eradicates-the-ssd-hammering-bug-its-last-hotfix-didnt-actually-fix/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.25,
-      "badge": "danger"
-    },
-    "tags": [
-      "Patch",
-      "Nvidia"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "The race to port GTA 6 to PC, explained",
-    "source": "PC Gamer",
-    "summary": "GTA 6 could be a PC game (illegally) in a matter of days.",
-    "date": "Tue, 24 Nov 2026 21:47:58 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.45,
-      "badge": "danger"
-    },
-    "tags": [
-      "Gaming",
-      "News"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "Fan-favorite Diablo 2 anniversary bosses and items won't disappear when Diablo 4's next season starts",
-    "source": "PC Gamer",
-    "summary": "Most of the secrets from the current season aren't going anywhere.",
-    "date": "Tue, 24 Nov 2026 21:39:22 +0000",
-    "link": "https://www.pcgamer.com/games/rpg/fan-favorite-diablo-2-anniversary-bosses-and-items-wont-disappear-when-diablo-4s-next-season-starts/",
+    "summary": "One of the best ways to play GTA 6 is on a massive XGIMI HORIZON 30 Pro 4K projector, and it just got a $600 discount for Black Friday.",
+    "date": "Wed, 25 Nov 2026 15:32:47 GMT",
+    "link": "https://www.polygon.com/black-friday-save-600-xgimi-horizon-30-pro-sale-discount/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.17,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "Someone counted all 5,588 buildings in GTA 6, and it turns out you can go inside 28% of them",
+    "source": "PC Gamer",
+    "summary": "Maybe even more will open up for Online, too.",
+    "date": "Wed, 25 Nov 2026 16:24:15 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/someone-counted-all-5-588-buildings-in-gta-6-and-it-turns-out-you-can-go-inside-28-percent-of-them/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.25,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "How to steal the Pegassi Infernus in GTA 6",
+    "source": "PC Gamer",
+    "summary": "Pilfer the '96 Infernus from the police lockup for Randy.",
+    "date": "Wed, 25 Nov 2026 16:10:20 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pegassi-infernus-location/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "How to steal an ATM and get a winched vehicle in GTA 6",
+    "source": "PC Gamer",
+    "summary": "Yank out ATMs and grab the cash with Yasmani's tips.",
+    "date": "Wed, 25 Nov 2026 14:27:50 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-atm-winched-vehicle/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "Even Max Verstappen has succumbed to GTA 6 fever, squeezing in 40 hours around his Las Vegas Grand Prix win",
+    "source": "PC Gamer",
+    "summary": "What's your excuse?",
+    "date": "Wed, 25 Nov 2026 14:15:51 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/even-max-verstappen-has-succumbed-to-gta-6-fever-squeezing-in-40-hours-around-his-las-vegas-grand-prix-win/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.42,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
-    "title": "Call Of Duty’s 19-Year Sales Streak Continues",
+    "title": "Lords Of The Fallen 2 Delayed Yet Again",
     "source": "GameSpot",
-    "summary": "Circana has released its latest monthly sales report for the US video game industry, and in terms of game sales, Call of Duty: Modern Warfare 4 led the way. \nIt was the No. 1 best-selling game of October 2026, and that's notable because it marked the 19th consecutive year that a new Call of Duty gam...",
-    "date": "Tue, 24 Nov 2026 20:49:53 +0000",
-    "link": "https://www.gamespot.com/articles/call-of-dutys-19-year-sales-streak-continues/",
+    "summary": "CI Games has announced that Lords of the Fallen II is coming in April 2027, meaning it's been delayed again. An exact release date will be announced in December, the company said, and people are theorizing that could mean the date will be announced at The Game Awards on December 10.\nLords of the Fal...",
+    "date": "Wed, 25 Nov 2026 16:38:22 +0000",
+    "link": "https://www.gamespot.com/articles/lords-of-the-fallen-2-delayed-yet-again/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.03,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.15,
+      "badge": "danger"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 18,
-    "title": "Just Like GTA 6, The Witcher 4 Has A PlayStation Deal",
+    "title": "PlayStation Plus Free Games For December 2026 Revealed",
     "source": "GameSpot",
-    "summary": "CD Projekt Red has announced that just today, November 24, the Polish studio signed new deals with Sony Interactive Entertainment for The Witcher 4's upcoming marketing campaign, among other efforts. \nCFO Piotr Nielubowicz told investors that the deals cover CD Projekt Red's games on PlayStation and...",
-    "date": "Tue, 24 Nov 2026 20:11:48 +0000",
-    "link": "https://www.gamespot.com/articles/just-like-gta-6-the-witcher-4-has-a-playstation-deal/",
+    "summary": "PlayStation has revealed this month's batch of free games for PlayStation Plus subscribers. All PS Plus members will be able to claim a trio of freebies starting December 1--Tony Hawk's Pro Skater 3+4, Dragon Ball Xenoverse 2, and Amnesia: The Bunker. If you haven't claimed November's PlayStation Pl...",
+    "date": "Wed, 25 Nov 2026 16:32:11 +0000",
+    "link": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-december-2026/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.33,
+      "badge": "success"
     },
     "tags": [
       "PlayStation"
@@ -323,36 +321,37 @@
   },
   {
     "id": 19,
-    "title": "Switch 2’s Black Friday Bundle With Mario Kart World Is Available Now For $500",
+    "title": "PS5 And Xbox Series X|S Console Sales Surged Just Before GTA 6 Came Out",
     "source": "GameSpot",
-    "summary": "It's Black Friday week, and one of the best gaming deals is a Switch 2 bundle featuring Mario Kart World and other extras for $50 off the normal price.\nAs announced previously, the $500 bundle comes with a Switch 2 and a digital copy of Mario Kart World, as well as a three-month Nintendo Switch Onli...",
-    "date": "Tue, 24 Nov 2026 19:38:33 +0000",
-    "link": "https://www.gamespot.com/articles/switch-2s-black-friday-bundle-with-mario-kart-world-is-available-now-for-500/",
+    "summary": "Rockstar's Grand Theft Auto 6 is finally here, and to play the game natively, you need a PlayStation 5 or Xbox Series X|S. Unsurprisingly, new data shows that PlayStation and Xbox console sales surged in the week before release.\nAccording to Circana's Mat Piscatella, there was a \"significant surge\" ...",
+    "date": "Wed, 25 Nov 2026 16:05:50 +0000",
+    "link": "https://www.gamespot.com/articles/ps5-and-xbox-series-xs-console-sales-surged-just-before-gta-6-came-out/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.12,
       "badge": "success"
     },
     "tags": [
-      "Nintendo"
+      "PlayStation",
+      "Xbox"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "WoW: Forever’s Best Buffs Now Work As Intended",
+    "title": "Is GTA 6 Too Easy? Rockstar Weighs In",
     "source": "GameSpot",
-    "summary": "World of Warcraft: Forever players will now be able to get even more benefit from the game's strongest buffs, as developer Blizzard's latest hotfix has made World Buffs persist across loading screens as intended.\nWorld Buffs are powerful stat-boosting effects granted to players in a particular area ...",
-    "date": "Tue, 24 Nov 2026 18:32:49 +0000",
-    "link": "https://www.gamespot.com/articles/wow-forevers-best-buffs-now-work-as-intended/",
+    "summary": "Grand Theft Auto 6 is finally here, and one of the things people are talking about is the game's difficulty level. Some are saying it's too easy. Rockstar boss Rob Nelson has now entered the conversation, telling Destructoid that Rockstar's data showed that GTA 4 was \"a little too punishing in place...",
+    "date": "Wed, 25 Nov 2026 15:36:59 +0000",
+    "link": "https://www.gamespot.com/articles/is-gta-6-too-easy-rockstar-weighs-in/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.33,
+      "score": 0.13,
       "badge": "success"
     },
     "tags": [
-      "Gaming",
-      "News"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   }
