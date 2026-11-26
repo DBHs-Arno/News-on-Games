@@ -1,170 +1,47 @@
 [
   {
     "id": 1,
-    "title": "Cassette Beasts 2002 Preview: An Unmistakably British – and Impressive – Creature-Collecting RPG",
+    "title": "Proton’s Black Friday Deal Brings Our Favorite VPN Down to Its Lowest Price Yet",
     "source": "IGN",
-    "summary": "After playing through Cassette Beasts 2002’s opening hours for this preview, I kept playing. While I can’t talk about what I’ve seen since wrapping up the first chunk of my adventure, its opening hours made a strong first impression. I’m charmed by Bytten Studio’s beast design, writing, and distinct...",
-    "date": "Wed, 25 Nov 2026 15:00:00 +0000",
-    "link": "https://www.ign.com/articles/cassette-beasts-2002-preview-an-unmistakably-british-and-impressive-creature-collecting-rpg",
+    "summary": "Get two years for 75% off.",
+    "date": "Wed, 25 Nov 2026 23:45:00 +0000",
+    "link": "https://www.ign.com/articles/proton-black-friday-deal-brings-our-favorite-vpn-down-to-its-lowest-price-yet",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.37,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.06,
+      "badge": "info"
     },
     "tags": [
-      "RPG"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "The Witcher 4 and All CD Projekt's Upcoming Games Remain Multiplatform Despite PlayStation Marketing Deal, CD Projekt Boss Reassures",
+    "title": "Spotify Reveals Massive Spike in Streams for Music Featured in GTA 6",
     "source": "IGN",
-    "summary": "CD Projekt co-CEO Michał Nowakowski has reassured fans that The Witcher 4 remains a multiplatform game despite its PlayStation marketing deal with Sony.",
-    "date": "Wed, 25 Nov 2026 14:24:02 +0000",
-    "link": "https://www.ign.com/articles/the-witcher-4-and-all-cd-projekts-upcoming-games-remain-multiplatform-despite-playstation-marketing-deal-cd-projekt-boss-reassures",
+    "summary": "Spotify has released new data that shows huge spikes in streams for music featured in GTA 6, including a Carly Rae Jepsen song from over a decade ago.",
+    "date": "Wed, 25 Nov 2026 23:19:11 +0000",
+    "link": "https://www.ign.com/articles/spotify-reveals-massive-spike-in-streams-for-music-featured-in-gta-6",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.18,
+      "badge": "success"
     },
     "tags": [
-      "PlayStation"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "Hershey Chocolate Bars Drop Back Down to Their Original Price of 5 Cents for Today Only",
+    "title": "The Lord of the Rings Illustrated Editions Are on Sale for Black Friday",
     "source": "IGN",
     "summary": "",
-    "date": "Wed, 25 Nov 2026 14:01:00 +0000",
-    "link": "https://www.ign.com/articles/chocolate-bars-are-just-5-cents-for-the-release-of-the-hershey-movie",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 4,
-    "title": "Blade Runner 2099 Ending Explained and Biggest Burning Questions",
-    "source": "IGN",
-    "summary": "Blade Runner 2099 ending explained and burning questions: We break down the details on the latest addition to the future noir sci-fi franchise.",
-    "date": "Wed, 25 Nov 2026 14:00:00 +0000",
-    "link": "https://www.ign.com/articles/blade-runner-2099-ending-explained-biggest-burning-questions",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.11,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 5,
-    "title": "Why did Rockstar Games make empathy a key mechanic in GTA 6? \"Because it's fun\" says head of development Rob Nelson",
-    "source": "Eurogamer",
-    "summary": "There's been plenty of chatter about Grand Theft Auto 6's 'honour system', so to speak, implemented here via what the game calls your Criminal Profile. Read more...",
-    "date": "Wed, 25 Nov 2026 16:42:30 +0000",
-    "link": "https://www.eurogamer.net/gta-6-empathy-criminal-profile-why-rockstar-added-it-rob-nelson",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.08,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 6,
-    "title": "World of Warcraft: Forever's best new enchantment has been quietly changed, leaving some casters on the back foot",
-    "source": "Eurogamer",
-    "summary": "As World of Warcraft: Forever players dived into the game, they quickly discovered a specific weapon enchant that took area of effect spells to a whole other level. Sadly, with a sudden hotfix last night, this particular use case for the enchant has been removed. Read more...",
-    "date": "Wed, 25 Nov 2026 16:13:50 +0000",
-    "link": "https://www.eurogamer.net/world-of-warcraft-forever-revelation-enchantment-nerfed",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.09,
-      "badge": "info"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 7,
-    "title": "Hollow Knight: Silksong devs announce a livestream for Friday, promise updates on the hotly-anticipated Sea of Sorrow DLC",
-    "source": "Eurogamer",
-    "summary": "Hollow Knight: Silksong developer Team Cherry has announced it will host a 'Cherry Time Special Presentation' on 27th November, bringing more information to light about the game's first big DLC offering, Sea of Sorrows. We know that the free update will be nautically-themed - hence the eponymous 'se...",
-    "date": "Wed, 25 Nov 2026 15:32:40 +0000",
-    "link": "https://www.eurogamer.net/hollow-knight-silksong-dlc-livestream-sea-of-sorrows-update",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 8,
-    "title": "GTA 6 recompilers and vibe-coders implore AI chatbots to 'work faster' and 'make no mistakes' as they race to get the game running on PC",
-    "source": "Eurogamer",
-    "summary": "Things continue to get messy in the community of players working on getting Grand Theft Auto 6 working on PC. The previous frontrunner, Project Leonida, got their Discord server and GitHub repository taken down by Rockstar, but others have seemingly stepped in to finish the job. Read more...",
-    "date": "Wed, 25 Nov 2026 15:19:10 +0000",
-    "link": "https://www.eurogamer.net/grand-theft-auto-6-gen-ai-chatbots-work-faster-prompts",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.01,
-      "badge": "info"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 9,
-    "title": "Mario Kart World Officially Adds New Courses, Fan Requested Features",
-    "source": "Polygon",
-    "summary": "Mario Kart World just got a free update with new courses and more.",
-    "date": "Wed, 25 Nov 2026 16:33:26 GMT",
-    "link": "https://www.polygon.com/mario-kart-world-1-9-0-update-new-courses-new-features/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.29,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 10,
-    "title": "3 Reasons Why Console Prices Aren’t Going Down Anytime Soon",
-    "source": "Polygon",
-    "summary": "According to analysts, game console prices will remain high until at least 2028.",
-    "date": "Wed, 25 Nov 2026 15:47:12 GMT",
-    "link": "https://www.polygon.com/ps5-xbox-switch-prices-game-consoles-trump-tariffs/",
+    "date": "Wed, 25 Nov 2026 22:38:53 +0000",
+    "link": "https://www.ign.com/articles/lord-of-the-rings-illustrated-books-deal-black-friday-2026",
     "sentiment": {
       "label": "Critical / Mixed",
       "score": -0.17,
@@ -177,16 +54,50 @@
     "read_time": "1 min read"
   },
   {
-    "id": 11,
-    "title": "Game Awards 2026: All Game of the Year Nominees and Predictions",
-    "source": "Polygon",
-    "summary": "We rank the contenders for GOTY 2026 at TGAs, including GTA 6 and Zelda: Ocarina of Time",
-    "date": "Wed, 25 Nov 2026 15:43:27 GMT",
-    "link": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
+    "id": 4,
+    "title": "The Lenovo Legion Go S Z1 Extreme SteamOS Handheld Gaming PC Is on Sale for Black Friday",
+    "source": "IGN",
+    "summary": "Take your entire Steam library with you wherever you go.",
+    "date": "Wed, 25 Nov 2026 22:15:00 +0000",
+    "link": "https://www.ign.com/articles/lenovo-legion-go-s-z1-extreme-steamos-handheld-gaming-pc-deal-black-friday-2026",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.53,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.1,
+      "badge": "info"
+    },
+    "tags": [
+      "Steam"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 5,
+    "title": "The Fable reboot had to look beyond Lionhead's RPG trilogy because games like The Witcher 3 \"became the gold standard\"",
+    "source": "Eurogamer",
+    "summary": "Developer Playground Games had to look beyond Lionhead's original run of Fable games when rebooting the classic fantasy series, and it's all thanks to games like The Witcher 3, which changed what many players expect from their big RPGs and set a new \"gold standard.\" Read more...",
+    "date": "Wed, 25 Nov 2026 19:57:10 +0000",
+    "link": "https://www.eurogamer.net/fable-the-witcher-3-gold-standard",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.21,
+      "badge": "success"
+    },
+    "tags": [
+      "RPG"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 6,
+    "title": "Original Devil May Cry and Bayonetta director Hideki Kamiya really wants Konami to let him make a \"truly insane\" Castlevania game",
+    "source": "Eurogamer",
+    "summary": "Action game maestro Hideki Kamiya really wants to make a new Castlevania game with publisher Konami. Read more...",
+    "date": "Wed, 25 Nov 2026 18:55:20 +0000",
+    "link": "https://www.eurogamer.net/hideki-kamiya-konami-truly-insane-castlevania",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.07,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -195,15 +106,49 @@
     "read_time": "1 min read"
   },
   {
-    "id": 12,
-    "title": "Save $600 On The XGIMI HORIZON 30 Pro This Black Friday So You Can Play GTA 6 In Style",
+    "id": 7,
+    "title": "EA is resurrecting a dead commentator with AI for EA Sports FC 27, years after his last appearance in a FIFA game",
+    "source": "Eurogamer",
+    "summary": "EA Sports FC 27 is using gen-AI to digitally recreate the voice of veteran football commentator John Motson - the FIFA video game series' first ever real-world announcer who died in 2023. Read more...",
+    "date": "Wed, 25 Nov 2026 17:59:00 +0000",
+    "link": "https://www.eurogamer.net/ea-sports-fc27-dead-commentator-ai",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "AI"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 8,
+    "title": "Here are our PS Plus monthly games for December 2026",
+    "source": "Eurogamer",
+    "summary": "There's a chill in the air and a snowman (plastic) at the end of the street, meaning winter is firmly upon us. So what better way to make it way through the long dark nights than a spot of festmas gaming. And hark, just in the nick of time, PlayStation Plus' monthly games for December have been reve...",
+    "date": "Wed, 25 Nov 2026 17:14:40 +0000",
+    "link": "https://www.eurogamer.net/playstation-plus-monthly-games-december-2026",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 9,
+    "title": "Ridley Scott’s Sci-Fi Thriller Masterpiece Is Officially Being Removed From Netflix",
     "source": "Polygon",
-    "summary": "One of the best ways to play GTA 6 is on a massive XGIMI HORIZON 30 Pro 4K projector, and it just got a $600 discount for Black Friday.",
-    "date": "Wed, 25 Nov 2026 15:32:47 GMT",
-    "link": "https://www.polygon.com/black-friday-save-600-xgimi-horizon-30-pro-sale-discount/",
+    "summary": "Ridley Scott's Alien leaves Netflix on Dec. 1. Here's why the 1979 sci-fi horror classic's restraint still makes it the best movie in the franchise.",
+    "date": "Thu, 26 Nov 2026 00:01:17 GMT",
+    "link": "https://www.polygon.com/ridley-scott-alien-leaving-netflix/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.17,
+      "score": 0.31,
       "badge": "success"
     },
     "tags": [
@@ -213,12 +158,12 @@
     "read_time": "1 min read"
   },
   {
-    "id": 13,
-    "title": "Someone counted all 5,588 buildings in GTA 6, and it turns out you can go inside 28% of them",
-    "source": "PC Gamer",
-    "summary": "Maybe even more will open up for Online, too.",
-    "date": "Wed, 25 Nov 2026 16:24:15 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/someone-counted-all-5-588-buildings-in-gta-6-and-it-turns-out-you-can-go-inside-28-percent-of-them/",
+    "id": 10,
+    "title": "How to get adrenaline in GTA 6",
+    "source": "Polygon",
+    "summary": "You can get more adrenaline in GTA 6 by looking in specific places at robbery locations or in ambulances. Here's how to get adrenaline in GTA 6",
+    "date": "Wed, 25 Nov 2026 22:57:40 GMT",
+    "link": "https://www.polygon.com/gta-6-adrenaline-how-to-get/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.25,
@@ -231,16 +176,70 @@
     "read_time": "1 min read"
   },
   {
-    "id": 14,
-    "title": "How to steal the Pegassi Infernus in GTA 6",
-    "source": "PC Gamer",
-    "summary": "Pilfer the '96 Infernus from the police lockup for Randy.",
-    "date": "Wed, 25 Nov 2026 16:10:20 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pegassi-infernus-location/",
+    "id": 11,
+    "title": "Capcom Is Officially Killing Its 'Jurassic World Meets Overwatch' Shooter",
+    "source": "Polygon",
+    "summary": "Exoprimal, the not-Dino Crisis multiplayer shooter, is officially shutting down in 2027, four years after is PlayStation, Xbox, and PC launch.",
+    "date": "Wed, 25 Nov 2026 22:23:21 GMT",
+    "link": "https://www.polygon.com/exoprimal-capcom-shutting-down-2027/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Critical / Mixed",
+      "score": -0.16,
+      "badge": "danger"
+    },
+    "tags": [
+      "Xbox",
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 12,
+    "title": "All Peewees Billboard locations in GTA 6",
+    "source": "Polygon",
+    "summary": "Peewees Billboards will lead you to a grand prize in GTA 6. Here's where you can find them all, how to solve the puzzle, and how to claim the reward.",
+    "date": "Wed, 25 Nov 2026 22:18:47 GMT",
+    "link": "https://www.polygon.com/gta-6-peewees-billboard-location-challenge-waink/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.5,
+      "badge": "success"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "GTA 6 has weird purple streetlights because actual Florida screwed up its streetlights",
+    "source": "PC Gamer",
+    "summary": "Rockstar recreated an embarrassing mishap in Florida infrastructure.",
+    "date": "Wed, 25 Nov 2026 22:36:12 +0000",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-weird-purple-streetlights-because-actual-florida-screwed-up-its-streetlights/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.25,
+      "badge": "danger"
+    },
+    "tags": [
+      "News",
+      "Gaming"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Warhammer Survivors update buffs XP and weapons, nerfs those damn Beasts of Nurgle",
+    "source": "PC Gamer",
+    "summary": "I hate those guys.",
+    "date": "Wed, 25 Nov 2026 22:32:23 +0000",
+    "link": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-update-buffs-xp-and-weapons-nerfs-those-damn-beasts-of-nurgle/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.8,
+      "badge": "danger"
     },
     "tags": [
       "News",
@@ -250,14 +249,14 @@
   },
   {
     "id": 15,
-    "title": "How to steal an ATM and get a winched vehicle in GTA 6",
+    "title": "Capcom's quirky dinosaur-fighting hero shooter is shutting down in 2027",
     "source": "PC Gamer",
-    "summary": "Yank out ATMs and grab the cash with Yasmani's tips.",
-    "date": "Wed, 25 Nov 2026 14:27:50 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-atm-winched-vehicle/",
+    "summary": "Exoprimal was intriguing, but it never caught fire with players.",
+    "date": "Wed, 25 Nov 2026 21:37:51 +0000",
+    "link": "https://www.pcgamer.com/games/third-person-shooter/capcoms-quirky-dinosaur-fighting-hero-shooter-is-shutting-down-in-2027/",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.0,
+      "score": 0.05,
       "badge": "info"
     },
     "tags": [
@@ -268,33 +267,32 @@
   },
   {
     "id": 16,
-    "title": "Even Max Verstappen has succumbed to GTA 6 fever, squeezing in 40 hours around his Las Vegas Grand Prix win",
+    "title": "Trump admin didn't investigate Jensen Huang before pushing Nvidia to bring him back: 'What does that mean, had Huang been investigated? For what?'",
     "source": "PC Gamer",
-    "summary": "What's your excuse?",
-    "date": "Wed, 25 Nov 2026 14:15:51 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/even-max-verstappen-has-succumbed-to-gta-6-fever-squeezing-in-40-hours-around-his-las-vegas-grand-prix-win/",
+    "summary": "Nvidia is also not under investigation, according to US Attorney General Todd Blanche.",
+    "date": "Wed, 25 Nov 2026 21:31:41 +0000",
+    "link": "https://www.pcgamer.com/software/ai/trump-admin-didnt-investigate-jensen-huang-before-pushing-nvidia-to-bring-him-back-what-does-that-mean-had-huang-been-investigated-for-what/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.42,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.09,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Nvidia"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
-    "title": "Lords Of The Fallen 2 Delayed Yet Again",
+    "title": "Mario, Pikachu, And Other Gaming Icon Balloons Won’t Be Flying This Thanksgiving",
     "source": "GameSpot",
-    "summary": "CI Games has announced that Lords of the Fallen II is coming in April 2027, meaning it's been delayed again. An exact release date will be announced in December, the company said, and people are theorizing that could mean the date will be announced at The Game Awards on December 10.\nLords of the Fal...",
-    "date": "Wed, 25 Nov 2026 16:38:22 +0000",
-    "link": "https://www.gamespot.com/articles/lords-of-the-fallen-2-delayed-yet-again/",
+    "summary": "New York City is no stranger to bad weather, be it blazing-hot summers, snow-packed winters, or fierce windstorms. Unfortunately for countless families who have made it a holiday tradition to turn on the TV and watch giant totems of pop culture sail in the streets of the great city, the Macy's Thank...",
+    "date": "Thu, 26 Nov 2026 01:05:39 +0000",
+    "link": "https://www.gamespot.com/articles/mario-pikachu-and-other-gaming-icon-balloons-wont-be-flying-this-thanksgiving/",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.15,
-      "badge": "danger"
+      "label": "Neutral / Informative",
+      "score": -0.06,
+      "badge": "info"
     },
     "tags": [
       "News",
@@ -304,50 +302,50 @@
   },
   {
     "id": 18,
-    "title": "PlayStation Plus Free Games For December 2026 Revealed",
+    "title": "Three Years After His Death, EA Is Using AI To Bring Back A Famed Commentator In FC 27",
     "source": "GameSpot",
-    "summary": "PlayStation has revealed this month's batch of free games for PlayStation Plus subscribers. All PS Plus members will be able to claim a trio of freebies starting December 1--Tony Hawk's Pro Skater 3+4, Dragon Ball Xenoverse 2, and Amnesia: The Bunker. If you haven't claimed November's PlayStation Pl...",
-    "date": "Wed, 25 Nov 2026 16:32:11 +0000",
-    "link": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-december-2026/",
+    "summary": "EA Sports FC 27 is adding an AI-generated commentator for the first time in the series' history, with famed British commentator John Motson having his voice synthesized for the football title.\nMotson, who passed way in 2023, previously provided commentary for EA's FIFA series, appearing in the game'...",
+    "date": "Wed, 25 Nov 2026 18:59:56 +0000",
+    "link": "https://www.gamespot.com/articles/three-years-after-his-death-ea-is-using-ai-to-bring-back-a-famed-commentator-in-fc-27/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.33,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": -0.06,
+      "badge": "info"
     },
     "tags": [
-      "PlayStation"
+      "AI"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 19,
-    "title": "PS5 And Xbox Series X|S Console Sales Surged Just Before GTA 6 Came Out",
+    "title": "Diablo 4’s Most Nostalgic Season Is Becoming (Mostly) Permanent",
     "source": "GameSpot",
-    "summary": "Rockstar's Grand Theft Auto 6 is finally here, and to play the game natively, you need a PlayStation 5 or Xbox Series X|S. Unsurprisingly, new data shows that PlayStation and Xbox console sales surged in the week before release.\nAccording to Circana's Mat Piscatella, there was a \"significant surge\" ...",
-    "date": "Wed, 25 Nov 2026 16:05:50 +0000",
-    "link": "https://www.gamespot.com/articles/ps5-and-xbox-series-xs-console-sales-surged-just-before-gta-6-came-out/",
+    "summary": "Diablo 4 is gearing up for the arrival of Season 16, but it won't be leaving its popular previous season behind entirely.\nAs detailed by Blizzard in a breakdown of the upcoming Season of Tyrael's Gambit, much of the previous season, Hell's Legacy, will become a permanent part of Diablo 4 going forwa...",
+    "date": "Wed, 25 Nov 2026 18:29:11 +0000",
+    "link": "https://www.gamespot.com/articles/diablo-4s-most-nostalgic-season-is-becoming-mostly-permanent/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.12,
+      "score": 0.14,
       "badge": "success"
     },
     "tags": [
-      "PlayStation",
-      "Xbox"
+      "News",
+      "Gaming"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 20,
-    "title": "Is GTA 6 Too Easy? Rockstar Weighs In",
+    "title": "Another Live-Service Game Is Going Extinct, And This One Has Dinosaurs",
     "source": "GameSpot",
-    "summary": "Grand Theft Auto 6 is finally here, and one of the things people are talking about is the game's difficulty level. Some are saying it's too easy. Rockstar boss Rob Nelson has now entered the conversation, telling Destructoid that Rockstar's data showed that GTA 4 was \"a little too punishing in place...",
-    "date": "Wed, 25 Nov 2026 15:36:59 +0000",
-    "link": "https://www.gamespot.com/articles/is-gta-6-too-easy-rockstar-weighs-in/",
+    "summary": "Capcom has had a big year, but amid the hits comes news that its Overwatch-with-dinosaurs game, Exoprimal, will join the live-service graveyard next year. The game's servers will go offline next year, making it unplayable after that.\n\"Thank you so much for your continued use of Exoprimal, a statemen...",
+    "date": "Wed, 25 Nov 2026 17:57:42 +0000",
+    "link": "https://www.gamespot.com/articles/another-live-service-game-is-going-extinct-and-this-one-has-dinosaurs/",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.13,
-      "badge": "success"
+      "label": "Critical / Mixed",
+      "score": -0.2,
+      "badge": "danger"
     },
     "tags": [
       "News",
