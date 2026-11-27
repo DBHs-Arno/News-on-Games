@@ -1,123 +1,122 @@
 [
   {
     "id": 1,
-    "title": "Rockstar Games Issues Statement as Union Vote Fails",
+    "title": "After Playing Infinity Nikki 3.0 for Four Hours, its New Cities and Outfits Are Just Some of the Additions Worth Returning For",
     "source": "IGN",
-    "summary": "The Rockstar Games union vote has failed, with 75% voting against a recognition agreement with the IWGB Game Workers Union.",
-    "date": "Thu, 26 Nov 2026 15:22:12 +0000",
-    "link": "https://www.ign.com/articles/rockstar-games-issues-statement-as-union-vote-fails",
+    "summary": "The new 3.0 update has tons of new stuff to explore including new locations, outfits and gameplay systems, although don't expect any kind of proper challenge.",
+    "date": "Thu, 26 Nov 2026 23:00:00 +0000",
+    "link": "https://www.ign.com/articles/after-playing-infinity-nikki-30-for-four-hours-its-new-cities-and-outfits-are-just-some-of-the-additions-worth-returning-for",
     "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.47,
-      "badge": "danger"
+      "label": "Positive / Hype",
+      "score": 0.21,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 2,
-    "title": "Everything You Need To Know Ahead of The Delta Force Invitationals Grand Final",
+    "title": "Lucia Actress Manni L. Perez Issues First Statement Since GTA 6 Launch",
     "source": "IGN",
-    "summary": "",
-    "date": "Thu, 26 Nov 2026 14:54:03 +0000",
-    "link": "https://www.ign.com/articles/everything-you-need-to-know-ahead-of-the-delta-force-invitationals-grand-final",
+    "summary": "Manni L. Perez, the actress who plays Lucia in GTA 6, has issued her first statement since the game came out.",
+    "date": "Thu, 26 Nov 2026 21:02:21 +0000",
+    "link": "https://www.ign.com/articles/lucia-actress-manni-l-perez-issues-first-statement-since-gta-6-launch",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.03,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 3,
-    "title": "The 1933 King Kong Is Getting a 4K Steelbook and Collector’s Edition, Here’s Where You Can Preorder It",
+    "title": "GTA 6 Fashion in the IGN Community",
     "source": "IGN",
-    "summary": "The original King Kong, from 1933, is officially getting a 4K release as a steelbook and collector's edition. Here's where it's available to preorder right now, and what comes with the collector's edition.",
-    "date": "Thu, 26 Nov 2026 14:50:19 +0000",
-    "link": "https://www.ign.com/articles/king-kong-1933-4k-steelbook-where-to-buy",
+    "summary": "",
+    "date": "Thu, 26 Nov 2026 20:23:37 +0000",
+    "link": "https://www.ign.com/articles/gta-6-fashion-in-the-ign-community",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.35,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.0,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 4,
-    "title": "Rockstar North Chief Was Praying GTA 6's Big Story Reveal Stayed Under Wraps Ahead of Launch",
+    "title": "Eureka Ergonomic Has Black Friday Deals to Give Your Space the Upgrade It Needs",
     "source": "IGN",
-    "summary": "Rockstar North has explained why it was so important that GTA 6's big early story reveal stayed under wraps before the game came out.",
-    "date": "Thu, 26 Nov 2026 14:40:51 +0000",
-    "link": "https://www.ign.com/articles/rockstar-north-chief-was-praying-gta-6s-big-story-reveal-stayed-under-wraps-ahead-of-launch",
+    "summary": "Professional office or gamer vibes? The choice is yours.",
+    "date": "Thu, 26 Nov 2026 19:30:00 +0000",
+    "link": "https://www.ign.com/articles/eureka-ergonomic-has-black-friday-deals-to-give-your-space-the-upgrade-it-needs",
     "sentiment": {
       "label": "Neutral / Informative",
-      "score": 0.02,
+      "score": -0.03,
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 5,
-    "title": "GTA 6 reportedly sets massive livestreaming record, watched more in its first week than Elden Ring, Diablo 4, Valorant, and Lost Ark combined",
+    "title": "EA removes some live service fluff from Skate and ends seasonal structure \"in favour of regular, agile content updates\"",
     "source": "Eurogamer",
-    "summary": "Grand Theft Auto 6 has broken another livestreaming record. After attracting more viewers across livestreaming platforms than any game ever on its launch day, Rockstar's open-world crime sim has reportedly continued to dominate on platforms like Twitch, YouTube, and Kick. Read more...",
-    "date": "Thu, 26 Nov 2026 15:32:20 +0000",
-    "link": "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record",
+    "summary": "EA is ditching seasonal updates and shaving some of the live service fluff off Skate (for some reason stylised as skate.) going forward. Normally, such news would be cause for concern. Here, the publisher assured players the transition will lead to more regular updates since devs can now push out ne...",
+    "date": "Thu, 26 Nov 2026 20:35:20 +0000",
+    "link": "https://www.eurogamer.net/ea-removes-live-service-skate-seasons",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.18,
+      "score": 0.12,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 6,
-    "title": "Rockstar Games employees vote against union recognition",
+    "title": "The Witcher 3's new patch adds 40 cross-platform mods, fixes plenty of game-breaking bugs and \"various lighting issues\"",
     "source": "Eurogamer",
-    "summary": "Rockstar Games employees have voted against official recognition of the Rockstar Game Workers Union, with 93.2 percent of staff participating in the vote. Read more...",
-    "date": "Thu, 26 Nov 2026 15:29:00 +0000",
-    "link": "https://www.eurogamer.net/rockstar-games-employees-vote-against-union-recognition",
+    "summary": "Developer CD Projekt Red has rolled out a new patch for The Witcher 3: Wild Hunt - Remastered on all platforms, which squashes dozens of bugs and adds 40 cross-platform mods with \"more on the way.\" Read more...",
+    "date": "Thu, 26 Nov 2026 19:20:50 +0000",
+    "link": "https://www.eurogamer.net/the-witcher-3-patch-40-mods-bugs",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.05,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.2,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Patch"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 7,
-    "title": "We are already in a world where people think about promoting games as human-made, Citizen Sleeper creator says",
+    "title": "Nioh and Ninja Gaiden studio is using AI for QA, but argues \"that a game becomes fun when crafted by human hands\"",
     "source": "Eurogamer",
-    "summary": "Citizen Sleeper creator Gareth Damian Martin - also known by their studio name Jump Over the Age - believes we're reaching a point of gen-AI saturation whereby game-makers are starting to counter-promote games as being human-made. Read more...",
-    "date": "Thu, 26 Nov 2026 14:18:20 +0000",
-    "link": "https://www.eurogamer.net/citizen-sleeper-creator-gen-ai-human-made-games-signet-city",
+    "summary": "Team Ninja (Nioh, Ninja Gaiden) is the latest game development studio to implement AI into some of its workflow, but producer Kohei Shibata still believes that fun games need to be \"crafted by human hands.\" Read more...",
+    "date": "Thu, 26 Nov 2026 18:14:30 +0000",
+    "link": "https://www.eurogamer.net/nioh-ai-qa-game-human-hands",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.25,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.1,
+      "badge": "info"
     },
     "tags": [
       "AI"
@@ -126,168 +125,202 @@
   },
   {
     "id": 8,
-    "title": "After playing the game, 30% of polled GTA 6 players want to buy flowers for a loved one, 9% accidentally punched cats",
+    "title": "GTA 6 causes surge in UK physical game sales, despite there being no disc in the box",
     "source": "Eurogamer",
-    "summary": "A new survey of Grand Theft Auto 6 players has found some particularly interesting results. 30 percent came away from the game with the desire to buy someone special flowers. Nine percent punched cats. Read more...",
-    "date": "Thu, 26 Nov 2026 14:09:10 +0000",
-    "link": "https://www.eurogamer.net/gta-6-30-percent-buy-flowers-punch-cats",
+    "summary": "Grand Theft Auto 6 has had a huge effect on physical game sales in the UK, despite not actually containing a disc in the box. Read more...",
+    "date": "Thu, 26 Nov 2026 17:30:30 +0000",
+    "link": "https://www.eurogamer.net/gta-6-boxed-physical-sales-uk",
     "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.24,
-      "badge": "success"
+      "label": "Neutral / Informative",
+      "score": 0.07,
+      "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 9,
-    "title": "Prime Video Is Saying Goodbye to Six Decades of James Bond Movies",
+    "title": "Star Trek: Voyager Officially Revisits the Series' Best Two-Parter in a Brand-New Way",
     "source": "Polygon",
-    "summary": "Nearly every James Bond movie is leaving Prime Video on Nov. 30, including Casino Royale, GoldenEye, Skyfall, and No Time to Die.",
-    "date": "Thu, 26 Nov 2026 16:13:26 GMT",
-    "link": "https://www.polygon.com/james-bond-movies-leaving-prime-video-november-2026/",
+    "summary": "Star Trek: Voyager - Across the Unknown strategy game officially reveals Year of Hell DLC",
+    "date": "Thu, 26 Nov 2026 21:50:18 GMT",
+    "link": "https://www.polygon.com/star-trek-voyager-across-the-unknown-year-of-hell-dlc-announced/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.1,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.17,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 10,
-    "title": "Epic Games Store Officially Makes a Top Co-op Game Free for a Limited Time",
+    "title": "GTA: Boston Would Go Wicked Hard, Kid",
     "source": "Polygon",
-    "summary": "The Epic Games Store has a selection of free PC games that changes every week. The latest free offering will be available until Dec. 3.",
-    "date": "Thu, 26 Nov 2026 16:11:23 GMT",
-    "link": "https://www.polygon.com/epic-games-store-free-games-11-26-2026-download/",
+    "summary": "Grand Theft Auto 6 is a perfect Florida satire, and now I'm dying to see Rockstar's take on Massachusetts.",
+    "date": "Thu, 26 Nov 2026 21:00:18 GMT",
+    "link": "https://www.polygon.com/gta-6-boston-massachussetts/",
     "sentiment": {
       "label": "Positive / Hype",
-      "score": 0.23,
+      "score": 0.4,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 11,
-    "title": "JJ Abrams’ Sci-Fi Thriller Found-Footage Masterpiece Is Being Removed From Paramount Plus",
+    "title": "The Sims 4 Officially Makes 13 DLCs Free for a Limited Time",
     "source": "Polygon",
-    "summary": "Matt Reeves’ found footage film Cloverfield is leaving",
-    "date": "Thu, 26 Nov 2026 16:00:18 GMT",
-    "link": "https://www.polygon.com/cloverfield-leaving-paramount-plus/",
+    "summary": "The Sims 4 is hosting a holiday giveaway that allows players to claim up to 13 free Maker Packs throughout the next eight weeks.",
+    "date": "Thu, 26 Nov 2026 20:46:54 GMT",
+    "link": "https://www.polygon.com/the-sims-4-free-maker-pack-holiday-giveaway-2026/",
     "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
+      "label": "Positive / Hype",
+      "score": 0.18,
+      "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 12,
-    "title": "The One Reason Nintendo and Rockstar Can Make Games Like Ocarina of Time and GTA 6",
+    "title": "32 Years Later, Disney's Most Notorious Cash-Grab Sequel Is Better Than You Remember",
     "source": "Polygon",
-    "summary": "GTA 6 and the Zelda: Ocarina of Time remake are proof of the value of retaining talent long-term",
-    "date": "Thu, 26 Nov 2026 15:00:18 GMT",
-    "link": "https://www.polygon.com/gta-6-ocarina-of-time-layoffs/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": 0.0,
-      "badge": "info"
-    },
-    "tags": [
-      "Nintendo",
-      "Remake"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 13,
-    "title": "Rockstar workers vote overwhelmingly against union recognition",
-    "source": "PC Gamer",
-    "summary": "The IWGB says efforts will continue, but with only 25% of Rockstar workers voting in favor, there's a long way to go.",
-    "date": "Thu, 26 Nov 2026 16:13:54 +0000",
-    "link": "https://www.pcgamer.com/gaming-industry/rockstar-workers-vote-overwhelmingly-against-union-recognition/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.15,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 14,
-    "title": "How to steal the Bravado Banshee in GTA 6",
-    "source": "PC Gamer",
-    "summary": "Grab this striped sports car for Randy.",
-    "date": "Thu, 26 Nov 2026 16:02:38 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bravado-banshee-location/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.2,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 15,
-    "title": "GTA 6 Truffade Thrax: How to get Andrew Node's supercharged version",
-    "source": "PC Gamer",
-    "summary": "Scan the No Flusher graffiti to steal the fastest car in the game.",
-    "date": "Thu, 26 Nov 2026 14:37:19 +0000",
-    "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-truffade-thrax-andrew-node-no-flusher/",
-    "sentiment": {
-      "label": "Critical / Mixed",
-      "score": -0.4,
-      "badge": "danger"
-    },
-    "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 16,
-    "title": "These budget-friendly pads are the cheapest, quickest way to instantly upgrade your setup for under $25",
-    "source": "PC Gamer",
-    "summary": "Be a master controller on the cheap.",
-    "date": "Thu, 26 Nov 2026 14:20:36 +0000",
-    "link": "https://www.pcgamer.com/hardware/game-pads/these-budget-friendly-pads-are-the-cheapest-quickest-way-to-instantly-upgrade-your-setup-for-under-usd25/",
+    "summary": "The Aladdin sequel The Return of Jafar is often derided as a bad, cheap sequel which started Disney's direct-to-video sequel trend, but I love it",
+    "date": "Thu, 26 Nov 2026 20:00:17 GMT",
+    "link": "https://www.polygon.com/in-defense-of-the-return-of-jafar/",
     "sentiment": {
       "label": "Positive / Hype",
       "score": 0.2,
       "badge": "success"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 13,
+    "title": "'Blizzard I'm looking at you': Path of Exile 2 boss criticizes 'truly terrible' game announcements that hold the juiciest details until the end",
+    "source": "PC Gamer",
+    "summary": "Grinding Gear Games' Jonathan Rogers urges devs to lead with their best stuff.",
+    "date": "Thu, 26 Nov 2026 23:00:00 +0000",
+    "link": "https://www.pcgamer.com/games/rpg/blizzard-im-looking-at-you-path-of-exile-2-boss-criticizes-truly-terrible-game-announcements-that-hold-the-juiciest-details-until-the-end/",
+    "sentiment": {
+      "label": "Critical / Mixed",
+      "score": -0.13,
+      "badge": "danger"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 14,
+    "title": "Dawn of War 4's campaigns differ based on your choices: 'which character you choose and what decisions you make with them lead down different experiences of an overlapping story'",
+    "source": "PC Gamer",
+    "summary": "Dawn of War 4 writer John French lays out how it works.",
+    "date": "Thu, 26 Nov 2026 22:30:59 +0000",
+    "link": "https://www.pcgamer.com/games/rts/dawn-of-war-4s-campaigns-differ-based-on-your-choices-which-character-you-choose-and-what-decisions-you-make-with-them-lead-down-different-experiences-of-an-overlapping-story/",
+    "sentiment": {
+      "label": "Neutral / Informative",
+      "score": -0.05,
+      "badge": "info"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 15,
+    "title": "Microsoft's Github posts message celebrating efforts to port PlayStation 5 version of Grand Theft Auto 6 to PC, then quickly deletes it",
+    "source": "PC Gamer",
+    "summary": "Guess who just got yelled at?",
+    "date": "Thu, 26 Nov 2026 22:29:06 +0000",
+    "link": "https://www.pcgamer.com/games/microsofts-github-posts-message-celebrating-efforts-to-port-playstation-5-version-of-grand-theft-auto-6-to-pc-then-quickly-deletes-it/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.42,
+      "badge": "success"
+    },
+    "tags": [
+      "PlayStation"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 16,
+    "title": "WoW: Forever min-maxers are upset that its 40-player PvP mode now actually requires PvP to win",
+    "source": "PC Gamer",
+    "summary": "Blizzard's latest patch prevents Alterac Valley from being a glorified reputation farm.",
+    "date": "Thu, 26 Nov 2026 22:05:00 +0000",
+    "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-min-maxers-are-upset-that-its-40-player-pvp-mode-now-actually-requires-pvp-to-win/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.35,
+      "badge": "success"
+    },
+    "tags": [
+      "Patch"
     ],
     "read_time": "1 min read"
   },
   {
     "id": 17,
+    "title": "Rockstar Games Has A GTA 6 Hit On Its Hands, But Its Union Vote Is A Loss",
+    "source": "GameSpot",
+    "summary": "Roughly 75% of Rockstar Games staff in the UK have voted against a formal recognition agreement with the Independent Workers' Union of Great Britain (IWGB). The news came in the wake of GTA 6's record-breaking launch, and had the IWGB been recognized, Rockstar Games management would have been legall...",
+    "date": "Thu, 26 Nov 2026 17:05:21 +0000",
+    "link": "https://www.gamespot.com/articles/rockstar-games-has-a-gta-6-hit-on-its-hands-but-its-union-vote-is-a-loss/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.23,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 18,
+    "title": "Help Out Some Bumbling Penguins With This Week’s Epic Games Store Freebie",
+    "source": "GameSpot",
+    "summary": "The Epic Games Store continues to give away a free game each week, and this week's offering is another nice find at a price that can't be beat. Every Thursday at 8 AM PT / 11 AM ET, Epic offers at least one free PC game (and sometimes even as many as two or three). All you need to do to claim the fr...",
+    "date": "Thu, 18 Jun 2026 15:01:00 +0000",
+    "link": "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/",
+    "sentiment": {
+      "label": "Positive / Hype",
+      "score": 0.11,
+      "badge": "success"
+    },
+    "tags": [
+      "Gaming",
+      "News"
+    ],
+    "read_time": "1 min read"
+  },
+  {
+    "id": 19,
     "title": "GTA 6’s Furry Rescue Mission Is A Little Weird, But The Rewards Are Worth It",
     "source": "GameSpot",
     "summary": "No matter what you do in GTA 6, it pales in comparison to being a Furry in that game. Anyone looking to externalize their inner animal spirit is in danger of being hunted, and you'll find out for yourself just how much the fictional state of Leonida hates Furries when you're given the chance to save...",
@@ -299,13 +332,13 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   },
   {
-    "id": 18,
+    "id": 20,
     "title": "Mario, Pikachu, And Other Gaming Icon Balloons Won’t Be Flying This Thanksgiving",
     "source": "GameSpot",
     "summary": "New York City is no stranger to bad weather, be it blazing-hot summers, snow-packed winters, or fierce windstorms. Unfortunately for countless families who have made it a holiday tradition to turn on the TV and watch giant totems of pop culture sail in the streets of the great city, the Macy's Thank...",
@@ -317,43 +350,8 @@
       "badge": "info"
     },
     "tags": [
-      "News",
-      "Gaming"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 19,
-    "title": "Three Years After His Death, EA Is Using AI To Bring Back A Famed Commentator In FC 27",
-    "source": "GameSpot",
-    "summary": "EA Sports FC 27 is adding an AI-generated commentator for the first time in the series' history, with famed British commentator John Motson having his voice synthesized for the football title.\nMotson, who passed way in 2023, previously provided commentary for EA's FIFA series, appearing in the game'...",
-    "date": "Wed, 25 Nov 2026 18:59:56 +0000",
-    "link": "https://www.gamespot.com/articles/three-years-after-his-death-ea-is-using-ai-to-bring-back-a-famed-commentator-in-fc-27/",
-    "sentiment": {
-      "label": "Neutral / Informative",
-      "score": -0.06,
-      "badge": "info"
-    },
-    "tags": [
-      "AI"
-    ],
-    "read_time": "1 min read"
-  },
-  {
-    "id": 20,
-    "title": "Diablo 4’s Most Nostalgic Season Is Becoming (Mostly) Permanent",
-    "source": "GameSpot",
-    "summary": "Diablo 4 is gearing up for the arrival of Season 16, but it won't be leaving its popular previous season behind entirely.\nAs detailed by Blizzard in a breakdown of the upcoming Season of Tyrael's Gambit, much of the previous season, Hell's Legacy, will become a permanent part of Diablo 4 going forwa...",
-    "date": "Wed, 25 Nov 2026 18:29:11 +0000",
-    "link": "https://www.gamespot.com/articles/diablo-4s-most-nostalgic-season-is-becoming-mostly-permanent/",
-    "sentiment": {
-      "label": "Positive / Hype",
-      "score": 0.14,
-      "badge": "success"
-    },
-    "tags": [
-      "News",
-      "Gaming"
+      "Gaming",
+      "News"
     ],
     "read_time": "1 min read"
   }
